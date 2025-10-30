@@ -126,7 +126,7 @@ async function scrapeState(page, state, includeAllMunicipios = false) {
 async function main() {
   console.log('🚀 Starting SEP Scraper\n');
 
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: false });
   const context = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
   });
