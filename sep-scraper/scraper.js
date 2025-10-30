@@ -140,7 +140,7 @@ async function main() {
 
     // Test with first state only
     const testState = states[0]; // Aguascalientes
-    const data = await scrapeState(page, testState, false);
+    const data = await scrapeState(page, testState, true);
 
     // Save to file
     const filename = `${OUTPUT_DIR}/${testState.name.toLowerCase().replace(/\s+/g, '_')}.json`;
@@ -152,7 +152,7 @@ async function main() {
     // Uncomment below to scrape ALL states
     /*
     for (const state of states) {
-      const data = await scrapeState(page, state, false);
+      const data = await scrapeState(page, state, true);
       const filename = `${OUTPUT_DIR}/${state.name.toLowerCase().replace(/\s+/g, '_')}.json`;
       writeFileSync(filename, JSON.stringify(data, null, 2));
       console.log(`✅ Saved: ${filename}`);
