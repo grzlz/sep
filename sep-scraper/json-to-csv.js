@@ -17,52 +17,37 @@ function escapeCSV(value) {
 
 // Helper: Clean number strings (remove commas from "1,522" → "1522")
 function cleanNumber(str) {
-  return str.replace(/,/g, '');
+  if (!str) return '';
+  return String(str).replace(/,/g, '');
 }
 
 // Helper: Parse table data into rows
 function parseTableData(tableData) {
   const rows = [];
 
-  // Find which sub-array has the clean data
-  // Usually it's the one that's a flat array of cells
-  let flatData = null;
-
-  for (const item of tableData) {
-    if (Array.isArray(item) && item.length > 6) {
-      // This looks like the flat array with all cells
-      flatData = item;
-      break;
+  // tableData is an array of arrays
+  // Each sub-array with length 6 is potentially a data row
+  for (const arr of tableData) {
+    // Only process arrays with exactly 6 elements
+    if (!Array.isArray(arr) || arr.length !== 6) {
+      continue;
     }
-  }
 
-  if (!flatData) return rows;
+    const locality = arr[0];
+    const schools = arr[1];
+    const students = arr[2];
+    const studentsFemale = arr[3];
+    const studentsMale = arr[4];
+    const teachers = arr[5];
 
-  // Skip header rows (they contain "Localidad", "Escuelas", etc.)
-  // Start after we find the header
-  let dataStartIndex = 0;
-  for (let i = 0; i < flatData.length; i++) {
-    if (flatData[i] === 'Localidad' || flatData[i].includes('Localidad')) {
-      dataStartIndex = i + 6; // Skip the 6 header cells
-      break;
-    }
-  }
-
-  // Now parse every 6 elements as one row
-  for (let i = dataStartIndex; i < flatData.length; i += 6) {
-    const locality = flatData[i];
-    const schools = flatData[i + 1];
-    const students = flatData[i + 2];
-    const studentsFemale = flatData[i + 3];
-    const studentsMale = flatData[i + 4];
-    const teachers = flatData[i + 5];
-
-    // Stop at TOTAL row or footnotes
+    // Skip header row and totals/footnotes
     if (!locality ||
+        locality === 'Localidad' ||
+        locality.includes('Localidad') ||
         locality.includes('TOTAL') ||
         locality.includes('¹') ||
         locality.includes('Fuente:')) {
-      break;
+      continue;
     }
 
     rows.push({
@@ -98,9 +83,10 @@ function jsonToCSV() {
   const csvRows = [header.join(',')];
   let totalRows = 0;
 
-  // Read all JSON files
-  const files = readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-  console.log(`Found ${files.length} JSON files\n`);
+  // Read all JSON files (or just test with one)
+  // const files = readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
+  const files = ['baja_california_sur.json']; // TEST: Just one file
+  console.log(`Processing ${files.length} JSON file(s)\n`);
 
   for (const file of files) {
     console.log(`Processing: ${file}`);
