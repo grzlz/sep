@@ -1,0 +1,17 @@
+{
+  "name": "sep-scraper",
+  "version": "1.0.0",
+  "description": "Scraper para datos de Principales Cifras del SEP",
+  "type": "module",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "install-browser": "npx playwright install chromium"
+  },
+  "keywords": ["sep", "scraper", "playwright", "mexico", "education"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}

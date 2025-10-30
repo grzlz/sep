@@ -1,0 +1,43 @@
+graph TB
+    subgraph "API Pública - Funciones principales"
+        A[main]
+        B[scrapeState<br/>page, state, includeAllMunicipios]
+        C[getStates<br/>page]
+        D[getMunicipios<br/>page]
+        E[extractTableData<br/>page]
+    end
+
+    subgraph "Parámetros de entrada"
+        F[page: PlaywrightPage]
+        G[state: &#123;value, name&#125;]
+        H[includeAllMunicipios: boolean]
+    end
+
+    subgraph "Retorno de datos"
+        I[Array&lt;State&gt;<br/>&#123;value, name&#125;]
+        J[Array&lt;Municipio&gt;<br/>&#123;value, name&#125;]
+        K[Array&lt;Table&gt;<br/>&#123;tableIndex, data&#125;]
+        L[StateData<br/>&#123;state, stateCode, tables, timestamp&#125;]
+    end
+
+    A -->|Orquesta| B
+    A -->|Obtiene lista| C
+    B -->|Consulta municipios| D
+    B -->|Extrae resultados| E
+
+    B -.->|Requiere| F
+    B -.->|Requiere| G
+    B -.->|Requiere| H
+
+    C -->|Retorna| I
+    D -->|Retorna| J
+    E -->|Retorna| K
+    B -->|Retorna| L
+
+    style A fill:#4CAF50,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#9C27B0,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#9C27B0,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#9C27B0,stroke:#333,stroke-width:2px,color:#fff
+
+    style L fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff

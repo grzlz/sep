@@ -1,0 +1,29 @@
+graph TB
+    subgraph "Entorno local"
+        A[scraper.js]
+        B[Playwright Browser<br/>Chromium]
+        C[Sistema de archivos]
+        D[data/*.json]
+    end
+
+    subgraph "Internet"
+        E[SEP Website<br/>planeacion.sep.gob.mx]
+        F[Formularios ASP.NET<br/>ViewState + EventValidation]
+        G[Tablas HTML<br/>Estadísticas educativas]
+    end
+
+    A -->|Inicia navegador| B
+    B -->|Navega a URL| E
+    E -->|Renderiza| F
+    B -->|Selecciona estado/municipio| F
+    F -->|Submit form| E
+    E -->|Responde con| G
+    B -->|Extrae datos| G
+    A -->|Parsea tablas| G
+    A -->|Escribe JSON| C
+    C -->|Almacena| D
+
+    style A fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#FFC107,stroke:#333,stroke-width:2px

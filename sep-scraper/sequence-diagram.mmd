@@ -1,0 +1,45 @@
+sequenceDiagram
+    participant S as scraper.js
+    participant P as Playwright
+    participant W as SEP Website
+    participant FS as File System
+
+    Note over S,FS: Inicialización
+    S->>P: chromium.launch()
+    P-->>S: Browser instance
+    S->>P: newContext() + newPage()
+
+    Note over S,FS: Obtener lista de estados
+    S->>P: goto(BASE_URL)
+    P->>W: GET /principalescifras/
+    W-->>P: HTML con formulario
+    S->>P: evaluate() - getStates()
+    P-->>S: Lista de 32 estados
+
+    Note over S,FS: Scraping por estado
+    loop Para cada estado
+        S->>P: goto(BASE_URL)
+        P->>W: GET /principalescifras/
+        W-->>P: HTML inicial
+
+        S->>P: selectOption('DDLEntidad', stateCode)
+        P->>W: POST con ViewState
+        W-->>P: Municipios actualizados
+
+        S->>P: selectOption('DDLMunicipio', 'Todos')
+        S->>P: click('Button1')
+        P->>W: POST submit form
+        W-->>P: HTML con tablas de resultados
+
+        S->>P: evaluate() - extractTableData()
+        P-->>S: Arrays con datos parseados
+
+        S->>FS: writeFileSync(estado.json)
+        FS-->>S: Archivo guardado
+    end
+
+    Note over S,FS: Finalización
+    S->>P: browser.close()
+    P-->>S: Navegador cerrado
+
+    Note over S: ✨ Scraping completo
