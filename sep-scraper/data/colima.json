@@ -1,0 +1,4675 @@
+{
+  "state": "COLIMA",
+  "stateCode": "6",
+  "allMunicipalities": [
+    {
+      "municipality": "ARMERÍA",
+      "municipalityCode": "001",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAUGUSTO GÓMEZ VILLANUEVA (COALATILLA)\n\t\t4\n\t\t423\n\t\t210\n\t\t213\n\t\t21\n\t\n\t\n\t\tCIUDAD DE ARMERÍA\n\t\t24\n\t\t3,126\n\t\t1,571\n\t\t1,555\n\t\t204\n\t\n\t\n\t\tCOFRADÍA DE JUÁREZ\n\t\t11\n\t\t1,246\n\t\t643\n\t\t603\n\t\t84\n\t\n\t\n\t\tCUYUTLÁN\n\t\t4\n\t\t280\n\t\t151\n\t\t129\n\t\t15\n\t\n\t\n\t\tEL PARAÍSO [BALNEARIO]\n\t\t2\n\t\t8\n\t\t2\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL PUERTECITO\n\t\t2\n\t\t85\n\t\t41\n\t\t44\n\t\t4\n\t\n\t\n\t\tLA ATRAVESADA\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tLOS REYES (ZORRILLOS)\n\t\t4\n\t\t150\n\t\t56\n\t\t94\n\t\t13\n\t\n\t\n\t\tRINCÓN DE LÓPEZ\n\t\t5\n\t\t528\n\t\t264\n\t\t264\n\t\t30\n\t\n\t\n\t\tTOTAL\n\t\t57\n\t\t5,849\n\t\t2,940\n\t\t2,909\n\t\t374\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+              "4",
+              "423",
+              "210",
+              "213",
+              "21",
+              "CIUDAD DE ARMERÍA",
+              "24",
+              "3,126",
+              "1,571",
+              "1,555",
+              "204",
+              "COFRADÍA DE JUÁREZ",
+              "11",
+              "1,246",
+              "643",
+              "603",
+              "84",
+              "CUYUTLÁN",
+              "4",
+              "280",
+              "151",
+              "129",
+              "15",
+              "EL PARAÍSO [BALNEARIO]",
+              "2",
+              "8",
+              "2",
+              "6",
+              "2",
+              "EL PUERTECITO",
+              "2",
+              "85",
+              "41",
+              "44",
+              "4",
+              "LA ATRAVESADA",
+              "1",
+              "3",
+              "2",
+              "1",
+              "1",
+              "LOS REYES (ZORRILLOS)",
+              "4",
+              "150",
+              "56",
+              "94",
+              "13",
+              "RINCÓN DE LÓPEZ",
+              "5",
+              "528",
+              "264",
+              "264",
+              "30",
+              "TOTAL",
+              "57",
+              "5,849",
+              "2,940",
+              "2,909",
+              "374",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+              "4",
+              "423",
+              "210",
+              "213",
+              "21"
+            ],
+            [
+              "CIUDAD DE ARMERÍA",
+              "24",
+              "3,126",
+              "1,571",
+              "1,555",
+              "204"
+            ],
+            [
+              "COFRADÍA DE JUÁREZ",
+              "11",
+              "1,246",
+              "643",
+              "603",
+              "84"
+            ],
+            [
+              "CUYUTLÁN",
+              "4",
+              "280",
+              "151",
+              "129",
+              "15"
+            ],
+            [
+              "EL PARAÍSO [BALNEARIO]",
+              "2",
+              "8",
+              "2",
+              "6",
+              "2"
+            ],
+            [
+              "EL PUERTECITO",
+              "2",
+              "85",
+              "41",
+              "44",
+              "4"
+            ],
+            [
+              "LA ATRAVESADA",
+              "1",
+              "3",
+              "2",
+              "1",
+              "1"
+            ],
+            [
+              "LOS REYES (ZORRILLOS)",
+              "4",
+              "150",
+              "56",
+              "94",
+              "13"
+            ],
+            [
+              "RINCÓN DE LÓPEZ",
+              "5",
+              "528",
+              "264",
+              "264",
+              "30"
+            ],
+            [
+              "TOTAL",
+              "57",
+              "5,849",
+              "2,940",
+              "2,909",
+              "374"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+              "4",
+              "423",
+              "210",
+              "213",
+              "21"
+            ],
+            [
+              "CIUDAD DE ARMERÍA",
+              "24",
+              "3,126",
+              "1,571",
+              "1,555",
+              "204"
+            ],
+            [
+              "COFRADÍA DE JUÁREZ",
+              "11",
+              "1,246",
+              "643",
+              "603",
+              "84"
+            ],
+            [
+              "CUYUTLÁN",
+              "4",
+              "280",
+              "151",
+              "129",
+              "15"
+            ],
+            [
+              "EL PARAÍSO [BALNEARIO]",
+              "2",
+              "8",
+              "2",
+              "6",
+              "2"
+            ],
+            [
+              "EL PUERTECITO",
+              "2",
+              "85",
+              "41",
+              "44",
+              "4"
+            ],
+            [
+              "LA ATRAVESADA",
+              "1",
+              "3",
+              "2",
+              "1",
+              "1"
+            ],
+            [
+              "LOS REYES (ZORRILLOS)",
+              "4",
+              "150",
+              "56",
+              "94",
+              "13"
+            ],
+            [
+              "RINCÓN DE LÓPEZ",
+              "5",
+              "528",
+              "264",
+              "264",
+              "30"
+            ],
+            [
+              "TOTAL",
+              "57",
+              "5,849",
+              "2,940",
+              "2,909",
+              "374"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "COLIMA",
+      "municipalityCode": "002",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COLIMA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATITÁN\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t3\n\t\n\t\n\t\tCARDONA\n\t\t2\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tCOLIMA\n\t\t337\n\t\t51,790\n\t\t27,308\n\t\t24,482\n\t\t5,084\n\t\n\t\n\t\tEL ALPUYEQUITO\n\t\t2\n\t\t25\n\t\t14\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL AMARRADERO\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL ASTILLERO DE ABAJO\n\t\t3\n\t\t57\n\t\t29\n\t\t28\n\t\t6\n\t\n\t\n\t\tEL ASTILLERO DE ARRIBA\n\t\t2\n\t\t33\n\t\t12\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL BORDO\n\t\t2\n\t\t21\n\t\t4\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL CHANAL\n\t\t4\n\t\t225\n\t\t118\n\t\t107\n\t\t16\n\t\n\t\n\t\tESTAPILLA\n\t\t4\n\t\t98\n\t\t50\n\t\t48\n\t\t9\n\t\n\t\n\t\tLAS GOLONDRINAS\n\t\t2\n\t\t26\n\t\t8\n\t\t18\n\t\t2\n\t\n\t\n\t\tLAS GUÁSIMAS (LAS BORREGAS)\n\t\t4\n\t\t156\n\t\t81\n\t\t75\n\t\t11\n\t\n\t\n\t\tLAS TUNAS\n\t\t3\n\t\t74\n\t\t33\n\t\t41\n\t\t6\n\t\n\t\n\t\tLOMA DE JUÁREZ (EL MEZQUITE)\n\t\t3\n\t\t76\n\t\t42\n\t\t34\n\t\t5\n\t\n\t\n\t\tLOS ASMOLES\n\t\t4\n\t\t192\n\t\t101\n\t\t91\n\t\t15\n\t\n\t\n\t\tLOS ORTICES\n\t\t3\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tLOS TEPAMES\n\t\t5\n\t\t379\n\t\t192\n\t\t187\n\t\t34\n\t\n\t\n\t\tPISCILA\n\t\t4\n\t\t263\n\t\t126\n\t\t137\n\t\t20\n\t\n\t\n\t\tPUERTA DE ÁNZAR\n\t\t2\n\t\t46\n\t\t18\n\t\t28\n\t\t3\n\t\n\t\n\t\tTINAJAS\n\t\t2\n\t\t23\n\t\t12\n\t\t11\n\t\t3\n\t\n\t\n\t\tTRAPICHILLOS\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tVEINTE ZM\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t395\n\t\t53,634\n\t\t28,226\n\t\t25,408\n\t\t5,236\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COLIMA",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "ACATITÁN",
+              "2",
+              "29",
+              "15",
+              "14",
+              "3",
+              "CARDONA",
+              "2",
+              "37",
+              "17",
+              "20",
+              "3",
+              "COLIMA",
+              "337",
+              "51,790",
+              "27,308",
+              "24,482",
+              "5,084",
+              "EL ALPUYEQUITO",
+              "2",
+              "25",
+              "14",
+              "11",
+              "2",
+              "EL AMARRADERO",
+              "2",
+              "21",
+              "13",
+              "8",
+              "2",
+              "EL ASTILLERO DE ABAJO",
+              "3",
+              "57",
+              "29",
+              "28",
+              "6",
+              "EL ASTILLERO DE ARRIBA",
+              "2",
+              "33",
+              "12",
+              "21",
+              "3",
+              "EL BORDO",
+              "2",
+              "21",
+              "4",
+              "17",
+              "2",
+              "EL CHANAL",
+              "4",
+              "225",
+              "118",
+              "107",
+              "16",
+              "ESTAPILLA",
+              "4",
+              "98",
+              "50",
+              "48",
+              "9",
+              "LAS GOLONDRINAS",
+              "2",
+              "26",
+              "8",
+              "18",
+              "2",
+              "LAS GUÁSIMAS (LAS BORREGAS)",
+              "4",
+              "156",
+              "81",
+              "75",
+              "11",
+              "LAS TUNAS",
+              "3",
+              "74",
+              "33",
+              "41",
+              "6",
+              "LOMA DE JUÁREZ (EL MEZQUITE)",
+              "3",
+              "76",
+              "42",
+              "34",
+              "5",
+              "LOS ASMOLES",
+              "4",
+              "192",
+              "101",
+              "91",
+              "15",
+              "LOS ORTICES",
+              "3",
+              "28",
+              "16",
+              "12",
+              "3",
+              "LOS TEPAMES",
+              "5",
+              "379",
+              "192",
+              "187",
+              "34",
+              "PISCILA",
+              "4",
+              "263",
+              "126",
+              "137",
+              "20",
+              "PUERTA DE ÁNZAR",
+              "2",
+              "46",
+              "18",
+              "28",
+              "3",
+              "TINAJAS",
+              "2",
+              "23",
+              "12",
+              "11",
+              "3",
+              "TRAPICHILLOS",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2",
+              "VEINTE ZM",
+              "1",
+              "17",
+              "7",
+              "10",
+              "2",
+              "TOTAL",
+              "395",
+              "53,634",
+              "28,226",
+              "25,408",
+              "5,236",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COLIMA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ACATITÁN",
+              "2",
+              "29",
+              "15",
+              "14",
+              "3"
+            ],
+            [
+              "CARDONA",
+              "2",
+              "37",
+              "17",
+              "20",
+              "3"
+            ],
+            [
+              "COLIMA",
+              "337",
+              "51,790",
+              "27,308",
+              "24,482",
+              "5,084"
+            ],
+            [
+              "EL ALPUYEQUITO",
+              "2",
+              "25",
+              "14",
+              "11",
+              "2"
+            ],
+            [
+              "EL AMARRADERO",
+              "2",
+              "21",
+              "13",
+              "8",
+              "2"
+            ],
+            [
+              "EL ASTILLERO DE ABAJO",
+              "3",
+              "57",
+              "29",
+              "28",
+              "6"
+            ],
+            [
+              "EL ASTILLERO DE ARRIBA",
+              "2",
+              "33",
+              "12",
+              "21",
+              "3"
+            ],
+            [
+              "EL BORDO",
+              "2",
+              "21",
+              "4",
+              "17",
+              "2"
+            ],
+            [
+              "EL CHANAL",
+              "4",
+              "225",
+              "118",
+              "107",
+              "16"
+            ],
+            [
+              "ESTAPILLA",
+              "4",
+              "98",
+              "50",
+              "48",
+              "9"
+            ],
+            [
+              "LAS GOLONDRINAS",
+              "2",
+              "26",
+              "8",
+              "18",
+              "2"
+            ],
+            [
+              "LAS GUÁSIMAS (LAS BORREGAS)",
+              "4",
+              "156",
+              "81",
+              "75",
+              "11"
+            ],
+            [
+              "LAS TUNAS",
+              "3",
+              "74",
+              "33",
+              "41",
+              "6"
+            ],
+            [
+              "LOMA DE JUÁREZ (EL MEZQUITE)",
+              "3",
+              "76",
+              "42",
+              "34",
+              "5"
+            ],
+            [
+              "LOS ASMOLES",
+              "4",
+              "192",
+              "101",
+              "91",
+              "15"
+            ],
+            [
+              "LOS ORTICES",
+              "3",
+              "28",
+              "16",
+              "12",
+              "3"
+            ],
+            [
+              "LOS TEPAMES",
+              "5",
+              "379",
+              "192",
+              "187",
+              "34"
+            ],
+            [
+              "PISCILA",
+              "4",
+              "263",
+              "126",
+              "137",
+              "20"
+            ],
+            [
+              "PUERTA DE ÁNZAR",
+              "2",
+              "46",
+              "18",
+              "28",
+              "3"
+            ],
+            [
+              "TINAJAS",
+              "2",
+              "23",
+              "12",
+              "11",
+              "3"
+            ],
+            [
+              "TRAPICHILLOS",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2"
+            ],
+            [
+              "VEINTE ZM",
+              "1",
+              "17",
+              "7",
+              "10",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "395",
+              "53,634",
+              "28,226",
+              "25,408",
+              "5,236"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COLIMA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ACATITÁN",
+              "2",
+              "29",
+              "15",
+              "14",
+              "3"
+            ],
+            [
+              "CARDONA",
+              "2",
+              "37",
+              "17",
+              "20",
+              "3"
+            ],
+            [
+              "COLIMA",
+              "337",
+              "51,790",
+              "27,308",
+              "24,482",
+              "5,084"
+            ],
+            [
+              "EL ALPUYEQUITO",
+              "2",
+              "25",
+              "14",
+              "11",
+              "2"
+            ],
+            [
+              "EL AMARRADERO",
+              "2",
+              "21",
+              "13",
+              "8",
+              "2"
+            ],
+            [
+              "EL ASTILLERO DE ABAJO",
+              "3",
+              "57",
+              "29",
+              "28",
+              "6"
+            ],
+            [
+              "EL ASTILLERO DE ARRIBA",
+              "2",
+              "33",
+              "12",
+              "21",
+              "3"
+            ],
+            [
+              "EL BORDO",
+              "2",
+              "21",
+              "4",
+              "17",
+              "2"
+            ],
+            [
+              "EL CHANAL",
+              "4",
+              "225",
+              "118",
+              "107",
+              "16"
+            ],
+            [
+              "ESTAPILLA",
+              "4",
+              "98",
+              "50",
+              "48",
+              "9"
+            ],
+            [
+              "LAS GOLONDRINAS",
+              "2",
+              "26",
+              "8",
+              "18",
+              "2"
+            ],
+            [
+              "LAS GUÁSIMAS (LAS BORREGAS)",
+              "4",
+              "156",
+              "81",
+              "75",
+              "11"
+            ],
+            [
+              "LAS TUNAS",
+              "3",
+              "74",
+              "33",
+              "41",
+              "6"
+            ],
+            [
+              "LOMA DE JUÁREZ (EL MEZQUITE)",
+              "3",
+              "76",
+              "42",
+              "34",
+              "5"
+            ],
+            [
+              "LOS ASMOLES",
+              "4",
+              "192",
+              "101",
+              "91",
+              "15"
+            ],
+            [
+              "LOS ORTICES",
+              "3",
+              "28",
+              "16",
+              "12",
+              "3"
+            ],
+            [
+              "LOS TEPAMES",
+              "5",
+              "379",
+              "192",
+              "187",
+              "34"
+            ],
+            [
+              "PISCILA",
+              "4",
+              "263",
+              "126",
+              "137",
+              "20"
+            ],
+            [
+              "PUERTA DE ÁNZAR",
+              "2",
+              "46",
+              "18",
+              "28",
+              "3"
+            ],
+            [
+              "TINAJAS",
+              "2",
+              "23",
+              "12",
+              "11",
+              "3"
+            ],
+            [
+              "TRAPICHILLOS",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2"
+            ],
+            [
+              "VEINTE ZM",
+              "1",
+              "17",
+              "7",
+              "10",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "395",
+              "53,634",
+              "28,226",
+              "25,408",
+              "5,236"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "COMALA",
+      "municipalityCode": "003",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGOSTO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tCAMPO CUATRO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOFRADÍA DE SUCHITLÁN\n\t\t3\n\t\t291\n\t\t147\n\t\t144\n\t\t18\n\t\n\t\n\t\tCOMALA\n\t\t16\n\t\t2,745\n\t\t1,382\n\t\t1,363\n\t\t224\n\t\n\t\n\t\tEL REMUDADERO\n\t\t2\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA BECERRERA\n\t\t3\n\t\t45\n\t\t25\n\t\t20\n\t\t5\n\t\n\t\n\t\tLA CAJA\n\t\t4\n\t\t223\n\t\t100\n\t\t123\n\t\t15\n\t\n\t\n\t\tLA LOMA DEL CAMICHÍN\n\t\t3\n\t\t14\n\t\t5\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA NOGALERA\n\t\t3\n\t\t83\n\t\t38\n\t\t45\n\t\t7\n\t\n\t\n\t\tLOS COLOMOS\n\t\t4\n\t\t102\n\t\t43\n\t\t59\n\t\t7\n\t\n\t\n\t\tNOGUERAS\n\t\t1\n\t\t59\n\t\t24\n\t\t35\n\t\t4\n\t\n\t\n\t\tSUCHITLÁN\n\t\t6\n\t\t1,154\n\t\t570\n\t\t584\n\t\t71\n\t\n\t\n\t\tZACUALPAN\n\t\t4\n\t\t483\n\t\t259\n\t\t224\n\t\t28\n\t\n\t\n\t\tTOTAL\n\t\t52\n\t\t5,272\n\t\t2,633\n\t\t2,639\n\t\t388\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AGOSTO",
+              "2",
+              "27",
+              "13",
+              "14",
+              "2",
+              "CAMPO CUATRO",
+              "1",
+              "4",
+              "3",
+              "1",
+              "1",
+              "COFRADÍA DE SUCHITLÁN",
+              "3",
+              "291",
+              "147",
+              "144",
+              "18",
+              "COMALA",
+              "16",
+              "2,745",
+              "1,382",
+              "1,363",
+              "224",
+              "EL REMUDADERO",
+              "2",
+              "42",
+              "24",
+              "18",
+              "3",
+              "LA BECERRERA",
+              "3",
+              "45",
+              "25",
+              "20",
+              "5",
+              "LA CAJA",
+              "4",
+              "223",
+              "100",
+              "123",
+              "15",
+              "LA LOMA DEL CAMICHÍN",
+              "3",
+              "14",
+              "5",
+              "9",
+              "3",
+              "LA NOGALERA",
+              "3",
+              "83",
+              "38",
+              "45",
+              "7",
+              "LOS COLOMOS",
+              "4",
+              "102",
+              "43",
+              "59",
+              "7",
+              "NOGUERAS",
+              "1",
+              "59",
+              "24",
+              "35",
+              "4",
+              "SUCHITLÁN",
+              "6",
+              "1,154",
+              "570",
+              "584",
+              "71",
+              "ZACUALPAN",
+              "4",
+              "483",
+              "259",
+              "224",
+              "28",
+              "TOTAL",
+              "52",
+              "5,272",
+              "2,633",
+              "2,639",
+              "388",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGOSTO",
+              "2",
+              "27",
+              "13",
+              "14",
+              "2"
+            ],
+            [
+              "CAMPO CUATRO",
+              "1",
+              "4",
+              "3",
+              "1",
+              "1"
+            ],
+            [
+              "COFRADÍA DE SUCHITLÁN",
+              "3",
+              "291",
+              "147",
+              "144",
+              "18"
+            ],
+            [
+              "COMALA",
+              "16",
+              "2,745",
+              "1,382",
+              "1,363",
+              "224"
+            ],
+            [
+              "EL REMUDADERO",
+              "2",
+              "42",
+              "24",
+              "18",
+              "3"
+            ],
+            [
+              "LA BECERRERA",
+              "3",
+              "45",
+              "25",
+              "20",
+              "5"
+            ],
+            [
+              "LA CAJA",
+              "4",
+              "223",
+              "100",
+              "123",
+              "15"
+            ],
+            [
+              "LA LOMA DEL CAMICHÍN",
+              "3",
+              "14",
+              "5",
+              "9",
+              "3"
+            ],
+            [
+              "LA NOGALERA",
+              "3",
+              "83",
+              "38",
+              "45",
+              "7"
+            ],
+            [
+              "LOS COLOMOS",
+              "4",
+              "102",
+              "43",
+              "59",
+              "7"
+            ],
+            [
+              "NOGUERAS",
+              "1",
+              "59",
+              "24",
+              "35",
+              "4"
+            ],
+            [
+              "SUCHITLÁN",
+              "6",
+              "1,154",
+              "570",
+              "584",
+              "71"
+            ],
+            [
+              "ZACUALPAN",
+              "4",
+              "483",
+              "259",
+              "224",
+              "28"
+            ],
+            [
+              "TOTAL",
+              "52",
+              "5,272",
+              "2,633",
+              "2,639",
+              "388"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGOSTO",
+              "2",
+              "27",
+              "13",
+              "14",
+              "2"
+            ],
+            [
+              "CAMPO CUATRO",
+              "1",
+              "4",
+              "3",
+              "1",
+              "1"
+            ],
+            [
+              "COFRADÍA DE SUCHITLÁN",
+              "3",
+              "291",
+              "147",
+              "144",
+              "18"
+            ],
+            [
+              "COMALA",
+              "16",
+              "2,745",
+              "1,382",
+              "1,363",
+              "224"
+            ],
+            [
+              "EL REMUDADERO",
+              "2",
+              "42",
+              "24",
+              "18",
+              "3"
+            ],
+            [
+              "LA BECERRERA",
+              "3",
+              "45",
+              "25",
+              "20",
+              "5"
+            ],
+            [
+              "LA CAJA",
+              "4",
+              "223",
+              "100",
+              "123",
+              "15"
+            ],
+            [
+              "LA LOMA DEL CAMICHÍN",
+              "3",
+              "14",
+              "5",
+              "9",
+              "3"
+            ],
+            [
+              "LA NOGALERA",
+              "3",
+              "83",
+              "38",
+              "45",
+              "7"
+            ],
+            [
+              "LOS COLOMOS",
+              "4",
+              "102",
+              "43",
+              "59",
+              "7"
+            ],
+            [
+              "NOGUERAS",
+              "1",
+              "59",
+              "24",
+              "35",
+              "4"
+            ],
+            [
+              "SUCHITLÁN",
+              "6",
+              "1,154",
+              "570",
+              "584",
+              "71"
+            ],
+            [
+              "ZACUALPAN",
+              "4",
+              "483",
+              "259",
+              "224",
+              "28"
+            ],
+            [
+              "TOTAL",
+              "52",
+              "5,272",
+              "2,633",
+              "2,639",
+              "388"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "COQUIMATLÁN",
+      "municipalityCode": "004",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COQUIMATLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA ZARCA\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tCOQUIMATLÁN\n\t\t24\n\t\t5,497\n\t\t2,431\n\t\t3,066\n\t\t476\n\t\n\t\n\t\tCRUZ DE PIEDRA\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL ALCOMÚN (LUIS ECHEVERRÍA ÁLVAREZ)\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ALGODONAL\n\t\t2\n\t\t14\n\t\t10\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL CHICAL\n\t\t4\n\t\t118\n\t\t65\n\t\t53\n\t\t10\n\t\n\t\n\t\tEL COLOMO\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL POBLADO\n\t\t2\n\t\t32\n\t\t16\n\t\t16\n\t\t3\n\t\n\t\n\t\tJALA\n\t\t3\n\t\t87\n\t\t44\n\t\t43\n\t\t8\n\t\n\t\n\t\tLA ESPERANZA\n\t\t4\n\t\t176\n\t\t88\n\t\t88\n\t\t11\n\t\n\t\n\t\tLA SIDRA\n\t\t3\n\t\t35\n\t\t16\n\t\t19\n\t\t5\n\t\n\t\n\t\tLOS LIMONES\n\t\t2\n\t\t32\n\t\t20\n\t\t12\n\t\t4\n\t\n\t\n\t\tPUEBLO JUÁREZ (LA MAGDALENA)\n\t\t4\n\t\t450\n\t\t240\n\t\t210\n\t\t34\n\t\n\t\n\t\tTOTAL\n\t\t54\n\t\t6,507\n\t\t2,963\n\t\t3,544\n\t\t560\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COQUIMATLÁN",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AGUA ZARCA",
+              "2",
+              "37",
+              "20",
+              "17",
+              "3",
+              "COQUIMATLÁN",
+              "24",
+              "5,497",
+              "2,431",
+              "3,066",
+              "476",
+              "CRUZ DE PIEDRA",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2",
+              "EL ALCOMÚN (LUIS ECHEVERRÍA ÁLVAREZ)",
+              "1",
+              "3",
+              "0",
+              "3",
+              "1",
+              "EL ALGODONAL",
+              "2",
+              "14",
+              "10",
+              "4",
+              "2",
+              "EL CHICAL",
+              "4",
+              "118",
+              "65",
+              "53",
+              "10",
+              "EL COLOMO",
+              "1",
+              "8",
+              "3",
+              "5",
+              "1",
+              "EL POBLADO",
+              "2",
+              "32",
+              "16",
+              "16",
+              "3",
+              "JALA",
+              "3",
+              "87",
+              "44",
+              "43",
+              "8",
+              "LA ESPERANZA",
+              "4",
+              "176",
+              "88",
+              "88",
+              "11",
+              "LA SIDRA",
+              "3",
+              "35",
+              "16",
+              "19",
+              "5",
+              "LOS LIMONES",
+              "2",
+              "32",
+              "20",
+              "12",
+              "4",
+              "PUEBLO JUÁREZ (LA MAGDALENA)",
+              "4",
+              "450",
+              "240",
+              "210",
+              "34",
+              "TOTAL",
+              "54",
+              "6,507",
+              "2,963",
+              "3,544",
+              "560",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COQUIMATLÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA ZARCA",
+              "2",
+              "37",
+              "20",
+              "17",
+              "3"
+            ],
+            [
+              "COQUIMATLÁN",
+              "24",
+              "5,497",
+              "2,431",
+              "3,066",
+              "476"
+            ],
+            [
+              "CRUZ DE PIEDRA",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2"
+            ],
+            [
+              "EL ALCOMÚN (LUIS ECHEVERRÍA ÁLVAREZ)",
+              "1",
+              "3",
+              "0",
+              "3",
+              "1"
+            ],
+            [
+              "EL ALGODONAL",
+              "2",
+              "14",
+              "10",
+              "4",
+              "2"
+            ],
+            [
+              "EL CHICAL",
+              "4",
+              "118",
+              "65",
+              "53",
+              "10"
+            ],
+            [
+              "EL COLOMO",
+              "1",
+              "8",
+              "3",
+              "5",
+              "1"
+            ],
+            [
+              "EL POBLADO",
+              "2",
+              "32",
+              "16",
+              "16",
+              "3"
+            ],
+            [
+              "JALA",
+              "3",
+              "87",
+              "44",
+              "43",
+              "8"
+            ],
+            [
+              "LA ESPERANZA",
+              "4",
+              "176",
+              "88",
+              "88",
+              "11"
+            ],
+            [
+              "LA SIDRA",
+              "3",
+              "35",
+              "16",
+              "19",
+              "5"
+            ],
+            [
+              "LOS LIMONES",
+              "2",
+              "32",
+              "20",
+              "12",
+              "4"
+            ],
+            [
+              "PUEBLO JUÁREZ (LA MAGDALENA)",
+              "4",
+              "450",
+              "240",
+              "210",
+              "34"
+            ],
+            [
+              "TOTAL",
+              "54",
+              "6,507",
+              "2,963",
+              "3,544",
+              "560"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COQUIMATLÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA ZARCA",
+              "2",
+              "37",
+              "20",
+              "17",
+              "3"
+            ],
+            [
+              "COQUIMATLÁN",
+              "24",
+              "5,497",
+              "2,431",
+              "3,066",
+              "476"
+            ],
+            [
+              "CRUZ DE PIEDRA",
+              "2",
+              "18",
+              "10",
+              "8",
+              "2"
+            ],
+            [
+              "EL ALCOMÚN (LUIS ECHEVERRÍA ÁLVAREZ)",
+              "1",
+              "3",
+              "0",
+              "3",
+              "1"
+            ],
+            [
+              "EL ALGODONAL",
+              "2",
+              "14",
+              "10",
+              "4",
+              "2"
+            ],
+            [
+              "EL CHICAL",
+              "4",
+              "118",
+              "65",
+              "53",
+              "10"
+            ],
+            [
+              "EL COLOMO",
+              "1",
+              "8",
+              "3",
+              "5",
+              "1"
+            ],
+            [
+              "EL POBLADO",
+              "2",
+              "32",
+              "16",
+              "16",
+              "3"
+            ],
+            [
+              "JALA",
+              "3",
+              "87",
+              "44",
+              "43",
+              "8"
+            ],
+            [
+              "LA ESPERANZA",
+              "4",
+              "176",
+              "88",
+              "88",
+              "11"
+            ],
+            [
+              "LA SIDRA",
+              "3",
+              "35",
+              "16",
+              "19",
+              "5"
+            ],
+            [
+              "LOS LIMONES",
+              "2",
+              "32",
+              "20",
+              "12",
+              "4"
+            ],
+            [
+              "PUEBLO JUÁREZ (LA MAGDALENA)",
+              "4",
+              "450",
+              "240",
+              "210",
+              "34"
+            ],
+            [
+              "TOTAL",
+              "54",
+              "6,507",
+              "2,963",
+              "3,544",
+              "560"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "CUAUHTÉMOC",
+      "municipalityCode": "005",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALCARACES\n\t\t4\n\t\t366\n\t\t174\n\t\t192\n\t\t30\n\t\n\t\n\t\tALZADA\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t8\n\t\n\t\n\t\tBUENAVISTA\n\t\t4\n\t\t193\n\t\t91\n\t\t102\n\t\t24\n\t\n\t\n\t\tCERRO COLORADO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tCHIAPA\n\t\t4\n\t\t184\n\t\t76\n\t\t108\n\t\t14\n\t\n\t\n\t\tCUAUHTÉMOC\n\t\t16\n\t\t3,026\n\t\t1,521\n\t\t1,505\n\t\t246\n\t\n\t\n\t\tEL CÓBANO\n\t\t4\n\t\t56\n\t\t31\n\t\t25\n\t\t6\n\t\n\t\n\t\tEL TRAPICHE\n\t\t6\n\t\t506\n\t\t243\n\t\t263\n\t\t41\n\t\n\t\n\t\tISENCO\n\t\t1\n\t\t646\n\t\t511\n\t\t135\n\t\t114\n\t\n\t\n\t\tOCOTILLO\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t3\n\t\n\t\n\t\tPALMILLAS\n\t\t2\n\t\t105\n\t\t51\n\t\t54\n\t\t7\n\t\n\t\n\t\tQUESERÍA\n\t\t20\n\t\t1,997\n\t\t977\n\t\t1,020\n\t\t142\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t69\n\t\t7,212\n\t\t3,743\n\t\t3,469\n\t\t638\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "ALCARACES",
+              "4",
+              "366",
+              "174",
+              "192",
+              "30",
+              "ALZADA",
+              "3",
+              "68",
+              "35",
+              "33",
+              "8",
+              "BUENAVISTA",
+              "4",
+              "193",
+              "91",
+              "102",
+              "24",
+              "CERRO COLORADO",
+              "1",
+              "5",
+              "3",
+              "2",
+              "1",
+              "CHIAPA",
+              "4",
+              "184",
+              "76",
+              "108",
+              "14",
+              "CUAUHTÉMOC",
+              "16",
+              "3,026",
+              "1,521",
+              "1,505",
+              "246",
+              "EL CÓBANO",
+              "4",
+              "56",
+              "31",
+              "25",
+              "6",
+              "EL TRAPICHE",
+              "6",
+              "506",
+              "243",
+              "263",
+              "41",
+              "ISENCO",
+              "1",
+              "646",
+              "511",
+              "135",
+              "114",
+              "OCOTILLO",
+              "2",
+              "34",
+              "18",
+              "16",
+              "3",
+              "PALMILLAS",
+              "2",
+              "105",
+              "51",
+              "54",
+              "7",
+              "QUESERÍA",
+              "20",
+              "1,997",
+              "977",
+              "1,020",
+              "142",
+              "SAN JOAQUÍN",
+              "2",
+              "26",
+              "12",
+              "14",
+              "2",
+              "TOTAL",
+              "69",
+              "7,212",
+              "3,743",
+              "3,469",
+              "638",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ALCARACES",
+              "4",
+              "366",
+              "174",
+              "192",
+              "30"
+            ],
+            [
+              "ALZADA",
+              "3",
+              "68",
+              "35",
+              "33",
+              "8"
+            ],
+            [
+              "BUENAVISTA",
+              "4",
+              "193",
+              "91",
+              "102",
+              "24"
+            ],
+            [
+              "CERRO COLORADO",
+              "1",
+              "5",
+              "3",
+              "2",
+              "1"
+            ],
+            [
+              "CHIAPA",
+              "4",
+              "184",
+              "76",
+              "108",
+              "14"
+            ],
+            [
+              "CUAUHTÉMOC",
+              "16",
+              "3,026",
+              "1,521",
+              "1,505",
+              "246"
+            ],
+            [
+              "EL CÓBANO",
+              "4",
+              "56",
+              "31",
+              "25",
+              "6"
+            ],
+            [
+              "EL TRAPICHE",
+              "6",
+              "506",
+              "243",
+              "263",
+              "41"
+            ],
+            [
+              "ISENCO",
+              "1",
+              "646",
+              "511",
+              "135",
+              "114"
+            ],
+            [
+              "OCOTILLO",
+              "2",
+              "34",
+              "18",
+              "16",
+              "3"
+            ],
+            [
+              "PALMILLAS",
+              "2",
+              "105",
+              "51",
+              "54",
+              "7"
+            ],
+            [
+              "QUESERÍA",
+              "20",
+              "1,997",
+              "977",
+              "1,020",
+              "142"
+            ],
+            [
+              "SAN JOAQUÍN",
+              "2",
+              "26",
+              "12",
+              "14",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "69",
+              "7,212",
+              "3,743",
+              "3,469",
+              "638"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ALCARACES",
+              "4",
+              "366",
+              "174",
+              "192",
+              "30"
+            ],
+            [
+              "ALZADA",
+              "3",
+              "68",
+              "35",
+              "33",
+              "8"
+            ],
+            [
+              "BUENAVISTA",
+              "4",
+              "193",
+              "91",
+              "102",
+              "24"
+            ],
+            [
+              "CERRO COLORADO",
+              "1",
+              "5",
+              "3",
+              "2",
+              "1"
+            ],
+            [
+              "CHIAPA",
+              "4",
+              "184",
+              "76",
+              "108",
+              "14"
+            ],
+            [
+              "CUAUHTÉMOC",
+              "16",
+              "3,026",
+              "1,521",
+              "1,505",
+              "246"
+            ],
+            [
+              "EL CÓBANO",
+              "4",
+              "56",
+              "31",
+              "25",
+              "6"
+            ],
+            [
+              "EL TRAPICHE",
+              "6",
+              "506",
+              "243",
+              "263",
+              "41"
+            ],
+            [
+              "ISENCO",
+              "1",
+              "646",
+              "511",
+              "135",
+              "114"
+            ],
+            [
+              "OCOTILLO",
+              "2",
+              "34",
+              "18",
+              "16",
+              "3"
+            ],
+            [
+              "PALMILLAS",
+              "2",
+              "105",
+              "51",
+              "54",
+              "7"
+            ],
+            [
+              "QUESERÍA",
+              "20",
+              "1,997",
+              "977",
+              "1,020",
+              "142"
+            ],
+            [
+              "SAN JOAQUÍN",
+              "2",
+              "26",
+              "12",
+              "14",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "69",
+              "7,212",
+              "3,743",
+              "3,469",
+              "638"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "IXTLAHUACÁN",
+      "municipalityCode": "006",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: IXTLAHUACÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DE LA VIRGEN\n\t\t3\n\t\t26\n\t\t11\n\t\t15\n\t\t3\n\t\n\t\n\t\tAQUILES SERDÁN (TAMALA)\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL CAMICHÍN (VEINTISÉIS DE JULIO)\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL GALAJE\n\t\t1\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PLAN DEL ZAPOTE\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t3\n\t\n\t\n\t\tHIGUERAS DE SANTA ROSA\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tIXTLAHUACÁN\n\t\t6\n\t\t707\n\t\t335\n\t\t372\n\t\t46\n\t\n\t\n\t\tLA PRESA (BARRANCA DEL REBOZO)\n\t\t3\n\t\t100\n\t\t41\n\t\t59\n\t\t8\n\t\n\t\n\t\tLAS CONCHAS\n\t\t4\n\t\t152\n\t\t75\n\t\t77\n\t\t11\n\t\n\t\n\t\tLAS TRANCAS\n\t\t2\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tZINACAMITLÁN (LOS CHICOS)\n\t\t3\n\t\t57\n\t\t28\n\t\t29\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t29\n\t\t1,161\n\t\t548\n\t\t613\n\t\t84\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: IXTLAHUACÁN",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AGUA DE LA VIRGEN",
+              "3",
+              "26",
+              "11",
+              "15",
+              "3",
+              "AQUILES SERDÁN (TAMALA)",
+              "2",
+              "51",
+              "26",
+              "25",
+              "3",
+              "EL CAMICHÍN (VEINTISÉIS DE JULIO)",
+              "2",
+              "8",
+              "4",
+              "4",
+              "2",
+              "EL GALAJE",
+              "1",
+              "11",
+              "8",
+              "3",
+              "1",
+              "EL PLAN DEL ZAPOTE",
+              "2",
+              "14",
+              "6",
+              "8",
+              "3",
+              "HIGUERAS DE SANTA ROSA",
+              "1",
+              "9",
+              "5",
+              "4",
+              "1",
+              "IXTLAHUACÁN",
+              "6",
+              "707",
+              "335",
+              "372",
+              "46",
+              "LA PRESA (BARRANCA DEL REBOZO)",
+              "3",
+              "100",
+              "41",
+              "59",
+              "8",
+              "LAS CONCHAS",
+              "4",
+              "152",
+              "75",
+              "77",
+              "11",
+              "LAS TRANCAS",
+              "2",
+              "26",
+              "9",
+              "17",
+              "2",
+              "ZINACAMITLÁN (LOS CHICOS)",
+              "3",
+              "57",
+              "28",
+              "29",
+              "4",
+              "TOTAL",
+              "29",
+              "1,161",
+              "548",
+              "613",
+              "84",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: IXTLAHUACÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA DE LA VIRGEN",
+              "3",
+              "26",
+              "11",
+              "15",
+              "3"
+            ],
+            [
+              "AQUILES SERDÁN (TAMALA)",
+              "2",
+              "51",
+              "26",
+              "25",
+              "3"
+            ],
+            [
+              "EL CAMICHÍN (VEINTISÉIS DE JULIO)",
+              "2",
+              "8",
+              "4",
+              "4",
+              "2"
+            ],
+            [
+              "EL GALAJE",
+              "1",
+              "11",
+              "8",
+              "3",
+              "1"
+            ],
+            [
+              "EL PLAN DEL ZAPOTE",
+              "2",
+              "14",
+              "6",
+              "8",
+              "3"
+            ],
+            [
+              "HIGUERAS DE SANTA ROSA",
+              "1",
+              "9",
+              "5",
+              "4",
+              "1"
+            ],
+            [
+              "IXTLAHUACÁN",
+              "6",
+              "707",
+              "335",
+              "372",
+              "46"
+            ],
+            [
+              "LA PRESA (BARRANCA DEL REBOZO)",
+              "3",
+              "100",
+              "41",
+              "59",
+              "8"
+            ],
+            [
+              "LAS CONCHAS",
+              "4",
+              "152",
+              "75",
+              "77",
+              "11"
+            ],
+            [
+              "LAS TRANCAS",
+              "2",
+              "26",
+              "9",
+              "17",
+              "2"
+            ],
+            [
+              "ZINACAMITLÁN (LOS CHICOS)",
+              "3",
+              "57",
+              "28",
+              "29",
+              "4"
+            ],
+            [
+              "TOTAL",
+              "29",
+              "1,161",
+              "548",
+              "613",
+              "84"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: IXTLAHUACÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA DE LA VIRGEN",
+              "3",
+              "26",
+              "11",
+              "15",
+              "3"
+            ],
+            [
+              "AQUILES SERDÁN (TAMALA)",
+              "2",
+              "51",
+              "26",
+              "25",
+              "3"
+            ],
+            [
+              "EL CAMICHÍN (VEINTISÉIS DE JULIO)",
+              "2",
+              "8",
+              "4",
+              "4",
+              "2"
+            ],
+            [
+              "EL GALAJE",
+              "1",
+              "11",
+              "8",
+              "3",
+              "1"
+            ],
+            [
+              "EL PLAN DEL ZAPOTE",
+              "2",
+              "14",
+              "6",
+              "8",
+              "3"
+            ],
+            [
+              "HIGUERAS DE SANTA ROSA",
+              "1",
+              "9",
+              "5",
+              "4",
+              "1"
+            ],
+            [
+              "IXTLAHUACÁN",
+              "6",
+              "707",
+              "335",
+              "372",
+              "46"
+            ],
+            [
+              "LA PRESA (BARRANCA DEL REBOZO)",
+              "3",
+              "100",
+              "41",
+              "59",
+              "8"
+            ],
+            [
+              "LAS CONCHAS",
+              "4",
+              "152",
+              "75",
+              "77",
+              "11"
+            ],
+            [
+              "LAS TRANCAS",
+              "2",
+              "26",
+              "9",
+              "17",
+              "2"
+            ],
+            [
+              "ZINACAMITLÁN (LOS CHICOS)",
+              "3",
+              "57",
+              "28",
+              "29",
+              "4"
+            ],
+            [
+              "TOTAL",
+              "29",
+              "1,161",
+              "548",
+              "613",
+              "84"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "MANZANILLO",
+      "municipalityCode": "007",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MANZANILLO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tASERRADERO DE LA LIMA\n\t\t2\n\t\t21\n\t\t6\n\t\t15\n\t\t2\n\t\n\t\n\t\tCAMICHÍN\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tCAMOTLÁN DE MIRAFLORES\n\t\t4\n\t\t460\n\t\t203\n\t\t257\n\t\t31\n\t\n\t\n\t\tCANOAS\n\t\t3\n\t\t50\n\t\t25\n\t\t25\n\t\t6\n\t\n\t\n\t\tCHANDIABLO\n\t\t4\n\t\t341\n\t\t128\n\t\t213\n\t\t17\n\t\n\t\n\t\tCIRUELITO DE LA MARINA\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tDON TOMÁS\n\t\t2\n\t\t35\n\t\t14\n\t\t21\n\t\t4\n\t\n\t\n\t\tEL CENTINELA DE ABAJO\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL CENTINELA DE ARRIBA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CHARCO\n\t\t4\n\t\t113\n\t\t53\n\t\t60\n\t\t8\n\t\n\t\n\t\tEL CHAVARÍN\n\t\t4\n\t\t458\n\t\t236\n\t\t222\n\t\t19\n\t\n\t\n\t\tEL COLOMO\n\t\t14\n\t\t2,594\n\t\t1,324\n\t\t1,270\n\t\t153\n\t\n\t\n\t\tEL GARCERO\n\t\t1\n\t\t36\n\t\t13\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL HUIZCOLOTE\n\t\t3\n\t\t48\n\t\t18\n\t\t30\n\t\t5\n\t\n\t\n\t\tEL NARANJO\n\t\t4\n\t\t306\n\t\t146\n\t\t160\n\t\t17\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t58\n\t\t27\n\t\t31\n\t\t5\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t140\n\t\t65\n\t\t75\n\t\t8\n\t\n\t\n\t\tJALIPA\n\t\t4\n\t\t621\n\t\t281\n\t\t340\n\t\t29\n\t\n\t\n\t\tLA CENTRAL\n\t\t4\n\t\t449\n\t\t212\n\t\t237\n\t\t21\n\t\n\t\n\t\tLA CULEBRA (COLIMILLA)\n\t\t4\n\t\t111\n\t\t54\n\t\t57\n\t\t8\n\t\n\t\n\t\tLA ROSA DE SAN JOSÉ DE LÚMBER\n\t\t1\n\t\t25\n\t\t8\n\t\t17\n\t\t1\n\t\n\t\n\t\tLAS JUNTAS (LA FLOREÑA)\n\t\t4\n\t\t286\n\t\t142\n\t\t144\n\t\t14\n\t\n\t\n\t\tLLANO DE LA MARINA\n\t\t4\n\t\t124\n\t\t71\n\t\t53\n\t\t11\n\t\n\t\n\t\tLOMAS DE ÁVILA CAMACHO\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOS CEDROS\n\t\t4\n\t\t134\n\t\t60\n\t\t74\n\t\t12\n\t\n\t\n\t\tLOS PARAJES\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tMANZANILLO\n\t\t266\n\t\t42,256\n\t\t21,243\n\t\t21,013\n\t\t3,279\n\t\n\t\n\t\tNUEVO CUYUTLÁN\n\t\t2\n\t\t168\n\t\t82\n\t\t86\n\t\t8\n\t\n\t\n\t\tNUEVO EL PETATERO\n\t\t1\n\t\t26\n\t\t11\n\t\t15\n\t\t2\n\t\n\t\n\t\tPUERTECITO DE LAJAS\n\t\t2\n\t\t36\n\t\t21\n\t\t15\n\t\t3\n\t\n\t\n\t\tPUNTA DE AGUA DE CAMOTLÁN\n\t\t3\n\t\t83\n\t\t35\n\t\t48\n\t\t6\n\t\n\t\n\t\tRÍO MARABASCO\n\t\t2\n\t\t91\n\t\t38\n\t\t53\n\t\t4\n\t\n\t\n\t\tSAN BUENAVENTURA\n\t\t3\n\t\t149\n\t\t78\n\t\t71\n\t\t10\n\t\n\t\n\t\tSAN JOSÉ DE LÚMBER (PIEDRA REDONDA)\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA RITA\n\t\t2\n\t\t97\n\t\t48\n\t\t49\n\t\t6\n\t\n\t\n\t\tSANTIAGO CERVANTES\n\t\t2\n\t\t330\n\t\t160\n\t\t170\n\t\t12\n\t\n\t\n\t\tVELADERO DE CAMOTLÁN\n\t\t3\n\t\t65\n\t\t32\n\t\t33\n\t\t5\n\t\n\t\n\t\tVELADERO DE LOS OTATES\n\t\t2\n\t\t38\n\t\t13\n\t\t25\n\t\t3\n\t\n\t\n\t\tVENUSTIANO CARRANZA (CUALATA)\n\t\t4\n\t\t412\n\t\t214\n\t\t198\n\t\t29\n\t\n\t\n\t\tTOTAL\n\t\t375\n\t\t50,208\n\t\t25,086\n\t\t25,122\n\t\t3,749\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MANZANILLO",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "ASERRADERO DE LA LIMA",
+              "2",
+              "21",
+              "6",
+              "15",
+              "2",
+              "CAMICHÍN",
+              "1",
+              "4",
+              "2",
+              "2",
+              "1",
+              "CAMOTLÁN DE MIRAFLORES",
+              "4",
+              "460",
+              "203",
+              "257",
+              "31",
+              "CANOAS",
+              "3",
+              "50",
+              "25",
+              "25",
+              "6",
+              "CHANDIABLO",
+              "4",
+              "341",
+              "128",
+              "213",
+              "17",
+              "CIRUELITO DE LA MARINA",
+              "2",
+              "14",
+              "8",
+              "6",
+              "2",
+              "DON TOMÁS",
+              "2",
+              "35",
+              "14",
+              "21",
+              "4",
+              "EL CENTINELA DE ABAJO",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1",
+              "EL CENTINELA DE ARRIBA",
+              "1",
+              "3",
+              "1",
+              "2",
+              "1",
+              "EL CHARCO",
+              "4",
+              "113",
+              "53",
+              "60",
+              "8",
+              "EL CHAVARÍN",
+              "4",
+              "458",
+              "236",
+              "222",
+              "19",
+              "EL COLOMO",
+              "14",
+              "2,594",
+              "1,324",
+              "1,270",
+              "153",
+              "EL GARCERO",
+              "1",
+              "36",
+              "13",
+              "23",
+              "3",
+              "EL HUIZCOLOTE",
+              "3",
+              "48",
+              "18",
+              "30",
+              "5",
+              "EL NARANJO",
+              "4",
+              "306",
+              "146",
+              "160",
+              "17",
+              "EMILIANO ZAPATA",
+              "3",
+              "58",
+              "27",
+              "31",
+              "5",
+              "FRANCISCO VILLA",
+              "2",
+              "140",
+              "65",
+              "75",
+              "8",
+              "JALIPA",
+              "4",
+              "621",
+              "281",
+              "340",
+              "29",
+              "LA CENTRAL",
+              "4",
+              "449",
+              "212",
+              "237",
+              "21",
+              "LA CULEBRA (COLIMILLA)",
+              "4",
+              "111",
+              "54",
+              "57",
+              "8",
+              "LA ROSA DE SAN JOSÉ DE LÚMBER",
+              "1",
+              "25",
+              "8",
+              "17",
+              "1",
+              "LAS JUNTAS (LA FLOREÑA)",
+              "4",
+              "286",
+              "142",
+              "144",
+              "14",
+              "LLANO DE LA MARINA",
+              "4",
+              "124",
+              "71",
+              "53",
+              "11",
+              "LOMAS DE ÁVILA CAMACHO",
+              "1",
+              "10",
+              "6",
+              "4",
+              "1",
+              "LOS CEDROS",
+              "4",
+              "134",
+              "60",
+              "74",
+              "12",
+              "LOS PARAJES",
+              "1",
+              "4",
+              "1",
+              "3",
+              "1",
+              "MANZANILLO",
+              "266",
+              "42,256",
+              "21,243",
+              "21,013",
+              "3,279",
+              "NUEVO CUYUTLÁN",
+              "2",
+              "168",
+              "82",
+              "86",
+              "8",
+              "NUEVO EL PETATERO",
+              "1",
+              "26",
+              "11",
+              "15",
+              "2",
+              "PUERTECITO DE LAJAS",
+              "2",
+              "36",
+              "21",
+              "15",
+              "3",
+              "PUNTA DE AGUA DE CAMOTLÁN",
+              "3",
+              "83",
+              "35",
+              "48",
+              "6",
+              "RÍO MARABASCO",
+              "2",
+              "91",
+              "38",
+              "53",
+              "4",
+              "SAN BUENAVENTURA",
+              "3",
+              "149",
+              "78",
+              "71",
+              "10",
+              "SAN JOSÉ DE LÚMBER (PIEDRA REDONDA)",
+              "1",
+              "6",
+              "4",
+              "2",
+              "1",
+              "SANTA RITA",
+              "2",
+              "97",
+              "48",
+              "49",
+              "6",
+              "SANTIAGO CERVANTES",
+              "2",
+              "330",
+              "160",
+              "170",
+              "12",
+              "VELADERO DE CAMOTLÁN",
+              "3",
+              "65",
+              "32",
+              "33",
+              "5",
+              "VELADERO DE LOS OTATES",
+              "2",
+              "38",
+              "13",
+              "25",
+              "3",
+              "VENUSTIANO CARRANZA (CUALATA)",
+              "4",
+              "412",
+              "214",
+              "198",
+              "29",
+              "TOTAL",
+              "375",
+              "50,208",
+              "25,086",
+              "25,122",
+              "3,749",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MANZANILLO"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ASERRADERO DE LA LIMA",
+              "2",
+              "21",
+              "6",
+              "15",
+              "2"
+            ],
+            [
+              "CAMICHÍN",
+              "1",
+              "4",
+              "2",
+              "2",
+              "1"
+            ],
+            [
+              "CAMOTLÁN DE MIRAFLORES",
+              "4",
+              "460",
+              "203",
+              "257",
+              "31"
+            ],
+            [
+              "CANOAS",
+              "3",
+              "50",
+              "25",
+              "25",
+              "6"
+            ],
+            [
+              "CHANDIABLO",
+              "4",
+              "341",
+              "128",
+              "213",
+              "17"
+            ],
+            [
+              "CIRUELITO DE LA MARINA",
+              "2",
+              "14",
+              "8",
+              "6",
+              "2"
+            ],
+            [
+              "DON TOMÁS",
+              "2",
+              "35",
+              "14",
+              "21",
+              "4"
+            ],
+            [
+              "EL CENTINELA DE ABAJO",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "EL CENTINELA DE ARRIBA",
+              "1",
+              "3",
+              "1",
+              "2",
+              "1"
+            ],
+            [
+              "EL CHARCO",
+              "4",
+              "113",
+              "53",
+              "60",
+              "8"
+            ],
+            [
+              "EL CHAVARÍN",
+              "4",
+              "458",
+              "236",
+              "222",
+              "19"
+            ],
+            [
+              "EL COLOMO",
+              "14",
+              "2,594",
+              "1,324",
+              "1,270",
+              "153"
+            ],
+            [
+              "EL GARCERO",
+              "1",
+              "36",
+              "13",
+              "23",
+              "3"
+            ],
+            [
+              "EL HUIZCOLOTE",
+              "3",
+              "48",
+              "18",
+              "30",
+              "5"
+            ],
+            [
+              "EL NARANJO",
+              "4",
+              "306",
+              "146",
+              "160",
+              "17"
+            ],
+            [
+              "EMILIANO ZAPATA",
+              "3",
+              "58",
+              "27",
+              "31",
+              "5"
+            ],
+            [
+              "FRANCISCO VILLA",
+              "2",
+              "140",
+              "65",
+              "75",
+              "8"
+            ],
+            [
+              "JALIPA",
+              "4",
+              "621",
+              "281",
+              "340",
+              "29"
+            ],
+            [
+              "LA CENTRAL",
+              "4",
+              "449",
+              "212",
+              "237",
+              "21"
+            ],
+            [
+              "LA CULEBRA (COLIMILLA)",
+              "4",
+              "111",
+              "54",
+              "57",
+              "8"
+            ],
+            [
+              "LA ROSA DE SAN JOSÉ DE LÚMBER",
+              "1",
+              "25",
+              "8",
+              "17",
+              "1"
+            ],
+            [
+              "LAS JUNTAS (LA FLOREÑA)",
+              "4",
+              "286",
+              "142",
+              "144",
+              "14"
+            ],
+            [
+              "LLANO DE LA MARINA",
+              "4",
+              "124",
+              "71",
+              "53",
+              "11"
+            ],
+            [
+              "LOMAS DE ÁVILA CAMACHO",
+              "1",
+              "10",
+              "6",
+              "4",
+              "1"
+            ],
+            [
+              "LOS CEDROS",
+              "4",
+              "134",
+              "60",
+              "74",
+              "12"
+            ],
+            [
+              "LOS PARAJES",
+              "1",
+              "4",
+              "1",
+              "3",
+              "1"
+            ],
+            [
+              "MANZANILLO",
+              "266",
+              "42,256",
+              "21,243",
+              "21,013",
+              "3,279"
+            ],
+            [
+              "NUEVO CUYUTLÁN",
+              "2",
+              "168",
+              "82",
+              "86",
+              "8"
+            ],
+            [
+              "NUEVO EL PETATERO",
+              "1",
+              "26",
+              "11",
+              "15",
+              "2"
+            ],
+            [
+              "PUERTECITO DE LAJAS",
+              "2",
+              "36",
+              "21",
+              "15",
+              "3"
+            ],
+            [
+              "PUNTA DE AGUA DE CAMOTLÁN",
+              "3",
+              "83",
+              "35",
+              "48",
+              "6"
+            ],
+            [
+              "RÍO MARABASCO",
+              "2",
+              "91",
+              "38",
+              "53",
+              "4"
+            ],
+            [
+              "SAN BUENAVENTURA",
+              "3",
+              "149",
+              "78",
+              "71",
+              "10"
+            ],
+            [
+              "SAN JOSÉ DE LÚMBER (PIEDRA REDONDA)",
+              "1",
+              "6",
+              "4",
+              "2",
+              "1"
+            ],
+            [
+              "SANTA RITA",
+              "2",
+              "97",
+              "48",
+              "49",
+              "6"
+            ],
+            [
+              "SANTIAGO CERVANTES",
+              "2",
+              "330",
+              "160",
+              "170",
+              "12"
+            ],
+            [
+              "VELADERO DE CAMOTLÁN",
+              "3",
+              "65",
+              "32",
+              "33",
+              "5"
+            ],
+            [
+              "VELADERO DE LOS OTATES",
+              "2",
+              "38",
+              "13",
+              "25",
+              "3"
+            ],
+            [
+              "VENUSTIANO CARRANZA (CUALATA)",
+              "4",
+              "412",
+              "214",
+              "198",
+              "29"
+            ],
+            [
+              "TOTAL",
+              "375",
+              "50,208",
+              "25,086",
+              "25,122",
+              "3,749"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MANZANILLO"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ASERRADERO DE LA LIMA",
+              "2",
+              "21",
+              "6",
+              "15",
+              "2"
+            ],
+            [
+              "CAMICHÍN",
+              "1",
+              "4",
+              "2",
+              "2",
+              "1"
+            ],
+            [
+              "CAMOTLÁN DE MIRAFLORES",
+              "4",
+              "460",
+              "203",
+              "257",
+              "31"
+            ],
+            [
+              "CANOAS",
+              "3",
+              "50",
+              "25",
+              "25",
+              "6"
+            ],
+            [
+              "CHANDIABLO",
+              "4",
+              "341",
+              "128",
+              "213",
+              "17"
+            ],
+            [
+              "CIRUELITO DE LA MARINA",
+              "2",
+              "14",
+              "8",
+              "6",
+              "2"
+            ],
+            [
+              "DON TOMÁS",
+              "2",
+              "35",
+              "14",
+              "21",
+              "4"
+            ],
+            [
+              "EL CENTINELA DE ABAJO",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "EL CENTINELA DE ARRIBA",
+              "1",
+              "3",
+              "1",
+              "2",
+              "1"
+            ],
+            [
+              "EL CHARCO",
+              "4",
+              "113",
+              "53",
+              "60",
+              "8"
+            ],
+            [
+              "EL CHAVARÍN",
+              "4",
+              "458",
+              "236",
+              "222",
+              "19"
+            ],
+            [
+              "EL COLOMO",
+              "14",
+              "2,594",
+              "1,324",
+              "1,270",
+              "153"
+            ],
+            [
+              "EL GARCERO",
+              "1",
+              "36",
+              "13",
+              "23",
+              "3"
+            ],
+            [
+              "EL HUIZCOLOTE",
+              "3",
+              "48",
+              "18",
+              "30",
+              "5"
+            ],
+            [
+              "EL NARANJO",
+              "4",
+              "306",
+              "146",
+              "160",
+              "17"
+            ],
+            [
+              "EMILIANO ZAPATA",
+              "3",
+              "58",
+              "27",
+              "31",
+              "5"
+            ],
+            [
+              "FRANCISCO VILLA",
+              "2",
+              "140",
+              "65",
+              "75",
+              "8"
+            ],
+            [
+              "JALIPA",
+              "4",
+              "621",
+              "281",
+              "340",
+              "29"
+            ],
+            [
+              "LA CENTRAL",
+              "4",
+              "449",
+              "212",
+              "237",
+              "21"
+            ],
+            [
+              "LA CULEBRA (COLIMILLA)",
+              "4",
+              "111",
+              "54",
+              "57",
+              "8"
+            ],
+            [
+              "LA ROSA DE SAN JOSÉ DE LÚMBER",
+              "1",
+              "25",
+              "8",
+              "17",
+              "1"
+            ],
+            [
+              "LAS JUNTAS (LA FLOREÑA)",
+              "4",
+              "286",
+              "142",
+              "144",
+              "14"
+            ],
+            [
+              "LLANO DE LA MARINA",
+              "4",
+              "124",
+              "71",
+              "53",
+              "11"
+            ],
+            [
+              "LOMAS DE ÁVILA CAMACHO",
+              "1",
+              "10",
+              "6",
+              "4",
+              "1"
+            ],
+            [
+              "LOS CEDROS",
+              "4",
+              "134",
+              "60",
+              "74",
+              "12"
+            ],
+            [
+              "LOS PARAJES",
+              "1",
+              "4",
+              "1",
+              "3",
+              "1"
+            ],
+            [
+              "MANZANILLO",
+              "266",
+              "42,256",
+              "21,243",
+              "21,013",
+              "3,279"
+            ],
+            [
+              "NUEVO CUYUTLÁN",
+              "2",
+              "168",
+              "82",
+              "86",
+              "8"
+            ],
+            [
+              "NUEVO EL PETATERO",
+              "1",
+              "26",
+              "11",
+              "15",
+              "2"
+            ],
+            [
+              "PUERTECITO DE LAJAS",
+              "2",
+              "36",
+              "21",
+              "15",
+              "3"
+            ],
+            [
+              "PUNTA DE AGUA DE CAMOTLÁN",
+              "3",
+              "83",
+              "35",
+              "48",
+              "6"
+            ],
+            [
+              "RÍO MARABASCO",
+              "2",
+              "91",
+              "38",
+              "53",
+              "4"
+            ],
+            [
+              "SAN BUENAVENTURA",
+              "3",
+              "149",
+              "78",
+              "71",
+              "10"
+            ],
+            [
+              "SAN JOSÉ DE LÚMBER (PIEDRA REDONDA)",
+              "1",
+              "6",
+              "4",
+              "2",
+              "1"
+            ],
+            [
+              "SANTA RITA",
+              "2",
+              "97",
+              "48",
+              "49",
+              "6"
+            ],
+            [
+              "SANTIAGO CERVANTES",
+              "2",
+              "330",
+              "160",
+              "170",
+              "12"
+            ],
+            [
+              "VELADERO DE CAMOTLÁN",
+              "3",
+              "65",
+              "32",
+              "33",
+              "5"
+            ],
+            [
+              "VELADERO DE LOS OTATES",
+              "2",
+              "38",
+              "13",
+              "25",
+              "3"
+            ],
+            [
+              "VENUSTIANO CARRANZA (CUALATA)",
+              "4",
+              "412",
+              "214",
+              "198",
+              "29"
+            ],
+            [
+              "TOTAL",
+              "375",
+              "50,208",
+              "25,086",
+              "25,122",
+              "3,749"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "MINATITLÁN",
+      "municipalityCode": "008",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA SALADA\n\t\t4\n\t\t183\n\t\t77\n\t\t106\n\t\t13\n\t\n\t\n\t\tBENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)\n\t\t3\n\t\t239\n\t\t132\n\t\t107\n\t\t13\n\t\n\t\n\t\tEL ARRAYANAL\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL PLATANAR\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL SAUZ\n\t\t3\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL TERRERO\n\t\t3\n\t\t23\n\t\t11\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA COCONAL\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA LOMA\n\t\t3\n\t\t87\n\t\t47\n\t\t40\n\t\t7\n\t\n\t\n\t\tLA PLAYA (LA PLAYITA)\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tLAS PESADAS\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tMINATITLÁN\n\t\t7\n\t\t1,631\n\t\t792\n\t\t839\n\t\t82\n\t\n\t\n\t\tPATICAJO\n\t\t4\n\t\t335\n\t\t171\n\t\t164\n\t\t16\n\t\n\t\n\t\tPLATANARILLOS\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tPOTRERO GRANDE\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t21\n\t\t7\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t41\n\t\t2,660\n\t\t1,304\n\t\t1,356\n\t\t151\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AGUA SALADA",
+              "4",
+              "183",
+              "77",
+              "106",
+              "13",
+              "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+              "3",
+              "239",
+              "132",
+              "107",
+              "13",
+              "EL ARRAYANAL",
+              "1",
+              "6",
+              "2",
+              "4",
+              "1",
+              "EL PLATANAR",
+              "2",
+              "32",
+              "17",
+              "15",
+              "2",
+              "EL SAUZ",
+              "3",
+              "36",
+              "17",
+              "19",
+              "3",
+              "EL TERRERO",
+              "3",
+              "23",
+              "11",
+              "12",
+              "3",
+              "LA COCONAL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "2",
+              "LA LOMA",
+              "3",
+              "87",
+              "47",
+              "40",
+              "7",
+              "LA PLAYA (LA PLAYITA)",
+              "2",
+              "25",
+              "13",
+              "12",
+              "2",
+              "LAS PESADAS",
+              "2",
+              "23",
+              "8",
+              "15",
+              "2",
+              "MINATITLÁN",
+              "7",
+              "1,631",
+              "792",
+              "839",
+              "82",
+              "PATICAJO",
+              "4",
+              "335",
+              "171",
+              "164",
+              "16",
+              "PLATANARILLOS",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1",
+              "POTRERO GRANDE",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2",
+              "SAN ANTONIO",
+              "2",
+              "21",
+              "7",
+              "14",
+              "2",
+              "TOTAL",
+              "41",
+              "2,660",
+              "1,304",
+              "1,356",
+              "151",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA SALADA",
+              "4",
+              "183",
+              "77",
+              "106",
+              "13"
+            ],
+            [
+              "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+              "3",
+              "239",
+              "132",
+              "107",
+              "13"
+            ],
+            [
+              "EL ARRAYANAL",
+              "1",
+              "6",
+              "2",
+              "4",
+              "1"
+            ],
+            [
+              "EL PLATANAR",
+              "2",
+              "32",
+              "17",
+              "15",
+              "2"
+            ],
+            [
+              "EL SAUZ",
+              "3",
+              "36",
+              "17",
+              "19",
+              "3"
+            ],
+            [
+              "EL TERRERO",
+              "3",
+              "23",
+              "11",
+              "12",
+              "3"
+            ],
+            [
+              "LA COCONAL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "2"
+            ],
+            [
+              "LA LOMA",
+              "3",
+              "87",
+              "47",
+              "40",
+              "7"
+            ],
+            [
+              "LA PLAYA (LA PLAYITA)",
+              "2",
+              "25",
+              "13",
+              "12",
+              "2"
+            ],
+            [
+              "LAS PESADAS",
+              "2",
+              "23",
+              "8",
+              "15",
+              "2"
+            ],
+            [
+              "MINATITLÁN",
+              "7",
+              "1,631",
+              "792",
+              "839",
+              "82"
+            ],
+            [
+              "PATICAJO",
+              "4",
+              "335",
+              "171",
+              "164",
+              "16"
+            ],
+            [
+              "PLATANARILLOS",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "POTRERO GRANDE",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2"
+            ],
+            [
+              "SAN ANTONIO",
+              "2",
+              "21",
+              "7",
+              "14",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "41",
+              "2,660",
+              "1,304",
+              "1,356",
+              "151"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA SALADA",
+              "4",
+              "183",
+              "77",
+              "106",
+              "13"
+            ],
+            [
+              "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+              "3",
+              "239",
+              "132",
+              "107",
+              "13"
+            ],
+            [
+              "EL ARRAYANAL",
+              "1",
+              "6",
+              "2",
+              "4",
+              "1"
+            ],
+            [
+              "EL PLATANAR",
+              "2",
+              "32",
+              "17",
+              "15",
+              "2"
+            ],
+            [
+              "EL SAUZ",
+              "3",
+              "36",
+              "17",
+              "19",
+              "3"
+            ],
+            [
+              "EL TERRERO",
+              "3",
+              "23",
+              "11",
+              "12",
+              "3"
+            ],
+            [
+              "LA COCONAL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "2"
+            ],
+            [
+              "LA LOMA",
+              "3",
+              "87",
+              "47",
+              "40",
+              "7"
+            ],
+            [
+              "LA PLAYA (LA PLAYITA)",
+              "2",
+              "25",
+              "13",
+              "12",
+              "2"
+            ],
+            [
+              "LAS PESADAS",
+              "2",
+              "23",
+              "8",
+              "15",
+              "2"
+            ],
+            [
+              "MINATITLÁN",
+              "7",
+              "1,631",
+              "792",
+              "839",
+              "82"
+            ],
+            [
+              "PATICAJO",
+              "4",
+              "335",
+              "171",
+              "164",
+              "16"
+            ],
+            [
+              "PLATANARILLOS",
+              "1",
+              "6",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "POTRERO GRANDE",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2"
+            ],
+            [
+              "SAN ANTONIO",
+              "2",
+              "21",
+              "7",
+              "14",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "41",
+              "2,660",
+              "1,304",
+              "1,356",
+              "151"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "TECOMÁN",
+      "municipalityCode": "009",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARTURO NORIEGA PIZANO\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tBOCA DE PASCUALES\n\t\t3\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tCALERAS\n\t\t4\n\t\t425\n\t\t230\n\t\t195\n\t\t25\n\t\n\t\n\t\tCALLEJONES\n\t\t3\n\t\t73\n\t\t37\n\t\t36\n\t\t5\n\t\n\t\n\t\tCERRITO DE AGUILAR\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t2\n\t\n\t\n\t\tCERRO DE ORTEGA\n\t\t14\n\t\t2,182\n\t\t1,138\n\t\t1,044\n\t\t120\n\t\n\t\n\t\tCHANCHOPA\n\t\t2\n\t\t46\n\t\t25\n\t\t21\n\t\t5\n\t\n\t\n\t\tCOFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)\n\t\t1\n\t\t73\n\t\t36\n\t\t37\n\t\t3\n\t\n\t\n\t\tCOFRADÍA DE MORELOS\n\t\t5\n\t\t672\n\t\t358\n\t\t314\n\t\t32\n\t\n\t\n\t\tCOLONIA BAYARDO\n\t\t10\n\t\t1,092\n\t\t569\n\t\t523\n\t\t74\n\t\n\t\n\t\tEL HORMIGUERO UNO\n\t\t2\n\t\t149\n\t\t75\n\t\t74\n\t\t8\n\t\n\t\n\t\tEL SAUCITO\n\t\t2\n\t\t45\n\t\t28\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA CARIMACHA [LUCIO LEÓN]\n\t\t1\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA CUARTA\n\t\t3\n\t\t26\n\t\t13\n\t\t13\n\t\t4\n\t\n\t\n\t\tLA SALADA\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAGUNA DE ALCUZAHUE\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t4\n\t\n\t\n\t\tLAS DOS ROSITAS\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tMADRID\n\t\t6\n\t\t709\n\t\t357\n\t\t352\n\t\t47\n\t\n\t\n\t\tSAN ÁNGEL\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL DEL OJO DE AGUA\n\t\t4\n\t\t116\n\t\t66\n\t\t50\n\t\t9\n\t\n\t\n\t\tTECOLAPA\n\t\t4\n\t\t170\n\t\t83\n\t\t87\n\t\t12\n\t\n\t\n\t\tTECOMÁN\n\t\t137\n\t\t22,216\n\t\t11,476\n\t\t10,740\n\t\t1,620\n\t\n\t\n\t\tTECUANILLO [BALNEARIO]\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t217\n\t\t28,170\n\t\t14,582\n\t\t13,588\n\t\t1,989\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "ARTURO NORIEGA PIZANO",
+              "2",
+              "30",
+              "15",
+              "15",
+              "3",
+              "BOCA DE PASCUALES",
+              "3",
+              "8",
+              "5",
+              "3",
+              "2",
+              "CALERAS",
+              "4",
+              "425",
+              "230",
+              "195",
+              "25",
+              "CALLEJONES",
+              "3",
+              "73",
+              "37",
+              "36",
+              "5",
+              "CERRITO DE AGUILAR",
+              "2",
+              "27",
+              "14",
+              "13",
+              "2",
+              "CERRO DE ORTEGA",
+              "14",
+              "2,182",
+              "1,138",
+              "1,044",
+              "120",
+              "CHANCHOPA",
+              "2",
+              "46",
+              "25",
+              "21",
+              "5",
+              "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+              "1",
+              "73",
+              "36",
+              "37",
+              "3",
+              "COFRADÍA DE MORELOS",
+              "5",
+              "672",
+              "358",
+              "314",
+              "32",
+              "COLONIA BAYARDO",
+              "10",
+              "1,092",
+              "569",
+              "523",
+              "74",
+              "EL HORMIGUERO UNO",
+              "2",
+              "149",
+              "75",
+              "74",
+              "8",
+              "EL SAUCITO",
+              "2",
+              "45",
+              "28",
+              "17",
+              "3",
+              "LA CARIMACHA [LUCIO LEÓN]",
+              "1",
+              "20",
+              "12",
+              "8",
+              "2",
+              "LA CUARTA",
+              "3",
+              "26",
+              "13",
+              "13",
+              "4",
+              "LA SALADA",
+              "2",
+              "7",
+              "3",
+              "4",
+              "2",
+              "LAGUNA DE ALCUZAHUE",
+              "2",
+              "40",
+              "18",
+              "22",
+              "4",
+              "LAS DOS ROSITAS",
+              "3",
+              "19",
+              "11",
+              "8",
+              "3",
+              "MADRID",
+              "6",
+              "709",
+              "357",
+              "352",
+              "47",
+              "SAN ÁNGEL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "1",
+              "SAN JOSÉ",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2",
+              "SAN MIGUEL DEL OJO DE AGUA",
+              "4",
+              "116",
+              "66",
+              "50",
+              "9",
+              "TECOLAPA",
+              "4",
+              "170",
+              "83",
+              "87",
+              "12",
+              "TECOMÁN",
+              "137",
+              "22,216",
+              "11,476",
+              "10,740",
+              "1,620",
+              "TECUANILLO [BALNEARIO]",
+              "1",
+              "12",
+              "6",
+              "6",
+              "1",
+              "TOTAL",
+              "217",
+              "28,170",
+              "14,582",
+              "13,588",
+              "1,989",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ARTURO NORIEGA PIZANO",
+              "2",
+              "30",
+              "15",
+              "15",
+              "3"
+            ],
+            [
+              "BOCA DE PASCUALES",
+              "3",
+              "8",
+              "5",
+              "3",
+              "2"
+            ],
+            [
+              "CALERAS",
+              "4",
+              "425",
+              "230",
+              "195",
+              "25"
+            ],
+            [
+              "CALLEJONES",
+              "3",
+              "73",
+              "37",
+              "36",
+              "5"
+            ],
+            [
+              "CERRITO DE AGUILAR",
+              "2",
+              "27",
+              "14",
+              "13",
+              "2"
+            ],
+            [
+              "CERRO DE ORTEGA",
+              "14",
+              "2,182",
+              "1,138",
+              "1,044",
+              "120"
+            ],
+            [
+              "CHANCHOPA",
+              "2",
+              "46",
+              "25",
+              "21",
+              "5"
+            ],
+            [
+              "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+              "1",
+              "73",
+              "36",
+              "37",
+              "3"
+            ],
+            [
+              "COFRADÍA DE MORELOS",
+              "5",
+              "672",
+              "358",
+              "314",
+              "32"
+            ],
+            [
+              "COLONIA BAYARDO",
+              "10",
+              "1,092",
+              "569",
+              "523",
+              "74"
+            ],
+            [
+              "EL HORMIGUERO UNO",
+              "2",
+              "149",
+              "75",
+              "74",
+              "8"
+            ],
+            [
+              "EL SAUCITO",
+              "2",
+              "45",
+              "28",
+              "17",
+              "3"
+            ],
+            [
+              "LA CARIMACHA [LUCIO LEÓN]",
+              "1",
+              "20",
+              "12",
+              "8",
+              "2"
+            ],
+            [
+              "LA CUARTA",
+              "3",
+              "26",
+              "13",
+              "13",
+              "4"
+            ],
+            [
+              "LA SALADA",
+              "2",
+              "7",
+              "3",
+              "4",
+              "2"
+            ],
+            [
+              "LAGUNA DE ALCUZAHUE",
+              "2",
+              "40",
+              "18",
+              "22",
+              "4"
+            ],
+            [
+              "LAS DOS ROSITAS",
+              "3",
+              "19",
+              "11",
+              "8",
+              "3"
+            ],
+            [
+              "MADRID",
+              "6",
+              "709",
+              "357",
+              "352",
+              "47"
+            ],
+            [
+              "SAN ÁNGEL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "1"
+            ],
+            [
+              "SAN JOSÉ",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2"
+            ],
+            [
+              "SAN MIGUEL DEL OJO DE AGUA",
+              "4",
+              "116",
+              "66",
+              "50",
+              "9"
+            ],
+            [
+              "TECOLAPA",
+              "4",
+              "170",
+              "83",
+              "87",
+              "12"
+            ],
+            [
+              "TECOMÁN",
+              "137",
+              "22,216",
+              "11,476",
+              "10,740",
+              "1,620"
+            ],
+            [
+              "TECUANILLO [BALNEARIO]",
+              "1",
+              "12",
+              "6",
+              "6",
+              "1"
+            ],
+            [
+              "TOTAL",
+              "217",
+              "28,170",
+              "14,582",
+              "13,588",
+              "1,989"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "ARTURO NORIEGA PIZANO",
+              "2",
+              "30",
+              "15",
+              "15",
+              "3"
+            ],
+            [
+              "BOCA DE PASCUALES",
+              "3",
+              "8",
+              "5",
+              "3",
+              "2"
+            ],
+            [
+              "CALERAS",
+              "4",
+              "425",
+              "230",
+              "195",
+              "25"
+            ],
+            [
+              "CALLEJONES",
+              "3",
+              "73",
+              "37",
+              "36",
+              "5"
+            ],
+            [
+              "CERRITO DE AGUILAR",
+              "2",
+              "27",
+              "14",
+              "13",
+              "2"
+            ],
+            [
+              "CERRO DE ORTEGA",
+              "14",
+              "2,182",
+              "1,138",
+              "1,044",
+              "120"
+            ],
+            [
+              "CHANCHOPA",
+              "2",
+              "46",
+              "25",
+              "21",
+              "5"
+            ],
+            [
+              "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+              "1",
+              "73",
+              "36",
+              "37",
+              "3"
+            ],
+            [
+              "COFRADÍA DE MORELOS",
+              "5",
+              "672",
+              "358",
+              "314",
+              "32"
+            ],
+            [
+              "COLONIA BAYARDO",
+              "10",
+              "1,092",
+              "569",
+              "523",
+              "74"
+            ],
+            [
+              "EL HORMIGUERO UNO",
+              "2",
+              "149",
+              "75",
+              "74",
+              "8"
+            ],
+            [
+              "EL SAUCITO",
+              "2",
+              "45",
+              "28",
+              "17",
+              "3"
+            ],
+            [
+              "LA CARIMACHA [LUCIO LEÓN]",
+              "1",
+              "20",
+              "12",
+              "8",
+              "2"
+            ],
+            [
+              "LA CUARTA",
+              "3",
+              "26",
+              "13",
+              "13",
+              "4"
+            ],
+            [
+              "LA SALADA",
+              "2",
+              "7",
+              "3",
+              "4",
+              "2"
+            ],
+            [
+              "LAGUNA DE ALCUZAHUE",
+              "2",
+              "40",
+              "18",
+              "22",
+              "4"
+            ],
+            [
+              "LAS DOS ROSITAS",
+              "3",
+              "19",
+              "11",
+              "8",
+              "3"
+            ],
+            [
+              "MADRID",
+              "6",
+              "709",
+              "357",
+              "352",
+              "47"
+            ],
+            [
+              "SAN ÁNGEL",
+              "2",
+              "8",
+              "3",
+              "5",
+              "1"
+            ],
+            [
+              "SAN JOSÉ",
+              "2",
+              "5",
+              "4",
+              "1",
+              "2"
+            ],
+            [
+              "SAN MIGUEL DEL OJO DE AGUA",
+              "4",
+              "116",
+              "66",
+              "50",
+              "9"
+            ],
+            [
+              "TECOLAPA",
+              "4",
+              "170",
+              "83",
+              "87",
+              "12"
+            ],
+            [
+              "TECOMÁN",
+              "137",
+              "22,216",
+              "11,476",
+              "10,740",
+              "1,620"
+            ],
+            [
+              "TECUANILLO [BALNEARIO]",
+              "1",
+              "12",
+              "6",
+              "6",
+              "1"
+            ],
+            [
+              "TOTAL",
+              "217",
+              "28,170",
+              "14,582",
+              "13,588",
+              "1,989"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "municipality": "VILLA DE ÁLVAREZ",
+      "municipalityCode": "010",
+      "tables": [
+        {
+          "tableIndex": 0,
+          "data": [
+            [
+              "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+            ],
+            [
+              "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+            ]
+          ]
+        },
+        {
+          "tableIndex": 1,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: VILLA DE ÁLVAREZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DULCE\n\t\t3\n\t\t44\n\t\t16\n\t\t28\n\t\t3\n\t\n\t\n\t\tCIUDAD DE VILLA DE ÁLVAREZ\n\t\t150\n\t\t28,062\n\t\t14,075\n\t\t13,987\n\t\t2,035\n\t\n\t\n\t\tEL CHIVATO (PROVIDENCIA)\n\t\t2\n\t\t83\n\t\t43\n\t\t40\n\t\t4\n\t\n\t\n\t\tEL MIXCUATE\n\t\t3\n\t\t62\n\t\t30\n\t\t32\n\t\t5\n\t\n\t\n\t\tEL NARANJAL\n\t\t2\n\t\t28\n\t\t13\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL NUEVO NARANJAL\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tJULUAPAN\n\t\t4\n\t\t176\n\t\t74\n\t\t102\n\t\t14\n\t\n\t\n\t\tLA LIMA\n\t\t3\n\t\t99\n\t\t38\n\t\t61\n\t\t8\n\t\n\t\n\t\tLAS JOYITAS\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tPUEBLO NUEVO\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t172\n\t\t28,610\n\t\t14,318\n\t\t14,292\n\t\t2,077\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: VILLA DE ÁLVAREZ",
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹",
+              "AGUA DULCE",
+              "3",
+              "44",
+              "16",
+              "28",
+              "3",
+              "CIUDAD DE VILLA DE ÁLVAREZ",
+              "150",
+              "28,062",
+              "14,075",
+              "13,987",
+              "2,035",
+              "EL CHIVATO (PROVIDENCIA)",
+              "2",
+              "83",
+              "43",
+              "40",
+              "4",
+              "EL MIXCUATE",
+              "3",
+              "62",
+              "30",
+              "32",
+              "5",
+              "EL NARANJAL",
+              "2",
+              "28",
+              "13",
+              "15",
+              "2",
+              "EL NUEVO NARANJAL",
+              "1",
+              "11",
+              "5",
+              "6",
+              "1",
+              "JULUAPAN",
+              "4",
+              "176",
+              "74",
+              "102",
+              "14",
+              "LA LIMA",
+              "3",
+              "99",
+              "38",
+              "61",
+              "8",
+              "LAS JOYITAS",
+              "2",
+              "32",
+              "17",
+              "15",
+              "3",
+              "PUEBLO NUEVO",
+              "2",
+              "13",
+              "7",
+              "6",
+              "2",
+              "TOTAL",
+              "172",
+              "28,610",
+              "14,318",
+              "14,292",
+              "2,077",
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ],
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: VILLA DE ÁLVAREZ"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA DULCE",
+              "3",
+              "44",
+              "16",
+              "28",
+              "3"
+            ],
+            [
+              "CIUDAD DE VILLA DE ÁLVAREZ",
+              "150",
+              "28,062",
+              "14,075",
+              "13,987",
+              "2,035"
+            ],
+            [
+              "EL CHIVATO (PROVIDENCIA)",
+              "2",
+              "83",
+              "43",
+              "40",
+              "4"
+            ],
+            [
+              "EL MIXCUATE",
+              "3",
+              "62",
+              "30",
+              "32",
+              "5"
+            ],
+            [
+              "EL NARANJAL",
+              "2",
+              "28",
+              "13",
+              "15",
+              "2"
+            ],
+            [
+              "EL NUEVO NARANJAL",
+              "1",
+              "11",
+              "5",
+              "6",
+              "1"
+            ],
+            [
+              "JULUAPAN",
+              "4",
+              "176",
+              "74",
+              "102",
+              "14"
+            ],
+            [
+              "LA LIMA",
+              "3",
+              "99",
+              "38",
+              "61",
+              "8"
+            ],
+            [
+              "LAS JOYITAS",
+              "2",
+              "32",
+              "17",
+              "15",
+              "3"
+            ],
+            [
+              "PUEBLO NUEVO",
+              "2",
+              "13",
+              "7",
+              "6",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "172",
+              "28,610",
+              "14,318",
+              "14,292",
+              "2,077"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        },
+        {
+          "tableIndex": 2,
+          "data": [
+            [
+              "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: VILLA DE ÁLVAREZ"
+            ],
+            [
+              "Localidad",
+              "Escuelas",
+              "Alumnos",
+              "Alumnos Mujeres",
+              "Alumnos Hombres",
+              "Docentes¹"
+            ],
+            [
+              "AGUA DULCE",
+              "3",
+              "44",
+              "16",
+              "28",
+              "3"
+            ],
+            [
+              "CIUDAD DE VILLA DE ÁLVAREZ",
+              "150",
+              "28,062",
+              "14,075",
+              "13,987",
+              "2,035"
+            ],
+            [
+              "EL CHIVATO (PROVIDENCIA)",
+              "2",
+              "83",
+              "43",
+              "40",
+              "4"
+            ],
+            [
+              "EL MIXCUATE",
+              "3",
+              "62",
+              "30",
+              "32",
+              "5"
+            ],
+            [
+              "EL NARANJAL",
+              "2",
+              "28",
+              "13",
+              "15",
+              "2"
+            ],
+            [
+              "EL NUEVO NARANJAL",
+              "1",
+              "11",
+              "5",
+              "6",
+              "1"
+            ],
+            [
+              "JULUAPAN",
+              "4",
+              "176",
+              "74",
+              "102",
+              "14"
+            ],
+            [
+              "LA LIMA",
+              "3",
+              "99",
+              "38",
+              "61",
+              "8"
+            ],
+            [
+              "LAS JOYITAS",
+              "2",
+              "32",
+              "17",
+              "15",
+              "3"
+            ],
+            [
+              "PUEBLO NUEVO",
+              "2",
+              "13",
+              "7",
+              "6",
+              "2"
+            ],
+            [
+              "TOTAL",
+              "172",
+              "28,610",
+              "14,318",
+              "14,292",
+              "2,077"
+            ],
+            [
+              "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+            ],
+            [
+              "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-10-30T06:59:08.624Z"
+}
