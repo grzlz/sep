@@ -59,8 +59,8 @@ async function extractTableData(page) {
   return data;
 }
 
-async function scrapeState(page, state, includeAllMunicipios = false) {
-  console.log(`\n📍 Scraping state: ${state.name} (${state.value})`);
+async function scrapeState(page, state, includeAllMunicipios = false, stateIndex = 0, totalStates = 0) {
+  console.log(`\n📍 [${stateIndex}/${totalStates}] Scraping state: ${state.name} (${state.value})`);
 
   // Navigate to main page
   await page.goto(BASE_URL, { waitUntil: 'networkidle' });
@@ -84,8 +84,9 @@ async function scrapeState(page, state, includeAllMunicipios = false) {
     };
 
     // Scrape each municipality
-    for (const municipio of municipios) {
-      console.log(`   📍 Scraping: ${municipio.name}`);
+    for (let i = 0; i < municipios.length; i++) {
+      const municipio = municipios[i];
+      console.log(`   [${i + 1}/${municipios.length}] ${municipio.name}`);
 
       await page.goto(BASE_URL, { waitUntil: 'networkidle' });
       await page.selectOption('select[name="DDLEntidad"]', state.value);
@@ -138,26 +139,28 @@ async function main() {
     const states = await getStates(page);
     console.log(`Found ${states.length} states\n`);
 
-    // Test with first state only
-    const testState = states[0]; // Aguascalientes
-    const data = await scrapeState(page, testState, true);
+    const startTime = Date.now();
+    let completedStates = 0;
 
-    // Save to file
-    const filename = `${OUTPUT_DIR}/${testState.name.toLowerCase().replace(/\s+/g, '_')}.json`;
-    writeFileSync(filename, JSON.stringify(data, null, 2));
-    console.log(`\n✅ Data saved to: ${filename}`);
+    // Scrape ALL states
+    for (let i = 0; i < states.length; i++) {
+      const state = states[i];
+      const stateStartTime = Date.now();
 
-    console.log('\n💡 To scrape all states, uncomment the loop in main()');
+      const data = await scrapeState(page, state, true, i + 1, states.length);
 
-    // Uncomment below to scrape ALL states
-    /*
-    for (const state of states) {
-      const data = await scrapeState(page, state, true);
       const filename = `${OUTPUT_DIR}/${state.name.toLowerCase().replace(/\s+/g, '_')}.json`;
       writeFileSync(filename, JSON.stringify(data, null, 2));
-      console.log(`✅ Saved: ${filename}`);
+
+      completedStates++;
+      const stateTime = ((Date.now() - stateStartTime) / 1000).toFixed(1);
+      const avgTimePerState = (Date.now() - startTime) / completedStates;
+      const remainingStates = states.length - completedStates;
+      const estimatedTimeLeft = (avgTimePerState * remainingStates / 60000).toFixed(1);
+
+      console.log(`✅ Saved: ${filename} (${stateTime}s)`);
+      console.log(`⏱️  Progress: ${completedStates}/${states.length} | ETA: ${estimatedTimeLeft} min\n`);
     }
-    */
 
   } catch (error) {
     console.error('❌ Error:', error.message);
