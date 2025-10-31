@@ -1,0 +1,1220 @@
+{
+  "municipality": "HUIXTÁN",
+  "municipalityCode": "038",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t3\n\t\t198\n\t\t97\n\t\t101\n\t\t10\n\t\n\t\n\t\tALAJ CHAM\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tBAZOM\n\t\t2\n\t\t27\n\t\t12\n\t\t15\n\t\t3\n\t\n\t\n\t\tBOCHILTE\n\t\t2\n\t\t132\n\t\t65\n\t\t67\n\t\t4\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t104\n\t\t52\n\t\t52\n\t\t4\n\t\n\t\n\t\tCARMEN YALCHUCH\n\t\t3\n\t\t606\n\t\t322\n\t\t284\n\t\t21\n\t\n\t\n\t\tCHAQUILOC\n\t\t2\n\t\t39\n\t\t15\n\t\t24\n\t\t3\n\t\n\t\n\t\tCHEMPIL\n\t\t3\n\t\t225\n\t\t105\n\t\t120\n\t\t7\n\t\n\t\n\t\tCH'ENCHIBTIK\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tCHIGTÓN\n\t\t2\n\t\t27\n\t\t16\n\t\t11\n\t\t2\n\t\n\t\n\t\tCHISHTÉ 1\n\t\t2\n\t\t57\n\t\t30\n\t\t27\n\t\t4\n\t\n\t\n\t\tDOLORES CHEMPIL\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tDURAZNAL\n\t\t1\n\t\t6\n\t\t0\n\t\t6\n\t\t1\n\t\n\t\n\t\tESHPUILHO\n\t\t2\n\t\t165\n\t\t69\n\t\t96\n\t\t7\n\t\n\t\n\t\tHUIXTÁN\n\t\t8\n\t\t962\n\t\t473\n\t\t489\n\t\t55\n\t\n\t\n\t\tJOCOSIC\n\t\t3\n\t\t266\n\t\t131\n\t\t135\n\t\t11\n\t\n\t\n\t\tLA ERA\n\t\t3\n\t\t111\n\t\t46\n\t\t65\n\t\t7\n\t\n\t\n\t\tLA INDEPENDENCIA\n\t\t3\n\t\t274\n\t\t122\n\t\t152\n\t\t11\n\t\n\t\n\t\tLA LIBERTAD\n\t\t4\n\t\t420\n\t\t206\n\t\t214\n\t\t17\n\t\n\t\n\t\tLA VENTANA\n\t\t2\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tLAS LAJAS\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS LOMAS\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS (CHILIL)\n\t\t3\n\t\t300\n\t\t153\n\t\t147\n\t\t14\n\t\n\t\n\t\tLOS POZOS\n\t\t4\n\t\t707\n\t\t327\n\t\t380\n\t\t27\n\t\n\t\n\t\tLOS RANCHOS\n\t\t2\n\t\t58\n\t\t36\n\t\t22\n\t\t2\n\t\n\t\n\t\tMONTE BONITO\n\t\t2\n\t\t144\n\t\t80\n\t\t64\n\t\t5\n\t\n\t\n\t\tOQUEM\n\t\t2\n\t\t146\n\t\t69\n\t\t77\n\t\t8\n\t\n\t\n\t\tPAYTAGIL\n\t\t3\n\t\t38\n\t\t16\n\t\t22\n\t\t4\n\t\n\t\n\t\tPOBLACIÓN\n\t\t2\n\t\t44\n\t\t18\n\t\t26\n\t\t3\n\t\n\t\n\t\tREFORMA AGRARIA\n\t\t2\n\t\t30\n\t\t13\n\t\t17\n\t\t2\n\t\n\t\n\t\tRÍO FLORIDO (YACHA)\n\t\t2\n\t\t34\n\t\t16\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN ANDRÉS PUERTO RICO\n\t\t3\n\t\t288\n\t\t132\n\t\t156\n\t\t12\n\t\n\t\n\t\tSAN ANTONIO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO BALASHILNA\n\t\t2\n\t\t134\n\t\t68\n\t\t66\n\t\t5\n\t\n\t\n\t\tSAN FERNANDO\n\t\t2\n\t\t183\n\t\t86\n\t\t97\n\t\t7\n\t\n\t\n\t\tSAN GREGORIO DE LAS CASAS\n\t\t2\n\t\t254\n\t\t117\n\t\t137\n\t\t10\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ\n\t\t2\n\t\t46\n\t\t23\n\t\t23\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ EL PORVENIR\n\t\t3\n\t\t88\n\t\t40\n\t\t48\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ LA NUEVA\n\t\t2\n\t\t136\n\t\t59\n\t\t77\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ LAS FLORES\n\t\t1\n\t\t23\n\t\t13\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN MARTÍN POR NO VENCIDO\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tSAN PEDRO LA TEJERÍA\n\t\t2\n\t\t186\n\t\t81\n\t\t105\n\t\t7\n\t\n\t\n\t\tSAN PEDRO PEDERNAL\n\t\t4\n\t\t512\n\t\t246\n\t\t266\n\t\t19\n\t\n\t\n\t\tSANTA ROSA\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t4\n\t\n\t\n\t\tSNA OQUIL\n\t\t2\n\t\t61\n\t\t25\n\t\t36\n\t\t3\n\t\n\t\n\t\tTZAJALHÓ\n\t\t2\n\t\t45\n\t\t22\n\t\t23\n\t\t3\n\t\n\t\n\t\tTZELEPAT\n\t\t1\n\t\t68\n\t\t31\n\t\t37\n\t\t3\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t4\n\t\t338\n\t\t183\n\t\t155\n\t\t15\n\t\n\t\n\t\tYALCUC\n\t\t2\n\t\t62\n\t\t32\n\t\t30\n\t\t4\n\t\n\t\n\t\tZITIM\n\t\t1\n\t\t14\n\t\t5\n\t\t9\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t119\n\t\t7,714\n\t\t3,722\n\t\t3,992\n\t\t356\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "198",
+          "97",
+          "101",
+          "10",
+          "ALAJ CHAM",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "BAZOM",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3",
+          "BOCHILTE",
+          "2",
+          "132",
+          "65",
+          "67",
+          "4",
+          "BUENAVISTA",
+          "3",
+          "104",
+          "52",
+          "52",
+          "4",
+          "CARMEN YALCHUCH",
+          "3",
+          "606",
+          "322",
+          "284",
+          "21",
+          "CHAQUILOC",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3",
+          "CHEMPIL",
+          "3",
+          "225",
+          "105",
+          "120",
+          "7",
+          "CH'ENCHIBTIK",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "CHIGTÓN",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2",
+          "CHISHTÉ 1",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4",
+          "DOLORES CHEMPIL",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "DURAZNAL",
+          "1",
+          "6",
+          "0",
+          "6",
+          "1",
+          "ESHPUILHO",
+          "2",
+          "165",
+          "69",
+          "96",
+          "7",
+          "HUIXTÁN",
+          "8",
+          "962",
+          "473",
+          "489",
+          "55",
+          "JOCOSIC",
+          "3",
+          "266",
+          "131",
+          "135",
+          "11",
+          "LA ERA",
+          "3",
+          "111",
+          "46",
+          "65",
+          "7",
+          "LA INDEPENDENCIA",
+          "3",
+          "274",
+          "122",
+          "152",
+          "11",
+          "LA LIBERTAD",
+          "4",
+          "420",
+          "206",
+          "214",
+          "17",
+          "LA VENTANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2",
+          "LAS LAJAS",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "LAS LOMAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "LÁZARO CÁRDENAS (CHILIL)",
+          "3",
+          "300",
+          "153",
+          "147",
+          "14",
+          "LOS POZOS",
+          "4",
+          "707",
+          "327",
+          "380",
+          "27",
+          "LOS RANCHOS",
+          "2",
+          "58",
+          "36",
+          "22",
+          "2",
+          "MONTE BONITO",
+          "2",
+          "144",
+          "80",
+          "64",
+          "5",
+          "OQUEM",
+          "2",
+          "146",
+          "69",
+          "77",
+          "8",
+          "PAYTAGIL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "4",
+          "POBLACIÓN",
+          "2",
+          "44",
+          "18",
+          "26",
+          "3",
+          "REFORMA AGRARIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2",
+          "RÍO FLORIDO (YACHA)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2",
+          "SAN ANDRÉS PUERTO RICO",
+          "3",
+          "288",
+          "132",
+          "156",
+          "12",
+          "SAN ANTONIO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SAN ANTONIO BALASHILNA",
+          "2",
+          "134",
+          "68",
+          "66",
+          "5",
+          "SAN FERNANDO",
+          "2",
+          "183",
+          "86",
+          "97",
+          "7",
+          "SAN GREGORIO DE LAS CASAS",
+          "2",
+          "254",
+          "117",
+          "137",
+          "10",
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2",
+          "SAN JOSÉ",
+          "2",
+          "46",
+          "23",
+          "23",
+          "3",
+          "SAN JOSÉ EL PORVENIR",
+          "3",
+          "88",
+          "40",
+          "48",
+          "4",
+          "SAN JOSÉ LA NUEVA",
+          "2",
+          "136",
+          "59",
+          "77",
+          "6",
+          "SAN JOSÉ LAS FLORES",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1",
+          "SAN MARTÍN POR NO VENCIDO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3",
+          "SAN PEDRO LA TEJERÍA",
+          "2",
+          "186",
+          "81",
+          "105",
+          "7",
+          "SAN PEDRO PEDERNAL",
+          "4",
+          "512",
+          "246",
+          "266",
+          "19",
+          "SANTA ROSA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "4",
+          "SNA OQUIL",
+          "2",
+          "61",
+          "25",
+          "36",
+          "3",
+          "TZAJALHÓ",
+          "2",
+          "45",
+          "22",
+          "23",
+          "3",
+          "TZELEPAT",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3",
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "338",
+          "183",
+          "155",
+          "15",
+          "YALCUC",
+          "2",
+          "62",
+          "32",
+          "30",
+          "4",
+          "ZITIM",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1",
+          "TOTAL",
+          "119",
+          "7,714",
+          "3,722",
+          "3,992",
+          "356",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "198",
+          "97",
+          "101",
+          "10"
+        ],
+        [
+          "ALAJ CHAM",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "BAZOM",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "BOCHILTE",
+          "2",
+          "132",
+          "65",
+          "67",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "104",
+          "52",
+          "52",
+          "4"
+        ],
+        [
+          "CARMEN YALCHUCH",
+          "3",
+          "606",
+          "322",
+          "284",
+          "21"
+        ],
+        [
+          "CHAQUILOC",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "CHEMPIL",
+          "3",
+          "225",
+          "105",
+          "120",
+          "7"
+        ],
+        [
+          "CH'ENCHIBTIK",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "CHIGTÓN",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "CHISHTÉ 1",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "DOLORES CHEMPIL",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "DURAZNAL",
+          "1",
+          "6",
+          "0",
+          "6",
+          "1"
+        ],
+        [
+          "ESHPUILHO",
+          "2",
+          "165",
+          "69",
+          "96",
+          "7"
+        ],
+        [
+          "HUIXTÁN",
+          "8",
+          "962",
+          "473",
+          "489",
+          "55"
+        ],
+        [
+          "JOCOSIC",
+          "3",
+          "266",
+          "131",
+          "135",
+          "11"
+        ],
+        [
+          "LA ERA",
+          "3",
+          "111",
+          "46",
+          "65",
+          "7"
+        ],
+        [
+          "LA INDEPENDENCIA",
+          "3",
+          "274",
+          "122",
+          "152",
+          "11"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "420",
+          "206",
+          "214",
+          "17"
+        ],
+        [
+          "LA VENTANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "LAS LAJAS",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LAS LOMAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (CHILIL)",
+          "3",
+          "300",
+          "153",
+          "147",
+          "14"
+        ],
+        [
+          "LOS POZOS",
+          "4",
+          "707",
+          "327",
+          "380",
+          "27"
+        ],
+        [
+          "LOS RANCHOS",
+          "2",
+          "58",
+          "36",
+          "22",
+          "2"
+        ],
+        [
+          "MONTE BONITO",
+          "2",
+          "144",
+          "80",
+          "64",
+          "5"
+        ],
+        [
+          "OQUEM",
+          "2",
+          "146",
+          "69",
+          "77",
+          "8"
+        ],
+        [
+          "PAYTAGIL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "4"
+        ],
+        [
+          "POBLACIÓN",
+          "2",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "REFORMA AGRARIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "RÍO FLORIDO (YACHA)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANDRÉS PUERTO RICO",
+          "3",
+          "288",
+          "132",
+          "156",
+          "12"
+        ],
+        [
+          "SAN ANTONIO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN ANTONIO BALASHILNA",
+          "2",
+          "134",
+          "68",
+          "66",
+          "5"
+        ],
+        [
+          "SAN FERNANDO",
+          "2",
+          "183",
+          "86",
+          "97",
+          "7"
+        ],
+        [
+          "SAN GREGORIO DE LAS CASAS",
+          "2",
+          "254",
+          "117",
+          "137",
+          "10"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "46",
+          "23",
+          "23",
+          "3"
+        ],
+        [
+          "SAN JOSÉ EL PORVENIR",
+          "3",
+          "88",
+          "40",
+          "48",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LA NUEVA",
+          "2",
+          "136",
+          "59",
+          "77",
+          "6"
+        ],
+        [
+          "SAN JOSÉ LAS FLORES",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MARTÍN POR NO VENCIDO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SAN PEDRO LA TEJERÍA",
+          "2",
+          "186",
+          "81",
+          "105",
+          "7"
+        ],
+        [
+          "SAN PEDRO PEDERNAL",
+          "4",
+          "512",
+          "246",
+          "266",
+          "19"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "4"
+        ],
+        [
+          "SNA OQUIL",
+          "2",
+          "61",
+          "25",
+          "36",
+          "3"
+        ],
+        [
+          "TZAJALHÓ",
+          "2",
+          "45",
+          "22",
+          "23",
+          "3"
+        ],
+        [
+          "TZELEPAT",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "338",
+          "183",
+          "155",
+          "15"
+        ],
+        [
+          "YALCUC",
+          "2",
+          "62",
+          "32",
+          "30",
+          "4"
+        ],
+        [
+          "ZITIM",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "119",
+          "7,714",
+          "3,722",
+          "3,992",
+          "356"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "198",
+          "97",
+          "101",
+          "10"
+        ],
+        [
+          "ALAJ CHAM",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "BAZOM",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "BOCHILTE",
+          "2",
+          "132",
+          "65",
+          "67",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "104",
+          "52",
+          "52",
+          "4"
+        ],
+        [
+          "CARMEN YALCHUCH",
+          "3",
+          "606",
+          "322",
+          "284",
+          "21"
+        ],
+        [
+          "CHAQUILOC",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "CHEMPIL",
+          "3",
+          "225",
+          "105",
+          "120",
+          "7"
+        ],
+        [
+          "CH'ENCHIBTIK",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "CHIGTÓN",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "CHISHTÉ 1",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "DOLORES CHEMPIL",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "DURAZNAL",
+          "1",
+          "6",
+          "0",
+          "6",
+          "1"
+        ],
+        [
+          "ESHPUILHO",
+          "2",
+          "165",
+          "69",
+          "96",
+          "7"
+        ],
+        [
+          "HUIXTÁN",
+          "8",
+          "962",
+          "473",
+          "489",
+          "55"
+        ],
+        [
+          "JOCOSIC",
+          "3",
+          "266",
+          "131",
+          "135",
+          "11"
+        ],
+        [
+          "LA ERA",
+          "3",
+          "111",
+          "46",
+          "65",
+          "7"
+        ],
+        [
+          "LA INDEPENDENCIA",
+          "3",
+          "274",
+          "122",
+          "152",
+          "11"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "420",
+          "206",
+          "214",
+          "17"
+        ],
+        [
+          "LA VENTANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "LAS LAJAS",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LAS LOMAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (CHILIL)",
+          "3",
+          "300",
+          "153",
+          "147",
+          "14"
+        ],
+        [
+          "LOS POZOS",
+          "4",
+          "707",
+          "327",
+          "380",
+          "27"
+        ],
+        [
+          "LOS RANCHOS",
+          "2",
+          "58",
+          "36",
+          "22",
+          "2"
+        ],
+        [
+          "MONTE BONITO",
+          "2",
+          "144",
+          "80",
+          "64",
+          "5"
+        ],
+        [
+          "OQUEM",
+          "2",
+          "146",
+          "69",
+          "77",
+          "8"
+        ],
+        [
+          "PAYTAGIL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "4"
+        ],
+        [
+          "POBLACIÓN",
+          "2",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "REFORMA AGRARIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "RÍO FLORIDO (YACHA)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANDRÉS PUERTO RICO",
+          "3",
+          "288",
+          "132",
+          "156",
+          "12"
+        ],
+        [
+          "SAN ANTONIO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN ANTONIO BALASHILNA",
+          "2",
+          "134",
+          "68",
+          "66",
+          "5"
+        ],
+        [
+          "SAN FERNANDO",
+          "2",
+          "183",
+          "86",
+          "97",
+          "7"
+        ],
+        [
+          "SAN GREGORIO DE LAS CASAS",
+          "2",
+          "254",
+          "117",
+          "137",
+          "10"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "46",
+          "23",
+          "23",
+          "3"
+        ],
+        [
+          "SAN JOSÉ EL PORVENIR",
+          "3",
+          "88",
+          "40",
+          "48",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LA NUEVA",
+          "2",
+          "136",
+          "59",
+          "77",
+          "6"
+        ],
+        [
+          "SAN JOSÉ LAS FLORES",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MARTÍN POR NO VENCIDO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SAN PEDRO LA TEJERÍA",
+          "2",
+          "186",
+          "81",
+          "105",
+          "7"
+        ],
+        [
+          "SAN PEDRO PEDERNAL",
+          "4",
+          "512",
+          "246",
+          "266",
+          "19"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "4"
+        ],
+        [
+          "SNA OQUIL",
+          "2",
+          "61",
+          "25",
+          "36",
+          "3"
+        ],
+        [
+          "TZAJALHÓ",
+          "2",
+          "45",
+          "22",
+          "23",
+          "3"
+        ],
+        [
+          "TZELEPAT",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "338",
+          "183",
+          "155",
+          "15"
+        ],
+        [
+          "YALCUC",
+          "2",
+          "62",
+          "32",
+          "30",
+          "4"
+        ],
+        [
+          "ZITIM",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "119",
+          "7,714",
+          "3,722",
+          "3,992",
+          "356"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:45.610Z"
+}

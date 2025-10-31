@@ -1,0 +1,956 @@
+{
+  "municipality": "JOSÉ AZUETA",
+  "municipalityCode": "169",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: JOSÉ AZUETA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t3\n\t\t35\n\t\t14\n\t\t21\n\t\t4\n\t\n\t\n\t\tAMPLIACIÓN EJIDO SAN ANTONIO\n\t\t3\n\t\t16\n\t\t7\n\t\t9\n\t\t3\n\t\n\t\n\t\tARROYO DE LA CRUZ\n\t\t1\n\t\t47\n\t\t23\n\t\t24\n\t\t2\n\t\n\t\n\t\tBUENA VISTA\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tBUENOS AIRES\n\t\t1\n\t\t92\n\t\t45\n\t\t47\n\t\t6\n\t\n\t\n\t\tCUJULIAPAN\n\t\t4\n\t\t195\n\t\t102\n\t\t93\n\t\t13\n\t\n\t\n\t\tCURAZAO\n\t\t3\n\t\t139\n\t\t67\n\t\t72\n\t\t11\n\t\n\t\n\t\tEL CAFÉ Y ANEXAS\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t3\n\t\n\t\n\t\tEL CARRIZAL (MAJAHUAL)\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MAGUEY\n\t\t2\n\t\t64\n\t\t37\n\t\t27\n\t\t3\n\t\n\t\n\t\tESTACIÓN DOBLADERO\n\t\t4\n\t\t241\n\t\t109\n\t\t132\n\t\t14\n\t\n\t\n\t\tJUAN GARCÍA\n\t\t4\n\t\t119\n\t\t58\n\t\t61\n\t\t7\n\t\n\t\n\t\tJUAN MULATO\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA CUATEZONA\n\t\t1\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA FLORIDA SUR\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t5\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t40\n\t\t13\n\t\t27\n\t\t3\n\t\n\t\n\t\tLA GUADALUPE\n\t\t3\n\t\t87\n\t\t44\n\t\t43\n\t\t5\n\t\n\t\n\t\tLA NUEVA ESPERANZA\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA REFORMA\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tLAS CADENAS\n\t\t3\n\t\t59\n\t\t33\n\t\t26\n\t\t5\n\t\n\t\n\t\tLAS CRUCES (LA GALLINA)\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tLINDA VISTA\n\t\t6\n\t\t392\n\t\t193\n\t\t199\n\t\t23\n\t\n\t\n\t\tLLANETE\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tMANZANILLO\n\t\t2\n\t\t48\n\t\t21\n\t\t27\n\t\t3\n\t\n\t\n\t\tNUEVO SAN JOSÉ (CERRO DE ORO)\n\t\t2\n\t\t54\n\t\t31\n\t\t23\n\t\t4\n\t\n\t\n\t\tPASO DE LA VIRGEN\n\t\t1\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tPUEBLO NUEVO\n\t\t3\n\t\t82\n\t\t37\n\t\t45\n\t\t6\n\t\n\t\n\t\tRAMIE NUEVO\n\t\t3\n\t\t57\n\t\t27\n\t\t30\n\t\t5\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t3\n\t\t14\n\t\t10\n\t\t4\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DE BRAVO\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN JERÓNIMO\n\t\t4\n\t\t96\n\t\t47\n\t\t49\n\t\t8\n\t\n\t\n\t\tSAN LUIS\n\t\t4\n\t\t106\n\t\t41\n\t\t65\n\t\t8\n\t\n\t\n\t\tTENEJAPAN (TENEJAPAN DE MATA)\n\t\t4\n\t\t117\n\t\t54\n\t\t63\n\t\t8\n\t\n\t\n\t\tTESECHOACÁN\n\t\t3\n\t\t163\n\t\t92\n\t\t71\n\t\t13\n\t\n\t\n\t\tTIERRA Y LIBERTAD\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tTINAJA DE MATA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tTRES LAGUNAS\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tVICENTE GUERRERO (EL AGUACATE)\n\t\t4\n\t\t218\n\t\t107\n\t\t111\n\t\t13\n\t\n\t\n\t\tVILLA AZUETA\n\t\t19\n\t\t1,836\n\t\t931\n\t\t905\n\t\t125\n\t\n\t\n\t\tTOTAL\n\t\t110\n\t\t4,519\n\t\t2,246\n\t\t2,273\n\t\t323\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: JOSÉ AZUETA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "3",
+          "35",
+          "14",
+          "21",
+          "4",
+          "AMPLIACIÓN EJIDO SAN ANTONIO",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3",
+          "ARROYO DE LA CRUZ",
+          "1",
+          "47",
+          "23",
+          "24",
+          "2",
+          "BUENA VISTA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "BUENOS AIRES",
+          "1",
+          "92",
+          "45",
+          "47",
+          "6",
+          "CUJULIAPAN",
+          "4",
+          "195",
+          "102",
+          "93",
+          "13",
+          "CURAZAO",
+          "3",
+          "139",
+          "67",
+          "72",
+          "11",
+          "EL CAFÉ Y ANEXAS",
+          "2",
+          "16",
+          "9",
+          "7",
+          "3",
+          "EL CARRIZAL (MAJAHUAL)",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2",
+          "EL MAGUEY",
+          "2",
+          "64",
+          "37",
+          "27",
+          "3",
+          "ESTACIÓN DOBLADERO",
+          "4",
+          "241",
+          "109",
+          "132",
+          "14",
+          "JUAN GARCÍA",
+          "4",
+          "119",
+          "58",
+          "61",
+          "7",
+          "JUAN MULATO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LA CUATEZONA",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2",
+          "LA FLORIDA SUR",
+          "2",
+          "32",
+          "19",
+          "13",
+          "5",
+          "LA GLORIA",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3",
+          "LA GUADALUPE",
+          "3",
+          "87",
+          "44",
+          "43",
+          "5",
+          "LA NUEVA ESPERANZA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3",
+          "LA REFORMA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "LAS CADENAS",
+          "3",
+          "59",
+          "33",
+          "26",
+          "5",
+          "LAS CRUCES (LA GALLINA)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "2",
+          "LINDA VISTA",
+          "6",
+          "392",
+          "193",
+          "199",
+          "23",
+          "LLANETE",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "MANZANILLO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3",
+          "NUEVO SAN JOSÉ (CERRO DE ORO)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4",
+          "PASO DE LA VIRGEN",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1",
+          "PUEBLO NUEVO",
+          "3",
+          "82",
+          "37",
+          "45",
+          "6",
+          "RAMIE NUEVO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "5",
+          "RANCHO NUEVO",
+          "3",
+          "14",
+          "10",
+          "4",
+          "3",
+          "SAN ANTONIO DE BRAVO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3",
+          "SAN JERÓNIMO",
+          "4",
+          "96",
+          "47",
+          "49",
+          "8",
+          "SAN LUIS",
+          "4",
+          "106",
+          "41",
+          "65",
+          "8",
+          "TENEJAPAN (TENEJAPAN DE MATA)",
+          "4",
+          "117",
+          "54",
+          "63",
+          "8",
+          "TESECHOACÁN",
+          "3",
+          "163",
+          "92",
+          "71",
+          "13",
+          "TIERRA Y LIBERTAD",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "TINAJA DE MATA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "TRES LAGUNAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "VICENTE GUERRERO (EL AGUACATE)",
+          "4",
+          "218",
+          "107",
+          "111",
+          "13",
+          "VILLA AZUETA",
+          "19",
+          "1,836",
+          "931",
+          "905",
+          "125",
+          "TOTAL",
+          "110",
+          "4,519",
+          "2,246",
+          "2,273",
+          "323",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: JOSÉ AZUETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "35",
+          "14",
+          "21",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN EJIDO SAN ANTONIO",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3"
+        ],
+        [
+          "ARROYO DE LA CRUZ",
+          "1",
+          "47",
+          "23",
+          "24",
+          "2"
+        ],
+        [
+          "BUENA VISTA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "BUENOS AIRES",
+          "1",
+          "92",
+          "45",
+          "47",
+          "6"
+        ],
+        [
+          "CUJULIAPAN",
+          "4",
+          "195",
+          "102",
+          "93",
+          "13"
+        ],
+        [
+          "CURAZAO",
+          "3",
+          "139",
+          "67",
+          "72",
+          "11"
+        ],
+        [
+          "EL CAFÉ Y ANEXAS",
+          "2",
+          "16",
+          "9",
+          "7",
+          "3"
+        ],
+        [
+          "EL CARRIZAL (MAJAHUAL)",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "EL MAGUEY",
+          "2",
+          "64",
+          "37",
+          "27",
+          "3"
+        ],
+        [
+          "ESTACIÓN DOBLADERO",
+          "4",
+          "241",
+          "109",
+          "132",
+          "14"
+        ],
+        [
+          "JUAN GARCÍA",
+          "4",
+          "119",
+          "58",
+          "61",
+          "7"
+        ],
+        [
+          "JUAN MULATO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA CUATEZONA",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LA FLORIDA SUR",
+          "2",
+          "32",
+          "19",
+          "13",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "3",
+          "87",
+          "44",
+          "43",
+          "5"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LAS CADENAS",
+          "3",
+          "59",
+          "33",
+          "26",
+          "5"
+        ],
+        [
+          "LAS CRUCES (LA GALLINA)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LINDA VISTA",
+          "6",
+          "392",
+          "193",
+          "199",
+          "23"
+        ],
+        [
+          "LLANETE",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "MANZANILLO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "NUEVO SAN JOSÉ (CERRO DE ORO)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "PASO DE LA VIRGEN",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "PUEBLO NUEVO",
+          "3",
+          "82",
+          "37",
+          "45",
+          "6"
+        ],
+        [
+          "RAMIE NUEVO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "14",
+          "10",
+          "4",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE BRAVO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "SAN JERÓNIMO",
+          "4",
+          "96",
+          "47",
+          "49",
+          "8"
+        ],
+        [
+          "SAN LUIS",
+          "4",
+          "106",
+          "41",
+          "65",
+          "8"
+        ],
+        [
+          "TENEJAPAN (TENEJAPAN DE MATA)",
+          "4",
+          "117",
+          "54",
+          "63",
+          "8"
+        ],
+        [
+          "TESECHOACÁN",
+          "3",
+          "163",
+          "92",
+          "71",
+          "13"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "TINAJA DE MATA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "TRES LAGUNAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO (EL AGUACATE)",
+          "4",
+          "218",
+          "107",
+          "111",
+          "13"
+        ],
+        [
+          "VILLA AZUETA",
+          "19",
+          "1,836",
+          "931",
+          "905",
+          "125"
+        ],
+        [
+          "TOTAL",
+          "110",
+          "4,519",
+          "2,246",
+          "2,273",
+          "323"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: JOSÉ AZUETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "35",
+          "14",
+          "21",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN EJIDO SAN ANTONIO",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3"
+        ],
+        [
+          "ARROYO DE LA CRUZ",
+          "1",
+          "47",
+          "23",
+          "24",
+          "2"
+        ],
+        [
+          "BUENA VISTA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "BUENOS AIRES",
+          "1",
+          "92",
+          "45",
+          "47",
+          "6"
+        ],
+        [
+          "CUJULIAPAN",
+          "4",
+          "195",
+          "102",
+          "93",
+          "13"
+        ],
+        [
+          "CURAZAO",
+          "3",
+          "139",
+          "67",
+          "72",
+          "11"
+        ],
+        [
+          "EL CAFÉ Y ANEXAS",
+          "2",
+          "16",
+          "9",
+          "7",
+          "3"
+        ],
+        [
+          "EL CARRIZAL (MAJAHUAL)",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "EL MAGUEY",
+          "2",
+          "64",
+          "37",
+          "27",
+          "3"
+        ],
+        [
+          "ESTACIÓN DOBLADERO",
+          "4",
+          "241",
+          "109",
+          "132",
+          "14"
+        ],
+        [
+          "JUAN GARCÍA",
+          "4",
+          "119",
+          "58",
+          "61",
+          "7"
+        ],
+        [
+          "JUAN MULATO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA CUATEZONA",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LA FLORIDA SUR",
+          "2",
+          "32",
+          "19",
+          "13",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "3",
+          "87",
+          "44",
+          "43",
+          "5"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LAS CADENAS",
+          "3",
+          "59",
+          "33",
+          "26",
+          "5"
+        ],
+        [
+          "LAS CRUCES (LA GALLINA)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LINDA VISTA",
+          "6",
+          "392",
+          "193",
+          "199",
+          "23"
+        ],
+        [
+          "LLANETE",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "MANZANILLO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "NUEVO SAN JOSÉ (CERRO DE ORO)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "PASO DE LA VIRGEN",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "PUEBLO NUEVO",
+          "3",
+          "82",
+          "37",
+          "45",
+          "6"
+        ],
+        [
+          "RAMIE NUEVO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "14",
+          "10",
+          "4",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE BRAVO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "SAN JERÓNIMO",
+          "4",
+          "96",
+          "47",
+          "49",
+          "8"
+        ],
+        [
+          "SAN LUIS",
+          "4",
+          "106",
+          "41",
+          "65",
+          "8"
+        ],
+        [
+          "TENEJAPAN (TENEJAPAN DE MATA)",
+          "4",
+          "117",
+          "54",
+          "63",
+          "8"
+        ],
+        [
+          "TESECHOACÁN",
+          "3",
+          "163",
+          "92",
+          "71",
+          "13"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "TINAJA DE MATA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "TRES LAGUNAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO (EL AGUACATE)",
+          "4",
+          "218",
+          "107",
+          "111",
+          "13"
+        ],
+        [
+          "VILLA AZUETA",
+          "19",
+          "1,836",
+          "931",
+          "905",
+          "125"
+        ],
+        [
+          "TOTAL",
+          "110",
+          "4,519",
+          "2,246",
+          "2,273",
+          "323"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:47:27.108Z"
+}

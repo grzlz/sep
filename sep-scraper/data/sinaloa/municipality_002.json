@@ -1,0 +1,1044 @@
+{
+  "municipality": "ANGOSTURA",
+  "municipalityCode": "002",
+  "state": "SINALOA",
+  "stateCode": "25",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHOME\n\tANGOSTURA\n\tBADIRAGUATO\n\tCHOIX\n\tCONCORDIA\n\tCOSALÁ\n\tCULIACÁN\n\tEL FUERTE\n\tELDORADO\n\tELOTA\n\tESCUINAPA\n\tGUASAVE\n\tJUAN JOSÉ RÍOS\n\tMAZATLÁN\n\tMOCORITO\n\tNAVOLATO\n\tROSARIO\n\tSALVADOR ALVARADO\n\tSAN IGNACIO\n\tSINALOA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ANGOSTURA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t18 DE DICIEMBRE\n\t\t3\n\t\t58\n\t\t31\n\t\t27\n\t\t5\n\t\n\t\n\t\tAGUSTINA RAMÍREZ\n\t\t3\n\t\t267\n\t\t143\n\t\t124\n\t\t17\n\t\n\t\n\t\tALHUEY\n\t\t5\n\t\t398\n\t\t204\n\t\t194\n\t\t35\n\t\n\t\n\t\tANGOSTURA\n\t\t10\n\t\t1,860\n\t\t976\n\t\t884\n\t\t99\n\t\n\t\n\t\tBATAMOTOS\n\t\t3\n\t\t57\n\t\t26\n\t\t31\n\t\t6\n\t\n\t\n\t\tBATURY\n\t\t5\n\t\t236\n\t\t107\n\t\t129\n\t\t14\n\t\n\t\n\t\tBRUNO BELTRÁN GARCÍA\n\t\t2\n\t\t46\n\t\t18\n\t\t28\n\t\t3\n\t\n\t\n\t\tCAMPO EL GENERAL\n\t\t2\n\t\t83\n\t\t38\n\t\t45\n\t\t4\n\t\n\t\n\t\tCAPOMOS\n\t\t4\n\t\t228\n\t\t106\n\t\t122\n\t\t13\n\t\n\t\n\t\tCERRO DE LOS SÁNCHEZ\n\t\t2\n\t\t24\n\t\t5\n\t\t19\n\t\t2\n\t\n\t\n\t\tCERRO SEGUNDO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tCOLONIA AGRÍCOLA MÉXICO (PALMITAS)\n\t\t4\n\t\t543\n\t\t258\n\t\t285\n\t\t55\n\t\n\t\n\t\tCOLONIA AGRÍCOLA SINALOA\n\t\t2\n\t\t84\n\t\t40\n\t\t44\n\t\t4\n\t\n\t\n\t\tCOLONIA INDEPENDENCIA (CHINITOS)\n\t\t5\n\t\t942\n\t\t442\n\t\t500\n\t\t64\n\t\n\t\n\t\tCOSTA AZUL\n\t\t5\n\t\t335\n\t\t165\n\t\t170\n\t\t30\n\t\n\t\n\t\tDÁMASO CÁRDENAS\n\t\t2\n\t\t24\n\t\t8\n\t\t16\n\t\t2\n\t\n\t\n\t\tEJIDO INDEPENDENCIA\n\t\t3\n\t\t174\n\t\t87\n\t\t87\n\t\t17\n\t\n\t\n\t\tEL BATALLÓN (EL BATALLÓN DE LOS PAYANES)\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ÉBANO\n\t\t4\n\t\t234\n\t\t95\n\t\t139\n\t\t15\n\t\n\t\n\t\tEL ENCANTO\n\t\t1\n\t\t1\n\t\t0\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL LLANO\n\t\t2\n\t\t46\n\t\t21\n\t\t25\n\t\t4\n\t\n\t\n\t\tESTACIÓN ACATITA\n\t\t3\n\t\t118\n\t\t65\n\t\t53\n\t\t13\n\t\n\t\n\t\tGUSTAVO DÍAZ ORDAZ (CAMPO PLATA)\n\t\t5\n\t\t284\n\t\t128\n\t\t156\n\t\t33\n\t\n\t\n\t\tIGNACIO ALLENDE\n\t\t2\n\t\t40\n\t\t21\n\t\t19\n\t\t2\n\t\n\t\n\t\tLA CERCADA\n\t\t2\n\t\t31\n\t\t20\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA COLORADA\n\t\t1\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t3\n\t\t237\n\t\t113\n\t\t124\n\t\t10\n\t\n\t\n\t\tLA ILAMA\n\t\t2\n\t\t18\n\t\t12\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA ISLETA\n\t\t1\n\t\t10\n\t\t8\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PALMA\n\t\t2\n\t\t147\n\t\t81\n\t\t66\n\t\t8\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t2\n\t\t63\n\t\t40\n\t\t23\n\t\t3\n\t\n\t\n\t\tLA REFORMA\n\t\t10\n\t\t1,372\n\t\t684\n\t\t688\n\t\t105\n\t\n\t\n\t\tLA UNIÓN\n\t\t1\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tLAS INFAMIAS\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLEOPOLDO SÁNCHEZ CELIS (EL GATO DE LARA)\n\t\t5\n\t\t1,283\n\t\t574\n\t\t709\n\t\t116\n\t\n\t\n\t\tNINGUNO [DELIA MORENO]\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tPLAYA COLORADA\n\t\t3\n\t\t146\n\t\t63\n\t\t83\n\t\t11\n\t\n\t\n\t\tPROTOMÁRTIR DE SINALOA\n\t\t4\n\t\t244\n\t\t118\n\t\t126\n\t\t28\n\t\n\t\n\t\tSAN ANTONIO\n\t\t4\n\t\t108\n\t\t57\n\t\t51\n\t\t14\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t208\n\t\t101\n\t\t107\n\t\t11\n\t\n\t\n\t\tSAN LUCIANO\n\t\t3\n\t\t79\n\t\t40\n\t\t39\n\t\t4\n\t\n\t\n\t\tTOBERI\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tVALENTÍN GÓMEZ FARÍAS (EL MUERTO)\n\t\t3\n\t\t88\n\t\t41\n\t\t47\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t132\n\t\t10,194\n\t\t4,973\n\t\t5,221\n\t\t770\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ANGOSTURA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "18 DE DICIEMBRE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "5",
+          "AGUSTINA RAMÍREZ",
+          "3",
+          "267",
+          "143",
+          "124",
+          "17",
+          "ALHUEY",
+          "5",
+          "398",
+          "204",
+          "194",
+          "35",
+          "ANGOSTURA",
+          "10",
+          "1,860",
+          "976",
+          "884",
+          "99",
+          "BATAMOTOS",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6",
+          "BATURY",
+          "5",
+          "236",
+          "107",
+          "129",
+          "14",
+          "BRUNO BELTRÁN GARCÍA",
+          "2",
+          "46",
+          "18",
+          "28",
+          "3",
+          "CAMPO EL GENERAL",
+          "2",
+          "83",
+          "38",
+          "45",
+          "4",
+          "CAPOMOS",
+          "4",
+          "228",
+          "106",
+          "122",
+          "13",
+          "CERRO DE LOS SÁNCHEZ",
+          "2",
+          "24",
+          "5",
+          "19",
+          "2",
+          "CERRO SEGUNDO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "COLONIA AGRÍCOLA MÉXICO (PALMITAS)",
+          "4",
+          "543",
+          "258",
+          "285",
+          "55",
+          "COLONIA AGRÍCOLA SINALOA",
+          "2",
+          "84",
+          "40",
+          "44",
+          "4",
+          "COLONIA INDEPENDENCIA (CHINITOS)",
+          "5",
+          "942",
+          "442",
+          "500",
+          "64",
+          "COSTA AZUL",
+          "5",
+          "335",
+          "165",
+          "170",
+          "30",
+          "DÁMASO CÁRDENAS",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2",
+          "EJIDO INDEPENDENCIA",
+          "3",
+          "174",
+          "87",
+          "87",
+          "17",
+          "EL BATALLÓN (EL BATALLÓN DE LOS PAYANES)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL ÉBANO",
+          "4",
+          "234",
+          "95",
+          "139",
+          "15",
+          "EL ENCANTO",
+          "1",
+          "1",
+          "0",
+          "1",
+          "1",
+          "EL LLANO",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4",
+          "ESTACIÓN ACATITA",
+          "3",
+          "118",
+          "65",
+          "53",
+          "13",
+          "GUSTAVO DÍAZ ORDAZ (CAMPO PLATA)",
+          "5",
+          "284",
+          "128",
+          "156",
+          "33",
+          "IGNACIO ALLENDE",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2",
+          "LA CERCADA",
+          "2",
+          "31",
+          "20",
+          "11",
+          "2",
+          "LA COLORADA",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2",
+          "LA ESPERANZA",
+          "3",
+          "237",
+          "113",
+          "124",
+          "10",
+          "LA ILAMA",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2",
+          "LA ISLETA",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1",
+          "LA PALMA",
+          "2",
+          "147",
+          "81",
+          "66",
+          "8",
+          "LA PRIMAVERA",
+          "2",
+          "63",
+          "40",
+          "23",
+          "3",
+          "LA REFORMA",
+          "10",
+          "1,372",
+          "684",
+          "688",
+          "105",
+          "LA UNIÓN",
+          "1",
+          "20",
+          "7",
+          "13",
+          "2",
+          "LAS INFAMIAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LEOPOLDO SÁNCHEZ CELIS (EL GATO DE LARA)",
+          "5",
+          "1,283",
+          "574",
+          "709",
+          "116",
+          "NINGUNO [DELIA MORENO]",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "PLAYA COLORADA",
+          "3",
+          "146",
+          "63",
+          "83",
+          "11",
+          "PROTOMÁRTIR DE SINALOA",
+          "4",
+          "244",
+          "118",
+          "126",
+          "28",
+          "SAN ANTONIO",
+          "4",
+          "108",
+          "57",
+          "51",
+          "14",
+          "SAN ISIDRO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11",
+          "SAN LUCIANO",
+          "3",
+          "79",
+          "40",
+          "39",
+          "4",
+          "TOBERI",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "VALENTÍN GÓMEZ FARÍAS (EL MUERTO)",
+          "3",
+          "88",
+          "41",
+          "47",
+          "7",
+          "TOTAL",
+          "132",
+          "10,194",
+          "4,973",
+          "5,221",
+          "770",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ANGOSTURA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE DICIEMBRE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "5"
+        ],
+        [
+          "AGUSTINA RAMÍREZ",
+          "3",
+          "267",
+          "143",
+          "124",
+          "17"
+        ],
+        [
+          "ALHUEY",
+          "5",
+          "398",
+          "204",
+          "194",
+          "35"
+        ],
+        [
+          "ANGOSTURA",
+          "10",
+          "1,860",
+          "976",
+          "884",
+          "99"
+        ],
+        [
+          "BATAMOTOS",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6"
+        ],
+        [
+          "BATURY",
+          "5",
+          "236",
+          "107",
+          "129",
+          "14"
+        ],
+        [
+          "BRUNO BELTRÁN GARCÍA",
+          "2",
+          "46",
+          "18",
+          "28",
+          "3"
+        ],
+        [
+          "CAMPO EL GENERAL",
+          "2",
+          "83",
+          "38",
+          "45",
+          "4"
+        ],
+        [
+          "CAPOMOS",
+          "4",
+          "228",
+          "106",
+          "122",
+          "13"
+        ],
+        [
+          "CERRO DE LOS SÁNCHEZ",
+          "2",
+          "24",
+          "5",
+          "19",
+          "2"
+        ],
+        [
+          "CERRO SEGUNDO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA MÉXICO (PALMITAS)",
+          "4",
+          "543",
+          "258",
+          "285",
+          "55"
+        ],
+        [
+          "COLONIA AGRÍCOLA SINALOA",
+          "2",
+          "84",
+          "40",
+          "44",
+          "4"
+        ],
+        [
+          "COLONIA INDEPENDENCIA (CHINITOS)",
+          "5",
+          "942",
+          "442",
+          "500",
+          "64"
+        ],
+        [
+          "COSTA AZUL",
+          "5",
+          "335",
+          "165",
+          "170",
+          "30"
+        ],
+        [
+          "DÁMASO CÁRDENAS",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EJIDO INDEPENDENCIA",
+          "3",
+          "174",
+          "87",
+          "87",
+          "17"
+        ],
+        [
+          "EL BATALLÓN (EL BATALLÓN DE LOS PAYANES)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL ÉBANO",
+          "4",
+          "234",
+          "95",
+          "139",
+          "15"
+        ],
+        [
+          "EL ENCANTO",
+          "1",
+          "1",
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "EL LLANO",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4"
+        ],
+        [
+          "ESTACIÓN ACATITA",
+          "3",
+          "118",
+          "65",
+          "53",
+          "13"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ (CAMPO PLATA)",
+          "5",
+          "284",
+          "128",
+          "156",
+          "33"
+        ],
+        [
+          "IGNACIO ALLENDE",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2"
+        ],
+        [
+          "LA CERCADA",
+          "2",
+          "31",
+          "20",
+          "11",
+          "2"
+        ],
+        [
+          "LA COLORADA",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "237",
+          "113",
+          "124",
+          "10"
+        ],
+        [
+          "LA ILAMA",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "LA ISLETA",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "147",
+          "81",
+          "66",
+          "8"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "63",
+          "40",
+          "23",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "10",
+          "1,372",
+          "684",
+          "688",
+          "105"
+        ],
+        [
+          "LA UNIÓN",
+          "1",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "LAS INFAMIAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LEOPOLDO SÁNCHEZ CELIS (EL GATO DE LARA)",
+          "5",
+          "1,283",
+          "574",
+          "709",
+          "116"
+        ],
+        [
+          "NINGUNO [DELIA MORENO]",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "PLAYA COLORADA",
+          "3",
+          "146",
+          "63",
+          "83",
+          "11"
+        ],
+        [
+          "PROTOMÁRTIR DE SINALOA",
+          "4",
+          "244",
+          "118",
+          "126",
+          "28"
+        ],
+        [
+          "SAN ANTONIO",
+          "4",
+          "108",
+          "57",
+          "51",
+          "14"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11"
+        ],
+        [
+          "SAN LUCIANO",
+          "3",
+          "79",
+          "40",
+          "39",
+          "4"
+        ],
+        [
+          "TOBERI",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "VALENTÍN GÓMEZ FARÍAS (EL MUERTO)",
+          "3",
+          "88",
+          "41",
+          "47",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "132",
+          "10,194",
+          "4,973",
+          "5,221",
+          "770"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ANGOSTURA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE DICIEMBRE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "5"
+        ],
+        [
+          "AGUSTINA RAMÍREZ",
+          "3",
+          "267",
+          "143",
+          "124",
+          "17"
+        ],
+        [
+          "ALHUEY",
+          "5",
+          "398",
+          "204",
+          "194",
+          "35"
+        ],
+        [
+          "ANGOSTURA",
+          "10",
+          "1,860",
+          "976",
+          "884",
+          "99"
+        ],
+        [
+          "BATAMOTOS",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6"
+        ],
+        [
+          "BATURY",
+          "5",
+          "236",
+          "107",
+          "129",
+          "14"
+        ],
+        [
+          "BRUNO BELTRÁN GARCÍA",
+          "2",
+          "46",
+          "18",
+          "28",
+          "3"
+        ],
+        [
+          "CAMPO EL GENERAL",
+          "2",
+          "83",
+          "38",
+          "45",
+          "4"
+        ],
+        [
+          "CAPOMOS",
+          "4",
+          "228",
+          "106",
+          "122",
+          "13"
+        ],
+        [
+          "CERRO DE LOS SÁNCHEZ",
+          "2",
+          "24",
+          "5",
+          "19",
+          "2"
+        ],
+        [
+          "CERRO SEGUNDO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA MÉXICO (PALMITAS)",
+          "4",
+          "543",
+          "258",
+          "285",
+          "55"
+        ],
+        [
+          "COLONIA AGRÍCOLA SINALOA",
+          "2",
+          "84",
+          "40",
+          "44",
+          "4"
+        ],
+        [
+          "COLONIA INDEPENDENCIA (CHINITOS)",
+          "5",
+          "942",
+          "442",
+          "500",
+          "64"
+        ],
+        [
+          "COSTA AZUL",
+          "5",
+          "335",
+          "165",
+          "170",
+          "30"
+        ],
+        [
+          "DÁMASO CÁRDENAS",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EJIDO INDEPENDENCIA",
+          "3",
+          "174",
+          "87",
+          "87",
+          "17"
+        ],
+        [
+          "EL BATALLÓN (EL BATALLÓN DE LOS PAYANES)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL ÉBANO",
+          "4",
+          "234",
+          "95",
+          "139",
+          "15"
+        ],
+        [
+          "EL ENCANTO",
+          "1",
+          "1",
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "EL LLANO",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4"
+        ],
+        [
+          "ESTACIÓN ACATITA",
+          "3",
+          "118",
+          "65",
+          "53",
+          "13"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ (CAMPO PLATA)",
+          "5",
+          "284",
+          "128",
+          "156",
+          "33"
+        ],
+        [
+          "IGNACIO ALLENDE",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2"
+        ],
+        [
+          "LA CERCADA",
+          "2",
+          "31",
+          "20",
+          "11",
+          "2"
+        ],
+        [
+          "LA COLORADA",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "237",
+          "113",
+          "124",
+          "10"
+        ],
+        [
+          "LA ILAMA",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "LA ISLETA",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "147",
+          "81",
+          "66",
+          "8"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "63",
+          "40",
+          "23",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "10",
+          "1,372",
+          "684",
+          "688",
+          "105"
+        ],
+        [
+          "LA UNIÓN",
+          "1",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "LAS INFAMIAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LEOPOLDO SÁNCHEZ CELIS (EL GATO DE LARA)",
+          "5",
+          "1,283",
+          "574",
+          "709",
+          "116"
+        ],
+        [
+          "NINGUNO [DELIA MORENO]",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "PLAYA COLORADA",
+          "3",
+          "146",
+          "63",
+          "83",
+          "11"
+        ],
+        [
+          "PROTOMÁRTIR DE SINALOA",
+          "4",
+          "244",
+          "118",
+          "126",
+          "28"
+        ],
+        [
+          "SAN ANTONIO",
+          "4",
+          "108",
+          "57",
+          "51",
+          "14"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11"
+        ],
+        [
+          "SAN LUCIANO",
+          "3",
+          "79",
+          "40",
+          "39",
+          "4"
+        ],
+        [
+          "TOBERI",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "VALENTÍN GÓMEZ FARÍAS (EL MUERTO)",
+          "3",
+          "88",
+          "41",
+          "47",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "132",
+          "10,194",
+          "4,973",
+          "5,221",
+          "770"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:32:14.369Z"
+}

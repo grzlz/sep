@@ -1,0 +1,1022 @@
+{
+  "municipality": "CÓRDOBA",
+  "municipalityCode": "044",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CÓRDOBA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACAYOTLA\n\t\t1\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tAEROPISTA\n\t\t1\n\t\t22\n\t\t8\n\t\t14\n\t\t1\n\t\n\t\n\t\tAGUSTÍN MILLÁN\n\t\t4\n\t\t275\n\t\t133\n\t\t142\n\t\t14\n\t\n\t\n\t\tBERLÍN\n\t\t2\n\t\t73\n\t\t38\n\t\t35\n\t\t6\n\t\n\t\n\t\tCERVANTES Y LOZADA (SANTA ROSA)\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOLONIA AGRÍCOLA SANTA MARÍA\n\t\t2\n\t\t82\n\t\t44\n\t\t38\n\t\t4\n\t\n\t\n\t\tCOLORINES\n\t\t2\n\t\t287\n\t\t149\n\t\t138\n\t\t16\n\t\n\t\n\t\tCÓRDOBA\n\t\t306\n\t\t43,116\n\t\t22,400\n\t\t20,716\n\t\t3,695\n\t\n\t\n\t\tCOSALTEPEC\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tCUAUHTÉMOC\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t4\n\t\n\t\n\t\tEL BAJÍO\n\t\t4\n\t\t310\n\t\t158\n\t\t152\n\t\t12\n\t\n\t\n\t\tEL PALENQUE PALOTAL\n\t\t4\n\t\t336\n\t\t157\n\t\t179\n\t\t19\n\t\n\t\n\t\tEL PORVENIR\n\t\t4\n\t\t685\n\t\t341\n\t\t344\n\t\t31\n\t\n\t\n\t\tEL PUEBLITO (CRUCERO NACIONAL)\n\t\t1\n\t\t56\n\t\t25\n\t\t31\n\t\t4\n\t\n\t\n\t\tGUADALUPE BARREAL\n\t\t1\n\t\t183\n\t\t92\n\t\t91\n\t\t12\n\t\n\t\n\t\tLA LAGUNILLA\n\t\t2\n\t\t66\n\t\t29\n\t\t37\n\t\t4\n\t\n\t\n\t\tLA LUZ FRANCISCO I. MADERO (SAN ROMÁN)\n\t\t4\n\t\t1,005\n\t\t500\n\t\t505\n\t\t40\n\t\n\t\n\t\tLA LUZ Y TRINIDAD PALOTAL\n\t\t1\n\t\t57\n\t\t26\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA PALMA (TERCERA MANZANA DEL BARREAL)\n\t\t2\n\t\t55\n\t\t26\n\t\t29\n\t\t4\n\t\n\t\n\t\tLOMA CHICA DEL GALLEGO\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t2\n\t\n\t\n\t\tMARGARITA MORAN VELIZ\n\t\t1\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tMATLAQUIÁHUITL\n\t\t1\n\t\t20\n\t\t8\n\t\t12\n\t\t1\n\t\n\t\n\t\tMIGUEL AGUILAR\n\t\t3\n\t\t209\n\t\t109\n\t\t100\n\t\t11\n\t\n\t\n\t\tOJO DE AGUA (EL GALLEGO)\n\t\t2\n\t\t56\n\t\t29\n\t\t27\n\t\t4\n\t\n\t\n\t\tPAREDONES\n\t\t3\n\t\t178\n\t\t90\n\t\t88\n\t\t11\n\t\n\t\n\t\tPUENTE BARRANCA HONDA\n\t\t1\n\t\t120\n\t\t66\n\t\t54\n\t\t7\n\t\n\t\n\t\tQUINTA MANZANA DEL BARREAL\n\t\t2\n\t\t57\n\t\t29\n\t\t28\n\t\t5\n\t\n\t\n\t\tRANCHO QUEMADO (CERRO LA TOTOLA)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN APARICIO BUENA VISTA\n\t\t3\n\t\t60\n\t\t29\n\t\t31\n\t\t5\n\t\n\t\n\t\tSAN ISIDRO PALOTAL\n\t\t3\n\t\t122\n\t\t67\n\t\t55\n\t\t11\n\t\n\t\n\t\tSAN JOSÉ DE ABAJO [UNIDAD HABITACIONAL]\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE TAPIA\n\t\t5\n\t\t886\n\t\t437\n\t\t449\n\t\t40\n\t\n\t\n\t\tSAN JOSÉ LOMA GRANDE\n\t\t4\n\t\t253\n\t\t132\n\t\t121\n\t\t15\n\t\n\t\n\t\tSAN MATÍAS\n\t\t2\n\t\t186\n\t\t84\n\t\t102\n\t\t10\n\t\n\t\n\t\tSAN PEDRO\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL CALERÍA\n\t\t4\n\t\t554\n\t\t279\n\t\t275\n\t\t33\n\t\n\t\n\t\tSANTA ELENA\n\t\t4\n\t\t284\n\t\t135\n\t\t149\n\t\t18\n\t\n\t\n\t\tSANTA ELENA (CONGREGACIÓN EL BARREAL)\n\t\t2\n\t\t235\n\t\t121\n\t\t114\n\t\t9\n\t\n\t\n\t\tTECAMA CALERÍA (SABANA LARGA)\n\t\t4\n\t\t124\n\t\t63\n\t\t61\n\t\t8\n\t\n\t\n\t\tTINAJITAS\n\t\t3\n\t\t19\n\t\t10\n\t\t9\n\t\t3\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t2\n\t\t166\n\t\t88\n\t\t78\n\t\t9\n\t\n\t\n\t\tZACATEPEC\n\t\t2\n\t\t50\n\t\t28\n\t\t22\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t402\n\t\t50,344\n\t\t26,013\n\t\t24,331\n\t\t4,087\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CÓRDOBA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACAYOTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2",
+          "AEROPISTA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1",
+          "AGUSTÍN MILLÁN",
+          "4",
+          "275",
+          "133",
+          "142",
+          "14",
+          "BERLÍN",
+          "2",
+          "73",
+          "38",
+          "35",
+          "6",
+          "CERVANTES Y LOZADA (SANTA ROSA)",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "COLONIA AGRÍCOLA SANTA MARÍA",
+          "2",
+          "82",
+          "44",
+          "38",
+          "4",
+          "COLORINES",
+          "2",
+          "287",
+          "149",
+          "138",
+          "16",
+          "CÓRDOBA",
+          "306",
+          "43,116",
+          "22,400",
+          "20,716",
+          "3,695",
+          "COSALTEPEC",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "CUAUHTÉMOC",
+          "2",
+          "29",
+          "13",
+          "16",
+          "4",
+          "EL BAJÍO",
+          "4",
+          "310",
+          "158",
+          "152",
+          "12",
+          "EL PALENQUE PALOTAL",
+          "4",
+          "336",
+          "157",
+          "179",
+          "19",
+          "EL PORVENIR",
+          "4",
+          "685",
+          "341",
+          "344",
+          "31",
+          "EL PUEBLITO (CRUCERO NACIONAL)",
+          "1",
+          "56",
+          "25",
+          "31",
+          "4",
+          "GUADALUPE BARREAL",
+          "1",
+          "183",
+          "92",
+          "91",
+          "12",
+          "LA LAGUNILLA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "4",
+          "LA LUZ FRANCISCO I. MADERO (SAN ROMÁN)",
+          "4",
+          "1,005",
+          "500",
+          "505",
+          "40",
+          "LA LUZ Y TRINIDAD PALOTAL",
+          "1",
+          "57",
+          "26",
+          "31",
+          "4",
+          "LA PALMA (TERCERA MANZANA DEL BARREAL)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4",
+          "LOMA CHICA DEL GALLEGO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2",
+          "MARGARITA MORAN VELIZ",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2",
+          "MATLAQUIÁHUITL",
+          "1",
+          "20",
+          "8",
+          "12",
+          "1",
+          "MIGUEL AGUILAR",
+          "3",
+          "209",
+          "109",
+          "100",
+          "11",
+          "OJO DE AGUA (EL GALLEGO)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "4",
+          "PAREDONES",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11",
+          "PUENTE BARRANCA HONDA",
+          "1",
+          "120",
+          "66",
+          "54",
+          "7",
+          "QUINTA MANZANA DEL BARREAL",
+          "2",
+          "57",
+          "29",
+          "28",
+          "5",
+          "RANCHO QUEMADO (CERRO LA TOTOLA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SAN APARICIO BUENA VISTA",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5",
+          "SAN ISIDRO PALOTAL",
+          "3",
+          "122",
+          "67",
+          "55",
+          "11",
+          "SAN JOSÉ DE ABAJO [UNIDAD HABITACIONAL]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2",
+          "SAN JOSÉ DE TAPIA",
+          "5",
+          "886",
+          "437",
+          "449",
+          "40",
+          "SAN JOSÉ LOMA GRANDE",
+          "4",
+          "253",
+          "132",
+          "121",
+          "15",
+          "SAN MATÍAS",
+          "2",
+          "186",
+          "84",
+          "102",
+          "10",
+          "SAN PEDRO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "SAN RAFAEL CALERÍA",
+          "4",
+          "554",
+          "279",
+          "275",
+          "33",
+          "SANTA ELENA",
+          "4",
+          "284",
+          "135",
+          "149",
+          "18",
+          "SANTA ELENA (CONGREGACIÓN EL BARREAL)",
+          "2",
+          "235",
+          "121",
+          "114",
+          "9",
+          "TECAMA CALERÍA (SABANA LARGA)",
+          "4",
+          "124",
+          "63",
+          "61",
+          "8",
+          "TINAJITAS",
+          "3",
+          "19",
+          "10",
+          "9",
+          "3",
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "166",
+          "88",
+          "78",
+          "9",
+          "ZACATEPEC",
+          "2",
+          "50",
+          "28",
+          "22",
+          "4",
+          "TOTAL",
+          "402",
+          "50,344",
+          "26,013",
+          "24,331",
+          "4,087",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CÓRDOBA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAYOTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "AEROPISTA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1"
+        ],
+        [
+          "AGUSTÍN MILLÁN",
+          "4",
+          "275",
+          "133",
+          "142",
+          "14"
+        ],
+        [
+          "BERLÍN",
+          "2",
+          "73",
+          "38",
+          "35",
+          "6"
+        ],
+        [
+          "CERVANTES Y LOZADA (SANTA ROSA)",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA SANTA MARÍA",
+          "2",
+          "82",
+          "44",
+          "38",
+          "4"
+        ],
+        [
+          "COLORINES",
+          "2",
+          "287",
+          "149",
+          "138",
+          "16"
+        ],
+        [
+          "CÓRDOBA",
+          "306",
+          "43,116",
+          "22,400",
+          "20,716",
+          "3,695"
+        ],
+        [
+          "COSALTEPEC",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "2",
+          "29",
+          "13",
+          "16",
+          "4"
+        ],
+        [
+          "EL BAJÍO",
+          "4",
+          "310",
+          "158",
+          "152",
+          "12"
+        ],
+        [
+          "EL PALENQUE PALOTAL",
+          "4",
+          "336",
+          "157",
+          "179",
+          "19"
+        ],
+        [
+          "EL PORVENIR",
+          "4",
+          "685",
+          "341",
+          "344",
+          "31"
+        ],
+        [
+          "EL PUEBLITO (CRUCERO NACIONAL)",
+          "1",
+          "56",
+          "25",
+          "31",
+          "4"
+        ],
+        [
+          "GUADALUPE BARREAL",
+          "1",
+          "183",
+          "92",
+          "91",
+          "12"
+        ],
+        [
+          "LA LAGUNILLA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "LA LUZ FRANCISCO I. MADERO (SAN ROMÁN)",
+          "4",
+          "1,005",
+          "500",
+          "505",
+          "40"
+        ],
+        [
+          "LA LUZ Y TRINIDAD PALOTAL",
+          "1",
+          "57",
+          "26",
+          "31",
+          "4"
+        ],
+        [
+          "LA PALMA (TERCERA MANZANA DEL BARREAL)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "LOMA CHICA DEL GALLEGO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "MARGARITA MORAN VELIZ",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "MATLAQUIÁHUITL",
+          "1",
+          "20",
+          "8",
+          "12",
+          "1"
+        ],
+        [
+          "MIGUEL AGUILAR",
+          "3",
+          "209",
+          "109",
+          "100",
+          "11"
+        ],
+        [
+          "OJO DE AGUA (EL GALLEGO)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "4"
+        ],
+        [
+          "PAREDONES",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11"
+        ],
+        [
+          "PUENTE BARRANCA HONDA",
+          "1",
+          "120",
+          "66",
+          "54",
+          "7"
+        ],
+        [
+          "QUINTA MANZANA DEL BARREAL",
+          "2",
+          "57",
+          "29",
+          "28",
+          "5"
+        ],
+        [
+          "RANCHO QUEMADO (CERRO LA TOTOLA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN APARICIO BUENA VISTA",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5"
+        ],
+        [
+          "SAN ISIDRO PALOTAL",
+          "3",
+          "122",
+          "67",
+          "55",
+          "11"
+        ],
+        [
+          "SAN JOSÉ DE ABAJO [UNIDAD HABITACIONAL]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE TAPIA",
+          "5",
+          "886",
+          "437",
+          "449",
+          "40"
+        ],
+        [
+          "SAN JOSÉ LOMA GRANDE",
+          "4",
+          "253",
+          "132",
+          "121",
+          "15"
+        ],
+        [
+          "SAN MATÍAS",
+          "2",
+          "186",
+          "84",
+          "102",
+          "10"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN RAFAEL CALERÍA",
+          "4",
+          "554",
+          "279",
+          "275",
+          "33"
+        ],
+        [
+          "SANTA ELENA",
+          "4",
+          "284",
+          "135",
+          "149",
+          "18"
+        ],
+        [
+          "SANTA ELENA (CONGREGACIÓN EL BARREAL)",
+          "2",
+          "235",
+          "121",
+          "114",
+          "9"
+        ],
+        [
+          "TECAMA CALERÍA (SABANA LARGA)",
+          "4",
+          "124",
+          "63",
+          "61",
+          "8"
+        ],
+        [
+          "TINAJITAS",
+          "3",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "166",
+          "88",
+          "78",
+          "9"
+        ],
+        [
+          "ZACATEPEC",
+          "2",
+          "50",
+          "28",
+          "22",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "402",
+          "50,344",
+          "26,013",
+          "24,331",
+          "4,087"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CÓRDOBA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAYOTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "AEROPISTA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1"
+        ],
+        [
+          "AGUSTÍN MILLÁN",
+          "4",
+          "275",
+          "133",
+          "142",
+          "14"
+        ],
+        [
+          "BERLÍN",
+          "2",
+          "73",
+          "38",
+          "35",
+          "6"
+        ],
+        [
+          "CERVANTES Y LOZADA (SANTA ROSA)",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA SANTA MARÍA",
+          "2",
+          "82",
+          "44",
+          "38",
+          "4"
+        ],
+        [
+          "COLORINES",
+          "2",
+          "287",
+          "149",
+          "138",
+          "16"
+        ],
+        [
+          "CÓRDOBA",
+          "306",
+          "43,116",
+          "22,400",
+          "20,716",
+          "3,695"
+        ],
+        [
+          "COSALTEPEC",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "2",
+          "29",
+          "13",
+          "16",
+          "4"
+        ],
+        [
+          "EL BAJÍO",
+          "4",
+          "310",
+          "158",
+          "152",
+          "12"
+        ],
+        [
+          "EL PALENQUE PALOTAL",
+          "4",
+          "336",
+          "157",
+          "179",
+          "19"
+        ],
+        [
+          "EL PORVENIR",
+          "4",
+          "685",
+          "341",
+          "344",
+          "31"
+        ],
+        [
+          "EL PUEBLITO (CRUCERO NACIONAL)",
+          "1",
+          "56",
+          "25",
+          "31",
+          "4"
+        ],
+        [
+          "GUADALUPE BARREAL",
+          "1",
+          "183",
+          "92",
+          "91",
+          "12"
+        ],
+        [
+          "LA LAGUNILLA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "LA LUZ FRANCISCO I. MADERO (SAN ROMÁN)",
+          "4",
+          "1,005",
+          "500",
+          "505",
+          "40"
+        ],
+        [
+          "LA LUZ Y TRINIDAD PALOTAL",
+          "1",
+          "57",
+          "26",
+          "31",
+          "4"
+        ],
+        [
+          "LA PALMA (TERCERA MANZANA DEL BARREAL)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "LOMA CHICA DEL GALLEGO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "MARGARITA MORAN VELIZ",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "MATLAQUIÁHUITL",
+          "1",
+          "20",
+          "8",
+          "12",
+          "1"
+        ],
+        [
+          "MIGUEL AGUILAR",
+          "3",
+          "209",
+          "109",
+          "100",
+          "11"
+        ],
+        [
+          "OJO DE AGUA (EL GALLEGO)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "4"
+        ],
+        [
+          "PAREDONES",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11"
+        ],
+        [
+          "PUENTE BARRANCA HONDA",
+          "1",
+          "120",
+          "66",
+          "54",
+          "7"
+        ],
+        [
+          "QUINTA MANZANA DEL BARREAL",
+          "2",
+          "57",
+          "29",
+          "28",
+          "5"
+        ],
+        [
+          "RANCHO QUEMADO (CERRO LA TOTOLA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN APARICIO BUENA VISTA",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5"
+        ],
+        [
+          "SAN ISIDRO PALOTAL",
+          "3",
+          "122",
+          "67",
+          "55",
+          "11"
+        ],
+        [
+          "SAN JOSÉ DE ABAJO [UNIDAD HABITACIONAL]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE TAPIA",
+          "5",
+          "886",
+          "437",
+          "449",
+          "40"
+        ],
+        [
+          "SAN JOSÉ LOMA GRANDE",
+          "4",
+          "253",
+          "132",
+          "121",
+          "15"
+        ],
+        [
+          "SAN MATÍAS",
+          "2",
+          "186",
+          "84",
+          "102",
+          "10"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN RAFAEL CALERÍA",
+          "4",
+          "554",
+          "279",
+          "275",
+          "33"
+        ],
+        [
+          "SANTA ELENA",
+          "4",
+          "284",
+          "135",
+          "149",
+          "18"
+        ],
+        [
+          "SANTA ELENA (CONGREGACIÓN EL BARREAL)",
+          "2",
+          "235",
+          "121",
+          "114",
+          "9"
+        ],
+        [
+          "TECAMA CALERÍA (SABANA LARGA)",
+          "4",
+          "124",
+          "63",
+          "61",
+          "8"
+        ],
+        [
+          "TINAJITAS",
+          "3",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "166",
+          "88",
+          "78",
+          "9"
+        ],
+        [
+          "ZACATEPEC",
+          "2",
+          "50",
+          "28",
+          "22",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "402",
+          "50,344",
+          "26,013",
+          "24,331",
+          "4,087"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:45:00.106Z"
+}

@@ -1,0 +1,846 @@
+{
+  "municipality": "MAZAPA DE MADERO",
+  "municipalityCode": "053",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MAZAPA DE MADERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBACANTÓN ALTAMIRANO\n\t\t4\n\t\t145\n\t\t69\n\t\t76\n\t\t8\n\t\n\t\n\t\tBARRIO CALIFORNIA\n\t\t2\n\t\t43\n\t\t20\n\t\t23\n\t\t3\n\t\n\t\n\t\tCALERA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tCAMBIL\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tCOLINA VICTORIA\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL HORIZONTE\n\t\t5\n\t\t113\n\t\t59\n\t\t54\n\t\t7\n\t\n\t\n\t\tGRANADOS TALCANAQUE\n\t\t3\n\t\t236\n\t\t141\n\t\t95\n\t\t10\n\t\n\t\n\t\tHIDALGO TOCANAQUE\n\t\t2\n\t\t57\n\t\t26\n\t\t31\n\t\t3\n\t\n\t\n\t\tJORDÁN II\n\t\t2\n\t\t24\n\t\t15\n\t\t9\n\t\t2\n\t\n\t\n\t\tJUÁREZ CHEMALE\n\t\t3\n\t\t84\n\t\t43\n\t\t41\n\t\t7\n\t\n\t\n\t\tLA VERDAD EL TRIUNFO\n\t\t2\n\t\t71\n\t\t34\n\t\t37\n\t\t4\n\t\n\t\n\t\tLIBERTAD FRONTERA\n\t\t3\n\t\t142\n\t\t75\n\t\t67\n\t\t7\n\t\n\t\n\t\tLOMA CHICA\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tMAZAPA DE MADERO\n\t\t5\n\t\t474\n\t\t232\n\t\t242\n\t\t27\n\t\n\t\n\t\tNIÑOS HÉROES\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tNUEVA INDEPENDENCIA\n\t\t3\n\t\t58\n\t\t21\n\t\t37\n\t\t4\n\t\n\t\n\t\tNUEVA LIBERTAD\n\t\t2\n\t\t30\n\t\t14\n\t\t16\n\t\t2\n\t\n\t\n\t\tNUEVA UNIÓN\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tNUEVO PARAÍSO\n\t\t2\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tNUEVO POBLADO\n\t\t3\n\t\t127\n\t\t66\n\t\t61\n\t\t7\n\t\n\t\n\t\tNUEVO VERGEL\n\t\t1\n\t\t14\n\t\t5\n\t\t9\n\t\t1\n\t\n\t\n\t\tOJO DE AGÜITA\n\t\t1\n\t\t21\n\t\t5\n\t\t16\n\t\t2\n\t\n\t\n\t\tREFORMA\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tREVOLUCIÓN MEXICANA\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tSANTA ROSA\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t3\n\t\t55\n\t\t22\n\t\t33\n\t\t3\n\t\n\t\n\t\tTIERRA VERDE\n\t\t3\n\t\t150\n\t\t72\n\t\t78\n\t\t9\n\t\n\t\n\t\tTIERRA Y LIBERTAD\n\t\t1\n\t\t26\n\t\t12\n\t\t14\n\t\t1\n\t\n\t\n\t\tTOQUÍN\n\t\t1\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tVALLE OBREGÓN\n\t\t4\n\t\t174\n\t\t97\n\t\t77\n\t\t10\n\t\n\t\n\t\tVERACRUZ\n\t\t3\n\t\t93\n\t\t53\n\t\t40\n\t\t6\n\t\n\t\n\t\tVIDA MEJOR (TIERRA BLANCA)\n\t\t1\n\t\t24\n\t\t11\n\t\t13\n\t\t1\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t2\n\t\t62\n\t\t30\n\t\t32\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t77\n\t\t2,441\n\t\t1,227\n\t\t1,214\n\t\t147\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MAZAPA DE MADERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BACANTÓN ALTAMIRANO",
+          "4",
+          "145",
+          "69",
+          "76",
+          "8",
+          "BARRIO CALIFORNIA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3",
+          "CALERA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "CAMBIL",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "COLINA VICTORIA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "EL HORIZONTE",
+          "5",
+          "113",
+          "59",
+          "54",
+          "7",
+          "GRANADOS TALCANAQUE",
+          "3",
+          "236",
+          "141",
+          "95",
+          "10",
+          "HIDALGO TOCANAQUE",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3",
+          "JORDÁN II",
+          "2",
+          "24",
+          "15",
+          "9",
+          "2",
+          "JUÁREZ CHEMALE",
+          "3",
+          "84",
+          "43",
+          "41",
+          "7",
+          "LA VERDAD EL TRIUNFO",
+          "2",
+          "71",
+          "34",
+          "37",
+          "4",
+          "LIBERTAD FRONTERA",
+          "3",
+          "142",
+          "75",
+          "67",
+          "7",
+          "LOMA CHICA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "MAZAPA DE MADERO",
+          "5",
+          "474",
+          "232",
+          "242",
+          "27",
+          "NIÑOS HÉROES",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "NUEVA INDEPENDENCIA",
+          "3",
+          "58",
+          "21",
+          "37",
+          "4",
+          "NUEVA LIBERTAD",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2",
+          "NUEVA UNIÓN",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "NUEVO PARAÍSO",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3",
+          "NUEVO POBLADO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7",
+          "NUEVO VERGEL",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1",
+          "OJO DE AGÜITA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "2",
+          "REFORMA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "REVOLUCIÓN MEXICANA",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2",
+          "SAN JOSÉ",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "SANTA ROSA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "TIERRA BLANCA",
+          "3",
+          "55",
+          "22",
+          "33",
+          "3",
+          "TIERRA VERDE",
+          "3",
+          "150",
+          "72",
+          "78",
+          "9",
+          "TIERRA Y LIBERTAD",
+          "1",
+          "26",
+          "12",
+          "14",
+          "1",
+          "TOQUÍN",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2",
+          "VALLE OBREGÓN",
+          "4",
+          "174",
+          "97",
+          "77",
+          "10",
+          "VERACRUZ",
+          "3",
+          "93",
+          "53",
+          "40",
+          "6",
+          "VIDA MEJOR (TIERRA BLANCA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1",
+          "VILLA HIDALGO",
+          "2",
+          "62",
+          "30",
+          "32",
+          "3",
+          "TOTAL",
+          "77",
+          "2,441",
+          "1,227",
+          "1,214",
+          "147",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MAZAPA DE MADERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BACANTÓN ALTAMIRANO",
+          "4",
+          "145",
+          "69",
+          "76",
+          "8"
+        ],
+        [
+          "BARRIO CALIFORNIA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3"
+        ],
+        [
+          "CALERA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CAMBIL",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "COLINA VICTORIA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL HORIZONTE",
+          "5",
+          "113",
+          "59",
+          "54",
+          "7"
+        ],
+        [
+          "GRANADOS TALCANAQUE",
+          "3",
+          "236",
+          "141",
+          "95",
+          "10"
+        ],
+        [
+          "HIDALGO TOCANAQUE",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "JORDÁN II",
+          "2",
+          "24",
+          "15",
+          "9",
+          "2"
+        ],
+        [
+          "JUÁREZ CHEMALE",
+          "3",
+          "84",
+          "43",
+          "41",
+          "7"
+        ],
+        [
+          "LA VERDAD EL TRIUNFO",
+          "2",
+          "71",
+          "34",
+          "37",
+          "4"
+        ],
+        [
+          "LIBERTAD FRONTERA",
+          "3",
+          "142",
+          "75",
+          "67",
+          "7"
+        ],
+        [
+          "LOMA CHICA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "MAZAPA DE MADERO",
+          "5",
+          "474",
+          "232",
+          "242",
+          "27"
+        ],
+        [
+          "NIÑOS HÉROES",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "NUEVA INDEPENDENCIA",
+          "3",
+          "58",
+          "21",
+          "37",
+          "4"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "NUEVA UNIÓN",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NUEVO PARAÍSO",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "NUEVO POBLADO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7"
+        ],
+        [
+          "NUEVO VERGEL",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "OJO DE AGÜITA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "REVOLUCIÓN MEXICANA",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TIERRA BLANCA",
+          "3",
+          "55",
+          "22",
+          "33",
+          "3"
+        ],
+        [
+          "TIERRA VERDE",
+          "3",
+          "150",
+          "72",
+          "78",
+          "9"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "26",
+          "12",
+          "14",
+          "1"
+        ],
+        [
+          "TOQUÍN",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "VALLE OBREGÓN",
+          "4",
+          "174",
+          "97",
+          "77",
+          "10"
+        ],
+        [
+          "VERACRUZ",
+          "3",
+          "93",
+          "53",
+          "40",
+          "6"
+        ],
+        [
+          "VIDA MEJOR (TIERRA BLANCA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1"
+        ],
+        [
+          "VILLA HIDALGO",
+          "2",
+          "62",
+          "30",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "2,441",
+          "1,227",
+          "1,214",
+          "147"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MAZAPA DE MADERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BACANTÓN ALTAMIRANO",
+          "4",
+          "145",
+          "69",
+          "76",
+          "8"
+        ],
+        [
+          "BARRIO CALIFORNIA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3"
+        ],
+        [
+          "CALERA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CAMBIL",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "COLINA VICTORIA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL HORIZONTE",
+          "5",
+          "113",
+          "59",
+          "54",
+          "7"
+        ],
+        [
+          "GRANADOS TALCANAQUE",
+          "3",
+          "236",
+          "141",
+          "95",
+          "10"
+        ],
+        [
+          "HIDALGO TOCANAQUE",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "JORDÁN II",
+          "2",
+          "24",
+          "15",
+          "9",
+          "2"
+        ],
+        [
+          "JUÁREZ CHEMALE",
+          "3",
+          "84",
+          "43",
+          "41",
+          "7"
+        ],
+        [
+          "LA VERDAD EL TRIUNFO",
+          "2",
+          "71",
+          "34",
+          "37",
+          "4"
+        ],
+        [
+          "LIBERTAD FRONTERA",
+          "3",
+          "142",
+          "75",
+          "67",
+          "7"
+        ],
+        [
+          "LOMA CHICA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "MAZAPA DE MADERO",
+          "5",
+          "474",
+          "232",
+          "242",
+          "27"
+        ],
+        [
+          "NIÑOS HÉROES",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "NUEVA INDEPENDENCIA",
+          "3",
+          "58",
+          "21",
+          "37",
+          "4"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "NUEVA UNIÓN",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NUEVO PARAÍSO",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "NUEVO POBLADO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7"
+        ],
+        [
+          "NUEVO VERGEL",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "OJO DE AGÜITA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "REVOLUCIÓN MEXICANA",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TIERRA BLANCA",
+          "3",
+          "55",
+          "22",
+          "33",
+          "3"
+        ],
+        [
+          "TIERRA VERDE",
+          "3",
+          "150",
+          "72",
+          "78",
+          "9"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "26",
+          "12",
+          "14",
+          "1"
+        ],
+        [
+          "TOQUÍN",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "VALLE OBREGÓN",
+          "4",
+          "174",
+          "97",
+          "77",
+          "10"
+        ],
+        [
+          "VERACRUZ",
+          "3",
+          "93",
+          "53",
+          "40",
+          "6"
+        ],
+        [
+          "VIDA MEJOR (TIERRA BLANCA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1"
+        ],
+        [
+          "VILLA HIDALGO",
+          "2",
+          "62",
+          "30",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "2,441",
+          "1,227",
+          "1,214",
+          "147"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:03.733Z"
+}

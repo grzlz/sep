@@ -1,0 +1,956 @@
+{
+  "municipality": "URUACHI",
+  "municipalityCode": "066",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: URUACHI\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t3\n\t\t49\n\t\t26\n\t\t23\n\t\t4\n\t\n\t\n\t\tAGUATIACHI\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tARACOYVO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tARECHUYVO\n\t\t4\n\t\t123\n\t\t59\n\t\t64\n\t\t10\n\t\n\t\n\t\tARROYO DEL OSO\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tARROYO EL OSO\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tBAHUICHIVO\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tCALAVERAS\n\t\t4\n\t\t90\n\t\t42\n\t\t48\n\t\t8\n\t\n\t\n\t\tCERRO PRIETO\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tCHAGAYVO\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL MANZANO\n\t\t4\n\t\t102\n\t\t50\n\t\t52\n\t\t7\n\t\n\t\n\t\tEL REBAJE\n\t\t4\n\t\t65\n\t\t31\n\t\t34\n\t\t5\n\t\n\t\n\t\tEL TRIGO DE URUACHI\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tGOSOGACHI\n\t\t4\n\t\t115\n\t\t65\n\t\t50\n\t\t8\n\t\n\t\n\t\tGUACHEACHI\n\t\t3\n\t\t125\n\t\t63\n\t\t62\n\t\t6\n\t\n\t\n\t\tGUASAGO\n\t\t1\n\t\t21\n\t\t12\n\t\t9\n\t\t1\n\t\n\t\n\t\tHACIENDA SÁENZ (SANTÍSIMO DE ABAJO)\n\t\t3\n\t\t50\n\t\t29\n\t\t21\n\t\t3\n\t\n\t\n\t\tHÉROES DE LA TABLETA\n\t\t2\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tJICAMORACHI\n\t\t6\n\t\t157\n\t\t81\n\t\t76\n\t\t10\n\t\n\t\n\t\tLA BARRANCA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA CUMBRE\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tLAS CONCHAS\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS TROJAS\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS TEPOZANES\n\t\t1\n\t\t17\n\t\t8\n\t\t9\n\t\t1\n\t\n\t\n\t\tMESA DEL VALLECILLO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tMOCORICHI DE ARRIBA\n\t\t1\n\t\t27\n\t\t14\n\t\t13\n\t\t1\n\t\n\t\n\t\tORISIVO\n\t\t3\n\t\t37\n\t\t18\n\t\t19\n\t\t3\n\t\n\t\n\t\tPACAYVO\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tPALMARITO (AGUA CALIENTE)\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tRINCÓN DEL TORO\n\t\t1\n\t\t5\n\t\t5\n\t\t0\n\t\t1\n\t\n\t\n\t\tROCOROYVO\n\t\t3\n\t\t168\n\t\t78\n\t\t90\n\t\t10\n\t\n\t\n\t\tSAGUARAVO\n\t\t1\n\t\t24\n\t\t8\n\t\t16\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN IGNACIO\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN JUAN\n\t\t1\n\t\t33\n\t\t19\n\t\t14\n\t\t2\n\t\n\t\n\t\tSANTA ROSA\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tSANTÍSIMO DE ARRIBA\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tTACOCHIQUE\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tURUACHI\n\t\t7\n\t\t542\n\t\t257\n\t\t285\n\t\t29\n\t\n\t\n\t\tTOTAL\n\t\t83\n\t\t1,979\n\t\t981\n\t\t998\n\t\t137\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: URUACHI",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "4",
+          "AGUATIACHI",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "ARACOYVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "ARECHUYVO",
+          "4",
+          "123",
+          "59",
+          "64",
+          "10",
+          "ARROYO DEL OSO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "ARROYO EL OSO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "BAHUICHIVO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "CALAVERAS",
+          "4",
+          "90",
+          "42",
+          "48",
+          "8",
+          "CERRO PRIETO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "CHAGAYVO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "EL MANZANO",
+          "4",
+          "102",
+          "50",
+          "52",
+          "7",
+          "EL REBAJE",
+          "4",
+          "65",
+          "31",
+          "34",
+          "5",
+          "EL TRIGO DE URUACHI",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "GOSOGACHI",
+          "4",
+          "115",
+          "65",
+          "50",
+          "8",
+          "GUACHEACHI",
+          "3",
+          "125",
+          "63",
+          "62",
+          "6",
+          "GUASAGO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1",
+          "HACIENDA SÁENZ (SANTÍSIMO DE ABAJO)",
+          "3",
+          "50",
+          "29",
+          "21",
+          "3",
+          "HÉROES DE LA TABLETA",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1",
+          "JICAMORACHI",
+          "6",
+          "157",
+          "81",
+          "76",
+          "10",
+          "LA BARRANCA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LA CUMBRE",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "LAS CONCHAS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LAS TROJAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LOS TEPOZANES",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1",
+          "MESA DEL VALLECILLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "MOCORICHI DE ARRIBA",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1",
+          "ORISIVO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3",
+          "PACAYVO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "PALMARITO (AGUA CALIENTE)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "RINCÓN DEL TORO",
+          "1",
+          "5",
+          "5",
+          "0",
+          "1",
+          "ROCOROYVO",
+          "3",
+          "168",
+          "78",
+          "90",
+          "10",
+          "SAGUARAVO",
+          "1",
+          "24",
+          "8",
+          "16",
+          "1",
+          "SAN ANTONIO",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3",
+          "SAN IGNACIO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "SAN JUAN",
+          "1",
+          "33",
+          "19",
+          "14",
+          "2",
+          "SANTA ROSA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "SANTÍSIMO DE ARRIBA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1",
+          "TACOCHIQUE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "URUACHI",
+          "7",
+          "542",
+          "257",
+          "285",
+          "29",
+          "TOTAL",
+          "83",
+          "1,979",
+          "981",
+          "998",
+          "137",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: URUACHI"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "4"
+        ],
+        [
+          "AGUATIACHI",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "ARACOYVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "ARECHUYVO",
+          "4",
+          "123",
+          "59",
+          "64",
+          "10"
+        ],
+        [
+          "ARROYO DEL OSO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "ARROYO EL OSO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "BAHUICHIVO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "CALAVERAS",
+          "4",
+          "90",
+          "42",
+          "48",
+          "8"
+        ],
+        [
+          "CERRO PRIETO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CHAGAYVO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL MANZANO",
+          "4",
+          "102",
+          "50",
+          "52",
+          "7"
+        ],
+        [
+          "EL REBAJE",
+          "4",
+          "65",
+          "31",
+          "34",
+          "5"
+        ],
+        [
+          "EL TRIGO DE URUACHI",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "GOSOGACHI",
+          "4",
+          "115",
+          "65",
+          "50",
+          "8"
+        ],
+        [
+          "GUACHEACHI",
+          "3",
+          "125",
+          "63",
+          "62",
+          "6"
+        ],
+        [
+          "GUASAGO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "HACIENDA SÁENZ (SANTÍSIMO DE ABAJO)",
+          "3",
+          "50",
+          "29",
+          "21",
+          "3"
+        ],
+        [
+          "HÉROES DE LA TABLETA",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "JICAMORACHI",
+          "6",
+          "157",
+          "81",
+          "76",
+          "10"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA CUMBRE",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LAS CONCHAS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LAS TROJAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS TEPOZANES",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "MESA DEL VALLECILLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "MOCORICHI DE ARRIBA",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1"
+        ],
+        [
+          "ORISIVO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "PACAYVO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "PALMARITO (AGUA CALIENTE)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "RINCÓN DEL TORO",
+          "1",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "ROCOROYVO",
+          "3",
+          "168",
+          "78",
+          "90",
+          "10"
+        ],
+        [
+          "SAGUARAVO",
+          "1",
+          "24",
+          "8",
+          "16",
+          "1"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "SAN IGNACIO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "SAN JUAN",
+          "1",
+          "33",
+          "19",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "SANTÍSIMO DE ARRIBA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "TACOCHIQUE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "URUACHI",
+          "7",
+          "542",
+          "257",
+          "285",
+          "29"
+        ],
+        [
+          "TOTAL",
+          "83",
+          "1,979",
+          "981",
+          "998",
+          "137"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: URUACHI"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "4"
+        ],
+        [
+          "AGUATIACHI",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "ARACOYVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "ARECHUYVO",
+          "4",
+          "123",
+          "59",
+          "64",
+          "10"
+        ],
+        [
+          "ARROYO DEL OSO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "ARROYO EL OSO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "BAHUICHIVO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "CALAVERAS",
+          "4",
+          "90",
+          "42",
+          "48",
+          "8"
+        ],
+        [
+          "CERRO PRIETO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CHAGAYVO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL MANZANO",
+          "4",
+          "102",
+          "50",
+          "52",
+          "7"
+        ],
+        [
+          "EL REBAJE",
+          "4",
+          "65",
+          "31",
+          "34",
+          "5"
+        ],
+        [
+          "EL TRIGO DE URUACHI",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "GOSOGACHI",
+          "4",
+          "115",
+          "65",
+          "50",
+          "8"
+        ],
+        [
+          "GUACHEACHI",
+          "3",
+          "125",
+          "63",
+          "62",
+          "6"
+        ],
+        [
+          "GUASAGO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "HACIENDA SÁENZ (SANTÍSIMO DE ABAJO)",
+          "3",
+          "50",
+          "29",
+          "21",
+          "3"
+        ],
+        [
+          "HÉROES DE LA TABLETA",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "JICAMORACHI",
+          "6",
+          "157",
+          "81",
+          "76",
+          "10"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA CUMBRE",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LAS CONCHAS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LAS TROJAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS TEPOZANES",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "MESA DEL VALLECILLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "MOCORICHI DE ARRIBA",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1"
+        ],
+        [
+          "ORISIVO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "PACAYVO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "PALMARITO (AGUA CALIENTE)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "RINCÓN DEL TORO",
+          "1",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "ROCOROYVO",
+          "3",
+          "168",
+          "78",
+          "90",
+          "10"
+        ],
+        [
+          "SAGUARAVO",
+          "1",
+          "24",
+          "8",
+          "16",
+          "1"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "SAN IGNACIO",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "SAN JUAN",
+          "1",
+          "33",
+          "19",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "SANTÍSIMO DE ARRIBA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "TACOCHIQUE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "URUACHI",
+          "7",
+          "542",
+          "257",
+          "285",
+          "29"
+        ],
+        [
+          "TOTAL",
+          "83",
+          "1,979",
+          "981",
+          "998",
+          "137"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:34.776Z"
+}

@@ -1,0 +1,626 @@
+{
+  "municipality": "EL NARANJO",
+  "municipalityCode": "058",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: EL NARANJO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHUPADEROS\n\t\t2\n\t\t33\n\t\t15\n\t\t18\n\t\t2\n\t\n\t\n\t\tCOLONIA EL MECO\n\t\t3\n\t\t335\n\t\t177\n\t\t158\n\t\t18\n\t\n\t\n\t\tCOLONIA LAS GRANJAS\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tCOLONIA SALTO DEL AGUA\n\t\t4\n\t\t167\n\t\t71\n\t\t96\n\t\t14\n\t\n\t\n\t\tEL AGUACATE\n\t\t3\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL LIMONAL\n\t\t3\n\t\t118\n\t\t60\n\t\t58\n\t\t8\n\t\n\t\n\t\tEL NARANJITO\n\t\t1\n\t\t28\n\t\t10\n\t\t18\n\t\t1\n\t\n\t\n\t\tEL NARANJO\n\t\t14\n\t\t2,735\n\t\t1,387\n\t\t1,348\n\t\t108\n\t\n\t\n\t\tEL PLATANITO\n\t\t3\n\t\t54\n\t\t26\n\t\t28\n\t\t4\n\t\n\t\n\t\tEL SABINITO\n\t\t5\n\t\t478\n\t\t237\n\t\t241\n\t\t27\n\t\n\t\n\t\tKILÓMETRO CUARENTA Y DOS\n\t\t3\n\t\t68\n\t\t31\n\t\t37\n\t\t5\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t2\n\t\t48\n\t\t26\n\t\t22\n\t\t2\n\t\n\t\n\t\tLA MUTUA\n\t\t1\n\t\t16\n\t\t9\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t54\n\t\t32\n\t\t22\n\t\t3\n\t\n\t\n\t\tLAS ABRITAS\n\t\t3\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tLOS ÁLAMOS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS ÁLAMOS DE ABAJO\n\t\t3\n\t\t56\n\t\t27\n\t\t29\n\t\t3\n\t\n\t\n\t\tLOS ÁLAMOS DE ARRIBA\n\t\t3\n\t\t26\n\t\t11\n\t\t15\n\t\t4\n\t\n\t\n\t\tLOS CHARCOS DE ORIENTE\n\t\t3\n\t\t42\n\t\t20\n\t\t22\n\t\t4\n\t\n\t\n\t\tMAGUEY DE ORIENTE\n\t\t3\n\t\t66\n\t\t35\n\t\t31\n\t\t4\n\t\n\t\n\t\tMAITINEZ\n\t\t4\n\t\t329\n\t\t158\n\t\t171\n\t\t21\n\t\n\t\n\t\tMINAS VIEJAS\n\t\t3\n\t\t174\n\t\t90\n\t\t84\n\t\t9\n\t\n\t\n\t\tOJO DE AGUA DE TIERRA NUEVA\n\t\t3\n\t\t79\n\t\t32\n\t\t47\n\t\t4\n\t\n\t\n\t\tRINCÓN DE ÁLAMOS\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t76\n\t\t4,998\n\t\t2,497\n\t\t2,501\n\t\t253\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: EL NARANJO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHUPADEROS",
+          "2",
+          "33",
+          "15",
+          "18",
+          "2",
+          "COLONIA EL MECO",
+          "3",
+          "335",
+          "177",
+          "158",
+          "18",
+          "COLONIA LAS GRANJAS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "COLONIA SALTO DEL AGUA",
+          "4",
+          "167",
+          "71",
+          "96",
+          "14",
+          "EL AGUACATE",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3",
+          "EL LIMONAL",
+          "3",
+          "118",
+          "60",
+          "58",
+          "8",
+          "EL NARANJITO",
+          "1",
+          "28",
+          "10",
+          "18",
+          "1",
+          "EL NARANJO",
+          "14",
+          "2,735",
+          "1,387",
+          "1,348",
+          "108",
+          "EL PLATANITO",
+          "3",
+          "54",
+          "26",
+          "28",
+          "4",
+          "EL SABINITO",
+          "5",
+          "478",
+          "237",
+          "241",
+          "27",
+          "KILÓMETRO CUARENTA Y DOS",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5",
+          "LA CONCEPCIÓN",
+          "2",
+          "48",
+          "26",
+          "22",
+          "2",
+          "LA MUTUA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1",
+          "LA SOLEDAD",
+          "2",
+          "54",
+          "32",
+          "22",
+          "3",
+          "LAS ABRITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3",
+          "LOS ÁLAMOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LOS ÁLAMOS DE ABAJO",
+          "3",
+          "56",
+          "27",
+          "29",
+          "3",
+          "LOS ÁLAMOS DE ARRIBA",
+          "3",
+          "26",
+          "11",
+          "15",
+          "4",
+          "LOS CHARCOS DE ORIENTE",
+          "3",
+          "42",
+          "20",
+          "22",
+          "4",
+          "MAGUEY DE ORIENTE",
+          "3",
+          "66",
+          "35",
+          "31",
+          "4",
+          "MAITINEZ",
+          "4",
+          "329",
+          "158",
+          "171",
+          "21",
+          "MINAS VIEJAS",
+          "3",
+          "174",
+          "90",
+          "84",
+          "9",
+          "OJO DE AGUA DE TIERRA NUEVA",
+          "3",
+          "79",
+          "32",
+          "47",
+          "4",
+          "RINCÓN DE ÁLAMOS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "TOTAL",
+          "76",
+          "4,998",
+          "2,497",
+          "2,501",
+          "253",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: EL NARANJO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHUPADEROS",
+          "2",
+          "33",
+          "15",
+          "18",
+          "2"
+        ],
+        [
+          "COLONIA EL MECO",
+          "3",
+          "335",
+          "177",
+          "158",
+          "18"
+        ],
+        [
+          "COLONIA LAS GRANJAS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "COLONIA SALTO DEL AGUA",
+          "4",
+          "167",
+          "71",
+          "96",
+          "14"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "EL LIMONAL",
+          "3",
+          "118",
+          "60",
+          "58",
+          "8"
+        ],
+        [
+          "EL NARANJITO",
+          "1",
+          "28",
+          "10",
+          "18",
+          "1"
+        ],
+        [
+          "EL NARANJO",
+          "14",
+          "2,735",
+          "1,387",
+          "1,348",
+          "108"
+        ],
+        [
+          "EL PLATANITO",
+          "3",
+          "54",
+          "26",
+          "28",
+          "4"
+        ],
+        [
+          "EL SABINITO",
+          "5",
+          "478",
+          "237",
+          "241",
+          "27"
+        ],
+        [
+          "KILÓMETRO CUARENTA Y DOS",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "48",
+          "26",
+          "22",
+          "2"
+        ],
+        [
+          "LA MUTUA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "54",
+          "32",
+          "22",
+          "3"
+        ],
+        [
+          "LAS ABRITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LOS ÁLAMOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ÁLAMOS DE ABAJO",
+          "3",
+          "56",
+          "27",
+          "29",
+          "3"
+        ],
+        [
+          "LOS ÁLAMOS DE ARRIBA",
+          "3",
+          "26",
+          "11",
+          "15",
+          "4"
+        ],
+        [
+          "LOS CHARCOS DE ORIENTE",
+          "3",
+          "42",
+          "20",
+          "22",
+          "4"
+        ],
+        [
+          "MAGUEY DE ORIENTE",
+          "3",
+          "66",
+          "35",
+          "31",
+          "4"
+        ],
+        [
+          "MAITINEZ",
+          "4",
+          "329",
+          "158",
+          "171",
+          "21"
+        ],
+        [
+          "MINAS VIEJAS",
+          "3",
+          "174",
+          "90",
+          "84",
+          "9"
+        ],
+        [
+          "OJO DE AGUA DE TIERRA NUEVA",
+          "3",
+          "79",
+          "32",
+          "47",
+          "4"
+        ],
+        [
+          "RINCÓN DE ÁLAMOS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "4,998",
+          "2,497",
+          "2,501",
+          "253"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: EL NARANJO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHUPADEROS",
+          "2",
+          "33",
+          "15",
+          "18",
+          "2"
+        ],
+        [
+          "COLONIA EL MECO",
+          "3",
+          "335",
+          "177",
+          "158",
+          "18"
+        ],
+        [
+          "COLONIA LAS GRANJAS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "COLONIA SALTO DEL AGUA",
+          "4",
+          "167",
+          "71",
+          "96",
+          "14"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "EL LIMONAL",
+          "3",
+          "118",
+          "60",
+          "58",
+          "8"
+        ],
+        [
+          "EL NARANJITO",
+          "1",
+          "28",
+          "10",
+          "18",
+          "1"
+        ],
+        [
+          "EL NARANJO",
+          "14",
+          "2,735",
+          "1,387",
+          "1,348",
+          "108"
+        ],
+        [
+          "EL PLATANITO",
+          "3",
+          "54",
+          "26",
+          "28",
+          "4"
+        ],
+        [
+          "EL SABINITO",
+          "5",
+          "478",
+          "237",
+          "241",
+          "27"
+        ],
+        [
+          "KILÓMETRO CUARENTA Y DOS",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "48",
+          "26",
+          "22",
+          "2"
+        ],
+        [
+          "LA MUTUA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "54",
+          "32",
+          "22",
+          "3"
+        ],
+        [
+          "LAS ABRITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LOS ÁLAMOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ÁLAMOS DE ABAJO",
+          "3",
+          "56",
+          "27",
+          "29",
+          "3"
+        ],
+        [
+          "LOS ÁLAMOS DE ARRIBA",
+          "3",
+          "26",
+          "11",
+          "15",
+          "4"
+        ],
+        [
+          "LOS CHARCOS DE ORIENTE",
+          "3",
+          "42",
+          "20",
+          "22",
+          "4"
+        ],
+        [
+          "MAGUEY DE ORIENTE",
+          "3",
+          "66",
+          "35",
+          "31",
+          "4"
+        ],
+        [
+          "MAITINEZ",
+          "4",
+          "329",
+          "158",
+          "171",
+          "21"
+        ],
+        [
+          "MINAS VIEJAS",
+          "3",
+          "174",
+          "90",
+          "84",
+          "9"
+        ],
+        [
+          "OJO DE AGUA DE TIERRA NUEVA",
+          "3",
+          "79",
+          "32",
+          "47",
+          "4"
+        ],
+        [
+          "RINCÓN DE ÁLAMOS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "4,998",
+          "2,497",
+          "2,501",
+          "253"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:19.871Z"
+}

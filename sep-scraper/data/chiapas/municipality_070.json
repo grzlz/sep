@@ -1,0 +1,956 @@
+{
+  "municipality": "EL PORVENIR",
+  "municipalityCode": "070",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL PORVENIR\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t20 DE NOVIEMBRE\n\t\t3\n\t\t65\n\t\t33\n\t\t32\n\t\t4\n\t\n\t\n\t\tAGUACATALES\n\t\t4\n\t\t163\n\t\t82\n\t\t81\n\t\t8\n\t\n\t\n\t\tBUENAVISTA\n\t\t4\n\t\t49\n\t\t25\n\t\t24\n\t\t4\n\t\n\t\n\t\tBUENAVISTA UNO\n\t\t2\n\t\t52\n\t\t27\n\t\t25\n\t\t3\n\t\n\t\n\t\tCANADÁ\n\t\t3\n\t\t316\n\t\t166\n\t\t150\n\t\t14\n\t\n\t\n\t\tCAPILLA\n\t\t3\n\t\t114\n\t\t47\n\t\t67\n\t\t5\n\t\n\t\n\t\tCARRIZALITO\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tCHIMALAPA\n\t\t3\n\t\t144\n\t\t59\n\t\t85\n\t\t7\n\t\n\t\n\t\tCHIMALE\n\t\t4\n\t\t156\n\t\t84\n\t\t72\n\t\t9\n\t\n\t\n\t\tCUATRO CAMINOS\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL CAMBIL\n\t\t4\n\t\t400\n\t\t212\n\t\t188\n\t\t19\n\t\n\t\n\t\tEL CORO\n\t\t1\n\t\t46\n\t\t23\n\t\t23\n\t\t1\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t13\n\t\t3\n\t\t10\n\t\t1\n\t\n\t\n\t\tEL PORVENIR DE VELASCO SUÁREZ\n\t\t8\n\t\t1,012\n\t\t512\n\t\t500\n\t\t69\n\t\n\t\n\t\tEL REMATE\n\t\t1\n\t\t21\n\t\t12\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL RINCONCITO\n\t\t1\n\t\t27\n\t\t14\n\t\t13\n\t\t1\n\t\n\t\n\t\tEL VOLCÁN\n\t\t2\n\t\t40\n\t\t22\n\t\t18\n\t\t3\n\t\n\t\n\t\tJERICÓ\n\t\t1\n\t\t20\n\t\t11\n\t\t9\n\t\t1\n\t\n\t\n\t\tJORGE DE LA VEGA DOMÍNGUEZ\n\t\t2\n\t\t38\n\t\t20\n\t\t18\n\t\t3\n\t\n\t\n\t\tLAS FLORES\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS MARAVILLAS UNO\n\t\t1\n\t\t62\n\t\t32\n\t\t30\n\t\t3\n\t\n\t\n\t\tLAS NUBES\n\t\t2\n\t\t47\n\t\t20\n\t\t27\n\t\t3\n\t\n\t\n\t\tLAS PILAS\n\t\t1\n\t\t21\n\t\t13\n\t\t8\n\t\t1\n\t\n\t\n\t\tLAS SALVIAS\n\t\t3\n\t\t204\n\t\t112\n\t\t92\n\t\t11\n\t\n\t\n\t\tLOS LÓPEZ\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tLOS PINOS\n\t\t1\n\t\t11\n\t\t9\n\t\t2\n\t\t1\n\t\n\t\n\t\tMALE\n\t\t6\n\t\t621\n\t\t327\n\t\t294\n\t\t39\n\t\n\t\n\t\tMALE UNO\n\t\t3\n\t\t104\n\t\t56\n\t\t48\n\t\t6\n\t\n\t\n\t\tMEXICALAPA\n\t\t1\n\t\t28\n\t\t18\n\t\t10\n\t\t1\n\t\n\t\n\t\tMIRAVALLE\n\t\t2\n\t\t84\n\t\t37\n\t\t47\n\t\t4\n\t\n\t\n\t\tMOJÓN\n\t\t2\n\t\t134\n\t\t62\n\t\t72\n\t\t5\n\t\n\t\n\t\tNUEVA ALIANZA\n\t\t2\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tNUEVA ESPERANZA\n\t\t2\n\t\t173\n\t\t89\n\t\t84\n\t\t8\n\t\n\t\n\t\tNUEVA LIBERTAD\n\t\t2\n\t\t76\n\t\t33\n\t\t43\n\t\t4\n\t\n\t\n\t\tPEÑA BLANCA\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t2\n\t\n\t\n\t\tPORVENIR CHIQUITO\n\t\t1\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tUNIÓN BUENAVISTA\n\t\t2\n\t\t14\n\t\t4\n\t\t10\n\t\t2\n\t\n\t\n\t\tUNIÓN BUENAVISTA 2\n\t\t1\n\t\t33\n\t\t18\n\t\t15\n\t\t2\n\t\n\t\n\t\tZAPOTILLO\n\t\t3\n\t\t212\n\t\t89\n\t\t123\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t91\n\t\t4,661\n\t\t2,349\n\t\t2,312\n\t\t268\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL PORVENIR",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "20 DE NOVIEMBRE",
+          "3",
+          "65",
+          "33",
+          "32",
+          "4",
+          "AGUACATALES",
+          "4",
+          "163",
+          "82",
+          "81",
+          "8",
+          "BUENAVISTA",
+          "4",
+          "49",
+          "25",
+          "24",
+          "4",
+          "BUENAVISTA UNO",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3",
+          "CANADÁ",
+          "3",
+          "316",
+          "166",
+          "150",
+          "14",
+          "CAPILLA",
+          "3",
+          "114",
+          "47",
+          "67",
+          "5",
+          "CARRIZALITO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3",
+          "CHIMALAPA",
+          "3",
+          "144",
+          "59",
+          "85",
+          "7",
+          "CHIMALE",
+          "4",
+          "156",
+          "84",
+          "72",
+          "9",
+          "CUATRO CAMINOS",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3",
+          "EL CAMBIL",
+          "4",
+          "400",
+          "212",
+          "188",
+          "19",
+          "EL CORO",
+          "1",
+          "46",
+          "23",
+          "23",
+          "1",
+          "EL MIRADOR",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1",
+          "EL PORVENIR DE VELASCO SUÁREZ",
+          "8",
+          "1,012",
+          "512",
+          "500",
+          "69",
+          "EL REMATE",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1",
+          "EL RINCONCITO",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1",
+          "EL VOLCÁN",
+          "2",
+          "40",
+          "22",
+          "18",
+          "3",
+          "JERICÓ",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1",
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3",
+          "LAS FLORES",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LAS MARAVILLAS UNO",
+          "1",
+          "62",
+          "32",
+          "30",
+          "3",
+          "LAS NUBES",
+          "2",
+          "47",
+          "20",
+          "27",
+          "3",
+          "LAS PILAS",
+          "1",
+          "21",
+          "13",
+          "8",
+          "1",
+          "LAS SALVIAS",
+          "3",
+          "204",
+          "112",
+          "92",
+          "11",
+          "LOS LÓPEZ",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "LOS PINOS",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1",
+          "MALE",
+          "6",
+          "621",
+          "327",
+          "294",
+          "39",
+          "MALE UNO",
+          "3",
+          "104",
+          "56",
+          "48",
+          "6",
+          "MEXICALAPA",
+          "1",
+          "28",
+          "18",
+          "10",
+          "1",
+          "MIRAVALLE",
+          "2",
+          "84",
+          "37",
+          "47",
+          "4",
+          "MOJÓN",
+          "2",
+          "134",
+          "62",
+          "72",
+          "5",
+          "NUEVA ALIANZA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2",
+          "NUEVA ESPERANZA",
+          "2",
+          "173",
+          "89",
+          "84",
+          "8",
+          "NUEVA LIBERTAD",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4",
+          "PEÑA BLANCA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2",
+          "PORVENIR CHIQUITO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1",
+          "UNIÓN BUENAVISTA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2",
+          "UNIÓN BUENAVISTA 2",
+          "1",
+          "33",
+          "18",
+          "15",
+          "2",
+          "ZAPOTILLO",
+          "3",
+          "212",
+          "89",
+          "123",
+          "11",
+          "TOTAL",
+          "91",
+          "4,661",
+          "2,349",
+          "2,312",
+          "268",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL PORVENIR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "20 DE NOVIEMBRE",
+          "3",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "AGUACATALES",
+          "4",
+          "163",
+          "82",
+          "81",
+          "8"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "BUENAVISTA UNO",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3"
+        ],
+        [
+          "CANADÁ",
+          "3",
+          "316",
+          "166",
+          "150",
+          "14"
+        ],
+        [
+          "CAPILLA",
+          "3",
+          "114",
+          "47",
+          "67",
+          "5"
+        ],
+        [
+          "CARRIZALITO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "CHIMALAPA",
+          "3",
+          "144",
+          "59",
+          "85",
+          "7"
+        ],
+        [
+          "CHIMALE",
+          "4",
+          "156",
+          "84",
+          "72",
+          "9"
+        ],
+        [
+          "CUATRO CAMINOS",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "EL CAMBIL",
+          "4",
+          "400",
+          "212",
+          "188",
+          "19"
+        ],
+        [
+          "EL CORO",
+          "1",
+          "46",
+          "23",
+          "23",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "EL PORVENIR DE VELASCO SUÁREZ",
+          "8",
+          "1,012",
+          "512",
+          "500",
+          "69"
+        ],
+        [
+          "EL REMATE",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "EL RINCONCITO",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1"
+        ],
+        [
+          "EL VOLCÁN",
+          "2",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "JERICÓ",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1"
+        ],
+        [
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS MARAVILLAS UNO",
+          "1",
+          "62",
+          "32",
+          "30",
+          "3"
+        ],
+        [
+          "LAS NUBES",
+          "2",
+          "47",
+          "20",
+          "27",
+          "3"
+        ],
+        [
+          "LAS PILAS",
+          "1",
+          "21",
+          "13",
+          "8",
+          "1"
+        ],
+        [
+          "LAS SALVIAS",
+          "3",
+          "204",
+          "112",
+          "92",
+          "11"
+        ],
+        [
+          "LOS LÓPEZ",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LOS PINOS",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "MALE",
+          "6",
+          "621",
+          "327",
+          "294",
+          "39"
+        ],
+        [
+          "MALE UNO",
+          "3",
+          "104",
+          "56",
+          "48",
+          "6"
+        ],
+        [
+          "MEXICALAPA",
+          "1",
+          "28",
+          "18",
+          "10",
+          "1"
+        ],
+        [
+          "MIRAVALLE",
+          "2",
+          "84",
+          "37",
+          "47",
+          "4"
+        ],
+        [
+          "MOJÓN",
+          "2",
+          "134",
+          "62",
+          "72",
+          "5"
+        ],
+        [
+          "NUEVA ALIANZA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "2",
+          "173",
+          "89",
+          "84",
+          "8"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4"
+        ],
+        [
+          "PEÑA BLANCA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "PORVENIR CHIQUITO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "UNIÓN BUENAVISTA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "UNIÓN BUENAVISTA 2",
+          "1",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "ZAPOTILLO",
+          "3",
+          "212",
+          "89",
+          "123",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "91",
+          "4,661",
+          "2,349",
+          "2,312",
+          "268"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL PORVENIR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "20 DE NOVIEMBRE",
+          "3",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "AGUACATALES",
+          "4",
+          "163",
+          "82",
+          "81",
+          "8"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "BUENAVISTA UNO",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3"
+        ],
+        [
+          "CANADÁ",
+          "3",
+          "316",
+          "166",
+          "150",
+          "14"
+        ],
+        [
+          "CAPILLA",
+          "3",
+          "114",
+          "47",
+          "67",
+          "5"
+        ],
+        [
+          "CARRIZALITO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "CHIMALAPA",
+          "3",
+          "144",
+          "59",
+          "85",
+          "7"
+        ],
+        [
+          "CHIMALE",
+          "4",
+          "156",
+          "84",
+          "72",
+          "9"
+        ],
+        [
+          "CUATRO CAMINOS",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "EL CAMBIL",
+          "4",
+          "400",
+          "212",
+          "188",
+          "19"
+        ],
+        [
+          "EL CORO",
+          "1",
+          "46",
+          "23",
+          "23",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "EL PORVENIR DE VELASCO SUÁREZ",
+          "8",
+          "1,012",
+          "512",
+          "500",
+          "69"
+        ],
+        [
+          "EL REMATE",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "EL RINCONCITO",
+          "1",
+          "27",
+          "14",
+          "13",
+          "1"
+        ],
+        [
+          "EL VOLCÁN",
+          "2",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "JERICÓ",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1"
+        ],
+        [
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS MARAVILLAS UNO",
+          "1",
+          "62",
+          "32",
+          "30",
+          "3"
+        ],
+        [
+          "LAS NUBES",
+          "2",
+          "47",
+          "20",
+          "27",
+          "3"
+        ],
+        [
+          "LAS PILAS",
+          "1",
+          "21",
+          "13",
+          "8",
+          "1"
+        ],
+        [
+          "LAS SALVIAS",
+          "3",
+          "204",
+          "112",
+          "92",
+          "11"
+        ],
+        [
+          "LOS LÓPEZ",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LOS PINOS",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "MALE",
+          "6",
+          "621",
+          "327",
+          "294",
+          "39"
+        ],
+        [
+          "MALE UNO",
+          "3",
+          "104",
+          "56",
+          "48",
+          "6"
+        ],
+        [
+          "MEXICALAPA",
+          "1",
+          "28",
+          "18",
+          "10",
+          "1"
+        ],
+        [
+          "MIRAVALLE",
+          "2",
+          "84",
+          "37",
+          "47",
+          "4"
+        ],
+        [
+          "MOJÓN",
+          "2",
+          "134",
+          "62",
+          "72",
+          "5"
+        ],
+        [
+          "NUEVA ALIANZA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "2",
+          "173",
+          "89",
+          "84",
+          "8"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4"
+        ],
+        [
+          "PEÑA BLANCA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "PORVENIR CHIQUITO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "UNIÓN BUENAVISTA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "UNIÓN BUENAVISTA 2",
+          "1",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "ZAPOTILLO",
+          "3",
+          "212",
+          "89",
+          "123",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "91",
+          "4,661",
+          "2,349",
+          "2,312",
+          "268"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:10.685Z"
+}

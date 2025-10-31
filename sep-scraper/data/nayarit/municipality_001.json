@@ -1,0 +1,1110 @@
+{
+  "municipality": "ACAPONETA",
+  "municipalityCode": "001",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ACAPONETA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACAPONETA\n\t\t41\n\t\t6,431\n\t\t3,385\n\t\t3,046\n\t\t379\n\t\n\t\n\t\tAMADO NERVO\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tBUENAVISTA (LAS PAREDES)\n\t\t3\n\t\t70\n\t\t37\n\t\t33\n\t\t4\n\t\n\t\n\t\tCAÑONES\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tCASAS COLORADAS\n\t\t3\n\t\t61\n\t\t24\n\t\t37\n\t\t4\n\t\n\t\n\t\tCERRO BOLA\n\t\t3\n\t\t59\n\t\t29\n\t\t30\n\t\t4\n\t\n\t\n\t\tEL AGUAJE\n\t\t3\n\t\t84\n\t\t41\n\t\t43\n\t\t5\n\t\n\t\n\t\tEL CARRIZAL\n\t\t3\n\t\t75\n\t\t36\n\t\t39\n\t\t5\n\t\n\t\n\t\tEL CARRIZO\n\t\t3\n\t\t13\n\t\t2\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL CENTENARIO\n\t\t3\n\t\t280\n\t\t135\n\t\t145\n\t\t16\n\t\n\t\n\t\tEL NARANJO\n\t\t4\n\t\t189\n\t\t100\n\t\t89\n\t\t9\n\t\n\t\n\t\tEL ORO\n\t\t2\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL RECODO\n\t\t4\n\t\t303\n\t\t160\n\t\t143\n\t\t23\n\t\n\t\n\t\tEL RESBALÓN\n\t\t4\n\t\t148\n\t\t73\n\t\t75\n\t\t10\n\t\n\t\n\t\tEL TACOTE\n\t\t1\n\t\t18\n\t\t6\n\t\t12\n\t\t1\n\t\n\t\n\t\tEL TECHALOTE\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL TIGRE\n\t\t4\n\t\t196\n\t\t102\n\t\t94\n\t\t13\n\t\n\t\n\t\tHACIENDA DE MARIQUITAS\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA BAYONA\n\t\t2\n\t\t57\n\t\t29\n\t\t28\n\t\t11\n\t\n\t\n\t\tLA GUÁSIMA\n\t\t3\n\t\t187\n\t\t86\n\t\t101\n\t\t16\n\t\n\t\n\t\tLA HIGUERITA NUEVA (EL CARRIZO)\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tLA LAGUNITA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PALOMA NUEVA REFORMA\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t2\n\t\n\t\n\t\tLA PALOMA PRIMERA\n\t\t3\n\t\t54\n\t\t31\n\t\t23\n\t\t4\n\t\n\t\n\t\tLAS CASITAS\n\t\t2\n\t\t40\n\t\t15\n\t\t25\n\t\t3\n\t\n\t\n\t\tLAS HIGUERAS\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tLLANO DE LA CRUZ\n\t\t3\n\t\t107\n\t\t44\n\t\t63\n\t\t8\n\t\n\t\n\t\tLOS SANDOVALES\n\t\t2\n\t\t25\n\t\t14\n\t\t11\n\t\t2\n\t\n\t\n\t\tMESA DE LA LAGUNA\n\t\t2\n\t\t57\n\t\t25\n\t\t32\n\t\t3\n\t\n\t\n\t\tMESA DE PEDRO PABLO\n\t\t3\n\t\t42\n\t\t21\n\t\t21\n\t\t3\n\t\n\t\n\t\tOJO DE AGUA DEL TEJÓN\n\t\t3\n\t\t61\n\t\t30\n\t\t31\n\t\t4\n\t\n\t\n\t\tPIEDRA ANCHA\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tRANCHO EL ZAPOTE\n\t\t3\n\t\t70\n\t\t29\n\t\t41\n\t\t4\n\t\n\t\n\t\tSAN BLASITO\n\t\t3\n\t\t53\n\t\t29\n\t\t24\n\t\t4\n\t\n\t\n\t\tSAN DIEGO DE ALCALÁ\n\t\t4\n\t\t142\n\t\t75\n\t\t67\n\t\t11\n\t\n\t\n\t\tSAN DIEGUITO DE ABAJO\n\t\t3\n\t\t70\n\t\t30\n\t\t40\n\t\t6\n\t\n\t\n\t\tSAN DIEGUITO DE ARRIBA\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE GRACIA\n\t\t3\n\t\t158\n\t\t76\n\t\t82\n\t\t10\n\t\n\t\n\t\tSAN JOSÉ DE MOTAJE\n\t\t3\n\t\t53\n\t\t23\n\t\t30\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t93\n\t\t39\n\t\t54\n\t\t12\n\t\n\t\n\t\tSAN PEDRO DE HONOR\n\t\t3\n\t\t45\n\t\t24\n\t\t21\n\t\t3\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t70\n\t\t35\n\t\t35\n\t\t4\n\t\n\t\n\t\tSAYCOTA\n\t\t3\n\t\t41\n\t\t25\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAYULILLA\n\t\t4\n\t\t374\n\t\t182\n\t\t192\n\t\t24\n\t\n\t\n\t\tVALLE DE LA URRACA (EL CABILDO)\n\t\t2\n\t\t36\n\t\t16\n\t\t20\n\t\t2\n\t\n\t\n\t\tZACATECAS\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t160\n\t\t9,913\n\t\t5,072\n\t\t4,841\n\t\t634\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ACAPONETA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACAPONETA",
+          "41",
+          "6,431",
+          "3,385",
+          "3,046",
+          "379",
+          "AMADO NERVO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "BUENAVISTA (LAS PAREDES)",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4",
+          "CAÑONES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "CASAS COLORADAS",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4",
+          "CERRO BOLA",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4",
+          "EL AGUAJE",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5",
+          "EL CARRIZAL",
+          "3",
+          "75",
+          "36",
+          "39",
+          "5",
+          "EL CARRIZO",
+          "3",
+          "13",
+          "2",
+          "11",
+          "2",
+          "EL CENTENARIO",
+          "3",
+          "280",
+          "135",
+          "145",
+          "16",
+          "EL NARANJO",
+          "4",
+          "189",
+          "100",
+          "89",
+          "9",
+          "EL ORO",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1",
+          "EL RECODO",
+          "4",
+          "303",
+          "160",
+          "143",
+          "23",
+          "EL RESBALÓN",
+          "4",
+          "148",
+          "73",
+          "75",
+          "10",
+          "EL TACOTE",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1",
+          "EL TECHALOTE",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1",
+          "EL TIGRE",
+          "4",
+          "196",
+          "102",
+          "94",
+          "13",
+          "HACIENDA DE MARIQUITAS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "LA BAYONA",
+          "2",
+          "57",
+          "29",
+          "28",
+          "11",
+          "LA GUÁSIMA",
+          "3",
+          "187",
+          "86",
+          "101",
+          "16",
+          "LA HIGUERITA NUEVA (EL CARRIZO)",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2",
+          "LA LAGUNITA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LA PALOMA NUEVA REFORMA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2",
+          "LA PALOMA PRIMERA",
+          "3",
+          "54",
+          "31",
+          "23",
+          "4",
+          "LAS CASITAS",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3",
+          "LAS HIGUERAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "LLANO DE LA CRUZ",
+          "3",
+          "107",
+          "44",
+          "63",
+          "8",
+          "LOS SANDOVALES",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2",
+          "MESA DE LA LAGUNA",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3",
+          "MESA DE PEDRO PABLO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "3",
+          "OJO DE AGUA DEL TEJÓN",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4",
+          "PIEDRA ANCHA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "RANCHO EL ZAPOTE",
+          "3",
+          "70",
+          "29",
+          "41",
+          "4",
+          "SAN BLASITO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4",
+          "SAN DIEGO DE ALCALÁ",
+          "4",
+          "142",
+          "75",
+          "67",
+          "11",
+          "SAN DIEGUITO DE ABAJO",
+          "3",
+          "70",
+          "30",
+          "40",
+          "6",
+          "SAN DIEGUITO DE ARRIBA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3",
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "158",
+          "76",
+          "82",
+          "10",
+          "SAN JOSÉ DE MOTAJE",
+          "3",
+          "53",
+          "23",
+          "30",
+          "4",
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "12",
+          "SAN PEDRO DE HONOR",
+          "3",
+          "45",
+          "24",
+          "21",
+          "3",
+          "SANTA CRUZ",
+          "2",
+          "70",
+          "35",
+          "35",
+          "4",
+          "SAYCOTA",
+          "3",
+          "41",
+          "25",
+          "16",
+          "3",
+          "SAYULILLA",
+          "4",
+          "374",
+          "182",
+          "192",
+          "24",
+          "VALLE DE LA URRACA (EL CABILDO)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2",
+          "ZACATECAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "TOTAL",
+          "160",
+          "9,913",
+          "5,072",
+          "4,841",
+          "634",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ACAPONETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPONETA",
+          "41",
+          "6,431",
+          "3,385",
+          "3,046",
+          "379"
+        ],
+        [
+          "AMADO NERVO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "BUENAVISTA (LAS PAREDES)",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "CAÑONES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "CASAS COLORADAS",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4"
+        ],
+        [
+          "CERRO BOLA",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "EL AGUAJE",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "13",
+          "2",
+          "11",
+          "2"
+        ],
+        [
+          "EL CENTENARIO",
+          "3",
+          "280",
+          "135",
+          "145",
+          "16"
+        ],
+        [
+          "EL NARANJO",
+          "4",
+          "189",
+          "100",
+          "89",
+          "9"
+        ],
+        [
+          "EL ORO",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "EL RECODO",
+          "4",
+          "303",
+          "160",
+          "143",
+          "23"
+        ],
+        [
+          "EL RESBALÓN",
+          "4",
+          "148",
+          "73",
+          "75",
+          "10"
+        ],
+        [
+          "EL TACOTE",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1"
+        ],
+        [
+          "EL TECHALOTE",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EL TIGRE",
+          "4",
+          "196",
+          "102",
+          "94",
+          "13"
+        ],
+        [
+          "HACIENDA DE MARIQUITAS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "LA BAYONA",
+          "2",
+          "57",
+          "29",
+          "28",
+          "11"
+        ],
+        [
+          "LA GUÁSIMA",
+          "3",
+          "187",
+          "86",
+          "101",
+          "16"
+        ],
+        [
+          "LA HIGUERITA NUEVA (EL CARRIZO)",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA PALOMA NUEVA REFORMA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "LA PALOMA PRIMERA",
+          "3",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "LAS CASITAS",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3"
+        ],
+        [
+          "LAS HIGUERAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "LLANO DE LA CRUZ",
+          "3",
+          "107",
+          "44",
+          "63",
+          "8"
+        ],
+        [
+          "LOS SANDOVALES",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "MESA DE LA LAGUNA",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3"
+        ],
+        [
+          "MESA DE PEDRO PABLO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DEL TEJÓN",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "PIEDRA ANCHA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "RANCHO EL ZAPOTE",
+          "3",
+          "70",
+          "29",
+          "41",
+          "4"
+        ],
+        [
+          "SAN BLASITO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "SAN DIEGO DE ALCALÁ",
+          "4",
+          "142",
+          "75",
+          "67",
+          "11"
+        ],
+        [
+          "SAN DIEGUITO DE ABAJO",
+          "3",
+          "70",
+          "30",
+          "40",
+          "6"
+        ],
+        [
+          "SAN DIEGUITO DE ARRIBA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "158",
+          "76",
+          "82",
+          "10"
+        ],
+        [
+          "SAN JOSÉ DE MOTAJE",
+          "3",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "12"
+        ],
+        [
+          "SAN PEDRO DE HONOR",
+          "3",
+          "45",
+          "24",
+          "21",
+          "3"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "70",
+          "35",
+          "35",
+          "4"
+        ],
+        [
+          "SAYCOTA",
+          "3",
+          "41",
+          "25",
+          "16",
+          "3"
+        ],
+        [
+          "SAYULILLA",
+          "4",
+          "374",
+          "182",
+          "192",
+          "24"
+        ],
+        [
+          "VALLE DE LA URRACA (EL CABILDO)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2"
+        ],
+        [
+          "ZACATECAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "160",
+          "9,913",
+          "5,072",
+          "4,841",
+          "634"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ACAPONETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPONETA",
+          "41",
+          "6,431",
+          "3,385",
+          "3,046",
+          "379"
+        ],
+        [
+          "AMADO NERVO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "BUENAVISTA (LAS PAREDES)",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "CAÑONES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "CASAS COLORADAS",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4"
+        ],
+        [
+          "CERRO BOLA",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "EL AGUAJE",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "13",
+          "2",
+          "11",
+          "2"
+        ],
+        [
+          "EL CENTENARIO",
+          "3",
+          "280",
+          "135",
+          "145",
+          "16"
+        ],
+        [
+          "EL NARANJO",
+          "4",
+          "189",
+          "100",
+          "89",
+          "9"
+        ],
+        [
+          "EL ORO",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "EL RECODO",
+          "4",
+          "303",
+          "160",
+          "143",
+          "23"
+        ],
+        [
+          "EL RESBALÓN",
+          "4",
+          "148",
+          "73",
+          "75",
+          "10"
+        ],
+        [
+          "EL TACOTE",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1"
+        ],
+        [
+          "EL TECHALOTE",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EL TIGRE",
+          "4",
+          "196",
+          "102",
+          "94",
+          "13"
+        ],
+        [
+          "HACIENDA DE MARIQUITAS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "LA BAYONA",
+          "2",
+          "57",
+          "29",
+          "28",
+          "11"
+        ],
+        [
+          "LA GUÁSIMA",
+          "3",
+          "187",
+          "86",
+          "101",
+          "16"
+        ],
+        [
+          "LA HIGUERITA NUEVA (EL CARRIZO)",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA PALOMA NUEVA REFORMA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "LA PALOMA PRIMERA",
+          "3",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "LAS CASITAS",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3"
+        ],
+        [
+          "LAS HIGUERAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "LLANO DE LA CRUZ",
+          "3",
+          "107",
+          "44",
+          "63",
+          "8"
+        ],
+        [
+          "LOS SANDOVALES",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "MESA DE LA LAGUNA",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3"
+        ],
+        [
+          "MESA DE PEDRO PABLO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DEL TEJÓN",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "PIEDRA ANCHA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "RANCHO EL ZAPOTE",
+          "3",
+          "70",
+          "29",
+          "41",
+          "4"
+        ],
+        [
+          "SAN BLASITO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "SAN DIEGO DE ALCALÁ",
+          "4",
+          "142",
+          "75",
+          "67",
+          "11"
+        ],
+        [
+          "SAN DIEGUITO DE ABAJO",
+          "3",
+          "70",
+          "30",
+          "40",
+          "6"
+        ],
+        [
+          "SAN DIEGUITO DE ARRIBA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "158",
+          "76",
+          "82",
+          "10"
+        ],
+        [
+          "SAN JOSÉ DE MOTAJE",
+          "3",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "12"
+        ],
+        [
+          "SAN PEDRO DE HONOR",
+          "3",
+          "45",
+          "24",
+          "21",
+          "3"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "70",
+          "35",
+          "35",
+          "4"
+        ],
+        [
+          "SAYCOTA",
+          "3",
+          "41",
+          "25",
+          "16",
+          "3"
+        ],
+        [
+          "SAYULILLA",
+          "4",
+          "374",
+          "182",
+          "192",
+          "24"
+        ],
+        [
+          "VALLE DE LA URRACA (EL CABILDO)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2"
+        ],
+        [
+          "ZACATECAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "160",
+          "9,913",
+          "5,072",
+          "4,841",
+          "634"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:28.570Z"
+}

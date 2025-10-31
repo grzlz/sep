@@ -1,0 +1,692 @@
+{
+  "municipality": "TECATE",
+  "municipalityCode": "003",
+  "state": "BAJA CALIFORNIA",
+  "stateCode": "2",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tENSENADA\n\tMEXICALI\n\tPLAYAS DE ROSARITO\n\tSAN FELIPE\n\tSAN QUINTÍN\n\tTECATE\n\tTIJUANA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TECATE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALFONSO GARZÓN [GRANJAS FAMILIARES]\n\t\t2\n\t\t183\n\t\t87\n\t\t96\n\t\t9\n\t\n\t\n\t\tAMPLIACIÓN VALLE DE LAS PALMAS\n\t\t2\n\t\t112\n\t\t55\n\t\t57\n\t\t5\n\t\n\t\n\t\tCOMUNIDAD INDÍGENA JUNTAS DE NEJI ANEXA\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tEJIDO ENCINAL\n\t\t2\n\t\t188\n\t\t98\n\t\t90\n\t\t8\n\t\n\t\n\t\tEJIDO JACUMÉ\n\t\t3\n\t\t138\n\t\t65\n\t\t73\n\t\t8\n\t\n\t\n\t\tEL CERRITO TANAMÁ\n\t\t1\n\t\t36\n\t\t18\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL ENCINAL\n\t\t4\n\t\t276\n\t\t131\n\t\t145\n\t\t11\n\t\n\t\n\t\tEL ESCORIAL\n\t\t2\n\t\t194\n\t\t85\n\t\t109\n\t\t9\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t165\n\t\t79\n\t\t86\n\t\t6\n\t\n\t\n\t\tEL ROBLE\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t4\n\t\n\t\n\t\tEL TESTERAZO\n\t\t4\n\t\t229\n\t\t105\n\t\t124\n\t\t11\n\t\n\t\n\t\tHACIENDA SANTA VERÓNICA\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tHACIENDA TECATE\n\t\t3\n\t\t340\n\t\t170\n\t\t170\n\t\t15\n\t\n\t\n\t\tJARDINES DEL RINCÓN\n\t\t3\n\t\t37\n\t\t20\n\t\t17\n\t\t2\n\t\n\t\n\t\tLA RUMOROSA\n\t\t5\n\t\t455\n\t\t224\n\t\t231\n\t\t23\n\t\n\t\n\t\tLOMA LINDA\n\t\t1\n\t\t142\n\t\t86\n\t\t56\n\t\t6\n\t\n\t\n\t\tLOMA TOVA\n\t\t3\n\t\t24\n\t\t12\n\t\t12\n\t\t3\n\t\n\t\n\t\tLOMAS DE SANTA ANITA\n\t\t4\n\t\t790\n\t\t386\n\t\t404\n\t\t34\n\t\n\t\n\t\tLUIS ECHEVERRÍA ÁLVAREZ (EL HONGO)\n\t\t6\n\t\t936\n\t\t483\n\t\t453\n\t\t43\n\t\n\t\n\t\tMACLOVIO HERRERA (COLONIA AVIACIÓN)\n\t\t4\n\t\t1,098\n\t\t567\n\t\t531\n\t\t69\n\t\n\t\n\t\tMI RANCHITO (CHULA VISTA)\n\t\t2\n\t\t168\n\t\t89\n\t\t79\n\t\t8\n\t\n\t\n\t\tNUEVA COLONIA HINDÚ\n\t\t8\n\t\t1,276\n\t\t634\n\t\t642\n\t\t52\n\t\n\t\n\t\tPARCELA 44 (VALLE DE LAS PALMAS)\n\t\t1\n\t\t10\n\t\t3\n\t\t7\n\t\t1\n\t\n\t\n\t\tPASO DEL ÁGUILA\n\t\t8\n\t\t1,682\n\t\t803\n\t\t879\n\t\t175\n\t\n\t\n\t\tSIERRA TECATE\n\t\t2\n\t\t170\n\t\t75\n\t\t95\n\t\t8\n\t\n\t\n\t\tTECATE\n\t\t101\n\t\t19,965\n\t\t9,961\n\t\t10,004\n\t\t1,298\n\t\n\t\n\t\tVALLE DE LAS PALMAS\n\t\t5\n\t\t688\n\t\t326\n\t\t362\n\t\t37\n\t\n\t\n\t\tTOTAL\n\t\t184\n\t\t29,382\n\t\t14,601\n\t\t14,781\n\t\t1,853\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TECATE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALFONSO GARZÓN [GRANJAS FAMILIARES]",
+          "2",
+          "183",
+          "87",
+          "96",
+          "9",
+          "AMPLIACIÓN VALLE DE LAS PALMAS",
+          "2",
+          "112",
+          "55",
+          "57",
+          "5",
+          "COMUNIDAD INDÍGENA JUNTAS DE NEJI ANEXA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1",
+          "EJIDO ENCINAL",
+          "2",
+          "188",
+          "98",
+          "90",
+          "8",
+          "EJIDO JACUMÉ",
+          "3",
+          "138",
+          "65",
+          "73",
+          "8",
+          "EL CERRITO TANAMÁ",
+          "1",
+          "36",
+          "18",
+          "18",
+          "4",
+          "EL ENCINAL",
+          "4",
+          "276",
+          "131",
+          "145",
+          "11",
+          "EL ESCORIAL",
+          "2",
+          "194",
+          "85",
+          "109",
+          "9",
+          "EL MIRADOR",
+          "1",
+          "165",
+          "79",
+          "86",
+          "6",
+          "EL ROBLE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "4",
+          "EL TESTERAZO",
+          "4",
+          "229",
+          "105",
+          "124",
+          "11",
+          "HACIENDA SANTA VERÓNICA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "HACIENDA TECATE",
+          "3",
+          "340",
+          "170",
+          "170",
+          "15",
+          "JARDINES DEL RINCÓN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "2",
+          "LA RUMOROSA",
+          "5",
+          "455",
+          "224",
+          "231",
+          "23",
+          "LOMA LINDA",
+          "1",
+          "142",
+          "86",
+          "56",
+          "6",
+          "LOMA TOVA",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3",
+          "LOMAS DE SANTA ANITA",
+          "4",
+          "790",
+          "386",
+          "404",
+          "34",
+          "LUIS ECHEVERRÍA ÁLVAREZ (EL HONGO)",
+          "6",
+          "936",
+          "483",
+          "453",
+          "43",
+          "MACLOVIO HERRERA (COLONIA AVIACIÓN)",
+          "4",
+          "1,098",
+          "567",
+          "531",
+          "69",
+          "MI RANCHITO (CHULA VISTA)",
+          "2",
+          "168",
+          "89",
+          "79",
+          "8",
+          "NUEVA COLONIA HINDÚ",
+          "8",
+          "1,276",
+          "634",
+          "642",
+          "52",
+          "PARCELA 44 (VALLE DE LAS PALMAS)",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1",
+          "PASO DEL ÁGUILA",
+          "8",
+          "1,682",
+          "803",
+          "879",
+          "175",
+          "SIERRA TECATE",
+          "2",
+          "170",
+          "75",
+          "95",
+          "8",
+          "TECATE",
+          "101",
+          "19,965",
+          "9,961",
+          "10,004",
+          "1,298",
+          "VALLE DE LAS PALMAS",
+          "5",
+          "688",
+          "326",
+          "362",
+          "37",
+          "TOTAL",
+          "184",
+          "29,382",
+          "14,601",
+          "14,781",
+          "1,853",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TECATE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFONSO GARZÓN [GRANJAS FAMILIARES]",
+          "2",
+          "183",
+          "87",
+          "96",
+          "9"
+        ],
+        [
+          "AMPLIACIÓN VALLE DE LAS PALMAS",
+          "2",
+          "112",
+          "55",
+          "57",
+          "5"
+        ],
+        [
+          "COMUNIDAD INDÍGENA JUNTAS DE NEJI ANEXA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EJIDO ENCINAL",
+          "2",
+          "188",
+          "98",
+          "90",
+          "8"
+        ],
+        [
+          "EJIDO JACUMÉ",
+          "3",
+          "138",
+          "65",
+          "73",
+          "8"
+        ],
+        [
+          "EL CERRITO TANAMÁ",
+          "1",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "EL ENCINAL",
+          "4",
+          "276",
+          "131",
+          "145",
+          "11"
+        ],
+        [
+          "EL ESCORIAL",
+          "2",
+          "194",
+          "85",
+          "109",
+          "9"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "165",
+          "79",
+          "86",
+          "6"
+        ],
+        [
+          "EL ROBLE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "4"
+        ],
+        [
+          "EL TESTERAZO",
+          "4",
+          "229",
+          "105",
+          "124",
+          "11"
+        ],
+        [
+          "HACIENDA SANTA VERÓNICA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "HACIENDA TECATE",
+          "3",
+          "340",
+          "170",
+          "170",
+          "15"
+        ],
+        [
+          "JARDINES DEL RINCÓN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "LA RUMOROSA",
+          "5",
+          "455",
+          "224",
+          "231",
+          "23"
+        ],
+        [
+          "LOMA LINDA",
+          "1",
+          "142",
+          "86",
+          "56",
+          "6"
+        ],
+        [
+          "LOMA TOVA",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "LOMAS DE SANTA ANITA",
+          "4",
+          "790",
+          "386",
+          "404",
+          "34"
+        ],
+        [
+          "LUIS ECHEVERRÍA ÁLVAREZ (EL HONGO)",
+          "6",
+          "936",
+          "483",
+          "453",
+          "43"
+        ],
+        [
+          "MACLOVIO HERRERA (COLONIA AVIACIÓN)",
+          "4",
+          "1,098",
+          "567",
+          "531",
+          "69"
+        ],
+        [
+          "MI RANCHITO (CHULA VISTA)",
+          "2",
+          "168",
+          "89",
+          "79",
+          "8"
+        ],
+        [
+          "NUEVA COLONIA HINDÚ",
+          "8",
+          "1,276",
+          "634",
+          "642",
+          "52"
+        ],
+        [
+          "PARCELA 44 (VALLE DE LAS PALMAS)",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "PASO DEL ÁGUILA",
+          "8",
+          "1,682",
+          "803",
+          "879",
+          "175"
+        ],
+        [
+          "SIERRA TECATE",
+          "2",
+          "170",
+          "75",
+          "95",
+          "8"
+        ],
+        [
+          "TECATE",
+          "101",
+          "19,965",
+          "9,961",
+          "10,004",
+          "1,298"
+        ],
+        [
+          "VALLE DE LAS PALMAS",
+          "5",
+          "688",
+          "326",
+          "362",
+          "37"
+        ],
+        [
+          "TOTAL",
+          "184",
+          "29,382",
+          "14,601",
+          "14,781",
+          "1,853"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TECATE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFONSO GARZÓN [GRANJAS FAMILIARES]",
+          "2",
+          "183",
+          "87",
+          "96",
+          "9"
+        ],
+        [
+          "AMPLIACIÓN VALLE DE LAS PALMAS",
+          "2",
+          "112",
+          "55",
+          "57",
+          "5"
+        ],
+        [
+          "COMUNIDAD INDÍGENA JUNTAS DE NEJI ANEXA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EJIDO ENCINAL",
+          "2",
+          "188",
+          "98",
+          "90",
+          "8"
+        ],
+        [
+          "EJIDO JACUMÉ",
+          "3",
+          "138",
+          "65",
+          "73",
+          "8"
+        ],
+        [
+          "EL CERRITO TANAMÁ",
+          "1",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "EL ENCINAL",
+          "4",
+          "276",
+          "131",
+          "145",
+          "11"
+        ],
+        [
+          "EL ESCORIAL",
+          "2",
+          "194",
+          "85",
+          "109",
+          "9"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "165",
+          "79",
+          "86",
+          "6"
+        ],
+        [
+          "EL ROBLE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "4"
+        ],
+        [
+          "EL TESTERAZO",
+          "4",
+          "229",
+          "105",
+          "124",
+          "11"
+        ],
+        [
+          "HACIENDA SANTA VERÓNICA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "HACIENDA TECATE",
+          "3",
+          "340",
+          "170",
+          "170",
+          "15"
+        ],
+        [
+          "JARDINES DEL RINCÓN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "LA RUMOROSA",
+          "5",
+          "455",
+          "224",
+          "231",
+          "23"
+        ],
+        [
+          "LOMA LINDA",
+          "1",
+          "142",
+          "86",
+          "56",
+          "6"
+        ],
+        [
+          "LOMA TOVA",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "LOMAS DE SANTA ANITA",
+          "4",
+          "790",
+          "386",
+          "404",
+          "34"
+        ],
+        [
+          "LUIS ECHEVERRÍA ÁLVAREZ (EL HONGO)",
+          "6",
+          "936",
+          "483",
+          "453",
+          "43"
+        ],
+        [
+          "MACLOVIO HERRERA (COLONIA AVIACIÓN)",
+          "4",
+          "1,098",
+          "567",
+          "531",
+          "69"
+        ],
+        [
+          "MI RANCHITO (CHULA VISTA)",
+          "2",
+          "168",
+          "89",
+          "79",
+          "8"
+        ],
+        [
+          "NUEVA COLONIA HINDÚ",
+          "8",
+          "1,276",
+          "634",
+          "642",
+          "52"
+        ],
+        [
+          "PARCELA 44 (VALLE DE LAS PALMAS)",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "PASO DEL ÁGUILA",
+          "8",
+          "1,682",
+          "803",
+          "879",
+          "175"
+        ],
+        [
+          "SIERRA TECATE",
+          "2",
+          "170",
+          "75",
+          "95",
+          "8"
+        ],
+        [
+          "TECATE",
+          "101",
+          "19,965",
+          "9,961",
+          "10,004",
+          "1,298"
+        ],
+        [
+          "VALLE DE LAS PALMAS",
+          "5",
+          "688",
+          "326",
+          "362",
+          "37"
+        ],
+        [
+          "TOTAL",
+          "184",
+          "29,382",
+          "14,601",
+          "14,781",
+          "1,853"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:02.530Z"
+}

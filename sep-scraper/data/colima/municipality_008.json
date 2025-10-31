@@ -1,0 +1,428 @@
+{
+  "municipality": "MINATITLÁN",
+  "municipalityCode": "008",
+  "state": "COLIMA",
+  "stateCode": "6",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA SALADA\n\t\t4\n\t\t183\n\t\t77\n\t\t106\n\t\t13\n\t\n\t\n\t\tBENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)\n\t\t3\n\t\t239\n\t\t132\n\t\t107\n\t\t13\n\t\n\t\n\t\tEL ARRAYANAL\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL PLATANAR\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL SAUZ\n\t\t3\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL TERRERO\n\t\t3\n\t\t23\n\t\t11\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA COCONAL\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA LOMA\n\t\t3\n\t\t87\n\t\t47\n\t\t40\n\t\t7\n\t\n\t\n\t\tLA PLAYA (LA PLAYITA)\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tLAS PESADAS\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tMINATITLÁN\n\t\t7\n\t\t1,631\n\t\t792\n\t\t839\n\t\t82\n\t\n\t\n\t\tPATICAJO\n\t\t4\n\t\t335\n\t\t171\n\t\t164\n\t\t16\n\t\n\t\n\t\tPLATANARILLOS\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tPOTRERO GRANDE\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t21\n\t\t7\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t41\n\t\t2,660\n\t\t1,304\n\t\t1,356\n\t\t151\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA SALADA",
+          "4",
+          "183",
+          "77",
+          "106",
+          "13",
+          "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+          "3",
+          "239",
+          "132",
+          "107",
+          "13",
+          "EL ARRAYANAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL PLATANAR",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2",
+          "EL SAUZ",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3",
+          "EL TERRERO",
+          "3",
+          "23",
+          "11",
+          "12",
+          "3",
+          "LA COCONAL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2",
+          "LA LOMA",
+          "3",
+          "87",
+          "47",
+          "40",
+          "7",
+          "LA PLAYA (LA PLAYITA)",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "LAS PESADAS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2",
+          "MINATITLÁN",
+          "7",
+          "1,631",
+          "792",
+          "839",
+          "82",
+          "PATICAJO",
+          "4",
+          "335",
+          "171",
+          "164",
+          "16",
+          "PLATANARILLOS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "POTRERO GRANDE",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2",
+          "SAN ANTONIO",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2",
+          "TOTAL",
+          "41",
+          "2,660",
+          "1,304",
+          "1,356",
+          "151",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA SALADA",
+          "4",
+          "183",
+          "77",
+          "106",
+          "13"
+        ],
+        [
+          "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+          "3",
+          "239",
+          "132",
+          "107",
+          "13"
+        ],
+        [
+          "EL ARRAYANAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL PLATANAR",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "EL TERRERO",
+          "3",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "LA COCONAL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "87",
+          "47",
+          "40",
+          "7"
+        ],
+        [
+          "LA PLAYA (LA PLAYITA)",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LAS PESADAS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "MINATITLÁN",
+          "7",
+          "1,631",
+          "792",
+          "839",
+          "82"
+        ],
+        [
+          "PATICAJO",
+          "4",
+          "335",
+          "171",
+          "164",
+          "16"
+        ],
+        [
+          "PLATANARILLOS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "POTRERO GRANDE",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "41",
+          "2,660",
+          "1,304",
+          "1,356",
+          "151"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: MINATITLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA SALADA",
+          "4",
+          "183",
+          "77",
+          "106",
+          "13"
+        ],
+        [
+          "BENITO JUÁREZ DE PEÑA COLORADA (EL POBLADO)",
+          "3",
+          "239",
+          "132",
+          "107",
+          "13"
+        ],
+        [
+          "EL ARRAYANAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL PLATANAR",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "EL TERRERO",
+          "3",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "LA COCONAL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "87",
+          "47",
+          "40",
+          "7"
+        ],
+        [
+          "LA PLAYA (LA PLAYITA)",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LAS PESADAS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "MINATITLÁN",
+          "7",
+          "1,631",
+          "792",
+          "839",
+          "82"
+        ],
+        [
+          "PATICAJO",
+          "4",
+          "335",
+          "171",
+          "164",
+          "16"
+        ],
+        [
+          "PLATANARILLOS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "POTRERO GRANDE",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "41",
+          "2,660",
+          "1,304",
+          "1,356",
+          "151"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:07.505Z"
+}

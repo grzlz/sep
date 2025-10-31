@@ -1,0 +1,912 @@
+{
+  "municipality": "JESÚS MARÍA",
+  "municipalityCode": "005",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: JESÚS MARÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARBOLEDAS PASO BLANCO [FRACCIONAMIENTO]\n\t\t3\n\t\t144\n\t\t66\n\t\t78\n\t\t31\n\t\n\t\n\t\tBROWNSVILLE\n\t\t1\n\t\t23\n\t\t12\n\t\t11\n\t\t1\n\t\n\t\n\t\tCAÑADA EL RODEO\n\t\t3\n\t\t74\n\t\t43\n\t\t31\n\t\t5\n\t\n\t\n\t\tCORRAL DE BARRANCOS\n\t\t10\n\t\t938\n\t\t452\n\t\t486\n\t\t40\n\t\n\t\n\t\tEJIDO LA GUAYANA (RANCHO SECO)\n\t\t4\n\t\t336\n\t\t164\n\t\t172\n\t\t14\n\t\n\t\n\t\tEL AURERO\n\t\t1\n\t\t59\n\t\t25\n\t\t34\n\t\t2\n\t\n\t\n\t\tEL CENIZO\n\t\t2\n\t\t83\n\t\t34\n\t\t49\n\t\t4\n\t\n\t\n\t\tEL CHICHIMECO\n\t\t2\n\t\t399\n\t\t202\n\t\t197\n\t\t12\n\t\n\t\n\t\tEL LLANO\n\t\t10\n\t\t8,646\n\t\t4,891\n\t\t3,755\n\t\t572\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t231\n\t\t96\n\t\t135\n\t\t9\n\t\n\t\n\t\tEX-HACIENDA DE MILPILLAS\n\t\t3\n\t\t124\n\t\t75\n\t\t49\n\t\t7\n\t\n\t\n\t\tGENERAL IGNACIO ZARAGOZA (VENADERO)\n\t\t4\n\t\t698\n\t\t327\n\t\t371\n\t\t34\n\t\n\t\n\t\tGRACIAS A DIOS\n\t\t3\n\t\t102\n\t\t52\n\t\t50\n\t\t5\n\t\n\t\n\t\tJESÚS GÓMEZ PORTUGAL (MARGARITAS)\n\t\t12\n\t\t2,354\n\t\t1,186\n\t\t1,168\n\t\t116\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t88\n\t\t19,437\n\t\t9,655\n\t\t9,782\n\t\t1,078\n\t\n\t\n\t\tJESÚS MARÍA [EJIDO]\n\t\t2\n\t\t110\n\t\t49\n\t\t61\n\t\t7\n\t\n\t\n\t\tLA FLORIDA\n\t\t4\n\t\t185\n\t\t87\n\t\t98\n\t\t7\n\t\n\t\n\t\tLA LOMA DE VALLADOLID\n\t\t3\n\t\t162\n\t\t70\n\t\t92\n\t\t7\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA TOMATINA\n\t\t4\n\t\t341\n\t\t166\n\t\t175\n\t\t15\n\t\n\t\n\t\tLAS JAULAS\n\t\t2\n\t\t169\n\t\t80\n\t\t89\n\t\t8\n\t\n\t\n\t\tLOS ARENALES\n\t\t3\n\t\t103\n\t\t41\n\t\t62\n\t\t17\n\t\n\t\n\t\tLOS ARQUITOS\n\t\t4\n\t\t478\n\t\t231\n\t\t247\n\t\t19\n\t\n\t\n\t\tLOS RAMÍREZ\n\t\t2\n\t\t187\n\t\t87\n\t\t100\n\t\t8\n\t\n\t\n\t\tLOS VÁZQUEZ\n\t\t4\n\t\t466\n\t\t239\n\t\t227\n\t\t17\n\t\n\t\n\t\tMARAVILLAS\n\t\t5\n\t\t1,118\n\t\t591\n\t\t527\n\t\t59\n\t\n\t\n\t\tMILPILLAS DE ABAJO\n\t\t1\n\t\t16\n\t\t5\n\t\t11\n\t\t1\n\t\n\t\n\t\tMIRAVALLE\n\t\t3\n\t\t298\n\t\t134\n\t\t164\n\t\t11\n\t\n\t\n\t\tPASEOS DE LAS HACIENDAS [FRACCIONAMIENTO]\n\t\t4\n\t\t292\n\t\t141\n\t\t151\n\t\t12\n\t\n\t\n\t\tPASO BLANCO\n\t\t8\n\t\t903\n\t\t430\n\t\t473\n\t\t52\n\t\n\t\n\t\tPEDERNAL PRIMERO\n\t\t3\n\t\t170\n\t\t79\n\t\t91\n\t\t7\n\t\n\t\n\t\tSAN ANTONIO DE LOS HORCONES\n\t\t4\n\t\t369\n\t\t168\n\t\t201\n\t\t16\n\t\n\t\n\t\tSAN ISIDRO\n\t\t1\n\t\t22\n\t\t12\n\t\t10\n\t\t1\n\t\n\t\n\t\tTANQUE LA VIZNAGA\n\t\t1\n\t\t27\n\t\t16\n\t\t11\n\t\t2\n\t\n\t\n\t\tTAPIAS VIEJAS\n\t\t4\n\t\t219\n\t\t89\n\t\t130\n\t\t11\n\t\n\t\n\t\tTEPETATES\n\t\t2\n\t\t291\n\t\t137\n\t\t154\n\t\t10\n\t\n\t\n\t\tVALLADOLID\n\t\t4\n\t\t580\n\t\t276\n\t\t304\n\t\t27\n\t\n\t\n\t\tTOTAL\n\t\t217\n\t\t40,166\n\t\t20,414\n\t\t19,752\n\t\t2,245\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: JESÚS MARÍA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARBOLEDAS PASO BLANCO [FRACCIONAMIENTO]",
+          "3",
+          "144",
+          "66",
+          "78",
+          "31",
+          "BROWNSVILLE",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1",
+          "CAÑADA EL RODEO",
+          "3",
+          "74",
+          "43",
+          "31",
+          "5",
+          "CORRAL DE BARRANCOS",
+          "10",
+          "938",
+          "452",
+          "486",
+          "40",
+          "EJIDO LA GUAYANA (RANCHO SECO)",
+          "4",
+          "336",
+          "164",
+          "172",
+          "14",
+          "EL AURERO",
+          "1",
+          "59",
+          "25",
+          "34",
+          "2",
+          "EL CENIZO",
+          "2",
+          "83",
+          "34",
+          "49",
+          "4",
+          "EL CHICHIMECO",
+          "2",
+          "399",
+          "202",
+          "197",
+          "12",
+          "EL LLANO",
+          "10",
+          "8,646",
+          "4,891",
+          "3,755",
+          "572",
+          "EL REFUGIO",
+          "2",
+          "231",
+          "96",
+          "135",
+          "9",
+          "EX-HACIENDA DE MILPILLAS",
+          "3",
+          "124",
+          "75",
+          "49",
+          "7",
+          "GENERAL IGNACIO ZARAGOZA (VENADERO)",
+          "4",
+          "698",
+          "327",
+          "371",
+          "34",
+          "GRACIAS A DIOS",
+          "3",
+          "102",
+          "52",
+          "50",
+          "5",
+          "JESÚS GÓMEZ PORTUGAL (MARGARITAS)",
+          "12",
+          "2,354",
+          "1,186",
+          "1,168",
+          "116",
+          "JESÚS MARÍA",
+          "88",
+          "19,437",
+          "9,655",
+          "9,782",
+          "1,078",
+          "JESÚS MARÍA [EJIDO]",
+          "2",
+          "110",
+          "49",
+          "61",
+          "7",
+          "LA FLORIDA",
+          "4",
+          "185",
+          "87",
+          "98",
+          "7",
+          "LA LOMA DE VALLADOLID",
+          "3",
+          "162",
+          "70",
+          "92",
+          "7",
+          "LA PRIMAVERA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LA TOMATINA",
+          "4",
+          "341",
+          "166",
+          "175",
+          "15",
+          "LAS JAULAS",
+          "2",
+          "169",
+          "80",
+          "89",
+          "8",
+          "LOS ARENALES",
+          "3",
+          "103",
+          "41",
+          "62",
+          "17",
+          "LOS ARQUITOS",
+          "4",
+          "478",
+          "231",
+          "247",
+          "19",
+          "LOS RAMÍREZ",
+          "2",
+          "187",
+          "87",
+          "100",
+          "8",
+          "LOS VÁZQUEZ",
+          "4",
+          "466",
+          "239",
+          "227",
+          "17",
+          "MARAVILLAS",
+          "5",
+          "1,118",
+          "591",
+          "527",
+          "59",
+          "MILPILLAS DE ABAJO",
+          "1",
+          "16",
+          "5",
+          "11",
+          "1",
+          "MIRAVALLE",
+          "3",
+          "298",
+          "134",
+          "164",
+          "11",
+          "PASEOS DE LAS HACIENDAS [FRACCIONAMIENTO]",
+          "4",
+          "292",
+          "141",
+          "151",
+          "12",
+          "PASO BLANCO",
+          "8",
+          "903",
+          "430",
+          "473",
+          "52",
+          "PEDERNAL PRIMERO",
+          "3",
+          "170",
+          "79",
+          "91",
+          "7",
+          "SAN ANTONIO DE LOS HORCONES",
+          "4",
+          "369",
+          "168",
+          "201",
+          "16",
+          "SAN ISIDRO",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1",
+          "TANQUE LA VIZNAGA",
+          "1",
+          "27",
+          "16",
+          "11",
+          "2",
+          "TAPIAS VIEJAS",
+          "4",
+          "219",
+          "89",
+          "130",
+          "11",
+          "TEPETATES",
+          "2",
+          "291",
+          "137",
+          "154",
+          "10",
+          "VALLADOLID",
+          "4",
+          "580",
+          "276",
+          "304",
+          "27",
+          "TOTAL",
+          "217",
+          "40,166",
+          "20,414",
+          "19,752",
+          "2,245",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: JESÚS MARÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARBOLEDAS PASO BLANCO [FRACCIONAMIENTO]",
+          "3",
+          "144",
+          "66",
+          "78",
+          "31"
+        ],
+        [
+          "BROWNSVILLE",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1"
+        ],
+        [
+          "CAÑADA EL RODEO",
+          "3",
+          "74",
+          "43",
+          "31",
+          "5"
+        ],
+        [
+          "CORRAL DE BARRANCOS",
+          "10",
+          "938",
+          "452",
+          "486",
+          "40"
+        ],
+        [
+          "EJIDO LA GUAYANA (RANCHO SECO)",
+          "4",
+          "336",
+          "164",
+          "172",
+          "14"
+        ],
+        [
+          "EL AURERO",
+          "1",
+          "59",
+          "25",
+          "34",
+          "2"
+        ],
+        [
+          "EL CENIZO",
+          "2",
+          "83",
+          "34",
+          "49",
+          "4"
+        ],
+        [
+          "EL CHICHIMECO",
+          "2",
+          "399",
+          "202",
+          "197",
+          "12"
+        ],
+        [
+          "EL LLANO",
+          "10",
+          "8,646",
+          "4,891",
+          "3,755",
+          "572"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "231",
+          "96",
+          "135",
+          "9"
+        ],
+        [
+          "EX-HACIENDA DE MILPILLAS",
+          "3",
+          "124",
+          "75",
+          "49",
+          "7"
+        ],
+        [
+          "GENERAL IGNACIO ZARAGOZA (VENADERO)",
+          "4",
+          "698",
+          "327",
+          "371",
+          "34"
+        ],
+        [
+          "GRACIAS A DIOS",
+          "3",
+          "102",
+          "52",
+          "50",
+          "5"
+        ],
+        [
+          "JESÚS GÓMEZ PORTUGAL (MARGARITAS)",
+          "12",
+          "2,354",
+          "1,186",
+          "1,168",
+          "116"
+        ],
+        [
+          "JESÚS MARÍA",
+          "88",
+          "19,437",
+          "9,655",
+          "9,782",
+          "1,078"
+        ],
+        [
+          "JESÚS MARÍA [EJIDO]",
+          "2",
+          "110",
+          "49",
+          "61",
+          "7"
+        ],
+        [
+          "LA FLORIDA",
+          "4",
+          "185",
+          "87",
+          "98",
+          "7"
+        ],
+        [
+          "LA LOMA DE VALLADOLID",
+          "3",
+          "162",
+          "70",
+          "92",
+          "7"
+        ],
+        [
+          "LA PRIMAVERA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA TOMATINA",
+          "4",
+          "341",
+          "166",
+          "175",
+          "15"
+        ],
+        [
+          "LAS JAULAS",
+          "2",
+          "169",
+          "80",
+          "89",
+          "8"
+        ],
+        [
+          "LOS ARENALES",
+          "3",
+          "103",
+          "41",
+          "62",
+          "17"
+        ],
+        [
+          "LOS ARQUITOS",
+          "4",
+          "478",
+          "231",
+          "247",
+          "19"
+        ],
+        [
+          "LOS RAMÍREZ",
+          "2",
+          "187",
+          "87",
+          "100",
+          "8"
+        ],
+        [
+          "LOS VÁZQUEZ",
+          "4",
+          "466",
+          "239",
+          "227",
+          "17"
+        ],
+        [
+          "MARAVILLAS",
+          "5",
+          "1,118",
+          "591",
+          "527",
+          "59"
+        ],
+        [
+          "MILPILLAS DE ABAJO",
+          "1",
+          "16",
+          "5",
+          "11",
+          "1"
+        ],
+        [
+          "MIRAVALLE",
+          "3",
+          "298",
+          "134",
+          "164",
+          "11"
+        ],
+        [
+          "PASEOS DE LAS HACIENDAS [FRACCIONAMIENTO]",
+          "4",
+          "292",
+          "141",
+          "151",
+          "12"
+        ],
+        [
+          "PASO BLANCO",
+          "8",
+          "903",
+          "430",
+          "473",
+          "52"
+        ],
+        [
+          "PEDERNAL PRIMERO",
+          "3",
+          "170",
+          "79",
+          "91",
+          "7"
+        ],
+        [
+          "SAN ANTONIO DE LOS HORCONES",
+          "4",
+          "369",
+          "168",
+          "201",
+          "16"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1"
+        ],
+        [
+          "TANQUE LA VIZNAGA",
+          "1",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "TAPIAS VIEJAS",
+          "4",
+          "219",
+          "89",
+          "130",
+          "11"
+        ],
+        [
+          "TEPETATES",
+          "2",
+          "291",
+          "137",
+          "154",
+          "10"
+        ],
+        [
+          "VALLADOLID",
+          "4",
+          "580",
+          "276",
+          "304",
+          "27"
+        ],
+        [
+          "TOTAL",
+          "217",
+          "40,166",
+          "20,414",
+          "19,752",
+          "2,245"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: JESÚS MARÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARBOLEDAS PASO BLANCO [FRACCIONAMIENTO]",
+          "3",
+          "144",
+          "66",
+          "78",
+          "31"
+        ],
+        [
+          "BROWNSVILLE",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1"
+        ],
+        [
+          "CAÑADA EL RODEO",
+          "3",
+          "74",
+          "43",
+          "31",
+          "5"
+        ],
+        [
+          "CORRAL DE BARRANCOS",
+          "10",
+          "938",
+          "452",
+          "486",
+          "40"
+        ],
+        [
+          "EJIDO LA GUAYANA (RANCHO SECO)",
+          "4",
+          "336",
+          "164",
+          "172",
+          "14"
+        ],
+        [
+          "EL AURERO",
+          "1",
+          "59",
+          "25",
+          "34",
+          "2"
+        ],
+        [
+          "EL CENIZO",
+          "2",
+          "83",
+          "34",
+          "49",
+          "4"
+        ],
+        [
+          "EL CHICHIMECO",
+          "2",
+          "399",
+          "202",
+          "197",
+          "12"
+        ],
+        [
+          "EL LLANO",
+          "10",
+          "8,646",
+          "4,891",
+          "3,755",
+          "572"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "231",
+          "96",
+          "135",
+          "9"
+        ],
+        [
+          "EX-HACIENDA DE MILPILLAS",
+          "3",
+          "124",
+          "75",
+          "49",
+          "7"
+        ],
+        [
+          "GENERAL IGNACIO ZARAGOZA (VENADERO)",
+          "4",
+          "698",
+          "327",
+          "371",
+          "34"
+        ],
+        [
+          "GRACIAS A DIOS",
+          "3",
+          "102",
+          "52",
+          "50",
+          "5"
+        ],
+        [
+          "JESÚS GÓMEZ PORTUGAL (MARGARITAS)",
+          "12",
+          "2,354",
+          "1,186",
+          "1,168",
+          "116"
+        ],
+        [
+          "JESÚS MARÍA",
+          "88",
+          "19,437",
+          "9,655",
+          "9,782",
+          "1,078"
+        ],
+        [
+          "JESÚS MARÍA [EJIDO]",
+          "2",
+          "110",
+          "49",
+          "61",
+          "7"
+        ],
+        [
+          "LA FLORIDA",
+          "4",
+          "185",
+          "87",
+          "98",
+          "7"
+        ],
+        [
+          "LA LOMA DE VALLADOLID",
+          "3",
+          "162",
+          "70",
+          "92",
+          "7"
+        ],
+        [
+          "LA PRIMAVERA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA TOMATINA",
+          "4",
+          "341",
+          "166",
+          "175",
+          "15"
+        ],
+        [
+          "LAS JAULAS",
+          "2",
+          "169",
+          "80",
+          "89",
+          "8"
+        ],
+        [
+          "LOS ARENALES",
+          "3",
+          "103",
+          "41",
+          "62",
+          "17"
+        ],
+        [
+          "LOS ARQUITOS",
+          "4",
+          "478",
+          "231",
+          "247",
+          "19"
+        ],
+        [
+          "LOS RAMÍREZ",
+          "2",
+          "187",
+          "87",
+          "100",
+          "8"
+        ],
+        [
+          "LOS VÁZQUEZ",
+          "4",
+          "466",
+          "239",
+          "227",
+          "17"
+        ],
+        [
+          "MARAVILLAS",
+          "5",
+          "1,118",
+          "591",
+          "527",
+          "59"
+        ],
+        [
+          "MILPILLAS DE ABAJO",
+          "1",
+          "16",
+          "5",
+          "11",
+          "1"
+        ],
+        [
+          "MIRAVALLE",
+          "3",
+          "298",
+          "134",
+          "164",
+          "11"
+        ],
+        [
+          "PASEOS DE LAS HACIENDAS [FRACCIONAMIENTO]",
+          "4",
+          "292",
+          "141",
+          "151",
+          "12"
+        ],
+        [
+          "PASO BLANCO",
+          "8",
+          "903",
+          "430",
+          "473",
+          "52"
+        ],
+        [
+          "PEDERNAL PRIMERO",
+          "3",
+          "170",
+          "79",
+          "91",
+          "7"
+        ],
+        [
+          "SAN ANTONIO DE LOS HORCONES",
+          "4",
+          "369",
+          "168",
+          "201",
+          "16"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1"
+        ],
+        [
+          "TANQUE LA VIZNAGA",
+          "1",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "TAPIAS VIEJAS",
+          "4",
+          "219",
+          "89",
+          "130",
+          "11"
+        ],
+        [
+          "TEPETATES",
+          "2",
+          "291",
+          "137",
+          "154",
+          "10"
+        ],
+        [
+          "VALLADOLID",
+          "4",
+          "580",
+          "276",
+          "304",
+          "27"
+        ],
+        [
+          "TOTAL",
+          "217",
+          "40,166",
+          "20,414",
+          "19,752",
+          "2,245"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:06.456Z"
+}

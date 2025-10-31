@@ -1,0 +1,406 @@
+{
+  "municipality": "SOLIDARIDAD",
+  "municipalityCode": "008",
+  "state": "QUINTANA ROO",
+  "stateCode": "23",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBACALAR\n\tBENITO JUÁREZ\n\tCOZUMEL\n\tFELIPE CARRILLO PUERTO\n\tISLA MUJERES\n\tJOSÉ MARÍA MORELOS\n\tLÁZARO CÁRDENAS\n\tOTHÓN P. BLANCO\n\tPUERTO MORELOS\n\tSOLIDARIDAD\n\tTULUM"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: SOLIDARIDAD\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tEL SAUCE\n\t\t3\n\t\t150\n\t\t71\n\t\t79\n\t\t7\n\t\n\t\n\t\tHIDALGO Y CORTEZ\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tLOS FAISANES\n\t\t3\n\t\t64\n\t\t33\n\t\t31\n\t\t3\n\t\n\t\n\t\tLOS PÁJAROS\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tNUEVO NOH-BEC\n\t\t3\n\t\t735\n\t\t368\n\t\t367\n\t\t27\n\t\n\t\n\t\tPARAÍSO\n\t\t2\n\t\t30\n\t\t7\n\t\t23\n\t\t2\n\t\n\t\n\t\tPLAYA DEL CARMEN\n\t\t289\n\t\t73,368\n\t\t37,171\n\t\t36,197\n\t\t4,259\n\t\n\t\n\t\tPUERTO AVENTURAS\n\t\t22\n\t\t5,116\n\t\t2,578\n\t\t2,538\n\t\t252\n\t\n\t\n\t\tPUNTA LAGUNA\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tSAN CARLOS\n\t\t2\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tSANTA CECILIA\n\t\t3\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tTORRES DE LA PAZ\n\t\t3\n\t\t82\n\t\t43\n\t\t39\n\t\t5\n\t\n\t\n\t\tVALLE ENCANTADO\n\t\t3\n\t\t33\n\t\t12\n\t\t21\n\t\t3\n\t\n\t\n\t\tVIDA Y ESPERANZA\n\t\t3\n\t\t58\n\t\t30\n\t\t28\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t343\n\t\t79,748\n\t\t40,371\n\t\t39,377\n\t\t4,574\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: SOLIDARIDAD",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "EL SAUCE",
+          "3",
+          "150",
+          "71",
+          "79",
+          "7",
+          "HIDALGO Y CORTEZ",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3",
+          "LOS FAISANES",
+          "3",
+          "64",
+          "33",
+          "31",
+          "3",
+          "LOS PÁJAROS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2",
+          "NUEVO NOH-BEC",
+          "3",
+          "735",
+          "368",
+          "367",
+          "27",
+          "PARAÍSO",
+          "2",
+          "30",
+          "7",
+          "23",
+          "2",
+          "PLAYA DEL CARMEN",
+          "289",
+          "73,368",
+          "37,171",
+          "36,197",
+          "4,259",
+          "PUERTO AVENTURAS",
+          "22",
+          "5,116",
+          "2,578",
+          "2,538",
+          "252",
+          "PUNTA LAGUNA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "SAN CARLOS",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2",
+          "SANTA CECILIA",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3",
+          "TORRES DE LA PAZ",
+          "3",
+          "82",
+          "43",
+          "39",
+          "5",
+          "VALLE ENCANTADO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3",
+          "VIDA Y ESPERANZA",
+          "3",
+          "58",
+          "30",
+          "28",
+          "3",
+          "TOTAL",
+          "343",
+          "79,748",
+          "40,371",
+          "39,377",
+          "4,574",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: SOLIDARIDAD"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL SAUCE",
+          "3",
+          "150",
+          "71",
+          "79",
+          "7"
+        ],
+        [
+          "HIDALGO Y CORTEZ",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LOS FAISANES",
+          "3",
+          "64",
+          "33",
+          "31",
+          "3"
+        ],
+        [
+          "LOS PÁJAROS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO NOH-BEC",
+          "3",
+          "735",
+          "368",
+          "367",
+          "27"
+        ],
+        [
+          "PARAÍSO",
+          "2",
+          "30",
+          "7",
+          "23",
+          "2"
+        ],
+        [
+          "PLAYA DEL CARMEN",
+          "289",
+          "73,368",
+          "37,171",
+          "36,197",
+          "4,259"
+        ],
+        [
+          "PUERTO AVENTURAS",
+          "22",
+          "5,116",
+          "2,578",
+          "2,538",
+          "252"
+        ],
+        [
+          "PUNTA LAGUNA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA CECILIA",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "TORRES DE LA PAZ",
+          "3",
+          "82",
+          "43",
+          "39",
+          "5"
+        ],
+        [
+          "VALLE ENCANTADO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "VIDA Y ESPERANZA",
+          "3",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "343",
+          "79,748",
+          "40,371",
+          "39,377",
+          "4,574"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: SOLIDARIDAD"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL SAUCE",
+          "3",
+          "150",
+          "71",
+          "79",
+          "7"
+        ],
+        [
+          "HIDALGO Y CORTEZ",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LOS FAISANES",
+          "3",
+          "64",
+          "33",
+          "31",
+          "3"
+        ],
+        [
+          "LOS PÁJAROS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO NOH-BEC",
+          "3",
+          "735",
+          "368",
+          "367",
+          "27"
+        ],
+        [
+          "PARAÍSO",
+          "2",
+          "30",
+          "7",
+          "23",
+          "2"
+        ],
+        [
+          "PLAYA DEL CARMEN",
+          "289",
+          "73,368",
+          "37,171",
+          "36,197",
+          "4,259"
+        ],
+        [
+          "PUERTO AVENTURAS",
+          "22",
+          "5,116",
+          "2,578",
+          "2,538",
+          "252"
+        ],
+        [
+          "PUNTA LAGUNA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA CECILIA",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "TORRES DE LA PAZ",
+          "3",
+          "82",
+          "43",
+          "39",
+          "5"
+        ],
+        [
+          "VALLE ENCANTADO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "VIDA Y ESPERANZA",
+          "3",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "343",
+          "79,748",
+          "40,371",
+          "39,377",
+          "4,574"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:28:06.824Z"
+}

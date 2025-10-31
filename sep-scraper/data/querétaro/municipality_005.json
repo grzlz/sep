@@ -1,0 +1,1110 @@
+{
+  "municipality": "COLÓN",
+  "municipalityCode": "005",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: COLÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHILITOS\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tAJUCHITLÁN\n\t\t6\n\t\t1,623\n\t\t820\n\t\t803\n\t\t67\n\t\n\t\n\t\tCOLÓN\n\t\t13\n\t\t1,551\n\t\t725\n\t\t826\n\t\t87\n\t\n\t\n\t\tEJIDO PATRIA\n\t\t3\n\t\t262\n\t\t148\n\t\t114\n\t\t11\n\t\n\t\n\t\tEL BLANCO\n\t\t4\n\t\t890\n\t\t441\n\t\t449\n\t\t31\n\t\n\t\n\t\tEL CARRIZAL\n\t\t2\n\t\t34\n\t\t14\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL COYOTE\n\t\t4\n\t\t275\n\t\t137\n\t\t138\n\t\t15\n\t\n\t\n\t\tEL FUENTEÑO\n\t\t3\n\t\t28\n\t\t18\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL GALLO\n\t\t3\n\t\t391\n\t\t190\n\t\t201\n\t\t16\n\t\n\t\n\t\tEL LINDERO\n\t\t4\n\t\t1,964\n\t\t1,056\n\t\t908\n\t\t68\n\t\n\t\n\t\tEL MEZOTE\n\t\t2\n\t\t65\n\t\t33\n\t\t32\n\t\t3\n\t\n\t\n\t\tEL POLEO\n\t\t2\n\t\t103\n\t\t46\n\t\t57\n\t\t4\n\t\n\t\n\t\tEL SAUCILLO\n\t\t3\n\t\t250\n\t\t120\n\t\t130\n\t\t11\n\t\n\t\n\t\tEL ZAMORANO\n\t\t4\n\t\t512\n\t\t266\n\t\t246\n\t\t22\n\t\n\t\n\t\tESPERANZA\n\t\t7\n\t\t2,219\n\t\t1,069\n\t\t1,150\n\t\t161\n\t\n\t\n\t\tGALERAS\n\t\t6\n\t\t3,011\n\t\t947\n\t\t2,064\n\t\t89\n\t\n\t\n\t\tLA CARBONERA\n\t\t4\n\t\t441\n\t\t215\n\t\t226\n\t\t18\n\t\n\t\n\t\tLA JOYA\n\t\t3\n\t\t9\n\t\t5\n\t\t4\n\t\t3\n\t\n\t\n\t\tLA PILA\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA ZORRA\n\t\t2\n\t\t79\n\t\t43\n\t\t36\n\t\t4\n\t\n\t\n\t\tLAS CENIZAS\n\t\t3\n\t\t275\n\t\t135\n\t\t140\n\t\t11\n\t\n\t\n\t\tLOS BENITOS\n\t\t2\n\t\t286\n\t\t149\n\t\t137\n\t\t9\n\t\n\t\n\t\tLOS QUIOTES (SAN JOSÉ LOS QUIOTES)\n\t\t2\n\t\t161\n\t\t68\n\t\t93\n\t\t7\n\t\n\t\n\t\tLOS TRIGOS\n\t\t3\n\t\t50\n\t\t19\n\t\t31\n\t\t5\n\t\n\t\n\t\tMÉXICO LINDO\n\t\t2\n\t\t191\n\t\t106\n\t\t85\n\t\t8\n\t\n\t\n\t\tNOGALES\n\t\t3\n\t\t276\n\t\t140\n\t\t136\n\t\t11\n\t\n\t\n\t\tNUEVO ÁLAMOS\n\t\t2\n\t\t53\n\t\t30\n\t\t23\n\t\t3\n\t\n\t\n\t\tPALMAS\n\t\t2\n\t\t162\n\t\t82\n\t\t80\n\t\t8\n\t\n\t\n\t\tPEÑA COLORADA\n\t\t4\n\t\t346\n\t\t178\n\t\t168\n\t\t13\n\t\n\t\n\t\tPUERTA DE ENMEDIO\n\t\t3\n\t\t213\n\t\t106\n\t\t107\n\t\t11\n\t\n\t\n\t\tPUERTO DE SAN ANTONIO\n\t\t2\n\t\t4\n\t\t1\n\t\t3\n\t\t2\n\t\n\t\n\t\tPURÍSIMA DE CUBOS (LA PURÍSIMA)\n\t\t2\n\t\t332\n\t\t160\n\t\t172\n\t\t12\n\t\n\t\n\t\tSALITRERA (PRESA DE LA SOLEDAD)\n\t\t2\n\t\t63\n\t\t28\n\t\t35\n\t\t4\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t2\n\t\t156\n\t\t73\n\t\t83\n\t\t7\n\t\n\t\n\t\tSAN ILDEFONSO\n\t\t4\n\t\t667\n\t\t326\n\t\t341\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ LA PEÑUELA (LA PEÑUELA)\n\t\t4\n\t\t661\n\t\t330\n\t\t331\n\t\t22\n\t\n\t\n\t\tSAN MARTÍN\n\t\t3\n\t\t380\n\t\t199\n\t\t181\n\t\t13\n\t\n\t\n\t\tSAN VICENTE EL ALTO (SAN VICENTE)\n\t\t2\n\t\t261\n\t\t143\n\t\t118\n\t\t9\n\t\n\t\n\t\tSANTA MARÍA DE GUADALUPE\n\t\t2\n\t\t84\n\t\t40\n\t\t44\n\t\t15\n\t\n\t\n\t\tSANTA ROSA DE LIMA (SANTA ROSA POBLADO)\n\t\t3\n\t\t580\n\t\t315\n\t\t265\n\t\t19\n\t\n\t\n\t\tSANTA ROSA FINCA\n\t\t2\n\t\t282\n\t\t134\n\t\t148\n\t\t9\n\t\n\t\n\t\tTIERRA ADENTRO\n\t\t2\n\t\t3\n\t\t1\n\t\t2\n\t\t2\n\t\n\t\n\t\tTIERRA DURA\n\t\t2\n\t\t70\n\t\t37\n\t\t33\n\t\t4\n\t\n\t\n\t\tURECHO\n\t\t4\n\t\t560\n\t\t280\n\t\t280\n\t\t22\n\t\n\t\n\t\tVIBORILLAS\n\t\t2\n\t\t235\n\t\t115\n\t\t120\n\t\t8\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t3\n\t\t238\n\t\t117\n\t\t121\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t145\n\t\t20,328\n\t\t9,623\n\t\t10,705\n\t\t887\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: COLÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHILITOS",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "AJUCHITLÁN",
+          "6",
+          "1,623",
+          "820",
+          "803",
+          "67",
+          "COLÓN",
+          "13",
+          "1,551",
+          "725",
+          "826",
+          "87",
+          "EJIDO PATRIA",
+          "3",
+          "262",
+          "148",
+          "114",
+          "11",
+          "EL BLANCO",
+          "4",
+          "890",
+          "441",
+          "449",
+          "31",
+          "EL CARRIZAL",
+          "2",
+          "34",
+          "14",
+          "20",
+          "2",
+          "EL COYOTE",
+          "4",
+          "275",
+          "137",
+          "138",
+          "15",
+          "EL FUENTEÑO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3",
+          "EL GALLO",
+          "3",
+          "391",
+          "190",
+          "201",
+          "16",
+          "EL LINDERO",
+          "4",
+          "1,964",
+          "1,056",
+          "908",
+          "68",
+          "EL MEZOTE",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3",
+          "EL POLEO",
+          "2",
+          "103",
+          "46",
+          "57",
+          "4",
+          "EL SAUCILLO",
+          "3",
+          "250",
+          "120",
+          "130",
+          "11",
+          "EL ZAMORANO",
+          "4",
+          "512",
+          "266",
+          "246",
+          "22",
+          "ESPERANZA",
+          "7",
+          "2,219",
+          "1,069",
+          "1,150",
+          "161",
+          "GALERAS",
+          "6",
+          "3,011",
+          "947",
+          "2,064",
+          "89",
+          "LA CARBONERA",
+          "4",
+          "441",
+          "215",
+          "226",
+          "18",
+          "LA JOYA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3",
+          "LA PILA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "LA ZORRA",
+          "2",
+          "79",
+          "43",
+          "36",
+          "4",
+          "LAS CENIZAS",
+          "3",
+          "275",
+          "135",
+          "140",
+          "11",
+          "LOS BENITOS",
+          "2",
+          "286",
+          "149",
+          "137",
+          "9",
+          "LOS QUIOTES (SAN JOSÉ LOS QUIOTES)",
+          "2",
+          "161",
+          "68",
+          "93",
+          "7",
+          "LOS TRIGOS",
+          "3",
+          "50",
+          "19",
+          "31",
+          "5",
+          "MÉXICO LINDO",
+          "2",
+          "191",
+          "106",
+          "85",
+          "8",
+          "NOGALES",
+          "3",
+          "276",
+          "140",
+          "136",
+          "11",
+          "NUEVO ÁLAMOS",
+          "2",
+          "53",
+          "30",
+          "23",
+          "3",
+          "PALMAS",
+          "2",
+          "162",
+          "82",
+          "80",
+          "8",
+          "PEÑA COLORADA",
+          "4",
+          "346",
+          "178",
+          "168",
+          "13",
+          "PUERTA DE ENMEDIO",
+          "3",
+          "213",
+          "106",
+          "107",
+          "11",
+          "PUERTO DE SAN ANTONIO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2",
+          "PURÍSIMA DE CUBOS (LA PURÍSIMA)",
+          "2",
+          "332",
+          "160",
+          "172",
+          "12",
+          "SALITRERA (PRESA DE LA SOLEDAD)",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4",
+          "SAN FRANCISCO",
+          "2",
+          "156",
+          "73",
+          "83",
+          "7",
+          "SAN ILDEFONSO",
+          "4",
+          "667",
+          "326",
+          "341",
+          "24",
+          "SAN JOSÉ LA PEÑUELA (LA PEÑUELA)",
+          "4",
+          "661",
+          "330",
+          "331",
+          "22",
+          "SAN MARTÍN",
+          "3",
+          "380",
+          "199",
+          "181",
+          "13",
+          "SAN VICENTE EL ALTO (SAN VICENTE)",
+          "2",
+          "261",
+          "143",
+          "118",
+          "9",
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "84",
+          "40",
+          "44",
+          "15",
+          "SANTA ROSA DE LIMA (SANTA ROSA POBLADO)",
+          "3",
+          "580",
+          "315",
+          "265",
+          "19",
+          "SANTA ROSA FINCA",
+          "2",
+          "282",
+          "134",
+          "148",
+          "9",
+          "TIERRA ADENTRO",
+          "2",
+          "3",
+          "1",
+          "2",
+          "2",
+          "TIERRA DURA",
+          "2",
+          "70",
+          "37",
+          "33",
+          "4",
+          "URECHO",
+          "4",
+          "560",
+          "280",
+          "280",
+          "22",
+          "VIBORILLAS",
+          "2",
+          "235",
+          "115",
+          "120",
+          "8",
+          "VISTA HERMOSA",
+          "3",
+          "238",
+          "117",
+          "121",
+          "11",
+          "TOTAL",
+          "145",
+          "20,328",
+          "9,623",
+          "10,705",
+          "887",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: COLÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHILITOS",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "AJUCHITLÁN",
+          "6",
+          "1,623",
+          "820",
+          "803",
+          "67"
+        ],
+        [
+          "COLÓN",
+          "13",
+          "1,551",
+          "725",
+          "826",
+          "87"
+        ],
+        [
+          "EJIDO PATRIA",
+          "3",
+          "262",
+          "148",
+          "114",
+          "11"
+        ],
+        [
+          "EL BLANCO",
+          "4",
+          "890",
+          "441",
+          "449",
+          "31"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "34",
+          "14",
+          "20",
+          "2"
+        ],
+        [
+          "EL COYOTE",
+          "4",
+          "275",
+          "137",
+          "138",
+          "15"
+        ],
+        [
+          "EL FUENTEÑO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "EL GALLO",
+          "3",
+          "391",
+          "190",
+          "201",
+          "16"
+        ],
+        [
+          "EL LINDERO",
+          "4",
+          "1,964",
+          "1,056",
+          "908",
+          "68"
+        ],
+        [
+          "EL MEZOTE",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3"
+        ],
+        [
+          "EL POLEO",
+          "2",
+          "103",
+          "46",
+          "57",
+          "4"
+        ],
+        [
+          "EL SAUCILLO",
+          "3",
+          "250",
+          "120",
+          "130",
+          "11"
+        ],
+        [
+          "EL ZAMORANO",
+          "4",
+          "512",
+          "266",
+          "246",
+          "22"
+        ],
+        [
+          "ESPERANZA",
+          "7",
+          "2,219",
+          "1,069",
+          "1,150",
+          "161"
+        ],
+        [
+          "GALERAS",
+          "6",
+          "3,011",
+          "947",
+          "2,064",
+          "89"
+        ],
+        [
+          "LA CARBONERA",
+          "4",
+          "441",
+          "215",
+          "226",
+          "18"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3"
+        ],
+        [
+          "LA PILA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LA ZORRA",
+          "2",
+          "79",
+          "43",
+          "36",
+          "4"
+        ],
+        [
+          "LAS CENIZAS",
+          "3",
+          "275",
+          "135",
+          "140",
+          "11"
+        ],
+        [
+          "LOS BENITOS",
+          "2",
+          "286",
+          "149",
+          "137",
+          "9"
+        ],
+        [
+          "LOS QUIOTES (SAN JOSÉ LOS QUIOTES)",
+          "2",
+          "161",
+          "68",
+          "93",
+          "7"
+        ],
+        [
+          "LOS TRIGOS",
+          "3",
+          "50",
+          "19",
+          "31",
+          "5"
+        ],
+        [
+          "MÉXICO LINDO",
+          "2",
+          "191",
+          "106",
+          "85",
+          "8"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "276",
+          "140",
+          "136",
+          "11"
+        ],
+        [
+          "NUEVO ÁLAMOS",
+          "2",
+          "53",
+          "30",
+          "23",
+          "3"
+        ],
+        [
+          "PALMAS",
+          "2",
+          "162",
+          "82",
+          "80",
+          "8"
+        ],
+        [
+          "PEÑA COLORADA",
+          "4",
+          "346",
+          "178",
+          "168",
+          "13"
+        ],
+        [
+          "PUERTA DE ENMEDIO",
+          "3",
+          "213",
+          "106",
+          "107",
+          "11"
+        ],
+        [
+          "PUERTO DE SAN ANTONIO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "PURÍSIMA DE CUBOS (LA PURÍSIMA)",
+          "2",
+          "332",
+          "160",
+          "172",
+          "12"
+        ],
+        [
+          "SALITRERA (PRESA DE LA SOLEDAD)",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "156",
+          "73",
+          "83",
+          "7"
+        ],
+        [
+          "SAN ILDEFONSO",
+          "4",
+          "667",
+          "326",
+          "341",
+          "24"
+        ],
+        [
+          "SAN JOSÉ LA PEÑUELA (LA PEÑUELA)",
+          "4",
+          "661",
+          "330",
+          "331",
+          "22"
+        ],
+        [
+          "SAN MARTÍN",
+          "3",
+          "380",
+          "199",
+          "181",
+          "13"
+        ],
+        [
+          "SAN VICENTE EL ALTO (SAN VICENTE)",
+          "2",
+          "261",
+          "143",
+          "118",
+          "9"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "84",
+          "40",
+          "44",
+          "15"
+        ],
+        [
+          "SANTA ROSA DE LIMA (SANTA ROSA POBLADO)",
+          "3",
+          "580",
+          "315",
+          "265",
+          "19"
+        ],
+        [
+          "SANTA ROSA FINCA",
+          "2",
+          "282",
+          "134",
+          "148",
+          "9"
+        ],
+        [
+          "TIERRA ADENTRO",
+          "2",
+          "3",
+          "1",
+          "2",
+          "2"
+        ],
+        [
+          "TIERRA DURA",
+          "2",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "URECHO",
+          "4",
+          "560",
+          "280",
+          "280",
+          "22"
+        ],
+        [
+          "VIBORILLAS",
+          "2",
+          "235",
+          "115",
+          "120",
+          "8"
+        ],
+        [
+          "VISTA HERMOSA",
+          "3",
+          "238",
+          "117",
+          "121",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "145",
+          "20,328",
+          "9,623",
+          "10,705",
+          "887"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: COLÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHILITOS",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "AJUCHITLÁN",
+          "6",
+          "1,623",
+          "820",
+          "803",
+          "67"
+        ],
+        [
+          "COLÓN",
+          "13",
+          "1,551",
+          "725",
+          "826",
+          "87"
+        ],
+        [
+          "EJIDO PATRIA",
+          "3",
+          "262",
+          "148",
+          "114",
+          "11"
+        ],
+        [
+          "EL BLANCO",
+          "4",
+          "890",
+          "441",
+          "449",
+          "31"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "34",
+          "14",
+          "20",
+          "2"
+        ],
+        [
+          "EL COYOTE",
+          "4",
+          "275",
+          "137",
+          "138",
+          "15"
+        ],
+        [
+          "EL FUENTEÑO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "EL GALLO",
+          "3",
+          "391",
+          "190",
+          "201",
+          "16"
+        ],
+        [
+          "EL LINDERO",
+          "4",
+          "1,964",
+          "1,056",
+          "908",
+          "68"
+        ],
+        [
+          "EL MEZOTE",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3"
+        ],
+        [
+          "EL POLEO",
+          "2",
+          "103",
+          "46",
+          "57",
+          "4"
+        ],
+        [
+          "EL SAUCILLO",
+          "3",
+          "250",
+          "120",
+          "130",
+          "11"
+        ],
+        [
+          "EL ZAMORANO",
+          "4",
+          "512",
+          "266",
+          "246",
+          "22"
+        ],
+        [
+          "ESPERANZA",
+          "7",
+          "2,219",
+          "1,069",
+          "1,150",
+          "161"
+        ],
+        [
+          "GALERAS",
+          "6",
+          "3,011",
+          "947",
+          "2,064",
+          "89"
+        ],
+        [
+          "LA CARBONERA",
+          "4",
+          "441",
+          "215",
+          "226",
+          "18"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3"
+        ],
+        [
+          "LA PILA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LA ZORRA",
+          "2",
+          "79",
+          "43",
+          "36",
+          "4"
+        ],
+        [
+          "LAS CENIZAS",
+          "3",
+          "275",
+          "135",
+          "140",
+          "11"
+        ],
+        [
+          "LOS BENITOS",
+          "2",
+          "286",
+          "149",
+          "137",
+          "9"
+        ],
+        [
+          "LOS QUIOTES (SAN JOSÉ LOS QUIOTES)",
+          "2",
+          "161",
+          "68",
+          "93",
+          "7"
+        ],
+        [
+          "LOS TRIGOS",
+          "3",
+          "50",
+          "19",
+          "31",
+          "5"
+        ],
+        [
+          "MÉXICO LINDO",
+          "2",
+          "191",
+          "106",
+          "85",
+          "8"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "276",
+          "140",
+          "136",
+          "11"
+        ],
+        [
+          "NUEVO ÁLAMOS",
+          "2",
+          "53",
+          "30",
+          "23",
+          "3"
+        ],
+        [
+          "PALMAS",
+          "2",
+          "162",
+          "82",
+          "80",
+          "8"
+        ],
+        [
+          "PEÑA COLORADA",
+          "4",
+          "346",
+          "178",
+          "168",
+          "13"
+        ],
+        [
+          "PUERTA DE ENMEDIO",
+          "3",
+          "213",
+          "106",
+          "107",
+          "11"
+        ],
+        [
+          "PUERTO DE SAN ANTONIO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "PURÍSIMA DE CUBOS (LA PURÍSIMA)",
+          "2",
+          "332",
+          "160",
+          "172",
+          "12"
+        ],
+        [
+          "SALITRERA (PRESA DE LA SOLEDAD)",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "156",
+          "73",
+          "83",
+          "7"
+        ],
+        [
+          "SAN ILDEFONSO",
+          "4",
+          "667",
+          "326",
+          "341",
+          "24"
+        ],
+        [
+          "SAN JOSÉ LA PEÑUELA (LA PEÑUELA)",
+          "4",
+          "661",
+          "330",
+          "331",
+          "22"
+        ],
+        [
+          "SAN MARTÍN",
+          "3",
+          "380",
+          "199",
+          "181",
+          "13"
+        ],
+        [
+          "SAN VICENTE EL ALTO (SAN VICENTE)",
+          "2",
+          "261",
+          "143",
+          "118",
+          "9"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "84",
+          "40",
+          "44",
+          "15"
+        ],
+        [
+          "SANTA ROSA DE LIMA (SANTA ROSA POBLADO)",
+          "3",
+          "580",
+          "315",
+          "265",
+          "19"
+        ],
+        [
+          "SANTA ROSA FINCA",
+          "2",
+          "282",
+          "134",
+          "148",
+          "9"
+        ],
+        [
+          "TIERRA ADENTRO",
+          "2",
+          "3",
+          "1",
+          "2",
+          "2"
+        ],
+        [
+          "TIERRA DURA",
+          "2",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "URECHO",
+          "4",
+          "560",
+          "280",
+          "280",
+          "22"
+        ],
+        [
+          "VIBORILLAS",
+          "2",
+          "235",
+          "115",
+          "120",
+          "8"
+        ],
+        [
+          "VISTA HERMOSA",
+          "3",
+          "238",
+          "117",
+          "121",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "145",
+          "20,328",
+          "9,623",
+          "10,705",
+          "887"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:30.545Z"
+}

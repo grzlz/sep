@@ -1,0 +1,714 @@
+{
+  "municipality": "IXTAPAN DE LA SAL",
+  "municipalityCode": "040",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: IXTAPAN DE LA SAL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUACATITLÁN\n\t\t8\n\t\t459\n\t\t245\n\t\t214\n\t\t73\n\t\n\t\n\t\tCOAXUSCO\n\t\t2\n\t\t75\n\t\t37\n\t\t38\n\t\t4\n\t\n\t\n\t\tCOLONIA 3 DE MAYO\n\t\t2\n\t\t118\n\t\t60\n\t\t58\n\t\t8\n\t\n\t\n\t\tEL ABROJO\n\t\t2\n\t\t89\n\t\t37\n\t\t52\n\t\t4\n\t\n\t\n\t\tEL ARENAL DE LAS OLLAS\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t71\n\t\t30\n\t\t41\n\t\t4\n\t\n\t\n\t\tEL RINCÓN DE DIOS YERBAS BUENAS\n\t\t1\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL SALITRE\n\t\t5\n\t\t1,247\n\t\t677\n\t\t570\n\t\t103\n\t\n\t\n\t\tIXTAPAN DE LA SAL\n\t\t43\n\t\t5,565\n\t\t2,950\n\t\t2,615\n\t\t456\n\t\n\t\n\t\tLLANO DE LA UNIÓN\n\t\t3\n\t\t130\n\t\t67\n\t\t63\n\t\t11\n\t\n\t\n\t\tLLANO DE SAN DIEGO\n\t\t1\n\t\t17\n\t\t8\n\t\t9\n\t\t1\n\t\n\t\n\t\tLOS NARANJOS\n\t\t2\n\t\t46\n\t\t21\n\t\t25\n\t\t4\n\t\n\t\n\t\tMALINALTENANGO\n\t\t5\n\t\t186\n\t\t96\n\t\t90\n\t\t14\n\t\n\t\n\t\tMESÓN NUEVO\n\t\t3\n\t\t291\n\t\t145\n\t\t146\n\t\t14\n\t\n\t\n\t\tPLAN DE SAN MIGUEL\n\t\t2\n\t\t66\n\t\t28\n\t\t38\n\t\t4\n\t\n\t\n\t\tPORTEZUELOS\n\t\t3\n\t\t20\n\t\t12\n\t\t8\n\t\t3\n\t\n\t\n\t\tPUERTA GRANDE\n\t\t2\n\t\t62\n\t\t26\n\t\t36\n\t\t4\n\t\n\t\n\t\tSAN ALEJO\n\t\t3\n\t\t580\n\t\t290\n\t\t290\n\t\t26\n\t\n\t\n\t\tSAN DIEGO ALCALÁ\n\t\t2\n\t\t39\n\t\t16\n\t\t23\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DEL ARENAL\n\t\t6\n\t\t204\n\t\t96\n\t\t108\n\t\t14\n\t\n\t\n\t\tSAN MIGUEL LADERAS\n\t\t4\n\t\t248\n\t\t143\n\t\t105\n\t\t12\n\t\n\t\n\t\tSAN PABLO\n\t\t3\n\t\t21\n\t\t13\n\t\t8\n\t\t3\n\t\n\t\n\t\tSAN PEDRO TLACOCHACA\n\t\t2\n\t\t14\n\t\t11\n\t\t3\n\t\t3\n\t\n\t\n\t\tSANTA ANA XOCHUCA\n\t\t2\n\t\t63\n\t\t25\n\t\t38\n\t\t3\n\t\n\t\n\t\tTECOMATEPEC\n\t\t3\n\t\t387\n\t\t189\n\t\t198\n\t\t26\n\t\n\t\n\t\tTLACOCHACA\n\t\t3\n\t\t68\n\t\t31\n\t\t37\n\t\t5\n\t\n\t\n\t\tYAUTEPEC\n\t\t3\n\t\t55\n\t\t28\n\t\t27\n\t\t5\n\t\n\t\n\t\tYERBAS BUENAS\n\t\t4\n\t\t140\n\t\t69\n\t\t71\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t123\n\t\t10,314\n\t\t5,377\n\t\t4,937\n\t\t825\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: IXTAPAN DE LA SAL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUACATITLÁN",
+          "8",
+          "459",
+          "245",
+          "214",
+          "73",
+          "COAXUSCO",
+          "2",
+          "75",
+          "37",
+          "38",
+          "4",
+          "COLONIA 3 DE MAYO",
+          "2",
+          "118",
+          "60",
+          "58",
+          "8",
+          "EL ABROJO",
+          "2",
+          "89",
+          "37",
+          "52",
+          "4",
+          "EL ARENAL DE LAS OLLAS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3",
+          "EL REFUGIO",
+          "2",
+          "71",
+          "30",
+          "41",
+          "4",
+          "EL RINCÓN DE DIOS YERBAS BUENAS",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2",
+          "EL SALITRE",
+          "5",
+          "1,247",
+          "677",
+          "570",
+          "103",
+          "IXTAPAN DE LA SAL",
+          "43",
+          "5,565",
+          "2,950",
+          "2,615",
+          "456",
+          "LLANO DE LA UNIÓN",
+          "3",
+          "130",
+          "67",
+          "63",
+          "11",
+          "LLANO DE SAN DIEGO",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1",
+          "LOS NARANJOS",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4",
+          "MALINALTENANGO",
+          "5",
+          "186",
+          "96",
+          "90",
+          "14",
+          "MESÓN NUEVO",
+          "3",
+          "291",
+          "145",
+          "146",
+          "14",
+          "PLAN DE SAN MIGUEL",
+          "2",
+          "66",
+          "28",
+          "38",
+          "4",
+          "PORTEZUELOS",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3",
+          "PUERTA GRANDE",
+          "2",
+          "62",
+          "26",
+          "36",
+          "4",
+          "SAN ALEJO",
+          "3",
+          "580",
+          "290",
+          "290",
+          "26",
+          "SAN DIEGO ALCALÁ",
+          "2",
+          "39",
+          "16",
+          "23",
+          "5",
+          "SAN JOSÉ DEL ARENAL",
+          "6",
+          "204",
+          "96",
+          "108",
+          "14",
+          "SAN MIGUEL LADERAS",
+          "4",
+          "248",
+          "143",
+          "105",
+          "12",
+          "SAN PABLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "3",
+          "SAN PEDRO TLACOCHACA",
+          "2",
+          "14",
+          "11",
+          "3",
+          "3",
+          "SANTA ANA XOCHUCA",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3",
+          "TECOMATEPEC",
+          "3",
+          "387",
+          "189",
+          "198",
+          "26",
+          "TLACOCHACA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5",
+          "YAUTEPEC",
+          "3",
+          "55",
+          "28",
+          "27",
+          "5",
+          "YERBAS BUENAS",
+          "4",
+          "140",
+          "69",
+          "71",
+          "11",
+          "TOTAL",
+          "123",
+          "10,314",
+          "5,377",
+          "4,937",
+          "825",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: IXTAPAN DE LA SAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUACATITLÁN",
+          "8",
+          "459",
+          "245",
+          "214",
+          "73"
+        ],
+        [
+          "COAXUSCO",
+          "2",
+          "75",
+          "37",
+          "38",
+          "4"
+        ],
+        [
+          "COLONIA 3 DE MAYO",
+          "2",
+          "118",
+          "60",
+          "58",
+          "8"
+        ],
+        [
+          "EL ABROJO",
+          "2",
+          "89",
+          "37",
+          "52",
+          "4"
+        ],
+        [
+          "EL ARENAL DE LAS OLLAS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "EL RINCÓN DE DIOS YERBAS BUENAS",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL SALITRE",
+          "5",
+          "1,247",
+          "677",
+          "570",
+          "103"
+        ],
+        [
+          "IXTAPAN DE LA SAL",
+          "43",
+          "5,565",
+          "2,950",
+          "2,615",
+          "456"
+        ],
+        [
+          "LLANO DE LA UNIÓN",
+          "3",
+          "130",
+          "67",
+          "63",
+          "11"
+        ],
+        [
+          "LLANO DE SAN DIEGO",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4"
+        ],
+        [
+          "MALINALTENANGO",
+          "5",
+          "186",
+          "96",
+          "90",
+          "14"
+        ],
+        [
+          "MESÓN NUEVO",
+          "3",
+          "291",
+          "145",
+          "146",
+          "14"
+        ],
+        [
+          "PLAN DE SAN MIGUEL",
+          "2",
+          "66",
+          "28",
+          "38",
+          "4"
+        ],
+        [
+          "PORTEZUELOS",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3"
+        ],
+        [
+          "PUERTA GRANDE",
+          "2",
+          "62",
+          "26",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ALEJO",
+          "3",
+          "580",
+          "290",
+          "290",
+          "26"
+        ],
+        [
+          "SAN DIEGO ALCALÁ",
+          "2",
+          "39",
+          "16",
+          "23",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL ARENAL",
+          "6",
+          "204",
+          "96",
+          "108",
+          "14"
+        ],
+        [
+          "SAN MIGUEL LADERAS",
+          "4",
+          "248",
+          "143",
+          "105",
+          "12"
+        ],
+        [
+          "SAN PABLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "3"
+        ],
+        [
+          "SAN PEDRO TLACOCHACA",
+          "2",
+          "14",
+          "11",
+          "3",
+          "3"
+        ],
+        [
+          "SANTA ANA XOCHUCA",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3"
+        ],
+        [
+          "TECOMATEPEC",
+          "3",
+          "387",
+          "189",
+          "198",
+          "26"
+        ],
+        [
+          "TLACOCHACA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "YAUTEPEC",
+          "3",
+          "55",
+          "28",
+          "27",
+          "5"
+        ],
+        [
+          "YERBAS BUENAS",
+          "4",
+          "140",
+          "69",
+          "71",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "10,314",
+          "5,377",
+          "4,937",
+          "825"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: IXTAPAN DE LA SAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUACATITLÁN",
+          "8",
+          "459",
+          "245",
+          "214",
+          "73"
+        ],
+        [
+          "COAXUSCO",
+          "2",
+          "75",
+          "37",
+          "38",
+          "4"
+        ],
+        [
+          "COLONIA 3 DE MAYO",
+          "2",
+          "118",
+          "60",
+          "58",
+          "8"
+        ],
+        [
+          "EL ABROJO",
+          "2",
+          "89",
+          "37",
+          "52",
+          "4"
+        ],
+        [
+          "EL ARENAL DE LAS OLLAS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "EL RINCÓN DE DIOS YERBAS BUENAS",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL SALITRE",
+          "5",
+          "1,247",
+          "677",
+          "570",
+          "103"
+        ],
+        [
+          "IXTAPAN DE LA SAL",
+          "43",
+          "5,565",
+          "2,950",
+          "2,615",
+          "456"
+        ],
+        [
+          "LLANO DE LA UNIÓN",
+          "3",
+          "130",
+          "67",
+          "63",
+          "11"
+        ],
+        [
+          "LLANO DE SAN DIEGO",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "46",
+          "21",
+          "25",
+          "4"
+        ],
+        [
+          "MALINALTENANGO",
+          "5",
+          "186",
+          "96",
+          "90",
+          "14"
+        ],
+        [
+          "MESÓN NUEVO",
+          "3",
+          "291",
+          "145",
+          "146",
+          "14"
+        ],
+        [
+          "PLAN DE SAN MIGUEL",
+          "2",
+          "66",
+          "28",
+          "38",
+          "4"
+        ],
+        [
+          "PORTEZUELOS",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3"
+        ],
+        [
+          "PUERTA GRANDE",
+          "2",
+          "62",
+          "26",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ALEJO",
+          "3",
+          "580",
+          "290",
+          "290",
+          "26"
+        ],
+        [
+          "SAN DIEGO ALCALÁ",
+          "2",
+          "39",
+          "16",
+          "23",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL ARENAL",
+          "6",
+          "204",
+          "96",
+          "108",
+          "14"
+        ],
+        [
+          "SAN MIGUEL LADERAS",
+          "4",
+          "248",
+          "143",
+          "105",
+          "12"
+        ],
+        [
+          "SAN PABLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "3"
+        ],
+        [
+          "SAN PEDRO TLACOCHACA",
+          "2",
+          "14",
+          "11",
+          "3",
+          "3"
+        ],
+        [
+          "SANTA ANA XOCHUCA",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3"
+        ],
+        [
+          "TECOMATEPEC",
+          "3",
+          "387",
+          "189",
+          "198",
+          "26"
+        ],
+        [
+          "TLACOCHACA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "YAUTEPEC",
+          "3",
+          "55",
+          "28",
+          "27",
+          "5"
+        ],
+        [
+          "YERBAS BUENAS",
+          "4",
+          "140",
+          "69",
+          "71",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "10,314",
+          "5,377",
+          "4,937",
+          "825"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:17:30.301Z"
+}

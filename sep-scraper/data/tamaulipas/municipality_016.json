@@ -1,0 +1,1044 @@
+{
+  "municipality": "HIDALGO",
+  "municipalityCode": "016",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: HIDALGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARBOSA\n\t\t2\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ (MONFORT)\n\t\t4\n\t\t145\n\t\t81\n\t\t64\n\t\t10\n\t\n\t\n\t\tBUENOS AIRES\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t3\n\t\n\t\n\t\tCOLONIA MILITAR AGRÍCOLA Y GANADERA (EL BURRO PINTO)\n\t\t2\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tCRUZ Y CARMEN\n\t\t2\n\t\t43\n\t\t19\n\t\t24\n\t\t4\n\t\n\t\n\t\tCRUZ Y CRUZ\n\t\t3\n\t\t129\n\t\t62\n\t\t67\n\t\t10\n\t\n\t\n\t\tEL CHORRO (EL CHORRITO)\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL DESENGAÑO (LA PEÑITA)\n\t\t1\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL PENSAMIENTO LIBRE\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL SAUZ\n\t\t3\n\t\t45\n\t\t17\n\t\t28\n\t\t5\n\t\n\t\n\t\tESTACIÓN CARRIZOS\n\t\t3\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tESTACIÓN LA CRUZ\n\t\t3\n\t\t32\n\t\t11\n\t\t21\n\t\t3\n\t\n\t\n\t\tESTACIÓN SANTA ENGRACIA\n\t\t12\n\t\t1,608\n\t\t825\n\t\t783\n\t\t94\n\t\n\t\n\t\tEX-HACIENDA DE LA MESA\n\t\t2\n\t\t5\n\t\t5\n\t\t0\n\t\t1\n\t\n\t\n\t\tGENERAL JULIÁN CERDA\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t2\n\t\t14\n\t\t4\n\t\t10\n\t\t2\n\t\n\t\n\t\tHIDALGO\n\t\t7\n\t\t994\n\t\t510\n\t\t484\n\t\t67\n\t\n\t\n\t\tIGNACIO ALLENDE (ESTACIÓN ADELAIDA)\n\t\t2\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tINDEPENDENCIA\n\t\t3\n\t\t66\n\t\t33\n\t\t33\n\t\t6\n\t\n\t\n\t\tLA AURORA\n\t\t2\n\t\t77\n\t\t37\n\t\t40\n\t\t7\n\t\n\t\n\t\tLA CRUCITA (LA PIRAGUA)\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PASTA\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tLAS MARGARITAS\n\t\t1\n\t\t38\n\t\t15\n\t\t23\n\t\t2\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t4\n\t\t60\n\t\t31\n\t\t29\n\t\t11\n\t\n\t\n\t\tMARIANO ESCOBEDO\n\t\t2\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tMARROQUÍN\n\t\t1\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tNARCISO MENDOZA\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tOYAMA\n\t\t4\n\t\t175\n\t\t71\n\t\t104\n\t\t15\n\t\n\t\n\t\tPALO ALTO\n\t\t2\n\t\t17\n\t\t6\n\t\t11\n\t\t2\n\t\n\t\n\t\tPURIFICACIÓN (PEÑUELAS)\n\t\t2\n\t\t22\n\t\t13\n\t\t9\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t9\n\t\t1\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t67\n\t\t29\n\t\t38\n\t\t7\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t40\n\t\t19\n\t\t21\n\t\t6\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JUAN DEL SALTO\n\t\t1\n\t\t14\n\t\t2\n\t\t12\n\t\t1\n\t\n\t\n\t\tSAN JUANA\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN PEDRO\n\t\t3\n\t\t23\n\t\t9\n\t\t14\n\t\t3\n\t\n\t\n\t\tSANTA CLEOTILDE\n\t\t1\n\t\t12\n\t\t10\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tSANTA FE\n\t\t2\n\t\t20\n\t\t5\n\t\t15\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t109\n\t\t3,899\n\t\t1,925\n\t\t1,974\n\t\t302\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: HIDALGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARBOSA",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3",
+          "BENITO JUÁREZ (MONFORT)",
+          "4",
+          "145",
+          "81",
+          "64",
+          "10",
+          "BUENOS AIRES",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "CINCO DE MAYO",
+          "2",
+          "10",
+          "3",
+          "7",
+          "3",
+          "COLONIA MILITAR AGRÍCOLA Y GANADERA (EL BURRO PINTO)",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1",
+          "CRUZ Y CARMEN",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4",
+          "CRUZ Y CRUZ",
+          "3",
+          "129",
+          "62",
+          "67",
+          "10",
+          "EL CHORRO (EL CHORRITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "EL DESENGAÑO (LA PEÑITA)",
+          "1",
+          "16",
+          "5",
+          "11",
+          "2",
+          "EL PENSAMIENTO LIBRE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2",
+          "EL SAUZ",
+          "3",
+          "45",
+          "17",
+          "28",
+          "5",
+          "ESTACIÓN CARRIZOS",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3",
+          "ESTACIÓN LA CRUZ",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3",
+          "ESTACIÓN SANTA ENGRACIA",
+          "12",
+          "1,608",
+          "825",
+          "783",
+          "94",
+          "EX-HACIENDA DE LA MESA",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1",
+          "GENERAL JULIÁN CERDA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "GUADALUPE VICTORIA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2",
+          "HIDALGO",
+          "7",
+          "994",
+          "510",
+          "484",
+          "67",
+          "IGNACIO ALLENDE (ESTACIÓN ADELAIDA)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "INDEPENDENCIA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6",
+          "LA AURORA",
+          "2",
+          "77",
+          "37",
+          "40",
+          "7",
+          "LA CRUCITA (LA PIRAGUA)",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "LA ESPERANZA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "LA PASTA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LA TRINIDAD",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "LAS MARGARITAS",
+          "1",
+          "38",
+          "15",
+          "23",
+          "2",
+          "LOS ÁNGELES",
+          "4",
+          "60",
+          "31",
+          "29",
+          "11",
+          "MARIANO ESCOBEDO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1",
+          "MARROQUÍN",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2",
+          "NARCISO MENDOZA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "OYAMA",
+          "4",
+          "175",
+          "71",
+          "104",
+          "15",
+          "PALO ALTO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2",
+          "PURIFICACIÓN (PEÑUELAS)",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3",
+          "RANCHO NUEVO",
+          "2",
+          "9",
+          "1",
+          "8",
+          "2",
+          "SAN ANTONIO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "7",
+          "SAN FRANCISCO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "6",
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2",
+          "SAN JUAN DEL SALTO",
+          "1",
+          "14",
+          "2",
+          "12",
+          "1",
+          "SAN JUANA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "SAN PEDRO",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3",
+          "SANTA CLEOTILDE",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1",
+          "SANTA CRUZ",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "SANTA FE",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2",
+          "TOTAL",
+          "109",
+          "3,899",
+          "1,925",
+          "1,974",
+          "302",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARBOSA",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ (MONFORT)",
+          "4",
+          "145",
+          "81",
+          "64",
+          "10"
+        ],
+        [
+          "BUENOS AIRES",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO",
+          "2",
+          "10",
+          "3",
+          "7",
+          "3"
+        ],
+        [
+          "COLONIA MILITAR AGRÍCOLA Y GANADERA (EL BURRO PINTO)",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "CRUZ Y CARMEN",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4"
+        ],
+        [
+          "CRUZ Y CRUZ",
+          "3",
+          "129",
+          "62",
+          "67",
+          "10"
+        ],
+        [
+          "EL CHORRO (EL CHORRITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL DESENGAÑO (LA PEÑITA)",
+          "1",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "EL PENSAMIENTO LIBRE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "45",
+          "17",
+          "28",
+          "5"
+        ],
+        [
+          "ESTACIÓN CARRIZOS",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "ESTACIÓN LA CRUZ",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "ESTACIÓN SANTA ENGRACIA",
+          "12",
+          "1,608",
+          "825",
+          "783",
+          "94"
+        ],
+        [
+          "EX-HACIENDA DE LA MESA",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "GENERAL JULIÁN CERDA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "HIDALGO",
+          "7",
+          "994",
+          "510",
+          "484",
+          "67"
+        ],
+        [
+          "IGNACIO ALLENDE (ESTACIÓN ADELAIDA)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "INDEPENDENCIA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6"
+        ],
+        [
+          "LA AURORA",
+          "2",
+          "77",
+          "37",
+          "40",
+          "7"
+        ],
+        [
+          "LA CRUCITA (LA PIRAGUA)",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA PASTA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "LAS MARGARITAS",
+          "1",
+          "38",
+          "15",
+          "23",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "4",
+          "60",
+          "31",
+          "29",
+          "11"
+        ],
+        [
+          "MARIANO ESCOBEDO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "MARROQUÍN",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "OYAMA",
+          "4",
+          "175",
+          "71",
+          "104",
+          "15"
+        ],
+        [
+          "PALO ALTO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "PURIFICACIÓN (PEÑUELAS)",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "9",
+          "1",
+          "8",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "7"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "6"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN DEL SALTO",
+          "1",
+          "14",
+          "2",
+          "12",
+          "1"
+        ],
+        [
+          "SAN JUANA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "SANTA CLEOTILDE",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "3,899",
+          "1,925",
+          "1,974",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARBOSA",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ (MONFORT)",
+          "4",
+          "145",
+          "81",
+          "64",
+          "10"
+        ],
+        [
+          "BUENOS AIRES",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO",
+          "2",
+          "10",
+          "3",
+          "7",
+          "3"
+        ],
+        [
+          "COLONIA MILITAR AGRÍCOLA Y GANADERA (EL BURRO PINTO)",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "CRUZ Y CARMEN",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4"
+        ],
+        [
+          "CRUZ Y CRUZ",
+          "3",
+          "129",
+          "62",
+          "67",
+          "10"
+        ],
+        [
+          "EL CHORRO (EL CHORRITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL DESENGAÑO (LA PEÑITA)",
+          "1",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "EL PENSAMIENTO LIBRE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "45",
+          "17",
+          "28",
+          "5"
+        ],
+        [
+          "ESTACIÓN CARRIZOS",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "ESTACIÓN LA CRUZ",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "ESTACIÓN SANTA ENGRACIA",
+          "12",
+          "1,608",
+          "825",
+          "783",
+          "94"
+        ],
+        [
+          "EX-HACIENDA DE LA MESA",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "GENERAL JULIÁN CERDA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "2",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "HIDALGO",
+          "7",
+          "994",
+          "510",
+          "484",
+          "67"
+        ],
+        [
+          "IGNACIO ALLENDE (ESTACIÓN ADELAIDA)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "INDEPENDENCIA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6"
+        ],
+        [
+          "LA AURORA",
+          "2",
+          "77",
+          "37",
+          "40",
+          "7"
+        ],
+        [
+          "LA CRUCITA (LA PIRAGUA)",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA PASTA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "LAS MARGARITAS",
+          "1",
+          "38",
+          "15",
+          "23",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "4",
+          "60",
+          "31",
+          "29",
+          "11"
+        ],
+        [
+          "MARIANO ESCOBEDO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "MARROQUÍN",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "OYAMA",
+          "4",
+          "175",
+          "71",
+          "104",
+          "15"
+        ],
+        [
+          "PALO ALTO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "PURIFICACIÓN (PEÑUELAS)",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "9",
+          "1",
+          "8",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "7"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "6"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN DEL SALTO",
+          "1",
+          "14",
+          "2",
+          "12",
+          "1"
+        ],
+        [
+          "SAN JUANA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "SANTA CLEOTILDE",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "3,899",
+          "1,925",
+          "1,974",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:43.502Z"
+}

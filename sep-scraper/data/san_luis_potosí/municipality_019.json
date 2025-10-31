@@ -1,0 +1,538 @@
+{
+  "municipality": "LAGUNILLAS",
+  "municipalityCode": "019",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: LAGUNILLAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCARRIZAL DE SAN JUAN DE ABAJO\n\t\t3\n\t\t44\n\t\t22\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL AHOGADO\n\t\t2\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL CAPULÍN\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL COCO\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL EPAZOTE\n\t\t3\n\t\t44\n\t\t22\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL LIMÓN\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL MIRADOR (EL PEDREGAL)\n\t\t3\n\t\t88\n\t\t45\n\t\t43\n\t\t7\n\t\n\t\n\t\tEL QUELITALILLO (EL QUELITAL)\n\t\t3\n\t\t65\n\t\t32\n\t\t33\n\t\t4\n\t\n\t\n\t\tENCINILLAS\n\t\t2\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA LÍNEA\n\t\t3\n\t\t28\n\t\t18\n\t\t10\n\t\t3\n\t\n\t\n\t\tLA PRESA\n\t\t3\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA REFORMA\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA RODADA\n\t\t3\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAGUNA VERDE\n\t\t3\n\t\t35\n\t\t14\n\t\t21\n\t\t3\n\t\n\t\n\t\tLAGUNILLAS\n\t\t3\n\t\t89\n\t\t36\n\t\t53\n\t\t10\n\t\n\t\n\t\tLAS NORIAS\n\t\t3\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tPINIHUAN (RÍO PINIHUAN)\n\t\t3\n\t\t118\n\t\t63\n\t\t55\n\t\t8\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t3\n\t\n\t\n\t\tSAN JUAN TETLAS\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL\n\t\t4\n\t\t253\n\t\t125\n\t\t128\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t52\n\t\t947\n\t\t465\n\t\t482\n\t\t84\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: LAGUNILLAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CARRIZAL DE SAN JUAN DE ABAJO",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4",
+          "EL AHOGADO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1",
+          "EL CAPULÍN",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL COCO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "EL EPAZOTE",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4",
+          "EL LIMÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EL MIRADOR (EL PEDREGAL)",
+          "3",
+          "88",
+          "45",
+          "43",
+          "7",
+          "EL QUELITALILLO (EL QUELITAL)",
+          "3",
+          "65",
+          "32",
+          "33",
+          "4",
+          "ENCINILLAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "1",
+          "LA LÍNEA",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3",
+          "LA PRESA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3",
+          "LA REFORMA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "LA RODADA",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3",
+          "LAGUNA VERDE",
+          "3",
+          "35",
+          "14",
+          "21",
+          "3",
+          "LAGUNILLAS",
+          "3",
+          "89",
+          "36",
+          "53",
+          "10",
+          "LAS NORIAS",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3",
+          "PINIHUAN (RÍO PINIHUAN)",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8",
+          "SAN ISIDRO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3",
+          "SAN JUAN TETLAS",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1",
+          "SAN RAFAEL",
+          "4",
+          "253",
+          "125",
+          "128",
+          "20",
+          "TOTAL",
+          "52",
+          "947",
+          "465",
+          "482",
+          "84",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: LAGUNILLAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CARRIZAL DE SAN JUAN DE ABAJO",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "EL AHOGADO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL CAPULÍN",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL EPAZOTE",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR (EL PEDREGAL)",
+          "3",
+          "88",
+          "45",
+          "43",
+          "7"
+        ],
+        [
+          "EL QUELITALILLO (EL QUELITAL)",
+          "3",
+          "65",
+          "32",
+          "33",
+          "4"
+        ],
+        [
+          "ENCINILLAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA LÍNEA",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LA RODADA",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LAGUNA VERDE",
+          "3",
+          "35",
+          "14",
+          "21",
+          "3"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "89",
+          "36",
+          "53",
+          "10"
+        ],
+        [
+          "LAS NORIAS",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "PINIHUAN (RÍO PINIHUAN)",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "SAN JUAN TETLAS",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "253",
+          "125",
+          "128",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "947",
+          "465",
+          "482",
+          "84"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: LAGUNILLAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CARRIZAL DE SAN JUAN DE ABAJO",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "EL AHOGADO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL CAPULÍN",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL EPAZOTE",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR (EL PEDREGAL)",
+          "3",
+          "88",
+          "45",
+          "43",
+          "7"
+        ],
+        [
+          "EL QUELITALILLO (EL QUELITAL)",
+          "3",
+          "65",
+          "32",
+          "33",
+          "4"
+        ],
+        [
+          "ENCINILLAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA LÍNEA",
+          "3",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LA RODADA",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LAGUNA VERDE",
+          "3",
+          "35",
+          "14",
+          "21",
+          "3"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "89",
+          "36",
+          "53",
+          "10"
+        ],
+        [
+          "LAS NORIAS",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "PINIHUAN (RÍO PINIHUAN)",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "SAN JUAN TETLAS",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "253",
+          "125",
+          "128",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "947",
+          "465",
+          "482",
+          "84"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:31.478Z"
+}

@@ -1,0 +1,714 @@
+{
+  "municipality": "RUÍZ",
+  "municipalityCode": "011",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: RUÍZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHIMALTITA\n\t\t3\n\t\t65\n\t\t29\n\t\t36\n\t\t4\n\t\n\t\n\t\tCORDÓN DEL JILGUERO\n\t\t4\n\t\t101\n\t\t46\n\t\t55\n\t\t10\n\t\n\t\n\t\tEL CARRIZAL\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL CARRIZO\n\t\t3\n\t\t33\n\t\t12\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL COQUITO\n\t\t1\n\t\t16\n\t\t10\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL NARANJO\n\t\t3\n\t\t63\n\t\t33\n\t\t30\n\t\t4\n\t\n\t\n\t\tEL REFUGIO\n\t\t3\n\t\t48\n\t\t25\n\t\t23\n\t\t4\n\t\n\t\n\t\tEL TAIXTE\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL VENADO\n\t\t3\n\t\t294\n\t\t140\n\t\t154\n\t\t18\n\t\n\t\n\t\tEL VOLANTÍN\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ZOPILOTE\n\t\t3\n\t\t77\n\t\t34\n\t\t43\n\t\t6\n\t\n\t\n\t\tHEROICO BATALLÓN DE SAN BLAS (LA NORIA)\n\t\t3\n\t\t113\n\t\t62\n\t\t51\n\t\t7\n\t\n\t\n\t\tHUICOT (VILLA HERMOSA)\n\t\t3\n\t\t95\n\t\t37\n\t\t58\n\t\t4\n\t\n\t\n\t\tIXCATÁN DEL POZOLILLO\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tJUAN ESCUTIA\n\t\t3\n\t\t115\n\t\t49\n\t\t66\n\t\t7\n\t\n\t\n\t\tLA BOLITA\n\t\t3\n\t\t66\n\t\t31\n\t\t35\n\t\t5\n\t\n\t\n\t\tLA JARRETADERA\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA MOJONERA\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA YERBABUENA\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAGUNA DEL MAR\n\t\t3\n\t\t92\n\t\t54\n\t\t38\n\t\t6\n\t\n\t\n\t\tLAS MAJADAS\n\t\t2\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tLOS SAUCES\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tPRESIDIO DE LOS REYES\n\t\t4\n\t\t463\n\t\t247\n\t\t216\n\t\t28\n\t\n\t\n\t\tPUERTA DE PLATANARES\n\t\t3\n\t\t86\n\t\t41\n\t\t45\n\t\t6\n\t\n\t\n\t\tRUIZ\n\t\t31\n\t\t4,335\n\t\t2,321\n\t\t2,014\n\t\t268\n\t\n\t\n\t\tSAN LORENZO\n\t\t7\n\t\t304\n\t\t152\n\t\t152\n\t\t18\n\t\n\t\n\t\tSAN PEDRO IXCATÁN\n\t\t3\n\t\t153\n\t\t75\n\t\t78\n\t\t8\n\t\n\t\n\t\tVADO DE SAN PEDRO\n\t\t3\n\t\t197\n\t\t105\n\t\t92\n\t\t13\n\t\n\t\n\t\tTOTAL\n\t\t106\n\t\t6,814\n\t\t3,553\n\t\t3,261\n\t\t436\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: RUÍZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHIMALTITA",
+          "3",
+          "65",
+          "29",
+          "36",
+          "4",
+          "CORDÓN DEL JILGUERO",
+          "4",
+          "101",
+          "46",
+          "55",
+          "10",
+          "EL CARRIZAL",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "EL CARRIZO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3",
+          "EL COQUITO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "1",
+          "EL NARANJO",
+          "3",
+          "63",
+          "33",
+          "30",
+          "4",
+          "EL REFUGIO",
+          "3",
+          "48",
+          "25",
+          "23",
+          "4",
+          "EL TAIXTE",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3",
+          "EL VENADO",
+          "3",
+          "294",
+          "140",
+          "154",
+          "18",
+          "EL VOLANTÍN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL ZOPILOTE",
+          "3",
+          "77",
+          "34",
+          "43",
+          "6",
+          "HEROICO BATALLÓN DE SAN BLAS (LA NORIA)",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7",
+          "HUICOT (VILLA HERMOSA)",
+          "3",
+          "95",
+          "37",
+          "58",
+          "4",
+          "IXCATÁN DEL POZOLILLO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "JUAN ESCUTIA",
+          "3",
+          "115",
+          "49",
+          "66",
+          "7",
+          "LA BOLITA",
+          "3",
+          "66",
+          "31",
+          "35",
+          "5",
+          "LA JARRETADERA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2",
+          "LA MOJONERA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2",
+          "LA YERBABUENA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LAGUNA DEL MAR",
+          "3",
+          "92",
+          "54",
+          "38",
+          "6",
+          "LAS MAJADAS",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2",
+          "LOS SAUCES",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "PRESIDIO DE LOS REYES",
+          "4",
+          "463",
+          "247",
+          "216",
+          "28",
+          "PUERTA DE PLATANARES",
+          "3",
+          "86",
+          "41",
+          "45",
+          "6",
+          "RUIZ",
+          "31",
+          "4,335",
+          "2,321",
+          "2,014",
+          "268",
+          "SAN LORENZO",
+          "7",
+          "304",
+          "152",
+          "152",
+          "18",
+          "SAN PEDRO IXCATÁN",
+          "3",
+          "153",
+          "75",
+          "78",
+          "8",
+          "VADO DE SAN PEDRO",
+          "3",
+          "197",
+          "105",
+          "92",
+          "13",
+          "TOTAL",
+          "106",
+          "6,814",
+          "3,553",
+          "3,261",
+          "436",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: RUÍZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHIMALTITA",
+          "3",
+          "65",
+          "29",
+          "36",
+          "4"
+        ],
+        [
+          "CORDÓN DEL JILGUERO",
+          "4",
+          "101",
+          "46",
+          "55",
+          "10"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "EL COQUITO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "1"
+        ],
+        [
+          "EL NARANJO",
+          "3",
+          "63",
+          "33",
+          "30",
+          "4"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "48",
+          "25",
+          "23",
+          "4"
+        ],
+        [
+          "EL TAIXTE",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "EL VENADO",
+          "3",
+          "294",
+          "140",
+          "154",
+          "18"
+        ],
+        [
+          "EL VOLANTÍN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZOPILOTE",
+          "3",
+          "77",
+          "34",
+          "43",
+          "6"
+        ],
+        [
+          "HEROICO BATALLÓN DE SAN BLAS (LA NORIA)",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7"
+        ],
+        [
+          "HUICOT (VILLA HERMOSA)",
+          "3",
+          "95",
+          "37",
+          "58",
+          "4"
+        ],
+        [
+          "IXCATÁN DEL POZOLILLO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "JUAN ESCUTIA",
+          "3",
+          "115",
+          "49",
+          "66",
+          "7"
+        ],
+        [
+          "LA BOLITA",
+          "3",
+          "66",
+          "31",
+          "35",
+          "5"
+        ],
+        [
+          "LA JARRETADERA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "LA MOJONERA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "LA YERBABUENA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LAGUNA DEL MAR",
+          "3",
+          "92",
+          "54",
+          "38",
+          "6"
+        ],
+        [
+          "LAS MAJADAS",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "PRESIDIO DE LOS REYES",
+          "4",
+          "463",
+          "247",
+          "216",
+          "28"
+        ],
+        [
+          "PUERTA DE PLATANARES",
+          "3",
+          "86",
+          "41",
+          "45",
+          "6"
+        ],
+        [
+          "RUIZ",
+          "31",
+          "4,335",
+          "2,321",
+          "2,014",
+          "268"
+        ],
+        [
+          "SAN LORENZO",
+          "7",
+          "304",
+          "152",
+          "152",
+          "18"
+        ],
+        [
+          "SAN PEDRO IXCATÁN",
+          "3",
+          "153",
+          "75",
+          "78",
+          "8"
+        ],
+        [
+          "VADO DE SAN PEDRO",
+          "3",
+          "197",
+          "105",
+          "92",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "6,814",
+          "3,553",
+          "3,261",
+          "436"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: RUÍZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHIMALTITA",
+          "3",
+          "65",
+          "29",
+          "36",
+          "4"
+        ],
+        [
+          "CORDÓN DEL JILGUERO",
+          "4",
+          "101",
+          "46",
+          "55",
+          "10"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "EL COQUITO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "1"
+        ],
+        [
+          "EL NARANJO",
+          "3",
+          "63",
+          "33",
+          "30",
+          "4"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "48",
+          "25",
+          "23",
+          "4"
+        ],
+        [
+          "EL TAIXTE",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "EL VENADO",
+          "3",
+          "294",
+          "140",
+          "154",
+          "18"
+        ],
+        [
+          "EL VOLANTÍN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZOPILOTE",
+          "3",
+          "77",
+          "34",
+          "43",
+          "6"
+        ],
+        [
+          "HEROICO BATALLÓN DE SAN BLAS (LA NORIA)",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7"
+        ],
+        [
+          "HUICOT (VILLA HERMOSA)",
+          "3",
+          "95",
+          "37",
+          "58",
+          "4"
+        ],
+        [
+          "IXCATÁN DEL POZOLILLO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "JUAN ESCUTIA",
+          "3",
+          "115",
+          "49",
+          "66",
+          "7"
+        ],
+        [
+          "LA BOLITA",
+          "3",
+          "66",
+          "31",
+          "35",
+          "5"
+        ],
+        [
+          "LA JARRETADERA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "LA MOJONERA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "LA YERBABUENA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LAGUNA DEL MAR",
+          "3",
+          "92",
+          "54",
+          "38",
+          "6"
+        ],
+        [
+          "LAS MAJADAS",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "PRESIDIO DE LOS REYES",
+          "4",
+          "463",
+          "247",
+          "216",
+          "28"
+        ],
+        [
+          "PUERTA DE PLATANARES",
+          "3",
+          "86",
+          "41",
+          "45",
+          "6"
+        ],
+        [
+          "RUIZ",
+          "31",
+          "4,335",
+          "2,321",
+          "2,014",
+          "268"
+        ],
+        [
+          "SAN LORENZO",
+          "7",
+          "304",
+          "152",
+          "152",
+          "18"
+        ],
+        [
+          "SAN PEDRO IXCATÁN",
+          "3",
+          "153",
+          "75",
+          "78",
+          "8"
+        ],
+        [
+          "VADO DE SAN PEDRO",
+          "3",
+          "197",
+          "105",
+          "92",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "6,814",
+          "3,553",
+          "3,261",
+          "436"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:10.985Z"
+}

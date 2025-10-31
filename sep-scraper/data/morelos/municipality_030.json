@@ -1,0 +1,560 @@
+{
+  "municipality": "YECAPIXTLA",
+  "municipalityCode": "030",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YECAPIXTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACHICHIPICO\n\t\t3\n\t\t418\n\t\t205\n\t\t213\n\t\t21\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t2\n\t\t203\n\t\t100\n\t\t103\n\t\t8\n\t\n\t\n\t\tCOLONIA AQUILES SERDÁN\n\t\t5\n\t\t1,391\n\t\t680\n\t\t711\n\t\t48\n\t\n\t\n\t\tCOLONIA PARAÍSO ESCONDIDO\n\t\t2\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tCOLONIA PARAÍSO LAS FLORES\n\t\t3\n\t\t51\n\t\t24\n\t\t27\n\t\t4\n\t\n\t\n\t\tHUEXCA\n\t\t3\n\t\t251\n\t\t120\n\t\t131\n\t\t11\n\t\n\t\n\t\tJUAN MORALES\n\t\t8\n\t\t1,911\n\t\t954\n\t\t957\n\t\t99\n\t\n\t\n\t\tLA ESTACIÓN DE YECAPIXTLA\n\t\t2\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tLOS CAPULINES\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t6\n\t\n\t\n\t\tLOS LIMONES\n\t\t3\n\t\t77\n\t\t35\n\t\t42\n\t\t7\n\t\n\t\n\t\tMIXTLALCINGO\n\t\t2\n\t\t243\n\t\t101\n\t\t142\n\t\t8\n\t\n\t\n\t\tPAZULCO\n\t\t3\n\t\t120\n\t\t60\n\t\t60\n\t\t6\n\t\n\t\n\t\tRANCHO SAN MARCOS\n\t\t1\n\t\t27\n\t\t18\n\t\t9\n\t\t15\n\t\n\t\n\t\tTECAJEC\n\t\t4\n\t\t422\n\t\t205\n\t\t217\n\t\t20\n\t\n\t\n\t\tTEXCALA\n\t\t3\n\t\t321\n\t\t145\n\t\t176\n\t\t13\n\t\n\t\n\t\tTEZONTETELCO\n\t\t3\n\t\t64\n\t\t33\n\t\t31\n\t\t5\n\t\n\t\n\t\tTLAMOMULCO\n\t\t2\n\t\t47\n\t\t30\n\t\t17\n\t\t3\n\t\n\t\n\t\tXOCHITLÁN\n\t\t4\n\t\t624\n\t\t297\n\t\t327\n\t\t22\n\t\n\t\n\t\tYECAPIXTECA\n\t\t3\n\t\t357\n\t\t182\n\t\t175\n\t\t15\n\t\n\t\n\t\tYECAPIXTLA\n\t\t38\n\t\t4,690\n\t\t2,266\n\t\t2,424\n\t\t282\n\t\n\t\n\t\tZACAHUACATLA\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t99\n\t\t11,319\n\t\t5,501\n\t\t5,818\n\t\t598\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YECAPIXTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACHICHIPICO",
+          "3",
+          "418",
+          "205",
+          "213",
+          "21",
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "203",
+          "100",
+          "103",
+          "8",
+          "COLONIA AQUILES SERDÁN",
+          "5",
+          "1,391",
+          "680",
+          "711",
+          "48",
+          "COLONIA PARAÍSO ESCONDIDO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2",
+          "COLONIA PARAÍSO LAS FLORES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4",
+          "HUEXCA",
+          "3",
+          "251",
+          "120",
+          "131",
+          "11",
+          "JUAN MORALES",
+          "8",
+          "1,911",
+          "954",
+          "957",
+          "99",
+          "LA ESTACIÓN DE YECAPIXTLA",
+          "2",
+          "10",
+          "2",
+          "8",
+          "1",
+          "LOS CAPULINES",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6",
+          "LOS LIMONES",
+          "3",
+          "77",
+          "35",
+          "42",
+          "7",
+          "MIXTLALCINGO",
+          "2",
+          "243",
+          "101",
+          "142",
+          "8",
+          "PAZULCO",
+          "3",
+          "120",
+          "60",
+          "60",
+          "6",
+          "RANCHO SAN MARCOS",
+          "1",
+          "27",
+          "18",
+          "9",
+          "15",
+          "TECAJEC",
+          "4",
+          "422",
+          "205",
+          "217",
+          "20",
+          "TEXCALA",
+          "3",
+          "321",
+          "145",
+          "176",
+          "13",
+          "TEZONTETELCO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "5",
+          "TLAMOMULCO",
+          "2",
+          "47",
+          "30",
+          "17",
+          "3",
+          "XOCHITLÁN",
+          "4",
+          "624",
+          "297",
+          "327",
+          "22",
+          "YECAPIXTECA",
+          "3",
+          "357",
+          "182",
+          "175",
+          "15",
+          "YECAPIXTLA",
+          "38",
+          "4,690",
+          "2,266",
+          "2,424",
+          "282",
+          "ZACAHUACATLA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2",
+          "TOTAL",
+          "99",
+          "11,319",
+          "5,501",
+          "5,818",
+          "598",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YECAPIXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHICHIPICO",
+          "3",
+          "418",
+          "205",
+          "213",
+          "21"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "203",
+          "100",
+          "103",
+          "8"
+        ],
+        [
+          "COLONIA AQUILES SERDÁN",
+          "5",
+          "1,391",
+          "680",
+          "711",
+          "48"
+        ],
+        [
+          "COLONIA PARAÍSO ESCONDIDO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "COLONIA PARAÍSO LAS FLORES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "HUEXCA",
+          "3",
+          "251",
+          "120",
+          "131",
+          "11"
+        ],
+        [
+          "JUAN MORALES",
+          "8",
+          "1,911",
+          "954",
+          "957",
+          "99"
+        ],
+        [
+          "LA ESTACIÓN DE YECAPIXTLA",
+          "2",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "LOS CAPULINES",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6"
+        ],
+        [
+          "LOS LIMONES",
+          "3",
+          "77",
+          "35",
+          "42",
+          "7"
+        ],
+        [
+          "MIXTLALCINGO",
+          "2",
+          "243",
+          "101",
+          "142",
+          "8"
+        ],
+        [
+          "PAZULCO",
+          "3",
+          "120",
+          "60",
+          "60",
+          "6"
+        ],
+        [
+          "RANCHO SAN MARCOS",
+          "1",
+          "27",
+          "18",
+          "9",
+          "15"
+        ],
+        [
+          "TECAJEC",
+          "4",
+          "422",
+          "205",
+          "217",
+          "20"
+        ],
+        [
+          "TEXCALA",
+          "3",
+          "321",
+          "145",
+          "176",
+          "13"
+        ],
+        [
+          "TEZONTETELCO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "5"
+        ],
+        [
+          "TLAMOMULCO",
+          "2",
+          "47",
+          "30",
+          "17",
+          "3"
+        ],
+        [
+          "XOCHITLÁN",
+          "4",
+          "624",
+          "297",
+          "327",
+          "22"
+        ],
+        [
+          "YECAPIXTECA",
+          "3",
+          "357",
+          "182",
+          "175",
+          "15"
+        ],
+        [
+          "YECAPIXTLA",
+          "38",
+          "4,690",
+          "2,266",
+          "2,424",
+          "282"
+        ],
+        [
+          "ZACAHUACATLA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "11,319",
+          "5,501",
+          "5,818",
+          "598"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YECAPIXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHICHIPICO",
+          "3",
+          "418",
+          "205",
+          "213",
+          "21"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "203",
+          "100",
+          "103",
+          "8"
+        ],
+        [
+          "COLONIA AQUILES SERDÁN",
+          "5",
+          "1,391",
+          "680",
+          "711",
+          "48"
+        ],
+        [
+          "COLONIA PARAÍSO ESCONDIDO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "COLONIA PARAÍSO LAS FLORES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "HUEXCA",
+          "3",
+          "251",
+          "120",
+          "131",
+          "11"
+        ],
+        [
+          "JUAN MORALES",
+          "8",
+          "1,911",
+          "954",
+          "957",
+          "99"
+        ],
+        [
+          "LA ESTACIÓN DE YECAPIXTLA",
+          "2",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "LOS CAPULINES",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6"
+        ],
+        [
+          "LOS LIMONES",
+          "3",
+          "77",
+          "35",
+          "42",
+          "7"
+        ],
+        [
+          "MIXTLALCINGO",
+          "2",
+          "243",
+          "101",
+          "142",
+          "8"
+        ],
+        [
+          "PAZULCO",
+          "3",
+          "120",
+          "60",
+          "60",
+          "6"
+        ],
+        [
+          "RANCHO SAN MARCOS",
+          "1",
+          "27",
+          "18",
+          "9",
+          "15"
+        ],
+        [
+          "TECAJEC",
+          "4",
+          "422",
+          "205",
+          "217",
+          "20"
+        ],
+        [
+          "TEXCALA",
+          "3",
+          "321",
+          "145",
+          "176",
+          "13"
+        ],
+        [
+          "TEZONTETELCO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "5"
+        ],
+        [
+          "TLAMOMULCO",
+          "2",
+          "47",
+          "30",
+          "17",
+          "3"
+        ],
+        [
+          "XOCHITLÁN",
+          "4",
+          "624",
+          "297",
+          "327",
+          "22"
+        ],
+        [
+          "YECAPIXTECA",
+          "3",
+          "357",
+          "182",
+          "175",
+          "15"
+        ],
+        [
+          "YECAPIXTLA",
+          "38",
+          "4,690",
+          "2,266",
+          "2,424",
+          "282"
+        ],
+        [
+          "ZACAHUACATLA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "11,319",
+          "5,501",
+          "5,818",
+          "598"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:14.012Z"
+}

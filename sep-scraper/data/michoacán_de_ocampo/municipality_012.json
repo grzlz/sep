@@ -1,0 +1,978 @@
+{
+  "municipality": "BUENAVISTA",
+  "municipalityCode": "012",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: BUENAVISTA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t97\n\t\t55\n\t\t42\n\t\t4\n\t\n\t\n\t\tBUENAVISTA TOMATLÁN\n\t\t12\n\t\t2,941\n\t\t1,536\n\t\t1,405\n\t\t143\n\t\n\t\n\t\tBUENAVISTILLA (LA GARITA)\n\t\t2\n\t\t66\n\t\t28\n\t\t38\n\t\t5\n\t\n\t\n\t\tCATALINAS (FRANCISCO VILLA)\n\t\t4\n\t\t672\n\t\t353\n\t\t319\n\t\t39\n\t\n\t\n\t\tCERRITO COLORADO\n\t\t2\n\t\t24\n\t\t17\n\t\t7\n\t\t2\n\t\n\t\n\t\tCINCO DE MAYO (EL LIMÓN)\n\t\t3\n\t\t91\n\t\t40\n\t\t51\n\t\t6\n\t\n\t\n\t\tDIECIOCHO DE MARZO\n\t\t5\n\t\t360\n\t\t183\n\t\t177\n\t\t21\n\t\n\t\n\t\tDIVISIÓN DEL NORTE [CRUCERO DE CATALINAS]\n\t\t3\n\t\t303\n\t\t145\n\t\t158\n\t\t17\n\t\n\t\n\t\tEL CARACOL\n\t\t2\n\t\t3\n\t\t2\n\t\t1\n\t\t2\n\t\n\t\n\t\tEL CHAMIZAL (FLOR DE MAYO)\n\t\t2\n\t\t38\n\t\t20\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL LIMÓN DE LA LUNA\n\t\t4\n\t\t119\n\t\t62\n\t\t57\n\t\t7\n\t\n\t\n\t\tEL NOPAL (LAS OLLAS)\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL PILÓN\n\t\t3\n\t\t71\n\t\t33\n\t\t38\n\t\t7\n\t\n\t\n\t\tEL TAMARINDO UNO\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL TERRERO\n\t\t3\n\t\t112\n\t\t59\n\t\t53\n\t\t10\n\t\n\t\n\t\tEL TESCALAME\n\t\t3\n\t\t23\n\t\t9\n\t\t14\n\t\t3\n\t\n\t\n\t\tERÉNDIRA\n\t\t2\n\t\t62\n\t\t33\n\t\t29\n\t\t3\n\t\n\t\n\t\tFELIPE ÁNGELES (EL PUJIDO)\n\t\t2\n\t\t86\n\t\t31\n\t\t55\n\t\t5\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO (LA RUANA)\n\t\t14\n\t\t2,097\n\t\t1,059\n\t\t1,038\n\t\t104\n\t\n\t\n\t\tLA ANGOSTURA\n\t\t3\n\t\t32\n\t\t19\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA CUCHILLA\n\t\t3\n\t\t30\n\t\t11\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA HUINA (LA HUINA UNO)\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tLA LUNA\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tLAS CARRERAS\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS COLONIAS DE LA LUNA\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t2\n\t\n\t\n\t\tLAS PAREDES DEL AHOGADO\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOMA BONITA\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS CHARCOS\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t4\n\t\n\t\n\t\tPAREDES DOS\n\t\t3\n\t\t43\n\t\t20\n\t\t23\n\t\t4\n\t\n\t\n\t\tPIZÁNDARO\n\t\t5\n\t\t641\n\t\t333\n\t\t308\n\t\t35\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t2\n\t\t32\n\t\t18\n\t\t14\n\t\t2\n\t\n\t\n\t\tPUNTA DEL AGUA\n\t\t3\n\t\t196\n\t\t119\n\t\t77\n\t\t12\n\t\n\t\n\t\tRAZO DEL ÓRGANO (VEINTIUNO DE MAYO)\n\t\t3\n\t\t122\n\t\t55\n\t\t67\n\t\t9\n\t\n\t\n\t\tROSA MORADA (LAS IGUANAS)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t37\n\t\t15\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ PIEDRAS BLANCAS\n\t\t3\n\t\t126\n\t\t58\n\t\t68\n\t\t7\n\t\n\t\n\t\tSANTA ANA AMATLÁN\n\t\t6\n\t\t841\n\t\t407\n\t\t434\n\t\t51\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t3\n\t\t202\n\t\t108\n\t\t94\n\t\t9\n\t\n\t\n\t\tZIMANCA\n\t\t3\n\t\t100\n\t\t53\n\t\t47\n\t\t8\n\t\n\t\n\t\tZIRAPETIRO\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t125\n\t\t9,788\n\t\t4,989\n\t\t4,799\n\t\t547\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: BUENAVISTA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENITO JUÁREZ",
+          "2",
+          "97",
+          "55",
+          "42",
+          "4",
+          "BUENAVISTA TOMATLÁN",
+          "12",
+          "2,941",
+          "1,536",
+          "1,405",
+          "143",
+          "BUENAVISTILLA (LA GARITA)",
+          "2",
+          "66",
+          "28",
+          "38",
+          "5",
+          "CATALINAS (FRANCISCO VILLA)",
+          "4",
+          "672",
+          "353",
+          "319",
+          "39",
+          "CERRITO COLORADO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2",
+          "CINCO DE MAYO (EL LIMÓN)",
+          "3",
+          "91",
+          "40",
+          "51",
+          "6",
+          "DIECIOCHO DE MARZO",
+          "5",
+          "360",
+          "183",
+          "177",
+          "21",
+          "DIVISIÓN DEL NORTE [CRUCERO DE CATALINAS]",
+          "3",
+          "303",
+          "145",
+          "158",
+          "17",
+          "EL CARACOL",
+          "2",
+          "3",
+          "2",
+          "1",
+          "2",
+          "EL CHAMIZAL (FLOR DE MAYO)",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3",
+          "EL LIMÓN DE LA LUNA",
+          "4",
+          "119",
+          "62",
+          "57",
+          "7",
+          "EL NOPAL (LAS OLLAS)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "EL PILÓN",
+          "3",
+          "71",
+          "33",
+          "38",
+          "7",
+          "EL TAMARINDO UNO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "EL TERRERO",
+          "3",
+          "112",
+          "59",
+          "53",
+          "10",
+          "EL TESCALAME",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3",
+          "ERÉNDIRA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "3",
+          "FELIPE ÁNGELES (EL PUJIDO)",
+          "2",
+          "86",
+          "31",
+          "55",
+          "5",
+          "FELIPE CARRILLO PUERTO (LA RUANA)",
+          "14",
+          "2,097",
+          "1,059",
+          "1,038",
+          "104",
+          "LA ANGOSTURA",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3",
+          "LA CUCHILLA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3",
+          "LA HUINA (LA HUINA UNO)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3",
+          "LA LUNA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "LAS CARRERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LAS COLONIAS DE LA LUNA",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2",
+          "LAS PAREDES DEL AHOGADO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "LOMA BONITA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "LOS CHARCOS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4",
+          "PAREDES DOS",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4",
+          "PIZÁNDARO",
+          "5",
+          "641",
+          "333",
+          "308",
+          "35",
+          "PUEBLO VIEJO",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2",
+          "PUNTA DEL AGUA",
+          "3",
+          "196",
+          "119",
+          "77",
+          "12",
+          "RAZO DEL ÓRGANO (VEINTIUNO DE MAYO)",
+          "3",
+          "122",
+          "55",
+          "67",
+          "9",
+          "ROSA MORADA (LAS IGUANAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "SAN ISIDRO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3",
+          "SAN JOSÉ PIEDRAS BLANCAS",
+          "3",
+          "126",
+          "58",
+          "68",
+          "7",
+          "SANTA ANA AMATLÁN",
+          "6",
+          "841",
+          "407",
+          "434",
+          "51",
+          "VICENTE GUERRERO",
+          "3",
+          "202",
+          "108",
+          "94",
+          "9",
+          "ZIMANCA",
+          "3",
+          "100",
+          "53",
+          "47",
+          "8",
+          "ZIRAPETIRO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "TOTAL",
+          "125",
+          "9,788",
+          "4,989",
+          "4,799",
+          "547",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: BUENAVISTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "97",
+          "55",
+          "42",
+          "4"
+        ],
+        [
+          "BUENAVISTA TOMATLÁN",
+          "12",
+          "2,941",
+          "1,536",
+          "1,405",
+          "143"
+        ],
+        [
+          "BUENAVISTILLA (LA GARITA)",
+          "2",
+          "66",
+          "28",
+          "38",
+          "5"
+        ],
+        [
+          "CATALINAS (FRANCISCO VILLA)",
+          "4",
+          "672",
+          "353",
+          "319",
+          "39"
+        ],
+        [
+          "CERRITO COLORADO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO (EL LIMÓN)",
+          "3",
+          "91",
+          "40",
+          "51",
+          "6"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "5",
+          "360",
+          "183",
+          "177",
+          "21"
+        ],
+        [
+          "DIVISIÓN DEL NORTE [CRUCERO DE CATALINAS]",
+          "3",
+          "303",
+          "145",
+          "158",
+          "17"
+        ],
+        [
+          "EL CARACOL",
+          "2",
+          "3",
+          "2",
+          "1",
+          "2"
+        ],
+        [
+          "EL CHAMIZAL (FLOR DE MAYO)",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE LA LUNA",
+          "4",
+          "119",
+          "62",
+          "57",
+          "7"
+        ],
+        [
+          "EL NOPAL (LAS OLLAS)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "EL PILÓN",
+          "3",
+          "71",
+          "33",
+          "38",
+          "7"
+        ],
+        [
+          "EL TAMARINDO UNO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "3",
+          "112",
+          "59",
+          "53",
+          "10"
+        ],
+        [
+          "EL TESCALAME",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "ERÉNDIRA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "3"
+        ],
+        [
+          "FELIPE ÁNGELES (EL PUJIDO)",
+          "2",
+          "86",
+          "31",
+          "55",
+          "5"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (LA RUANA)",
+          "14",
+          "2,097",
+          "1,059",
+          "1,038",
+          "104"
+        ],
+        [
+          "LA ANGOSTURA",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "LA CUCHILLA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3"
+        ],
+        [
+          "LA HUINA (LA HUINA UNO)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "LA LUNA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LAS CARRERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LAS COLONIAS DE LA LUNA",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "LAS PAREDES DEL AHOGADO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4"
+        ],
+        [
+          "PAREDES DOS",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4"
+        ],
+        [
+          "PIZÁNDARO",
+          "5",
+          "641",
+          "333",
+          "308",
+          "35"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2"
+        ],
+        [
+          "PUNTA DEL AGUA",
+          "3",
+          "196",
+          "119",
+          "77",
+          "12"
+        ],
+        [
+          "RAZO DEL ÓRGANO (VEINTIUNO DE MAYO)",
+          "3",
+          "122",
+          "55",
+          "67",
+          "9"
+        ],
+        [
+          "ROSA MORADA (LAS IGUANAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PIEDRAS BLANCAS",
+          "3",
+          "126",
+          "58",
+          "68",
+          "7"
+        ],
+        [
+          "SANTA ANA AMATLÁN",
+          "6",
+          "841",
+          "407",
+          "434",
+          "51"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "3",
+          "202",
+          "108",
+          "94",
+          "9"
+        ],
+        [
+          "ZIMANCA",
+          "3",
+          "100",
+          "53",
+          "47",
+          "8"
+        ],
+        [
+          "ZIRAPETIRO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "9,788",
+          "4,989",
+          "4,799",
+          "547"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: BUENAVISTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "97",
+          "55",
+          "42",
+          "4"
+        ],
+        [
+          "BUENAVISTA TOMATLÁN",
+          "12",
+          "2,941",
+          "1,536",
+          "1,405",
+          "143"
+        ],
+        [
+          "BUENAVISTILLA (LA GARITA)",
+          "2",
+          "66",
+          "28",
+          "38",
+          "5"
+        ],
+        [
+          "CATALINAS (FRANCISCO VILLA)",
+          "4",
+          "672",
+          "353",
+          "319",
+          "39"
+        ],
+        [
+          "CERRITO COLORADO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO (EL LIMÓN)",
+          "3",
+          "91",
+          "40",
+          "51",
+          "6"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "5",
+          "360",
+          "183",
+          "177",
+          "21"
+        ],
+        [
+          "DIVISIÓN DEL NORTE [CRUCERO DE CATALINAS]",
+          "3",
+          "303",
+          "145",
+          "158",
+          "17"
+        ],
+        [
+          "EL CARACOL",
+          "2",
+          "3",
+          "2",
+          "1",
+          "2"
+        ],
+        [
+          "EL CHAMIZAL (FLOR DE MAYO)",
+          "2",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE LA LUNA",
+          "4",
+          "119",
+          "62",
+          "57",
+          "7"
+        ],
+        [
+          "EL NOPAL (LAS OLLAS)",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "EL PILÓN",
+          "3",
+          "71",
+          "33",
+          "38",
+          "7"
+        ],
+        [
+          "EL TAMARINDO UNO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "3",
+          "112",
+          "59",
+          "53",
+          "10"
+        ],
+        [
+          "EL TESCALAME",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "ERÉNDIRA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "3"
+        ],
+        [
+          "FELIPE ÁNGELES (EL PUJIDO)",
+          "2",
+          "86",
+          "31",
+          "55",
+          "5"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (LA RUANA)",
+          "14",
+          "2,097",
+          "1,059",
+          "1,038",
+          "104"
+        ],
+        [
+          "LA ANGOSTURA",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "LA CUCHILLA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3"
+        ],
+        [
+          "LA HUINA (LA HUINA UNO)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "LA LUNA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LAS CARRERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LAS COLONIAS DE LA LUNA",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "LAS PAREDES DEL AHOGADO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4"
+        ],
+        [
+          "PAREDES DOS",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4"
+        ],
+        [
+          "PIZÁNDARO",
+          "5",
+          "641",
+          "333",
+          "308",
+          "35"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2"
+        ],
+        [
+          "PUNTA DEL AGUA",
+          "3",
+          "196",
+          "119",
+          "77",
+          "12"
+        ],
+        [
+          "RAZO DEL ÓRGANO (VEINTIUNO DE MAYO)",
+          "3",
+          "122",
+          "55",
+          "67",
+          "9"
+        ],
+        [
+          "ROSA MORADA (LAS IGUANAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PIEDRAS BLANCAS",
+          "3",
+          "126",
+          "58",
+          "68",
+          "7"
+        ],
+        [
+          "SANTA ANA AMATLÁN",
+          "6",
+          "841",
+          "407",
+          "434",
+          "51"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "3",
+          "202",
+          "108",
+          "94",
+          "9"
+        ],
+        [
+          "ZIMANCA",
+          "3",
+          "100",
+          "53",
+          "47",
+          "8"
+        ],
+        [
+          "ZIRAPETIRO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "9,788",
+          "4,989",
+          "4,799",
+          "547"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:17:53.942Z"
+}

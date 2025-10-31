@@ -1,0 +1,626 @@
+{
+  "municipality": "VILLAGRÁN",
+  "municipalityCode": "042",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VILLAGRÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tBRÍGIDO MALDONADO\n\t\t1\n\t\t20\n\t\t9\n\t\t11\n\t\t1\n\t\n\t\n\t\tCAMPOAMOR\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tCANDELARIO REYES (SAN JOSÉ)\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tCANDELARIO REYES (SAN MIGUEL)\n\t\t1\n\t\t2\n\t\t2\n\t\t0\n\t\t1\n\t\n\t\n\t\tCERRITOS\n\t\t2\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tGARZA VALDEZ\n\t\t4\n\t\t167\n\t\t75\n\t\t92\n\t\t12\n\t\n\t\n\t\tGENERAL JESÚS CARRANZA (SABINITOS)\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t3\n\t\n\t\n\t\tGENERAL LUCIO BLANCO\n\t\t3\n\t\t134\n\t\t56\n\t\t78\n\t\t11\n\t\n\t\n\t\tGUADALUPE DE SAN LÁZARO (GUADALUPE)\n\t\t3\n\t\t86\n\t\t40\n\t\t46\n\t\t5\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t2\n\t\t29\n\t\t18\n\t\t11\n\t\t3\n\t\n\t\n\t\tJESÚS GONZÁLEZ ORTEGA\n\t\t3\n\t\t48\n\t\t19\n\t\t29\n\t\t4\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS (SAN JUAN)\n\t\t3\n\t\t32\n\t\t16\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA PEÑA\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA PURÍSIMA FLOREÑA\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS CHARCOS\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tMAGDALENO AGUILAR\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tMARTE R. GÓMEZ (PATOL)\n\t\t3\n\t\t48\n\t\t25\n\t\t23\n\t\t6\n\t\n\t\n\t\tMIGUEL HIDALGO\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tRANCHERÍA JUÁREZ (JUÁREZ)\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tREDENCIÓN DEL CAMPESINO\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN LÁZARO\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t3\n\t\n\t\n\t\tSANTA MARÍA\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tVILLAGRÁN\n\t\t4\n\t\t397\n\t\t198\n\t\t199\n\t\t38\n\t\n\t\n\t\tTOTAL\n\t\t52\n\t\t1,142\n\t\t540\n\t\t602\n\t\t107\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VILLAGRÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁLVARO OBREGÓN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "BRÍGIDO MALDONADO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1",
+          "CAMPOAMOR",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "CANDELARIO REYES (SAN JOSÉ)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "CANDELARIO REYES (SAN MIGUEL)",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1",
+          "CERRITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1",
+          "GARZA VALDEZ",
+          "4",
+          "167",
+          "75",
+          "92",
+          "12",
+          "GENERAL JESÚS CARRANZA (SABINITOS)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3",
+          "GENERAL LUCIO BLANCO",
+          "3",
+          "134",
+          "56",
+          "78",
+          "11",
+          "GUADALUPE DE SAN LÁZARO (GUADALUPE)",
+          "3",
+          "86",
+          "40",
+          "46",
+          "5",
+          "GUADALUPE VICTORIA",
+          "2",
+          "29",
+          "18",
+          "11",
+          "3",
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "48",
+          "19",
+          "29",
+          "4",
+          "JOSÉ MARÍA MORELOS (SAN JUAN)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "3",
+          "LA PEÑA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LA PURÍSIMA FLOREÑA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "LOS CHARCOS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "MAGDALENO AGUILAR",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "MARTE R. GÓMEZ (PATOL)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "6",
+          "MIGUEL HIDALGO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "RANCHERÍA JUÁREZ (JUÁREZ)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "REDENCIÓN DEL CAMPESINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SAN LÁZARO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3",
+          "SANTA MARÍA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "VILLAGRÁN",
+          "4",
+          "397",
+          "198",
+          "199",
+          "38",
+          "TOTAL",
+          "52",
+          "1,142",
+          "540",
+          "602",
+          "107",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VILLAGRÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "BRÍGIDO MALDONADO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "CAMPOAMOR",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "CANDELARIO REYES (SAN JOSÉ)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "CANDELARIO REYES (SAN MIGUEL)",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "CERRITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "GARZA VALDEZ",
+          "4",
+          "167",
+          "75",
+          "92",
+          "12"
+        ],
+        [
+          "GENERAL JESÚS CARRANZA (SABINITOS)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "GENERAL LUCIO BLANCO",
+          "3",
+          "134",
+          "56",
+          "78",
+          "11"
+        ],
+        [
+          "GUADALUPE DE SAN LÁZARO (GUADALUPE)",
+          "3",
+          "86",
+          "40",
+          "46",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "2",
+          "29",
+          "18",
+          "11",
+          "3"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "48",
+          "19",
+          "29",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (SAN JUAN)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "3"
+        ],
+        [
+          "LA PEÑA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA FLOREÑA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "MAGDALENO AGUILAR",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "MARTE R. GÓMEZ (PATOL)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "6"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "RANCHERÍA JUÁREZ (JUÁREZ)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN LÁZARO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "VILLAGRÁN",
+          "4",
+          "397",
+          "198",
+          "199",
+          "38"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "1,142",
+          "540",
+          "602",
+          "107"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VILLAGRÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "BRÍGIDO MALDONADO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "CAMPOAMOR",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "CANDELARIO REYES (SAN JOSÉ)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "CANDELARIO REYES (SAN MIGUEL)",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "CERRITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "GARZA VALDEZ",
+          "4",
+          "167",
+          "75",
+          "92",
+          "12"
+        ],
+        [
+          "GENERAL JESÚS CARRANZA (SABINITOS)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "GENERAL LUCIO BLANCO",
+          "3",
+          "134",
+          "56",
+          "78",
+          "11"
+        ],
+        [
+          "GUADALUPE DE SAN LÁZARO (GUADALUPE)",
+          "3",
+          "86",
+          "40",
+          "46",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "2",
+          "29",
+          "18",
+          "11",
+          "3"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "48",
+          "19",
+          "29",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (SAN JUAN)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "3"
+        ],
+        [
+          "LA PEÑA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA FLOREÑA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "MAGDALENO AGUILAR",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "MARTE R. GÓMEZ (PATOL)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "6"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "RANCHERÍA JUÁREZ (JUÁREZ)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN LÁZARO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "VILLAGRÁN",
+          "4",
+          "397",
+          "198",
+          "199",
+          "38"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "1,142",
+          "540",
+          "602",
+          "107"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:41:20.041Z"
+}

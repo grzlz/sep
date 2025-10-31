@@ -1,0 +1,802 @@
+{
+  "municipality": "JAUMAVE",
+  "municipalityCode": "017",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: JAUMAVE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁVILA Y URBINA (LA MECA)\n\t\t3\n\t\t73\n\t\t38\n\t\t35\n\t\t6\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t3\n\t\n\t\n\t\tCOMPUERTAS\n\t\t2\n\t\t238\n\t\t128\n\t\t110\n\t\t14\n\t\n\t\n\t\tCONRADO CASTILLO (LA MAROMA)\n\t\t2\n\t\t50\n\t\t23\n\t\t27\n\t\t3\n\t\n\t\n\t\tEL ATRAVESAÑO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CARRIZO\n\t\t3\n\t\t47\n\t\t20\n\t\t27\n\t\t5\n\t\n\t\n\t\tEL HIGUERÓN\n\t\t2\n\t\t30\n\t\t6\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL INGENIO (LOS ADOBES)\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL SAUZ\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL SOTOL\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t3\n\t\n\t\n\t\tFRANCISCO I. MADERO (MAGUEYES)\n\t\t3\n\t\t40\n\t\t19\n\t\t21\n\t\t4\n\t\n\t\n\t\tFRANCISCO MEDRANO (LAS PILAS)\n\t\t1\n\t\t29\n\t\t11\n\t\t18\n\t\t2\n\t\n\t\n\t\tJAUMAVE\n\t\t7\n\t\t2,237\n\t\t1,241\n\t\t996\n\t\t148\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS (EL NOPAL)\n\t\t3\n\t\t160\n\t\t79\n\t\t81\n\t\t11\n\t\n\t\n\t\tLA INDEPENDENCIA (LAS MORITAS)\n\t\t3\n\t\t95\n\t\t49\n\t\t46\n\t\t8\n\t\n\t\n\t\tLA REFORMA\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA UNIÓN\n\t\t3\n\t\t43\n\t\t21\n\t\t22\n\t\t6\n\t\n\t\n\t\tMAGDALENO AGUILAR (SANTIAGUILLO)\n\t\t3\n\t\t36\n\t\t19\n\t\t17\n\t\t5\n\t\n\t\n\t\tMATÍAS GARCÍA (LA HACIENDA)\n\t\t3\n\t\t150\n\t\t68\n\t\t82\n\t\t11\n\t\n\t\n\t\tMONTERREDONDO\n\t\t3\n\t\t54\n\t\t24\n\t\t30\n\t\t4\n\t\n\t\n\t\tPADRÓN Y JUÁREZ (LA PUENTE)\n\t\t4\n\t\t167\n\t\t81\n\t\t86\n\t\t11\n\t\n\t\n\t\tPLAN DE AYALA (LAS CALABAZAS)\n\t\t2\n\t\t19\n\t\t6\n\t\t13\n\t\t2\n\t\n\t\n\t\tRANCHO NUEVO (CAÑITAS)\n\t\t3\n\t\t93\n\t\t52\n\t\t41\n\t\t7\n\t\n\t\n\t\tREDENCIÓN DEL CAMPESINO (PALOMAS)\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t208\n\t\t89\n\t\t119\n\t\t13\n\t\n\t\n\t\tSAN FRANCISCO DE ZORRILLA\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE SALAMANCA\n\t\t2\n\t\t32\n\t\t12\n\t\t20\n\t\t3\n\t\n\t\n\t\tSAN JUAN DE ORIENTE\n\t\t3\n\t\t105\n\t\t58\n\t\t47\n\t\t7\n\t\n\t\n\t\tSAN JUANITO\n\t\t3\n\t\t114\n\t\t65\n\t\t49\n\t\t8\n\t\n\t\n\t\tSAN LORENCITO (SAN LORENZO)\n\t\t2\n\t\t55\n\t\t26\n\t\t29\n\t\t4\n\t\n\t\n\t\tSAN VICENTE\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t3\n\t\n\t\n\t\tSEIS DE ENERO\n\t\t2\n\t\t10\n\t\t7\n\t\t3\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t79\n\t\t4,265\n\t\t2,229\n\t\t2,036\n\t\t307\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: JAUMAVE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁVILA Y URBINA (LA MECA)",
+          "3",
+          "73",
+          "38",
+          "35",
+          "6",
+          "CINCO DE MAYO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3",
+          "COMPUERTAS",
+          "2",
+          "238",
+          "128",
+          "110",
+          "14",
+          "CONRADO CASTILLO (LA MAROMA)",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3",
+          "EL ATRAVESAÑO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EL CARRIZO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "5",
+          "EL HIGUERÓN",
+          "2",
+          "30",
+          "6",
+          "24",
+          "3",
+          "EL INGENIO (LOS ADOBES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3",
+          "EL SAUZ",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "EL SOTOL",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3",
+          "FRANCISCO I. MADERO (MAGUEYES)",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4",
+          "FRANCISCO MEDRANO (LAS PILAS)",
+          "1",
+          "29",
+          "11",
+          "18",
+          "2",
+          "JAUMAVE",
+          "7",
+          "2,237",
+          "1,241",
+          "996",
+          "148",
+          "JOSÉ MARÍA MORELOS (EL NOPAL)",
+          "3",
+          "160",
+          "79",
+          "81",
+          "11",
+          "LA INDEPENDENCIA (LAS MORITAS)",
+          "3",
+          "95",
+          "49",
+          "46",
+          "8",
+          "LA REFORMA",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3",
+          "LA UNIÓN",
+          "3",
+          "43",
+          "21",
+          "22",
+          "6",
+          "MAGDALENO AGUILAR (SANTIAGUILLO)",
+          "3",
+          "36",
+          "19",
+          "17",
+          "5",
+          "MATÍAS GARCÍA (LA HACIENDA)",
+          "3",
+          "150",
+          "68",
+          "82",
+          "11",
+          "MONTERREDONDO",
+          "3",
+          "54",
+          "24",
+          "30",
+          "4",
+          "PADRÓN Y JUÁREZ (LA PUENTE)",
+          "4",
+          "167",
+          "81",
+          "86",
+          "11",
+          "PLAN DE AYALA (LAS CALABAZAS)",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2",
+          "RANCHO NUEVO (CAÑITAS)",
+          "3",
+          "93",
+          "52",
+          "41",
+          "7",
+          "REDENCIÓN DEL CAMPESINO (PALOMAS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "SAN ANTONIO",
+          "2",
+          "208",
+          "89",
+          "119",
+          "13",
+          "SAN FRANCISCO DE ZORRILLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2",
+          "SAN JOSÉ DE SALAMANCA",
+          "2",
+          "32",
+          "12",
+          "20",
+          "3",
+          "SAN JUAN DE ORIENTE",
+          "3",
+          "105",
+          "58",
+          "47",
+          "7",
+          "SAN JUANITO",
+          "3",
+          "114",
+          "65",
+          "49",
+          "8",
+          "SAN LORENCITO (SAN LORENZO)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4",
+          "SAN VICENTE",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3",
+          "SEIS DE ENERO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2",
+          "TOTAL",
+          "79",
+          "4,265",
+          "2,229",
+          "2,036",
+          "307",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: JAUMAVE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁVILA Y URBINA (LA MECA)",
+          "3",
+          "73",
+          "38",
+          "35",
+          "6"
+        ],
+        [
+          "CINCO DE MAYO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "COMPUERTAS",
+          "2",
+          "238",
+          "128",
+          "110",
+          "14"
+        ],
+        [
+          "CONRADO CASTILLO (LA MAROMA)",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "EL ATRAVESAÑO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "5"
+        ],
+        [
+          "EL HIGUERÓN",
+          "2",
+          "30",
+          "6",
+          "24",
+          "3"
+        ],
+        [
+          "EL INGENIO (LOS ADOBES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "EL SOTOL",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO (MAGUEYES)",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "FRANCISCO MEDRANO (LAS PILAS)",
+          "1",
+          "29",
+          "11",
+          "18",
+          "2"
+        ],
+        [
+          "JAUMAVE",
+          "7",
+          "2,237",
+          "1,241",
+          "996",
+          "148"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (EL NOPAL)",
+          "3",
+          "160",
+          "79",
+          "81",
+          "11"
+        ],
+        [
+          "LA INDEPENDENCIA (LAS MORITAS)",
+          "3",
+          "95",
+          "49",
+          "46",
+          "8"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "43",
+          "21",
+          "22",
+          "6"
+        ],
+        [
+          "MAGDALENO AGUILAR (SANTIAGUILLO)",
+          "3",
+          "36",
+          "19",
+          "17",
+          "5"
+        ],
+        [
+          "MATÍAS GARCÍA (LA HACIENDA)",
+          "3",
+          "150",
+          "68",
+          "82",
+          "11"
+        ],
+        [
+          "MONTERREDONDO",
+          "3",
+          "54",
+          "24",
+          "30",
+          "4"
+        ],
+        [
+          "PADRÓN Y JUÁREZ (LA PUENTE)",
+          "4",
+          "167",
+          "81",
+          "86",
+          "11"
+        ],
+        [
+          "PLAN DE AYALA (LAS CALABAZAS)",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO (CAÑITAS)",
+          "3",
+          "93",
+          "52",
+          "41",
+          "7"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO (PALOMAS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "208",
+          "89",
+          "119",
+          "13"
+        ],
+        [
+          "SAN FRANCISCO DE ZORRILLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE SALAMANCA",
+          "2",
+          "32",
+          "12",
+          "20",
+          "3"
+        ],
+        [
+          "SAN JUAN DE ORIENTE",
+          "3",
+          "105",
+          "58",
+          "47",
+          "7"
+        ],
+        [
+          "SAN JUANITO",
+          "3",
+          "114",
+          "65",
+          "49",
+          "8"
+        ],
+        [
+          "SAN LORENCITO (SAN LORENZO)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "SEIS DE ENERO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "79",
+          "4,265",
+          "2,229",
+          "2,036",
+          "307"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: JAUMAVE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁVILA Y URBINA (LA MECA)",
+          "3",
+          "73",
+          "38",
+          "35",
+          "6"
+        ],
+        [
+          "CINCO DE MAYO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "COMPUERTAS",
+          "2",
+          "238",
+          "128",
+          "110",
+          "14"
+        ],
+        [
+          "CONRADO CASTILLO (LA MAROMA)",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "EL ATRAVESAÑO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL CARRIZO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "5"
+        ],
+        [
+          "EL HIGUERÓN",
+          "2",
+          "30",
+          "6",
+          "24",
+          "3"
+        ],
+        [
+          "EL INGENIO (LOS ADOBES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "EL SOTOL",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO (MAGUEYES)",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "FRANCISCO MEDRANO (LAS PILAS)",
+          "1",
+          "29",
+          "11",
+          "18",
+          "2"
+        ],
+        [
+          "JAUMAVE",
+          "7",
+          "2,237",
+          "1,241",
+          "996",
+          "148"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (EL NOPAL)",
+          "3",
+          "160",
+          "79",
+          "81",
+          "11"
+        ],
+        [
+          "LA INDEPENDENCIA (LAS MORITAS)",
+          "3",
+          "95",
+          "49",
+          "46",
+          "8"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "43",
+          "21",
+          "22",
+          "6"
+        ],
+        [
+          "MAGDALENO AGUILAR (SANTIAGUILLO)",
+          "3",
+          "36",
+          "19",
+          "17",
+          "5"
+        ],
+        [
+          "MATÍAS GARCÍA (LA HACIENDA)",
+          "3",
+          "150",
+          "68",
+          "82",
+          "11"
+        ],
+        [
+          "MONTERREDONDO",
+          "3",
+          "54",
+          "24",
+          "30",
+          "4"
+        ],
+        [
+          "PADRÓN Y JUÁREZ (LA PUENTE)",
+          "4",
+          "167",
+          "81",
+          "86",
+          "11"
+        ],
+        [
+          "PLAN DE AYALA (LAS CALABAZAS)",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO (CAÑITAS)",
+          "3",
+          "93",
+          "52",
+          "41",
+          "7"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO (PALOMAS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "208",
+          "89",
+          "119",
+          "13"
+        ],
+        [
+          "SAN FRANCISCO DE ZORRILLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE SALAMANCA",
+          "2",
+          "32",
+          "12",
+          "20",
+          "3"
+        ],
+        [
+          "SAN JUAN DE ORIENTE",
+          "3",
+          "105",
+          "58",
+          "47",
+          "7"
+        ],
+        [
+          "SAN JUANITO",
+          "3",
+          "114",
+          "65",
+          "49",
+          "8"
+        ],
+        [
+          "SAN LORENCITO (SAN LORENZO)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "SEIS DE ENERO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "79",
+          "4,265",
+          "2,229",
+          "2,036",
+          "307"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:47.373Z"
+}

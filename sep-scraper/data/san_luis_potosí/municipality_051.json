@@ -1,0 +1,736 @@
+{
+  "municipality": "VILLA HIDALGO",
+  "municipalityCode": "051",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA HIDALGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCORAZONES\n\t\t3\n\t\t40\n\t\t18\n\t\t22\n\t\t3\n\t\n\t\n\t\tCORCOVADA\n\t\t3\n\t\t373\n\t\t183\n\t\t190\n\t\t20\n\t\n\t\n\t\tEL ALJÍBER\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL COYOTE\n\t\t3\n\t\t108\n\t\t56\n\t\t52\n\t\t5\n\t\n\t\n\t\tEL LEONCITO\n\t\t3\n\t\t220\n\t\t107\n\t\t113\n\t\t12\n\t\n\t\n\t\tEL OJITO\n\t\t3\n\t\t76\n\t\t33\n\t\t43\n\t\t5\n\t\n\t\n\t\tEL POCITO\n\t\t3\n\t\t70\n\t\t37\n\t\t33\n\t\t4\n\t\n\t\n\t\tJAGÜEY\n\t\t3\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA REDONDA\n\t\t3\n\t\t106\n\t\t43\n\t\t63\n\t\t6\n\t\n\t\n\t\tLA TAPONA\n\t\t3\n\t\t80\n\t\t40\n\t\t40\n\t\t5\n\t\n\t\n\t\tLAGUNILLAS\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLLANO DEL CARMEN\n\t\t3\n\t\t44\n\t\t15\n\t\t29\n\t\t4\n\t\n\t\n\t\tPEDRERA DEL TANQUITO\n\t\t3\n\t\t93\n\t\t43\n\t\t50\n\t\t5\n\t\n\t\n\t\tPEOTILLOS\n\t\t3\n\t\t198\n\t\t104\n\t\t94\n\t\t17\n\t\n\t\n\t\tPRESA DE CHANCAQUERO\n\t\t3\n\t\t44\n\t\t21\n\t\t23\n\t\t3\n\t\n\t\n\t\tPRESITA DE LA CRUZ\n\t\t3\n\t\t36\n\t\t18\n\t\t18\n\t\t3\n\t\n\t\n\t\tRINCÓN DEL REFUGIO\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN IGNACIO\n\t\t2\n\t\t15\n\t\t3\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN LORENZO\n\t\t3\n\t\t142\n\t\t71\n\t\t71\n\t\t8\n\t\n\t\n\t\tSAN NICOLÁS DEL REFUGIO\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tSILOS\n\t\t4\n\t\t140\n\t\t65\n\t\t75\n\t\t9\n\t\n\t\n\t\tTANQUE DE LUNA\n\t\t3\n\t\t73\n\t\t31\n\t\t42\n\t\t5\n\t\n\t\n\t\tTANQUE NUEVO\n\t\t3\n\t\t35\n\t\t16\n\t\t19\n\t\t3\n\t\n\t\n\t\tTANQUITO DE SAN FRANCISCO\n\t\t3\n\t\t100\n\t\t50\n\t\t50\n\t\t5\n\t\n\t\n\t\tVALLE DE SAN JUAN\n\t\t3\n\t\t66\n\t\t32\n\t\t34\n\t\t5\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t3\n\t\t174\n\t\t83\n\t\t91\n\t\t11\n\t\n\t\n\t\tVENADITOS\n\t\t3\n\t\t35\n\t\t15\n\t\t20\n\t\t3\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t7\n\t\t1,221\n\t\t628\n\t\t593\n\t\t59\n\t\n\t\n\t\tZAPOTILLO\n\t\t3\n\t\t61\n\t\t29\n\t\t32\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t86\n\t\t3,617\n\t\t1,770\n\t\t1,847\n\t\t213\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA HIDALGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CORAZONES",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3",
+          "CORCOVADA",
+          "3",
+          "373",
+          "183",
+          "190",
+          "20",
+          "EL ALJÍBER",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1",
+          "EL COYOTE",
+          "3",
+          "108",
+          "56",
+          "52",
+          "5",
+          "EL LEONCITO",
+          "3",
+          "220",
+          "107",
+          "113",
+          "12",
+          "EL OJITO",
+          "3",
+          "76",
+          "33",
+          "43",
+          "5",
+          "EL POCITO",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4",
+          "JAGÜEY",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3",
+          "LA REDONDA",
+          "3",
+          "106",
+          "43",
+          "63",
+          "6",
+          "LA TAPONA",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5",
+          "LAGUNILLAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LLANO DEL CARMEN",
+          "3",
+          "44",
+          "15",
+          "29",
+          "4",
+          "PEDRERA DEL TANQUITO",
+          "3",
+          "93",
+          "43",
+          "50",
+          "5",
+          "PEOTILLOS",
+          "3",
+          "198",
+          "104",
+          "94",
+          "17",
+          "PRESA DE CHANCAQUERO",
+          "3",
+          "44",
+          "21",
+          "23",
+          "3",
+          "PRESITA DE LA CRUZ",
+          "3",
+          "36",
+          "18",
+          "18",
+          "3",
+          "RINCÓN DEL REFUGIO",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "SAN IGNACIO",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2",
+          "SAN LORENZO",
+          "3",
+          "142",
+          "71",
+          "71",
+          "8",
+          "SAN NICOLÁS DEL REFUGIO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "SILOS",
+          "4",
+          "140",
+          "65",
+          "75",
+          "9",
+          "TANQUE DE LUNA",
+          "3",
+          "73",
+          "31",
+          "42",
+          "5",
+          "TANQUE NUEVO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "3",
+          "TANQUITO DE SAN FRANCISCO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "5",
+          "VALLE DE SAN JUAN",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5",
+          "VEINTE DE NOVIEMBRE",
+          "3",
+          "174",
+          "83",
+          "91",
+          "11",
+          "VENADITOS",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3",
+          "VILLA HIDALGO",
+          "7",
+          "1,221",
+          "628",
+          "593",
+          "59",
+          "ZAPOTILLO",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4",
+          "TOTAL",
+          "86",
+          "3,617",
+          "1,770",
+          "1,847",
+          "213",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORAZONES",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "CORCOVADA",
+          "3",
+          "373",
+          "183",
+          "190",
+          "20"
+        ],
+        [
+          "EL ALJÍBER",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL COYOTE",
+          "3",
+          "108",
+          "56",
+          "52",
+          "5"
+        ],
+        [
+          "EL LEONCITO",
+          "3",
+          "220",
+          "107",
+          "113",
+          "12"
+        ],
+        [
+          "EL OJITO",
+          "3",
+          "76",
+          "33",
+          "43",
+          "5"
+        ],
+        [
+          "EL POCITO",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "JAGÜEY",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LA REDONDA",
+          "3",
+          "106",
+          "43",
+          "63",
+          "6"
+        ],
+        [
+          "LA TAPONA",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5"
+        ],
+        [
+          "LAGUNILLAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO DEL CARMEN",
+          "3",
+          "44",
+          "15",
+          "29",
+          "4"
+        ],
+        [
+          "PEDRERA DEL TANQUITO",
+          "3",
+          "93",
+          "43",
+          "50",
+          "5"
+        ],
+        [
+          "PEOTILLOS",
+          "3",
+          "198",
+          "104",
+          "94",
+          "17"
+        ],
+        [
+          "PRESA DE CHANCAQUERO",
+          "3",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "PRESITA DE LA CRUZ",
+          "3",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "RINCÓN DEL REFUGIO",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "3",
+          "142",
+          "71",
+          "71",
+          "8"
+        ],
+        [
+          "SAN NICOLÁS DEL REFUGIO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "SILOS",
+          "4",
+          "140",
+          "65",
+          "75",
+          "9"
+        ],
+        [
+          "TANQUE DE LUNA",
+          "3",
+          "73",
+          "31",
+          "42",
+          "5"
+        ],
+        [
+          "TANQUE NUEVO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "3"
+        ],
+        [
+          "TANQUITO DE SAN FRANCISCO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "5"
+        ],
+        [
+          "VALLE DE SAN JUAN",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "3",
+          "174",
+          "83",
+          "91",
+          "11"
+        ],
+        [
+          "VENADITOS",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "VILLA HIDALGO",
+          "7",
+          "1,221",
+          "628",
+          "593",
+          "59"
+        ],
+        [
+          "ZAPOTILLO",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "86",
+          "3,617",
+          "1,770",
+          "1,847",
+          "213"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORAZONES",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "CORCOVADA",
+          "3",
+          "373",
+          "183",
+          "190",
+          "20"
+        ],
+        [
+          "EL ALJÍBER",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL COYOTE",
+          "3",
+          "108",
+          "56",
+          "52",
+          "5"
+        ],
+        [
+          "EL LEONCITO",
+          "3",
+          "220",
+          "107",
+          "113",
+          "12"
+        ],
+        [
+          "EL OJITO",
+          "3",
+          "76",
+          "33",
+          "43",
+          "5"
+        ],
+        [
+          "EL POCITO",
+          "3",
+          "70",
+          "37",
+          "33",
+          "4"
+        ],
+        [
+          "JAGÜEY",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LA REDONDA",
+          "3",
+          "106",
+          "43",
+          "63",
+          "6"
+        ],
+        [
+          "LA TAPONA",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5"
+        ],
+        [
+          "LAGUNILLAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO DEL CARMEN",
+          "3",
+          "44",
+          "15",
+          "29",
+          "4"
+        ],
+        [
+          "PEDRERA DEL TANQUITO",
+          "3",
+          "93",
+          "43",
+          "50",
+          "5"
+        ],
+        [
+          "PEOTILLOS",
+          "3",
+          "198",
+          "104",
+          "94",
+          "17"
+        ],
+        [
+          "PRESA DE CHANCAQUERO",
+          "3",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "PRESITA DE LA CRUZ",
+          "3",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "RINCÓN DEL REFUGIO",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "3",
+          "142",
+          "71",
+          "71",
+          "8"
+        ],
+        [
+          "SAN NICOLÁS DEL REFUGIO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "SILOS",
+          "4",
+          "140",
+          "65",
+          "75",
+          "9"
+        ],
+        [
+          "TANQUE DE LUNA",
+          "3",
+          "73",
+          "31",
+          "42",
+          "5"
+        ],
+        [
+          "TANQUE NUEVO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "3"
+        ],
+        [
+          "TANQUITO DE SAN FRANCISCO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "5"
+        ],
+        [
+          "VALLE DE SAN JUAN",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "3",
+          "174",
+          "83",
+          "91",
+          "11"
+        ],
+        [
+          "VENADITOS",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "VILLA HIDALGO",
+          "7",
+          "1,221",
+          "628",
+          "593",
+          "59"
+        ],
+        [
+          "ZAPOTILLO",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "86",
+          "3,617",
+          "1,770",
+          "1,847",
+          "213"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:31:51.866Z"
+}

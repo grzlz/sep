@@ -1,0 +1,494 @@
+{
+  "municipality": "CORONEO",
+  "municipalityCode": "010",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CORONEO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATLÁN\n\t\t4\n\t\t237\n\t\t111\n\t\t126\n\t\t13\n\t\n\t\n\t\tCEBOLLETAS\n\t\t4\n\t\t189\n\t\t101\n\t\t88\n\t\t10\n\t\n\t\n\t\tCERRO COLORADO\n\t\t3\n\t\t102\n\t\t46\n\t\t56\n\t\t6\n\t\n\t\n\t\tCERRO PRIETO ORIENTE\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t3\n\t\n\t\n\t\tCERRO PRIETO PONIENTE\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tCORONEO\n\t\t11\n\t\t1,529\n\t\t771\n\t\t758\n\t\t72\n\t\n\t\n\t\tCRUZ DEL PASTOR\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL CAPULÍN\n\t\t2\n\t\t61\n\t\t32\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL ESPINAZO (LOMA BONITA)\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL PUERTECITO\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL SAUZ DE CEBOLLETAS\n\t\t2\n\t\t71\n\t\t35\n\t\t36\n\t\t4\n\t\n\t\n\t\tLA HUERTA\n\t\t2\n\t\t47\n\t\t25\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA PRESA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA VENTA NORTE\n\t\t1\n\t\t480\n\t\t258\n\t\t222\n\t\t28\n\t\n\t\n\t\tLA VIBORILLA\n\t\t2\n\t\t40\n\t\t24\n\t\t16\n\t\t2\n\t\n\t\n\t\tPIEDRA LARGA\n\t\t4\n\t\t174\n\t\t78\n\t\t96\n\t\t11\n\t\n\t\n\t\tSALTO DE LEÓN\n\t\t3\n\t\t97\n\t\t51\n\t\t46\n\t\t5\n\t\n\t\n\t\tSANTA CRUZ\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t48\n\t\t3,136\n\t\t1,589\n\t\t1,547\n\t\t168\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CORONEO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATLÁN",
+          "4",
+          "237",
+          "111",
+          "126",
+          "13",
+          "CEBOLLETAS",
+          "4",
+          "189",
+          "101",
+          "88",
+          "10",
+          "CERRO COLORADO",
+          "3",
+          "102",
+          "46",
+          "56",
+          "6",
+          "CERRO PRIETO ORIENTE",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3",
+          "CERRO PRIETO PONIENTE",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "CORONEO",
+          "11",
+          "1,529",
+          "771",
+          "758",
+          "72",
+          "CRUZ DEL PASTOR",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "EL CAPULÍN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "3",
+          "EL ESPINAZO (LOMA BONITA)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "EL PUERTECITO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "EL SAUZ DE CEBOLLETAS",
+          "2",
+          "71",
+          "35",
+          "36",
+          "4",
+          "LA HUERTA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "3",
+          "LA PRESA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LA VENTA NORTE",
+          "1",
+          "480",
+          "258",
+          "222",
+          "28",
+          "LA VIBORILLA",
+          "2",
+          "40",
+          "24",
+          "16",
+          "2",
+          "PIEDRA LARGA",
+          "4",
+          "174",
+          "78",
+          "96",
+          "11",
+          "SALTO DE LEÓN",
+          "3",
+          "97",
+          "51",
+          "46",
+          "5",
+          "SANTA CRUZ",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "TOTAL",
+          "48",
+          "3,136",
+          "1,589",
+          "1,547",
+          "168",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CORONEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATLÁN",
+          "4",
+          "237",
+          "111",
+          "126",
+          "13"
+        ],
+        [
+          "CEBOLLETAS",
+          "4",
+          "189",
+          "101",
+          "88",
+          "10"
+        ],
+        [
+          "CERRO COLORADO",
+          "3",
+          "102",
+          "46",
+          "56",
+          "6"
+        ],
+        [
+          "CERRO PRIETO ORIENTE",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "CERRO PRIETO PONIENTE",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "CORONEO",
+          "11",
+          "1,529",
+          "771",
+          "758",
+          "72"
+        ],
+        [
+          "CRUZ DEL PASTOR",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL CAPULÍN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "3"
+        ],
+        [
+          "EL ESPINAZO (LOMA BONITA)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "EL PUERTECITO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUZ DE CEBOLLETAS",
+          "2",
+          "71",
+          "35",
+          "36",
+          "4"
+        ],
+        [
+          "LA HUERTA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "3"
+        ],
+        [
+          "LA PRESA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA VENTA NORTE",
+          "1",
+          "480",
+          "258",
+          "222",
+          "28"
+        ],
+        [
+          "LA VIBORILLA",
+          "2",
+          "40",
+          "24",
+          "16",
+          "2"
+        ],
+        [
+          "PIEDRA LARGA",
+          "4",
+          "174",
+          "78",
+          "96",
+          "11"
+        ],
+        [
+          "SALTO DE LEÓN",
+          "3",
+          "97",
+          "51",
+          "46",
+          "5"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "48",
+          "3,136",
+          "1,589",
+          "1,547",
+          "168"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CORONEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATLÁN",
+          "4",
+          "237",
+          "111",
+          "126",
+          "13"
+        ],
+        [
+          "CEBOLLETAS",
+          "4",
+          "189",
+          "101",
+          "88",
+          "10"
+        ],
+        [
+          "CERRO COLORADO",
+          "3",
+          "102",
+          "46",
+          "56",
+          "6"
+        ],
+        [
+          "CERRO PRIETO ORIENTE",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "CERRO PRIETO PONIENTE",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "CORONEO",
+          "11",
+          "1,529",
+          "771",
+          "758",
+          "72"
+        ],
+        [
+          "CRUZ DEL PASTOR",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL CAPULÍN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "3"
+        ],
+        [
+          "EL ESPINAZO (LOMA BONITA)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "EL PUERTECITO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUZ DE CEBOLLETAS",
+          "2",
+          "71",
+          "35",
+          "36",
+          "4"
+        ],
+        [
+          "LA HUERTA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "3"
+        ],
+        [
+          "LA PRESA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA VENTA NORTE",
+          "1",
+          "480",
+          "258",
+          "222",
+          "28"
+        ],
+        [
+          "LA VIBORILLA",
+          "2",
+          "40",
+          "24",
+          "16",
+          "2"
+        ],
+        [
+          "PIEDRA LARGA",
+          "4",
+          "174",
+          "78",
+          "96",
+          "11"
+        ],
+        [
+          "SALTO DE LEÓN",
+          "3",
+          "97",
+          "51",
+          "46",
+          "5"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "48",
+          "3,136",
+          "1,589",
+          "1,547",
+          "168"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:12.170Z"
+}

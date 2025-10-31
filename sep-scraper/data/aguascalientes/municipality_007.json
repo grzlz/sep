@@ -1,0 +1,604 @@
+{
+  "municipality": "RINCÓN DE ROMOS",
+  "municipalityCode": "007",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: RINCÓN DE ROMOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t16 DE SEPTIEMBRE\n\t\t3\n\t\t98\n\t\t44\n\t\t54\n\t\t5\n\t\n\t\n\t\tCALIFORNIA\n\t\t4\n\t\t440\n\t\t228\n\t\t212\n\t\t18\n\t\n\t\n\t\tEL AJILADERO\n\t\t3\n\t\t23\n\t\t4\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL BAJÍO\n\t\t2\n\t\t289\n\t\t144\n\t\t145\n\t\t9\n\t\n\t\n\t\tEL MILAGRO\n\t\t3\n\t\t124\n\t\t61\n\t\t63\n\t\t6\n\t\n\t\n\t\tEL SALITRILLO\n\t\t2\n\t\t44\n\t\t25\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL SAUCILLO\n\t\t4\n\t\t307\n\t\t154\n\t\t153\n\t\t15\n\t\n\t\n\t\tEL VALLE DE LAS DELICIAS\n\t\t3\n\t\t196\n\t\t91\n\t\t105\n\t\t7\n\t\n\t\n\t\tESTANCIA DE MOSQUEIRA\n\t\t2\n\t\t75\n\t\t40\n\t\t35\n\t\t3\n\t\n\t\n\t\tFRESNILLO\n\t\t1\n\t\t26\n\t\t16\n\t\t10\n\t\t1\n\t\n\t\n\t\tLA BOQUILLA\n\t\t4\n\t\t278\n\t\t135\n\t\t143\n\t\t17\n\t\n\t\n\t\tLAS CAMAS\n\t\t2\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tMAR NEGRO\n\t\t3\n\t\t180\n\t\t79\n\t\t101\n\t\t7\n\t\n\t\n\t\tMORELOS\n\t\t4\n\t\t307\n\t\t156\n\t\t151\n\t\t13\n\t\n\t\n\t\tPABELLÓN DE HIDALGO\n\t\t7\n\t\t1,241\n\t\t598\n\t\t643\n\t\t57\n\t\n\t\n\t\tPABELLÓN DE HIDALGO [EJIDO EX-HACIENDA]\n\t\t2\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tPABLO ESCALERAS\n\t\t7\n\t\t1,043\n\t\t537\n\t\t506\n\t\t40\n\t\n\t\n\t\tPUERTA DEL MUERTO (EL 15)\n\t\t2\n\t\t139\n\t\t76\n\t\t63\n\t\t5\n\t\n\t\n\t\tRINCÓN DE ROMOS\n\t\t49\n\t\t13,157\n\t\t6,711\n\t\t6,446\n\t\t847\n\t\n\t\n\t\tRINCÓN DE ROMOS [ESTACIÓN]\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN JACINTO\n\t\t4\n\t\t782\n\t\t391\n\t\t391\n\t\t40\n\t\n\t\n\t\tSAN JUAN DE LA NATURA\n\t\t3\n\t\t191\n\t\t84\n\t\t107\n\t\t8\n\t\n\t\n\t\tTÚNEL DE POTRERILLO\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t117\n\t\t19,013\n\t\t9,612\n\t\t9,401\n\t\t1,110\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: RINCÓN DE ROMOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "16 DE SEPTIEMBRE",
+          "3",
+          "98",
+          "44",
+          "54",
+          "5",
+          "CALIFORNIA",
+          "4",
+          "440",
+          "228",
+          "212",
+          "18",
+          "EL AJILADERO",
+          "3",
+          "23",
+          "4",
+          "19",
+          "3",
+          "EL BAJÍO",
+          "2",
+          "289",
+          "144",
+          "145",
+          "9",
+          "EL MILAGRO",
+          "3",
+          "124",
+          "61",
+          "63",
+          "6",
+          "EL SALITRILLO",
+          "2",
+          "44",
+          "25",
+          "19",
+          "2",
+          "EL SAUCILLO",
+          "4",
+          "307",
+          "154",
+          "153",
+          "15",
+          "EL VALLE DE LAS DELICIAS",
+          "3",
+          "196",
+          "91",
+          "105",
+          "7",
+          "ESTANCIA DE MOSQUEIRA",
+          "2",
+          "75",
+          "40",
+          "35",
+          "3",
+          "FRESNILLO",
+          "1",
+          "26",
+          "16",
+          "10",
+          "1",
+          "LA BOQUILLA",
+          "4",
+          "278",
+          "135",
+          "143",
+          "17",
+          "LAS CAMAS",
+          "2",
+          "6",
+          "1",
+          "5",
+          "1",
+          "MAR NEGRO",
+          "3",
+          "180",
+          "79",
+          "101",
+          "7",
+          "MORELOS",
+          "4",
+          "307",
+          "156",
+          "151",
+          "13",
+          "PABELLÓN DE HIDALGO",
+          "7",
+          "1,241",
+          "598",
+          "643",
+          "57",
+          "PABELLÓN DE HIDALGO [EJIDO EX-HACIENDA]",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3",
+          "PABLO ESCALERAS",
+          "7",
+          "1,043",
+          "537",
+          "506",
+          "40",
+          "PUERTA DEL MUERTO (EL 15)",
+          "2",
+          "139",
+          "76",
+          "63",
+          "5",
+          "RINCÓN DE ROMOS",
+          "49",
+          "13,157",
+          "6,711",
+          "6,446",
+          "847",
+          "RINCÓN DE ROMOS [ESTACIÓN]",
+          "2",
+          "31",
+          "16",
+          "15",
+          "2",
+          "SAN JACINTO",
+          "4",
+          "782",
+          "391",
+          "391",
+          "40",
+          "SAN JUAN DE LA NATURA",
+          "3",
+          "191",
+          "84",
+          "107",
+          "8",
+          "TÚNEL DE POTRERILLO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "TOTAL",
+          "117",
+          "19,013",
+          "9,612",
+          "9,401",
+          "1,110",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: RINCÓN DE ROMOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "16 DE SEPTIEMBRE",
+          "3",
+          "98",
+          "44",
+          "54",
+          "5"
+        ],
+        [
+          "CALIFORNIA",
+          "4",
+          "440",
+          "228",
+          "212",
+          "18"
+        ],
+        [
+          "EL AJILADERO",
+          "3",
+          "23",
+          "4",
+          "19",
+          "3"
+        ],
+        [
+          "EL BAJÍO",
+          "2",
+          "289",
+          "144",
+          "145",
+          "9"
+        ],
+        [
+          "EL MILAGRO",
+          "3",
+          "124",
+          "61",
+          "63",
+          "6"
+        ],
+        [
+          "EL SALITRILLO",
+          "2",
+          "44",
+          "25",
+          "19",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "4",
+          "307",
+          "154",
+          "153",
+          "15"
+        ],
+        [
+          "EL VALLE DE LAS DELICIAS",
+          "3",
+          "196",
+          "91",
+          "105",
+          "7"
+        ],
+        [
+          "ESTANCIA DE MOSQUEIRA",
+          "2",
+          "75",
+          "40",
+          "35",
+          "3"
+        ],
+        [
+          "FRESNILLO",
+          "1",
+          "26",
+          "16",
+          "10",
+          "1"
+        ],
+        [
+          "LA BOQUILLA",
+          "4",
+          "278",
+          "135",
+          "143",
+          "17"
+        ],
+        [
+          "LAS CAMAS",
+          "2",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "MAR NEGRO",
+          "3",
+          "180",
+          "79",
+          "101",
+          "7"
+        ],
+        [
+          "MORELOS",
+          "4",
+          "307",
+          "156",
+          "151",
+          "13"
+        ],
+        [
+          "PABELLÓN DE HIDALGO",
+          "7",
+          "1,241",
+          "598",
+          "643",
+          "57"
+        ],
+        [
+          "PABELLÓN DE HIDALGO [EJIDO EX-HACIENDA]",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "PABLO ESCALERAS",
+          "7",
+          "1,043",
+          "537",
+          "506",
+          "40"
+        ],
+        [
+          "PUERTA DEL MUERTO (EL 15)",
+          "2",
+          "139",
+          "76",
+          "63",
+          "5"
+        ],
+        [
+          "RINCÓN DE ROMOS",
+          "49",
+          "13,157",
+          "6,711",
+          "6,446",
+          "847"
+        ],
+        [
+          "RINCÓN DE ROMOS [ESTACIÓN]",
+          "2",
+          "31",
+          "16",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JACINTO",
+          "4",
+          "782",
+          "391",
+          "391",
+          "40"
+        ],
+        [
+          "SAN JUAN DE LA NATURA",
+          "3",
+          "191",
+          "84",
+          "107",
+          "8"
+        ],
+        [
+          "TÚNEL DE POTRERILLO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "117",
+          "19,013",
+          "9,612",
+          "9,401",
+          "1,110"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: RINCÓN DE ROMOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "16 DE SEPTIEMBRE",
+          "3",
+          "98",
+          "44",
+          "54",
+          "5"
+        ],
+        [
+          "CALIFORNIA",
+          "4",
+          "440",
+          "228",
+          "212",
+          "18"
+        ],
+        [
+          "EL AJILADERO",
+          "3",
+          "23",
+          "4",
+          "19",
+          "3"
+        ],
+        [
+          "EL BAJÍO",
+          "2",
+          "289",
+          "144",
+          "145",
+          "9"
+        ],
+        [
+          "EL MILAGRO",
+          "3",
+          "124",
+          "61",
+          "63",
+          "6"
+        ],
+        [
+          "EL SALITRILLO",
+          "2",
+          "44",
+          "25",
+          "19",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "4",
+          "307",
+          "154",
+          "153",
+          "15"
+        ],
+        [
+          "EL VALLE DE LAS DELICIAS",
+          "3",
+          "196",
+          "91",
+          "105",
+          "7"
+        ],
+        [
+          "ESTANCIA DE MOSQUEIRA",
+          "2",
+          "75",
+          "40",
+          "35",
+          "3"
+        ],
+        [
+          "FRESNILLO",
+          "1",
+          "26",
+          "16",
+          "10",
+          "1"
+        ],
+        [
+          "LA BOQUILLA",
+          "4",
+          "278",
+          "135",
+          "143",
+          "17"
+        ],
+        [
+          "LAS CAMAS",
+          "2",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "MAR NEGRO",
+          "3",
+          "180",
+          "79",
+          "101",
+          "7"
+        ],
+        [
+          "MORELOS",
+          "4",
+          "307",
+          "156",
+          "151",
+          "13"
+        ],
+        [
+          "PABELLÓN DE HIDALGO",
+          "7",
+          "1,241",
+          "598",
+          "643",
+          "57"
+        ],
+        [
+          "PABELLÓN DE HIDALGO [EJIDO EX-HACIENDA]",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "PABLO ESCALERAS",
+          "7",
+          "1,043",
+          "537",
+          "506",
+          "40"
+        ],
+        [
+          "PUERTA DEL MUERTO (EL 15)",
+          "2",
+          "139",
+          "76",
+          "63",
+          "5"
+        ],
+        [
+          "RINCÓN DE ROMOS",
+          "49",
+          "13,157",
+          "6,711",
+          "6,446",
+          "847"
+        ],
+        [
+          "RINCÓN DE ROMOS [ESTACIÓN]",
+          "2",
+          "31",
+          "16",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JACINTO",
+          "4",
+          "782",
+          "391",
+          "391",
+          "40"
+        ],
+        [
+          "SAN JUAN DE LA NATURA",
+          "3",
+          "191",
+          "84",
+          "107",
+          "8"
+        ],
+        [
+          "TÚNEL DE POTRERILLO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "117",
+          "19,013",
+          "9,612",
+          "9,401",
+          "1,110"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:21.821Z"
+}

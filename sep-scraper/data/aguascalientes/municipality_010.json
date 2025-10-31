@@ -1,0 +1,670 @@
+{
+  "municipality": "EL LLANO",
+  "municipalityCode": "010",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: EL LLANO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tEL COPETILLO\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL COPETILLO (EL MOQUETE)\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL MILAGRO\n\t\t2\n\t\t19\n\t\t12\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL NOVILLO\n\t\t4\n\t\t260\n\t\t118\n\t\t142\n\t\t13\n\t\n\t\n\t\tEL PUERTECITO\n\t\t2\n\t\t37\n\t\t14\n\t\t23\n\t\t2\n\t\n\t\n\t\tEL RETOÑO\n\t\t4\n\t\t1,276\n\t\t577\n\t\t699\n\t\t127\n\t\n\t\n\t\tEL TERREMOTO\n\t\t3\n\t\t94\n\t\t44\n\t\t50\n\t\t8\n\t\n\t\n\t\tEL TILDÍO\n\t\t4\n\t\t223\n\t\t116\n\t\t107\n\t\t11\n\t\n\t\n\t\tFRANCISCO SARABIA (LA REFORMA)\n\t\t3\n\t\t201\n\t\t103\n\t\t98\n\t\t8\n\t\n\t\n\t\tLA FRONTERA\n\t\t3\n\t\t33\n\t\t15\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA LUCITA\n\t\t1\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA LUZ\n\t\t4\n\t\t201\n\t\t100\n\t\t101\n\t\t10\n\t\n\t\n\t\tLA TINAJA\n\t\t4\n\t\t211\n\t\t114\n\t\t97\n\t\t10\n\t\n\t\n\t\tLA UNIÓN (LA PAZ)\n\t\t4\n\t\t81\n\t\t34\n\t\t47\n\t\t4\n\t\n\t\n\t\tLICENCIADO JESÚS TERÁN (EL MUERTO)\n\t\t4\n\t\t358\n\t\t163\n\t\t195\n\t\t15\n\t\n\t\n\t\tLOMAS DEL REFUGIO (LA LOMA)\n\t\t4\n\t\t429\n\t\t217\n\t\t212\n\t\t16\n\t\n\t\n\t\tLOS CONOS\n\t\t2\n\t\t185\n\t\t84\n\t\t101\n\t\t8\n\t\n\t\n\t\tMONTOYA\n\t\t3\n\t\t209\n\t\t106\n\t\t103\n\t\t10\n\t\n\t\n\t\tOJO DE AGUA DE CRUCITAS\n\t\t4\n\t\t358\n\t\t183\n\t\t175\n\t\t16\n\t\n\t\n\t\tPALO ALTO\n\t\t9\n\t\t3,223\n\t\t1,618\n\t\t1,605\n\t\t212\n\t\n\t\n\t\tSAN FRANCISCO DE LOS VIVEROS\n\t\t4\n\t\t256\n\t\t139\n\t\t117\n\t\t11\n\t\n\t\n\t\tSAN GERÓNIMO\n\t\t3\n\t\t37\n\t\t23\n\t\t14\n\t\t3\n\t\n\t\n\t\tSANDOVALES (SAN MIGUEL DE LOS SANDOVALES)\n\t\t2\n\t\t35\n\t\t16\n\t\t19\n\t\t2\n\t\n\t\n\t\tSANTA CLARA (LAS MIELERAS)\n\t\t2\n\t\t101\n\t\t64\n\t\t37\n\t\t4\n\t\n\t\n\t\tSANTA ROSA (EL HUIZACHE)\n\t\t4\n\t\t324\n\t\t165\n\t\t159\n\t\t14\n\t\n\t\n\t\tTANQUE EL COYOTE (EL COYOTE)\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t84\n\t\t8,225\n\t\t4,067\n\t\t4,158\n\t\t516\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: EL LLANO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "EL COPETILLO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "EL COPETILLO (EL MOQUETE)",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2",
+          "EL MILAGRO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2",
+          "EL NOVILLO",
+          "4",
+          "260",
+          "118",
+          "142",
+          "13",
+          "EL PUERTECITO",
+          "2",
+          "37",
+          "14",
+          "23",
+          "2",
+          "EL RETOÑO",
+          "4",
+          "1,276",
+          "577",
+          "699",
+          "127",
+          "EL TERREMOTO",
+          "3",
+          "94",
+          "44",
+          "50",
+          "8",
+          "EL TILDÍO",
+          "4",
+          "223",
+          "116",
+          "107",
+          "11",
+          "FRANCISCO SARABIA (LA REFORMA)",
+          "3",
+          "201",
+          "103",
+          "98",
+          "8",
+          "LA FRONTERA",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3",
+          "LA LUCITA",
+          "1",
+          "18",
+          "10",
+          "8",
+          "2",
+          "LA LUZ",
+          "4",
+          "201",
+          "100",
+          "101",
+          "10",
+          "LA TINAJA",
+          "4",
+          "211",
+          "114",
+          "97",
+          "10",
+          "LA UNIÓN (LA PAZ)",
+          "4",
+          "81",
+          "34",
+          "47",
+          "4",
+          "LICENCIADO JESÚS TERÁN (EL MUERTO)",
+          "4",
+          "358",
+          "163",
+          "195",
+          "15",
+          "LOMAS DEL REFUGIO (LA LOMA)",
+          "4",
+          "429",
+          "217",
+          "212",
+          "16",
+          "LOS CONOS",
+          "2",
+          "185",
+          "84",
+          "101",
+          "8",
+          "MONTOYA",
+          "3",
+          "209",
+          "106",
+          "103",
+          "10",
+          "OJO DE AGUA DE CRUCITAS",
+          "4",
+          "358",
+          "183",
+          "175",
+          "16",
+          "PALO ALTO",
+          "9",
+          "3,223",
+          "1,618",
+          "1,605",
+          "212",
+          "SAN FRANCISCO DE LOS VIVEROS",
+          "4",
+          "256",
+          "139",
+          "117",
+          "11",
+          "SAN GERÓNIMO",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3",
+          "SANDOVALES (SAN MIGUEL DE LOS SANDOVALES)",
+          "2",
+          "35",
+          "16",
+          "19",
+          "2",
+          "SANTA CLARA (LAS MIELERAS)",
+          "2",
+          "101",
+          "64",
+          "37",
+          "4",
+          "SANTA ROSA (EL HUIZACHE)",
+          "4",
+          "324",
+          "165",
+          "159",
+          "14",
+          "TANQUE EL COYOTE (EL COYOTE)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "TOTAL",
+          "84",
+          "8,225",
+          "4,067",
+          "4,158",
+          "516",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: EL LLANO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL COPETILLO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL COPETILLO (EL MOQUETE)",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2"
+        ],
+        [
+          "EL MILAGRO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "EL NOVILLO",
+          "4",
+          "260",
+          "118",
+          "142",
+          "13"
+        ],
+        [
+          "EL PUERTECITO",
+          "2",
+          "37",
+          "14",
+          "23",
+          "2"
+        ],
+        [
+          "EL RETOÑO",
+          "4",
+          "1,276",
+          "577",
+          "699",
+          "127"
+        ],
+        [
+          "EL TERREMOTO",
+          "3",
+          "94",
+          "44",
+          "50",
+          "8"
+        ],
+        [
+          "EL TILDÍO",
+          "4",
+          "223",
+          "116",
+          "107",
+          "11"
+        ],
+        [
+          "FRANCISCO SARABIA (LA REFORMA)",
+          "3",
+          "201",
+          "103",
+          "98",
+          "8"
+        ],
+        [
+          "LA FRONTERA",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "LA LUCITA",
+          "1",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "201",
+          "100",
+          "101",
+          "10"
+        ],
+        [
+          "LA TINAJA",
+          "4",
+          "211",
+          "114",
+          "97",
+          "10"
+        ],
+        [
+          "LA UNIÓN (LA PAZ)",
+          "4",
+          "81",
+          "34",
+          "47",
+          "4"
+        ],
+        [
+          "LICENCIADO JESÚS TERÁN (EL MUERTO)",
+          "4",
+          "358",
+          "163",
+          "195",
+          "15"
+        ],
+        [
+          "LOMAS DEL REFUGIO (LA LOMA)",
+          "4",
+          "429",
+          "217",
+          "212",
+          "16"
+        ],
+        [
+          "LOS CONOS",
+          "2",
+          "185",
+          "84",
+          "101",
+          "8"
+        ],
+        [
+          "MONTOYA",
+          "3",
+          "209",
+          "106",
+          "103",
+          "10"
+        ],
+        [
+          "OJO DE AGUA DE CRUCITAS",
+          "4",
+          "358",
+          "183",
+          "175",
+          "16"
+        ],
+        [
+          "PALO ALTO",
+          "9",
+          "3,223",
+          "1,618",
+          "1,605",
+          "212"
+        ],
+        [
+          "SAN FRANCISCO DE LOS VIVEROS",
+          "4",
+          "256",
+          "139",
+          "117",
+          "11"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "SANDOVALES (SAN MIGUEL DE LOS SANDOVALES)",
+          "2",
+          "35",
+          "16",
+          "19",
+          "2"
+        ],
+        [
+          "SANTA CLARA (LAS MIELERAS)",
+          "2",
+          "101",
+          "64",
+          "37",
+          "4"
+        ],
+        [
+          "SANTA ROSA (EL HUIZACHE)",
+          "4",
+          "324",
+          "165",
+          "159",
+          "14"
+        ],
+        [
+          "TANQUE EL COYOTE (EL COYOTE)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "8,225",
+          "4,067",
+          "4,158",
+          "516"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: EL LLANO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL COPETILLO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL COPETILLO (EL MOQUETE)",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2"
+        ],
+        [
+          "EL MILAGRO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "EL NOVILLO",
+          "4",
+          "260",
+          "118",
+          "142",
+          "13"
+        ],
+        [
+          "EL PUERTECITO",
+          "2",
+          "37",
+          "14",
+          "23",
+          "2"
+        ],
+        [
+          "EL RETOÑO",
+          "4",
+          "1,276",
+          "577",
+          "699",
+          "127"
+        ],
+        [
+          "EL TERREMOTO",
+          "3",
+          "94",
+          "44",
+          "50",
+          "8"
+        ],
+        [
+          "EL TILDÍO",
+          "4",
+          "223",
+          "116",
+          "107",
+          "11"
+        ],
+        [
+          "FRANCISCO SARABIA (LA REFORMA)",
+          "3",
+          "201",
+          "103",
+          "98",
+          "8"
+        ],
+        [
+          "LA FRONTERA",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "LA LUCITA",
+          "1",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "201",
+          "100",
+          "101",
+          "10"
+        ],
+        [
+          "LA TINAJA",
+          "4",
+          "211",
+          "114",
+          "97",
+          "10"
+        ],
+        [
+          "LA UNIÓN (LA PAZ)",
+          "4",
+          "81",
+          "34",
+          "47",
+          "4"
+        ],
+        [
+          "LICENCIADO JESÚS TERÁN (EL MUERTO)",
+          "4",
+          "358",
+          "163",
+          "195",
+          "15"
+        ],
+        [
+          "LOMAS DEL REFUGIO (LA LOMA)",
+          "4",
+          "429",
+          "217",
+          "212",
+          "16"
+        ],
+        [
+          "LOS CONOS",
+          "2",
+          "185",
+          "84",
+          "101",
+          "8"
+        ],
+        [
+          "MONTOYA",
+          "3",
+          "209",
+          "106",
+          "103",
+          "10"
+        ],
+        [
+          "OJO DE AGUA DE CRUCITAS",
+          "4",
+          "358",
+          "183",
+          "175",
+          "16"
+        ],
+        [
+          "PALO ALTO",
+          "9",
+          "3,223",
+          "1,618",
+          "1,605",
+          "212"
+        ],
+        [
+          "SAN FRANCISCO DE LOS VIVEROS",
+          "4",
+          "256",
+          "139",
+          "117",
+          "11"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "SANDOVALES (SAN MIGUEL DE LOS SANDOVALES)",
+          "2",
+          "35",
+          "16",
+          "19",
+          "2"
+        ],
+        [
+          "SANTA CLARA (LAS MIELERAS)",
+          "2",
+          "101",
+          "64",
+          "37",
+          "4"
+        ],
+        [
+          "SANTA ROSA (EL HUIZACHE)",
+          "4",
+          "324",
+          "165",
+          "159",
+          "14"
+        ],
+        [
+          "TANQUE EL COYOTE (EL COYOTE)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "8,225",
+          "4,067",
+          "4,158",
+          "516"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:58.642Z"
+}

@@ -1,0 +1,1066 @@
+{
+  "municipality": "GUANACEVÍ",
+  "municipalityCode": "009",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUANACEVÍ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA CALIENTE\n\t\t2\n\t\t45\n\t\t23\n\t\t22\n\t\t3\n\t\n\t\n\t\tARROYO DE LAJAS (LAJAS)\n\t\t3\n\t\t156\n\t\t71\n\t\t85\n\t\t11\n\t\n\t\n\t\tARROYO DEL HACHO (LA CRUZ)\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tBIOGAME\n\t\t3\n\t\t22\n\t\t13\n\t\t9\n\t\t3\n\t\n\t\n\t\tBOLERAS\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tCEBOLLAS\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tCENDRADILLAS\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tCHIQUEROS\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tCIÉNEGA DE LA VACA\n\t\t3\n\t\t51\n\t\t26\n\t\t25\n\t\t4\n\t\n\t\n\t\tCIÉNEGA DE QUELITES (QUELITES)\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tCIÉNEGA PRIETA\n\t\t3\n\t\t48\n\t\t31\n\t\t17\n\t\t3\n\t\n\t\n\t\tCOSCOMATE\n\t\t2\n\t\t30\n\t\t8\n\t\t22\n\t\t3\n\t\n\t\n\t\tEL ALAMILLO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL BARRO\n\t\t2\n\t\t23\n\t\t10\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL CEBOLLÍN\n\t\t2\n\t\t30\n\t\t13\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL CEDRO\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CÓCONO\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL PALOMO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL POTRERO VIEJO\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL SALITRE\n\t\t2\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL ZAPE\n\t\t3\n\t\t88\n\t\t41\n\t\t47\n\t\t9\n\t\n\t\n\t\tEL ZORRILLO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tESCOBAR Y ANEXOS\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tGUANACEVÍ\n\t\t6\n\t\t1,292\n\t\t667\n\t\t625\n\t\t62\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS\n\t\t3\n\t\t48\n\t\t23\n\t\t25\n\t\t4\n\t\n\t\n\t\tLA LAGUNITA\n\t\t3\n\t\t35\n\t\t15\n\t\t20\n\t\t3\n\t\n\t\n\t\tLA QUEBRADA\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA ROSILLA\n\t\t4\n\t\t94\n\t\t54\n\t\t40\n\t\t6\n\t\n\t\n\t\tLAGUNA SECA (LAS MANGAS)\n\t\t3\n\t\t21\n\t\t6\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAJAS\n\t\t1\n\t\t56\n\t\t35\n\t\t21\n\t\t3\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t2\n\t\t10\n\t\t9\n\t\t1\n\t\t2\n\t\n\t\n\t\tLAS POMAS\n\t\t3\n\t\t40\n\t\t25\n\t\t15\n\t\t3\n\t\n\t\n\t\tLLANO GRANDE\n\t\t1\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tLOS NOPALES\n\t\t1\n\t\t14\n\t\t9\n\t\t5\n\t\t1\n\t\n\t\n\t\tPIEDRA BOLA\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tPOSTA DE JIHUITES\n\t\t3\n\t\t32\n\t\t12\n\t\t20\n\t\t4\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tRINCÓN DEL BAJÍO (RINCÓN DE CEBOLLAS)\n\t\t3\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tSALSIPUEDES\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN FRANCISCO DE LOS CANO\n\t\t3\n\t\t47\n\t\t19\n\t\t28\n\t\t4\n\t\n\t\n\t\tSAN FRANCISCO DE LOS REMEDIOS (LAS PINTAS)\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN PEDRO\n\t\t3\n\t\t40\n\t\t19\n\t\t21\n\t\t4\n\t\n\t\n\t\tZAPE CHICO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t96\n\t\t2,481\n\t\t1,254\n\t\t1,227\n\t\t172\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUANACEVÍ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA CALIENTE",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3",
+          "ARROYO DE LAJAS (LAJAS)",
+          "3",
+          "156",
+          "71",
+          "85",
+          "11",
+          "ARROYO DEL HACHO (LA CRUZ)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "BIOGAME",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3",
+          "BOLERAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "CEBOLLAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "CENDRADILLAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "CHIQUEROS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "CIÉNEGA DE LA VACA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "4",
+          "CIÉNEGA DE QUELITES (QUELITES)",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1",
+          "CIÉNEGA PRIETA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "3",
+          "COSCOMATE",
+          "2",
+          "30",
+          "8",
+          "22",
+          "3",
+          "EL ALAMILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL BARRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2",
+          "EL CEBOLLÍN",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2",
+          "EL CEDRO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2",
+          "EL CÓCONO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "EL PALOMO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL POTRERO VIEJO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1",
+          "EL SALITRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2",
+          "EL ZAPE",
+          "3",
+          "88",
+          "41",
+          "47",
+          "9",
+          "EL ZORRILLO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "ESCOBAR Y ANEXOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "GUANACEVÍ",
+          "6",
+          "1,292",
+          "667",
+          "625",
+          "62",
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4",
+          "LA LAGUNITA",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3",
+          "LA QUEBRADA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1",
+          "LA ROSILLA",
+          "4",
+          "94",
+          "54",
+          "40",
+          "6",
+          "LAGUNA SECA (LAS MANGAS)",
+          "3",
+          "21",
+          "6",
+          "15",
+          "3",
+          "LAJAS",
+          "1",
+          "56",
+          "35",
+          "21",
+          "3",
+          "LAS ADJUNTAS",
+          "2",
+          "10",
+          "9",
+          "1",
+          "2",
+          "LAS POMAS",
+          "3",
+          "40",
+          "25",
+          "15",
+          "3",
+          "LLANO GRANDE",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2",
+          "LOS NOPALES",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1",
+          "PIEDRA BOLA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "POSTA DE JIHUITES",
+          "3",
+          "32",
+          "12",
+          "20",
+          "4",
+          "RANCHO NUEVO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2",
+          "RINCÓN DEL BAJÍO (RINCÓN DE CEBOLLAS)",
+          "3",
+          "9",
+          "3",
+          "6",
+          "2",
+          "SALSIPUEDES",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2",
+          "SAN FRANCISCO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "SAN FRANCISCO DE LOS CANO",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4",
+          "SAN FRANCISCO DE LOS REMEDIOS (LAS PINTAS)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2",
+          "SAN PEDRO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4",
+          "ZAPE CHICO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "TOTAL",
+          "96",
+          "2,481",
+          "1,254",
+          "1,227",
+          "172",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUANACEVÍ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3"
+        ],
+        [
+          "ARROYO DE LAJAS (LAJAS)",
+          "3",
+          "156",
+          "71",
+          "85",
+          "11"
+        ],
+        [
+          "ARROYO DEL HACHO (LA CRUZ)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "BIOGAME",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "BOLERAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "CEBOLLAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CENDRADILLAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "CHIQUEROS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE LA VACA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "4"
+        ],
+        [
+          "CIÉNEGA DE QUELITES (QUELITES)",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CIÉNEGA PRIETA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "3"
+        ],
+        [
+          "COSCOMATE",
+          "2",
+          "30",
+          "8",
+          "22",
+          "3"
+        ],
+        [
+          "EL ALAMILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL BARRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "EL CEBOLLÍN",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "EL CEDRO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL CÓCONO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL PALOMO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL POTRERO VIEJO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EL ZAPE",
+          "3",
+          "88",
+          "41",
+          "47",
+          "9"
+        ],
+        [
+          "EL ZORRILLO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ESCOBAR Y ANEXOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "GUANACEVÍ",
+          "6",
+          "1,292",
+          "667",
+          "625",
+          "62"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "LA QUEBRADA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA ROSILLA",
+          "4",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "LAGUNA SECA (LAS MANGAS)",
+          "3",
+          "21",
+          "6",
+          "15",
+          "3"
+        ],
+        [
+          "LAJAS",
+          "1",
+          "56",
+          "35",
+          "21",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "10",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "LAS POMAS",
+          "3",
+          "40",
+          "25",
+          "15",
+          "3"
+        ],
+        [
+          "LLANO GRANDE",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LOS NOPALES",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "PIEDRA BOLA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POSTA DE JIHUITES",
+          "3",
+          "32",
+          "12",
+          "20",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "RINCÓN DEL BAJÍO (RINCÓN DE CEBOLLAS)",
+          "3",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "SALSIPUEDES",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO DE LOS CANO",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO DE LOS REMEDIOS (LAS PINTAS)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "ZAPE CHICO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "2,481",
+          "1,254",
+          "1,227",
+          "172"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUANACEVÍ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3"
+        ],
+        [
+          "ARROYO DE LAJAS (LAJAS)",
+          "3",
+          "156",
+          "71",
+          "85",
+          "11"
+        ],
+        [
+          "ARROYO DEL HACHO (LA CRUZ)",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "BIOGAME",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "BOLERAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "CEBOLLAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CENDRADILLAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "CHIQUEROS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE LA VACA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "4"
+        ],
+        [
+          "CIÉNEGA DE QUELITES (QUELITES)",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CIÉNEGA PRIETA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "3"
+        ],
+        [
+          "COSCOMATE",
+          "2",
+          "30",
+          "8",
+          "22",
+          "3"
+        ],
+        [
+          "EL ALAMILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL BARRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "EL CEBOLLÍN",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "EL CEDRO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL CÓCONO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL PALOMO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL POTRERO VIEJO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EL ZAPE",
+          "3",
+          "88",
+          "41",
+          "47",
+          "9"
+        ],
+        [
+          "EL ZORRILLO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ESCOBAR Y ANEXOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "GUANACEVÍ",
+          "6",
+          "1,292",
+          "667",
+          "625",
+          "62"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "LA QUEBRADA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA ROSILLA",
+          "4",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "LAGUNA SECA (LAS MANGAS)",
+          "3",
+          "21",
+          "6",
+          "15",
+          "3"
+        ],
+        [
+          "LAJAS",
+          "1",
+          "56",
+          "35",
+          "21",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "10",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "LAS POMAS",
+          "3",
+          "40",
+          "25",
+          "15",
+          "3"
+        ],
+        [
+          "LLANO GRANDE",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LOS NOPALES",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "PIEDRA BOLA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POSTA DE JIHUITES",
+          "3",
+          "32",
+          "12",
+          "20",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "RINCÓN DEL BAJÍO (RINCÓN DE CEBOLLAS)",
+          "3",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "SALSIPUEDES",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO DE LOS CANO",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO DE LOS REMEDIOS (LAS PINTAS)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "ZAPE CHICO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "2,481",
+          "1,254",
+          "1,227",
+          "172"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:22.428Z"
+}

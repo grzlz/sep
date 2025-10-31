@@ -1,0 +1,692 @@
+{
+  "municipality": "EZEQUIEL MONTES",
+  "municipalityCode": "007",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EZEQUIEL MONTES\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALFREDO V. BONFIL (LOS PÉREZ)\n\t\t1\n\t\t132\n\t\t63\n\t\t69\n\t\t6\n\t\n\t\n\t\tBARRERAS\n\t\t2\n\t\t63\n\t\t29\n\t\t34\n\t\t4\n\t\n\t\n\t\tBERNAL\n\t\t6\n\t\t1,326\n\t\t670\n\t\t656\n\t\t63\n\t\n\t\n\t\tEJIDO LOS PÉREZ\n\t\t1\n\t\t38\n\t\t16\n\t\t22\n\t\t2\n\t\n\t\n\t\tEL BONDOTAL\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL CARDONAL (LA TIJERA)\n\t\t2\n\t\t83\n\t\t35\n\t\t48\n\t\t4\n\t\n\t\n\t\tEL CIERVO\n\t\t3\n\t\t372\n\t\t185\n\t\t187\n\t\t12\n\t\n\t\n\t\tEL COYOTE\n\t\t2\n\t\t25\n\t\t10\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL JAGÜEY GRANDE\n\t\t2\n\t\t142\n\t\t68\n\t\t74\n\t\t5\n\t\n\t\n\t\tEZEQUIEL MONTES\n\t\t26\n\t\t4,248\n\t\t2,121\n\t\t2,127\n\t\t208\n\t\n\t\n\t\tGUANAJUATITO\n\t\t2\n\t\t63\n\t\t30\n\t\t33\n\t\t3\n\t\n\t\n\t\tLA NUEVA UNIDAD\n\t\t2\n\t\t251\n\t\t126\n\t\t125\n\t\t8\n\t\n\t\n\t\tLA PROVIDENCIA (LAS NORBERTAS)\n\t\t1\n\t\t60\n\t\t26\n\t\t34\n\t\t2\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t7\n\t\t1,651\n\t\t876\n\t\t775\n\t\t104\n\t\n\t\n\t\tLAS ROSAS\n\t\t2\n\t\t37\n\t\t11\n\t\t26\n\t\t3\n\t\n\t\n\t\tLOBERAS\n\t\t3\n\t\t54\n\t\t31\n\t\t23\n\t\t3\n\t\n\t\n\t\tLOS RAMÍREZ\n\t\t3\n\t\t55\n\t\t28\n\t\t27\n\t\t4\n\t\n\t\n\t\tLOS SÁNCHEZ\n\t\t2\n\t\t50\n\t\t31\n\t\t19\n\t\t3\n\t\n\t\n\t\tPALO SECO\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t2\n\t\n\t\n\t\tPIEDRAS NEGRAS\n\t\t2\n\t\t95\n\t\t49\n\t\t46\n\t\t5\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t54\n\t\t26\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LOS TREJO (LAS ADELITAS)\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL JAGÜEY\n\t\t3\n\t\t375\n\t\t194\n\t\t181\n\t\t15\n\t\n\t\n\t\tSOMBRERETE\n\t\t2\n\t\t26\n\t\t18\n\t\t8\n\t\t2\n\t\n\t\n\t\tTUNAS BLANCAS\n\t\t2\n\t\t141\n\t\t74\n\t\t67\n\t\t5\n\t\n\t\n\t\tVILLA NUEVA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tVILLA PROGRESO\n\t\t10\n\t\t2,393\n\t\t1,221\n\t\t1,172\n\t\t114\n\t\n\t\n\t\tTOTAL\n\t\t95\n\t\t11,857\n\t\t6,001\n\t\t5,856\n\t\t588\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EZEQUIEL MONTES",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALFREDO V. BONFIL (LOS PÉREZ)",
+          "1",
+          "132",
+          "63",
+          "69",
+          "6",
+          "BARRERAS",
+          "2",
+          "63",
+          "29",
+          "34",
+          "4",
+          "BERNAL",
+          "6",
+          "1,326",
+          "670",
+          "656",
+          "63",
+          "EJIDO LOS PÉREZ",
+          "1",
+          "38",
+          "16",
+          "22",
+          "2",
+          "EL BONDOTAL",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3",
+          "EL CARDONAL (LA TIJERA)",
+          "2",
+          "83",
+          "35",
+          "48",
+          "4",
+          "EL CIERVO",
+          "3",
+          "372",
+          "185",
+          "187",
+          "12",
+          "EL COYOTE",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2",
+          "EL JAGÜEY GRANDE",
+          "2",
+          "142",
+          "68",
+          "74",
+          "5",
+          "EZEQUIEL MONTES",
+          "26",
+          "4,248",
+          "2,121",
+          "2,127",
+          "208",
+          "GUANAJUATITO",
+          "2",
+          "63",
+          "30",
+          "33",
+          "3",
+          "LA NUEVA UNIDAD",
+          "2",
+          "251",
+          "126",
+          "125",
+          "8",
+          "LA PROVIDENCIA (LAS NORBERTAS)",
+          "1",
+          "60",
+          "26",
+          "34",
+          "2",
+          "LA PURÍSIMA",
+          "7",
+          "1,651",
+          "876",
+          "775",
+          "104",
+          "LAS ROSAS",
+          "2",
+          "37",
+          "11",
+          "26",
+          "3",
+          "LOBERAS",
+          "3",
+          "54",
+          "31",
+          "23",
+          "3",
+          "LOS RAMÍREZ",
+          "3",
+          "55",
+          "28",
+          "27",
+          "4",
+          "LOS SÁNCHEZ",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3",
+          "PALO SECO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2",
+          "PIEDRAS NEGRAS",
+          "2",
+          "95",
+          "49",
+          "46",
+          "5",
+          "SAN ANTONIO",
+          "2",
+          "54",
+          "26",
+          "28",
+          "3",
+          "SAN JOSÉ DE LOS TREJO (LAS ADELITAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2",
+          "SAN JOSÉ DEL JAGÜEY",
+          "3",
+          "375",
+          "194",
+          "181",
+          "15",
+          "SOMBRERETE",
+          "2",
+          "26",
+          "18",
+          "8",
+          "2",
+          "TUNAS BLANCAS",
+          "2",
+          "141",
+          "74",
+          "67",
+          "5",
+          "VILLA NUEVA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "VILLA PROGRESO",
+          "10",
+          "2,393",
+          "1,221",
+          "1,172",
+          "114",
+          "TOTAL",
+          "95",
+          "11,857",
+          "6,001",
+          "5,856",
+          "588",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EZEQUIEL MONTES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL (LOS PÉREZ)",
+          "1",
+          "132",
+          "63",
+          "69",
+          "6"
+        ],
+        [
+          "BARRERAS",
+          "2",
+          "63",
+          "29",
+          "34",
+          "4"
+        ],
+        [
+          "BERNAL",
+          "6",
+          "1,326",
+          "670",
+          "656",
+          "63"
+        ],
+        [
+          "EJIDO LOS PÉREZ",
+          "1",
+          "38",
+          "16",
+          "22",
+          "2"
+        ],
+        [
+          "EL BONDOTAL",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "EL CARDONAL (LA TIJERA)",
+          "2",
+          "83",
+          "35",
+          "48",
+          "4"
+        ],
+        [
+          "EL CIERVO",
+          "3",
+          "372",
+          "185",
+          "187",
+          "12"
+        ],
+        [
+          "EL COYOTE",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL JAGÜEY GRANDE",
+          "2",
+          "142",
+          "68",
+          "74",
+          "5"
+        ],
+        [
+          "EZEQUIEL MONTES",
+          "26",
+          "4,248",
+          "2,121",
+          "2,127",
+          "208"
+        ],
+        [
+          "GUANAJUATITO",
+          "2",
+          "63",
+          "30",
+          "33",
+          "3"
+        ],
+        [
+          "LA NUEVA UNIDAD",
+          "2",
+          "251",
+          "126",
+          "125",
+          "8"
+        ],
+        [
+          "LA PROVIDENCIA (LAS NORBERTAS)",
+          "1",
+          "60",
+          "26",
+          "34",
+          "2"
+        ],
+        [
+          "LA PURÍSIMA",
+          "7",
+          "1,651",
+          "876",
+          "775",
+          "104"
+        ],
+        [
+          "LAS ROSAS",
+          "2",
+          "37",
+          "11",
+          "26",
+          "3"
+        ],
+        [
+          "LOBERAS",
+          "3",
+          "54",
+          "31",
+          "23",
+          "3"
+        ],
+        [
+          "LOS RAMÍREZ",
+          "3",
+          "55",
+          "28",
+          "27",
+          "4"
+        ],
+        [
+          "LOS SÁNCHEZ",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3"
+        ],
+        [
+          "PALO SECO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "95",
+          "49",
+          "46",
+          "5"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "54",
+          "26",
+          "28",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LOS TREJO (LAS ADELITAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL JAGÜEY",
+          "3",
+          "375",
+          "194",
+          "181",
+          "15"
+        ],
+        [
+          "SOMBRERETE",
+          "2",
+          "26",
+          "18",
+          "8",
+          "2"
+        ],
+        [
+          "TUNAS BLANCAS",
+          "2",
+          "141",
+          "74",
+          "67",
+          "5"
+        ],
+        [
+          "VILLA NUEVA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "VILLA PROGRESO",
+          "10",
+          "2,393",
+          "1,221",
+          "1,172",
+          "114"
+        ],
+        [
+          "TOTAL",
+          "95",
+          "11,857",
+          "6,001",
+          "5,856",
+          "588"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EZEQUIEL MONTES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL (LOS PÉREZ)",
+          "1",
+          "132",
+          "63",
+          "69",
+          "6"
+        ],
+        [
+          "BARRERAS",
+          "2",
+          "63",
+          "29",
+          "34",
+          "4"
+        ],
+        [
+          "BERNAL",
+          "6",
+          "1,326",
+          "670",
+          "656",
+          "63"
+        ],
+        [
+          "EJIDO LOS PÉREZ",
+          "1",
+          "38",
+          "16",
+          "22",
+          "2"
+        ],
+        [
+          "EL BONDOTAL",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "EL CARDONAL (LA TIJERA)",
+          "2",
+          "83",
+          "35",
+          "48",
+          "4"
+        ],
+        [
+          "EL CIERVO",
+          "3",
+          "372",
+          "185",
+          "187",
+          "12"
+        ],
+        [
+          "EL COYOTE",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL JAGÜEY GRANDE",
+          "2",
+          "142",
+          "68",
+          "74",
+          "5"
+        ],
+        [
+          "EZEQUIEL MONTES",
+          "26",
+          "4,248",
+          "2,121",
+          "2,127",
+          "208"
+        ],
+        [
+          "GUANAJUATITO",
+          "2",
+          "63",
+          "30",
+          "33",
+          "3"
+        ],
+        [
+          "LA NUEVA UNIDAD",
+          "2",
+          "251",
+          "126",
+          "125",
+          "8"
+        ],
+        [
+          "LA PROVIDENCIA (LAS NORBERTAS)",
+          "1",
+          "60",
+          "26",
+          "34",
+          "2"
+        ],
+        [
+          "LA PURÍSIMA",
+          "7",
+          "1,651",
+          "876",
+          "775",
+          "104"
+        ],
+        [
+          "LAS ROSAS",
+          "2",
+          "37",
+          "11",
+          "26",
+          "3"
+        ],
+        [
+          "LOBERAS",
+          "3",
+          "54",
+          "31",
+          "23",
+          "3"
+        ],
+        [
+          "LOS RAMÍREZ",
+          "3",
+          "55",
+          "28",
+          "27",
+          "4"
+        ],
+        [
+          "LOS SÁNCHEZ",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3"
+        ],
+        [
+          "PALO SECO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "95",
+          "49",
+          "46",
+          "5"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "54",
+          "26",
+          "28",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LOS TREJO (LAS ADELITAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL JAGÜEY",
+          "3",
+          "375",
+          "194",
+          "181",
+          "15"
+        ],
+        [
+          "SOMBRERETE",
+          "2",
+          "26",
+          "18",
+          "8",
+          "2"
+        ],
+        [
+          "TUNAS BLANCAS",
+          "2",
+          "141",
+          "74",
+          "67",
+          "5"
+        ],
+        [
+          "VILLA NUEVA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "VILLA PROGRESO",
+          "10",
+          "2,393",
+          "1,221",
+          "1,172",
+          "114"
+        ],
+        [
+          "TOTAL",
+          "95",
+          "11,857",
+          "6,001",
+          "5,856",
+          "588"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:42.179Z"
+}

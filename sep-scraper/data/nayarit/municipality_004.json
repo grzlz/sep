@@ -1,0 +1,1066 @@
+{
+  "municipality": "COMPOSTELA",
+  "municipalityCode": "004",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: COMPOSTELA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTAVISTA\n\t\t3\n\t\t93\n\t\t50\n\t\t43\n\t\t6\n\t\n\t\n\t\tBUENAVISTA\n\t\t2\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tCÁNDIDO SALAZAR\n\t\t4\n\t\t127\n\t\t63\n\t\t64\n\t\t9\n\t\n\t\n\t\tCHACALA\n\t\t5\n\t\t89\n\t\t42\n\t\t47\n\t\t15\n\t\n\t\n\t\tCHULAVISTA\n\t\t1\n\t\t48\n\t\t23\n\t\t25\n\t\t3\n\t\n\t\n\t\tCOASTECOMATILLO\n\t\t3\n\t\t28\n\t\t12\n\t\t16\n\t\t3\n\t\n\t\n\t\tCOMPOSTELA\n\t\t33\n\t\t5,500\n\t\t2,788\n\t\t2,712\n\t\t331\n\t\n\t\n\t\tCUMBRES DE HUICICILA\n\t\t5\n\t\t120\n\t\t59\n\t\t61\n\t\t11\n\t\n\t\n\t\tEL CAPOMO\n\t\t3\n\t\t189\n\t\t100\n\t\t89\n\t\t15\n\t\n\t\n\t\tEL DIVISADERO\n\t\t3\n\t\t38\n\t\t14\n\t\t24\n\t\t4\n\t\n\t\n\t\tEL PARANAL (AROCHA)\n\t\t3\n\t\t95\n\t\t51\n\t\t44\n\t\t7\n\t\n\t\n\t\tEL REFILIÓN\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL SALITRE\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL TAMARINDO\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL TONINO\n\t\t2\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL TONINO [BLOQUERA]\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO\n\t\t3\n\t\t195\n\t\t93\n\t\t102\n\t\t16\n\t\n\t\n\t\tIXTAPA DE LA CONCEPCIÓN\n\t\t3\n\t\t216\n\t\t108\n\t\t108\n\t\t22\n\t\n\t\n\t\tJUAN ESCUTIA (BORBOLLÓN)\n\t\t3\n\t\t177\n\t\t86\n\t\t91\n\t\t15\n\t\n\t\n\t\tLA CUATA\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA JOYA\n\t\t1\n\t\t65\n\t\t27\n\t\t38\n\t\t3\n\t\n\t\n\t\tLA PEÑITA DE JALTEMBA\n\t\t29\n\t\t4,513\n\t\t2,251\n\t\t2,262\n\t\t238\n\t\n\t\n\t\tLA PUERTA DE LA LIMA\n\t\t2\n\t\t92\n\t\t41\n\t\t51\n\t\t6\n\t\n\t\n\t\tLAS COLORADAS\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS PIEDRAS\n\t\t3\n\t\t153\n\t\t81\n\t\t72\n\t\t9\n\t\n\t\n\t\tLAS VARAS\n\t\t26\n\t\t3,985\n\t\t2,064\n\t\t1,921\n\t\t276\n\t\n\t\n\t\tLIMA DE ABAJO\n\t\t4\n\t\t267\n\t\t133\n\t\t134\n\t\t17\n\t\n\t\n\t\tLOS AYALA\n\t\t2\n\t\t149\n\t\t63\n\t\t86\n\t\t6\n\t\n\t\n\t\tMAZATÁN\n\t\t4\n\t\t235\n\t\t107\n\t\t128\n\t\t16\n\t\n\t\n\t\tMESILLAS\n\t\t3\n\t\t46\n\t\t20\n\t\t26\n\t\t4\n\t\n\t\n\t\tMIRAVALLES\n\t\t3\n\t\t160\n\t\t80\n\t\t80\n\t\t10\n\t\n\t\n\t\tMONTEÓN\n\t\t3\n\t\t502\n\t\t251\n\t\t251\n\t\t29\n\t\n\t\n\t\tNUEVO IXTLÁN (LAS CAÑADAS)\n\t\t3\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tOTATES Y CANTARRANAS\n\t\t4\n\t\t180\n\t\t91\n\t\t89\n\t\t13\n\t\n\t\n\t\tPASO DE LAS PALMAS\n\t\t3\n\t\t177\n\t\t79\n\t\t98\n\t\t10\n\t\n\t\n\t\tRESERVA NATURAL DEL PALMAR (EL SUSPIRO) [COLONIA]\n\t\t2\n\t\t13\n\t\t10\n\t\t3\n\t\t1\n\t\n\t\n\t\tRINCÓN DE GUAYABITOS\n\t\t3\n\t\t362\n\t\t201\n\t\t161\n\t\t15\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t20\n\t\t13\n\t\t7\n\t\t2\n\t\n\t\n\t\tTEPIQUEÑOS\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tÚRSULO GALVÁN\n\t\t3\n\t\t147\n\t\t60\n\t\t87\n\t\t9\n\t\n\t\n\t\tVILLA MORELOS\n\t\t3\n\t\t127\n\t\t62\n\t\t65\n\t\t7\n\t\n\t\n\t\tVIZCARRA\n\t\t2\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tZACUALPAN\n\t\t9\n\t\t1,096\n\t\t544\n\t\t552\n\t\t82\n\t\n\t\n\t\tZAPOTÁN\n\t\t4\n\t\t267\n\t\t138\n\t\t129\n\t\t16\n\t\n\t\n\t\tTOTAL\n\t\t206\n\t\t19,675\n\t\t9,900\n\t\t9,775\n\t\t1,247\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: COMPOSTELA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTAVISTA",
+          "3",
+          "93",
+          "50",
+          "43",
+          "6",
+          "BUENAVISTA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2",
+          "CÁNDIDO SALAZAR",
+          "4",
+          "127",
+          "63",
+          "64",
+          "9",
+          "CHACALA",
+          "5",
+          "89",
+          "42",
+          "47",
+          "15",
+          "CHULAVISTA",
+          "1",
+          "48",
+          "23",
+          "25",
+          "3",
+          "COASTECOMATILLO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3",
+          "COMPOSTELA",
+          "33",
+          "5,500",
+          "2,788",
+          "2,712",
+          "331",
+          "CUMBRES DE HUICICILA",
+          "5",
+          "120",
+          "59",
+          "61",
+          "11",
+          "EL CAPOMO",
+          "3",
+          "189",
+          "100",
+          "89",
+          "15",
+          "EL DIVISADERO",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4",
+          "EL PARANAL (AROCHA)",
+          "3",
+          "95",
+          "51",
+          "44",
+          "7",
+          "EL REFILIÓN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "EL SALITRE",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1",
+          "EL TAMARINDO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3",
+          "EL TONINO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2",
+          "EL TONINO [BLOQUERA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "FELIPE CARRILLO PUERTO",
+          "3",
+          "195",
+          "93",
+          "102",
+          "16",
+          "IXTAPA DE LA CONCEPCIÓN",
+          "3",
+          "216",
+          "108",
+          "108",
+          "22",
+          "JUAN ESCUTIA (BORBOLLÓN)",
+          "3",
+          "177",
+          "86",
+          "91",
+          "15",
+          "LA CUATA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "LA JOYA",
+          "1",
+          "65",
+          "27",
+          "38",
+          "3",
+          "LA PEÑITA DE JALTEMBA",
+          "29",
+          "4,513",
+          "2,251",
+          "2,262",
+          "238",
+          "LA PUERTA DE LA LIMA",
+          "2",
+          "92",
+          "41",
+          "51",
+          "6",
+          "LAS COLORADAS",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LAS PIEDRAS",
+          "3",
+          "153",
+          "81",
+          "72",
+          "9",
+          "LAS VARAS",
+          "26",
+          "3,985",
+          "2,064",
+          "1,921",
+          "276",
+          "LIMA DE ABAJO",
+          "4",
+          "267",
+          "133",
+          "134",
+          "17",
+          "LOS AYALA",
+          "2",
+          "149",
+          "63",
+          "86",
+          "6",
+          "MAZATÁN",
+          "4",
+          "235",
+          "107",
+          "128",
+          "16",
+          "MESILLAS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "4",
+          "MIRAVALLES",
+          "3",
+          "160",
+          "80",
+          "80",
+          "10",
+          "MONTEÓN",
+          "3",
+          "502",
+          "251",
+          "251",
+          "29",
+          "NUEVO IXTLÁN (LAS CAÑADAS)",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3",
+          "OTATES Y CANTARRANAS",
+          "4",
+          "180",
+          "91",
+          "89",
+          "13",
+          "PASO DE LAS PALMAS",
+          "3",
+          "177",
+          "79",
+          "98",
+          "10",
+          "RESERVA NATURAL DEL PALMAR (EL SUSPIRO) [COLONIA]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "1",
+          "RINCÓN DE GUAYABITOS",
+          "3",
+          "362",
+          "201",
+          "161",
+          "15",
+          "SAN ISIDRO",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2",
+          "TEPIQUEÑOS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "ÚRSULO GALVÁN",
+          "3",
+          "147",
+          "60",
+          "87",
+          "9",
+          "VILLA MORELOS",
+          "3",
+          "127",
+          "62",
+          "65",
+          "7",
+          "VIZCARRA",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3",
+          "ZACUALPAN",
+          "9",
+          "1,096",
+          "544",
+          "552",
+          "82",
+          "ZAPOTÁN",
+          "4",
+          "267",
+          "138",
+          "129",
+          "16",
+          "TOTAL",
+          "206",
+          "19,675",
+          "9,900",
+          "9,775",
+          "1,247",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: COMPOSTELA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAVISTA",
+          "3",
+          "93",
+          "50",
+          "43",
+          "6"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "CÁNDIDO SALAZAR",
+          "4",
+          "127",
+          "63",
+          "64",
+          "9"
+        ],
+        [
+          "CHACALA",
+          "5",
+          "89",
+          "42",
+          "47",
+          "15"
+        ],
+        [
+          "CHULAVISTA",
+          "1",
+          "48",
+          "23",
+          "25",
+          "3"
+        ],
+        [
+          "COASTECOMATILLO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "COMPOSTELA",
+          "33",
+          "5,500",
+          "2,788",
+          "2,712",
+          "331"
+        ],
+        [
+          "CUMBRES DE HUICICILA",
+          "5",
+          "120",
+          "59",
+          "61",
+          "11"
+        ],
+        [
+          "EL CAPOMO",
+          "3",
+          "189",
+          "100",
+          "89",
+          "15"
+        ],
+        [
+          "EL DIVISADERO",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4"
+        ],
+        [
+          "EL PARANAL (AROCHA)",
+          "3",
+          "95",
+          "51",
+          "44",
+          "7"
+        ],
+        [
+          "EL REFILIÓN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL TAMARINDO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "EL TONINO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "EL TONINO [BLOQUERA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "3",
+          "195",
+          "93",
+          "102",
+          "16"
+        ],
+        [
+          "IXTAPA DE LA CONCEPCIÓN",
+          "3",
+          "216",
+          "108",
+          "108",
+          "22"
+        ],
+        [
+          "JUAN ESCUTIA (BORBOLLÓN)",
+          "3",
+          "177",
+          "86",
+          "91",
+          "15"
+        ],
+        [
+          "LA CUATA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "65",
+          "27",
+          "38",
+          "3"
+        ],
+        [
+          "LA PEÑITA DE JALTEMBA",
+          "29",
+          "4,513",
+          "2,251",
+          "2,262",
+          "238"
+        ],
+        [
+          "LA PUERTA DE LA LIMA",
+          "2",
+          "92",
+          "41",
+          "51",
+          "6"
+        ],
+        [
+          "LAS COLORADAS",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LAS PIEDRAS",
+          "3",
+          "153",
+          "81",
+          "72",
+          "9"
+        ],
+        [
+          "LAS VARAS",
+          "26",
+          "3,985",
+          "2,064",
+          "1,921",
+          "276"
+        ],
+        [
+          "LIMA DE ABAJO",
+          "4",
+          "267",
+          "133",
+          "134",
+          "17"
+        ],
+        [
+          "LOS AYALA",
+          "2",
+          "149",
+          "63",
+          "86",
+          "6"
+        ],
+        [
+          "MAZATÁN",
+          "4",
+          "235",
+          "107",
+          "128",
+          "16"
+        ],
+        [
+          "MESILLAS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "4"
+        ],
+        [
+          "MIRAVALLES",
+          "3",
+          "160",
+          "80",
+          "80",
+          "10"
+        ],
+        [
+          "MONTEÓN",
+          "3",
+          "502",
+          "251",
+          "251",
+          "29"
+        ],
+        [
+          "NUEVO IXTLÁN (LAS CAÑADAS)",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "OTATES Y CANTARRANAS",
+          "4",
+          "180",
+          "91",
+          "89",
+          "13"
+        ],
+        [
+          "PASO DE LAS PALMAS",
+          "3",
+          "177",
+          "79",
+          "98",
+          "10"
+        ],
+        [
+          "RESERVA NATURAL DEL PALMAR (EL SUSPIRO) [COLONIA]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "RINCÓN DE GUAYABITOS",
+          "3",
+          "362",
+          "201",
+          "161",
+          "15"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "TEPIQUEÑOS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "ÚRSULO GALVÁN",
+          "3",
+          "147",
+          "60",
+          "87",
+          "9"
+        ],
+        [
+          "VILLA MORELOS",
+          "3",
+          "127",
+          "62",
+          "65",
+          "7"
+        ],
+        [
+          "VIZCARRA",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "ZACUALPAN",
+          "9",
+          "1,096",
+          "544",
+          "552",
+          "82"
+        ],
+        [
+          "ZAPOTÁN",
+          "4",
+          "267",
+          "138",
+          "129",
+          "16"
+        ],
+        [
+          "TOTAL",
+          "206",
+          "19,675",
+          "9,900",
+          "9,775",
+          "1,247"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: COMPOSTELA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAVISTA",
+          "3",
+          "93",
+          "50",
+          "43",
+          "6"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "CÁNDIDO SALAZAR",
+          "4",
+          "127",
+          "63",
+          "64",
+          "9"
+        ],
+        [
+          "CHACALA",
+          "5",
+          "89",
+          "42",
+          "47",
+          "15"
+        ],
+        [
+          "CHULAVISTA",
+          "1",
+          "48",
+          "23",
+          "25",
+          "3"
+        ],
+        [
+          "COASTECOMATILLO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "COMPOSTELA",
+          "33",
+          "5,500",
+          "2,788",
+          "2,712",
+          "331"
+        ],
+        [
+          "CUMBRES DE HUICICILA",
+          "5",
+          "120",
+          "59",
+          "61",
+          "11"
+        ],
+        [
+          "EL CAPOMO",
+          "3",
+          "189",
+          "100",
+          "89",
+          "15"
+        ],
+        [
+          "EL DIVISADERO",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4"
+        ],
+        [
+          "EL PARANAL (AROCHA)",
+          "3",
+          "95",
+          "51",
+          "44",
+          "7"
+        ],
+        [
+          "EL REFILIÓN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL TAMARINDO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "EL TONINO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "EL TONINO [BLOQUERA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "3",
+          "195",
+          "93",
+          "102",
+          "16"
+        ],
+        [
+          "IXTAPA DE LA CONCEPCIÓN",
+          "3",
+          "216",
+          "108",
+          "108",
+          "22"
+        ],
+        [
+          "JUAN ESCUTIA (BORBOLLÓN)",
+          "3",
+          "177",
+          "86",
+          "91",
+          "15"
+        ],
+        [
+          "LA CUATA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "65",
+          "27",
+          "38",
+          "3"
+        ],
+        [
+          "LA PEÑITA DE JALTEMBA",
+          "29",
+          "4,513",
+          "2,251",
+          "2,262",
+          "238"
+        ],
+        [
+          "LA PUERTA DE LA LIMA",
+          "2",
+          "92",
+          "41",
+          "51",
+          "6"
+        ],
+        [
+          "LAS COLORADAS",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LAS PIEDRAS",
+          "3",
+          "153",
+          "81",
+          "72",
+          "9"
+        ],
+        [
+          "LAS VARAS",
+          "26",
+          "3,985",
+          "2,064",
+          "1,921",
+          "276"
+        ],
+        [
+          "LIMA DE ABAJO",
+          "4",
+          "267",
+          "133",
+          "134",
+          "17"
+        ],
+        [
+          "LOS AYALA",
+          "2",
+          "149",
+          "63",
+          "86",
+          "6"
+        ],
+        [
+          "MAZATÁN",
+          "4",
+          "235",
+          "107",
+          "128",
+          "16"
+        ],
+        [
+          "MESILLAS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "4"
+        ],
+        [
+          "MIRAVALLES",
+          "3",
+          "160",
+          "80",
+          "80",
+          "10"
+        ],
+        [
+          "MONTEÓN",
+          "3",
+          "502",
+          "251",
+          "251",
+          "29"
+        ],
+        [
+          "NUEVO IXTLÁN (LAS CAÑADAS)",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "OTATES Y CANTARRANAS",
+          "4",
+          "180",
+          "91",
+          "89",
+          "13"
+        ],
+        [
+          "PASO DE LAS PALMAS",
+          "3",
+          "177",
+          "79",
+          "98",
+          "10"
+        ],
+        [
+          "RESERVA NATURAL DEL PALMAR (EL SUSPIRO) [COLONIA]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "RINCÓN DE GUAYABITOS",
+          "3",
+          "362",
+          "201",
+          "161",
+          "15"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "TEPIQUEÑOS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "ÚRSULO GALVÁN",
+          "3",
+          "147",
+          "60",
+          "87",
+          "9"
+        ],
+        [
+          "VILLA MORELOS",
+          "3",
+          "127",
+          "62",
+          "65",
+          "7"
+        ],
+        [
+          "VIZCARRA",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "ZACUALPAN",
+          "9",
+          "1,096",
+          "544",
+          "552",
+          "82"
+        ],
+        [
+          "ZAPOTÁN",
+          "4",
+          "267",
+          "138",
+          "129",
+          "16"
+        ],
+        [
+          "TOTAL",
+          "206",
+          "19,675",
+          "9,900",
+          "9,775",
+          "1,247"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:43.905Z"
+}

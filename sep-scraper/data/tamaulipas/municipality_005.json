@@ -1,0 +1,494 @@
+{
+  "municipality": "BURGOS",
+  "municipalityCode": "005",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: BURGOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTO DEL COYOTE\n\t\t3\n\t\t32\n\t\t10\n\t\t22\n\t\t3\n\t\n\t\n\t\tBURGOS\n\t\t6\n\t\t514\n\t\t264\n\t\t250\n\t\t27\n\t\n\t\n\t\tCÁNDIDO AGUILAR\n\t\t3\n\t\t72\n\t\t38\n\t\t34\n\t\t6\n\t\n\t\n\t\tEL BECERRO\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CHARCO\n\t\t2\n\t\t21\n\t\t12\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL DIVISADERO\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL HUIZACHE\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL MULATO\n\t\t1\n\t\t15\n\t\t9\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL PEDREGAL\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA (LAS AMARILLAS)\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t2\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tLABORES DE LA PAZ (LAS LABORES)\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLABORES DE LA PAZ (LOS DE ARRIBA)\n\t\t1\n\t\t29\n\t\t13\n\t\t16\n\t\t2\n\t\n\t\n\t\tLAS MARGARITAS\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tLAS ROSILLAS\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS (RANCHO NUEVO)\n\t\t3\n\t\t79\n\t\t32\n\t\t47\n\t\t6\n\t\n\t\n\t\tMACLOVIO HERRERA\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t37\n\t\t871\n\t\t433\n\t\t438\n\t\t61\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: BURGOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTO DEL COYOTE",
+          "3",
+          "32",
+          "10",
+          "22",
+          "3",
+          "BURGOS",
+          "6",
+          "514",
+          "264",
+          "250",
+          "27",
+          "CÁNDIDO AGUILAR",
+          "3",
+          "72",
+          "38",
+          "34",
+          "6",
+          "EL BECERRO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1",
+          "EL CHARCO",
+          "2",
+          "21",
+          "12",
+          "9",
+          "2",
+          "EL DIVISADERO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1",
+          "EL HUIZACHE",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "EL MULATO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1",
+          "EL PEDREGAL",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "EMILIANO ZAPATA (LAS AMARILLAS)",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "FRANCISCO I. MADERO",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1",
+          "LABORES DE LA PAZ (LAS LABORES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LABORES DE LA PAZ (LOS DE ARRIBA)",
+          "1",
+          "29",
+          "13",
+          "16",
+          "2",
+          "LAS MARGARITAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "LAS ROSILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LÁZARO CÁRDENAS (RANCHO NUEVO)",
+          "3",
+          "79",
+          "32",
+          "47",
+          "6",
+          "MACLOVIO HERRERA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "TOTAL",
+          "37",
+          "871",
+          "433",
+          "438",
+          "61",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: BURGOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTO DEL COYOTE",
+          "3",
+          "32",
+          "10",
+          "22",
+          "3"
+        ],
+        [
+          "BURGOS",
+          "6",
+          "514",
+          "264",
+          "250",
+          "27"
+        ],
+        [
+          "CÁNDIDO AGUILAR",
+          "3",
+          "72",
+          "38",
+          "34",
+          "6"
+        ],
+        [
+          "EL BECERRO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL CHARCO",
+          "2",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "EL DIVISADERO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "EL HUIZACHE",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL MULATO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (LAS AMARILLAS)",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LABORES DE LA PAZ (LAS LABORES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LABORES DE LA PAZ (LOS DE ARRIBA)",
+          "1",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "LAS MARGARITAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LAS ROSILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (RANCHO NUEVO)",
+          "3",
+          "79",
+          "32",
+          "47",
+          "6"
+        ],
+        [
+          "MACLOVIO HERRERA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "37",
+          "871",
+          "433",
+          "438",
+          "61"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: BURGOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTO DEL COYOTE",
+          "3",
+          "32",
+          "10",
+          "22",
+          "3"
+        ],
+        [
+          "BURGOS",
+          "6",
+          "514",
+          "264",
+          "250",
+          "27"
+        ],
+        [
+          "CÁNDIDO AGUILAR",
+          "3",
+          "72",
+          "38",
+          "34",
+          "6"
+        ],
+        [
+          "EL BECERRO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL CHARCO",
+          "2",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "EL DIVISADERO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "EL HUIZACHE",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL MULATO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (LAS AMARILLAS)",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LABORES DE LA PAZ (LAS LABORES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LABORES DE LA PAZ (LOS DE ARRIBA)",
+          "1",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "LAS MARGARITAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LAS ROSILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (RANCHO NUEVO)",
+          "3",
+          "79",
+          "32",
+          "47",
+          "6"
+        ],
+        [
+          "MACLOVIO HERRERA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "37",
+          "871",
+          "433",
+          "438",
+          "61"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:38:57.114Z"
+}

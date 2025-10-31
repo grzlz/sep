@@ -1,0 +1,956 @@
+{
+  "municipality": "SAN JOAQUÍN",
+  "municipalityCode": "015",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: SAN JOAQUÍN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DEL VENADO\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tAPARTADERO\n\t\t3\n\t\t74\n\t\t35\n\t\t39\n\t\t4\n\t\n\t\n\t\tBARRIO DE LA LOMA\n\t\t2\n\t\t24\n\t\t14\n\t\t10\n\t\t2\n\t\n\t\n\t\tCANOAS (NUEVO SAN JOAQUÍN)\n\t\t2\n\t\t78\n\t\t39\n\t\t39\n\t\t4\n\t\n\t\n\t\tCULEBRAS\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL DECONÍ\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL DURAZNO\n\t\t1\n\t\t12\n\t\t3\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL PLÁTANO\n\t\t4\n\t\t70\n\t\t37\n\t\t33\n\t\t7\n\t\n\t\n\t\tLA GUADALUPANA\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t42\n\t\t14\n\t\t28\n\t\t2\n\t\n\t\n\t\tLLANOS DE SANTA CLARA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS AZÓGUEZ\n\t\t3\n\t\t40\n\t\t24\n\t\t16\n\t\t3\n\t\n\t\n\t\tLOS HERRERA\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS NARANJOS\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tLOS PLANES\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tLOS POZOS\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tMARAVILLAS\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tMEDIAS COLORADAS\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tOCOTITLÁN\n\t\t1\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tPUERTO DE LA GARITA\n\t\t3\n\t\t6\n\t\t2\n\t\t4\n\t\t3\n\t\n\t\n\t\tPUERTO DE ROSARITO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tPUERTO HONDO\n\t\t3\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t24\n\t\t14\n\t\t10\n\t\t3\n\t\n\t\n\t\tSAN BARTOLO\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN CRISTÓBAL\n\t\t2\n\t\t41\n\t\t18\n\t\t23\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO GATOS\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t6\n\t\t1,452\n\t\t781\n\t\t671\n\t\t65\n\t\n\t\n\t\tSAN JOSÉ CARRIZAL\n\t\t3\n\t\t100\n\t\t51\n\t\t49\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ QUITASUEÑO\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JUAN TETLA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN SEBASTIÁN\n\t\t3\n\t\t52\n\t\t25\n\t\t27\n\t\t3\n\t\n\t\n\t\tSANTA ANA\n\t\t2\n\t\t64\n\t\t25\n\t\t39\n\t\t4\n\t\n\t\n\t\tSANTA ELENA\n\t\t3\n\t\t6\n\t\t3\n\t\t3\n\t\t3\n\t\n\t\n\t\tSANTA MARÍA ÁLAMOS\n\t\t4\n\t\t164\n\t\t90\n\t\t74\n\t\t11\n\t\n\t\n\t\tSANTA MÓNICA LAS TINAJAS\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tTIERRAS COLORADAS\n\t\t2\n\t\t11\n\t\t3\n\t\t8\n\t\t2\n\t\n\t\n\t\tZARZA Y SOMERIAL\n\t\t3\n\t\t105\n\t\t53\n\t\t52\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t90\n\t\t2,647\n\t\t1,368\n\t\t1,279\n\t\t170\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: SAN JOAQUÍN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA DEL VENADO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "APARTADERO",
+          "3",
+          "74",
+          "35",
+          "39",
+          "4",
+          "BARRIO DE LA LOMA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2",
+          "CANOAS (NUEVO SAN JOAQUÍN)",
+          "2",
+          "78",
+          "39",
+          "39",
+          "4",
+          "CULEBRAS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "EL DECONÍ",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "EL DURAZNO",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1",
+          "EL PLÁTANO",
+          "4",
+          "70",
+          "37",
+          "33",
+          "7",
+          "LA GUADALUPANA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2",
+          "LA SOLEDAD",
+          "2",
+          "42",
+          "14",
+          "28",
+          "2",
+          "LLANOS DE SANTA CLARA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LOS AZÓGUEZ",
+          "3",
+          "40",
+          "24",
+          "16",
+          "3",
+          "LOS HERRERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LOS NARANJOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "LOS PLANES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "LOS POZOS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "MARAVILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "MEDIAS COLORADAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "OCOTITLÁN",
+          "1",
+          "22",
+          "9",
+          "13",
+          "2",
+          "PUERTO DE LA GARITA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "3",
+          "PUERTO DE ROSARITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "PUERTO HONDO",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2",
+          "SAN AGUSTÍN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "SAN ANTONIO",
+          "2",
+          "24",
+          "14",
+          "10",
+          "3",
+          "SAN BARTOLO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "SAN CRISTÓBAL",
+          "2",
+          "41",
+          "18",
+          "23",
+          "2",
+          "SAN FRANCISCO GATOS",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "SAN JOAQUÍN",
+          "6",
+          "1,452",
+          "781",
+          "671",
+          "65",
+          "SAN JOSÉ CARRIZAL",
+          "3",
+          "100",
+          "51",
+          "49",
+          "6",
+          "SAN JOSÉ QUITASUEÑO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2",
+          "SAN JUAN TETLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "SAN RAFAEL",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "SAN SEBASTIÁN",
+          "3",
+          "52",
+          "25",
+          "27",
+          "3",
+          "SANTA ANA",
+          "2",
+          "64",
+          "25",
+          "39",
+          "4",
+          "SANTA ELENA",
+          "3",
+          "6",
+          "3",
+          "3",
+          "3",
+          "SANTA MARÍA ÁLAMOS",
+          "4",
+          "164",
+          "90",
+          "74",
+          "11",
+          "SANTA MÓNICA LAS TINAJAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "TIERRAS COLORADAS",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2",
+          "ZARZA Y SOMERIAL",
+          "3",
+          "105",
+          "53",
+          "52",
+          "5",
+          "TOTAL",
+          "90",
+          "2,647",
+          "1,368",
+          "1,279",
+          "170",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: SAN JOAQUÍN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DEL VENADO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "APARTADERO",
+          "3",
+          "74",
+          "35",
+          "39",
+          "4"
+        ],
+        [
+          "BARRIO DE LA LOMA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "CANOAS (NUEVO SAN JOAQUÍN)",
+          "2",
+          "78",
+          "39",
+          "39",
+          "4"
+        ],
+        [
+          "CULEBRAS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL DECONÍ",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "EL PLÁTANO",
+          "4",
+          "70",
+          "37",
+          "33",
+          "7"
+        ],
+        [
+          "LA GUADALUPANA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "42",
+          "14",
+          "28",
+          "2"
+        ],
+        [
+          "LLANOS DE SANTA CLARA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS AZÓGUEZ",
+          "3",
+          "40",
+          "24",
+          "16",
+          "3"
+        ],
+        [
+          "LOS HERRERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "LOS PLANES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LOS POZOS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "MEDIAS COLORADAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "OCOTITLÁN",
+          "1",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "PUERTO DE LA GARITA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "3"
+        ],
+        [
+          "PUERTO DE ROSARITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "PUERTO HONDO",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "24",
+          "14",
+          "10",
+          "3"
+        ],
+        [
+          "SAN BARTOLO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "41",
+          "18",
+          "23",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO GATOS",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "6",
+          "1,452",
+          "781",
+          "671",
+          "65"
+        ],
+        [
+          "SAN JOSÉ CARRIZAL",
+          "3",
+          "100",
+          "51",
+          "49",
+          "6"
+        ],
+        [
+          "SAN JOSÉ QUITASUEÑO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN TETLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "3",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "64",
+          "25",
+          "39",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "3",
+          "6",
+          "3",
+          "3",
+          "3"
+        ],
+        [
+          "SANTA MARÍA ÁLAMOS",
+          "4",
+          "164",
+          "90",
+          "74",
+          "11"
+        ],
+        [
+          "SANTA MÓNICA LAS TINAJAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "ZARZA Y SOMERIAL",
+          "3",
+          "105",
+          "53",
+          "52",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "2,647",
+          "1,368",
+          "1,279",
+          "170"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: SAN JOAQUÍN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DEL VENADO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "APARTADERO",
+          "3",
+          "74",
+          "35",
+          "39",
+          "4"
+        ],
+        [
+          "BARRIO DE LA LOMA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "CANOAS (NUEVO SAN JOAQUÍN)",
+          "2",
+          "78",
+          "39",
+          "39",
+          "4"
+        ],
+        [
+          "CULEBRAS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL DECONÍ",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "EL PLÁTANO",
+          "4",
+          "70",
+          "37",
+          "33",
+          "7"
+        ],
+        [
+          "LA GUADALUPANA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "42",
+          "14",
+          "28",
+          "2"
+        ],
+        [
+          "LLANOS DE SANTA CLARA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS AZÓGUEZ",
+          "3",
+          "40",
+          "24",
+          "16",
+          "3"
+        ],
+        [
+          "LOS HERRERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "LOS PLANES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LOS POZOS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "MEDIAS COLORADAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "OCOTITLÁN",
+          "1",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "PUERTO DE LA GARITA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "3"
+        ],
+        [
+          "PUERTO DE ROSARITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "PUERTO HONDO",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "24",
+          "14",
+          "10",
+          "3"
+        ],
+        [
+          "SAN BARTOLO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "41",
+          "18",
+          "23",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO GATOS",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "6",
+          "1,452",
+          "781",
+          "671",
+          "65"
+        ],
+        [
+          "SAN JOSÉ CARRIZAL",
+          "3",
+          "100",
+          "51",
+          "49",
+          "6"
+        ],
+        [
+          "SAN JOSÉ QUITASUEÑO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN TETLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "3",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "64",
+          "25",
+          "39",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "3",
+          "6",
+          "3",
+          "3",
+          "3"
+        ],
+        [
+          "SANTA MARÍA ÁLAMOS",
+          "4",
+          "164",
+          "90",
+          "74",
+          "11"
+        ],
+        [
+          "SANTA MÓNICA LAS TINAJAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "ZARZA Y SOMERIAL",
+          "3",
+          "105",
+          "53",
+          "52",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "2,647",
+          "1,368",
+          "1,279",
+          "170"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:27:13.530Z"
+}

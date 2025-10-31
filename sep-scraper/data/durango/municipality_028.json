@@ -1,0 +1,824 @@
+{
+  "municipality": "SAN JUAN DEL RÍO",
+  "municipalityCode": "028",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DEL RÍO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tATOTONILCO\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tCHARCO HONDO\n\t\t3\n\t\t15\n\t\t7\n\t\t8\n\t\t3\n\t\n\t\n\t\tCIÉNEGA GRANDE\n\t\t5\n\t\t238\n\t\t121\n\t\t117\n\t\t15\n\t\n\t\n\t\tCORRALES BLANCOS\n\t\t3\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tDIEZ DE OCTUBRE (SAN LUCAS DE OCAMPO)\n\t\t4\n\t\t356\n\t\t183\n\t\t173\n\t\t27\n\t\n\t\n\t\tDOROTEO ARANGO (CIÉNEGA DE BASOCO)\n\t\t3\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL AGUAJE\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL CERRO DE LA VENTANA (LAS BURRAS)\n\t\t3\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL CHABACANO\n\t\t3\n\t\t49\n\t\t24\n\t\t25\n\t\t4\n\t\n\t\n\t\tEL RESBALÓN\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t4\n\t\n\t\n\t\tEL SAUCITO\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL TERRERO\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tESTANCIA BLANCA\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t3\n\t\n\t\n\t\tFRANCISCO DE IBARRA (EL RANCHITO)\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tFRANCISCO PRIMO VERDAD (MENORES DE ABAJO)\n\t\t3\n\t\t174\n\t\t78\n\t\t96\n\t\t10\n\t\n\t\n\t\tGONZÁLEZ ORTEGA (SANTA ROSALÍA)\n\t\t3\n\t\t65\n\t\t30\n\t\t35\n\t\t5\n\t\n\t\n\t\tIGNACIO LÓPEZ RAYÓN (POTRERO DE LOS HIGOS)\n\t\t3\n\t\t56\n\t\t26\n\t\t30\n\t\t4\n\t\n\t\n\t\tJOSÉ MARÍA PATONI (MENORES DE ARRIBA)\n\t\t4\n\t\t151\n\t\t74\n\t\t77\n\t\t9\n\t\n\t\n\t\tLEONA VICARIO\n\t\t4\n\t\t137\n\t\t73\n\t\t64\n\t\t8\n\t\n\t\n\t\tLLANO DEL PINO\n\t\t3\n\t\t30\n\t\t18\n\t\t12\n\t\t3\n\t\n\t\n\t\tLOS CHARCOS\n\t\t2\n\t\t63\n\t\t31\n\t\t32\n\t\t4\n\t\n\t\n\t\tLOS CHARCOS (LAS MINAS)\n\t\t1\n\t\t31\n\t\t13\n\t\t18\n\t\t1\n\t\n\t\n\t\tLOS PICACHOS\n\t\t2\n\t\t4\n\t\t0\n\t\t4\n\t\t2\n\t\n\t\n\t\tOTILIO MONTAÑO (LA BOQUILLA)\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t4\n\t\n\t\n\t\tPUEBLO NUEVO FRANCISCO DE IBARRA (EL CRUCERO)\n\t\t3\n\t\t75\n\t\t35\n\t\t40\n\t\t5\n\t\n\t\n\t\tRÍO GRANDE\n\t\t3\n\t\t26\n\t\t13\n\t\t13\n\t\t3\n\t\n\t\n\t\tSAN AGUSTÍN DE OCAMPO\n\t\t2\n\t\t27\n\t\t8\n\t\t19\n\t\t2\n\t\n\t\n\t\tSAN JUAN DEL RÍO DEL CENTAURO DEL NORTE\n\t\t8\n\t\t1,388\n\t\t757\n\t\t631\n\t\t111\n\t\n\t\n\t\tSAUZ DE ABAJO\n\t\t3\n\t\t76\n\t\t35\n\t\t41\n\t\t5\n\t\n\t\n\t\tSAUZ DE ARRIBA\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t3\n\t\n\t\n\t\tTESVINO\n\t\t3\n\t\t27\n\t\t17\n\t\t10\n\t\t3\n\t\n\t\n\t\tTOLEDO\n\t\t2\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tTRINCHERAS DE ARRIBA\n\t\t3\n\t\t3\n\t\t2\n\t\t1\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t94\n\t\t3,287\n\t\t1,699\n\t\t1,588\n\t\t257\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DEL RÍO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ATOTONILCO",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "CHARCO HONDO",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3",
+          "CIÉNEGA GRANDE",
+          "5",
+          "238",
+          "121",
+          "117",
+          "15",
+          "CORRALES BLANCOS",
+          "3",
+          "16",
+          "5",
+          "11",
+          "2",
+          "DIEZ DE OCTUBRE (SAN LUCAS DE OCAMPO)",
+          "4",
+          "356",
+          "183",
+          "173",
+          "27",
+          "DOROTEO ARANGO (CIÉNEGA DE BASOCO)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2",
+          "EL AGUAJE",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "EL CERRO DE LA VENTANA (LAS BURRAS)",
+          "3",
+          "20",
+          "12",
+          "8",
+          "2",
+          "EL CHABACANO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4",
+          "EL RESBALÓN",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4",
+          "EL SAUCITO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "EL TERRERO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "ESTANCIA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3",
+          "FRANCISCO DE IBARRA (EL RANCHITO)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "FRANCISCO PRIMO VERDAD (MENORES DE ABAJO)",
+          "3",
+          "174",
+          "78",
+          "96",
+          "10",
+          "GONZÁLEZ ORTEGA (SANTA ROSALÍA)",
+          "3",
+          "65",
+          "30",
+          "35",
+          "5",
+          "IGNACIO LÓPEZ RAYÓN (POTRERO DE LOS HIGOS)",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4",
+          "JOSÉ MARÍA PATONI (MENORES DE ARRIBA)",
+          "4",
+          "151",
+          "74",
+          "77",
+          "9",
+          "LEONA VICARIO",
+          "4",
+          "137",
+          "73",
+          "64",
+          "8",
+          "LLANO DEL PINO",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3",
+          "LOS CHARCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "4",
+          "LOS CHARCOS (LAS MINAS)",
+          "1",
+          "31",
+          "13",
+          "18",
+          "1",
+          "LOS PICACHOS",
+          "2",
+          "4",
+          "0",
+          "4",
+          "2",
+          "OTILIO MONTAÑO (LA BOQUILLA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "4",
+          "PUEBLO NUEVO FRANCISCO DE IBARRA (EL CRUCERO)",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5",
+          "RÍO GRANDE",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3",
+          "SAN AGUSTÍN DE OCAMPO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2",
+          "SAN JUAN DEL RÍO DEL CENTAURO DEL NORTE",
+          "8",
+          "1,388",
+          "757",
+          "631",
+          "111",
+          "SAUZ DE ABAJO",
+          "3",
+          "76",
+          "35",
+          "41",
+          "5",
+          "SAUZ DE ARRIBA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3",
+          "TESVINO",
+          "3",
+          "27",
+          "17",
+          "10",
+          "3",
+          "TOLEDO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "3",
+          "TRINCHERAS DE ARRIBA",
+          "3",
+          "3",
+          "2",
+          "1",
+          "2",
+          "TOTAL",
+          "94",
+          "3,287",
+          "1,699",
+          "1,588",
+          "257",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DEL RÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATOTONILCO",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "CHARCO HONDO",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3"
+        ],
+        [
+          "CIÉNEGA GRANDE",
+          "5",
+          "238",
+          "121",
+          "117",
+          "15"
+        ],
+        [
+          "CORRALES BLANCOS",
+          "3",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "DIEZ DE OCTUBRE (SAN LUCAS DE OCAMPO)",
+          "4",
+          "356",
+          "183",
+          "173",
+          "27"
+        ],
+        [
+          "DOROTEO ARANGO (CIÉNEGA DE BASOCO)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL AGUAJE",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "EL CERRO DE LA VENTANA (LAS BURRAS)",
+          "3",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "EL CHABACANO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "EL RESBALÓN",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "EL SAUCITO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "ESTANCIA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "FRANCISCO DE IBARRA (EL RANCHITO)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "FRANCISCO PRIMO VERDAD (MENORES DE ABAJO)",
+          "3",
+          "174",
+          "78",
+          "96",
+          "10"
+        ],
+        [
+          "GONZÁLEZ ORTEGA (SANTA ROSALÍA)",
+          "3",
+          "65",
+          "30",
+          "35",
+          "5"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN (POTRERO DE LOS HIGOS)",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA PATONI (MENORES DE ARRIBA)",
+          "4",
+          "151",
+          "74",
+          "77",
+          "9"
+        ],
+        [
+          "LEONA VICARIO",
+          "4",
+          "137",
+          "73",
+          "64",
+          "8"
+        ],
+        [
+          "LLANO DEL PINO",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "LOS CHARCOS (LAS MINAS)",
+          "1",
+          "31",
+          "13",
+          "18",
+          "1"
+        ],
+        [
+          "LOS PICACHOS",
+          "2",
+          "4",
+          "0",
+          "4",
+          "2"
+        ],
+        [
+          "OTILIO MONTAÑO (LA BOQUILLA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "4"
+        ],
+        [
+          "PUEBLO NUEVO FRANCISCO DE IBARRA (EL CRUCERO)",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "RÍO GRANDE",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "SAN AGUSTÍN DE OCAMPO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JUAN DEL RÍO DEL CENTAURO DEL NORTE",
+          "8",
+          "1,388",
+          "757",
+          "631",
+          "111"
+        ],
+        [
+          "SAUZ DE ABAJO",
+          "3",
+          "76",
+          "35",
+          "41",
+          "5"
+        ],
+        [
+          "SAUZ DE ARRIBA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "TESVINO",
+          "3",
+          "27",
+          "17",
+          "10",
+          "3"
+        ],
+        [
+          "TOLEDO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "TRINCHERAS DE ARRIBA",
+          "3",
+          "3",
+          "2",
+          "1",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "3,287",
+          "1,699",
+          "1,588",
+          "257"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DEL RÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATOTONILCO",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "CHARCO HONDO",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3"
+        ],
+        [
+          "CIÉNEGA GRANDE",
+          "5",
+          "238",
+          "121",
+          "117",
+          "15"
+        ],
+        [
+          "CORRALES BLANCOS",
+          "3",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "DIEZ DE OCTUBRE (SAN LUCAS DE OCAMPO)",
+          "4",
+          "356",
+          "183",
+          "173",
+          "27"
+        ],
+        [
+          "DOROTEO ARANGO (CIÉNEGA DE BASOCO)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL AGUAJE",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "EL CERRO DE LA VENTANA (LAS BURRAS)",
+          "3",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "EL CHABACANO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "EL RESBALÓN",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "EL SAUCITO",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "ESTANCIA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "FRANCISCO DE IBARRA (EL RANCHITO)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "FRANCISCO PRIMO VERDAD (MENORES DE ABAJO)",
+          "3",
+          "174",
+          "78",
+          "96",
+          "10"
+        ],
+        [
+          "GONZÁLEZ ORTEGA (SANTA ROSALÍA)",
+          "3",
+          "65",
+          "30",
+          "35",
+          "5"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN (POTRERO DE LOS HIGOS)",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA PATONI (MENORES DE ARRIBA)",
+          "4",
+          "151",
+          "74",
+          "77",
+          "9"
+        ],
+        [
+          "LEONA VICARIO",
+          "4",
+          "137",
+          "73",
+          "64",
+          "8"
+        ],
+        [
+          "LLANO DEL PINO",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "LOS CHARCOS (LAS MINAS)",
+          "1",
+          "31",
+          "13",
+          "18",
+          "1"
+        ],
+        [
+          "LOS PICACHOS",
+          "2",
+          "4",
+          "0",
+          "4",
+          "2"
+        ],
+        [
+          "OTILIO MONTAÑO (LA BOQUILLA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "4"
+        ],
+        [
+          "PUEBLO NUEVO FRANCISCO DE IBARRA (EL CRUCERO)",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "RÍO GRANDE",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "SAN AGUSTÍN DE OCAMPO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JUAN DEL RÍO DEL CENTAURO DEL NORTE",
+          "8",
+          "1,388",
+          "757",
+          "631",
+          "111"
+        ],
+        [
+          "SAUZ DE ABAJO",
+          "3",
+          "76",
+          "35",
+          "41",
+          "5"
+        ],
+        [
+          "SAUZ DE ARRIBA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "TESVINO",
+          "3",
+          "27",
+          "17",
+          "10",
+          "3"
+        ],
+        [
+          "TOLEDO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "TRINCHERAS DE ARRIBA",
+          "3",
+          "3",
+          "2",
+          "1",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "3,287",
+          "1,699",
+          "1,588",
+          "257"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:35.813Z"
+}

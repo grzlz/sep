@@ -1,0 +1,1264 @@
+{
+  "municipality": "VILLA DE COS",
+  "municipalityCode": "051",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA DE COS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA NUEVA\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t2\n\t\n\t\n\t\tALDEA DE CODORNICES (JESÚS MARÍA)\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tALLENDE (SAN EUSEBIO)\n\t\t2\n\t\t13\n\t\t3\n\t\t10\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ (SIERRA HERMOSA)\n\t\t4\n\t\t45\n\t\t22\n\t\t23\n\t\t4\n\t\n\t\n\t\tBENITO JUÁREZ UNO (SAN COSME)\n\t\t2\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tCAÑAS\n\t\t3\n\t\t92\n\t\t44\n\t\t48\n\t\t4\n\t\n\t\n\t\tCAPIROTE\n\t\t3\n\t\t25\n\t\t16\n\t\t9\n\t\t3\n\t\n\t\n\t\tCERVANTES\n\t\t3\n\t\t88\n\t\t45\n\t\t43\n\t\t5\n\t\n\t\n\t\tCHAPARROSA\n\t\t7\n\t\t1,272\n\t\t665\n\t\t607\n\t\t56\n\t\n\t\n\t\tCHARCO BLANCO (EL CHARCO BLANCO)\n\t\t3\n\t\t115\n\t\t61\n\t\t54\n\t\t6\n\t\n\t\n\t\tCHARQUILLOS\n\t\t2\n\t\t12\n\t\t3\n\t\t9\n\t\t2\n\t\n\t\n\t\tCHUPADEROS\n\t\t5\n\t\t821\n\t\t419\n\t\t402\n\t\t38\n\t\n\t\n\t\tCOLONIA ALFONSO GARZÓN SANTIBÁÑEZ (EL MALEFICIO)\n\t\t3\n\t\t62\n\t\t21\n\t\t41\n\t\t4\n\t\n\t\n\t\tCOLONIA GREVER (PURÍSIMA)\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tEFIGENIA\n\t\t4\n\t\t141\n\t\t73\n\t\t68\n\t\t10\n\t\n\t\n\t\tEL ENCINO\n\t\t2\n\t\t11\n\t\t2\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL PARDILLO\n\t\t3\n\t\t108\n\t\t43\n\t\t65\n\t\t6\n\t\n\t\n\t\tEL RUCIO\n\t\t4\n\t\t391\n\t\t204\n\t\t187\n\t\t23\n\t\n\t\n\t\tEL SOCORRO\n\t\t3\n\t\t23\n\t\t16\n\t\t7\n\t\t3\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t12\n\t\t9\n\t\t3\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA (SAN ANTONIO DEL BURRO)\n\t\t4\n\t\t219\n\t\t99\n\t\t120\n\t\t12\n\t\n\t\n\t\tESTANCIA LA COLORADA\n\t\t3\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO (CARRILLO)\n\t\t3\n\t\t28\n\t\t13\n\t\t15\n\t\t3\n\t\n\t\n\t\tGONZÁLEZ ORTEGA (BAÑÓN)\n\t\t7\n\t\t1,580\n\t\t804\n\t\t776\n\t\t72\n\t\n\t\n\t\tGUADALUPE DE LAS CORRIENTES\n\t\t3\n\t\t131\n\t\t63\n\t\t68\n\t\t7\n\t\n\t\n\t\tLA ABUNDANCIA\n\t\t3\n\t\t32\n\t\t13\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA CAMPECHANA\n\t\t3\n\t\t34\n\t\t13\n\t\t21\n\t\t3\n\t\n\t\n\t\tLA COLORADA [ESTACIÓN DE FERROCARRIL]\n\t\t4\n\t\t273\n\t\t131\n\t\t142\n\t\t14\n\t\n\t\n\t\tLA LUZ\n\t\t2\n\t\t99\n\t\t45\n\t\t54\n\t\t6\n\t\n\t\n\t\tLA PRIETA\n\t\t4\n\t\t203\n\t\t104\n\t\t99\n\t\t13\n\t\n\t\n\t\tLAS CANOAS\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tLOS AMARILLOS (LAS AURAS)\n\t\t2\n\t\t11\n\t\t7\n\t\t4\n\t\t2\n\t\n\t\n\t\tLOS CHARCOS [RANCHO]\n\t\t2\n\t\t24\n\t\t14\n\t\t10\n\t\t2\n\t\n\t\n\t\tMANGANITA\n\t\t3\n\t\t88\n\t\t40\n\t\t48\n\t\t5\n\t\n\t\n\t\tMARIANA\n\t\t3\n\t\t15\n\t\t5\n\t\t10\n\t\t3\n\t\n\t\n\t\tMEZQUITILLO\n\t\t4\n\t\t191\n\t\t85\n\t\t106\n\t\t12\n\t\n\t\n\t\tNORIA DE LUIS\n\t\t3\n\t\t82\n\t\t40\n\t\t42\n\t\t4\n\t\n\t\n\t\tNORIA DEL BURRO\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tNUEVA PASTORÍA (LAS PEÑITAS)\n\t\t3\n\t\t99\n\t\t45\n\t\t54\n\t\t6\n\t\n\t\n\t\tPABELLÓN (DOLORES)\n\t\t3\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tPOZO HONDO\n\t\t3\n\t\t37\n\t\t18\n\t\t19\n\t\t3\n\t\n\t\n\t\tPRIMERO DE MAYO (SAN JUAN DE ULÚA)\n\t\t3\n\t\t66\n\t\t38\n\t\t28\n\t\t4\n\t\n\t\n\t\tPUERTO DE SIGALA\n\t\t3\n\t\t48\n\t\t21\n\t\t27\n\t\t3\n\t\n\t\n\t\tPUERTO MADERO (ESTANCIA DE SAN ANDRÉS)\n\t\t3\n\t\t57\n\t\t32\n\t\t25\n\t\t4\n\t\n\t\n\t\tRUCIO DOS\n\t\t2\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO DE LA ROSA (SAN ANTONIO)\n\t\t3\n\t\t65\n\t\t35\n\t\t30\n\t\t5\n\t\n\t\n\t\tSAN FELIPE\n\t\t2\n\t\t35\n\t\t10\n\t\t25\n\t\t2\n\t\n\t\n\t\tSAN RAMÓN\n\t\t3\n\t\t134\n\t\t73\n\t\t61\n\t\t7\n\t\n\t\n\t\tSARTENEJA\n\t\t3\n\t\t92\n\t\t45\n\t\t47\n\t\t5\n\t\n\t\n\t\tSIERRA VIEJA\n\t\t3\n\t\t48\n\t\t26\n\t\t22\n\t\t4\n\t\n\t\n\t\tTIERRA Y LIBERTAD (SAN BLAS)\n\t\t3\n\t\t122\n\t\t57\n\t\t65\n\t\t7\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t3\n\t\t41\n\t\t23\n\t\t18\n\t\t3\n\t\n\t\n\t\tVILLA DE COS\n\t\t10\n\t\t1,883\n\t\t972\n\t\t911\n\t\t97\n\t\n\t\n\t\tTOTAL\n\t\t168\n\t\t9,156\n\t\t4,598\n\t\t4,558\n\t\t500\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA DE COS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA NUEVA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2",
+          "ALDEA DE CODORNICES (JESÚS MARÍA)",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "ALLENDE (SAN EUSEBIO)",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2",
+          "BENITO JUÁREZ (SIERRA HERMOSA)",
+          "4",
+          "45",
+          "22",
+          "23",
+          "4",
+          "BENITO JUÁREZ UNO (SAN COSME)",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2",
+          "CAÑAS",
+          "3",
+          "92",
+          "44",
+          "48",
+          "4",
+          "CAPIROTE",
+          "3",
+          "25",
+          "16",
+          "9",
+          "3",
+          "CERVANTES",
+          "3",
+          "88",
+          "45",
+          "43",
+          "5",
+          "CHAPARROSA",
+          "7",
+          "1,272",
+          "665",
+          "607",
+          "56",
+          "CHARCO BLANCO (EL CHARCO BLANCO)",
+          "3",
+          "115",
+          "61",
+          "54",
+          "6",
+          "CHARQUILLOS",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2",
+          "CHUPADEROS",
+          "5",
+          "821",
+          "419",
+          "402",
+          "38",
+          "COLONIA ALFONSO GARZÓN SANTIBÁÑEZ (EL MALEFICIO)",
+          "3",
+          "62",
+          "21",
+          "41",
+          "4",
+          "COLONIA GREVER (PURÍSIMA)",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "EFIGENIA",
+          "4",
+          "141",
+          "73",
+          "68",
+          "10",
+          "EL ENCINO",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2",
+          "EL PARDILLO",
+          "3",
+          "108",
+          "43",
+          "65",
+          "6",
+          "EL RUCIO",
+          "4",
+          "391",
+          "204",
+          "187",
+          "23",
+          "EL SOCORRO",
+          "3",
+          "23",
+          "16",
+          "7",
+          "3",
+          "EL ZAPOTE",
+          "2",
+          "12",
+          "9",
+          "3",
+          "1",
+          "EMILIANO ZAPATA (SAN ANTONIO DEL BURRO)",
+          "4",
+          "219",
+          "99",
+          "120",
+          "12",
+          "ESTANCIA LA COLORADA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3",
+          "FELIPE CARRILLO PUERTO (CARRILLO)",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3",
+          "GONZÁLEZ ORTEGA (BAÑÓN)",
+          "7",
+          "1,580",
+          "804",
+          "776",
+          "72",
+          "GUADALUPE DE LAS CORRIENTES",
+          "3",
+          "131",
+          "63",
+          "68",
+          "7",
+          "LA ABUNDANCIA",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3",
+          "LA CAMPECHANA",
+          "3",
+          "34",
+          "13",
+          "21",
+          "3",
+          "LA COLORADA [ESTACIÓN DE FERROCARRIL]",
+          "4",
+          "273",
+          "131",
+          "142",
+          "14",
+          "LA LUZ",
+          "2",
+          "99",
+          "45",
+          "54",
+          "6",
+          "LA PRIETA",
+          "4",
+          "203",
+          "104",
+          "99",
+          "13",
+          "LAS CANOAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "LOS AMARILLOS (LAS AURAS)",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2",
+          "LOS CHARCOS [RANCHO]",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2",
+          "MANGANITA",
+          "3",
+          "88",
+          "40",
+          "48",
+          "5",
+          "MARIANA",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3",
+          "MEZQUITILLO",
+          "4",
+          "191",
+          "85",
+          "106",
+          "12",
+          "NORIA DE LUIS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "4",
+          "NORIA DEL BURRO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "NUEVA PASTORÍA (LAS PEÑITAS)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "6",
+          "PABELLÓN (DOLORES)",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3",
+          "POZO HONDO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3",
+          "PRIMERO DE MAYO (SAN JUAN DE ULÚA)",
+          "3",
+          "66",
+          "38",
+          "28",
+          "4",
+          "PUERTO DE SIGALA",
+          "3",
+          "48",
+          "21",
+          "27",
+          "3",
+          "PUERTO MADERO (ESTANCIA DE SAN ANDRÉS)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4",
+          "RUCIO DOS",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2",
+          "SAN ANTONIO DE LA ROSA (SAN ANTONIO)",
+          "3",
+          "65",
+          "35",
+          "30",
+          "5",
+          "SAN FELIPE",
+          "2",
+          "35",
+          "10",
+          "25",
+          "2",
+          "SAN RAMÓN",
+          "3",
+          "134",
+          "73",
+          "61",
+          "7",
+          "SARTENEJA",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5",
+          "SIERRA VIEJA",
+          "3",
+          "48",
+          "26",
+          "22",
+          "4",
+          "TIERRA Y LIBERTAD (SAN BLAS)",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7",
+          "VICENTE GUERRERO",
+          "3",
+          "41",
+          "23",
+          "18",
+          "3",
+          "VILLA DE COS",
+          "10",
+          "1,883",
+          "972",
+          "911",
+          "97",
+          "TOTAL",
+          "168",
+          "9,156",
+          "4,598",
+          "4,558",
+          "500",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA DE COS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "ALDEA DE CODORNICES (JESÚS MARÍA)",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "ALLENDE (SAN EUSEBIO)",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ (SIERRA HERMOSA)",
+          "4",
+          "45",
+          "22",
+          "23",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ UNO (SAN COSME)",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "CAÑAS",
+          "3",
+          "92",
+          "44",
+          "48",
+          "4"
+        ],
+        [
+          "CAPIROTE",
+          "3",
+          "25",
+          "16",
+          "9",
+          "3"
+        ],
+        [
+          "CERVANTES",
+          "3",
+          "88",
+          "45",
+          "43",
+          "5"
+        ],
+        [
+          "CHAPARROSA",
+          "7",
+          "1,272",
+          "665",
+          "607",
+          "56"
+        ],
+        [
+          "CHARCO BLANCO (EL CHARCO BLANCO)",
+          "3",
+          "115",
+          "61",
+          "54",
+          "6"
+        ],
+        [
+          "CHARQUILLOS",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2"
+        ],
+        [
+          "CHUPADEROS",
+          "5",
+          "821",
+          "419",
+          "402",
+          "38"
+        ],
+        [
+          "COLONIA ALFONSO GARZÓN SANTIBÁÑEZ (EL MALEFICIO)",
+          "3",
+          "62",
+          "21",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA GREVER (PURÍSIMA)",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EFIGENIA",
+          "4",
+          "141",
+          "73",
+          "68",
+          "10"
+        ],
+        [
+          "EL ENCINO",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2"
+        ],
+        [
+          "EL PARDILLO",
+          "3",
+          "108",
+          "43",
+          "65",
+          "6"
+        ],
+        [
+          "EL RUCIO",
+          "4",
+          "391",
+          "204",
+          "187",
+          "23"
+        ],
+        [
+          "EL SOCORRO",
+          "3",
+          "23",
+          "16",
+          "7",
+          "3"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (SAN ANTONIO DEL BURRO)",
+          "4",
+          "219",
+          "99",
+          "120",
+          "12"
+        ],
+        [
+          "ESTANCIA LA COLORADA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (CARRILLO)",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "GONZÁLEZ ORTEGA (BAÑÓN)",
+          "7",
+          "1,580",
+          "804",
+          "776",
+          "72"
+        ],
+        [
+          "GUADALUPE DE LAS CORRIENTES",
+          "3",
+          "131",
+          "63",
+          "68",
+          "7"
+        ],
+        [
+          "LA ABUNDANCIA",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "LA CAMPECHANA",
+          "3",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "LA COLORADA [ESTACIÓN DE FERROCARRIL]",
+          "4",
+          "273",
+          "131",
+          "142",
+          "14"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "99",
+          "45",
+          "54",
+          "6"
+        ],
+        [
+          "LA PRIETA",
+          "4",
+          "203",
+          "104",
+          "99",
+          "13"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LOS AMARILLOS (LAS AURAS)",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "LOS CHARCOS [RANCHO]",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "MANGANITA",
+          "3",
+          "88",
+          "40",
+          "48",
+          "5"
+        ],
+        [
+          "MARIANA",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "MEZQUITILLO",
+          "4",
+          "191",
+          "85",
+          "106",
+          "12"
+        ],
+        [
+          "NORIA DE LUIS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "4"
+        ],
+        [
+          "NORIA DEL BURRO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVA PASTORÍA (LAS PEÑITAS)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "6"
+        ],
+        [
+          "PABELLÓN (DOLORES)",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "POZO HONDO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "PRIMERO DE MAYO (SAN JUAN DE ULÚA)",
+          "3",
+          "66",
+          "38",
+          "28",
+          "4"
+        ],
+        [
+          "PUERTO DE SIGALA",
+          "3",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "PUERTO MADERO (ESTANCIA DE SAN ANDRÉS)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4"
+        ],
+        [
+          "RUCIO DOS",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE LA ROSA (SAN ANTONIO)",
+          "3",
+          "65",
+          "35",
+          "30",
+          "5"
+        ],
+        [
+          "SAN FELIPE",
+          "2",
+          "35",
+          "10",
+          "25",
+          "2"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "134",
+          "73",
+          "61",
+          "7"
+        ],
+        [
+          "SARTENEJA",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5"
+        ],
+        [
+          "SIERRA VIEJA",
+          "3",
+          "48",
+          "26",
+          "22",
+          "4"
+        ],
+        [
+          "TIERRA Y LIBERTAD (SAN BLAS)",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "3",
+          "41",
+          "23",
+          "18",
+          "3"
+        ],
+        [
+          "VILLA DE COS",
+          "10",
+          "1,883",
+          "972",
+          "911",
+          "97"
+        ],
+        [
+          "TOTAL",
+          "168",
+          "9,156",
+          "4,598",
+          "4,558",
+          "500"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA DE COS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "ALDEA DE CODORNICES (JESÚS MARÍA)",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "ALLENDE (SAN EUSEBIO)",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ (SIERRA HERMOSA)",
+          "4",
+          "45",
+          "22",
+          "23",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ UNO (SAN COSME)",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "CAÑAS",
+          "3",
+          "92",
+          "44",
+          "48",
+          "4"
+        ],
+        [
+          "CAPIROTE",
+          "3",
+          "25",
+          "16",
+          "9",
+          "3"
+        ],
+        [
+          "CERVANTES",
+          "3",
+          "88",
+          "45",
+          "43",
+          "5"
+        ],
+        [
+          "CHAPARROSA",
+          "7",
+          "1,272",
+          "665",
+          "607",
+          "56"
+        ],
+        [
+          "CHARCO BLANCO (EL CHARCO BLANCO)",
+          "3",
+          "115",
+          "61",
+          "54",
+          "6"
+        ],
+        [
+          "CHARQUILLOS",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2"
+        ],
+        [
+          "CHUPADEROS",
+          "5",
+          "821",
+          "419",
+          "402",
+          "38"
+        ],
+        [
+          "COLONIA ALFONSO GARZÓN SANTIBÁÑEZ (EL MALEFICIO)",
+          "3",
+          "62",
+          "21",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA GREVER (PURÍSIMA)",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EFIGENIA",
+          "4",
+          "141",
+          "73",
+          "68",
+          "10"
+        ],
+        [
+          "EL ENCINO",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2"
+        ],
+        [
+          "EL PARDILLO",
+          "3",
+          "108",
+          "43",
+          "65",
+          "6"
+        ],
+        [
+          "EL RUCIO",
+          "4",
+          "391",
+          "204",
+          "187",
+          "23"
+        ],
+        [
+          "EL SOCORRO",
+          "3",
+          "23",
+          "16",
+          "7",
+          "3"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (SAN ANTONIO DEL BURRO)",
+          "4",
+          "219",
+          "99",
+          "120",
+          "12"
+        ],
+        [
+          "ESTANCIA LA COLORADA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (CARRILLO)",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "GONZÁLEZ ORTEGA (BAÑÓN)",
+          "7",
+          "1,580",
+          "804",
+          "776",
+          "72"
+        ],
+        [
+          "GUADALUPE DE LAS CORRIENTES",
+          "3",
+          "131",
+          "63",
+          "68",
+          "7"
+        ],
+        [
+          "LA ABUNDANCIA",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "LA CAMPECHANA",
+          "3",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "LA COLORADA [ESTACIÓN DE FERROCARRIL]",
+          "4",
+          "273",
+          "131",
+          "142",
+          "14"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "99",
+          "45",
+          "54",
+          "6"
+        ],
+        [
+          "LA PRIETA",
+          "4",
+          "203",
+          "104",
+          "99",
+          "13"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LOS AMARILLOS (LAS AURAS)",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "LOS CHARCOS [RANCHO]",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "MANGANITA",
+          "3",
+          "88",
+          "40",
+          "48",
+          "5"
+        ],
+        [
+          "MARIANA",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "MEZQUITILLO",
+          "4",
+          "191",
+          "85",
+          "106",
+          "12"
+        ],
+        [
+          "NORIA DE LUIS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "4"
+        ],
+        [
+          "NORIA DEL BURRO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVA PASTORÍA (LAS PEÑITAS)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "6"
+        ],
+        [
+          "PABELLÓN (DOLORES)",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "POZO HONDO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "PRIMERO DE MAYO (SAN JUAN DE ULÚA)",
+          "3",
+          "66",
+          "38",
+          "28",
+          "4"
+        ],
+        [
+          "PUERTO DE SIGALA",
+          "3",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "PUERTO MADERO (ESTANCIA DE SAN ANDRÉS)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4"
+        ],
+        [
+          "RUCIO DOS",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE LA ROSA (SAN ANTONIO)",
+          "3",
+          "65",
+          "35",
+          "30",
+          "5"
+        ],
+        [
+          "SAN FELIPE",
+          "2",
+          "35",
+          "10",
+          "25",
+          "2"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "134",
+          "73",
+          "61",
+          "7"
+        ],
+        [
+          "SARTENEJA",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5"
+        ],
+        [
+          "SIERRA VIEJA",
+          "3",
+          "48",
+          "26",
+          "22",
+          "4"
+        ],
+        [
+          "TIERRA Y LIBERTAD (SAN BLAS)",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "3",
+          "41",
+          "23",
+          "18",
+          "3"
+        ],
+        [
+          "VILLA DE COS",
+          "10",
+          "1,883",
+          "972",
+          "911",
+          "97"
+        ],
+        [
+          "TOTAL",
+          "168",
+          "9,156",
+          "4,598",
+          "4,558",
+          "500"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:53:32.531Z"
+}

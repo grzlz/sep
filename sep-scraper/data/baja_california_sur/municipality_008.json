@@ -1,0 +1,714 @@
+{
+  "municipality": "LOS CABOS",
+  "municipalityCode": "008",
+  "state": "BAJA CALIFORNIA SUR",
+  "stateCode": "3",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCOMONDÚ\n\tLA PAZ\n\tLORETO\n\tLOS CABOS\n\tMULEGÉ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: LOS CABOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA CALIENTE\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tBUENAVISTA\n\t\t2\n\t\t76\n\t\t32\n\t\t44\n\t\t4\n\t\n\t\n\t\tCABO PULMO\n\t\t3\n\t\t31\n\t\t15\n\t\t16\n\t\t3\n\t\n\t\n\t\tCABO SAN LUCAS\n\t\t224\n\t\t55,716\n\t\t28,233\n\t\t27,483\n\t\t3,090\n\t\n\t\n\t\tCADUAÑO\n\t\t2\n\t\t43\n\t\t13\n\t\t30\n\t\t3\n\t\n\t\n\t\tCOLONIA REAL DEL MONTE\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t3\n\t\n\t\n\t\tEL CAMPAMENTO\n\t\t3\n\t\t250\n\t\t127\n\t\t123\n\t\t11\n\t\n\t\n\t\tEL RANCHITO\n\t\t1\n\t\t14\n\t\t5\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL SAUZAL\n\t\t3\n\t\t6\n\t\t1\n\t\t5\n\t\t2\n\t\n\t\n\t\tFUENTE DEL CABO\n\t\t3\n\t\t10\n\t\t4\n\t\t6\n\t\t3\n\t\n\t\n\t\tLA CANDELARIA\n\t\t3\n\t\t50\n\t\t21\n\t\t29\n\t\t5\n\t\n\t\n\t\tLA CHOYA\n\t\t1\n\t\t17\n\t\t6\n\t\t11\n\t\t1\n\t\n\t\n\t\tLA PLAYA\n\t\t4\n\t\t392\n\t\t177\n\t\t215\n\t\t18\n\t\n\t\n\t\tLA RIBERA\n\t\t4\n\t\t567\n\t\t278\n\t\t289\n\t\t27\n\t\n\t\n\t\tLA TRINIDAD\n\t\t3\n\t\t7\n\t\t5\n\t\t2\n\t\t2\n\t\n\t\n\t\tLAS ÁNIMAS ALTAS\n\t\t1\n\t\t25\n\t\t16\n\t\t9\n\t\t2\n\t\n\t\n\t\tLAS ÁNIMAS BAJAS\n\t\t2\n\t\t75\n\t\t35\n\t\t40\n\t\t5\n\t\n\t\n\t\tLOS POZOS\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tMATANCITAS\n\t\t2\n\t\t41\n\t\t15\n\t\t26\n\t\t3\n\t\n\t\n\t\tMIGRIÑO\n\t\t3\n\t\t31\n\t\t15\n\t\t16\n\t\t3\n\t\n\t\n\t\tMIRAFLORES\n\t\t4\n\t\t400\n\t\t192\n\t\t208\n\t\t24\n\t\n\t\n\t\tPALO ESCOPETA\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DEL CABO\n\t\t162\n\t\t39,596\n\t\t19,753\n\t\t19,843\n\t\t2,182\n\t\n\t\n\t\tSAN JOSÉ VIEJO\n\t\t4\n\t\t99\n\t\t38\n\t\t61\n\t\t5\n\t\n\t\n\t\tSANTA ANITA\n\t\t4\n\t\t751\n\t\t350\n\t\t401\n\t\t34\n\t\n\t\n\t\tSANTA CATARINA\n\t\t3\n\t\t135\n\t\t59\n\t\t76\n\t\t9\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t62\n\t\t32\n\t\t30\n\t\t3\n\t\n\t\n\t\tSANTIAGO\n\t\t5\n\t\t744\n\t\t370\n\t\t374\n\t\t60\n\t\n\t\n\t\tTOTAL\n\t\t457\n\t\t99,212\n\t\t49,828\n\t\t49,384\n\t\t5,509\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: LOS CABOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA CALIENTE",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "BUENAVISTA",
+          "2",
+          "76",
+          "32",
+          "44",
+          "4",
+          "CABO PULMO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3",
+          "CABO SAN LUCAS",
+          "224",
+          "55,716",
+          "28,233",
+          "27,483",
+          "3,090",
+          "CADUAÑO",
+          "2",
+          "43",
+          "13",
+          "30",
+          "3",
+          "COLONIA REAL DEL MONTE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "3",
+          "EL CAMPAMENTO",
+          "3",
+          "250",
+          "127",
+          "123",
+          "11",
+          "EL RANCHITO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1",
+          "EL SAUZAL",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2",
+          "FUENTE DEL CABO",
+          "3",
+          "10",
+          "4",
+          "6",
+          "3",
+          "LA CANDELARIA",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5",
+          "LA CHOYA",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1",
+          "LA PLAYA",
+          "4",
+          "392",
+          "177",
+          "215",
+          "18",
+          "LA RIBERA",
+          "4",
+          "567",
+          "278",
+          "289",
+          "27",
+          "LA TRINIDAD",
+          "3",
+          "7",
+          "5",
+          "2",
+          "2",
+          "LAS ÁNIMAS ALTAS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2",
+          "LAS ÁNIMAS BAJAS",
+          "2",
+          "75",
+          "35",
+          "40",
+          "5",
+          "LOS POZOS",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1",
+          "MATANCITAS",
+          "2",
+          "41",
+          "15",
+          "26",
+          "3",
+          "MIGRIÑO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3",
+          "MIRAFLORES",
+          "4",
+          "400",
+          "192",
+          "208",
+          "24",
+          "PALO ESCOPETA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3",
+          "SAN JOSÉ DEL CABO",
+          "162",
+          "39,596",
+          "19,753",
+          "19,843",
+          "2,182",
+          "SAN JOSÉ VIEJO",
+          "4",
+          "99",
+          "38",
+          "61",
+          "5",
+          "SANTA ANITA",
+          "4",
+          "751",
+          "350",
+          "401",
+          "34",
+          "SANTA CATARINA",
+          "3",
+          "135",
+          "59",
+          "76",
+          "9",
+          "SANTA CRUZ",
+          "2",
+          "62",
+          "32",
+          "30",
+          "3",
+          "SANTIAGO",
+          "5",
+          "744",
+          "370",
+          "374",
+          "60",
+          "TOTAL",
+          "457",
+          "99,212",
+          "49,828",
+          "49,384",
+          "5,509",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: LOS CABOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "76",
+          "32",
+          "44",
+          "4"
+        ],
+        [
+          "CABO PULMO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "CABO SAN LUCAS",
+          "224",
+          "55,716",
+          "28,233",
+          "27,483",
+          "3,090"
+        ],
+        [
+          "CADUAÑO",
+          "2",
+          "43",
+          "13",
+          "30",
+          "3"
+        ],
+        [
+          "COLONIA REAL DEL MONTE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "3"
+        ],
+        [
+          "EL CAMPAMENTO",
+          "3",
+          "250",
+          "127",
+          "123",
+          "11"
+        ],
+        [
+          "EL RANCHITO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "EL SAUZAL",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "FUENTE DEL CABO",
+          "3",
+          "10",
+          "4",
+          "6",
+          "3"
+        ],
+        [
+          "LA CANDELARIA",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5"
+        ],
+        [
+          "LA CHOYA",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1"
+        ],
+        [
+          "LA PLAYA",
+          "4",
+          "392",
+          "177",
+          "215",
+          "18"
+        ],
+        [
+          "LA RIBERA",
+          "4",
+          "567",
+          "278",
+          "289",
+          "27"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS ALTAS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS BAJAS",
+          "2",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "LOS POZOS",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "MATANCITAS",
+          "2",
+          "41",
+          "15",
+          "26",
+          "3"
+        ],
+        [
+          "MIGRIÑO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "MIRAFLORES",
+          "4",
+          "400",
+          "192",
+          "208",
+          "24"
+        ],
+        [
+          "PALO ESCOPETA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DEL CABO",
+          "162",
+          "39,596",
+          "19,753",
+          "19,843",
+          "2,182"
+        ],
+        [
+          "SAN JOSÉ VIEJO",
+          "4",
+          "99",
+          "38",
+          "61",
+          "5"
+        ],
+        [
+          "SANTA ANITA",
+          "4",
+          "751",
+          "350",
+          "401",
+          "34"
+        ],
+        [
+          "SANTA CATARINA",
+          "3",
+          "135",
+          "59",
+          "76",
+          "9"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "62",
+          "32",
+          "30",
+          "3"
+        ],
+        [
+          "SANTIAGO",
+          "5",
+          "744",
+          "370",
+          "374",
+          "60"
+        ],
+        [
+          "TOTAL",
+          "457",
+          "99,212",
+          "49,828",
+          "49,384",
+          "5,509"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: LOS CABOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "76",
+          "32",
+          "44",
+          "4"
+        ],
+        [
+          "CABO PULMO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "CABO SAN LUCAS",
+          "224",
+          "55,716",
+          "28,233",
+          "27,483",
+          "3,090"
+        ],
+        [
+          "CADUAÑO",
+          "2",
+          "43",
+          "13",
+          "30",
+          "3"
+        ],
+        [
+          "COLONIA REAL DEL MONTE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "3"
+        ],
+        [
+          "EL CAMPAMENTO",
+          "3",
+          "250",
+          "127",
+          "123",
+          "11"
+        ],
+        [
+          "EL RANCHITO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "EL SAUZAL",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "FUENTE DEL CABO",
+          "3",
+          "10",
+          "4",
+          "6",
+          "3"
+        ],
+        [
+          "LA CANDELARIA",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5"
+        ],
+        [
+          "LA CHOYA",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1"
+        ],
+        [
+          "LA PLAYA",
+          "4",
+          "392",
+          "177",
+          "215",
+          "18"
+        ],
+        [
+          "LA RIBERA",
+          "4",
+          "567",
+          "278",
+          "289",
+          "27"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS ALTAS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS BAJAS",
+          "2",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "LOS POZOS",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "MATANCITAS",
+          "2",
+          "41",
+          "15",
+          "26",
+          "3"
+        ],
+        [
+          "MIGRIÑO",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "MIRAFLORES",
+          "4",
+          "400",
+          "192",
+          "208",
+          "24"
+        ],
+        [
+          "PALO ESCOPETA",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DEL CABO",
+          "162",
+          "39,596",
+          "19,753",
+          "19,843",
+          "2,182"
+        ],
+        [
+          "SAN JOSÉ VIEJO",
+          "4",
+          "99",
+          "38",
+          "61",
+          "5"
+        ],
+        [
+          "SANTA ANITA",
+          "4",
+          "751",
+          "350",
+          "401",
+          "34"
+        ],
+        [
+          "SANTA CATARINA",
+          "3",
+          "135",
+          "59",
+          "76",
+          "9"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "62",
+          "32",
+          "30",
+          "3"
+        ],
+        [
+          "SANTIAGO",
+          "5",
+          "744",
+          "370",
+          "374",
+          "60"
+        ],
+        [
+          "TOTAL",
+          "457",
+          "99,212",
+          "49,828",
+          "49,384",
+          "5,509"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:54.699Z"
+}

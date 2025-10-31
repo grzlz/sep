@@ -1,0 +1,758 @@
+{
+  "municipality": "FLORENCIO VILLARREAL",
+  "municipalityCode": "030",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: FLORENCIO VILLARREAL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACAPULQUITO\n\t\t3\n\t\t89\n\t\t39\n\t\t50\n\t\t6\n\t\n\t\n\t\tARROYO SECO\n\t\t2\n\t\t31\n\t\t18\n\t\t13\n\t\t2\n\t\n\t\n\t\tBOCA DEL RÍO\n\t\t3\n\t\t114\n\t\t61\n\t\t53\n\t\t7\n\t\n\t\n\t\tCANTARRANAS\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tCHARCO DEL POZO\n\t\t3\n\t\t60\n\t\t33\n\t\t27\n\t\t5\n\t\n\t\n\t\tCHAUTENGO\n\t\t5\n\t\t194\n\t\t98\n\t\t96\n\t\t18\n\t\n\t\n\t\tCOLONIA EMILIANO ZAPATA (LOS PALMA)\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tCRUZ GRANDE\n\t\t25\n\t\t4,356\n\t\t2,185\n\t\t2,171\n\t\t232\n\t\n\t\n\t\tCUATRO BANCOS\n\t\t3\n\t\t234\n\t\t110\n\t\t124\n\t\t11\n\t\n\t\n\t\tDIOS TE LIBRE\n\t\t2\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL CHAMIZAL\n\t\t2\n\t\t94\n\t\t44\n\t\t50\n\t\t6\n\t\n\t\n\t\tEL MÉDANO\n\t\t2\n\t\t49\n\t\t29\n\t\t20\n\t\t4\n\t\n\t\n\t\tEL MESÓN\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL PORVENIR\n\t\t3\n\t\t107\n\t\t47\n\t\t60\n\t\t9\n\t\n\t\n\t\tEL TEJORUCO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tLA AGRÍCOLA\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA CUBA\n\t\t2\n\t\t9\n\t\t2\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA MÁQUINA DE NEXPA\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA RUSIA\n\t\t2\n\t\t22\n\t\t6\n\t\t16\n\t\t2\n\t\n\t\n\t\tLAS ÁNIMAS\n\t\t4\n\t\t224\n\t\t98\n\t\t126\n\t\t18\n\t\n\t\n\t\tLAS GARZAS\n\t\t3\n\t\t90\n\t\t46\n\t\t44\n\t\t7\n\t\n\t\n\t\tLAS ISLETAS\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tLLANO DE LA BARRA\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLLANO GRANDE\n\t\t3\n\t\t228\n\t\t98\n\t\t130\n\t\t18\n\t\n\t\n\t\tLOS ACHOTES\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS CHARQUITOS\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tLOS TAMARINDOS\n\t\t3\n\t\t76\n\t\t34\n\t\t42\n\t\t6\n\t\n\t\n\t\tPICO DEL MONTE\n\t\t3\n\t\t164\n\t\t82\n\t\t82\n\t\t8\n\t\n\t\n\t\tPLAYA LARGA VIEJA (PLAYA LARGA)\n\t\t1\n\t\t86\n\t\t42\n\t\t44\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DE LAS FLORES\n\t\t1\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t93\n\t\t6,429\n\t\t3,168\n\t\t3,261\n\t\t390\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: FLORENCIO VILLARREAL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACAPULQUITO",
+          "3",
+          "89",
+          "39",
+          "50",
+          "6",
+          "ARROYO SECO",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2",
+          "BOCA DEL RÍO",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7",
+          "CANTARRANAS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3",
+          "CHARCO DEL POZO",
+          "3",
+          "60",
+          "33",
+          "27",
+          "5",
+          "CHAUTENGO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "18",
+          "COLONIA EMILIANO ZAPATA (LOS PALMA)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "CRUZ GRANDE",
+          "25",
+          "4,356",
+          "2,185",
+          "2,171",
+          "232",
+          "CUATRO BANCOS",
+          "3",
+          "234",
+          "110",
+          "124",
+          "11",
+          "DIOS TE LIBRE",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3",
+          "EL CHAMIZAL",
+          "2",
+          "94",
+          "44",
+          "50",
+          "6",
+          "EL MÉDANO",
+          "2",
+          "49",
+          "29",
+          "20",
+          "4",
+          "EL MESÓN",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "EL PORVENIR",
+          "3",
+          "107",
+          "47",
+          "60",
+          "9",
+          "EL TEJORUCO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2",
+          "LA AGRÍCOLA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "LA CUBA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2",
+          "LA MÁQUINA DE NEXPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3",
+          "LA RUSIA",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2",
+          "LAS ÁNIMAS",
+          "4",
+          "224",
+          "98",
+          "126",
+          "18",
+          "LAS GARZAS",
+          "3",
+          "90",
+          "46",
+          "44",
+          "7",
+          "LAS ISLETAS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "LLANO DE LA BARRA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LLANO GRANDE",
+          "3",
+          "228",
+          "98",
+          "130",
+          "18",
+          "LOS ACHOTES",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LOS CHARQUITOS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "LOS TAMARINDOS",
+          "3",
+          "76",
+          "34",
+          "42",
+          "6",
+          "PICO DEL MONTE",
+          "3",
+          "164",
+          "82",
+          "82",
+          "8",
+          "PLAYA LARGA VIEJA (PLAYA LARGA)",
+          "1",
+          "86",
+          "42",
+          "44",
+          "5",
+          "SAN JOSÉ DE LAS FLORES",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2",
+          "TOTAL",
+          "93",
+          "6,429",
+          "3,168",
+          "3,261",
+          "390",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: FLORENCIO VILLARREAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPULQUITO",
+          "3",
+          "89",
+          "39",
+          "50",
+          "6"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2"
+        ],
+        [
+          "BOCA DEL RÍO",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "CANTARRANAS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "CHARCO DEL POZO",
+          "3",
+          "60",
+          "33",
+          "27",
+          "5"
+        ],
+        [
+          "CHAUTENGO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "18"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA (LOS PALMA)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "CRUZ GRANDE",
+          "25",
+          "4,356",
+          "2,185",
+          "2,171",
+          "232"
+        ],
+        [
+          "CUATRO BANCOS",
+          "3",
+          "234",
+          "110",
+          "124",
+          "11"
+        ],
+        [
+          "DIOS TE LIBRE",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "EL CHAMIZAL",
+          "2",
+          "94",
+          "44",
+          "50",
+          "6"
+        ],
+        [
+          "EL MÉDANO",
+          "2",
+          "49",
+          "29",
+          "20",
+          "4"
+        ],
+        [
+          "EL MESÓN",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "107",
+          "47",
+          "60",
+          "9"
+        ],
+        [
+          "EL TEJORUCO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "LA AGRÍCOLA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "LA CUBA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "LA MÁQUINA DE NEXPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "LA RUSIA",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "4",
+          "224",
+          "98",
+          "126",
+          "18"
+        ],
+        [
+          "LAS GARZAS",
+          "3",
+          "90",
+          "46",
+          "44",
+          "7"
+        ],
+        [
+          "LAS ISLETAS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LLANO DE LA BARRA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "228",
+          "98",
+          "130",
+          "18"
+        ],
+        [
+          "LOS ACHOTES",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CHARQUITOS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LOS TAMARINDOS",
+          "3",
+          "76",
+          "34",
+          "42",
+          "6"
+        ],
+        [
+          "PICO DEL MONTE",
+          "3",
+          "164",
+          "82",
+          "82",
+          "8"
+        ],
+        [
+          "PLAYA LARGA VIEJA (PLAYA LARGA)",
+          "1",
+          "86",
+          "42",
+          "44",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "6,429",
+          "3,168",
+          "3,261",
+          "390"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: FLORENCIO VILLARREAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPULQUITO",
+          "3",
+          "89",
+          "39",
+          "50",
+          "6"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2"
+        ],
+        [
+          "BOCA DEL RÍO",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "CANTARRANAS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "CHARCO DEL POZO",
+          "3",
+          "60",
+          "33",
+          "27",
+          "5"
+        ],
+        [
+          "CHAUTENGO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "18"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA (LOS PALMA)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "CRUZ GRANDE",
+          "25",
+          "4,356",
+          "2,185",
+          "2,171",
+          "232"
+        ],
+        [
+          "CUATRO BANCOS",
+          "3",
+          "234",
+          "110",
+          "124",
+          "11"
+        ],
+        [
+          "DIOS TE LIBRE",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "EL CHAMIZAL",
+          "2",
+          "94",
+          "44",
+          "50",
+          "6"
+        ],
+        [
+          "EL MÉDANO",
+          "2",
+          "49",
+          "29",
+          "20",
+          "4"
+        ],
+        [
+          "EL MESÓN",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "107",
+          "47",
+          "60",
+          "9"
+        ],
+        [
+          "EL TEJORUCO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "LA AGRÍCOLA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "LA CUBA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "LA MÁQUINA DE NEXPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "LA RUSIA",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "4",
+          "224",
+          "98",
+          "126",
+          "18"
+        ],
+        [
+          "LAS GARZAS",
+          "3",
+          "90",
+          "46",
+          "44",
+          "7"
+        ],
+        [
+          "LAS ISLETAS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LLANO DE LA BARRA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "228",
+          "98",
+          "130",
+          "18"
+        ],
+        [
+          "LOS ACHOTES",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CHARQUITOS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LOS TAMARINDOS",
+          "3",
+          "76",
+          "34",
+          "42",
+          "6"
+        ],
+        [
+          "PICO DEL MONTE",
+          "3",
+          "164",
+          "82",
+          "82",
+          "8"
+        ],
+        [
+          "PLAYA LARGA VIEJA (PLAYA LARGA)",
+          "1",
+          "86",
+          "42",
+          "44",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "6,429",
+          "3,168",
+          "3,261",
+          "390"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:24.767Z"
+}

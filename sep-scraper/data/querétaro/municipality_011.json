@@ -1,0 +1,1286 @@
+{
+  "municipality": "EL MARQUÉS",
+  "municipalityCode": "011",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EL MARQUÉS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA AZUL\n\t\t4\n\t\t845\n\t\t425\n\t\t420\n\t\t28\n\t\n\t\n\t\tALFAJAYUCAN\n\t\t4\n\t\t859\n\t\t441\n\t\t418\n\t\t26\n\t\n\t\n\t\tAMAZCALA\n\t\t8\n\t\t2,072\n\t\t1,062\n\t\t1,010\n\t\t115\n\t\n\t\n\t\tATONGO\n\t\t4\n\t\t954\n\t\t486\n\t\t468\n\t\t31\n\t\n\t\n\t\tCALAMANDA\n\t\t2\n\t\t356\n\t\t179\n\t\t177\n\t\t14\n\t\n\t\n\t\tCAMPESTRE SAN ISIDRO [FRACCIONAMIENTO]\n\t\t2\n\t\t145\n\t\t71\n\t\t74\n\t\t9\n\t\n\t\n\t\tCERRITO COLORADO (LA CURVA)\n\t\t2\n\t\t447\n\t\t215\n\t\t232\n\t\t16\n\t\n\t\n\t\tCERRO PRIETO\n\t\t2\n\t\t200\n\t\t100\n\t\t100\n\t\t8\n\t\n\t\n\t\tCHICHIMEQUILLAS\n\t\t6\n\t\t2,279\n\t\t1,187\n\t\t1,092\n\t\t109\n\t\n\t\n\t\tCOYOTILLOS\n\t\t2\n\t\t337\n\t\t153\n\t\t184\n\t\t13\n\t\n\t\n\t\tDOLORES\n\t\t2\n\t\t111\n\t\t51\n\t\t60\n\t\t4\n\t\n\t\n\t\tEL CARMEN\n\t\t4\n\t\t861\n\t\t436\n\t\t425\n\t\t29\n\t\n\t\n\t\tEL COYME [RANCHO]\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL LOBO\n\t\t3\n\t\t517\n\t\t244\n\t\t273\n\t\t20\n\t\n\t\n\t\tEL PARAÍSO\n\t\t2\n\t\t303\n\t\t138\n\t\t165\n\t\t11\n\t\n\t\n\t\tEL POZO\n\t\t4\n\t\t876\n\t\t463\n\t\t413\n\t\t59\n\t\n\t\n\t\tEL RODEO\n\t\t1\n\t\t49\n\t\t26\n\t\t23\n\t\t2\n\t\n\t\n\t\tEL ROSARIO\n\t\t3\n\t\t461\n\t\t202\n\t\t259\n\t\t18\n\t\n\t\n\t\tGENERAL LÁZARO CÁRDENAS (EL COLORADO)\n\t\t10\n\t\t2,705\n\t\t1,379\n\t\t1,326\n\t\t140\n\t\n\t\n\t\tGUADALUPE LA VENTA\n\t\t2\n\t\t237\n\t\t117\n\t\t120\n\t\t8\n\t\n\t\n\t\tHACIENDA LA CRUZ [FRACCIONAMIENTO]\n\t\t3\n\t\t567\n\t\t264\n\t\t303\n\t\t16\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t7\n\t\t2,071\n\t\t1,064\n\t\t1,007\n\t\t77\n\t\n\t\n\t\tLA CAÑADA\n\t\t35\n\t\t5,228\n\t\t2,669\n\t\t2,559\n\t\t284\n\t\n\t\n\t\tLA GRIEGA\n\t\t8\n\t\t3,421\n\t\t1,656\n\t\t1,765\n\t\t220\n\t\n\t\n\t\tLA LABORCILLA\n\t\t4\n\t\t241\n\t\t110\n\t\t131\n\t\t11\n\t\n\t\n\t\tLA LOMA\n\t\t2\n\t\t512\n\t\t242\n\t\t270\n\t\t15\n\t\n\t\n\t\tLA MARIOLA (EL ROSARIO)\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PIEDAD (SAN MIGUEL COLORADO)\n\t\t6\n\t\t1,999\n\t\t1,009\n\t\t990\n\t\t65\n\t\n\t\n\t\tLA PRADERA\n\t\t10\n\t\t2,610\n\t\t1,314\n\t\t1,296\n\t\t117\n\t\n\t\n\t\tLAS CRUCES\n\t\t2\n\t\t7,873\n\t\t4,549\n\t\t3,324\n\t\t2,962\n\t\n\t\n\t\tLAS LAJITAS\n\t\t3\n\t\t253\n\t\t117\n\t\t136\n\t\t11\n\t\n\t\n\t\tLOS POCITOS\n\t\t3\n\t\t338\n\t\t174\n\t\t164\n\t\t12\n\t\n\t\n\t\tMATANZAS\n\t\t2\n\t\t49\n\t\t21\n\t\t28\n\t\t3\n\t\n\t\n\t\tPALO ALTO\n\t\t4\n\t\t1,000\n\t\t477\n\t\t523\n\t\t38\n\t\n\t\n\t\tPASEOS DEL MARQUÉS\n\t\t6\n\t\t1,991\n\t\t974\n\t\t1,017\n\t\t95\n\t\n\t\n\t\tPRESA DE RAYAS\n\t\t3\n\t\t350\n\t\t172\n\t\t178\n\t\t12\n\t\n\t\n\t\tPRESA DEL CARMEN\n\t\t1\n\t\t21\n\t\t14\n\t\t7\n\t\t2\n\t\n\t\n\t\tREAL SOLARE\n\t\t2\n\t\t535\n\t\t253\n\t\t282\n\t\t27\n\t\n\t\n\t\tSALDARRIAGA\n\t\t21\n\t\t7,318\n\t\t3,807\n\t\t3,511\n\t\t654\n\t\n\t\n\t\tSAN ISIDRO MIRANDA\n\t\t4\n\t\t1,221\n\t\t590\n\t\t631\n\t\t38\n\t\n\t\n\t\tSAN JOSÉ NAVAJAS\n\t\t4\n\t\t684\n\t\t322\n\t\t362\n\t\t22\n\t\n\t\n\t\tSAN MIGUEL AMAZCALA\n\t\t2\n\t\t302\n\t\t136\n\t\t166\n\t\t9\n\t\n\t\n\t\tSAN PEDRITO (LA TEGUA)\n\t\t2\n\t\t22\n\t\t15\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN PEDRO ZACATENCO\n\t\t3\n\t\t27\n\t\t10\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN RAFAEL\n\t\t4\n\t\t548\n\t\t262\n\t\t286\n\t\t21\n\t\n\t\n\t\tSAN VICENTE FERRER\n\t\t3\n\t\t562\n\t\t275\n\t\t287\n\t\t16\n\t\n\t\n\t\tSANTA CRUZ\n\t\t4\n\t\t1,237\n\t\t619\n\t\t618\n\t\t38\n\t\n\t\n\t\tSANTA MARÍA BEGOÑA\n\t\t3\n\t\t518\n\t\t258\n\t\t260\n\t\t17\n\t\n\t\n\t\tSANTA MARÍA DE LOS BAÑOS\n\t\t4\n\t\t696\n\t\t345\n\t\t351\n\t\t22\n\t\n\t\n\t\tSANTA MARÍA TICOMÁN\n\t\t2\n\t\t391\n\t\t176\n\t\t215\n\t\t14\n\t\n\t\n\t\tSEGUNDO BARRIO DE DOLORES\n\t\t1\n\t\t35\n\t\t18\n\t\t17\n\t\t3\n\t\n\t\n\t\tTECNOLÓGICO INNOVACIÓN [PARQUE INDUSTRIAL]\n\t\t1\n\t\t4,695\n\t\t1,852\n\t\t2,843\n\t\t469\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t4\n\t\t748\n\t\t350\n\t\t398\n\t\t26\n\t\n\t\n\t\tVILLAS LA PIEDAD\n\t\t3\n\t\t638\n\t\t323\n\t\t315\n\t\t18\n\t\n\t\n\t\tTOTAL\n\t\t235\n\t\t63,334\n\t\t31,823\n\t\t31,511\n\t\t6,001\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EL MARQUÉS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA AZUL",
+          "4",
+          "845",
+          "425",
+          "420",
+          "28",
+          "ALFAJAYUCAN",
+          "4",
+          "859",
+          "441",
+          "418",
+          "26",
+          "AMAZCALA",
+          "8",
+          "2,072",
+          "1,062",
+          "1,010",
+          "115",
+          "ATONGO",
+          "4",
+          "954",
+          "486",
+          "468",
+          "31",
+          "CALAMANDA",
+          "2",
+          "356",
+          "179",
+          "177",
+          "14",
+          "CAMPESTRE SAN ISIDRO [FRACCIONAMIENTO]",
+          "2",
+          "145",
+          "71",
+          "74",
+          "9",
+          "CERRITO COLORADO (LA CURVA)",
+          "2",
+          "447",
+          "215",
+          "232",
+          "16",
+          "CERRO PRIETO",
+          "2",
+          "200",
+          "100",
+          "100",
+          "8",
+          "CHICHIMEQUILLAS",
+          "6",
+          "2,279",
+          "1,187",
+          "1,092",
+          "109",
+          "COYOTILLOS",
+          "2",
+          "337",
+          "153",
+          "184",
+          "13",
+          "DOLORES",
+          "2",
+          "111",
+          "51",
+          "60",
+          "4",
+          "EL CARMEN",
+          "4",
+          "861",
+          "436",
+          "425",
+          "29",
+          "EL COYME [RANCHO]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "EL LOBO",
+          "3",
+          "517",
+          "244",
+          "273",
+          "20",
+          "EL PARAÍSO",
+          "2",
+          "303",
+          "138",
+          "165",
+          "11",
+          "EL POZO",
+          "4",
+          "876",
+          "463",
+          "413",
+          "59",
+          "EL RODEO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "2",
+          "EL ROSARIO",
+          "3",
+          "461",
+          "202",
+          "259",
+          "18",
+          "GENERAL LÁZARO CÁRDENAS (EL COLORADO)",
+          "10",
+          "2,705",
+          "1,379",
+          "1,326",
+          "140",
+          "GUADALUPE LA VENTA",
+          "2",
+          "237",
+          "117",
+          "120",
+          "8",
+          "HACIENDA LA CRUZ [FRACCIONAMIENTO]",
+          "3",
+          "567",
+          "264",
+          "303",
+          "16",
+          "JESÚS MARÍA",
+          "7",
+          "2,071",
+          "1,064",
+          "1,007",
+          "77",
+          "LA CAÑADA",
+          "35",
+          "5,228",
+          "2,669",
+          "2,559",
+          "284",
+          "LA GRIEGA",
+          "8",
+          "3,421",
+          "1,656",
+          "1,765",
+          "220",
+          "LA LABORCILLA",
+          "4",
+          "241",
+          "110",
+          "131",
+          "11",
+          "LA LOMA",
+          "2",
+          "512",
+          "242",
+          "270",
+          "15",
+          "LA MARIOLA (EL ROSARIO)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LA PIEDAD (SAN MIGUEL COLORADO)",
+          "6",
+          "1,999",
+          "1,009",
+          "990",
+          "65",
+          "LA PRADERA",
+          "10",
+          "2,610",
+          "1,314",
+          "1,296",
+          "117",
+          "LAS CRUCES",
+          "2",
+          "7,873",
+          "4,549",
+          "3,324",
+          "2,962",
+          "LAS LAJITAS",
+          "3",
+          "253",
+          "117",
+          "136",
+          "11",
+          "LOS POCITOS",
+          "3",
+          "338",
+          "174",
+          "164",
+          "12",
+          "MATANZAS",
+          "2",
+          "49",
+          "21",
+          "28",
+          "3",
+          "PALO ALTO",
+          "4",
+          "1,000",
+          "477",
+          "523",
+          "38",
+          "PASEOS DEL MARQUÉS",
+          "6",
+          "1,991",
+          "974",
+          "1,017",
+          "95",
+          "PRESA DE RAYAS",
+          "3",
+          "350",
+          "172",
+          "178",
+          "12",
+          "PRESA DEL CARMEN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "2",
+          "REAL SOLARE",
+          "2",
+          "535",
+          "253",
+          "282",
+          "27",
+          "SALDARRIAGA",
+          "21",
+          "7,318",
+          "3,807",
+          "3,511",
+          "654",
+          "SAN ISIDRO MIRANDA",
+          "4",
+          "1,221",
+          "590",
+          "631",
+          "38",
+          "SAN JOSÉ NAVAJAS",
+          "4",
+          "684",
+          "322",
+          "362",
+          "22",
+          "SAN MIGUEL AMAZCALA",
+          "2",
+          "302",
+          "136",
+          "166",
+          "9",
+          "SAN PEDRITO (LA TEGUA)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2",
+          "SAN PEDRO ZACATENCO",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3",
+          "SAN RAFAEL",
+          "4",
+          "548",
+          "262",
+          "286",
+          "21",
+          "SAN VICENTE FERRER",
+          "3",
+          "562",
+          "275",
+          "287",
+          "16",
+          "SANTA CRUZ",
+          "4",
+          "1,237",
+          "619",
+          "618",
+          "38",
+          "SANTA MARÍA BEGOÑA",
+          "3",
+          "518",
+          "258",
+          "260",
+          "17",
+          "SANTA MARÍA DE LOS BAÑOS",
+          "4",
+          "696",
+          "345",
+          "351",
+          "22",
+          "SANTA MARÍA TICOMÁN",
+          "2",
+          "391",
+          "176",
+          "215",
+          "14",
+          "SEGUNDO BARRIO DE DOLORES",
+          "1",
+          "35",
+          "18",
+          "17",
+          "3",
+          "TECNOLÓGICO INNOVACIÓN [PARQUE INDUSTRIAL]",
+          "1",
+          "4,695",
+          "1,852",
+          "2,843",
+          "469",
+          "TIERRA BLANCA",
+          "4",
+          "748",
+          "350",
+          "398",
+          "26",
+          "VILLAS LA PIEDAD",
+          "3",
+          "638",
+          "323",
+          "315",
+          "18",
+          "TOTAL",
+          "235",
+          "63,334",
+          "31,823",
+          "31,511",
+          "6,001",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EL MARQUÉS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA AZUL",
+          "4",
+          "845",
+          "425",
+          "420",
+          "28"
+        ],
+        [
+          "ALFAJAYUCAN",
+          "4",
+          "859",
+          "441",
+          "418",
+          "26"
+        ],
+        [
+          "AMAZCALA",
+          "8",
+          "2,072",
+          "1,062",
+          "1,010",
+          "115"
+        ],
+        [
+          "ATONGO",
+          "4",
+          "954",
+          "486",
+          "468",
+          "31"
+        ],
+        [
+          "CALAMANDA",
+          "2",
+          "356",
+          "179",
+          "177",
+          "14"
+        ],
+        [
+          "CAMPESTRE SAN ISIDRO [FRACCIONAMIENTO]",
+          "2",
+          "145",
+          "71",
+          "74",
+          "9"
+        ],
+        [
+          "CERRITO COLORADO (LA CURVA)",
+          "2",
+          "447",
+          "215",
+          "232",
+          "16"
+        ],
+        [
+          "CERRO PRIETO",
+          "2",
+          "200",
+          "100",
+          "100",
+          "8"
+        ],
+        [
+          "CHICHIMEQUILLAS",
+          "6",
+          "2,279",
+          "1,187",
+          "1,092",
+          "109"
+        ],
+        [
+          "COYOTILLOS",
+          "2",
+          "337",
+          "153",
+          "184",
+          "13"
+        ],
+        [
+          "DOLORES",
+          "2",
+          "111",
+          "51",
+          "60",
+          "4"
+        ],
+        [
+          "EL CARMEN",
+          "4",
+          "861",
+          "436",
+          "425",
+          "29"
+        ],
+        [
+          "EL COYME [RANCHO]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL LOBO",
+          "3",
+          "517",
+          "244",
+          "273",
+          "20"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "303",
+          "138",
+          "165",
+          "11"
+        ],
+        [
+          "EL POZO",
+          "4",
+          "876",
+          "463",
+          "413",
+          "59"
+        ],
+        [
+          "EL RODEO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "3",
+          "461",
+          "202",
+          "259",
+          "18"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS (EL COLORADO)",
+          "10",
+          "2,705",
+          "1,379",
+          "1,326",
+          "140"
+        ],
+        [
+          "GUADALUPE LA VENTA",
+          "2",
+          "237",
+          "117",
+          "120",
+          "8"
+        ],
+        [
+          "HACIENDA LA CRUZ [FRACCIONAMIENTO]",
+          "3",
+          "567",
+          "264",
+          "303",
+          "16"
+        ],
+        [
+          "JESÚS MARÍA",
+          "7",
+          "2,071",
+          "1,064",
+          "1,007",
+          "77"
+        ],
+        [
+          "LA CAÑADA",
+          "35",
+          "5,228",
+          "2,669",
+          "2,559",
+          "284"
+        ],
+        [
+          "LA GRIEGA",
+          "8",
+          "3,421",
+          "1,656",
+          "1,765",
+          "220"
+        ],
+        [
+          "LA LABORCILLA",
+          "4",
+          "241",
+          "110",
+          "131",
+          "11"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "512",
+          "242",
+          "270",
+          "15"
+        ],
+        [
+          "LA MARIOLA (EL ROSARIO)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA PIEDAD (SAN MIGUEL COLORADO)",
+          "6",
+          "1,999",
+          "1,009",
+          "990",
+          "65"
+        ],
+        [
+          "LA PRADERA",
+          "10",
+          "2,610",
+          "1,314",
+          "1,296",
+          "117"
+        ],
+        [
+          "LAS CRUCES",
+          "2",
+          "7,873",
+          "4,549",
+          "3,324",
+          "2,962"
+        ],
+        [
+          "LAS LAJITAS",
+          "3",
+          "253",
+          "117",
+          "136",
+          "11"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "338",
+          "174",
+          "164",
+          "12"
+        ],
+        [
+          "MATANZAS",
+          "2",
+          "49",
+          "21",
+          "28",
+          "3"
+        ],
+        [
+          "PALO ALTO",
+          "4",
+          "1,000",
+          "477",
+          "523",
+          "38"
+        ],
+        [
+          "PASEOS DEL MARQUÉS",
+          "6",
+          "1,991",
+          "974",
+          "1,017",
+          "95"
+        ],
+        [
+          "PRESA DE RAYAS",
+          "3",
+          "350",
+          "172",
+          "178",
+          "12"
+        ],
+        [
+          "PRESA DEL CARMEN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "REAL SOLARE",
+          "2",
+          "535",
+          "253",
+          "282",
+          "27"
+        ],
+        [
+          "SALDARRIAGA",
+          "21",
+          "7,318",
+          "3,807",
+          "3,511",
+          "654"
+        ],
+        [
+          "SAN ISIDRO MIRANDA",
+          "4",
+          "1,221",
+          "590",
+          "631",
+          "38"
+        ],
+        [
+          "SAN JOSÉ NAVAJAS",
+          "4",
+          "684",
+          "322",
+          "362",
+          "22"
+        ],
+        [
+          "SAN MIGUEL AMAZCALA",
+          "2",
+          "302",
+          "136",
+          "166",
+          "9"
+        ],
+        [
+          "SAN PEDRITO (LA TEGUA)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "SAN PEDRO ZACATENCO",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "548",
+          "262",
+          "286",
+          "21"
+        ],
+        [
+          "SAN VICENTE FERRER",
+          "3",
+          "562",
+          "275",
+          "287",
+          "16"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "1,237",
+          "619",
+          "618",
+          "38"
+        ],
+        [
+          "SANTA MARÍA BEGOÑA",
+          "3",
+          "518",
+          "258",
+          "260",
+          "17"
+        ],
+        [
+          "SANTA MARÍA DE LOS BAÑOS",
+          "4",
+          "696",
+          "345",
+          "351",
+          "22"
+        ],
+        [
+          "SANTA MARÍA TICOMÁN",
+          "2",
+          "391",
+          "176",
+          "215",
+          "14"
+        ],
+        [
+          "SEGUNDO BARRIO DE DOLORES",
+          "1",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "TECNOLÓGICO INNOVACIÓN [PARQUE INDUSTRIAL]",
+          "1",
+          "4,695",
+          "1,852",
+          "2,843",
+          "469"
+        ],
+        [
+          "TIERRA BLANCA",
+          "4",
+          "748",
+          "350",
+          "398",
+          "26"
+        ],
+        [
+          "VILLAS LA PIEDAD",
+          "3",
+          "638",
+          "323",
+          "315",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "235",
+          "63,334",
+          "31,823",
+          "31,511",
+          "6,001"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: EL MARQUÉS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA AZUL",
+          "4",
+          "845",
+          "425",
+          "420",
+          "28"
+        ],
+        [
+          "ALFAJAYUCAN",
+          "4",
+          "859",
+          "441",
+          "418",
+          "26"
+        ],
+        [
+          "AMAZCALA",
+          "8",
+          "2,072",
+          "1,062",
+          "1,010",
+          "115"
+        ],
+        [
+          "ATONGO",
+          "4",
+          "954",
+          "486",
+          "468",
+          "31"
+        ],
+        [
+          "CALAMANDA",
+          "2",
+          "356",
+          "179",
+          "177",
+          "14"
+        ],
+        [
+          "CAMPESTRE SAN ISIDRO [FRACCIONAMIENTO]",
+          "2",
+          "145",
+          "71",
+          "74",
+          "9"
+        ],
+        [
+          "CERRITO COLORADO (LA CURVA)",
+          "2",
+          "447",
+          "215",
+          "232",
+          "16"
+        ],
+        [
+          "CERRO PRIETO",
+          "2",
+          "200",
+          "100",
+          "100",
+          "8"
+        ],
+        [
+          "CHICHIMEQUILLAS",
+          "6",
+          "2,279",
+          "1,187",
+          "1,092",
+          "109"
+        ],
+        [
+          "COYOTILLOS",
+          "2",
+          "337",
+          "153",
+          "184",
+          "13"
+        ],
+        [
+          "DOLORES",
+          "2",
+          "111",
+          "51",
+          "60",
+          "4"
+        ],
+        [
+          "EL CARMEN",
+          "4",
+          "861",
+          "436",
+          "425",
+          "29"
+        ],
+        [
+          "EL COYME [RANCHO]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL LOBO",
+          "3",
+          "517",
+          "244",
+          "273",
+          "20"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "303",
+          "138",
+          "165",
+          "11"
+        ],
+        [
+          "EL POZO",
+          "4",
+          "876",
+          "463",
+          "413",
+          "59"
+        ],
+        [
+          "EL RODEO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "3",
+          "461",
+          "202",
+          "259",
+          "18"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS (EL COLORADO)",
+          "10",
+          "2,705",
+          "1,379",
+          "1,326",
+          "140"
+        ],
+        [
+          "GUADALUPE LA VENTA",
+          "2",
+          "237",
+          "117",
+          "120",
+          "8"
+        ],
+        [
+          "HACIENDA LA CRUZ [FRACCIONAMIENTO]",
+          "3",
+          "567",
+          "264",
+          "303",
+          "16"
+        ],
+        [
+          "JESÚS MARÍA",
+          "7",
+          "2,071",
+          "1,064",
+          "1,007",
+          "77"
+        ],
+        [
+          "LA CAÑADA",
+          "35",
+          "5,228",
+          "2,669",
+          "2,559",
+          "284"
+        ],
+        [
+          "LA GRIEGA",
+          "8",
+          "3,421",
+          "1,656",
+          "1,765",
+          "220"
+        ],
+        [
+          "LA LABORCILLA",
+          "4",
+          "241",
+          "110",
+          "131",
+          "11"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "512",
+          "242",
+          "270",
+          "15"
+        ],
+        [
+          "LA MARIOLA (EL ROSARIO)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA PIEDAD (SAN MIGUEL COLORADO)",
+          "6",
+          "1,999",
+          "1,009",
+          "990",
+          "65"
+        ],
+        [
+          "LA PRADERA",
+          "10",
+          "2,610",
+          "1,314",
+          "1,296",
+          "117"
+        ],
+        [
+          "LAS CRUCES",
+          "2",
+          "7,873",
+          "4,549",
+          "3,324",
+          "2,962"
+        ],
+        [
+          "LAS LAJITAS",
+          "3",
+          "253",
+          "117",
+          "136",
+          "11"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "338",
+          "174",
+          "164",
+          "12"
+        ],
+        [
+          "MATANZAS",
+          "2",
+          "49",
+          "21",
+          "28",
+          "3"
+        ],
+        [
+          "PALO ALTO",
+          "4",
+          "1,000",
+          "477",
+          "523",
+          "38"
+        ],
+        [
+          "PASEOS DEL MARQUÉS",
+          "6",
+          "1,991",
+          "974",
+          "1,017",
+          "95"
+        ],
+        [
+          "PRESA DE RAYAS",
+          "3",
+          "350",
+          "172",
+          "178",
+          "12"
+        ],
+        [
+          "PRESA DEL CARMEN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "REAL SOLARE",
+          "2",
+          "535",
+          "253",
+          "282",
+          "27"
+        ],
+        [
+          "SALDARRIAGA",
+          "21",
+          "7,318",
+          "3,807",
+          "3,511",
+          "654"
+        ],
+        [
+          "SAN ISIDRO MIRANDA",
+          "4",
+          "1,221",
+          "590",
+          "631",
+          "38"
+        ],
+        [
+          "SAN JOSÉ NAVAJAS",
+          "4",
+          "684",
+          "322",
+          "362",
+          "22"
+        ],
+        [
+          "SAN MIGUEL AMAZCALA",
+          "2",
+          "302",
+          "136",
+          "166",
+          "9"
+        ],
+        [
+          "SAN PEDRITO (LA TEGUA)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "SAN PEDRO ZACATENCO",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "548",
+          "262",
+          "286",
+          "21"
+        ],
+        [
+          "SAN VICENTE FERRER",
+          "3",
+          "562",
+          "275",
+          "287",
+          "16"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "1,237",
+          "619",
+          "618",
+          "38"
+        ],
+        [
+          "SANTA MARÍA BEGOÑA",
+          "3",
+          "518",
+          "258",
+          "260",
+          "17"
+        ],
+        [
+          "SANTA MARÍA DE LOS BAÑOS",
+          "4",
+          "696",
+          "345",
+          "351",
+          "22"
+        ],
+        [
+          "SANTA MARÍA TICOMÁN",
+          "2",
+          "391",
+          "176",
+          "215",
+          "14"
+        ],
+        [
+          "SEGUNDO BARRIO DE DOLORES",
+          "1",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "TECNOLÓGICO INNOVACIÓN [PARQUE INDUSTRIAL]",
+          "1",
+          "4,695",
+          "1,852",
+          "2,843",
+          "469"
+        ],
+        [
+          "TIERRA BLANCA",
+          "4",
+          "748",
+          "350",
+          "398",
+          "26"
+        ],
+        [
+          "VILLAS LA PIEDAD",
+          "3",
+          "638",
+          "323",
+          "315",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "235",
+          "63,334",
+          "31,823",
+          "31,511",
+          "6,001"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:38.325Z"
+}

@@ -1,0 +1,912 @@
+{
+  "municipality": "TIERRA BLANCA",
+  "municipalityCode": "040",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TIERRA BLANCA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO SECO\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tCANO DE SAN ISIDRO\n\t\t4\n\t\t345\n\t\t170\n\t\t175\n\t\t23\n\t\n\t\n\t\tCAÑADA DE JUANICA\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tCERRO BLANCO\n\t\t3\n\t\t18\n\t\t7\n\t\t11\n\t\t3\n\t\n\t\n\t\tCERRO COLORADO\n\t\t3\n\t\t224\n\t\t112\n\t\t112\n\t\t11\n\t\n\t\n\t\tCIENEGUILLA\n\t\t3\n\t\t1,061\n\t\t542\n\t\t519\n\t\t43\n\t\n\t\n\t\tDON BLAS\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL APARTADERO\n\t\t3\n\t\t78\n\t\t32\n\t\t46\n\t\t7\n\t\n\t\n\t\tEL HARTÓN\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL MEZQUITE\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL PANALITO\n\t\t2\n\t\t25\n\t\t9\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL PICACHO\n\t\t2\n\t\t145\n\t\t78\n\t\t67\n\t\t7\n\t\n\t\n\t\tEL SALTO\n\t\t2\n\t\t71\n\t\t28\n\t\t43\n\t\t3\n\t\n\t\n\t\tEL SAUZ\n\t\t4\n\t\t131\n\t\t60\n\t\t71\n\t\t9\n\t\n\t\n\t\tEL TEPETATE\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL VARAL\n\t\t3\n\t\t32\n\t\t13\n\t\t19\n\t\t3\n\t\n\t\n\t\tFRACCIÓN DE GUADALUPE\n\t\t2\n\t\t135\n\t\t59\n\t\t76\n\t\t7\n\t\n\t\n\t\tFRACCIÓN DEL CANO\n\t\t2\n\t\t106\n\t\t53\n\t\t53\n\t\t4\n\t\n\t\n\t\tGUADALUPE\n\t\t1\n\t\t17\n\t\t3\n\t\t14\n\t\t1\n\t\n\t\n\t\tLA BARBOSA\n\t\t2\n\t\t30\n\t\t16\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA CHAMACUERA\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA CUESTA DE PEÑONES\n\t\t4\n\t\t352\n\t\t179\n\t\t173\n\t\t13\n\t\n\t\n\t\tLA ESTANCIA\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA MESITA (LA GRANA)\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA TINAJA\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t2\n\t\t32\n\t\t15\n\t\t17\n\t\t2\n\t\n\t\n\t\tLAS MORAS\n\t\t2\n\t\t101\n\t\t53\n\t\t48\n\t\t5\n\t\n\t\n\t\tMONTE PRIETO\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t4\n\t\n\t\n\t\tOCOTILLOS\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t2\n\t\n\t\n\t\tPEÑA BLANCA DOS\n\t\t2\n\t\t73\n\t\t38\n\t\t35\n\t\t3\n\t\n\t\n\t\tPEÑA BLANCA UNO\n\t\t2\n\t\t52\n\t\t21\n\t\t31\n\t\t3\n\t\n\t\n\t\tRINCÓN DEL CANO\n\t\t4\n\t\t388\n\t\t205\n\t\t183\n\t\t14\n\t\n\t\n\t\tTEMASCALES\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t8\n\t\t1,759\n\t\t893\n\t\t866\n\t\t93\n\t\n\t\n\t\tTORRECITAS\n\t\t2\n\t\t89\n\t\t46\n\t\t43\n\t\t4\n\t\n\t\n\t\tVILLA UNIÓN\n\t\t2\n\t\t35\n\t\t21\n\t\t14\n\t\t2\n\t\n\t\n\t\tXOCONOXTLE\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t84\n\t\t5,534\n\t\t2,762\n\t\t2,772\n\t\t286\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TIERRA BLANCA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO SECO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "CANO DE SAN ISIDRO",
+          "4",
+          "345",
+          "170",
+          "175",
+          "23",
+          "CAÑADA DE JUANICA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "CERRO BLANCO",
+          "3",
+          "18",
+          "7",
+          "11",
+          "3",
+          "CERRO COLORADO",
+          "3",
+          "224",
+          "112",
+          "112",
+          "11",
+          "CIENEGUILLA",
+          "3",
+          "1,061",
+          "542",
+          "519",
+          "43",
+          "DON BLAS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "EL APARTADERO",
+          "3",
+          "78",
+          "32",
+          "46",
+          "7",
+          "EL HARTÓN",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2",
+          "EL MEZQUITE",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "EL PANALITO",
+          "2",
+          "25",
+          "9",
+          "16",
+          "2",
+          "EL PICACHO",
+          "2",
+          "145",
+          "78",
+          "67",
+          "7",
+          "EL SALTO",
+          "2",
+          "71",
+          "28",
+          "43",
+          "3",
+          "EL SAUZ",
+          "4",
+          "131",
+          "60",
+          "71",
+          "9",
+          "EL TEPETATE",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "EL VARAL",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3",
+          "FRACCIÓN DE GUADALUPE",
+          "2",
+          "135",
+          "59",
+          "76",
+          "7",
+          "FRACCIÓN DEL CANO",
+          "2",
+          "106",
+          "53",
+          "53",
+          "4",
+          "GUADALUPE",
+          "1",
+          "17",
+          "3",
+          "14",
+          "1",
+          "LA BARBOSA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2",
+          "LA CHAMACUERA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "LA CUESTA DE PEÑONES",
+          "4",
+          "352",
+          "179",
+          "173",
+          "13",
+          "LA ESTANCIA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LA MESITA (LA GRANA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LA TINAJA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "LAS ADJUNTAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2",
+          "LAS MORAS",
+          "2",
+          "101",
+          "53",
+          "48",
+          "5",
+          "MONTE PRIETO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4",
+          "OCOTILLOS",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2",
+          "PEÑA BLANCA DOS",
+          "2",
+          "73",
+          "38",
+          "35",
+          "3",
+          "PEÑA BLANCA UNO",
+          "2",
+          "52",
+          "21",
+          "31",
+          "3",
+          "RINCÓN DEL CANO",
+          "4",
+          "388",
+          "205",
+          "183",
+          "14",
+          "TEMASCALES",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "TIERRA BLANCA",
+          "8",
+          "1,759",
+          "893",
+          "866",
+          "93",
+          "TORRECITAS",
+          "2",
+          "89",
+          "46",
+          "43",
+          "4",
+          "VILLA UNIÓN",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2",
+          "XOCONOXTLE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "TOTAL",
+          "84",
+          "5,534",
+          "2,762",
+          "2,772",
+          "286",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TIERRA BLANCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "CANO DE SAN ISIDRO",
+          "4",
+          "345",
+          "170",
+          "175",
+          "23"
+        ],
+        [
+          "CAÑADA DE JUANICA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "CERRO BLANCO",
+          "3",
+          "18",
+          "7",
+          "11",
+          "3"
+        ],
+        [
+          "CERRO COLORADO",
+          "3",
+          "224",
+          "112",
+          "112",
+          "11"
+        ],
+        [
+          "CIENEGUILLA",
+          "3",
+          "1,061",
+          "542",
+          "519",
+          "43"
+        ],
+        [
+          "DON BLAS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL APARTADERO",
+          "3",
+          "78",
+          "32",
+          "46",
+          "7"
+        ],
+        [
+          "EL HARTÓN",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "EL MEZQUITE",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL PANALITO",
+          "2",
+          "25",
+          "9",
+          "16",
+          "2"
+        ],
+        [
+          "EL PICACHO",
+          "2",
+          "145",
+          "78",
+          "67",
+          "7"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "71",
+          "28",
+          "43",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "4",
+          "131",
+          "60",
+          "71",
+          "9"
+        ],
+        [
+          "EL TEPETATE",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL VARAL",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "FRACCIÓN DE GUADALUPE",
+          "2",
+          "135",
+          "59",
+          "76",
+          "7"
+        ],
+        [
+          "FRACCIÓN DEL CANO",
+          "2",
+          "106",
+          "53",
+          "53",
+          "4"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "17",
+          "3",
+          "14",
+          "1"
+        ],
+        [
+          "LA BARBOSA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "LA CHAMACUERA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "LA CUESTA DE PEÑONES",
+          "4",
+          "352",
+          "179",
+          "173",
+          "13"
+        ],
+        [
+          "LA ESTANCIA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA MESITA (LA GRANA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LA TINAJA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "LAS MORAS",
+          "2",
+          "101",
+          "53",
+          "48",
+          "5"
+        ],
+        [
+          "MONTE PRIETO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "OCOTILLOS",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "PEÑA BLANCA DOS",
+          "2",
+          "73",
+          "38",
+          "35",
+          "3"
+        ],
+        [
+          "PEÑA BLANCA UNO",
+          "2",
+          "52",
+          "21",
+          "31",
+          "3"
+        ],
+        [
+          "RINCÓN DEL CANO",
+          "4",
+          "388",
+          "205",
+          "183",
+          "14"
+        ],
+        [
+          "TEMASCALES",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "TIERRA BLANCA",
+          "8",
+          "1,759",
+          "893",
+          "866",
+          "93"
+        ],
+        [
+          "TORRECITAS",
+          "2",
+          "89",
+          "46",
+          "43",
+          "4"
+        ],
+        [
+          "VILLA UNIÓN",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "XOCONOXTLE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "5,534",
+          "2,762",
+          "2,772",
+          "286"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TIERRA BLANCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "CANO DE SAN ISIDRO",
+          "4",
+          "345",
+          "170",
+          "175",
+          "23"
+        ],
+        [
+          "CAÑADA DE JUANICA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "CERRO BLANCO",
+          "3",
+          "18",
+          "7",
+          "11",
+          "3"
+        ],
+        [
+          "CERRO COLORADO",
+          "3",
+          "224",
+          "112",
+          "112",
+          "11"
+        ],
+        [
+          "CIENEGUILLA",
+          "3",
+          "1,061",
+          "542",
+          "519",
+          "43"
+        ],
+        [
+          "DON BLAS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL APARTADERO",
+          "3",
+          "78",
+          "32",
+          "46",
+          "7"
+        ],
+        [
+          "EL HARTÓN",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "EL MEZQUITE",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL PANALITO",
+          "2",
+          "25",
+          "9",
+          "16",
+          "2"
+        ],
+        [
+          "EL PICACHO",
+          "2",
+          "145",
+          "78",
+          "67",
+          "7"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "71",
+          "28",
+          "43",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "4",
+          "131",
+          "60",
+          "71",
+          "9"
+        ],
+        [
+          "EL TEPETATE",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL VARAL",
+          "3",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "FRACCIÓN DE GUADALUPE",
+          "2",
+          "135",
+          "59",
+          "76",
+          "7"
+        ],
+        [
+          "FRACCIÓN DEL CANO",
+          "2",
+          "106",
+          "53",
+          "53",
+          "4"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "17",
+          "3",
+          "14",
+          "1"
+        ],
+        [
+          "LA BARBOSA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "LA CHAMACUERA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "LA CUESTA DE PEÑONES",
+          "4",
+          "352",
+          "179",
+          "173",
+          "13"
+        ],
+        [
+          "LA ESTANCIA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA MESITA (LA GRANA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LA TINAJA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "LAS MORAS",
+          "2",
+          "101",
+          "53",
+          "48",
+          "5"
+        ],
+        [
+          "MONTE PRIETO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "OCOTILLOS",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "PEÑA BLANCA DOS",
+          "2",
+          "73",
+          "38",
+          "35",
+          "3"
+        ],
+        [
+          "PEÑA BLANCA UNO",
+          "2",
+          "52",
+          "21",
+          "31",
+          "3"
+        ],
+        [
+          "RINCÓN DEL CANO",
+          "4",
+          "388",
+          "205",
+          "183",
+          "14"
+        ],
+        [
+          "TEMASCALES",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "TIERRA BLANCA",
+          "8",
+          "1,759",
+          "893",
+          "866",
+          "93"
+        ],
+        [
+          "TORRECITAS",
+          "2",
+          "89",
+          "46",
+          "43",
+          "4"
+        ],
+        [
+          "VILLA UNIÓN",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "XOCONOXTLE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "5,534",
+          "2,762",
+          "2,772",
+          "286"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:15.740Z"
+}

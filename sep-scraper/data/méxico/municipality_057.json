@@ -1,0 +1,428 @@
+{
+  "municipality": "NAUCALPAN DE JUÁREZ",
+  "municipalityCode": "057",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: NAUCALPAN DE JUÁREZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE BATHA\n\t\t1\n\t\t186\n\t\t107\n\t\t79\n\t\t6\n\t\n\t\n\t\tBARRIO LA VIGA (CERRO LOCO)\n\t\t2\n\t\t44\n\t\t23\n\t\t21\n\t\t4\n\t\n\t\n\t\tCHIMALPA VIEJO\n\t\t1\n\t\t498\n\t\t269\n\t\t229\n\t\t16\n\t\n\t\n\t\tEJIDO DEL TEJOCOTE\n\t\t3\n\t\t871\n\t\t441\n\t\t430\n\t\t25\n\t\n\t\n\t\tEJIDO EL CASTILLO\n\t\t3\n\t\t291\n\t\t147\n\t\t144\n\t\t17\n\t\n\t\n\t\tEJIDO SAN MATEO NOPALA (BELLAVISTA)\n\t\t3\n\t\t476\n\t\t255\n\t\t221\n\t\t28\n\t\n\t\n\t\tLA UNIDAD HUITZIZILAPAN\n\t\t1\n\t\t252\n\t\t129\n\t\t123\n\t\t10\n\t\n\t\n\t\tLLANO DE LAS FLORES (BARRIO DEL HUESO)\n\t\t1\n\t\t65\n\t\t31\n\t\t34\n\t\t3\n\t\n\t\n\t\tNAUCALPAN DE JUÁREZ\n\t\t757\n\t\t193,443\n\t\t97,248\n\t\t96,195\n\t\t13,527\n\t\n\t\n\t\tPUENTE DE PIEDRA\n\t\t2\n\t\t184\n\t\t80\n\t\t104\n\t\t8\n\t\n\t\n\t\tRINCÓN VERDE\n\t\t5\n\t\t1,243\n\t\t589\n\t\t654\n\t\t56\n\t\n\t\n\t\tSAN FRANCISCO CHIMALPA\n\t\t12\n\t\t3,300\n\t\t1,602\n\t\t1,698\n\t\t133\n\t\n\t\n\t\tSAN JOSÉ POZA HONDA\n\t\t3\n\t\t750\n\t\t382\n\t\t368\n\t\t41\n\t\n\t\n\t\tSAN JOSÉ TEJAMANIL\n\t\t3\n\t\t600\n\t\t292\n\t\t308\n\t\t22\n\t\n\t\n\t\tSANTIAGO TEPATLAXCO\n\t\t7\n\t\t1,429\n\t\t690\n\t\t739\n\t\t47\n\t\n\t\n\t\tTOTAL\n\t\t804\n\t\t203,632\n\t\t102,285\n\t\t101,347\n\t\t13,943\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: NAUCALPAN DE JUÁREZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE BATHA",
+          "1",
+          "186",
+          "107",
+          "79",
+          "6",
+          "BARRIO LA VIGA (CERRO LOCO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4",
+          "CHIMALPA VIEJO",
+          "1",
+          "498",
+          "269",
+          "229",
+          "16",
+          "EJIDO DEL TEJOCOTE",
+          "3",
+          "871",
+          "441",
+          "430",
+          "25",
+          "EJIDO EL CASTILLO",
+          "3",
+          "291",
+          "147",
+          "144",
+          "17",
+          "EJIDO SAN MATEO NOPALA (BELLAVISTA)",
+          "3",
+          "476",
+          "255",
+          "221",
+          "28",
+          "LA UNIDAD HUITZIZILAPAN",
+          "1",
+          "252",
+          "129",
+          "123",
+          "10",
+          "LLANO DE LAS FLORES (BARRIO DEL HUESO)",
+          "1",
+          "65",
+          "31",
+          "34",
+          "3",
+          "NAUCALPAN DE JUÁREZ",
+          "757",
+          "193,443",
+          "97,248",
+          "96,195",
+          "13,527",
+          "PUENTE DE PIEDRA",
+          "2",
+          "184",
+          "80",
+          "104",
+          "8",
+          "RINCÓN VERDE",
+          "5",
+          "1,243",
+          "589",
+          "654",
+          "56",
+          "SAN FRANCISCO CHIMALPA",
+          "12",
+          "3,300",
+          "1,602",
+          "1,698",
+          "133",
+          "SAN JOSÉ POZA HONDA",
+          "3",
+          "750",
+          "382",
+          "368",
+          "41",
+          "SAN JOSÉ TEJAMANIL",
+          "3",
+          "600",
+          "292",
+          "308",
+          "22",
+          "SANTIAGO TEPATLAXCO",
+          "7",
+          "1,429",
+          "690",
+          "739",
+          "47",
+          "TOTAL",
+          "804",
+          "203,632",
+          "102,285",
+          "101,347",
+          "13,943",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: NAUCALPAN DE JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE BATHA",
+          "1",
+          "186",
+          "107",
+          "79",
+          "6"
+        ],
+        [
+          "BARRIO LA VIGA (CERRO LOCO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4"
+        ],
+        [
+          "CHIMALPA VIEJO",
+          "1",
+          "498",
+          "269",
+          "229",
+          "16"
+        ],
+        [
+          "EJIDO DEL TEJOCOTE",
+          "3",
+          "871",
+          "441",
+          "430",
+          "25"
+        ],
+        [
+          "EJIDO EL CASTILLO",
+          "3",
+          "291",
+          "147",
+          "144",
+          "17"
+        ],
+        [
+          "EJIDO SAN MATEO NOPALA (BELLAVISTA)",
+          "3",
+          "476",
+          "255",
+          "221",
+          "28"
+        ],
+        [
+          "LA UNIDAD HUITZIZILAPAN",
+          "1",
+          "252",
+          "129",
+          "123",
+          "10"
+        ],
+        [
+          "LLANO DE LAS FLORES (BARRIO DEL HUESO)",
+          "1",
+          "65",
+          "31",
+          "34",
+          "3"
+        ],
+        [
+          "NAUCALPAN DE JUÁREZ",
+          "757",
+          "193,443",
+          "97,248",
+          "96,195",
+          "13,527"
+        ],
+        [
+          "PUENTE DE PIEDRA",
+          "2",
+          "184",
+          "80",
+          "104",
+          "8"
+        ],
+        [
+          "RINCÓN VERDE",
+          "5",
+          "1,243",
+          "589",
+          "654",
+          "56"
+        ],
+        [
+          "SAN FRANCISCO CHIMALPA",
+          "12",
+          "3,300",
+          "1,602",
+          "1,698",
+          "133"
+        ],
+        [
+          "SAN JOSÉ POZA HONDA",
+          "3",
+          "750",
+          "382",
+          "368",
+          "41"
+        ],
+        [
+          "SAN JOSÉ TEJAMANIL",
+          "3",
+          "600",
+          "292",
+          "308",
+          "22"
+        ],
+        [
+          "SANTIAGO TEPATLAXCO",
+          "7",
+          "1,429",
+          "690",
+          "739",
+          "47"
+        ],
+        [
+          "TOTAL",
+          "804",
+          "203,632",
+          "102,285",
+          "101,347",
+          "13,943"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: NAUCALPAN DE JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE BATHA",
+          "1",
+          "186",
+          "107",
+          "79",
+          "6"
+        ],
+        [
+          "BARRIO LA VIGA (CERRO LOCO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4"
+        ],
+        [
+          "CHIMALPA VIEJO",
+          "1",
+          "498",
+          "269",
+          "229",
+          "16"
+        ],
+        [
+          "EJIDO DEL TEJOCOTE",
+          "3",
+          "871",
+          "441",
+          "430",
+          "25"
+        ],
+        [
+          "EJIDO EL CASTILLO",
+          "3",
+          "291",
+          "147",
+          "144",
+          "17"
+        ],
+        [
+          "EJIDO SAN MATEO NOPALA (BELLAVISTA)",
+          "3",
+          "476",
+          "255",
+          "221",
+          "28"
+        ],
+        [
+          "LA UNIDAD HUITZIZILAPAN",
+          "1",
+          "252",
+          "129",
+          "123",
+          "10"
+        ],
+        [
+          "LLANO DE LAS FLORES (BARRIO DEL HUESO)",
+          "1",
+          "65",
+          "31",
+          "34",
+          "3"
+        ],
+        [
+          "NAUCALPAN DE JUÁREZ",
+          "757",
+          "193,443",
+          "97,248",
+          "96,195",
+          "13,527"
+        ],
+        [
+          "PUENTE DE PIEDRA",
+          "2",
+          "184",
+          "80",
+          "104",
+          "8"
+        ],
+        [
+          "RINCÓN VERDE",
+          "5",
+          "1,243",
+          "589",
+          "654",
+          "56"
+        ],
+        [
+          "SAN FRANCISCO CHIMALPA",
+          "12",
+          "3,300",
+          "1,602",
+          "1,698",
+          "133"
+        ],
+        [
+          "SAN JOSÉ POZA HONDA",
+          "3",
+          "750",
+          "382",
+          "368",
+          "41"
+        ],
+        [
+          "SAN JOSÉ TEJAMANIL",
+          "3",
+          "600",
+          "292",
+          "308",
+          "22"
+        ],
+        [
+          "SANTIAGO TEPATLAXCO",
+          "7",
+          "1,429",
+          "690",
+          "739",
+          "47"
+        ],
+        [
+          "TOTAL",
+          "804",
+          "203,632",
+          "102,285",
+          "101,347",
+          "13,943"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:39.378Z"
+}

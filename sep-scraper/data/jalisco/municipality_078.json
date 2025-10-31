@@ -1,0 +1,736 @@
+{
+  "municipality": "SAN MIGUEL EL ALTO",
+  "municipalityCode": "078",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN MIGUEL EL ALTO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBELEM\n\t\t3\n\t\t168\n\t\t93\n\t\t75\n\t\t9\n\t\n\t\n\t\tCRUZ DE OROZCO\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL ASTILLERO\n\t\t1\n\t\t50\n\t\t19\n\t\t31\n\t\t3\n\t\n\t\n\t\tEL BAJÍO\n\t\t3\n\t\t72\n\t\t36\n\t\t36\n\t\t6\n\t\n\t\n\t\tEL CUADRADO\n\t\t3\n\t\t10\n\t\t0\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL MASTRANZO\n\t\t2\n\t\t38\n\t\t18\n\t\t20\n\t\t4\n\t\n\t\n\t\tEL RINCÓN DE CHÁVEZ\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL RODADILLO\n\t\t3\n\t\t46\n\t\t22\n\t\t24\n\t\t3\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA ANGOSTURA\n\t\t3\n\t\t99\n\t\t45\n\t\t54\n\t\t7\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t1\n\t\t13\n\t\t4\n\t\t9\n\t\t1\n\t\n\t\n\t\tLA PALMA\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA PERILLA\n\t\t3\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA TRINIDAD\n\t\t3\n\t\t22\n\t\t13\n\t\t9\n\t\t3\n\t\n\t\n\t\tLAS CARRETAS\n\t\t2\n\t\t29\n\t\t12\n\t\t17\n\t\t3\n\t\n\t\n\t\tLAS MINAS\n\t\t1\n\t\t18\n\t\t11\n\t\t7\n\t\t1\n\t\n\t\n\t\tLLANO DE LOS CONEJOS\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tLOS CERRITOS\n\t\t3\n\t\t22\n\t\t15\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS ONCE PUEBLOS\n\t\t1\n\t\t17\n\t\t6\n\t\t11\n\t\t2\n\t\n\t\n\t\tMIRANDILLAS\n\t\t3\n\t\t149\n\t\t57\n\t\t92\n\t\t11\n\t\n\t\n\t\tMONTE ALTO\n\t\t3\n\t\t59\n\t\t24\n\t\t35\n\t\t5\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tSAN JORGE\n\t\t3\n\t\t28\n\t\t13\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LOS REYNOSO\n\t\t4\n\t\t339\n\t\t176\n\t\t163\n\t\t23\n\t\n\t\n\t\tSAN JOSÉ DEL CUARTO\n\t\t3\n\t\t19\n\t\t8\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL EL ALTO\n\t\t37\n\t\t6,263\n\t\t3,167\n\t\t3,096\n\t\t354\n\t\n\t\n\t\tSANTA ROSA\n\t\t3\n\t\t43\n\t\t23\n\t\t20\n\t\t3\n\t\n\t\n\t\tSINAGUA\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t102\n\t\t7,625\n\t\t3,819\n\t\t3,806\n\t\t462\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN MIGUEL EL ALTO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BELEM",
+          "3",
+          "168",
+          "93",
+          "75",
+          "9",
+          "CRUZ DE OROZCO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL ASTILLERO",
+          "1",
+          "50",
+          "19",
+          "31",
+          "3",
+          "EL BAJÍO",
+          "3",
+          "72",
+          "36",
+          "36",
+          "6",
+          "EL CUADRADO",
+          "3",
+          "10",
+          "0",
+          "10",
+          "2",
+          "EL MASTRANZO",
+          "2",
+          "38",
+          "18",
+          "20",
+          "4",
+          "EL RINCÓN DE CHÁVEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL RODADILLO",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3",
+          "JESÚS MARÍA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3",
+          "LA ANGOSTURA",
+          "3",
+          "99",
+          "45",
+          "54",
+          "7",
+          "LA CIÉNEGA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1",
+          "LA PALMA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1",
+          "LA PERILLA",
+          "3",
+          "19",
+          "8",
+          "11",
+          "2",
+          "LA TRINIDAD",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3",
+          "LAS CARRETAS",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3",
+          "LAS MINAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1",
+          "LLANO DE LOS CONEJOS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "LOS CERRITOS",
+          "3",
+          "22",
+          "15",
+          "7",
+          "2",
+          "LOS ONCE PUEBLOS",
+          "1",
+          "17",
+          "6",
+          "11",
+          "2",
+          "MIRANDILLAS",
+          "3",
+          "149",
+          "57",
+          "92",
+          "11",
+          "MONTE ALTO",
+          "3",
+          "59",
+          "24",
+          "35",
+          "5",
+          "OJO DE AGUA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1",
+          "SAN JORGE",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3",
+          "SAN JOSÉ DE LOS REYNOSO",
+          "4",
+          "339",
+          "176",
+          "163",
+          "23",
+          "SAN JOSÉ DEL CUARTO",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3",
+          "SAN MIGUEL EL ALTO",
+          "37",
+          "6,263",
+          "3,167",
+          "3,096",
+          "354",
+          "SANTA ROSA",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3",
+          "SINAGUA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "TIERRA BLANCA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "TOTAL",
+          "102",
+          "7,625",
+          "3,819",
+          "3,806",
+          "462",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN MIGUEL EL ALTO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BELEM",
+          "3",
+          "168",
+          "93",
+          "75",
+          "9"
+        ],
+        [
+          "CRUZ DE OROZCO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL ASTILLERO",
+          "1",
+          "50",
+          "19",
+          "31",
+          "3"
+        ],
+        [
+          "EL BAJÍO",
+          "3",
+          "72",
+          "36",
+          "36",
+          "6"
+        ],
+        [
+          "EL CUADRADO",
+          "3",
+          "10",
+          "0",
+          "10",
+          "2"
+        ],
+        [
+          "EL MASTRANZO",
+          "2",
+          "38",
+          "18",
+          "20",
+          "4"
+        ],
+        [
+          "EL RINCÓN DE CHÁVEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL RODADILLO",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3"
+        ],
+        [
+          "JESÚS MARÍA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LA ANGOSTURA",
+          "3",
+          "99",
+          "45",
+          "54",
+          "7"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA PERILLA",
+          "3",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "LAS CARRETAS",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "LAS MINAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LLANO DE LOS CONEJOS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LOS CERRITOS",
+          "3",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LOS ONCE PUEBLOS",
+          "1",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "MIRANDILLAS",
+          "3",
+          "149",
+          "57",
+          "92",
+          "11"
+        ],
+        [
+          "MONTE ALTO",
+          "3",
+          "59",
+          "24",
+          "35",
+          "5"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SAN JORGE",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LOS REYNOSO",
+          "4",
+          "339",
+          "176",
+          "163",
+          "23"
+        ],
+        [
+          "SAN JOSÉ DEL CUARTO",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL EL ALTO",
+          "37",
+          "6,263",
+          "3,167",
+          "3,096",
+          "354"
+        ],
+        [
+          "SANTA ROSA",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "SINAGUA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "7,625",
+          "3,819",
+          "3,806",
+          "462"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN MIGUEL EL ALTO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BELEM",
+          "3",
+          "168",
+          "93",
+          "75",
+          "9"
+        ],
+        [
+          "CRUZ DE OROZCO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL ASTILLERO",
+          "1",
+          "50",
+          "19",
+          "31",
+          "3"
+        ],
+        [
+          "EL BAJÍO",
+          "3",
+          "72",
+          "36",
+          "36",
+          "6"
+        ],
+        [
+          "EL CUADRADO",
+          "3",
+          "10",
+          "0",
+          "10",
+          "2"
+        ],
+        [
+          "EL MASTRANZO",
+          "2",
+          "38",
+          "18",
+          "20",
+          "4"
+        ],
+        [
+          "EL RINCÓN DE CHÁVEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL RODADILLO",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3"
+        ],
+        [
+          "JESÚS MARÍA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LA ANGOSTURA",
+          "3",
+          "99",
+          "45",
+          "54",
+          "7"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA PERILLA",
+          "3",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "LAS CARRETAS",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "LAS MINAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LLANO DE LOS CONEJOS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LOS CERRITOS",
+          "3",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LOS ONCE PUEBLOS",
+          "1",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "MIRANDILLAS",
+          "3",
+          "149",
+          "57",
+          "92",
+          "11"
+        ],
+        [
+          "MONTE ALTO",
+          "3",
+          "59",
+          "24",
+          "35",
+          "5"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SAN JORGE",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LOS REYNOSO",
+          "4",
+          "339",
+          "176",
+          "163",
+          "23"
+        ],
+        [
+          "SAN JOSÉ DEL CUARTO",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL EL ALTO",
+          "37",
+          "6,263",
+          "3,167",
+          "3,096",
+          "354"
+        ],
+        [
+          "SANTA ROSA",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "SINAGUA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "7,625",
+          "3,819",
+          "3,806",
+          "462"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:17:01.802Z"
+}

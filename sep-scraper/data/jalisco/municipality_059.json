@@ -1,0 +1,582 @@
+{
+  "municipality": "MAZAMITLA",
+  "municipalityCode": "059",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MAZAMITLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCORRAL DE LA MULA\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tCORRAL FALSO\n\t\t3\n\t\t63\n\t\t30\n\t\t33\n\t\t5\n\t\n\t\n\t\tDOS AGUAS\n\t\t3\n\t\t61\n\t\t29\n\t\t32\n\t\t4\n\t\n\t\n\t\tEL COLORADO\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CORRAL DE MEJÍA\n\t\t3\n\t\t5\n\t\t1\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL FRESNAL\n\t\t3\n\t\t38\n\t\t21\n\t\t17\n\t\t4\n\t\n\t\n\t\tEL HUMO (EL MARILLO)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL LLANO DE LOS TOROS\n\t\t2\n\t\t45\n\t\t26\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL MEZCAL\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PAIZTLE\n\t\t1\n\t\t12\n\t\t4\n\t\t8\n\t\t1\n\t\n\t\n\t\tEL TERRERO\n\t\t2\n\t\t19\n\t\t11\n\t\t8\n\t\t2\n\t\n\t\n\t\tEPENCHE CHICO (PENCHE CHICO)\n\t\t2\n\t\t153\n\t\t77\n\t\t76\n\t\t8\n\t\n\t\n\t\tEPENCHE GRANDE (PENCHE GRANDE)\n\t\t2\n\t\t46\n\t\t28\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA CENTRAL\n\t\t2\n\t\t36\n\t\t23\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA COFRADÍA\n\t\t3\n\t\t368\n\t\t176\n\t\t192\n\t\t17\n\t\n\t\n\t\tLA ESTACADA\n\t\t2\n\t\t52\n\t\t20\n\t\t32\n\t\t3\n\t\n\t\n\t\tLA HUEVERA\n\t\t3\n\t\t88\n\t\t47\n\t\t41\n\t\t7\n\t\n\t\n\t\tLA LAGUNITA\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tLA MARAVILLA\n\t\t3\n\t\t6\n\t\t2\n\t\t4\n\t\t2\n\t\n\t\n\t\tMAZAMITLA\n\t\t19\n\t\t2,641\n\t\t1,333\n\t\t1,308\n\t\t147\n\t\n\t\n\t\tPUERTA DEL ZAPATERO\n\t\t3\n\t\t241\n\t\t106\n\t\t135\n\t\t12\n\t\n\t\n\t\tPUERTO DE LAS CUEVAS\n\t\t2\n\t\t56\n\t\t30\n\t\t26\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t68\n\t\t3,980\n\t\t1,991\n\t\t1,989\n\t\t233\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MAZAMITLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CORRAL DE LA MULA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "CORRAL FALSO",
+          "3",
+          "63",
+          "30",
+          "33",
+          "5",
+          "DOS AGUAS",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4",
+          "EL COLORADO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1",
+          "EL CORRAL DE MEJÍA",
+          "3",
+          "5",
+          "1",
+          "4",
+          "2",
+          "EL FRESNAL",
+          "3",
+          "38",
+          "21",
+          "17",
+          "4",
+          "EL HUMO (EL MARILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL LLANO DE LOS TOROS",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3",
+          "EL MEZCAL",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL PAIZTLE",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1",
+          "EL TERRERO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2",
+          "EPENCHE CHICO (PENCHE CHICO)",
+          "2",
+          "153",
+          "77",
+          "76",
+          "8",
+          "EPENCHE GRANDE (PENCHE GRANDE)",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3",
+          "LA CENTRAL",
+          "2",
+          "36",
+          "23",
+          "13",
+          "3",
+          "LA COFRADÍA",
+          "3",
+          "368",
+          "176",
+          "192",
+          "17",
+          "LA ESTACADA",
+          "2",
+          "52",
+          "20",
+          "32",
+          "3",
+          "LA HUEVERA",
+          "3",
+          "88",
+          "47",
+          "41",
+          "7",
+          "LA LAGUNITA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "LA MARAVILLA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "2",
+          "MAZAMITLA",
+          "19",
+          "2,641",
+          "1,333",
+          "1,308",
+          "147",
+          "PUERTA DEL ZAPATERO",
+          "3",
+          "241",
+          "106",
+          "135",
+          "12",
+          "PUERTO DE LAS CUEVAS",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3",
+          "TOTAL",
+          "68",
+          "3,980",
+          "1,991",
+          "1,989",
+          "233",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MAZAMITLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORRAL DE LA MULA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "CORRAL FALSO",
+          "3",
+          "63",
+          "30",
+          "33",
+          "5"
+        ],
+        [
+          "DOS AGUAS",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "EL COLORADO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL CORRAL DE MEJÍA",
+          "3",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "EL FRESNAL",
+          "3",
+          "38",
+          "21",
+          "17",
+          "4"
+        ],
+        [
+          "EL HUMO (EL MARILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL LLANO DE LOS TOROS",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3"
+        ],
+        [
+          "EL MEZCAL",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL PAIZTLE",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "EPENCHE CHICO (PENCHE CHICO)",
+          "2",
+          "153",
+          "77",
+          "76",
+          "8"
+        ],
+        [
+          "EPENCHE GRANDE (PENCHE GRANDE)",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3"
+        ],
+        [
+          "LA CENTRAL",
+          "2",
+          "36",
+          "23",
+          "13",
+          "3"
+        ],
+        [
+          "LA COFRADÍA",
+          "3",
+          "368",
+          "176",
+          "192",
+          "17"
+        ],
+        [
+          "LA ESTACADA",
+          "2",
+          "52",
+          "20",
+          "32",
+          "3"
+        ],
+        [
+          "LA HUEVERA",
+          "3",
+          "88",
+          "47",
+          "41",
+          "7"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "LA MARAVILLA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "MAZAMITLA",
+          "19",
+          "2,641",
+          "1,333",
+          "1,308",
+          "147"
+        ],
+        [
+          "PUERTA DEL ZAPATERO",
+          "3",
+          "241",
+          "106",
+          "135",
+          "12"
+        ],
+        [
+          "PUERTO DE LAS CUEVAS",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "68",
+          "3,980",
+          "1,991",
+          "1,989",
+          "233"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MAZAMITLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORRAL DE LA MULA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "CORRAL FALSO",
+          "3",
+          "63",
+          "30",
+          "33",
+          "5"
+        ],
+        [
+          "DOS AGUAS",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "EL COLORADO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL CORRAL DE MEJÍA",
+          "3",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "EL FRESNAL",
+          "3",
+          "38",
+          "21",
+          "17",
+          "4"
+        ],
+        [
+          "EL HUMO (EL MARILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL LLANO DE LOS TOROS",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3"
+        ],
+        [
+          "EL MEZCAL",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL PAIZTLE",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "EPENCHE CHICO (PENCHE CHICO)",
+          "2",
+          "153",
+          "77",
+          "76",
+          "8"
+        ],
+        [
+          "EPENCHE GRANDE (PENCHE GRANDE)",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3"
+        ],
+        [
+          "LA CENTRAL",
+          "2",
+          "36",
+          "23",
+          "13",
+          "3"
+        ],
+        [
+          "LA COFRADÍA",
+          "3",
+          "368",
+          "176",
+          "192",
+          "17"
+        ],
+        [
+          "LA ESTACADA",
+          "2",
+          "52",
+          "20",
+          "32",
+          "3"
+        ],
+        [
+          "LA HUEVERA",
+          "3",
+          "88",
+          "47",
+          "41",
+          "7"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "LA MARAVILLA",
+          "3",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "MAZAMITLA",
+          "19",
+          "2,641",
+          "1,333",
+          "1,308",
+          "147"
+        ],
+        [
+          "PUERTA DEL ZAPATERO",
+          "3",
+          "241",
+          "106",
+          "135",
+          "12"
+        ],
+        [
+          "PUERTO DE LAS CUEVAS",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "68",
+          "3,980",
+          "1,991",
+          "1,989",
+          "233"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:44.769Z"
+}

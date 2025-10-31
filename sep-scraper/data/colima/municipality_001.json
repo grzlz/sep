@@ -1,0 +1,296 @@
+{
+  "municipality": "ARMERÍA",
+  "municipalityCode": "001",
+  "state": "COLIMA",
+  "stateCode": "6",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAUGUSTO GÓMEZ VILLANUEVA (COALATILLA)\n\t\t4\n\t\t423\n\t\t210\n\t\t213\n\t\t21\n\t\n\t\n\t\tCIUDAD DE ARMERÍA\n\t\t24\n\t\t3,126\n\t\t1,571\n\t\t1,555\n\t\t204\n\t\n\t\n\t\tCOFRADÍA DE JUÁREZ\n\t\t11\n\t\t1,246\n\t\t643\n\t\t603\n\t\t84\n\t\n\t\n\t\tCUYUTLÁN\n\t\t4\n\t\t280\n\t\t151\n\t\t129\n\t\t15\n\t\n\t\n\t\tEL PARAÍSO [BALNEARIO]\n\t\t2\n\t\t8\n\t\t2\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL PUERTECITO\n\t\t2\n\t\t85\n\t\t41\n\t\t44\n\t\t4\n\t\n\t\n\t\tLA ATRAVESADA\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tLOS REYES (ZORRILLOS)\n\t\t4\n\t\t150\n\t\t56\n\t\t94\n\t\t13\n\t\n\t\n\t\tRINCÓN DE LÓPEZ\n\t\t5\n\t\t528\n\t\t264\n\t\t264\n\t\t30\n\t\n\t\n\t\tTOTAL\n\t\t57\n\t\t5,849\n\t\t2,940\n\t\t2,909\n\t\t374\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+          "4",
+          "423",
+          "210",
+          "213",
+          "21",
+          "CIUDAD DE ARMERÍA",
+          "24",
+          "3,126",
+          "1,571",
+          "1,555",
+          "204",
+          "COFRADÍA DE JUÁREZ",
+          "11",
+          "1,246",
+          "643",
+          "603",
+          "84",
+          "CUYUTLÁN",
+          "4",
+          "280",
+          "151",
+          "129",
+          "15",
+          "EL PARAÍSO [BALNEARIO]",
+          "2",
+          "8",
+          "2",
+          "6",
+          "2",
+          "EL PUERTECITO",
+          "2",
+          "85",
+          "41",
+          "44",
+          "4",
+          "LA ATRAVESADA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "LOS REYES (ZORRILLOS)",
+          "4",
+          "150",
+          "56",
+          "94",
+          "13",
+          "RINCÓN DE LÓPEZ",
+          "5",
+          "528",
+          "264",
+          "264",
+          "30",
+          "TOTAL",
+          "57",
+          "5,849",
+          "2,940",
+          "2,909",
+          "374",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+          "4",
+          "423",
+          "210",
+          "213",
+          "21"
+        ],
+        [
+          "CIUDAD DE ARMERÍA",
+          "24",
+          "3,126",
+          "1,571",
+          "1,555",
+          "204"
+        ],
+        [
+          "COFRADÍA DE JUÁREZ",
+          "11",
+          "1,246",
+          "643",
+          "603",
+          "84"
+        ],
+        [
+          "CUYUTLÁN",
+          "4",
+          "280",
+          "151",
+          "129",
+          "15"
+        ],
+        [
+          "EL PARAÍSO [BALNEARIO]",
+          "2",
+          "8",
+          "2",
+          "6",
+          "2"
+        ],
+        [
+          "EL PUERTECITO",
+          "2",
+          "85",
+          "41",
+          "44",
+          "4"
+        ],
+        [
+          "LA ATRAVESADA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LOS REYES (ZORRILLOS)",
+          "4",
+          "150",
+          "56",
+          "94",
+          "13"
+        ],
+        [
+          "RINCÓN DE LÓPEZ",
+          "5",
+          "528",
+          "264",
+          "264",
+          "30"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "5,849",
+          "2,940",
+          "2,909",
+          "374"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: ARMERÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AUGUSTO GÓMEZ VILLANUEVA (COALATILLA)",
+          "4",
+          "423",
+          "210",
+          "213",
+          "21"
+        ],
+        [
+          "CIUDAD DE ARMERÍA",
+          "24",
+          "3,126",
+          "1,571",
+          "1,555",
+          "204"
+        ],
+        [
+          "COFRADÍA DE JUÁREZ",
+          "11",
+          "1,246",
+          "643",
+          "603",
+          "84"
+        ],
+        [
+          "CUYUTLÁN",
+          "4",
+          "280",
+          "151",
+          "129",
+          "15"
+        ],
+        [
+          "EL PARAÍSO [BALNEARIO]",
+          "2",
+          "8",
+          "2",
+          "6",
+          "2"
+        ],
+        [
+          "EL PUERTECITO",
+          "2",
+          "85",
+          "41",
+          "44",
+          "4"
+        ],
+        [
+          "LA ATRAVESADA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LOS REYES (ZORRILLOS)",
+          "4",
+          "150",
+          "56",
+          "94",
+          "13"
+        ],
+        [
+          "RINCÓN DE LÓPEZ",
+          "5",
+          "528",
+          "264",
+          "264",
+          "30"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "5,849",
+          "2,940",
+          "2,909",
+          "374"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:40.265Z"
+}

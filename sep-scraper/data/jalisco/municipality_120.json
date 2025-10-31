@@ -1,0 +1,912 @@
+{
+  "municipality": "ZAPOPAN",
+  "municipalityCode": "120",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: ZAPOPAN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCAMPESTRE LAS PALOMAS [FRACCIONAMIENTO]\n\t\t11\n\t\t4,134\n\t\t2,076\n\t\t2,058\n\t\t172\n\t\n\t\n\t\tCERCA MORADA (LAS PRESITAS)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tCOPALA\n\t\t1\n\t\t39\n\t\t13\n\t\t26\n\t\t2\n\t\n\t\n\t\tCOPALITA\n\t\t3\n\t\t312\n\t\t154\n\t\t158\n\t\t16\n\t\n\t\n\t\tEJIDO COPALITA\n\t\t10\n\t\t2,622\n\t\t1,321\n\t\t1,301\n\t\t107\n\t\n\t\n\t\tEL CRUCERO (CRUCERO DE AMECA)\n\t\t1\n\t\t106\n\t\t57\n\t\t49\n\t\t5\n\t\n\t\n\t\tEL LAZO (EX-HACIENDA DEL LAZO)\n\t\t4\n\t\t149\n\t\t65\n\t\t84\n\t\t9\n\t\n\t\n\t\tEL MARTEL\n\t\t2\n\t\t473\n\t\t232\n\t\t241\n\t\t14\n\t\n\t\n\t\tEL NUEVO RESPLANDOR [FRACCIONAMIENTO]\n\t\t1\n\t\t37\n\t\t18\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL QUEMADO\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tFUENTECILLAS\n\t\t1\n\t\t40\n\t\t17\n\t\t23\n\t\t1\n\t\n\t\n\t\tHUAXTLA\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA CORONILLA DEL OCOTE\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t4\n\t\n\t\n\t\tLA CUCHILLA (EXTRAMUROS DE TESISTÁN)\n\t\t1\n\t\t12\n\t\t3\n\t\t9\n\t\t1\n\t\n\t\n\t\tLA MESITA\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t5\n\t\n\t\n\t\tLA MOJONERA\n\t\t4\n\t\t504\n\t\t257\n\t\t247\n\t\t21\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t1\n\t\t231\n\t\t110\n\t\t121\n\t\t9\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t3\n\t\t131\n\t\t70\n\t\t61\n\t\t6\n\t\n\t\n\t\tLA RESERVA\n\t\t3\n\t\t75\n\t\t42\n\t\t33\n\t\t7\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA VENTA DEL ASTILLERO\n\t\t3\n\t\t628\n\t\t312\n\t\t316\n\t\t29\n\t\n\t\n\t\tLAS AGUJAS\n\t\t5\n\t\t8,189\n\t\t4,423\n\t\t3,766\n\t\t429\n\t\n\t\n\t\tLAS CUEVAS\n\t\t3\n\t\t43\n\t\t25\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOMAS DE MONTECHELO (EL PEDREGAL)\n\t\t2\n\t\t217\n\t\t117\n\t\t100\n\t\t8\n\t\n\t\n\t\tLOS CAMACHOS\n\t\t1\n\t\t64\n\t\t41\n\t\t23\n\t\t3\n\t\n\t\n\t\tMIRADOR DEL BOSQUE\n\t\t4\n\t\t1,076\n\t\t536\n\t\t540\n\t\t34\n\t\n\t\n\t\tNEXTIPAC\n\t\t12\n\t\t1,850\n\t\t944\n\t\t906\n\t\t141\n\t\n\t\n\t\tPALO GORDO\n\t\t2\n\t\t157\n\t\t81\n\t\t76\n\t\t7\n\t\n\t\n\t\tRANCHO SAN JOSÉ DE RÁBAGO\n\t\t2\n\t\t678\n\t\t327\n\t\t351\n\t\t24\n\t\n\t\n\t\tSAN ESTEBAN (SAN MIGUEL TATEPOSCO)\n\t\t4\n\t\t862\n\t\t454\n\t\t408\n\t\t31\n\t\n\t\n\t\tSAN FRANCISCO DE IXCATÁN\n\t\t3\n\t\t320\n\t\t162\n\t\t158\n\t\t11\n\t\n\t\n\t\tSAN ISIDRO\n\t\t4\n\t\t769\n\t\t393\n\t\t376\n\t\t25\n\t\n\t\n\t\tSAN JOSÉ\n\t\t1\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN MARTÍN\n\t\t1\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tTESISTÁN (SAN FRANCISCO TESISTÁN)\n\t\t80\n\t\t24,156\n\t\t12,071\n\t\t12,085\n\t\t1,118\n\t\n\t\n\t\tVALLE DE LOS MOLINOS\n\t\t18\n\t\t8,001\n\t\t3,904\n\t\t4,097\n\t\t350\n\t\n\t\n\t\tZAPOPAN\n\t\t1,444\n\t\t337,844\n\t\t171,411\n\t\t166,433\n\t\t24,499\n\t\n\t\n\t\tTOTAL\n\t\t1,646\n\t\t393,886\n\t\t199,721\n\t\t194,165\n\t\t27,105\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: ZAPOPAN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CAMPESTRE LAS PALOMAS [FRACCIONAMIENTO]",
+          "11",
+          "4,134",
+          "2,076",
+          "2,058",
+          "172",
+          "CERCA MORADA (LAS PRESITAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "COPALA",
+          "1",
+          "39",
+          "13",
+          "26",
+          "2",
+          "COPALITA",
+          "3",
+          "312",
+          "154",
+          "158",
+          "16",
+          "EJIDO COPALITA",
+          "10",
+          "2,622",
+          "1,321",
+          "1,301",
+          "107",
+          "EL CRUCERO (CRUCERO DE AMECA)",
+          "1",
+          "106",
+          "57",
+          "49",
+          "5",
+          "EL LAZO (EX-HACIENDA DEL LAZO)",
+          "4",
+          "149",
+          "65",
+          "84",
+          "9",
+          "EL MARTEL",
+          "2",
+          "473",
+          "232",
+          "241",
+          "14",
+          "EL NUEVO RESPLANDOR [FRACCIONAMIENTO]",
+          "1",
+          "37",
+          "18",
+          "19",
+          "2",
+          "EL QUEMADO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "2",
+          "FUENTECILLAS",
+          "1",
+          "40",
+          "17",
+          "23",
+          "1",
+          "HUAXTLA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "LA CORONILLA DEL OCOTE",
+          "2",
+          "28",
+          "17",
+          "11",
+          "4",
+          "LA CUCHILLA (EXTRAMUROS DE TESISTÁN)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1",
+          "LA MESITA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "5",
+          "LA MOJONERA",
+          "4",
+          "504",
+          "257",
+          "247",
+          "21",
+          "LA PRIMAVERA",
+          "1",
+          "231",
+          "110",
+          "121",
+          "9",
+          "LA PROVIDENCIA",
+          "3",
+          "131",
+          "70",
+          "61",
+          "6",
+          "LA RESERVA",
+          "3",
+          "75",
+          "42",
+          "33",
+          "7",
+          "LA SOLEDAD",
+          "3",
+          "15",
+          "6",
+          "9",
+          "2",
+          "LA VENTA DEL ASTILLERO",
+          "3",
+          "628",
+          "312",
+          "316",
+          "29",
+          "LAS AGUJAS",
+          "5",
+          "8,189",
+          "4,423",
+          "3,766",
+          "429",
+          "LAS CUEVAS",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3",
+          "LOMAS DE MONTECHELO (EL PEDREGAL)",
+          "2",
+          "217",
+          "117",
+          "100",
+          "8",
+          "LOS CAMACHOS",
+          "1",
+          "64",
+          "41",
+          "23",
+          "3",
+          "MIRADOR DEL BOSQUE",
+          "4",
+          "1,076",
+          "536",
+          "540",
+          "34",
+          "NEXTIPAC",
+          "12",
+          "1,850",
+          "944",
+          "906",
+          "141",
+          "PALO GORDO",
+          "2",
+          "157",
+          "81",
+          "76",
+          "7",
+          "RANCHO SAN JOSÉ DE RÁBAGO",
+          "2",
+          "678",
+          "327",
+          "351",
+          "24",
+          "SAN ESTEBAN (SAN MIGUEL TATEPOSCO)",
+          "4",
+          "862",
+          "454",
+          "408",
+          "31",
+          "SAN FRANCISCO DE IXCATÁN",
+          "3",
+          "320",
+          "162",
+          "158",
+          "11",
+          "SAN ISIDRO",
+          "4",
+          "769",
+          "393",
+          "376",
+          "25",
+          "SAN JOSÉ",
+          "1",
+          "29",
+          "16",
+          "13",
+          "2",
+          "SAN MARTÍN",
+          "1",
+          "21",
+          "9",
+          "12",
+          "3",
+          "TESISTÁN (SAN FRANCISCO TESISTÁN)",
+          "80",
+          "24,156",
+          "12,071",
+          "12,085",
+          "1,118",
+          "VALLE DE LOS MOLINOS",
+          "18",
+          "8,001",
+          "3,904",
+          "4,097",
+          "350",
+          "ZAPOPAN",
+          "1,444",
+          "337,844",
+          "171,411",
+          "166,433",
+          "24,499",
+          "TOTAL",
+          "1,646",
+          "393,886",
+          "199,721",
+          "194,165",
+          "27,105",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: ZAPOPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CAMPESTRE LAS PALOMAS [FRACCIONAMIENTO]",
+          "11",
+          "4,134",
+          "2,076",
+          "2,058",
+          "172"
+        ],
+        [
+          "CERCA MORADA (LAS PRESITAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "COPALA",
+          "1",
+          "39",
+          "13",
+          "26",
+          "2"
+        ],
+        [
+          "COPALITA",
+          "3",
+          "312",
+          "154",
+          "158",
+          "16"
+        ],
+        [
+          "EJIDO COPALITA",
+          "10",
+          "2,622",
+          "1,321",
+          "1,301",
+          "107"
+        ],
+        [
+          "EL CRUCERO (CRUCERO DE AMECA)",
+          "1",
+          "106",
+          "57",
+          "49",
+          "5"
+        ],
+        [
+          "EL LAZO (EX-HACIENDA DEL LAZO)",
+          "4",
+          "149",
+          "65",
+          "84",
+          "9"
+        ],
+        [
+          "EL MARTEL",
+          "2",
+          "473",
+          "232",
+          "241",
+          "14"
+        ],
+        [
+          "EL NUEVO RESPLANDOR [FRACCIONAMIENTO]",
+          "1",
+          "37",
+          "18",
+          "19",
+          "2"
+        ],
+        [
+          "EL QUEMADO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "FUENTECILLAS",
+          "1",
+          "40",
+          "17",
+          "23",
+          "1"
+        ],
+        [
+          "HUAXTLA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LA CORONILLA DEL OCOTE",
+          "2",
+          "28",
+          "17",
+          "11",
+          "4"
+        ],
+        [
+          "LA CUCHILLA (EXTRAMUROS DE TESISTÁN)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "LA MESITA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "5"
+        ],
+        [
+          "LA MOJONERA",
+          "4",
+          "504",
+          "257",
+          "247",
+          "21"
+        ],
+        [
+          "LA PRIMAVERA",
+          "1",
+          "231",
+          "110",
+          "121",
+          "9"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "3",
+          "131",
+          "70",
+          "61",
+          "6"
+        ],
+        [
+          "LA RESERVA",
+          "3",
+          "75",
+          "42",
+          "33",
+          "7"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "LA VENTA DEL ASTILLERO",
+          "3",
+          "628",
+          "312",
+          "316",
+          "29"
+        ],
+        [
+          "LAS AGUJAS",
+          "5",
+          "8,189",
+          "4,423",
+          "3,766",
+          "429"
+        ],
+        [
+          "LAS CUEVAS",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3"
+        ],
+        [
+          "LOMAS DE MONTECHELO (EL PEDREGAL)",
+          "2",
+          "217",
+          "117",
+          "100",
+          "8"
+        ],
+        [
+          "LOS CAMACHOS",
+          "1",
+          "64",
+          "41",
+          "23",
+          "3"
+        ],
+        [
+          "MIRADOR DEL BOSQUE",
+          "4",
+          "1,076",
+          "536",
+          "540",
+          "34"
+        ],
+        [
+          "NEXTIPAC",
+          "12",
+          "1,850",
+          "944",
+          "906",
+          "141"
+        ],
+        [
+          "PALO GORDO",
+          "2",
+          "157",
+          "81",
+          "76",
+          "7"
+        ],
+        [
+          "RANCHO SAN JOSÉ DE RÁBAGO",
+          "2",
+          "678",
+          "327",
+          "351",
+          "24"
+        ],
+        [
+          "SAN ESTEBAN (SAN MIGUEL TATEPOSCO)",
+          "4",
+          "862",
+          "454",
+          "408",
+          "31"
+        ],
+        [
+          "SAN FRANCISCO DE IXCATÁN",
+          "3",
+          "320",
+          "162",
+          "158",
+          "11"
+        ],
+        [
+          "SAN ISIDRO",
+          "4",
+          "769",
+          "393",
+          "376",
+          "25"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "TESISTÁN (SAN FRANCISCO TESISTÁN)",
+          "80",
+          "24,156",
+          "12,071",
+          "12,085",
+          "1,118"
+        ],
+        [
+          "VALLE DE LOS MOLINOS",
+          "18",
+          "8,001",
+          "3,904",
+          "4,097",
+          "350"
+        ],
+        [
+          "ZAPOPAN",
+          "1,444",
+          "337,844",
+          "171,411",
+          "166,433",
+          "24,499"
+        ],
+        [
+          "TOTAL",
+          "1,646",
+          "393,886",
+          "199,721",
+          "194,165",
+          "27,105"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: ZAPOPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CAMPESTRE LAS PALOMAS [FRACCIONAMIENTO]",
+          "11",
+          "4,134",
+          "2,076",
+          "2,058",
+          "172"
+        ],
+        [
+          "CERCA MORADA (LAS PRESITAS)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "COPALA",
+          "1",
+          "39",
+          "13",
+          "26",
+          "2"
+        ],
+        [
+          "COPALITA",
+          "3",
+          "312",
+          "154",
+          "158",
+          "16"
+        ],
+        [
+          "EJIDO COPALITA",
+          "10",
+          "2,622",
+          "1,321",
+          "1,301",
+          "107"
+        ],
+        [
+          "EL CRUCERO (CRUCERO DE AMECA)",
+          "1",
+          "106",
+          "57",
+          "49",
+          "5"
+        ],
+        [
+          "EL LAZO (EX-HACIENDA DEL LAZO)",
+          "4",
+          "149",
+          "65",
+          "84",
+          "9"
+        ],
+        [
+          "EL MARTEL",
+          "2",
+          "473",
+          "232",
+          "241",
+          "14"
+        ],
+        [
+          "EL NUEVO RESPLANDOR [FRACCIONAMIENTO]",
+          "1",
+          "37",
+          "18",
+          "19",
+          "2"
+        ],
+        [
+          "EL QUEMADO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "FUENTECILLAS",
+          "1",
+          "40",
+          "17",
+          "23",
+          "1"
+        ],
+        [
+          "HUAXTLA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LA CORONILLA DEL OCOTE",
+          "2",
+          "28",
+          "17",
+          "11",
+          "4"
+        ],
+        [
+          "LA CUCHILLA (EXTRAMUROS DE TESISTÁN)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "LA MESITA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "5"
+        ],
+        [
+          "LA MOJONERA",
+          "4",
+          "504",
+          "257",
+          "247",
+          "21"
+        ],
+        [
+          "LA PRIMAVERA",
+          "1",
+          "231",
+          "110",
+          "121",
+          "9"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "3",
+          "131",
+          "70",
+          "61",
+          "6"
+        ],
+        [
+          "LA RESERVA",
+          "3",
+          "75",
+          "42",
+          "33",
+          "7"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "LA VENTA DEL ASTILLERO",
+          "3",
+          "628",
+          "312",
+          "316",
+          "29"
+        ],
+        [
+          "LAS AGUJAS",
+          "5",
+          "8,189",
+          "4,423",
+          "3,766",
+          "429"
+        ],
+        [
+          "LAS CUEVAS",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3"
+        ],
+        [
+          "LOMAS DE MONTECHELO (EL PEDREGAL)",
+          "2",
+          "217",
+          "117",
+          "100",
+          "8"
+        ],
+        [
+          "LOS CAMACHOS",
+          "1",
+          "64",
+          "41",
+          "23",
+          "3"
+        ],
+        [
+          "MIRADOR DEL BOSQUE",
+          "4",
+          "1,076",
+          "536",
+          "540",
+          "34"
+        ],
+        [
+          "NEXTIPAC",
+          "12",
+          "1,850",
+          "944",
+          "906",
+          "141"
+        ],
+        [
+          "PALO GORDO",
+          "2",
+          "157",
+          "81",
+          "76",
+          "7"
+        ],
+        [
+          "RANCHO SAN JOSÉ DE RÁBAGO",
+          "2",
+          "678",
+          "327",
+          "351",
+          "24"
+        ],
+        [
+          "SAN ESTEBAN (SAN MIGUEL TATEPOSCO)",
+          "4",
+          "862",
+          "454",
+          "408",
+          "31"
+        ],
+        [
+          "SAN FRANCISCO DE IXCATÁN",
+          "3",
+          "320",
+          "162",
+          "158",
+          "11"
+        ],
+        [
+          "SAN ISIDRO",
+          "4",
+          "769",
+          "393",
+          "376",
+          "25"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "TESISTÁN (SAN FRANCISCO TESISTÁN)",
+          "80",
+          "24,156",
+          "12,071",
+          "12,085",
+          "1,118"
+        ],
+        [
+          "VALLE DE LOS MOLINOS",
+          "18",
+          "8,001",
+          "3,904",
+          "4,097",
+          "350"
+        ],
+        [
+          "ZAPOPAN",
+          "1,444",
+          "337,844",
+          "171,411",
+          "166,433",
+          "24,499"
+        ],
+        [
+          "TOTAL",
+          "1,646",
+          "393,886",
+          "199,721",
+          "194,165",
+          "27,105"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:19:39.357Z"
+}

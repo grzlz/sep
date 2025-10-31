@@ -1,0 +1,978 @@
+{
+  "municipality": "TEAPA",
+  "municipalityCode": "016",
+  "state": "TABASCO",
+  "stateCode": "27",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBALANCÁN\n\tCÁRDENAS\n\tCENTLA\n\tCENTRO\n\tCOMALCALCO\n\tCUNDUACÁN\n\tEMILIANO ZAPATA\n\tHUIMANGUILLO\n\tJALAPA\n\tJALPA DE MÉNDEZ\n\tJONUTA\n\tMACUSPANA\n\tNACAJUCA\n\tPARAÍSO\n\tTACOTALPA\n\tTEAPA\n\tTENOSIQUE"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: TEAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANDRÉS QUINTANA ROO\n\t\t2\n\t\t204\n\t\t105\n\t\t99\n\t\t8\n\t\n\t\n\t\tANDRÉS QUINTANA ROO 1RA. SECCIÓN\n\t\t3\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tARCADIO ZENTELLA\n\t\t4\n\t\t180\n\t\t83\n\t\t97\n\t\t10\n\t\n\t\n\t\tCHAPULTEPEC\n\t\t2\n\t\t135\n\t\t71\n\t\t64\n\t\t6\n\t\n\t\n\t\tCOLONIA MUNICIPAL\n\t\t2\n\t\t81\n\t\t39\n\t\t42\n\t\t3\n\t\n\t\n\t\tCOLORADO (BENITO JUÁREZ)\n\t\t2\n\t\t97\n\t\t46\n\t\t51\n\t\t4\n\t\n\t\n\t\tEUREKA Y BELÉN\n\t\t4\n\t\t421\n\t\t201\n\t\t220\n\t\t17\n\t\n\t\n\t\tFRANCISCO JAVIER MINA (ARGENTINA)\n\t\t3\n\t\t1,455\n\t\t581\n\t\t874\n\t\t75\n\t\n\t\n\t\tHERMENEGILDO GALEANA\n\t\t4\n\t\t412\n\t\t208\n\t\t204\n\t\t17\n\t\n\t\n\t\tHERMENEGILDO GALEANA 1RA. SECCIÓN (MEXIQUITO)\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tHERMENEGILDO GALEANA 2DA. SECCIÓN\n\t\t3\n\t\t33\n\t\t14\n\t\t19\n\t\t9\n\t\n\t\n\t\tIGNACIO ALLENDE 2DA. SECCIÓN\n\t\t4\n\t\t359\n\t\t176\n\t\t183\n\t\t15\n\t\n\t\n\t\tIGNACIO ALLENDE 3RA. SECCIÓN\n\t\t2\n\t\t56\n\t\t32\n\t\t24\n\t\t3\n\t\n\t\n\t\tIGNACIO LÓPEZ RAYÓN 1RA. SECCIÓN\n\t\t2\n\t\t72\n\t\t29\n\t\t43\n\t\t3\n\t\n\t\n\t\tIGNACIO LÓPEZ RAYÓN 2DA. SECCIÓN\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN (JUAN GÓMEZ)\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN (LAS DELICIAS)\n\t\t3\n\t\t254\n\t\t133\n\t\t121\n\t\t10\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN (SAN ANTONIO LAS ÁNIMAS)\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN (SANTA RITA)\n\t\t2\n\t\t17\n\t\t6\n\t\t11\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN 1RA. SECCIÓN\n\t\t2\n\t\t36\n\t\t19\n\t\t17\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN 2DA. SECCIÓN\n\t\t3\n\t\t72\n\t\t31\n\t\t41\n\t\t6\n\t\n\t\n\t\tJUAN ALDAMA\n\t\t6\n\t\t1,124\n\t\t562\n\t\t562\n\t\t42\n\t\n\t\n\t\tLAS LILIAS\n\t\t2\n\t\t104\n\t\t60\n\t\t44\n\t\t4\n\t\n\t\n\t\tMANUEL BUELTA 2DA. SECCIÓN\n\t\t2\n\t\t37\n\t\t19\n\t\t18\n\t\t3\n\t\n\t\n\t\tMANUEL BUELTA Y RAYÓN\n\t\t4\n\t\t425\n\t\t194\n\t\t231\n\t\t19\n\t\n\t\n\t\tMARIANO PEDRERO 2DA. SECCIÓN\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tMARIANO PEDRERO 3RA. SECCIÓN\n\t\t2\n\t\t58\n\t\t25\n\t\t33\n\t\t3\n\t\n\t\n\t\tMIGUEL HIDALGO 1RA. SECCIÓN (LAS GARDENIAS)\n\t\t3\n\t\t140\n\t\t79\n\t\t61\n\t\t13\n\t\n\t\n\t\tMIGUEL HIDALGO 2DA. SECCIÓN (FCO. SARABIA)\n\t\t3\n\t\t358\n\t\t173\n\t\t185\n\t\t13\n\t\n\t\n\t\tMIGUEL HIDALGO 2DA. SECCIÓN (SAN JOAQUÍN)\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tMINA Y MATAMOROS (LA TRINIDAD)\n\t\t3\n\t\t48\n\t\t25\n\t\t23\n\t\t3\n\t\n\t\n\t\tMINA Y MATAMOROS (SAN PABLO TAMBOREL)\n\t\t2\n\t\t45\n\t\t23\n\t\t22\n\t\t2\n\t\n\t\n\t\tNICOLÁS BRAVO 1RA. SECCIÓN\n\t\t2\n\t\t33\n\t\t19\n\t\t14\n\t\t2\n\t\n\t\n\t\tNICOLÁS BRAVO 2DA. SECCIÓN\n\t\t3\n\t\t141\n\t\t66\n\t\t75\n\t\t7\n\t\n\t\n\t\tSAN JOSÉ PUYACATENGO (CHAPINGO)\n\t\t1\n\t\t32\n\t\t14\n\t\t18\n\t\t21\n\t\n\t\n\t\tTEAPA\n\t\t31\n\t\t7,364\n\t\t3,716\n\t\t3,648\n\t\t333\n\t\n\t\n\t\tVICENTE GUERRERO (GUANAL)\n\t\t3\n\t\t212\n\t\t96\n\t\t116\n\t\t9\n\t\n\t\n\t\tVICENTE GUERRERO (LAS NIEVES)\n\t\t2\n\t\t168\n\t\t90\n\t\t78\n\t\t7\n\t\n\t\n\t\tVICENTE GUERRERO (LERMA)\n\t\t2\n\t\t372\n\t\t179\n\t\t193\n\t\t14\n\t\n\t\n\t\tVICENTE GUERRERO (SAN LORENZO)\n\t\t2\n\t\t113\n\t\t54\n\t\t59\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t132\n\t\t14,847\n\t\t7,262\n\t\t7,585\n\t\t705\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: TEAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANDRÉS QUINTANA ROO",
+          "2",
+          "204",
+          "105",
+          "99",
+          "8",
+          "ANDRÉS QUINTANA ROO 1RA. SECCIÓN",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3",
+          "ARCADIO ZENTELLA",
+          "4",
+          "180",
+          "83",
+          "97",
+          "10",
+          "CHAPULTEPEC",
+          "2",
+          "135",
+          "71",
+          "64",
+          "6",
+          "COLONIA MUNICIPAL",
+          "2",
+          "81",
+          "39",
+          "42",
+          "3",
+          "COLORADO (BENITO JUÁREZ)",
+          "2",
+          "97",
+          "46",
+          "51",
+          "4",
+          "EUREKA Y BELÉN",
+          "4",
+          "421",
+          "201",
+          "220",
+          "17",
+          "FRANCISCO JAVIER MINA (ARGENTINA)",
+          "3",
+          "1,455",
+          "581",
+          "874",
+          "75",
+          "HERMENEGILDO GALEANA",
+          "4",
+          "412",
+          "208",
+          "204",
+          "17",
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN (MEXIQUITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "3",
+          "33",
+          "14",
+          "19",
+          "9",
+          "IGNACIO ALLENDE 2DA. SECCIÓN",
+          "4",
+          "359",
+          "176",
+          "183",
+          "15",
+          "IGNACIO ALLENDE 3RA. SECCIÓN",
+          "2",
+          "56",
+          "32",
+          "24",
+          "3",
+          "IGNACIO LÓPEZ RAYÓN 1RA. SECCIÓN",
+          "2",
+          "72",
+          "29",
+          "43",
+          "3",
+          "IGNACIO LÓPEZ RAYÓN 2DA. SECCIÓN",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "JOSÉ MARÍA MORELOS Y PAVÓN (JUAN GÓMEZ)",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2",
+          "JOSÉ MARÍA MORELOS Y PAVÓN (LAS DELICIAS)",
+          "3",
+          "254",
+          "133",
+          "121",
+          "10",
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SAN ANTONIO LAS ÁNIMAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2",
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SANTA RITA)",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2",
+          "JOSÉ MARÍA MORELOS Y PAVÓN 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "2",
+          "JOSÉ MARÍA MORELOS Y PAVÓN 2DA. SECCIÓN",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6",
+          "JUAN ALDAMA",
+          "6",
+          "1,124",
+          "562",
+          "562",
+          "42",
+          "LAS LILIAS",
+          "2",
+          "104",
+          "60",
+          "44",
+          "4",
+          "MANUEL BUELTA 2DA. SECCIÓN",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3",
+          "MANUEL BUELTA Y RAYÓN",
+          "4",
+          "425",
+          "194",
+          "231",
+          "19",
+          "MARIANO PEDRERO 2DA. SECCIÓN",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "MARIANO PEDRERO 3RA. SECCIÓN",
+          "2",
+          "58",
+          "25",
+          "33",
+          "3",
+          "MIGUEL HIDALGO 1RA. SECCIÓN (LAS GARDENIAS)",
+          "3",
+          "140",
+          "79",
+          "61",
+          "13",
+          "MIGUEL HIDALGO 2DA. SECCIÓN (FCO. SARABIA)",
+          "3",
+          "358",
+          "173",
+          "185",
+          "13",
+          "MIGUEL HIDALGO 2DA. SECCIÓN (SAN JOAQUÍN)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "MINA Y MATAMOROS (LA TRINIDAD)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "3",
+          "MINA Y MATAMOROS (SAN PABLO TAMBOREL)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "2",
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "33",
+          "19",
+          "14",
+          "2",
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "141",
+          "66",
+          "75",
+          "7",
+          "SAN JOSÉ PUYACATENGO (CHAPINGO)",
+          "1",
+          "32",
+          "14",
+          "18",
+          "21",
+          "TEAPA",
+          "31",
+          "7,364",
+          "3,716",
+          "3,648",
+          "333",
+          "VICENTE GUERRERO (GUANAL)",
+          "3",
+          "212",
+          "96",
+          "116",
+          "9",
+          "VICENTE GUERRERO (LAS NIEVES)",
+          "2",
+          "168",
+          "90",
+          "78",
+          "7",
+          "VICENTE GUERRERO (LERMA)",
+          "2",
+          "372",
+          "179",
+          "193",
+          "14",
+          "VICENTE GUERRERO (SAN LORENZO)",
+          "2",
+          "113",
+          "54",
+          "59",
+          "5",
+          "TOTAL",
+          "132",
+          "14,847",
+          "7,262",
+          "7,585",
+          "705",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: TEAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO",
+          "2",
+          "204",
+          "105",
+          "99",
+          "8"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO 1RA. SECCIÓN",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "ARCADIO ZENTELLA",
+          "4",
+          "180",
+          "83",
+          "97",
+          "10"
+        ],
+        [
+          "CHAPULTEPEC",
+          "2",
+          "135",
+          "71",
+          "64",
+          "6"
+        ],
+        [
+          "COLONIA MUNICIPAL",
+          "2",
+          "81",
+          "39",
+          "42",
+          "3"
+        ],
+        [
+          "COLORADO (BENITO JUÁREZ)",
+          "2",
+          "97",
+          "46",
+          "51",
+          "4"
+        ],
+        [
+          "EUREKA Y BELÉN",
+          "4",
+          "421",
+          "201",
+          "220",
+          "17"
+        ],
+        [
+          "FRANCISCO JAVIER MINA (ARGENTINA)",
+          "3",
+          "1,455",
+          "581",
+          "874",
+          "75"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "4",
+          "412",
+          "208",
+          "204",
+          "17"
+        ],
+        [
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN (MEXIQUITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "3",
+          "33",
+          "14",
+          "19",
+          "9"
+        ],
+        [
+          "IGNACIO ALLENDE 2DA. SECCIÓN",
+          "4",
+          "359",
+          "176",
+          "183",
+          "15"
+        ],
+        [
+          "IGNACIO ALLENDE 3RA. SECCIÓN",
+          "2",
+          "56",
+          "32",
+          "24",
+          "3"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN 1RA. SECCIÓN",
+          "2",
+          "72",
+          "29",
+          "43",
+          "3"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN 2DA. SECCIÓN",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (JUAN GÓMEZ)",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (LAS DELICIAS)",
+          "3",
+          "254",
+          "133",
+          "121",
+          "10"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SAN ANTONIO LAS ÁNIMAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SANTA RITA)",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN 2DA. SECCIÓN",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6"
+        ],
+        [
+          "JUAN ALDAMA",
+          "6",
+          "1,124",
+          "562",
+          "562",
+          "42"
+        ],
+        [
+          "LAS LILIAS",
+          "2",
+          "104",
+          "60",
+          "44",
+          "4"
+        ],
+        [
+          "MANUEL BUELTA 2DA. SECCIÓN",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "MANUEL BUELTA Y RAYÓN",
+          "4",
+          "425",
+          "194",
+          "231",
+          "19"
+        ],
+        [
+          "MARIANO PEDRERO 2DA. SECCIÓN",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "MARIANO PEDRERO 3RA. SECCIÓN",
+          "2",
+          "58",
+          "25",
+          "33",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO 1RA. SECCIÓN (LAS GARDENIAS)",
+          "3",
+          "140",
+          "79",
+          "61",
+          "13"
+        ],
+        [
+          "MIGUEL HIDALGO 2DA. SECCIÓN (FCO. SARABIA)",
+          "3",
+          "358",
+          "173",
+          "185",
+          "13"
+        ],
+        [
+          "MIGUEL HIDALGO 2DA. SECCIÓN (SAN JOAQUÍN)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "MINA Y MATAMOROS (LA TRINIDAD)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "3"
+        ],
+        [
+          "MINA Y MATAMOROS (SAN PABLO TAMBOREL)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "33",
+          "19",
+          "14",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "141",
+          "66",
+          "75",
+          "7"
+        ],
+        [
+          "SAN JOSÉ PUYACATENGO (CHAPINGO)",
+          "1",
+          "32",
+          "14",
+          "18",
+          "21"
+        ],
+        [
+          "TEAPA",
+          "31",
+          "7,364",
+          "3,716",
+          "3,648",
+          "333"
+        ],
+        [
+          "VICENTE GUERRERO (GUANAL)",
+          "3",
+          "212",
+          "96",
+          "116",
+          "9"
+        ],
+        [
+          "VICENTE GUERRERO (LAS NIEVES)",
+          "2",
+          "168",
+          "90",
+          "78",
+          "7"
+        ],
+        [
+          "VICENTE GUERRERO (LERMA)",
+          "2",
+          "372",
+          "179",
+          "193",
+          "14"
+        ],
+        [
+          "VICENTE GUERRERO (SAN LORENZO)",
+          "2",
+          "113",
+          "54",
+          "59",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "132",
+          "14,847",
+          "7,262",
+          "7,585",
+          "705"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: TEAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO",
+          "2",
+          "204",
+          "105",
+          "99",
+          "8"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO 1RA. SECCIÓN",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "ARCADIO ZENTELLA",
+          "4",
+          "180",
+          "83",
+          "97",
+          "10"
+        ],
+        [
+          "CHAPULTEPEC",
+          "2",
+          "135",
+          "71",
+          "64",
+          "6"
+        ],
+        [
+          "COLONIA MUNICIPAL",
+          "2",
+          "81",
+          "39",
+          "42",
+          "3"
+        ],
+        [
+          "COLORADO (BENITO JUÁREZ)",
+          "2",
+          "97",
+          "46",
+          "51",
+          "4"
+        ],
+        [
+          "EUREKA Y BELÉN",
+          "4",
+          "421",
+          "201",
+          "220",
+          "17"
+        ],
+        [
+          "FRANCISCO JAVIER MINA (ARGENTINA)",
+          "3",
+          "1,455",
+          "581",
+          "874",
+          "75"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "4",
+          "412",
+          "208",
+          "204",
+          "17"
+        ],
+        [
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN (MEXIQUITO)",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "3",
+          "33",
+          "14",
+          "19",
+          "9"
+        ],
+        [
+          "IGNACIO ALLENDE 2DA. SECCIÓN",
+          "4",
+          "359",
+          "176",
+          "183",
+          "15"
+        ],
+        [
+          "IGNACIO ALLENDE 3RA. SECCIÓN",
+          "2",
+          "56",
+          "32",
+          "24",
+          "3"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN 1RA. SECCIÓN",
+          "2",
+          "72",
+          "29",
+          "43",
+          "3"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN 2DA. SECCIÓN",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (JUAN GÓMEZ)",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (LAS DELICIAS)",
+          "3",
+          "254",
+          "133",
+          "121",
+          "10"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SAN ANTONIO LAS ÁNIMAS)",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN (SANTA RITA)",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN 2DA. SECCIÓN",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6"
+        ],
+        [
+          "JUAN ALDAMA",
+          "6",
+          "1,124",
+          "562",
+          "562",
+          "42"
+        ],
+        [
+          "LAS LILIAS",
+          "2",
+          "104",
+          "60",
+          "44",
+          "4"
+        ],
+        [
+          "MANUEL BUELTA 2DA. SECCIÓN",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "MANUEL BUELTA Y RAYÓN",
+          "4",
+          "425",
+          "194",
+          "231",
+          "19"
+        ],
+        [
+          "MARIANO PEDRERO 2DA. SECCIÓN",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "MARIANO PEDRERO 3RA. SECCIÓN",
+          "2",
+          "58",
+          "25",
+          "33",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO 1RA. SECCIÓN (LAS GARDENIAS)",
+          "3",
+          "140",
+          "79",
+          "61",
+          "13"
+        ],
+        [
+          "MIGUEL HIDALGO 2DA. SECCIÓN (FCO. SARABIA)",
+          "3",
+          "358",
+          "173",
+          "185",
+          "13"
+        ],
+        [
+          "MIGUEL HIDALGO 2DA. SECCIÓN (SAN JOAQUÍN)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "MINA Y MATAMOROS (LA TRINIDAD)",
+          "3",
+          "48",
+          "25",
+          "23",
+          "3"
+        ],
+        [
+          "MINA Y MATAMOROS (SAN PABLO TAMBOREL)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "33",
+          "19",
+          "14",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "141",
+          "66",
+          "75",
+          "7"
+        ],
+        [
+          "SAN JOSÉ PUYACATENGO (CHAPINGO)",
+          "1",
+          "32",
+          "14",
+          "18",
+          "21"
+        ],
+        [
+          "TEAPA",
+          "31",
+          "7,364",
+          "3,716",
+          "3,648",
+          "333"
+        ],
+        [
+          "VICENTE GUERRERO (GUANAL)",
+          "3",
+          "212",
+          "96",
+          "116",
+          "9"
+        ],
+        [
+          "VICENTE GUERRERO (LAS NIEVES)",
+          "2",
+          "168",
+          "90",
+          "78",
+          "7"
+        ],
+        [
+          "VICENTE GUERRERO (LERMA)",
+          "2",
+          "372",
+          "179",
+          "193",
+          "14"
+        ],
+        [
+          "VICENTE GUERRERO (SAN LORENZO)",
+          "2",
+          "113",
+          "54",
+          "59",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "132",
+          "14,847",
+          "7,262",
+          "7,585",
+          "705"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:12.617Z"
+}

@@ -1,0 +1,560 @@
+{
+  "municipality": "TECÁMAC",
+  "municipalityCode": "081",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TECÁMAC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN SAN JERÓNIMO\n\t\t2\n\t\t123\n\t\t55\n\t\t68\n\t\t7\n\t\n\t\n\t\tCOLONIA SAN ISIDRO CITLALCÓATL\n\t\t1\n\t\t40\n\t\t25\n\t\t15\n\t\t2\n\t\n\t\n\t\tCOLONIA TEZONTLA\n\t\t1\n\t\t31\n\t\t15\n\t\t16\n\t\t2\n\t\n\t\n\t\tEJIDO SAN ANDRÉS OZUMBILLA\n\t\t1\n\t\t534\n\t\t298\n\t\t236\n\t\t18\n\t\n\t\n\t\tFRACCIONAMIENTO HACIENDA DEL BOSQUE\n\t\t5\n\t\t1,494\n\t\t730\n\t\t764\n\t\t60\n\t\n\t\n\t\tFRACCIONAMIENTO SANTA CRUZ TECÁMAC\n\t\t1\n\t\t154\n\t\t78\n\t\t76\n\t\t6\n\t\n\t\n\t\tFRACCIONAMIENTO SOCIAL PROGRESIVO SANTO TOMÁS CHICONAUTLA\n\t\t10\n\t\t2,093\n\t\t1,027\n\t\t1,066\n\t\t97\n\t\n\t\n\t\tLA NOPALERA (LA CAÑADA)\n\t\t2\n\t\t98\n\t\t47\n\t\t51\n\t\t9\n\t\n\t\n\t\tLOS HÉROES SAN PABLO\n\t\t1\n\t\t362\n\t\t174\n\t\t188\n\t\t13\n\t\n\t\n\t\tLOS REYES ACOZAC\n\t\t15\n\t\t3,215\n\t\t1,571\n\t\t1,644\n\t\t145\n\t\n\t\n\t\tOJO DE AGUA\n\t\t89\n\t\t20,593\n\t\t10,132\n\t\t10,461\n\t\t1,257\n\t\n\t\n\t\tRANCHO LA LUZ\n\t\t1\n\t\t136\n\t\t71\n\t\t65\n\t\t6\n\t\n\t\n\t\tRANCHO SAN NICOLÁS LA REDONDA\n\t\t3\n\t\t501\n\t\t268\n\t\t233\n\t\t19\n\t\n\t\n\t\tSAN JUAN PUEBLO NUEVO\n\t\t4\n\t\t583\n\t\t276\n\t\t307\n\t\t25\n\t\n\t\n\t\tSAN MARTÍN AZCATEPEC\n\t\t21\n\t\t4,532\n\t\t2,286\n\t\t2,246\n\t\t257\n\t\n\t\n\t\tSAN PABLO TECALCO\n\t\t6\n\t\t1,185\n\t\t609\n\t\t576\n\t\t49\n\t\n\t\n\t\tSAN PEDRO (EL TERREMOTO)\n\t\t3\n\t\t861\n\t\t390\n\t\t471\n\t\t37\n\t\n\t\n\t\tSANTA MARÍA AJOLOAPAN\n\t\t18\n\t\t3,690\n\t\t1,769\n\t\t1,921\n\t\t147\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t2\n\t\t213\n\t\t112\n\t\t101\n\t\t7\n\t\n\t\n\t\tSIERRA HERMOSA [UNIDAD DEPORTIVA REGIONAL]\n\t\t1\n\t\t428\n\t\t206\n\t\t222\n\t\t16\n\t\n\t\n\t\tTECÁMAC DE FELIPE VILLANUEVA\n\t\t327\n\t\t87,313\n\t\t44,298\n\t\t43,015\n\t\t5,465\n\t\n\t\n\t\tTOTAL\n\t\t514\n\t\t128,179\n\t\t64,437\n\t\t63,742\n\t\t7,644\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TECÁMAC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN SAN JERÓNIMO",
+          "2",
+          "123",
+          "55",
+          "68",
+          "7",
+          "COLONIA SAN ISIDRO CITLALCÓATL",
+          "1",
+          "40",
+          "25",
+          "15",
+          "2",
+          "COLONIA TEZONTLA",
+          "1",
+          "31",
+          "15",
+          "16",
+          "2",
+          "EJIDO SAN ANDRÉS OZUMBILLA",
+          "1",
+          "534",
+          "298",
+          "236",
+          "18",
+          "FRACCIONAMIENTO HACIENDA DEL BOSQUE",
+          "5",
+          "1,494",
+          "730",
+          "764",
+          "60",
+          "FRACCIONAMIENTO SANTA CRUZ TECÁMAC",
+          "1",
+          "154",
+          "78",
+          "76",
+          "6",
+          "FRACCIONAMIENTO SOCIAL PROGRESIVO SANTO TOMÁS CHICONAUTLA",
+          "10",
+          "2,093",
+          "1,027",
+          "1,066",
+          "97",
+          "LA NOPALERA (LA CAÑADA)",
+          "2",
+          "98",
+          "47",
+          "51",
+          "9",
+          "LOS HÉROES SAN PABLO",
+          "1",
+          "362",
+          "174",
+          "188",
+          "13",
+          "LOS REYES ACOZAC",
+          "15",
+          "3,215",
+          "1,571",
+          "1,644",
+          "145",
+          "OJO DE AGUA",
+          "89",
+          "20,593",
+          "10,132",
+          "10,461",
+          "1,257",
+          "RANCHO LA LUZ",
+          "1",
+          "136",
+          "71",
+          "65",
+          "6",
+          "RANCHO SAN NICOLÁS LA REDONDA",
+          "3",
+          "501",
+          "268",
+          "233",
+          "19",
+          "SAN JUAN PUEBLO NUEVO",
+          "4",
+          "583",
+          "276",
+          "307",
+          "25",
+          "SAN MARTÍN AZCATEPEC",
+          "21",
+          "4,532",
+          "2,286",
+          "2,246",
+          "257",
+          "SAN PABLO TECALCO",
+          "6",
+          "1,185",
+          "609",
+          "576",
+          "49",
+          "SAN PEDRO (EL TERREMOTO)",
+          "3",
+          "861",
+          "390",
+          "471",
+          "37",
+          "SANTA MARÍA AJOLOAPAN",
+          "18",
+          "3,690",
+          "1,769",
+          "1,921",
+          "147",
+          "SANTO DOMINGO",
+          "2",
+          "213",
+          "112",
+          "101",
+          "7",
+          "SIERRA HERMOSA [UNIDAD DEPORTIVA REGIONAL]",
+          "1",
+          "428",
+          "206",
+          "222",
+          "16",
+          "TECÁMAC DE FELIPE VILLANUEVA",
+          "327",
+          "87,313",
+          "44,298",
+          "43,015",
+          "5,465",
+          "TOTAL",
+          "514",
+          "128,179",
+          "64,437",
+          "63,742",
+          "7,644",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TECÁMAC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN SAN JERÓNIMO",
+          "2",
+          "123",
+          "55",
+          "68",
+          "7"
+        ],
+        [
+          "COLONIA SAN ISIDRO CITLALCÓATL",
+          "1",
+          "40",
+          "25",
+          "15",
+          "2"
+        ],
+        [
+          "COLONIA TEZONTLA",
+          "1",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "EJIDO SAN ANDRÉS OZUMBILLA",
+          "1",
+          "534",
+          "298",
+          "236",
+          "18"
+        ],
+        [
+          "FRACCIONAMIENTO HACIENDA DEL BOSQUE",
+          "5",
+          "1,494",
+          "730",
+          "764",
+          "60"
+        ],
+        [
+          "FRACCIONAMIENTO SANTA CRUZ TECÁMAC",
+          "1",
+          "154",
+          "78",
+          "76",
+          "6"
+        ],
+        [
+          "FRACCIONAMIENTO SOCIAL PROGRESIVO SANTO TOMÁS CHICONAUTLA",
+          "10",
+          "2,093",
+          "1,027",
+          "1,066",
+          "97"
+        ],
+        [
+          "LA NOPALERA (LA CAÑADA)",
+          "2",
+          "98",
+          "47",
+          "51",
+          "9"
+        ],
+        [
+          "LOS HÉROES SAN PABLO",
+          "1",
+          "362",
+          "174",
+          "188",
+          "13"
+        ],
+        [
+          "LOS REYES ACOZAC",
+          "15",
+          "3,215",
+          "1,571",
+          "1,644",
+          "145"
+        ],
+        [
+          "OJO DE AGUA",
+          "89",
+          "20,593",
+          "10,132",
+          "10,461",
+          "1,257"
+        ],
+        [
+          "RANCHO LA LUZ",
+          "1",
+          "136",
+          "71",
+          "65",
+          "6"
+        ],
+        [
+          "RANCHO SAN NICOLÁS LA REDONDA",
+          "3",
+          "501",
+          "268",
+          "233",
+          "19"
+        ],
+        [
+          "SAN JUAN PUEBLO NUEVO",
+          "4",
+          "583",
+          "276",
+          "307",
+          "25"
+        ],
+        [
+          "SAN MARTÍN AZCATEPEC",
+          "21",
+          "4,532",
+          "2,286",
+          "2,246",
+          "257"
+        ],
+        [
+          "SAN PABLO TECALCO",
+          "6",
+          "1,185",
+          "609",
+          "576",
+          "49"
+        ],
+        [
+          "SAN PEDRO (EL TERREMOTO)",
+          "3",
+          "861",
+          "390",
+          "471",
+          "37"
+        ],
+        [
+          "SANTA MARÍA AJOLOAPAN",
+          "18",
+          "3,690",
+          "1,769",
+          "1,921",
+          "147"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "213",
+          "112",
+          "101",
+          "7"
+        ],
+        [
+          "SIERRA HERMOSA [UNIDAD DEPORTIVA REGIONAL]",
+          "1",
+          "428",
+          "206",
+          "222",
+          "16"
+        ],
+        [
+          "TECÁMAC DE FELIPE VILLANUEVA",
+          "327",
+          "87,313",
+          "44,298",
+          "43,015",
+          "5,465"
+        ],
+        [
+          "TOTAL",
+          "514",
+          "128,179",
+          "64,437",
+          "63,742",
+          "7,644"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TECÁMAC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN SAN JERÓNIMO",
+          "2",
+          "123",
+          "55",
+          "68",
+          "7"
+        ],
+        [
+          "COLONIA SAN ISIDRO CITLALCÓATL",
+          "1",
+          "40",
+          "25",
+          "15",
+          "2"
+        ],
+        [
+          "COLONIA TEZONTLA",
+          "1",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "EJIDO SAN ANDRÉS OZUMBILLA",
+          "1",
+          "534",
+          "298",
+          "236",
+          "18"
+        ],
+        [
+          "FRACCIONAMIENTO HACIENDA DEL BOSQUE",
+          "5",
+          "1,494",
+          "730",
+          "764",
+          "60"
+        ],
+        [
+          "FRACCIONAMIENTO SANTA CRUZ TECÁMAC",
+          "1",
+          "154",
+          "78",
+          "76",
+          "6"
+        ],
+        [
+          "FRACCIONAMIENTO SOCIAL PROGRESIVO SANTO TOMÁS CHICONAUTLA",
+          "10",
+          "2,093",
+          "1,027",
+          "1,066",
+          "97"
+        ],
+        [
+          "LA NOPALERA (LA CAÑADA)",
+          "2",
+          "98",
+          "47",
+          "51",
+          "9"
+        ],
+        [
+          "LOS HÉROES SAN PABLO",
+          "1",
+          "362",
+          "174",
+          "188",
+          "13"
+        ],
+        [
+          "LOS REYES ACOZAC",
+          "15",
+          "3,215",
+          "1,571",
+          "1,644",
+          "145"
+        ],
+        [
+          "OJO DE AGUA",
+          "89",
+          "20,593",
+          "10,132",
+          "10,461",
+          "1,257"
+        ],
+        [
+          "RANCHO LA LUZ",
+          "1",
+          "136",
+          "71",
+          "65",
+          "6"
+        ],
+        [
+          "RANCHO SAN NICOLÁS LA REDONDA",
+          "3",
+          "501",
+          "268",
+          "233",
+          "19"
+        ],
+        [
+          "SAN JUAN PUEBLO NUEVO",
+          "4",
+          "583",
+          "276",
+          "307",
+          "25"
+        ],
+        [
+          "SAN MARTÍN AZCATEPEC",
+          "21",
+          "4,532",
+          "2,286",
+          "2,246",
+          "257"
+        ],
+        [
+          "SAN PABLO TECALCO",
+          "6",
+          "1,185",
+          "609",
+          "576",
+          "49"
+        ],
+        [
+          "SAN PEDRO (EL TERREMOTO)",
+          "3",
+          "861",
+          "390",
+          "471",
+          "37"
+        ],
+        [
+          "SANTA MARÍA AJOLOAPAN",
+          "18",
+          "3,690",
+          "1,769",
+          "1,921",
+          "147"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "213",
+          "112",
+          "101",
+          "7"
+        ],
+        [
+          "SIERRA HERMOSA [UNIDAD DEPORTIVA REGIONAL]",
+          "1",
+          "428",
+          "206",
+          "222",
+          "16"
+        ],
+        [
+          "TECÁMAC DE FELIPE VILLANUEVA",
+          "327",
+          "87,313",
+          "44,298",
+          "43,015",
+          "5,465"
+        ],
+        [
+          "TOTAL",
+          "514",
+          "128,179",
+          "64,437",
+          "63,742",
+          "7,644"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:08.103Z"
+}

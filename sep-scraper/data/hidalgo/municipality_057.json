@@ -1,0 +1,780 @@
+{
+  "municipality": "SINGUILUCAN",
+  "municipalityCode": "057",
+  "state": "HIDALGO",
+  "stateCode": "13",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATLÁN\n\tACAXOCHITLÁN\n\tACTOPAN\n\tAGUA BLANCA DE ITURBIDE\n\tAJACUBA\n\tALFAJAYUCAN\n\tALMOLOYA\n\tAPAN\n\tATITALAQUIA\n\tATLAPEXCO\n\tATOTONILCO DE TULA\n\tATOTONILCO EL GRANDE\n\tCALNALI\n\tCARDONAL\n\tCHAPANTONGO\n\tCHAPULHUACÁN\n\tCHILCUAUTLA\n\tCUAUTEPEC DE HINOJOSA\n\tEL ARENAL\n\tELOXOCHITLÁN\n\tEMILIANO ZAPATA\n\tEPAZOYUCAN\n\tFRANCISCO I. MADERO\n\tHUASCA DE OCAMPO\n\tHUAUTLA\n\tHUAZALINGO\n\tHUEHUETLA\n\tHUEJUTLA DE REYES\n\tHUICHAPAN\n\tIXMIQUILPAN\n\tJACALA DE LEDEZMA\n\tJALTOCÁN\n\tJUÁREZ HIDALGO\n\tLA MISIÓN\n\tLOLOTLA\n\tMETEPEC\n\tMETZTITLÁN\n\tMINERAL DE LA REFORMA\n\tMINERAL DEL CHICO\n\tMINERAL DEL MONTE\n\tMIXQUIAHUALA DE JUÁREZ\n\tMOLANGO DE ESCAMILLA\n\tNICOLÁS FLORES\n\tNOPALA DE VILLAGRÁN\n\tOMITLÁN DE JUÁREZ\n\tPACHUCA DE SOTO\n\tPACULA\n\tPISAFLORES\n\tPROGRESO DE OBREGÓN\n\tSAN AGUSTÍN METZQUITITLÁN\n\tSAN AGUSTÍN TLAXIACA\n\tSAN BARTOLO TUTOTEPEC\n\tSAN FELIPE ORIZATLÁN\n\tSAN SALVADOR\n\tSANTIAGO DE ANAYA\n\tSANTIAGO TULANTEPEC DE LUGO GUERRERO\n\tSINGUILUCAN\n\tTASQUILLO\n\tTECOZAUTLA\n\tTENANGO DE DORIA\n\tTEPEAPULCO\n\tTEPEHUACÁN DE GUERRERO\n\tTEPEJI DEL RÍO DE OCAMPO\n\tTEPETITLÁN\n\tTETEPANGO\n\tTEZONTEPEC DE ALDAMA\n\tTIANGUISTENGO\n\tTIZAYUCA\n\tTLAHUELILPAN\n\tTLAHUILTEPA\n\tTLANALAPA\n\tTLANCHINOL\n\tTLAXCOAPAN\n\tTOLCAYUCA\n\tTULA DE ALLENDE\n\tTULANCINGO DE BRAVO\n\tVILLA DE TEZONTEPEC\n\tXOCHIATIPAN\n\tXOCHICOATLÁN\n\tYAHUALICA\n\tZACUALTIPÁN DE ÁNGELES\n\tZAPOTLÁN DE JUÁREZ\n\tZEMPOALA\n\tZIMAPÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SINGUILUCAN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUAYUTLA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tALFAJAYUCAN\n\t\t2\n\t\t65\n\t\t31\n\t\t34\n\t\t6\n\t\n\t\n\t\tAMOLUCAN\n\t\t1\n\t\t5\n\t\t0\n\t\t5\n\t\t1\n\t\n\t\n\t\tCUATRO PALOS\n\t\t2\n\t\t65\n\t\t32\n\t\t33\n\t\t4\n\t\n\t\n\t\tEL CEBADAL\n\t\t2\n\t\t21\n\t\t3\n\t\t18\n\t\t2\n\t\n\t\n\t\tEL SUSTO\n\t\t3\n\t\t385\n\t\t182\n\t\t203\n\t\t19\n\t\n\t\n\t\tEL VARAL\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t4\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t3\n\t\t71\n\t\t31\n\t\t40\n\t\t6\n\t\n\t\n\t\tJALAPILLA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA COMUNIDAD\n\t\t1\n\t\t23\n\t\t14\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA CONCHITA (LA CANTERA)\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA ESTANCIA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t3\n\t\n\t\n\t\tLA JOYA\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA LAGUNITA\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA PEÑA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS PALOMAS\n\t\t2\n\t\t45\n\t\t25\n\t\t20\n\t\t3\n\t\n\t\n\t\tLOS PATOS [COLONIA]\n\t\t2\n\t\t18\n\t\t12\n\t\t6\n\t\t2\n\t\n\t\n\t\tMATÍAS RODRÍGUEZ\n\t\t3\n\t\t308\n\t\t150\n\t\t158\n\t\t15\n\t\n\t\n\t\tMIRASOLES\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tPLUTARCO ELÍAS CALLES\n\t\t3\n\t\t55\n\t\t23\n\t\t32\n\t\t5\n\t\n\t\n\t\tRINCÓN DEL AGUA\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tRINCÓN DEL PUERTO\n\t\t2\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tSABANETAS\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN MARTÍN EL COYOTE\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL AMOLUCAN\n\t\t3\n\t\t103\n\t\t47\n\t\t56\n\t\t8\n\t\n\t\n\t\tSANTA ANA CHICHICUAUTLA\n\t\t2\n\t\t54\n\t\t26\n\t\t28\n\t\t4\n\t\n\t\n\t\tSEGUNDAS LAJAS\n\t\t3\n\t\t169\n\t\t76\n\t\t93\n\t\t9\n\t\n\t\n\t\tSINGUILUCAN\n\t\t6\n\t\t1,677\n\t\t875\n\t\t802\n\t\t63\n\t\n\t\n\t\tSOMORRIEL\n\t\t2\n\t\t40\n\t\t20\n\t\t20\n\t\t3\n\t\n\t\n\t\tTEXCALTITLA\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t3,332\n\t\t1,658\n\t\t1,674\n\t\t179\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SINGUILUCAN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUAYUTLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "ALFAJAYUCAN",
+          "2",
+          "65",
+          "31",
+          "34",
+          "6",
+          "AMOLUCAN",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1",
+          "CUATRO PALOS",
+          "2",
+          "65",
+          "32",
+          "33",
+          "4",
+          "EL CEBADAL",
+          "2",
+          "21",
+          "3",
+          "18",
+          "2",
+          "EL SUSTO",
+          "3",
+          "385",
+          "182",
+          "203",
+          "19",
+          "EL VARAL",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4",
+          "FRANCISCO I. MADERO",
+          "3",
+          "71",
+          "31",
+          "40",
+          "6",
+          "JALAPILLA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA COMUNIDAD",
+          "1",
+          "23",
+          "14",
+          "9",
+          "2",
+          "LA CONCHITA (LA CANTERA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LA ESTANCIA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LA GLORIA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "3",
+          "LA JOYA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "LA LAGUNITA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "LA PEÑA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LAS PALOMAS",
+          "2",
+          "45",
+          "25",
+          "20",
+          "3",
+          "LOS PATOS [COLONIA]",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2",
+          "MATÍAS RODRÍGUEZ",
+          "3",
+          "308",
+          "150",
+          "158",
+          "15",
+          "MIRASOLES",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5",
+          "RINCÓN DEL AGUA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "RINCÓN DEL PUERTO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1",
+          "SABANETAS",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2",
+          "SAN MARTÍN EL COYOTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "SAN RAFAEL AMOLUCAN",
+          "3",
+          "103",
+          "47",
+          "56",
+          "8",
+          "SANTA ANA CHICHICUAUTLA",
+          "2",
+          "54",
+          "26",
+          "28",
+          "4",
+          "SEGUNDAS LAJAS",
+          "3",
+          "169",
+          "76",
+          "93",
+          "9",
+          "SINGUILUCAN",
+          "6",
+          "1,677",
+          "875",
+          "802",
+          "63",
+          "SOMORRIEL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3",
+          "TEXCALTITLA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3",
+          "TOTAL",
+          "64",
+          "3,332",
+          "1,658",
+          "1,674",
+          "179",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SINGUILUCAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAYUTLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ALFAJAYUCAN",
+          "2",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "AMOLUCAN",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1"
+        ],
+        [
+          "CUATRO PALOS",
+          "2",
+          "65",
+          "32",
+          "33",
+          "4"
+        ],
+        [
+          "EL CEBADAL",
+          "2",
+          "21",
+          "3",
+          "18",
+          "2"
+        ],
+        [
+          "EL SUSTO",
+          "3",
+          "385",
+          "182",
+          "203",
+          "19"
+        ],
+        [
+          "EL VARAL",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "71",
+          "31",
+          "40",
+          "6"
+        ],
+        [
+          "JALAPILLA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA COMUNIDAD",
+          "1",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "LA CONCHITA (LA CANTERA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LA ESTANCIA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LA PEÑA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LAS PALOMAS",
+          "2",
+          "45",
+          "25",
+          "20",
+          "3"
+        ],
+        [
+          "LOS PATOS [COLONIA]",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "MATÍAS RODRÍGUEZ",
+          "3",
+          "308",
+          "150",
+          "158",
+          "15"
+        ],
+        [
+          "MIRASOLES",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5"
+        ],
+        [
+          "RINCÓN DEL AGUA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "RINCÓN DEL PUERTO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "SABANETAS",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN MARTÍN EL COYOTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN RAFAEL AMOLUCAN",
+          "3",
+          "103",
+          "47",
+          "56",
+          "8"
+        ],
+        [
+          "SANTA ANA CHICHICUAUTLA",
+          "2",
+          "54",
+          "26",
+          "28",
+          "4"
+        ],
+        [
+          "SEGUNDAS LAJAS",
+          "3",
+          "169",
+          "76",
+          "93",
+          "9"
+        ],
+        [
+          "SINGUILUCAN",
+          "6",
+          "1,677",
+          "875",
+          "802",
+          "63"
+        ],
+        [
+          "SOMORRIEL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "TEXCALTITLA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,332",
+          "1,658",
+          "1,674",
+          "179"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SINGUILUCAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAYUTLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ALFAJAYUCAN",
+          "2",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "AMOLUCAN",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1"
+        ],
+        [
+          "CUATRO PALOS",
+          "2",
+          "65",
+          "32",
+          "33",
+          "4"
+        ],
+        [
+          "EL CEBADAL",
+          "2",
+          "21",
+          "3",
+          "18",
+          "2"
+        ],
+        [
+          "EL SUSTO",
+          "3",
+          "385",
+          "182",
+          "203",
+          "19"
+        ],
+        [
+          "EL VARAL",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "71",
+          "31",
+          "40",
+          "6"
+        ],
+        [
+          "JALAPILLA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA COMUNIDAD",
+          "1",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "LA CONCHITA (LA CANTERA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LA ESTANCIA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LA PEÑA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LAS PALOMAS",
+          "2",
+          "45",
+          "25",
+          "20",
+          "3"
+        ],
+        [
+          "LOS PATOS [COLONIA]",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "MATÍAS RODRÍGUEZ",
+          "3",
+          "308",
+          "150",
+          "158",
+          "15"
+        ],
+        [
+          "MIRASOLES",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5"
+        ],
+        [
+          "RINCÓN DEL AGUA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "RINCÓN DEL PUERTO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "SABANETAS",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN MARTÍN EL COYOTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN RAFAEL AMOLUCAN",
+          "3",
+          "103",
+          "47",
+          "56",
+          "8"
+        ],
+        [
+          "SANTA ANA CHICHICUAUTLA",
+          "2",
+          "54",
+          "26",
+          "28",
+          "4"
+        ],
+        [
+          "SEGUNDAS LAJAS",
+          "3",
+          "169",
+          "76",
+          "93",
+          "9"
+        ],
+        [
+          "SINGUILUCAN",
+          "6",
+          "1,677",
+          "875",
+          "802",
+          "63"
+        ],
+        [
+          "SOMORRIEL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "TEXCALTITLA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,332",
+          "1,658",
+          "1,674",
+          "179"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:21.186Z"
+}

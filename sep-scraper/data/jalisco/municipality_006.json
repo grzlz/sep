@@ -1,0 +1,1066 @@
+{
+  "municipality": "AMECA",
+  "municipalityCode": "006",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: AMECA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTAVISTA DE RAMOS\n\t\t3\n\t\t56\n\t\t25\n\t\t31\n\t\t5\n\t\n\t\n\t\tAMECA\n\t\t44\n\t\t14,362\n\t\t7,926\n\t\t6,436\n\t\t745\n\t\n\t\n\t\tARROYO HONDO\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tBUENOS AIRES\n\t\t2\n\t\t116\n\t\t58\n\t\t58\n\t\t8\n\t\n\t\n\t\tCAIMANERO (EL QUELITE)\n\t\t2\n\t\t48\n\t\t24\n\t\t24\n\t\t3\n\t\n\t\n\t\tDON MARTÍN\n\t\t2\n\t\t78\n\t\t35\n\t\t43\n\t\t5\n\t\n\t\n\t\tEL ARCO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL CABEZÓN (EL LIMÓN)\n\t\t7\n\t\t596\n\t\t298\n\t\t298\n\t\t47\n\t\n\t\n\t\tEL CERRITO DEL CUIS\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL CUIS (EL TASAJO)\n\t\t2\n\t\t46\n\t\t22\n\t\t24\n\t\t4\n\t\n\t\n\t\tEL MAGISTRAL\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PORTEZUELO\n\t\t3\n\t\t198\n\t\t90\n\t\t108\n\t\t13\n\t\n\t\n\t\tEL REALITO\n\t\t3\n\t\t29\n\t\t16\n\t\t13\n\t\t5\n\t\n\t\n\t\tEL SABINO\n\t\t3\n\t\t88\n\t\t50\n\t\t38\n\t\t6\n\t\n\t\n\t\tEL TEXCALAME\n\t\t3\n\t\t113\n\t\t60\n\t\t53\n\t\t7\n\t\n\t\n\t\tJAYAMITLA (COLMENAR)\n\t\t3\n\t\t138\n\t\t80\n\t\t58\n\t\t9\n\t\n\t\n\t\tLA CALERA DE ARRIBA\n\t\t2\n\t\t42\n\t\t21\n\t\t21\n\t\t3\n\t\n\t\n\t\tLA CORONILLA\n\t\t2\n\t\t28\n\t\t18\n\t\t10\n\t\t3\n\t\n\t\n\t\tLA ESTANCITA\n\t\t2\n\t\t21\n\t\t6\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA HIGUERA\n\t\t2\n\t\t44\n\t\t27\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA HUERTA DE SAN JAVIER\n\t\t3\n\t\t58\n\t\t31\n\t\t27\n\t\t4\n\t\n\t\n\t\tLA NUEVA CANTERÍA (EL POCHOTE)\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t3\n\t\n\t\n\t\tLA PAREJA\n\t\t3\n\t\t50\n\t\t20\n\t\t30\n\t\t4\n\t\n\t\n\t\tLA VILLITA\n\t\t4\n\t\t169\n\t\t78\n\t\t91\n\t\t11\n\t\n\t\n\t\tLABOR DE SOLÍS\n\t\t3\n\t\t153\n\t\t77\n\t\t76\n\t\t11\n\t\n\t\n\t\tLAGUNILLAS\n\t\t3\n\t\t55\n\t\t29\n\t\t26\n\t\t4\n\t\n\t\n\t\tLAS PAREDES\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tLAS PILAS\n\t\t4\n\t\t84\n\t\t43\n\t\t41\n\t\t6\n\t\n\t\n\t\tLAS RAÍCES\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tLOMAS DE SANTIAGO\n\t\t3\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tLOS AMIALES\n\t\t3\n\t\t65\n\t\t28\n\t\t37\n\t\t4\n\t\n\t\n\t\tLOS MORILLOS\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS PILARES\n\t\t2\n\t\t29\n\t\t17\n\t\t12\n\t\t3\n\t\n\t\n\t\tLOS POCITOS\n\t\t3\n\t\t204\n\t\t101\n\t\t103\n\t\t11\n\t\n\t\n\t\tMALPASITO\n\t\t2\n\t\t50\n\t\t17\n\t\t33\n\t\t4\n\t\n\t\n\t\tMALPASO DE LA PEQUEÑA\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tQUEIXPAN\n\t\t3\n\t\t78\n\t\t50\n\t\t28\n\t\t6\n\t\n\t\n\t\tSAN ANTONIO MATUTE\n\t\t8\n\t\t884\n\t\t466\n\t\t418\n\t\t76\n\t\n\t\n\t\tSAN ANTONIO PUERTA DE LA VEGA\n\t\t4\n\t\t229\n\t\t117\n\t\t112\n\t\t15\n\t\n\t\n\t\tSAN IGNACIO\n\t\t2\n\t\t23\n\t\t7\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t93\n\t\t39\n\t\t54\n\t\t6\n\t\n\t\n\t\tSAN NICOLÁS\n\t\t3\n\t\t256\n\t\t123\n\t\t133\n\t\t23\n\t\n\t\n\t\tSANTA MARÍA DE LA HUERTA\n\t\t3\n\t\t83\n\t\t43\n\t\t40\n\t\t5\n\t\n\t\n\t\tVILLA HERMOSA\n\t\t3\n\t\t101\n\t\t49\n\t\t52\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t162\n\t\t18,819\n\t\t10,165\n\t\t8,654\n\t\t1,089\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: AMECA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTAVISTA DE RAMOS",
+          "3",
+          "56",
+          "25",
+          "31",
+          "5",
+          "AMECA",
+          "44",
+          "14,362",
+          "7,926",
+          "6,436",
+          "745",
+          "ARROYO HONDO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "BUENOS AIRES",
+          "2",
+          "116",
+          "58",
+          "58",
+          "8",
+          "CAIMANERO (EL QUELITE)",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3",
+          "DON MARTÍN",
+          "2",
+          "78",
+          "35",
+          "43",
+          "5",
+          "EL ARCO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "EL CABEZÓN (EL LIMÓN)",
+          "7",
+          "596",
+          "298",
+          "298",
+          "47",
+          "EL CERRITO DEL CUIS",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "EL CUIS (EL TASAJO)",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4",
+          "EL MAGISTRAL",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL PORTEZUELO",
+          "3",
+          "198",
+          "90",
+          "108",
+          "13",
+          "EL REALITO",
+          "3",
+          "29",
+          "16",
+          "13",
+          "5",
+          "EL SABINO",
+          "3",
+          "88",
+          "50",
+          "38",
+          "6",
+          "EL TEXCALAME",
+          "3",
+          "113",
+          "60",
+          "53",
+          "7",
+          "JAYAMITLA (COLMENAR)",
+          "3",
+          "138",
+          "80",
+          "58",
+          "9",
+          "LA CALERA DE ARRIBA",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3",
+          "LA CORONILLA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "3",
+          "LA ESTANCITA",
+          "2",
+          "21",
+          "6",
+          "15",
+          "2",
+          "LA HIGUERA",
+          "2",
+          "44",
+          "27",
+          "17",
+          "3",
+          "LA HUERTA DE SAN JAVIER",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4",
+          "LA NUEVA CANTERÍA (EL POCHOTE)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3",
+          "LA PAREJA",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4",
+          "LA VILLITA",
+          "4",
+          "169",
+          "78",
+          "91",
+          "11",
+          "LABOR DE SOLÍS",
+          "3",
+          "153",
+          "77",
+          "76",
+          "11",
+          "LAGUNILLAS",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4",
+          "LAS PAREDES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "LAS PILAS",
+          "4",
+          "84",
+          "43",
+          "41",
+          "6",
+          "LAS RAÍCES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "LOMAS DE SANTIAGO",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2",
+          "LOS AMIALES",
+          "3",
+          "65",
+          "28",
+          "37",
+          "4",
+          "LOS MORILLOS",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "LOS PILARES",
+          "2",
+          "29",
+          "17",
+          "12",
+          "3",
+          "LOS POCITOS",
+          "3",
+          "204",
+          "101",
+          "103",
+          "11",
+          "MALPASITO",
+          "2",
+          "50",
+          "17",
+          "33",
+          "4",
+          "MALPASO DE LA PEQUEÑA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "QUEIXPAN",
+          "3",
+          "78",
+          "50",
+          "28",
+          "6",
+          "SAN ANTONIO MATUTE",
+          "8",
+          "884",
+          "466",
+          "418",
+          "76",
+          "SAN ANTONIO PUERTA DE LA VEGA",
+          "4",
+          "229",
+          "117",
+          "112",
+          "15",
+          "SAN IGNACIO",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3",
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "6",
+          "SAN NICOLÁS",
+          "3",
+          "256",
+          "123",
+          "133",
+          "23",
+          "SANTA MARÍA DE LA HUERTA",
+          "3",
+          "83",
+          "43",
+          "40",
+          "5",
+          "VILLA HERMOSA",
+          "3",
+          "101",
+          "49",
+          "52",
+          "7",
+          "TOTAL",
+          "162",
+          "18,819",
+          "10,165",
+          "8,654",
+          "1,089",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: AMECA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAVISTA DE RAMOS",
+          "3",
+          "56",
+          "25",
+          "31",
+          "5"
+        ],
+        [
+          "AMECA",
+          "44",
+          "14,362",
+          "7,926",
+          "6,436",
+          "745"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "BUENOS AIRES",
+          "2",
+          "116",
+          "58",
+          "58",
+          "8"
+        ],
+        [
+          "CAIMANERO (EL QUELITE)",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3"
+        ],
+        [
+          "DON MARTÍN",
+          "2",
+          "78",
+          "35",
+          "43",
+          "5"
+        ],
+        [
+          "EL ARCO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL CABEZÓN (EL LIMÓN)",
+          "7",
+          "596",
+          "298",
+          "298",
+          "47"
+        ],
+        [
+          "EL CERRITO DEL CUIS",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL CUIS (EL TASAJO)",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4"
+        ],
+        [
+          "EL MAGISTRAL",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL PORTEZUELO",
+          "3",
+          "198",
+          "90",
+          "108",
+          "13"
+        ],
+        [
+          "EL REALITO",
+          "3",
+          "29",
+          "16",
+          "13",
+          "5"
+        ],
+        [
+          "EL SABINO",
+          "3",
+          "88",
+          "50",
+          "38",
+          "6"
+        ],
+        [
+          "EL TEXCALAME",
+          "3",
+          "113",
+          "60",
+          "53",
+          "7"
+        ],
+        [
+          "JAYAMITLA (COLMENAR)",
+          "3",
+          "138",
+          "80",
+          "58",
+          "9"
+        ],
+        [
+          "LA CALERA DE ARRIBA",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "LA CORONILLA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "LA ESTANCITA",
+          "2",
+          "21",
+          "6",
+          "15",
+          "2"
+        ],
+        [
+          "LA HIGUERA",
+          "2",
+          "44",
+          "27",
+          "17",
+          "3"
+        ],
+        [
+          "LA HUERTA DE SAN JAVIER",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "LA NUEVA CANTERÍA (EL POCHOTE)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LA PAREJA",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "LA VILLITA",
+          "4",
+          "169",
+          "78",
+          "91",
+          "11"
+        ],
+        [
+          "LABOR DE SOLÍS",
+          "3",
+          "153",
+          "77",
+          "76",
+          "11"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "LAS PAREDES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "4",
+          "84",
+          "43",
+          "41",
+          "6"
+        ],
+        [
+          "LAS RAÍCES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "LOMAS DE SANTIAGO",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LOS AMIALES",
+          "3",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "LOS MORILLOS",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LOS PILARES",
+          "2",
+          "29",
+          "17",
+          "12",
+          "3"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "204",
+          "101",
+          "103",
+          "11"
+        ],
+        [
+          "MALPASITO",
+          "2",
+          "50",
+          "17",
+          "33",
+          "4"
+        ],
+        [
+          "MALPASO DE LA PEQUEÑA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "QUEIXPAN",
+          "3",
+          "78",
+          "50",
+          "28",
+          "6"
+        ],
+        [
+          "SAN ANTONIO MATUTE",
+          "8",
+          "884",
+          "466",
+          "418",
+          "76"
+        ],
+        [
+          "SAN ANTONIO PUERTA DE LA VEGA",
+          "4",
+          "229",
+          "117",
+          "112",
+          "15"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "6"
+        ],
+        [
+          "SAN NICOLÁS",
+          "3",
+          "256",
+          "123",
+          "133",
+          "23"
+        ],
+        [
+          "SANTA MARÍA DE LA HUERTA",
+          "3",
+          "83",
+          "43",
+          "40",
+          "5"
+        ],
+        [
+          "VILLA HERMOSA",
+          "3",
+          "101",
+          "49",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "162",
+          "18,819",
+          "10,165",
+          "8,654",
+          "1,089"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: AMECA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAVISTA DE RAMOS",
+          "3",
+          "56",
+          "25",
+          "31",
+          "5"
+        ],
+        [
+          "AMECA",
+          "44",
+          "14,362",
+          "7,926",
+          "6,436",
+          "745"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "BUENOS AIRES",
+          "2",
+          "116",
+          "58",
+          "58",
+          "8"
+        ],
+        [
+          "CAIMANERO (EL QUELITE)",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3"
+        ],
+        [
+          "DON MARTÍN",
+          "2",
+          "78",
+          "35",
+          "43",
+          "5"
+        ],
+        [
+          "EL ARCO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL CABEZÓN (EL LIMÓN)",
+          "7",
+          "596",
+          "298",
+          "298",
+          "47"
+        ],
+        [
+          "EL CERRITO DEL CUIS",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL CUIS (EL TASAJO)",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4"
+        ],
+        [
+          "EL MAGISTRAL",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL PORTEZUELO",
+          "3",
+          "198",
+          "90",
+          "108",
+          "13"
+        ],
+        [
+          "EL REALITO",
+          "3",
+          "29",
+          "16",
+          "13",
+          "5"
+        ],
+        [
+          "EL SABINO",
+          "3",
+          "88",
+          "50",
+          "38",
+          "6"
+        ],
+        [
+          "EL TEXCALAME",
+          "3",
+          "113",
+          "60",
+          "53",
+          "7"
+        ],
+        [
+          "JAYAMITLA (COLMENAR)",
+          "3",
+          "138",
+          "80",
+          "58",
+          "9"
+        ],
+        [
+          "LA CALERA DE ARRIBA",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "LA CORONILLA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "3"
+        ],
+        [
+          "LA ESTANCITA",
+          "2",
+          "21",
+          "6",
+          "15",
+          "2"
+        ],
+        [
+          "LA HIGUERA",
+          "2",
+          "44",
+          "27",
+          "17",
+          "3"
+        ],
+        [
+          "LA HUERTA DE SAN JAVIER",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "LA NUEVA CANTERÍA (EL POCHOTE)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LA PAREJA",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "LA VILLITA",
+          "4",
+          "169",
+          "78",
+          "91",
+          "11"
+        ],
+        [
+          "LABOR DE SOLÍS",
+          "3",
+          "153",
+          "77",
+          "76",
+          "11"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "LAS PAREDES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "4",
+          "84",
+          "43",
+          "41",
+          "6"
+        ],
+        [
+          "LAS RAÍCES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "LOMAS DE SANTIAGO",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LOS AMIALES",
+          "3",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "LOS MORILLOS",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LOS PILARES",
+          "2",
+          "29",
+          "17",
+          "12",
+          "3"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "204",
+          "101",
+          "103",
+          "11"
+        ],
+        [
+          "MALPASITO",
+          "2",
+          "50",
+          "17",
+          "33",
+          "4"
+        ],
+        [
+          "MALPASO DE LA PEQUEÑA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "QUEIXPAN",
+          "3",
+          "78",
+          "50",
+          "28",
+          "6"
+        ],
+        [
+          "SAN ANTONIO MATUTE",
+          "8",
+          "884",
+          "466",
+          "418",
+          "76"
+        ],
+        [
+          "SAN ANTONIO PUERTA DE LA VEGA",
+          "4",
+          "229",
+          "117",
+          "112",
+          "15"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "93",
+          "39",
+          "54",
+          "6"
+        ],
+        [
+          "SAN NICOLÁS",
+          "3",
+          "256",
+          "123",
+          "133",
+          "23"
+        ],
+        [
+          "SANTA MARÍA DE LA HUERTA",
+          "3",
+          "83",
+          "43",
+          "40",
+          "5"
+        ],
+        [
+          "VILLA HERMOSA",
+          "3",
+          "101",
+          "49",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "162",
+          "18,819",
+          "10,165",
+          "8,654",
+          "1,089"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:20.752Z"
+}

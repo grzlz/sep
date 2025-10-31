@@ -1,0 +1,802 @@
+{
+  "municipality": "PALIZADA",
+  "municipalityCode": "007",
+  "state": "CAMPECHE",
+  "stateCode": "4",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCALAKMUL\n\tCALKINÍ\n\tCAMPECHE\n\tCANDELARIA\n\tCARMEN\n\tCHAMPOTÓN\n\tDZITBALCHÉ\n\tESCÁRCEGA\n\tHECELCHAKÁN\n\tHOPELCHÉN\n\tPALIZADA\n\tSEYBAPLAYA\n\tTENABO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: PALIZADA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALAMILLA\n\t\t2\n\t\t47\n\t\t21\n\t\t26\n\t\t3\n\t\n\t\n\t\tCANALES UNO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL BORBOTÓN\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL CUYO\n\t\t2\n\t\t70\n\t\t32\n\t\t38\n\t\t4\n\t\n\t\n\t\tEL JUNCAL\n\t\t5\n\t\t344\n\t\t176\n\t\t168\n\t\t22\n\t\n\t\n\t\tEL MANGAL\n\t\t2\n\t\t24\n\t\t8\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL PARAÍSO\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL PORVENIR\n\t\t3\n\t\t18\n\t\t8\n\t\t10\n\t\t3\n\t\n\t\n\t\tGARDENIAS\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tISLA DE SAN ISIDRO\n\t\t2\n\t\t205\n\t\t105\n\t\t100\n\t\t10\n\t\n\t\n\t\tLA GUADALUPE\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tLA TOZA\n\t\t1\n\t\t20\n\t\t9\n\t\t11\n\t\t1\n\t\n\t\n\t\tLAGÓN DULCE\n\t\t3\n\t\t22\n\t\t14\n\t\t8\n\t\t5\n\t\n\t\n\t\tLAS BODEGAS\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t3\n\t\n\t\n\t\tLOS LAURELES\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tPALIZADA\n\t\t4\n\t\t818\n\t\t422\n\t\t396\n\t\t73\n\t\n\t\n\t\tPUERTO ARTURO\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tRIBERA BOCA CHICA\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tRIBERA DE LA CORRIENTE\n\t\t3\n\t\t60\n\t\t29\n\t\t31\n\t\t5\n\t\n\t\n\t\tRIBERA GÓMEZ\n\t\t2\n\t\t23\n\t\t14\n\t\t9\n\t\t3\n\t\n\t\n\t\tRIBERA SAN EDUARDO\n\t\t3\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tRÍO BLANCO\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tRIVERA DE LA VIUDA\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN AGUSTÍN (LA REBEZA)\n\t\t2\n\t\t46\n\t\t25\n\t\t21\n\t\t3\n\t\n\t\n\t\tSAN JUAN\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL VICTORIA\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tSANTA ISABEL\n\t\t3\n\t\t154\n\t\t75\n\t\t79\n\t\t9\n\t\n\t\n\t\tSANTA ROSA\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t2\n\t\n\t\n\t\tTILA\n\t\t2\n\t\t44\n\t\t22\n\t\t22\n\t\t3\n\t\n\t\n\t\tTUMBO DE LA MONTAÑA 1\n\t\t2\n\t\t52\n\t\t23\n\t\t29\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t74\n\t\t2,241\n\t\t1,136\n\t\t1,105\n\t\t186\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: PALIZADA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALAMILLA",
+          "2",
+          "47",
+          "21",
+          "26",
+          "3",
+          "CANALES UNO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL BORBOTÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "EL CUYO",
+          "2",
+          "70",
+          "32",
+          "38",
+          "4",
+          "EL JUNCAL",
+          "5",
+          "344",
+          "176",
+          "168",
+          "22",
+          "EL MANGAL",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2",
+          "EL PARAÍSO",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3",
+          "EL PORVENIR",
+          "3",
+          "18",
+          "8",
+          "10",
+          "3",
+          "GARDENIAS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "ISLA DE SAN ISIDRO",
+          "2",
+          "205",
+          "105",
+          "100",
+          "10",
+          "LA GUADALUPE",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "LA SOLEDAD",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3",
+          "LA TOZA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1",
+          "LAGÓN DULCE",
+          "3",
+          "22",
+          "14",
+          "8",
+          "5",
+          "LAS BODEGAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3",
+          "LOS LAURELES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "PALIZADA",
+          "4",
+          "818",
+          "422",
+          "396",
+          "73",
+          "PUERTO ARTURO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "RIBERA BOCA CHICA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1",
+          "RIBERA DE LA CORRIENTE",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5",
+          "RIBERA GÓMEZ",
+          "2",
+          "23",
+          "14",
+          "9",
+          "3",
+          "RIBERA SAN EDUARDO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "3",
+          "RÍO BLANCO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "RIVERA DE LA VIUDA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "SAN AGUSTÍN (LA REBEZA)",
+          "2",
+          "46",
+          "25",
+          "21",
+          "3",
+          "SAN JUAN",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "SAN MIGUEL VICTORIA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "SANTA CRUZ",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "SANTA ISABEL",
+          "3",
+          "154",
+          "75",
+          "79",
+          "9",
+          "SANTA ROSA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2",
+          "TILA",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3",
+          "TUMBO DE LA MONTAÑA 1",
+          "2",
+          "52",
+          "23",
+          "29",
+          "4",
+          "TOTAL",
+          "74",
+          "2,241",
+          "1,136",
+          "1,105",
+          "186",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: PALIZADA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMILLA",
+          "2",
+          "47",
+          "21",
+          "26",
+          "3"
+        ],
+        [
+          "CANALES UNO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL BORBOTÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "EL CUYO",
+          "2",
+          "70",
+          "32",
+          "38",
+          "4"
+        ],
+        [
+          "EL JUNCAL",
+          "5",
+          "344",
+          "176",
+          "168",
+          "22"
+        ],
+        [
+          "EL MANGAL",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "18",
+          "8",
+          "10",
+          "3"
+        ],
+        [
+          "GARDENIAS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "ISLA DE SAN ISIDRO",
+          "2",
+          "205",
+          "105",
+          "100",
+          "10"
+        ],
+        [
+          "LA GUADALUPE",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "LA TOZA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "LAGÓN DULCE",
+          "3",
+          "22",
+          "14",
+          "8",
+          "5"
+        ],
+        [
+          "LAS BODEGAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LOS LAURELES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "PALIZADA",
+          "4",
+          "818",
+          "422",
+          "396",
+          "73"
+        ],
+        [
+          "PUERTO ARTURO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "RIBERA BOCA CHICA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "RIBERA DE LA CORRIENTE",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5"
+        ],
+        [
+          "RIBERA GÓMEZ",
+          "2",
+          "23",
+          "14",
+          "9",
+          "3"
+        ],
+        [
+          "RIBERA SAN EDUARDO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "RÍO BLANCO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "RIVERA DE LA VIUDA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN (LA REBEZA)",
+          "2",
+          "46",
+          "25",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "SAN MIGUEL VICTORIA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SANTA ISABEL",
+          "3",
+          "154",
+          "75",
+          "79",
+          "9"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "TILA",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "TUMBO DE LA MONTAÑA 1",
+          "2",
+          "52",
+          "23",
+          "29",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "74",
+          "2,241",
+          "1,136",
+          "1,105",
+          "186"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: PALIZADA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMILLA",
+          "2",
+          "47",
+          "21",
+          "26",
+          "3"
+        ],
+        [
+          "CANALES UNO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL BORBOTÓN",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "EL CUYO",
+          "2",
+          "70",
+          "32",
+          "38",
+          "4"
+        ],
+        [
+          "EL JUNCAL",
+          "5",
+          "344",
+          "176",
+          "168",
+          "22"
+        ],
+        [
+          "EL MANGAL",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "18",
+          "8",
+          "10",
+          "3"
+        ],
+        [
+          "GARDENIAS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "ISLA DE SAN ISIDRO",
+          "2",
+          "205",
+          "105",
+          "100",
+          "10"
+        ],
+        [
+          "LA GUADALUPE",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "LA TOZA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "LAGÓN DULCE",
+          "3",
+          "22",
+          "14",
+          "8",
+          "5"
+        ],
+        [
+          "LAS BODEGAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LOS LAURELES",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "PALIZADA",
+          "4",
+          "818",
+          "422",
+          "396",
+          "73"
+        ],
+        [
+          "PUERTO ARTURO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "RIBERA BOCA CHICA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "RIBERA DE LA CORRIENTE",
+          "3",
+          "60",
+          "29",
+          "31",
+          "5"
+        ],
+        [
+          "RIBERA GÓMEZ",
+          "2",
+          "23",
+          "14",
+          "9",
+          "3"
+        ],
+        [
+          "RIBERA SAN EDUARDO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "RÍO BLANCO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "RIVERA DE LA VIUDA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN (LA REBEZA)",
+          "2",
+          "46",
+          "25",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "SAN MIGUEL VICTORIA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SANTA ISABEL",
+          "3",
+          "154",
+          "75",
+          "79",
+          "9"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "TILA",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "TUMBO DE LA MONTAÑA 1",
+          "2",
+          "52",
+          "23",
+          "29",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "74",
+          "2,241",
+          "1,136",
+          "1,105",
+          "186"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:44.067Z"
+}

@@ -1,0 +1,1330 @@
+{
+  "municipality": "XICHÚ",
+  "municipalityCode": "045",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: XICHÚ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADJUNTAS\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t2\n\t\n\t\n\t\tAGUA ZARCA DE ROMERILLOS\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tAGUA ZARCA DEL PINAL\n\t\t3\n\t\t39\n\t\t18\n\t\t21\n\t\t3\n\t\n\t\n\t\tAURORA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tBELTRÁN\n\t\t1\n\t\t18\n\t\t6\n\t\t12\n\t\t1\n\t\n\t\n\t\tBERNAL\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tBUENAVISTA (EL SALVIAR DE BUENAVISTA)\n\t\t4\n\t\t73\n\t\t41\n\t\t32\n\t\t5\n\t\n\t\n\t\tBUENAVISTA (PUERTO DE BUENAVISTA)\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tCALABAZAS\n\t\t3\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tCRISTO REY\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL AGUACATE\n\t\t4\n\t\t131\n\t\t77\n\t\t54\n\t\t9\n\t\n\t\n\t\tEL CHARCO DE LUCAS\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CONTADERO\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL GUAMÚCHIL\n\t\t4\n\t\t260\n\t\t126\n\t\t134\n\t\t12\n\t\n\t\n\t\tEL MEMBRILLO\n\t\t3\n\t\t53\n\t\t31\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL OCOTERO\n\t\t1\n\t\t38\n\t\t17\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL PINALITO DE PALOMAS\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL REVOLCADERO\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL ROBLAR\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL RUCIO\n\t\t3\n\t\t40\n\t\t18\n\t\t22\n\t\t3\n\t\n\t\n\t\tEL TANQUE\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL ZAMORANO\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tENRAMADAS (CERRO DEL ÁGUILA)\n\t\t1\n\t\t17\n\t\t6\n\t\t11\n\t\t1\n\t\n\t\n\t\tGUADALUPE\n\t\t3\n\t\t35\n\t\t12\n\t\t23\n\t\t3\n\t\n\t\n\t\tLA CIENEGUITA\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA HIGUERITA\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t2\n\t\n\t\n\t\tLA LAJA\n\t\t3\n\t\t83\n\t\t45\n\t\t38\n\t\t5\n\t\n\t\n\t\tLA PILA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA SALITRERA\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA ZÁBILA\n\t\t4\n\t\t138\n\t\t72\n\t\t66\n\t\t9\n\t\n\t\n\t\tLABORCILLA\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tLLANETES\n\t\t2\n\t\t30\n\t\t20\n\t\t10\n\t\t2\n\t\n\t\n\t\tLLANO GRANDE\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOS PABLOS (LOS PABLOS DE ARRIBA)\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tLOS TANQUES\n\t\t2\n\t\t7\n\t\t5\n\t\t2\n\t\t2\n\t\n\t\n\t\tMAJADA ALTA\n\t\t3\n\t\t27\n\t\t15\n\t\t12\n\t\t3\n\t\n\t\n\t\tMESA DE CHALOC\n\t\t3\n\t\t41\n\t\t16\n\t\t25\n\t\t3\n\t\n\t\n\t\tMESA DE SAN DIEGO\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tMISIÓN DE SANTA ROSA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tNORIA DEL MALTRATO\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA\n\t\t3\n\t\t21\n\t\t12\n\t\t9\n\t\t3\n\t\n\t\n\t\tORGANITOS\n\t\t3\n\t\t54\n\t\t27\n\t\t27\n\t\t4\n\t\n\t\n\t\tPALOMAS\n\t\t3\n\t\t72\n\t\t35\n\t\t37\n\t\t5\n\t\n\t\n\t\tPASO DE GUILLERMO (SAGRADO CORAZÓN)\n\t\t3\n\t\t64\n\t\t32\n\t\t32\n\t\t5\n\t\n\t\n\t\tPIE DE LA CUESTA\n\t\t2\n\t\t45\n\t\t23\n\t\t22\n\t\t3\n\t\n\t\n\t\tPIEDRAS PINTADAS\n\t\t2\n\t\t37\n\t\t21\n\t\t16\n\t\t3\n\t\n\t\n\t\tPINALITO DE LA GLORIA\n\t\t2\n\t\t25\n\t\t17\n\t\t8\n\t\t2\n\t\n\t\n\t\tPOTRERILLOS (EL SALTO)\n\t\t2\n\t\t13\n\t\t8\n\t\t5\n\t\t2\n\t\n\t\n\t\tPUERTO DE MILAGRO\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tPUERTO DE TABLAS\n\t\t2\n\t\t29\n\t\t10\n\t\t19\n\t\t2\n\t\n\t\n\t\tPUERTO DEL OCOTE (EL CONFITE)\n\t\t3\n\t\t43\n\t\t32\n\t\t11\n\t\t4\n\t\n\t\n\t\tROMERILLOS\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tROSA DE CASTILLA\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t2\n\t\n\t\n\t\tSAN DIEGO DE LAS PITAHAYAS\n\t\t3\n\t\t53\n\t\t27\n\t\t26\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL DE LAS CASITAS\n\t\t4\n\t\t203\n\t\t111\n\t\t92\n\t\t12\n\t\n\t\n\t\tXICHÚ\n\t\t4\n\t\t660\n\t\t332\n\t\t328\n\t\t33\n\t\n\t\n\t\tTOTAL\n\t\t126\n\t\t2,800\n\t\t1,436\n\t\t1,364\n\t\t197\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: XICHÚ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADJUNTAS",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2",
+          "AGUA ZARCA DE ROMERILLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "AGUA ZARCA DEL PINAL",
+          "3",
+          "39",
+          "18",
+          "21",
+          "3",
+          "AURORA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "BELTRÁN",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1",
+          "BERNAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "BUENAVISTA (EL SALVIAR DE BUENAVISTA)",
+          "4",
+          "73",
+          "41",
+          "32",
+          "5",
+          "BUENAVISTA (PUERTO DE BUENAVISTA)",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "CALABAZAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3",
+          "CRISTO REY",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "EL AGUACATE",
+          "4",
+          "131",
+          "77",
+          "54",
+          "9",
+          "EL CHARCO DE LUCAS",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2",
+          "EL CONTADERO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "EL GUAMÚCHIL",
+          "4",
+          "260",
+          "126",
+          "134",
+          "12",
+          "EL MEMBRILLO",
+          "3",
+          "53",
+          "31",
+          "22",
+          "4",
+          "EL OCOTERO",
+          "1",
+          "38",
+          "17",
+          "21",
+          "3",
+          "EL PINALITO DE PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "EL REVOLCADERO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "EL ROBLAR",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "EL RUCIO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3",
+          "EL TANQUE",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "EL ZAMORANO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "ENRAMADAS (CERRO DEL ÁGUILA)",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1",
+          "GUADALUPE",
+          "3",
+          "35",
+          "12",
+          "23",
+          "3",
+          "LA CIENEGUITA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "LA HIGUERITA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2",
+          "LA LAJA",
+          "3",
+          "83",
+          "45",
+          "38",
+          "5",
+          "LA PILA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LA SALITRERA",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "LA ZÁBILA",
+          "4",
+          "138",
+          "72",
+          "66",
+          "9",
+          "LABORCILLA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "LLANETES",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2",
+          "LLANO GRANDE",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "LOS PABLOS (LOS PABLOS DE ARRIBA)",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "LOS TANQUES",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2",
+          "MAJADA ALTA",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3",
+          "MESA DE CHALOC",
+          "3",
+          "41",
+          "16",
+          "25",
+          "3",
+          "MESA DE SAN DIEGO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "MISIÓN DE SANTA ROSA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "NORIA DEL MALTRATO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2",
+          "OJO DE AGUA",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3",
+          "ORGANITOS",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4",
+          "PALOMAS",
+          "3",
+          "72",
+          "35",
+          "37",
+          "5",
+          "PASO DE GUILLERMO (SAGRADO CORAZÓN)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "5",
+          "PIE DE LA CUESTA",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3",
+          "PIEDRAS PINTADAS",
+          "2",
+          "37",
+          "21",
+          "16",
+          "3",
+          "PINALITO DE LA GLORIA",
+          "2",
+          "25",
+          "17",
+          "8",
+          "2",
+          "POTRERILLOS (EL SALTO)",
+          "2",
+          "13",
+          "8",
+          "5",
+          "2",
+          "PUERTO DE MILAGRO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "PUERTO DE TABLAS",
+          "2",
+          "29",
+          "10",
+          "19",
+          "2",
+          "PUERTO DEL OCOTE (EL CONFITE)",
+          "3",
+          "43",
+          "32",
+          "11",
+          "4",
+          "ROMERILLOS",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "ROSA DE CASTILLA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2",
+          "SAN DIEGO DE LAS PITAHAYAS",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4",
+          "SAN MIGUEL DE LAS CASITAS",
+          "4",
+          "203",
+          "111",
+          "92",
+          "12",
+          "XICHÚ",
+          "4",
+          "660",
+          "332",
+          "328",
+          "33",
+          "TOTAL",
+          "126",
+          "2,800",
+          "1,436",
+          "1,364",
+          "197",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: XICHÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADJUNTAS",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DE ROMERILLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DEL PINAL",
+          "3",
+          "39",
+          "18",
+          "21",
+          "3"
+        ],
+        [
+          "AURORA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "BELTRÁN",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1"
+        ],
+        [
+          "BERNAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "BUENAVISTA (EL SALVIAR DE BUENAVISTA)",
+          "4",
+          "73",
+          "41",
+          "32",
+          "5"
+        ],
+        [
+          "BUENAVISTA (PUERTO DE BUENAVISTA)",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "CALABAZAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "CRISTO REY",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL AGUACATE",
+          "4",
+          "131",
+          "77",
+          "54",
+          "9"
+        ],
+        [
+          "EL CHARCO DE LUCAS",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL CONTADERO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "4",
+          "260",
+          "126",
+          "134",
+          "12"
+        ],
+        [
+          "EL MEMBRILLO",
+          "3",
+          "53",
+          "31",
+          "22",
+          "4"
+        ],
+        [
+          "EL OCOTERO",
+          "1",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "EL PINALITO DE PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "EL REVOLCADERO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "EL ROBLAR",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "EL RUCIO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "EL TANQUE",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL ZAMORANO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "ENRAMADAS (CERRO DEL ÁGUILA)",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1"
+        ],
+        [
+          "GUADALUPE",
+          "3",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "LA CIENEGUITA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA HIGUERITA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "LA LAJA",
+          "3",
+          "83",
+          "45",
+          "38",
+          "5"
+        ],
+        [
+          "LA PILA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA SALITRERA",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LA ZÁBILA",
+          "4",
+          "138",
+          "72",
+          "66",
+          "9"
+        ],
+        [
+          "LABORCILLA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LLANETES",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2"
+        ],
+        [
+          "LLANO GRANDE",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LOS PABLOS (LOS PABLOS DE ARRIBA)",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LOS TANQUES",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "MAJADA ALTA",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE CHALOC",
+          "3",
+          "41",
+          "16",
+          "25",
+          "3"
+        ],
+        [
+          "MESA DE SAN DIEGO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "MISIÓN DE SANTA ROSA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NORIA DEL MALTRATO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "ORGANITOS",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "PALOMAS",
+          "3",
+          "72",
+          "35",
+          "37",
+          "5"
+        ],
+        [
+          "PASO DE GUILLERMO (SAGRADO CORAZÓN)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "5"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3"
+        ],
+        [
+          "PIEDRAS PINTADAS",
+          "2",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "PINALITO DE LA GLORIA",
+          "2",
+          "25",
+          "17",
+          "8",
+          "2"
+        ],
+        [
+          "POTRERILLOS (EL SALTO)",
+          "2",
+          "13",
+          "8",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTO DE MILAGRO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "PUERTO DE TABLAS",
+          "2",
+          "29",
+          "10",
+          "19",
+          "2"
+        ],
+        [
+          "PUERTO DEL OCOTE (EL CONFITE)",
+          "3",
+          "43",
+          "32",
+          "11",
+          "4"
+        ],
+        [
+          "ROMERILLOS",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "ROSA DE CASTILLA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "SAN DIEGO DE LAS PITAHAYAS",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "SAN MIGUEL DE LAS CASITAS",
+          "4",
+          "203",
+          "111",
+          "92",
+          "12"
+        ],
+        [
+          "XICHÚ",
+          "4",
+          "660",
+          "332",
+          "328",
+          "33"
+        ],
+        [
+          "TOTAL",
+          "126",
+          "2,800",
+          "1,436",
+          "1,364",
+          "197"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: XICHÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADJUNTAS",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DE ROMERILLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DEL PINAL",
+          "3",
+          "39",
+          "18",
+          "21",
+          "3"
+        ],
+        [
+          "AURORA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "BELTRÁN",
+          "1",
+          "18",
+          "6",
+          "12",
+          "1"
+        ],
+        [
+          "BERNAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "BUENAVISTA (EL SALVIAR DE BUENAVISTA)",
+          "4",
+          "73",
+          "41",
+          "32",
+          "5"
+        ],
+        [
+          "BUENAVISTA (PUERTO DE BUENAVISTA)",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "CALABAZAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "CRISTO REY",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL AGUACATE",
+          "4",
+          "131",
+          "77",
+          "54",
+          "9"
+        ],
+        [
+          "EL CHARCO DE LUCAS",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "EL CONTADERO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "4",
+          "260",
+          "126",
+          "134",
+          "12"
+        ],
+        [
+          "EL MEMBRILLO",
+          "3",
+          "53",
+          "31",
+          "22",
+          "4"
+        ],
+        [
+          "EL OCOTERO",
+          "1",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "EL PINALITO DE PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "EL REVOLCADERO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "EL ROBLAR",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "EL RUCIO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "EL TANQUE",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL ZAMORANO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "ENRAMADAS (CERRO DEL ÁGUILA)",
+          "1",
+          "17",
+          "6",
+          "11",
+          "1"
+        ],
+        [
+          "GUADALUPE",
+          "3",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "LA CIENEGUITA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA HIGUERITA",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "LA LAJA",
+          "3",
+          "83",
+          "45",
+          "38",
+          "5"
+        ],
+        [
+          "LA PILA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA SALITRERA",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LA ZÁBILA",
+          "4",
+          "138",
+          "72",
+          "66",
+          "9"
+        ],
+        [
+          "LABORCILLA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "LLANETES",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2"
+        ],
+        [
+          "LLANO GRANDE",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LOS PABLOS (LOS PABLOS DE ARRIBA)",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LOS TANQUES",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "MAJADA ALTA",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE CHALOC",
+          "3",
+          "41",
+          "16",
+          "25",
+          "3"
+        ],
+        [
+          "MESA DE SAN DIEGO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "MISIÓN DE SANTA ROSA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NORIA DEL MALTRATO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "ORGANITOS",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "PALOMAS",
+          "3",
+          "72",
+          "35",
+          "37",
+          "5"
+        ],
+        [
+          "PASO DE GUILLERMO (SAGRADO CORAZÓN)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "5"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "2",
+          "45",
+          "23",
+          "22",
+          "3"
+        ],
+        [
+          "PIEDRAS PINTADAS",
+          "2",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "PINALITO DE LA GLORIA",
+          "2",
+          "25",
+          "17",
+          "8",
+          "2"
+        ],
+        [
+          "POTRERILLOS (EL SALTO)",
+          "2",
+          "13",
+          "8",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTO DE MILAGRO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "PUERTO DE TABLAS",
+          "2",
+          "29",
+          "10",
+          "19",
+          "2"
+        ],
+        [
+          "PUERTO DEL OCOTE (EL CONFITE)",
+          "3",
+          "43",
+          "32",
+          "11",
+          "4"
+        ],
+        [
+          "ROMERILLOS",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "ROSA DE CASTILLA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "SAN DIEGO DE LAS PITAHAYAS",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "SAN MIGUEL DE LAS CASITAS",
+          "4",
+          "203",
+          "111",
+          "92",
+          "12"
+        ],
+        [
+          "XICHÚ",
+          "4",
+          "660",
+          "332",
+          "328",
+          "33"
+        ],
+        [
+          "TOTAL",
+          "126",
+          "2,800",
+          "1,436",
+          "1,364",
+          "197"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:34.977Z"
+}

@@ -1,0 +1,1242 @@
+{
+  "municipality": "LA YESCA",
+  "municipalityCode": "019",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: LA YESCA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t22 DE ENERO [COLONIA]\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tAGUA CALIENTE\n\t\t3\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tAMATLÁN DE JORA\n\t\t4\n\t\t90\n\t\t43\n\t\t47\n\t\t7\n\t\n\t\n\t\tAPOZOLCO\n\t\t4\n\t\t269\n\t\t140\n\t\t129\n\t\t16\n\t\n\t\n\t\tARROYO DEL CAPOMO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tCORTAPICO\n\t\t3\n\t\t44\n\t\t26\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL ÁLAMO\n\t\t2\n\t\t8\n\t\t7\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL CARRIZAL\n\t\t2\n\t\t56\n\t\t21\n\t\t35\n\t\t3\n\t\n\t\n\t\tEL ENCINO\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL FORTÍN\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL IZOTE\n\t\t3\n\t\t21\n\t\t15\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL MAJAGUAL\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL MEZQUITE\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL PINABETE\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL PINAL\n\t\t3\n\t\t89\n\t\t47\n\t\t42\n\t\t5\n\t\n\t\n\t\tEL PINALILLO\n\t\t2\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL PINITO (EL PINO)\n\t\t2\n\t\t11\n\t\t2\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL PINOLE\n\t\t1\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PLATANAR DE LOS HERRERA\n\t\t2\n\t\t9\n\t\t8\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL RANCHITO\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL SAUZ DE LOS HERNÁNDEZ\n\t\t1\n\t\t3\n\t\t3\n\t\t0\n\t\t1\n\t\n\t\n\t\tEL TORO PRIETO\n\t\t1\n\t\t2\n\t\t2\n\t\t0\n\t\t1\n\t\n\t\n\t\tEL TRAPICHE\n\t\t3\n\t\t60\n\t\t27\n\t\t33\n\t\t6\n\t\n\t\n\t\tGUADALUPE OCOTÁN\n\t\t6\n\t\t516\n\t\t259\n\t\t257\n\t\t36\n\t\n\t\n\t\tGUANACASTE\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tHACIENDA DE AMBAS AGUAS\n\t\t3\n\t\t61\n\t\t30\n\t\t31\n\t\t5\n\t\n\t\n\t\tHUAJIMIC\n\t\t4\n\t\t290\n\t\t160\n\t\t130\n\t\t15\n\t\n\t\n\t\tLA AZALEA\n\t\t3\n\t\t6\n\t\t5\n\t\t1\n\t\t2\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t2\n\t\t39\n\t\t20\n\t\t19\n\t\t2\n\t\n\t\n\t\tLA CUCHILLA\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA MANGA\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA MESA\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA MESA DEL HUANACAXTLE\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA MINITA\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PLAYA\n\t\t3\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA YESCA\n\t\t4\n\t\t158\n\t\t78\n\t\t80\n\t\t12\n\t\n\t\n\t\tLAS HIGUERAS\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS JARAS\n\t\t3\n\t\t32\n\t\t11\n\t\t21\n\t\t4\n\t\n\t\n\t\tLAS LAJAS\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS PALOMAS\n\t\t1\n\t\t18\n\t\t11\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS ENCANTOS\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tMESA DE CHAPALILLA\n\t\t2\n\t\t75\n\t\t41\n\t\t34\n\t\t4\n\t\n\t\n\t\tMESA DE GUANACASTE\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tMESA DE LOS SAUCEDOS\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tPALMILLAS\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t3\n\t\n\t\n\t\tPASO DE SAN JUAN\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tPLATANAR DE LOS LÓPEZ\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tPOPOTA\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t2\n\t\n\t\n\t\tPUENTE DE CAMOTLÁN\n\t\t7\n\t\t728\n\t\t361\n\t\t367\n\t\t41\n\t\n\t\n\t\tSAN JUAN IXTAPALAPA\n\t\t2\n\t\t23\n\t\t12\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN PELAYO\n\t\t3\n\t\t30\n\t\t16\n\t\t14\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t120\n\t\t2,924\n\t\t1,484\n\t\t1,440\n\t\t215\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: LA YESCA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "22 DE ENERO [COLONIA]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "AGUA CALIENTE",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2",
+          "AMATLÁN DE JORA",
+          "4",
+          "90",
+          "43",
+          "47",
+          "7",
+          "APOZOLCO",
+          "4",
+          "269",
+          "140",
+          "129",
+          "16",
+          "ARROYO DEL CAPOMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "CORTAPICO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4",
+          "EL ÁLAMO",
+          "2",
+          "8",
+          "7",
+          "1",
+          "1",
+          "EL CARRIZAL",
+          "2",
+          "56",
+          "21",
+          "35",
+          "3",
+          "EL ENCINO",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EL FORTÍN",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "EL IZOTE",
+          "3",
+          "21",
+          "15",
+          "6",
+          "2",
+          "EL MAJAGUAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL MEZQUITE",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EL MIRADOR",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL PINABETE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL PINAL",
+          "3",
+          "89",
+          "47",
+          "42",
+          "5",
+          "EL PINALILLO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2",
+          "EL PINITO (EL PINO)",
+          "2",
+          "11",
+          "2",
+          "9",
+          "1",
+          "EL PINOLE",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1",
+          "EL PLATANAR DE LOS HERRERA",
+          "2",
+          "9",
+          "8",
+          "1",
+          "1",
+          "EL RANCHITO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL SAUZ DE LOS HERNÁNDEZ",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1",
+          "EL TORO PRIETO",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1",
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "27",
+          "33",
+          "6",
+          "GUADALUPE OCOTÁN",
+          "6",
+          "516",
+          "259",
+          "257",
+          "36",
+          "GUANACASTE",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "HACIENDA DE AMBAS AGUAS",
+          "3",
+          "61",
+          "30",
+          "31",
+          "5",
+          "HUAJIMIC",
+          "4",
+          "290",
+          "160",
+          "130",
+          "15",
+          "LA AZALEA",
+          "3",
+          "6",
+          "5",
+          "1",
+          "2",
+          "LA CIÉNEGA",
+          "2",
+          "39",
+          "20",
+          "19",
+          "2",
+          "LA CUCHILLA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "LA MANGA",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "LA MESA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA MESA DEL HUANACAXTLE",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "LA MINITA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA PLAYA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "2",
+          "LA YESCA",
+          "4",
+          "158",
+          "78",
+          "80",
+          "12",
+          "LAS HIGUERAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "LAS JARAS",
+          "3",
+          "32",
+          "11",
+          "21",
+          "4",
+          "LAS LAJAS",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LAS PALOMAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1",
+          "LOS ENCANTOS",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "MESA DE CHAPALILLA",
+          "2",
+          "75",
+          "41",
+          "34",
+          "4",
+          "MESA DE GUANACASTE",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "MESA DE LOS SAUCEDOS",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1",
+          "PALMILLAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3",
+          "PASO DE SAN JUAN",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "PLATANAR DE LOS LÓPEZ",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "POPOTA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2",
+          "PUENTE DE CAMOTLÁN",
+          "7",
+          "728",
+          "361",
+          "367",
+          "41",
+          "SAN JUAN IXTAPALAPA",
+          "2",
+          "23",
+          "12",
+          "11",
+          "3",
+          "SAN PELAYO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "4",
+          "TOTAL",
+          "120",
+          "2,924",
+          "1,484",
+          "1,440",
+          "215",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: LA YESCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "22 DE ENERO [COLONIA]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "AGUA CALIENTE",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "AMATLÁN DE JORA",
+          "4",
+          "90",
+          "43",
+          "47",
+          "7"
+        ],
+        [
+          "APOZOLCO",
+          "4",
+          "269",
+          "140",
+          "129",
+          "16"
+        ],
+        [
+          "ARROYO DEL CAPOMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CORTAPICO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4"
+        ],
+        [
+          "EL ÁLAMO",
+          "2",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "56",
+          "21",
+          "35",
+          "3"
+        ],
+        [
+          "EL ENCINO",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL FORTÍN",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "EL IZOTE",
+          "3",
+          "21",
+          "15",
+          "6",
+          "2"
+        ],
+        [
+          "EL MAJAGUAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL MEZQUITE",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL PINABETE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL PINAL",
+          "3",
+          "89",
+          "47",
+          "42",
+          "5"
+        ],
+        [
+          "EL PINALILLO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "EL PINITO (EL PINO)",
+          "2",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "EL PINOLE",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "EL PLATANAR DE LOS HERRERA",
+          "2",
+          "9",
+          "8",
+          "1",
+          "1"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUZ DE LOS HERNÁNDEZ",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "EL TORO PRIETO",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "27",
+          "33",
+          "6"
+        ],
+        [
+          "GUADALUPE OCOTÁN",
+          "6",
+          "516",
+          "259",
+          "257",
+          "36"
+        ],
+        [
+          "GUANACASTE",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "HACIENDA DE AMBAS AGUAS",
+          "3",
+          "61",
+          "30",
+          "31",
+          "5"
+        ],
+        [
+          "HUAJIMIC",
+          "4",
+          "290",
+          "160",
+          "130",
+          "15"
+        ],
+        [
+          "LA AZALEA",
+          "3",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "LA CIÉNEGA",
+          "2",
+          "39",
+          "20",
+          "19",
+          "2"
+        ],
+        [
+          "LA CUCHILLA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LA MANGA",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LA MESA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA DEL HUANACAXTLE",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "LA MINITA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA PLAYA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA YESCA",
+          "4",
+          "158",
+          "78",
+          "80",
+          "12"
+        ],
+        [
+          "LAS HIGUERAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LAS JARAS",
+          "3",
+          "32",
+          "11",
+          "21",
+          "4"
+        ],
+        [
+          "LAS LAJAS",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LOS ENCANTOS",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "MESA DE CHAPALILLA",
+          "2",
+          "75",
+          "41",
+          "34",
+          "4"
+        ],
+        [
+          "MESA DE GUANACASTE",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "MESA DE LOS SAUCEDOS",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "PALMILLAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "PASO DE SAN JUAN",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PLATANAR DE LOS LÓPEZ",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POPOTA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "PUENTE DE CAMOTLÁN",
+          "7",
+          "728",
+          "361",
+          "367",
+          "41"
+        ],
+        [
+          "SAN JUAN IXTAPALAPA",
+          "2",
+          "23",
+          "12",
+          "11",
+          "3"
+        ],
+        [
+          "SAN PELAYO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "120",
+          "2,924",
+          "1,484",
+          "1,440",
+          "215"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: LA YESCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "22 DE ENERO [COLONIA]",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "AGUA CALIENTE",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "AMATLÁN DE JORA",
+          "4",
+          "90",
+          "43",
+          "47",
+          "7"
+        ],
+        [
+          "APOZOLCO",
+          "4",
+          "269",
+          "140",
+          "129",
+          "16"
+        ],
+        [
+          "ARROYO DEL CAPOMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CORTAPICO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4"
+        ],
+        [
+          "EL ÁLAMO",
+          "2",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "56",
+          "21",
+          "35",
+          "3"
+        ],
+        [
+          "EL ENCINO",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL FORTÍN",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "EL IZOTE",
+          "3",
+          "21",
+          "15",
+          "6",
+          "2"
+        ],
+        [
+          "EL MAJAGUAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL MEZQUITE",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL PINABETE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL PINAL",
+          "3",
+          "89",
+          "47",
+          "42",
+          "5"
+        ],
+        [
+          "EL PINALILLO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "EL PINITO (EL PINO)",
+          "2",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "EL PINOLE",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "EL PLATANAR DE LOS HERRERA",
+          "2",
+          "9",
+          "8",
+          "1",
+          "1"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUZ DE LOS HERNÁNDEZ",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "EL TORO PRIETO",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "27",
+          "33",
+          "6"
+        ],
+        [
+          "GUADALUPE OCOTÁN",
+          "6",
+          "516",
+          "259",
+          "257",
+          "36"
+        ],
+        [
+          "GUANACASTE",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "HACIENDA DE AMBAS AGUAS",
+          "3",
+          "61",
+          "30",
+          "31",
+          "5"
+        ],
+        [
+          "HUAJIMIC",
+          "4",
+          "290",
+          "160",
+          "130",
+          "15"
+        ],
+        [
+          "LA AZALEA",
+          "3",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "LA CIÉNEGA",
+          "2",
+          "39",
+          "20",
+          "19",
+          "2"
+        ],
+        [
+          "LA CUCHILLA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LA MANGA",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LA MESA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA DEL HUANACAXTLE",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "LA MINITA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA PLAYA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA YESCA",
+          "4",
+          "158",
+          "78",
+          "80",
+          "12"
+        ],
+        [
+          "LAS HIGUERAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LAS JARAS",
+          "3",
+          "32",
+          "11",
+          "21",
+          "4"
+        ],
+        [
+          "LAS LAJAS",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LOS ENCANTOS",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "MESA DE CHAPALILLA",
+          "2",
+          "75",
+          "41",
+          "34",
+          "4"
+        ],
+        [
+          "MESA DE GUANACASTE",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "MESA DE LOS SAUCEDOS",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "PALMILLAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "PASO DE SAN JUAN",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PLATANAR DE LOS LÓPEZ",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POPOTA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "PUENTE DE CAMOTLÁN",
+          "7",
+          "728",
+          "361",
+          "367",
+          "41"
+        ],
+        [
+          "SAN JUAN IXTAPALAPA",
+          "2",
+          "23",
+          "12",
+          "11",
+          "3"
+        ],
+        [
+          "SAN PELAYO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "120",
+          "2,924",
+          "1,484",
+          "1,440",
+          "215"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:03.280Z"
+}

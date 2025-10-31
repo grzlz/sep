@@ -1,0 +1,1176 @@
+{
+  "municipality": "LERDO",
+  "municipalityCode": "012",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: LERDO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t4\n\t\t805\n\t\t393\n\t\t412\n\t\t45\n\t\n\t\n\t\tCARLOS REAL (SAN CARLOS)\n\t\t3\n\t\t305\n\t\t135\n\t\t170\n\t\t15\n\t\n\t\n\t\tCIUDAD JUÁREZ\n\t\t8\n\t\t2,029\n\t\t1,018\n\t\t1,011\n\t\t139\n\t\n\t\n\t\tDOLORES (LA BORREGA)\n\t\t3\n\t\t96\n\t\t46\n\t\t50\n\t\t5\n\t\n\t\n\t\tEJIDO 21 DE MARZO\n\t\t4\n\t\t338\n\t\t156\n\t\t182\n\t\t16\n\t\n\t\n\t\tEL HUARACHE (EL GUARACHE)\n\t\t2\n\t\t197\n\t\t97\n\t\t100\n\t\t8\n\t\n\t\n\t\tEL RANCHITO\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL RAYO\n\t\t2\n\t\t147\n\t\t79\n\t\t68\n\t\t8\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL SACRIFICIO\n\t\t1\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tESTACIÓN RÍO NAZAS\n\t\t3\n\t\t498\n\t\t250\n\t\t248\n\t\t20\n\t\n\t\n\t\tFORTUNA DE RANCHO GÜERO\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tFRANCISCO VILLA (PANCHO VILLA)\n\t\t2\n\t\t28\n\t\t19\n\t\t9\n\t\t2\n\t\n\t\n\t\tJAVIER ROJO GÓMEZ (LA ESPERANZA)\n\t\t3\n\t\t22\n\t\t12\n\t\t10\n\t\t3\n\t\n\t\n\t\tJUAN E. GARCÍA\n\t\t4\n\t\t880\n\t\t448\n\t\t432\n\t\t48\n\t\n\t\n\t\tJUAN JOSÉ ROJAS\n\t\t2\n\t\t78\n\t\t37\n\t\t41\n\t\t4\n\t\n\t\n\t\tLA CAMPANA\n\t\t2\n\t\t45\n\t\t19\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA GOLETA\n\t\t2\n\t\t35\n\t\t16\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA GOMA\n\t\t2\n\t\t235\n\t\t126\n\t\t109\n\t\t12\n\t\n\t\n\t\tLA LOMA\n\t\t5\n\t\t1,161\n\t\t569\n\t\t592\n\t\t57\n\t\n\t\n\t\tLA LUZ\n\t\t4\n\t\t458\n\t\t236\n\t\t222\n\t\t22\n\t\n\t\n\t\tLA MINA (EL SARNOSO)\n\t\t3\n\t\t74\n\t\t30\n\t\t44\n\t\t6\n\t\n\t\n\t\tLA UNIÓN\n\t\t3\n\t\t97\n\t\t44\n\t\t53\n\t\t5\n\t\n\t\n\t\tLAS CUEVAS\n\t\t2\n\t\t209\n\t\t104\n\t\t105\n\t\t8\n\t\n\t\n\t\tLAS ISABELES\n\t\t2\n\t\t59\n\t\t27\n\t\t32\n\t\t5\n\t\n\t\n\t\tLAS PIEDRAS\n\t\t2\n\t\t89\n\t\t49\n\t\t40\n\t\t4\n\t\n\t\n\t\tLEÓN GUZMÁN\n\t\t6\n\t\t1,446\n\t\t693\n\t\t753\n\t\t123\n\t\n\t\n\t\tLERDO\n\t\t123\n\t\t26,847\n\t\t13,301\n\t\t13,546\n\t\t1,750\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t3\n\t\t293\n\t\t136\n\t\t157\n\t\t14\n\t\n\t\n\t\tMARGARITO MACHADO (PALOMAS)\n\t\t3\n\t\t96\n\t\t45\n\t\t51\n\t\t5\n\t\n\t\n\t\tMONTERREY\n\t\t3\n\t\t152\n\t\t67\n\t\t85\n\t\t8\n\t\n\t\n\t\tNAZARENO\n\t\t8\n\t\t2,339\n\t\t1,203\n\t\t1,136\n\t\t123\n\t\n\t\n\t\tNAZARENO DE ABAJO\n\t\t3\n\t\t196\n\t\t106\n\t\t90\n\t\t8\n\t\n\t\n\t\tNAZARENO II (NAZARENO DE ARRIBA)\n\t\t2\n\t\t31\n\t\t12\n\t\t19\n\t\t2\n\t\n\t\n\t\tNUEVO GRASEROS\n\t\t3\n\t\t228\n\t\t101\n\t\t127\n\t\t11\n\t\n\t\n\t\tPICARDÍAS\n\t\t4\n\t\t492\n\t\t261\n\t\t231\n\t\t59\n\t\n\t\n\t\tPUENTE DE LA TORREÑA (EL CAPRICHO)\n\t\t2\n\t\t55\n\t\t31\n\t\t24\n\t\t3\n\t\n\t\n\t\tSALAMANCA\n\t\t2\n\t\t156\n\t\t75\n\t\t81\n\t\t8\n\t\n\t\n\t\tSAN ANTONIO (LA HORTALIZA)\n\t\t1\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN GERARDO\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN JACINTO\n\t\t2\n\t\t236\n\t\t104\n\t\t132\n\t\t12\n\t\n\t\n\t\tSAN LUIS DEL ALTO\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t3\n\t\n\t\n\t\tSAN NICOLÁS\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t1\n\t\n\t\n\t\tSANTA ANITA\n\t\t3\n\t\t43\n\t\t16\n\t\t27\n\t\t4\n\t\n\t\n\t\tSAPIORIS\n\t\t2\n\t\t308\n\t\t148\n\t\t160\n\t\t16\n\t\n\t\n\t\tSEIS DE ENERO\n\t\t3\n\t\t355\n\t\t173\n\t\t182\n\t\t21\n\t\n\t\n\t\tVICENTE NAVA (LA GOMITA)\n\t\t1\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tVICENTE SUÁREZ\n\t\t3\n\t\t88\n\t\t43\n\t\t45\n\t\t5\n\t\n\t\n\t\tVILLA DE GUADALUPE\n\t\t3\n\t\t448\n\t\t201\n\t\t247\n\t\t19\n\t\n\t\n\t\tTOTAL\n\t\t258\n\t\t41,912\n\t\t20,734\n\t\t21,178\n\t\t2,647\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: LERDO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁLVARO OBREGÓN",
+          "4",
+          "805",
+          "393",
+          "412",
+          "45",
+          "CARLOS REAL (SAN CARLOS)",
+          "3",
+          "305",
+          "135",
+          "170",
+          "15",
+          "CIUDAD JUÁREZ",
+          "8",
+          "2,029",
+          "1,018",
+          "1,011",
+          "139",
+          "DOLORES (LA BORREGA)",
+          "3",
+          "96",
+          "46",
+          "50",
+          "5",
+          "EJIDO 21 DE MARZO",
+          "4",
+          "338",
+          "156",
+          "182",
+          "16",
+          "EL HUARACHE (EL GUARACHE)",
+          "2",
+          "197",
+          "97",
+          "100",
+          "8",
+          "EL RANCHITO",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "EL RAYO",
+          "2",
+          "147",
+          "79",
+          "68",
+          "8",
+          "EL REFUGIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "EL SACRIFICIO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "2",
+          "ESTACIÓN RÍO NAZAS",
+          "3",
+          "498",
+          "250",
+          "248",
+          "20",
+          "FORTUNA DE RANCHO GÜERO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "FRANCISCO VILLA (PANCHO VILLA)",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2",
+          "JAVIER ROJO GÓMEZ (LA ESPERANZA)",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3",
+          "JUAN E. GARCÍA",
+          "4",
+          "880",
+          "448",
+          "432",
+          "48",
+          "JUAN JOSÉ ROJAS",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4",
+          "LA CAMPANA",
+          "2",
+          "45",
+          "19",
+          "26",
+          "3",
+          "LA GOLETA",
+          "2",
+          "35",
+          "16",
+          "19",
+          "3",
+          "LA GOMA",
+          "2",
+          "235",
+          "126",
+          "109",
+          "12",
+          "LA LOMA",
+          "5",
+          "1,161",
+          "569",
+          "592",
+          "57",
+          "LA LUZ",
+          "4",
+          "458",
+          "236",
+          "222",
+          "22",
+          "LA MINA (EL SARNOSO)",
+          "3",
+          "74",
+          "30",
+          "44",
+          "6",
+          "LA UNIÓN",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5",
+          "LAS CUEVAS",
+          "2",
+          "209",
+          "104",
+          "105",
+          "8",
+          "LAS ISABELES",
+          "2",
+          "59",
+          "27",
+          "32",
+          "5",
+          "LAS PIEDRAS",
+          "2",
+          "89",
+          "49",
+          "40",
+          "4",
+          "LEÓN GUZMÁN",
+          "6",
+          "1,446",
+          "693",
+          "753",
+          "123",
+          "LERDO",
+          "123",
+          "26,847",
+          "13,301",
+          "13,546",
+          "1,750",
+          "LOS ÁNGELES",
+          "3",
+          "293",
+          "136",
+          "157",
+          "14",
+          "MARGARITO MACHADO (PALOMAS)",
+          "3",
+          "96",
+          "45",
+          "51",
+          "5",
+          "MONTERREY",
+          "3",
+          "152",
+          "67",
+          "85",
+          "8",
+          "NAZARENO",
+          "8",
+          "2,339",
+          "1,203",
+          "1,136",
+          "123",
+          "NAZARENO DE ABAJO",
+          "3",
+          "196",
+          "106",
+          "90",
+          "8",
+          "NAZARENO II (NAZARENO DE ARRIBA)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2",
+          "NUEVO GRASEROS",
+          "3",
+          "228",
+          "101",
+          "127",
+          "11",
+          "PICARDÍAS",
+          "4",
+          "492",
+          "261",
+          "231",
+          "59",
+          "PUENTE DE LA TORREÑA (EL CAPRICHO)",
+          "2",
+          "55",
+          "31",
+          "24",
+          "3",
+          "SALAMANCA",
+          "2",
+          "156",
+          "75",
+          "81",
+          "8",
+          "SAN ANTONIO (LA HORTALIZA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2",
+          "SAN GERARDO",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2",
+          "SAN JACINTO",
+          "2",
+          "236",
+          "104",
+          "132",
+          "12",
+          "SAN LUIS DEL ALTO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3",
+          "SAN NICOLÁS",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1",
+          "SANTA ANITA",
+          "3",
+          "43",
+          "16",
+          "27",
+          "4",
+          "SAPIORIS",
+          "2",
+          "308",
+          "148",
+          "160",
+          "16",
+          "SEIS DE ENERO",
+          "3",
+          "355",
+          "173",
+          "182",
+          "21",
+          "VICENTE NAVA (LA GOMITA)",
+          "1",
+          "21",
+          "8",
+          "13",
+          "2",
+          "VICENTE SUÁREZ",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5",
+          "VILLA DE GUADALUPE",
+          "3",
+          "448",
+          "201",
+          "247",
+          "19",
+          "TOTAL",
+          "258",
+          "41,912",
+          "20,734",
+          "21,178",
+          "2,647",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: LERDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "4",
+          "805",
+          "393",
+          "412",
+          "45"
+        ],
+        [
+          "CARLOS REAL (SAN CARLOS)",
+          "3",
+          "305",
+          "135",
+          "170",
+          "15"
+        ],
+        [
+          "CIUDAD JUÁREZ",
+          "8",
+          "2,029",
+          "1,018",
+          "1,011",
+          "139"
+        ],
+        [
+          "DOLORES (LA BORREGA)",
+          "3",
+          "96",
+          "46",
+          "50",
+          "5"
+        ],
+        [
+          "EJIDO 21 DE MARZO",
+          "4",
+          "338",
+          "156",
+          "182",
+          "16"
+        ],
+        [
+          "EL HUARACHE (EL GUARACHE)",
+          "2",
+          "197",
+          "97",
+          "100",
+          "8"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "EL RAYO",
+          "2",
+          "147",
+          "79",
+          "68",
+          "8"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "EL SACRIFICIO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "ESTACIÓN RÍO NAZAS",
+          "3",
+          "498",
+          "250",
+          "248",
+          "20"
+        ],
+        [
+          "FORTUNA DE RANCHO GÜERO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA (PANCHO VILLA)",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2"
+        ],
+        [
+          "JAVIER ROJO GÓMEZ (LA ESPERANZA)",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "JUAN E. GARCÍA",
+          "4",
+          "880",
+          "448",
+          "432",
+          "48"
+        ],
+        [
+          "JUAN JOSÉ ROJAS",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4"
+        ],
+        [
+          "LA CAMPANA",
+          "2",
+          "45",
+          "19",
+          "26",
+          "3"
+        ],
+        [
+          "LA GOLETA",
+          "2",
+          "35",
+          "16",
+          "19",
+          "3"
+        ],
+        [
+          "LA GOMA",
+          "2",
+          "235",
+          "126",
+          "109",
+          "12"
+        ],
+        [
+          "LA LOMA",
+          "5",
+          "1,161",
+          "569",
+          "592",
+          "57"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "458",
+          "236",
+          "222",
+          "22"
+        ],
+        [
+          "LA MINA (EL SARNOSO)",
+          "3",
+          "74",
+          "30",
+          "44",
+          "6"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5"
+        ],
+        [
+          "LAS CUEVAS",
+          "2",
+          "209",
+          "104",
+          "105",
+          "8"
+        ],
+        [
+          "LAS ISABELES",
+          "2",
+          "59",
+          "27",
+          "32",
+          "5"
+        ],
+        [
+          "LAS PIEDRAS",
+          "2",
+          "89",
+          "49",
+          "40",
+          "4"
+        ],
+        [
+          "LEÓN GUZMÁN",
+          "6",
+          "1,446",
+          "693",
+          "753",
+          "123"
+        ],
+        [
+          "LERDO",
+          "123",
+          "26,847",
+          "13,301",
+          "13,546",
+          "1,750"
+        ],
+        [
+          "LOS ÁNGELES",
+          "3",
+          "293",
+          "136",
+          "157",
+          "14"
+        ],
+        [
+          "MARGARITO MACHADO (PALOMAS)",
+          "3",
+          "96",
+          "45",
+          "51",
+          "5"
+        ],
+        [
+          "MONTERREY",
+          "3",
+          "152",
+          "67",
+          "85",
+          "8"
+        ],
+        [
+          "NAZARENO",
+          "8",
+          "2,339",
+          "1,203",
+          "1,136",
+          "123"
+        ],
+        [
+          "NAZARENO DE ABAJO",
+          "3",
+          "196",
+          "106",
+          "90",
+          "8"
+        ],
+        [
+          "NAZARENO II (NAZARENO DE ARRIBA)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2"
+        ],
+        [
+          "NUEVO GRASEROS",
+          "3",
+          "228",
+          "101",
+          "127",
+          "11"
+        ],
+        [
+          "PICARDÍAS",
+          "4",
+          "492",
+          "261",
+          "231",
+          "59"
+        ],
+        [
+          "PUENTE DE LA TORREÑA (EL CAPRICHO)",
+          "2",
+          "55",
+          "31",
+          "24",
+          "3"
+        ],
+        [
+          "SALAMANCA",
+          "2",
+          "156",
+          "75",
+          "81",
+          "8"
+        ],
+        [
+          "SAN ANTONIO (LA HORTALIZA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GERARDO",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN JACINTO",
+          "2",
+          "236",
+          "104",
+          "132",
+          "12"
+        ],
+        [
+          "SAN LUIS DEL ALTO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "SAN NICOLÁS",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "SANTA ANITA",
+          "3",
+          "43",
+          "16",
+          "27",
+          "4"
+        ],
+        [
+          "SAPIORIS",
+          "2",
+          "308",
+          "148",
+          "160",
+          "16"
+        ],
+        [
+          "SEIS DE ENERO",
+          "3",
+          "355",
+          "173",
+          "182",
+          "21"
+        ],
+        [
+          "VICENTE NAVA (LA GOMITA)",
+          "1",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "VICENTE SUÁREZ",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5"
+        ],
+        [
+          "VILLA DE GUADALUPE",
+          "3",
+          "448",
+          "201",
+          "247",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "258",
+          "41,912",
+          "20,734",
+          "21,178",
+          "2,647"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: LERDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "4",
+          "805",
+          "393",
+          "412",
+          "45"
+        ],
+        [
+          "CARLOS REAL (SAN CARLOS)",
+          "3",
+          "305",
+          "135",
+          "170",
+          "15"
+        ],
+        [
+          "CIUDAD JUÁREZ",
+          "8",
+          "2,029",
+          "1,018",
+          "1,011",
+          "139"
+        ],
+        [
+          "DOLORES (LA BORREGA)",
+          "3",
+          "96",
+          "46",
+          "50",
+          "5"
+        ],
+        [
+          "EJIDO 21 DE MARZO",
+          "4",
+          "338",
+          "156",
+          "182",
+          "16"
+        ],
+        [
+          "EL HUARACHE (EL GUARACHE)",
+          "2",
+          "197",
+          "97",
+          "100",
+          "8"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "EL RAYO",
+          "2",
+          "147",
+          "79",
+          "68",
+          "8"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "EL SACRIFICIO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "ESTACIÓN RÍO NAZAS",
+          "3",
+          "498",
+          "250",
+          "248",
+          "20"
+        ],
+        [
+          "FORTUNA DE RANCHO GÜERO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA (PANCHO VILLA)",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2"
+        ],
+        [
+          "JAVIER ROJO GÓMEZ (LA ESPERANZA)",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "JUAN E. GARCÍA",
+          "4",
+          "880",
+          "448",
+          "432",
+          "48"
+        ],
+        [
+          "JUAN JOSÉ ROJAS",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4"
+        ],
+        [
+          "LA CAMPANA",
+          "2",
+          "45",
+          "19",
+          "26",
+          "3"
+        ],
+        [
+          "LA GOLETA",
+          "2",
+          "35",
+          "16",
+          "19",
+          "3"
+        ],
+        [
+          "LA GOMA",
+          "2",
+          "235",
+          "126",
+          "109",
+          "12"
+        ],
+        [
+          "LA LOMA",
+          "5",
+          "1,161",
+          "569",
+          "592",
+          "57"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "458",
+          "236",
+          "222",
+          "22"
+        ],
+        [
+          "LA MINA (EL SARNOSO)",
+          "3",
+          "74",
+          "30",
+          "44",
+          "6"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5"
+        ],
+        [
+          "LAS CUEVAS",
+          "2",
+          "209",
+          "104",
+          "105",
+          "8"
+        ],
+        [
+          "LAS ISABELES",
+          "2",
+          "59",
+          "27",
+          "32",
+          "5"
+        ],
+        [
+          "LAS PIEDRAS",
+          "2",
+          "89",
+          "49",
+          "40",
+          "4"
+        ],
+        [
+          "LEÓN GUZMÁN",
+          "6",
+          "1,446",
+          "693",
+          "753",
+          "123"
+        ],
+        [
+          "LERDO",
+          "123",
+          "26,847",
+          "13,301",
+          "13,546",
+          "1,750"
+        ],
+        [
+          "LOS ÁNGELES",
+          "3",
+          "293",
+          "136",
+          "157",
+          "14"
+        ],
+        [
+          "MARGARITO MACHADO (PALOMAS)",
+          "3",
+          "96",
+          "45",
+          "51",
+          "5"
+        ],
+        [
+          "MONTERREY",
+          "3",
+          "152",
+          "67",
+          "85",
+          "8"
+        ],
+        [
+          "NAZARENO",
+          "8",
+          "2,339",
+          "1,203",
+          "1,136",
+          "123"
+        ],
+        [
+          "NAZARENO DE ABAJO",
+          "3",
+          "196",
+          "106",
+          "90",
+          "8"
+        ],
+        [
+          "NAZARENO II (NAZARENO DE ARRIBA)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2"
+        ],
+        [
+          "NUEVO GRASEROS",
+          "3",
+          "228",
+          "101",
+          "127",
+          "11"
+        ],
+        [
+          "PICARDÍAS",
+          "4",
+          "492",
+          "261",
+          "231",
+          "59"
+        ],
+        [
+          "PUENTE DE LA TORREÑA (EL CAPRICHO)",
+          "2",
+          "55",
+          "31",
+          "24",
+          "3"
+        ],
+        [
+          "SALAMANCA",
+          "2",
+          "156",
+          "75",
+          "81",
+          "8"
+        ],
+        [
+          "SAN ANTONIO (LA HORTALIZA)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GERARDO",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN JACINTO",
+          "2",
+          "236",
+          "104",
+          "132",
+          "12"
+        ],
+        [
+          "SAN LUIS DEL ALTO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "SAN NICOLÁS",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "SANTA ANITA",
+          "3",
+          "43",
+          "16",
+          "27",
+          "4"
+        ],
+        [
+          "SAPIORIS",
+          "2",
+          "308",
+          "148",
+          "160",
+          "16"
+        ],
+        [
+          "SEIS DE ENERO",
+          "3",
+          "355",
+          "173",
+          "182",
+          "21"
+        ],
+        [
+          "VICENTE NAVA (LA GOMITA)",
+          "1",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "VICENTE SUÁREZ",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5"
+        ],
+        [
+          "VILLA DE GUADALUPE",
+          "3",
+          "448",
+          "201",
+          "247",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "258",
+          "41,912",
+          "20,734",
+          "21,178",
+          "2,647"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:33.942Z"
+}

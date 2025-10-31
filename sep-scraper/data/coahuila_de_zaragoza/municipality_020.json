@@ -1,0 +1,362 @@
+{
+  "municipality": "MÚZQUIZ",
+  "municipalityCode": "020",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MÚZQUIZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARROTERÁN [ESTACIÓN]\n\t\t2\n\t\t51\n\t\t30\n\t\t21\n\t\t3\n\t\n\t\n\t\tCIUDAD MELCHOR MÚZQUIZ\n\t\t53\n\t\t9,455\n\t\t4,659\n\t\t4,796\n\t\t441\n\t\n\t\n\t\tLA FLORIDA (LA HACIENDA)\n\t\t1\n\t\t58\n\t\t28\n\t\t30\n\t\t3\n\t\n\t\n\t\tLA MOTA\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS ESPERANZAS\n\t\t6\n\t\t550\n\t\t270\n\t\t280\n\t\t32\n\t\n\t\n\t\tMINAS DE BARROTERÁN\n\t\t10\n\t\t2,280\n\t\t1,126\n\t\t1,154\n\t\t98\n\t\n\t\n\t\tMINAS LA FLORIDA (LA FLORIDA)\n\t\t1\n\t\t142\n\t\t67\n\t\t75\n\t\t6\n\t\n\t\n\t\tMORELOS (CUARTERONES)\n\t\t4\n\t\t145\n\t\t64\n\t\t81\n\t\t8\n\t\n\t\n\t\tNEGROS MASKOGOS (NACIMIENTO)\n\t\t4\n\t\t129\n\t\t64\n\t\t65\n\t\t9\n\t\n\t\n\t\tNOGALITOS\n\t\t3\n\t\t116\n\t\t64\n\t\t52\n\t\t6\n\t\n\t\n\t\tPALAÚ\n\t\t18\n\t\t3,423\n\t\t1,720\n\t\t1,703\n\t\t162\n\t\n\t\n\t\tRANCHERÍAS\n\t\t4\n\t\t224\n\t\t108\n\t\t116\n\t\t13\n\t\n\t\n\t\tTOTAL\n\t\t107\n\t\t16,585\n\t\t8,206\n\t\t8,379\n\t\t782\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MÚZQUIZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARROTERÁN [ESTACIÓN]",
+          "2",
+          "51",
+          "30",
+          "21",
+          "3",
+          "CIUDAD MELCHOR MÚZQUIZ",
+          "53",
+          "9,455",
+          "4,659",
+          "4,796",
+          "441",
+          "LA FLORIDA (LA HACIENDA)",
+          "1",
+          "58",
+          "28",
+          "30",
+          "3",
+          "LA MOTA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LAS ESPERANZAS",
+          "6",
+          "550",
+          "270",
+          "280",
+          "32",
+          "MINAS DE BARROTERÁN",
+          "10",
+          "2,280",
+          "1,126",
+          "1,154",
+          "98",
+          "MINAS LA FLORIDA (LA FLORIDA)",
+          "1",
+          "142",
+          "67",
+          "75",
+          "6",
+          "MORELOS (CUARTERONES)",
+          "4",
+          "145",
+          "64",
+          "81",
+          "8",
+          "NEGROS MASKOGOS (NACIMIENTO)",
+          "4",
+          "129",
+          "64",
+          "65",
+          "9",
+          "NOGALITOS",
+          "3",
+          "116",
+          "64",
+          "52",
+          "6",
+          "PALAÚ",
+          "18",
+          "3,423",
+          "1,720",
+          "1,703",
+          "162",
+          "RANCHERÍAS",
+          "4",
+          "224",
+          "108",
+          "116",
+          "13",
+          "TOTAL",
+          "107",
+          "16,585",
+          "8,206",
+          "8,379",
+          "782",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MÚZQUIZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARROTERÁN [ESTACIÓN]",
+          "2",
+          "51",
+          "30",
+          "21",
+          "3"
+        ],
+        [
+          "CIUDAD MELCHOR MÚZQUIZ",
+          "53",
+          "9,455",
+          "4,659",
+          "4,796",
+          "441"
+        ],
+        [
+          "LA FLORIDA (LA HACIENDA)",
+          "1",
+          "58",
+          "28",
+          "30",
+          "3"
+        ],
+        [
+          "LA MOTA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LAS ESPERANZAS",
+          "6",
+          "550",
+          "270",
+          "280",
+          "32"
+        ],
+        [
+          "MINAS DE BARROTERÁN",
+          "10",
+          "2,280",
+          "1,126",
+          "1,154",
+          "98"
+        ],
+        [
+          "MINAS LA FLORIDA (LA FLORIDA)",
+          "1",
+          "142",
+          "67",
+          "75",
+          "6"
+        ],
+        [
+          "MORELOS (CUARTERONES)",
+          "4",
+          "145",
+          "64",
+          "81",
+          "8"
+        ],
+        [
+          "NEGROS MASKOGOS (NACIMIENTO)",
+          "4",
+          "129",
+          "64",
+          "65",
+          "9"
+        ],
+        [
+          "NOGALITOS",
+          "3",
+          "116",
+          "64",
+          "52",
+          "6"
+        ],
+        [
+          "PALAÚ",
+          "18",
+          "3,423",
+          "1,720",
+          "1,703",
+          "162"
+        ],
+        [
+          "RANCHERÍAS",
+          "4",
+          "224",
+          "108",
+          "116",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "107",
+          "16,585",
+          "8,206",
+          "8,379",
+          "782"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MÚZQUIZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARROTERÁN [ESTACIÓN]",
+          "2",
+          "51",
+          "30",
+          "21",
+          "3"
+        ],
+        [
+          "CIUDAD MELCHOR MÚZQUIZ",
+          "53",
+          "9,455",
+          "4,659",
+          "4,796",
+          "441"
+        ],
+        [
+          "LA FLORIDA (LA HACIENDA)",
+          "1",
+          "58",
+          "28",
+          "30",
+          "3"
+        ],
+        [
+          "LA MOTA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LAS ESPERANZAS",
+          "6",
+          "550",
+          "270",
+          "280",
+          "32"
+        ],
+        [
+          "MINAS DE BARROTERÁN",
+          "10",
+          "2,280",
+          "1,126",
+          "1,154",
+          "98"
+        ],
+        [
+          "MINAS LA FLORIDA (LA FLORIDA)",
+          "1",
+          "142",
+          "67",
+          "75",
+          "6"
+        ],
+        [
+          "MORELOS (CUARTERONES)",
+          "4",
+          "145",
+          "64",
+          "81",
+          "8"
+        ],
+        [
+          "NEGROS MASKOGOS (NACIMIENTO)",
+          "4",
+          "129",
+          "64",
+          "65",
+          "9"
+        ],
+        [
+          "NOGALITOS",
+          "3",
+          "116",
+          "64",
+          "52",
+          "6"
+        ],
+        [
+          "PALAÚ",
+          "18",
+          "3,423",
+          "1,720",
+          "1,703",
+          "162"
+        ],
+        [
+          "RANCHERÍAS",
+          "4",
+          "224",
+          "108",
+          "116",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "107",
+          "16,585",
+          "8,206",
+          "8,379",
+          "782"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:26.867Z"
+}

@@ -1,0 +1,1418 @@
+{
+  "municipality": "TOMATLÁN",
+  "municipalityCode": "100",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: TOMATLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENITO JUÁREZ (ADOLFO RUIZ CORTINES)\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tCABREL\n\t\t3\n\t\t37\n\t\t16\n\t\t21\n\t\t4\n\t\n\t\n\t\tCACALUTA\n\t\t3\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tCAMPO ACOSTA\n\t\t8\n\t\t807\n\t\t388\n\t\t419\n\t\t37\n\t\n\t\n\t\tCIMARRONAS\n\t\t3\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tCOLONIA LAS PALMAS [CAMPAMENTO SAGAR]\n\t\t1\n\t\t23\n\t\t13\n\t\t10\n\t\t2\n\t\n\t\n\t\tCRUCERO DE LA CRUZ DE LORETO\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL AVALITO\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL COCO\n\t\t3\n\t\t42\n\t\t19\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL CORRIDO\n\t\t3\n\t\t64\n\t\t31\n\t\t33\n\t\t7\n\t\n\t\n\t\tEL CRIADERO\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL CRIADERO (CRIADEROS)\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CRUCERO\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t3\n\t\n\t\n\t\tEL GUAMÚCHIL\n\t\t3\n\t\t21\n\t\t4\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL LIMÓN\n\t\t3\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL MAPACHE\n\t\t3\n\t\t89\n\t\t47\n\t\t42\n\t\t6\n\t\n\t\n\t\tEL NARANJO\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL NARANJO (LOS PINOS)\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL OCOTILLO\n\t\t3\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL PORTEZUELO\n\t\t2\n\t\t30\n\t\t12\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL REALITO\n\t\t3\n\t\t42\n\t\t27\n\t\t15\n\t\t4\n\t\n\t\n\t\tEL TIGRE\n\t\t2\n\t\t34\n\t\t11\n\t\t23\n\t\t4\n\t\n\t\n\t\tEL TULE\n\t\t4\n\t\t267\n\t\t145\n\t\t122\n\t\t26\n\t\n\t\n\t\tEMILIANO ZAPATA YAUTEPEC (AGUA ZARCA)\n\t\t2\n\t\t60\n\t\t25\n\t\t35\n\t\t4\n\t\n\t\n\t\tGARGANTILLO (LA HACIENDA)\n\t\t5\n\t\t275\n\t\t144\n\t\t131\n\t\t19\n\t\n\t\n\t\tHIDALGO\n\t\t1\n\t\t19\n\t\t10\n\t\t9\n\t\t1\n\t\n\t\n\t\tHIGUERA BLANCA\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS\n\t\t10\n\t\t936\n\t\t451\n\t\t485\n\t\t54\n\t\n\t\n\t\tJOSÉ MARÍA PINO SUÁREZ (NUEVO NAHUAPA)\n\t\t10\n\t\t1,059\n\t\t562\n\t\t497\n\t\t62\n\t\n\t\n\t\tLA CRUZ DE LORETO\n\t\t7\n\t\t546\n\t\t285\n\t\t261\n\t\t36\n\t\n\t\n\t\tLA CUMBRE\n\t\t4\n\t\t289\n\t\t128\n\t\t161\n\t\t15\n\t\n\t\n\t\tLA GLORIA\n\t\t3\n\t\t183\n\t\t87\n\t\t96\n\t\t12\n\t\n\t\n\t\tLA PINTADA\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tLAS PARTIDAS\n\t\t3\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tLAS PILITAS\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS (LA NANCY)\n\t\t3\n\t\t150\n\t\t78\n\t\t72\n\t\t8\n\t\n\t\n\t\tLLANO DEL TORO\n\t\t1\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tLLANO GRANDE\n\t\t4\n\t\t269\n\t\t141\n\t\t128\n\t\t17\n\t\n\t\n\t\tLÓPEZ MATEOS\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t2\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t3\n\t\t27\n\t\t19\n\t\t8\n\t\t2\n\t\n\t\n\t\tLOS DIQUES\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS TERREROS\n\t\t5\n\t\t209\n\t\t89\n\t\t120\n\t\t13\n\t\n\t\n\t\tMALOBACO\n\t\t3\n\t\t33\n\t\t16\n\t\t17\n\t\t3\n\t\n\t\n\t\tNAHUAPA\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t2\n\t\n\t\n\t\tNINGUNO [ASERRADERO]\n\t\t3\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tNUEVO SANTIAGO\n\t\t2\n\t\t73\n\t\t41\n\t\t32\n\t\t6\n\t\n\t\n\t\tPALMILLAS\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tPILOTO (CORRALITO DE PILOTO)\n\t\t3\n\t\t32\n\t\t11\n\t\t21\n\t\t3\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t3\n\t\t218\n\t\t103\n\t\t115\n\t\t13\n\t\n\t\n\t\tPOCHOTITÁN\n\t\t3\n\t\t40\n\t\t21\n\t\t19\n\t\t4\n\t\n\t\n\t\tPRESA CAJÓN DE PEÑA (LA PRESA)\n\t\t3\n\t\t36\n\t\t15\n\t\t21\n\t\t3\n\t\n\t\n\t\tPUENTECILLAS\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN IGNACIO (JUAN IGNACIO)\n\t\t2\n\t\t9\n\t\t8\n\t\t1\n\t\t3\n\t\n\t\n\t\tSAN RAFAEL DE LOS MORENO\n\t\t4\n\t\t164\n\t\t75\n\t\t89\n\t\t16\n\t\n\t\n\t\tSANTA GERTRUDIS\n\t\t3\n\t\t40\n\t\t22\n\t\t18\n\t\t4\n\t\n\t\n\t\tTEOCINTE (TEOCINTLE)\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t3\n\t\n\t\n\t\tTEQUESQUITE\n\t\t3\n\t\t216\n\t\t113\n\t\t103\n\t\t18\n\t\n\t\n\t\tTOMATLÁN\n\t\t18\n\t\t2,727\n\t\t1,405\n\t\t1,322\n\t\t193\n\t\n\t\n\t\tVALLE DE MAJAHUAS (EL POBLADO)\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tVICENTE GUERRERO (LAS LOMAS COLORADAS)\n\t\t1\n\t\t45\n\t\t18\n\t\t27\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t186\n\t\t9,519\n\t\t4,771\n\t\t4,748\n\t\t657\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: TOMATLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENITO JUÁREZ (ADOLFO RUIZ CORTINES)",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "CABREL",
+          "3",
+          "37",
+          "16",
+          "21",
+          "4",
+          "CACALUTA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2",
+          "CAMPO ACOSTA",
+          "8",
+          "807",
+          "388",
+          "419",
+          "37",
+          "CIMARRONAS",
+          "3",
+          "20",
+          "9",
+          "11",
+          "2",
+          "COLONIA LAS PALMAS [CAMPAMENTO SAGAR]",
+          "1",
+          "23",
+          "13",
+          "10",
+          "2",
+          "CRUCERO DE LA CRUZ DE LORETO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "EL AVALITO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "EL COCO",
+          "3",
+          "42",
+          "19",
+          "23",
+          "3",
+          "EL CORRIDO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "7",
+          "EL CRIADERO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3",
+          "EL CRIADERO (CRIADEROS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "EL CRUCERO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3",
+          "EL GUAMÚCHIL",
+          "3",
+          "21",
+          "4",
+          "17",
+          "3",
+          "EL LIMÓN",
+          "3",
+          "20",
+          "8",
+          "12",
+          "2",
+          "EL MAPACHE",
+          "3",
+          "89",
+          "47",
+          "42",
+          "6",
+          "EL NARANJO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL NARANJO (LOS PINOS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "EL OCOTILLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "2",
+          "EL PORTEZUELO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "3",
+          "EL REALITO",
+          "3",
+          "42",
+          "27",
+          "15",
+          "4",
+          "EL TIGRE",
+          "2",
+          "34",
+          "11",
+          "23",
+          "4",
+          "EL TULE",
+          "4",
+          "267",
+          "145",
+          "122",
+          "26",
+          "EMILIANO ZAPATA YAUTEPEC (AGUA ZARCA)",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4",
+          "GARGANTILLO (LA HACIENDA)",
+          "5",
+          "275",
+          "144",
+          "131",
+          "19",
+          "HIDALGO",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1",
+          "HIGUERA BLANCA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3",
+          "JOSÉ MARÍA MORELOS",
+          "10",
+          "936",
+          "451",
+          "485",
+          "54",
+          "JOSÉ MARÍA PINO SUÁREZ (NUEVO NAHUAPA)",
+          "10",
+          "1,059",
+          "562",
+          "497",
+          "62",
+          "LA CRUZ DE LORETO",
+          "7",
+          "546",
+          "285",
+          "261",
+          "36",
+          "LA CUMBRE",
+          "4",
+          "289",
+          "128",
+          "161",
+          "15",
+          "LA GLORIA",
+          "3",
+          "183",
+          "87",
+          "96",
+          "12",
+          "LA PINTADA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2",
+          "LAS PARTIDAS",
+          "3",
+          "13",
+          "7",
+          "6",
+          "2",
+          "LAS PILITAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "LÁZARO CÁRDENAS (LA NANCY)",
+          "3",
+          "150",
+          "78",
+          "72",
+          "8",
+          "LLANO DEL TORO",
+          "1",
+          "36",
+          "17",
+          "19",
+          "3",
+          "LLANO GRANDE",
+          "4",
+          "269",
+          "141",
+          "128",
+          "17",
+          "LÓPEZ MATEOS",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2",
+          "LOS ÁNGELES",
+          "3",
+          "27",
+          "19",
+          "8",
+          "2",
+          "LOS DIQUES",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "LOS TERREROS",
+          "5",
+          "209",
+          "89",
+          "120",
+          "13",
+          "MALOBACO",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3",
+          "NAHUAPA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2",
+          "NINGUNO [ASERRADERO]",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2",
+          "NUEVO SANTIAGO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "6",
+          "PALMILLAS",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1",
+          "PILOTO (CORRALITO DE PILOTO)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3",
+          "PLAN DE AYALA",
+          "3",
+          "218",
+          "103",
+          "115",
+          "13",
+          "POCHOTITÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4",
+          "PRESA CAJÓN DE PEÑA (LA PRESA)",
+          "3",
+          "36",
+          "15",
+          "21",
+          "3",
+          "PUENTECILLAS",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "SAN IGNACIO (JUAN IGNACIO)",
+          "2",
+          "9",
+          "8",
+          "1",
+          "3",
+          "SAN RAFAEL DE LOS MORENO",
+          "4",
+          "164",
+          "75",
+          "89",
+          "16",
+          "SANTA GERTRUDIS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4",
+          "TEOCINTE (TEOCINTLE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "3",
+          "TEQUESQUITE",
+          "3",
+          "216",
+          "113",
+          "103",
+          "18",
+          "TOMATLÁN",
+          "18",
+          "2,727",
+          "1,405",
+          "1,322",
+          "193",
+          "VALLE DE MAJAHUAS (EL POBLADO)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "VICENTE GUERRERO (LAS LOMAS COLORADAS)",
+          "1",
+          "45",
+          "18",
+          "27",
+          "2",
+          "TOTAL",
+          "186",
+          "9,519",
+          "4,771",
+          "4,748",
+          "657",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: TOMATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ (ADOLFO RUIZ CORTINES)",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "CABREL",
+          "3",
+          "37",
+          "16",
+          "21",
+          "4"
+        ],
+        [
+          "CACALUTA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "CAMPO ACOSTA",
+          "8",
+          "807",
+          "388",
+          "419",
+          "37"
+        ],
+        [
+          "CIMARRONAS",
+          "3",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "COLONIA LAS PALMAS [CAMPAMENTO SAGAR]",
+          "1",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "CRUCERO DE LA CRUZ DE LORETO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL AVALITO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "3",
+          "42",
+          "19",
+          "23",
+          "3"
+        ],
+        [
+          "EL CORRIDO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "7"
+        ],
+        [
+          "EL CRIADERO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "EL CRIADERO (CRIADEROS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL CRUCERO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "3",
+          "21",
+          "4",
+          "17",
+          "3"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "EL MAPACHE",
+          "3",
+          "89",
+          "47",
+          "42",
+          "6"
+        ],
+        [
+          "EL NARANJO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL NARANJO (LOS PINOS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL OCOTILLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "EL PORTEZUELO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "3"
+        ],
+        [
+          "EL REALITO",
+          "3",
+          "42",
+          "27",
+          "15",
+          "4"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "34",
+          "11",
+          "23",
+          "4"
+        ],
+        [
+          "EL TULE",
+          "4",
+          "267",
+          "145",
+          "122",
+          "26"
+        ],
+        [
+          "EMILIANO ZAPATA YAUTEPEC (AGUA ZARCA)",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4"
+        ],
+        [
+          "GARGANTILLO (LA HACIENDA)",
+          "5",
+          "275",
+          "144",
+          "131",
+          "19"
+        ],
+        [
+          "HIDALGO",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "HIGUERA BLANCA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "10",
+          "936",
+          "451",
+          "485",
+          "54"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ (NUEVO NAHUAPA)",
+          "10",
+          "1,059",
+          "562",
+          "497",
+          "62"
+        ],
+        [
+          "LA CRUZ DE LORETO",
+          "7",
+          "546",
+          "285",
+          "261",
+          "36"
+        ],
+        [
+          "LA CUMBRE",
+          "4",
+          "289",
+          "128",
+          "161",
+          "15"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "183",
+          "87",
+          "96",
+          "12"
+        ],
+        [
+          "LA PINTADA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "LAS PARTIDAS",
+          "3",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "LAS PILITAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (LA NANCY)",
+          "3",
+          "150",
+          "78",
+          "72",
+          "8"
+        ],
+        [
+          "LLANO DEL TORO",
+          "1",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LLANO GRANDE",
+          "4",
+          "269",
+          "141",
+          "128",
+          "17"
+        ],
+        [
+          "LÓPEZ MATEOS",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "3",
+          "27",
+          "19",
+          "8",
+          "2"
+        ],
+        [
+          "LOS DIQUES",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "LOS TERREROS",
+          "5",
+          "209",
+          "89",
+          "120",
+          "13"
+        ],
+        [
+          "MALOBACO",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "NAHUAPA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "NINGUNO [ASERRADERO]",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "NUEVO SANTIAGO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "6"
+        ],
+        [
+          "PALMILLAS",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "PILOTO (CORRALITO DE PILOTO)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "PLAN DE AYALA",
+          "3",
+          "218",
+          "103",
+          "115",
+          "13"
+        ],
+        [
+          "POCHOTITÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "PRESA CAJÓN DE PEÑA (LA PRESA)",
+          "3",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "PUENTECILLAS",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "SAN IGNACIO (JUAN IGNACIO)",
+          "2",
+          "9",
+          "8",
+          "1",
+          "3"
+        ],
+        [
+          "SAN RAFAEL DE LOS MORENO",
+          "4",
+          "164",
+          "75",
+          "89",
+          "16"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4"
+        ],
+        [
+          "TEOCINTE (TEOCINTLE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "TEQUESQUITE",
+          "3",
+          "216",
+          "113",
+          "103",
+          "18"
+        ],
+        [
+          "TOMATLÁN",
+          "18",
+          "2,727",
+          "1,405",
+          "1,322",
+          "193"
+        ],
+        [
+          "VALLE DE MAJAHUAS (EL POBLADO)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (LAS LOMAS COLORADAS)",
+          "1",
+          "45",
+          "18",
+          "27",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "186",
+          "9,519",
+          "4,771",
+          "4,748",
+          "657"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: TOMATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ (ADOLFO RUIZ CORTINES)",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "CABREL",
+          "3",
+          "37",
+          "16",
+          "21",
+          "4"
+        ],
+        [
+          "CACALUTA",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "CAMPO ACOSTA",
+          "8",
+          "807",
+          "388",
+          "419",
+          "37"
+        ],
+        [
+          "CIMARRONAS",
+          "3",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "COLONIA LAS PALMAS [CAMPAMENTO SAGAR]",
+          "1",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "CRUCERO DE LA CRUZ DE LORETO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL AVALITO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "3",
+          "42",
+          "19",
+          "23",
+          "3"
+        ],
+        [
+          "EL CORRIDO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "7"
+        ],
+        [
+          "EL CRIADERO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "EL CRIADERO (CRIADEROS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL CRUCERO",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "3",
+          "21",
+          "4",
+          "17",
+          "3"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "EL MAPACHE",
+          "3",
+          "89",
+          "47",
+          "42",
+          "6"
+        ],
+        [
+          "EL NARANJO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL NARANJO (LOS PINOS)",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL OCOTILLO",
+          "3",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "EL PORTEZUELO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "3"
+        ],
+        [
+          "EL REALITO",
+          "3",
+          "42",
+          "27",
+          "15",
+          "4"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "34",
+          "11",
+          "23",
+          "4"
+        ],
+        [
+          "EL TULE",
+          "4",
+          "267",
+          "145",
+          "122",
+          "26"
+        ],
+        [
+          "EMILIANO ZAPATA YAUTEPEC (AGUA ZARCA)",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4"
+        ],
+        [
+          "GARGANTILLO (LA HACIENDA)",
+          "5",
+          "275",
+          "144",
+          "131",
+          "19"
+        ],
+        [
+          "HIDALGO",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "HIGUERA BLANCA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "10",
+          "936",
+          "451",
+          "485",
+          "54"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ (NUEVO NAHUAPA)",
+          "10",
+          "1,059",
+          "562",
+          "497",
+          "62"
+        ],
+        [
+          "LA CRUZ DE LORETO",
+          "7",
+          "546",
+          "285",
+          "261",
+          "36"
+        ],
+        [
+          "LA CUMBRE",
+          "4",
+          "289",
+          "128",
+          "161",
+          "15"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "183",
+          "87",
+          "96",
+          "12"
+        ],
+        [
+          "LA PINTADA",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "LAS PARTIDAS",
+          "3",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "LAS PILITAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (LA NANCY)",
+          "3",
+          "150",
+          "78",
+          "72",
+          "8"
+        ],
+        [
+          "LLANO DEL TORO",
+          "1",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LLANO GRANDE",
+          "4",
+          "269",
+          "141",
+          "128",
+          "17"
+        ],
+        [
+          "LÓPEZ MATEOS",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "3",
+          "27",
+          "19",
+          "8",
+          "2"
+        ],
+        [
+          "LOS DIQUES",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "LOS TERREROS",
+          "5",
+          "209",
+          "89",
+          "120",
+          "13"
+        ],
+        [
+          "MALOBACO",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "NAHUAPA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "NINGUNO [ASERRADERO]",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "NUEVO SANTIAGO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "6"
+        ],
+        [
+          "PALMILLAS",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "PILOTO (CORRALITO DE PILOTO)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "PLAN DE AYALA",
+          "3",
+          "218",
+          "103",
+          "115",
+          "13"
+        ],
+        [
+          "POCHOTITÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "PRESA CAJÓN DE PEÑA (LA PRESA)",
+          "3",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "PUENTECILLAS",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "SAN IGNACIO (JUAN IGNACIO)",
+          "2",
+          "9",
+          "8",
+          "1",
+          "3"
+        ],
+        [
+          "SAN RAFAEL DE LOS MORENO",
+          "4",
+          "164",
+          "75",
+          "89",
+          "16"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4"
+        ],
+        [
+          "TEOCINTE (TEOCINTLE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "TEQUESQUITE",
+          "3",
+          "216",
+          "113",
+          "103",
+          "18"
+        ],
+        [
+          "TOMATLÁN",
+          "18",
+          "2,727",
+          "1,405",
+          "1,322",
+          "193"
+        ],
+        [
+          "VALLE DE MAJAHUAS (EL POBLADO)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (LAS LOMAS COLORADAS)",
+          "1",
+          "45",
+          "18",
+          "27",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "186",
+          "9,519",
+          "4,771",
+          "4,748",
+          "657"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:26.291Z"
+}

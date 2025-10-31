@@ -1,0 +1,384 @@
+{
+  "municipality": "JUCHIPILA",
+  "municipalityCode": "023",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: JUCHIPILA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE GUADALUPE VICTORIA\n\t\t2\n\t\t59\n\t\t34\n\t\t25\n\t\t4\n\t\n\t\n\t\tBONIFACIO FALCÓN (SAN SEBASTIÁN)\n\t\t3\n\t\t197\n\t\t92\n\t\t105\n\t\t10\n\t\n\t\n\t\tCONTITLÁN\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL PAISANO\n\t\t2\n\t\t44\n\t\t21\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL REMOLINO\n\t\t4\n\t\t606\n\t\t283\n\t\t323\n\t\t37\n\t\n\t\n\t\tFRACCIONAMIENTO JUCHIPILA\n\t\t1\n\t\t21\n\t\t5\n\t\t16\n\t\t1\n\t\n\t\n\t\tGUADALAJARITA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tJUCHIPILA\n\t\t14\n\t\t2,358\n\t\t1,297\n\t\t1,061\n\t\t173\n\t\n\t\n\t\tLA CANTERA (LA CANTERA DE ARRIBA)\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA RINCONADA\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tMEZQUITERA NORTE\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tMEZQUITERA SUR\n\t\t3\n\t\t216\n\t\t108\n\t\t108\n\t\t10\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t39\n\t\t3,590\n\t\t1,882\n\t\t1,708\n\t\t248\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: JUCHIPILA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE GUADALUPE VICTORIA",
+          "2",
+          "59",
+          "34",
+          "25",
+          "4",
+          "BONIFACIO FALCÓN (SAN SEBASTIÁN)",
+          "3",
+          "197",
+          "92",
+          "105",
+          "10",
+          "CONTITLÁN",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "EL PAISANO",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3",
+          "EL REMOLINO",
+          "4",
+          "606",
+          "283",
+          "323",
+          "37",
+          "FRACCIONAMIENTO JUCHIPILA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "1",
+          "GUADALAJARITA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "JUCHIPILA",
+          "14",
+          "2,358",
+          "1,297",
+          "1,061",
+          "173",
+          "LA CANTERA (LA CANTERA DE ARRIBA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2",
+          "LA RINCONADA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "MEZQUITERA NORTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "MEZQUITERA SUR",
+          "3",
+          "216",
+          "108",
+          "108",
+          "10",
+          "PUEBLO VIEJO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "TOTAL",
+          "39",
+          "3,590",
+          "1,882",
+          "1,708",
+          "248",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: JUCHIPILA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE GUADALUPE VICTORIA",
+          "2",
+          "59",
+          "34",
+          "25",
+          "4"
+        ],
+        [
+          "BONIFACIO FALCÓN (SAN SEBASTIÁN)",
+          "3",
+          "197",
+          "92",
+          "105",
+          "10"
+        ],
+        [
+          "CONTITLÁN",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL PAISANO",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "EL REMOLINO",
+          "4",
+          "606",
+          "283",
+          "323",
+          "37"
+        ],
+        [
+          "FRACCIONAMIENTO JUCHIPILA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "1"
+        ],
+        [
+          "GUADALAJARITA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "JUCHIPILA",
+          "14",
+          "2,358",
+          "1,297",
+          "1,061",
+          "173"
+        ],
+        [
+          "LA CANTERA (LA CANTERA DE ARRIBA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "LA RINCONADA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "MEZQUITERA NORTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "MEZQUITERA SUR",
+          "3",
+          "216",
+          "108",
+          "108",
+          "10"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "3,590",
+          "1,882",
+          "1,708",
+          "248"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: JUCHIPILA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE GUADALUPE VICTORIA",
+          "2",
+          "59",
+          "34",
+          "25",
+          "4"
+        ],
+        [
+          "BONIFACIO FALCÓN (SAN SEBASTIÁN)",
+          "3",
+          "197",
+          "92",
+          "105",
+          "10"
+        ],
+        [
+          "CONTITLÁN",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL PAISANO",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "EL REMOLINO",
+          "4",
+          "606",
+          "283",
+          "323",
+          "37"
+        ],
+        [
+          "FRACCIONAMIENTO JUCHIPILA",
+          "1",
+          "21",
+          "5",
+          "16",
+          "1"
+        ],
+        [
+          "GUADALAJARITA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "JUCHIPILA",
+          "14",
+          "2,358",
+          "1,297",
+          "1,061",
+          "173"
+        ],
+        [
+          "LA CANTERA (LA CANTERA DE ARRIBA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "LA RINCONADA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "MEZQUITERA NORTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "MEZQUITERA SUR",
+          "3",
+          "216",
+          "108",
+          "108",
+          "10"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "3,590",
+          "1,882",
+          "1,708",
+          "248"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:51:36.569Z"
+}

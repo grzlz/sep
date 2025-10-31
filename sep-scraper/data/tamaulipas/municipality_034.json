@@ -1,0 +1,868 @@
+{
+  "municipality": "SAN CARLOS",
+  "municipalityCode": "034",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN CARLOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCORRALEJO\n\t\t2\n\t\t15\n\t\t10\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL BARRANCO AZUL\n\t\t3\n\t\t87\n\t\t37\n\t\t50\n\t\t8\n\t\n\t\n\t\tEL CARRICITO (CARRICITO DE LOS RETA)\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CARRIZO DE URIEGAS\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL DIVISADERO\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL GAVILÁN\n\t\t3\n\t\t31\n\t\t12\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL SAUCILLO\n\t\t5\n\t\t189\n\t\t92\n\t\t97\n\t\t12\n\t\n\t\n\t\tGRACIANO SÁNCHEZ\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA AURORA\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA GARITA\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA GAVIA\n\t\t3\n\t\t51\n\t\t26\n\t\t25\n\t\t5\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA NUEVA UNIÓN\n\t\t2\n\t\t36\n\t\t20\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA UNIÓN MORALES\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS ANGELITOS (ÁNGELES)\n\t\t2\n\t\t22\n\t\t15\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS QUIOTES\n\t\t3\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tLOS VERGELES\n\t\t3\n\t\t17\n\t\t10\n\t\t7\n\t\t3\n\t\n\t\n\t\tMAGUEYES\n\t\t4\n\t\t111\n\t\t50\n\t\t61\n\t\t14\n\t\n\t\n\t\tMANUEL LÓPEZ (SAN ANTONIO)\n\t\t3\n\t\t32\n\t\t15\n\t\t17\n\t\t3\n\t\n\t\n\t\tMARMOLEJO\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tNORBERTO TREVIÑO ZAPATA (SANTA TERESA)\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tNUEVO CAMACHO\n\t\t2\n\t\t19\n\t\t11\n\t\t8\n\t\t2\n\t\n\t\n\t\tNUEVO PRAXEDIS BALBOA\n\t\t3\n\t\t27\n\t\t10\n\t\t17\n\t\t3\n\t\n\t\n\t\tNUEVO SAN ANTONIO\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t2\n\t\n\t\n\t\tPROFESOR GRACIANO SÁNCHEZ\n\t\t3\n\t\t46\n\t\t22\n\t\t24\n\t\t3\n\t\n\t\n\t\tPUERTO RICO\n\t\t3\n\t\t70\n\t\t29\n\t\t41\n\t\t6\n\t\n\t\n\t\tREDENCIÓN DEL CAMPESINO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tRINCÓN MURILLO (RANCHO VIEJO)\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN CARLOS\n\t\t4\n\t\t290\n\t\t149\n\t\t141\n\t\t24\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t2\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tVÍCTOR MANUEL BUENO\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t82\n\t\t1,302\n\t\t629\n\t\t673\n\t\t126\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN CARLOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CORRALEJO",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2",
+          "EL BARRANCO AZUL",
+          "3",
+          "87",
+          "37",
+          "50",
+          "8",
+          "EL CARRICITO (CARRICITO DE LOS RETA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "EL CARRIZO DE URIEGAS",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2",
+          "EL DIVISADERO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL GAVILÁN",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3",
+          "EL REFUGIO",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "EL SAUCILLO",
+          "5",
+          "189",
+          "92",
+          "97",
+          "12",
+          "GRACIANO SÁNCHEZ",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LA AURORA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LA GARITA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "LA GAVIA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "5",
+          "LA GLORIA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1",
+          "LA LIBERTAD",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "LA NUEVA UNIÓN",
+          "2",
+          "36",
+          "20",
+          "16",
+          "3",
+          "LA UNIÓN MORALES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2",
+          "LOS ANGELITOS (ÁNGELES)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2",
+          "LOS QUIOTES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3",
+          "LOS VERGELES",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3",
+          "MAGUEYES",
+          "4",
+          "111",
+          "50",
+          "61",
+          "14",
+          "MANUEL LÓPEZ (SAN ANTONIO)",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3",
+          "MARMOLEJO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "NORBERTO TREVIÑO ZAPATA (SANTA TERESA)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "NUEVO CAMACHO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2",
+          "NUEVO PRAXEDIS BALBOA",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3",
+          "NUEVO SAN ANTONIO",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2",
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3",
+          "PUERTO RICO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6",
+          "REDENCIÓN DEL CAMPESINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "RINCÓN MURILLO (RANCHO VIEJO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "SAN CARLOS",
+          "4",
+          "290",
+          "149",
+          "141",
+          "24",
+          "SAN FRANCISCO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1",
+          "SAN MIGUEL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SAN RAFAEL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "VÍCTOR MANUEL BUENO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "TOTAL",
+          "82",
+          "1,302",
+          "629",
+          "673",
+          "126",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN CARLOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORRALEJO",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "EL BARRANCO AZUL",
+          "3",
+          "87",
+          "37",
+          "50",
+          "8"
+        ],
+        [
+          "EL CARRICITO (CARRICITO DE LOS RETA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL CARRIZO DE URIEGAS",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "EL DIVISADERO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL GAVILÁN",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "5",
+          "189",
+          "92",
+          "97",
+          "12"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LA AURORA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA GARITA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "LA GAVIA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LA NUEVA UNIÓN",
+          "2",
+          "36",
+          "20",
+          "16",
+          "3"
+        ],
+        [
+          "LA UNIÓN MORALES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "LOS ANGELITOS (ÁNGELES)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LOS QUIOTES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "LOS VERGELES",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "MAGUEYES",
+          "4",
+          "111",
+          "50",
+          "61",
+          "14"
+        ],
+        [
+          "MANUEL LÓPEZ (SAN ANTONIO)",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3"
+        ],
+        [
+          "MARMOLEJO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "NORBERTO TREVIÑO ZAPATA (SANTA TERESA)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVO CAMACHO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVO PRAXEDIS BALBOA",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVO SAN ANTONIO",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "RINCÓN MURILLO (RANCHO VIEJO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "SAN CARLOS",
+          "4",
+          "290",
+          "149",
+          "141",
+          "24"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "SAN MIGUEL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "VÍCTOR MANUEL BUENO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "82",
+          "1,302",
+          "629",
+          "673",
+          "126"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN CARLOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CORRALEJO",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "EL BARRANCO AZUL",
+          "3",
+          "87",
+          "37",
+          "50",
+          "8"
+        ],
+        [
+          "EL CARRICITO (CARRICITO DE LOS RETA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "EL CARRIZO DE URIEGAS",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "EL DIVISADERO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL GAVILÁN",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "5",
+          "189",
+          "92",
+          "97",
+          "12"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LA AURORA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA GARITA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "LA GAVIA",
+          "3",
+          "51",
+          "26",
+          "25",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LA NUEVA UNIÓN",
+          "2",
+          "36",
+          "20",
+          "16",
+          "3"
+        ],
+        [
+          "LA UNIÓN MORALES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "LOS ANGELITOS (ÁNGELES)",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LOS QUIOTES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "LOS VERGELES",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "MAGUEYES",
+          "4",
+          "111",
+          "50",
+          "61",
+          "14"
+        ],
+        [
+          "MANUEL LÓPEZ (SAN ANTONIO)",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3"
+        ],
+        [
+          "MARMOLEJO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "NORBERTO TREVIÑO ZAPATA (SANTA TERESA)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVO CAMACHO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVO PRAXEDIS BALBOA",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVO SAN ANTONIO",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "46",
+          "22",
+          "24",
+          "3"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6"
+        ],
+        [
+          "REDENCIÓN DEL CAMPESINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "RINCÓN MURILLO (RANCHO VIEJO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "SAN CARLOS",
+          "4",
+          "290",
+          "149",
+          "141",
+          "24"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "SAN MIGUEL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "VÍCTOR MANUEL BUENO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "82",
+          "1,302",
+          "629",
+          "673",
+          "126"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:49.144Z"
+}

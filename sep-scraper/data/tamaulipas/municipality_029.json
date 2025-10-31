@@ -1,0 +1,736 @@
+{
+  "municipality": "OCAMPO",
+  "municipalityCode": "029",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: OCAMPO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS (CHAMAL NUEVO)\n\t\t4\n\t\t294\n\t\t127\n\t\t167\n\t\t24\n\t\n\t\n\t\tALTAMIRA\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tCHAMAL VIEJO\n\t\t2\n\t\t61\n\t\t30\n\t\t31\n\t\t4\n\t\n\t\n\t\tCOAHUILA\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL PENSIL\n\t\t3\n\t\t194\n\t\t91\n\t\t103\n\t\t12\n\t\n\t\n\t\tEL TIGRE\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t3\n\t\n\t\n\t\tELIGIO TREVIÑO (EL BEJUCO)\n\t\t3\n\t\t14\n\t\t4\n\t\t10\n\t\t3\n\t\n\t\n\t\tFRANCISCO MEDRANO (LA MORITA)\n\t\t3\n\t\t64\n\t\t31\n\t\t33\n\t\t5\n\t\n\t\n\t\tLA ESPERANZA\n\t\t1\n\t\t34\n\t\t17\n\t\t17\n\t\t2\n\t\n\t\n\t\tLA MURALLA\n\t\t2\n\t\t45\n\t\t20\n\t\t25\n\t\t3\n\t\n\t\n\t\tLA SOLEDAD\n\t\t1\n\t\t12\n\t\t8\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS CANOAS\n\t\t3\n\t\t68\n\t\t29\n\t\t39\n\t\t7\n\t\n\t\n\t\tLAS FLORES\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tLIBRADO RIVERA (PROVIDENCIA)\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLORENZO VARGAS\n\t\t1\n\t\t17\n\t\t8\n\t\t9\n\t\t1\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t3\n\t\t52\n\t\t26\n\t\t26\n\t\t4\n\t\n\t\n\t\tOCAMPO\n\t\t11\n\t\t1,536\n\t\t739\n\t\t797\n\t\t108\n\t\n\t\n\t\tPASO REAL DE MORELOS (LA PUENTE)\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tPRÁXEDIS G. GUERRERO (CALLEJONES)\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tPRÁXEDIS G. GUERRERO (LA LAJA)\n\t\t3\n\t\t86\n\t\t42\n\t\t44\n\t\t7\n\t\n\t\n\t\tPROTASIO F. GUERRA (CORRALES)\n\t\t2\n\t\t24\n\t\t8\n\t\t16\n\t\t2\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t2\n\t\t31\n\t\t15\n\t\t16\n\t\t2\n\t\n\t\n\t\tRANCHO NUEVO (LEE TAYLOR)\n\t\t1\n\t\t4\n\t\t4\n\t\t0\n\t\t1\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t4\n\t\t229\n\t\t112\n\t\t117\n\t\t16\n\t\n\t\n\t\tSAN LORENZO (LAS BAYAS)\n\t\t1\n\t\t1\n\t\t1\n\t\t0\n\t\t1\n\t\n\t\n\t\tSAN LORENZO EL GRANDE\n\t\t3\n\t\t5\n\t\t3\n\t\t2\n\t\t2\n\t\n\t\n\t\tSANTA MARÍA DE GUADALUPE (LA COLONIA)\n\t\t3\n\t\t56\n\t\t27\n\t\t29\n\t\t4\n\t\n\t\n\t\tTANLAJÁS (LA ALHAJILLA)\n\t\t3\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE (LAS POZAS)\n\t\t2\n\t\t23\n\t\t16\n\t\t7\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t72\n\t\t2,993\n\t\t1,425\n\t\t1,568\n\t\t226\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: OCAMPO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS (CHAMAL NUEVO)",
+          "4",
+          "294",
+          "127",
+          "167",
+          "24",
+          "ALTAMIRA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "CHAMAL VIEJO",
+          "2",
+          "61",
+          "30",
+          "31",
+          "4",
+          "COAHUILA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "EL PENSIL",
+          "3",
+          "194",
+          "91",
+          "103",
+          "12",
+          "EL TIGRE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3",
+          "ELIGIO TREVIÑO (EL BEJUCO)",
+          "3",
+          "14",
+          "4",
+          "10",
+          "3",
+          "FRANCISCO MEDRANO (LA MORITA)",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5",
+          "LA ESPERANZA",
+          "1",
+          "34",
+          "17",
+          "17",
+          "2",
+          "LA MURALLA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "3",
+          "LA SOLEDAD",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1",
+          "LAS CANOAS",
+          "3",
+          "68",
+          "29",
+          "39",
+          "7",
+          "LAS FLORES",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "LIBRADO RIVERA (PROVIDENCIA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LORENZO VARGAS",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1",
+          "NICOLÁS BRAVO",
+          "3",
+          "52",
+          "26",
+          "26",
+          "4",
+          "OCAMPO",
+          "11",
+          "1,536",
+          "739",
+          "797",
+          "108",
+          "PASO REAL DE MORELOS (LA PUENTE)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "PRÁXEDIS G. GUERRERO (CALLEJONES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "PRÁXEDIS G. GUERRERO (LA LAJA)",
+          "3",
+          "86",
+          "42",
+          "44",
+          "7",
+          "PROTASIO F. GUERRA (CORRALES)",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2",
+          "PUEBLO VIEJO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2",
+          "RANCHO NUEVO (LEE TAYLOR)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1",
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "229",
+          "112",
+          "117",
+          "16",
+          "SAN LORENZO (LAS BAYAS)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1",
+          "SAN LORENZO EL GRANDE",
+          "3",
+          "5",
+          "3",
+          "2",
+          "2",
+          "SANTA MARÍA DE GUADALUPE (LA COLONIA)",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4",
+          "TANLAJÁS (LA ALHAJILLA)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3",
+          "VEINTE DE NOVIEMBRE (LAS POZAS)",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2",
+          "TOTAL",
+          "72",
+          "2,993",
+          "1,425",
+          "1,568",
+          "226",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (CHAMAL NUEVO)",
+          "4",
+          "294",
+          "127",
+          "167",
+          "24"
+        ],
+        [
+          "ALTAMIRA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "CHAMAL VIEJO",
+          "2",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "COAHUILA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "EL PENSIL",
+          "3",
+          "194",
+          "91",
+          "103",
+          "12"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "ELIGIO TREVIÑO (EL BEJUCO)",
+          "3",
+          "14",
+          "4",
+          "10",
+          "3"
+        ],
+        [
+          "FRANCISCO MEDRANO (LA MORITA)",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "34",
+          "17",
+          "17",
+          "2"
+        ],
+        [
+          "LA MURALLA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "LAS CANOAS",
+          "3",
+          "68",
+          "29",
+          "39",
+          "7"
+        ],
+        [
+          "LAS FLORES",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LIBRADO RIVERA (PROVIDENCIA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LORENZO VARGAS",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "52",
+          "26",
+          "26",
+          "4"
+        ],
+        [
+          "OCAMPO",
+          "11",
+          "1,536",
+          "739",
+          "797",
+          "108"
+        ],
+        [
+          "PASO REAL DE MORELOS (LA PUENTE)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "PRÁXEDIS G. GUERRERO (CALLEJONES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "PRÁXEDIS G. GUERRERO (LA LAJA)",
+          "3",
+          "86",
+          "42",
+          "44",
+          "7"
+        ],
+        [
+          "PROTASIO F. GUERRA (CORRALES)",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO (LEE TAYLOR)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "229",
+          "112",
+          "117",
+          "16"
+        ],
+        [
+          "SAN LORENZO (LAS BAYAS)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "SAN LORENZO EL GRANDE",
+          "3",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE (LA COLONIA)",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "TANLAJÁS (LA ALHAJILLA)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE (LAS POZAS)",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "72",
+          "2,993",
+          "1,425",
+          "1,568",
+          "226"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (CHAMAL NUEVO)",
+          "4",
+          "294",
+          "127",
+          "167",
+          "24"
+        ],
+        [
+          "ALTAMIRA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "CHAMAL VIEJO",
+          "2",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "COAHUILA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "EL PENSIL",
+          "3",
+          "194",
+          "91",
+          "103",
+          "12"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "ELIGIO TREVIÑO (EL BEJUCO)",
+          "3",
+          "14",
+          "4",
+          "10",
+          "3"
+        ],
+        [
+          "FRANCISCO MEDRANO (LA MORITA)",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "34",
+          "17",
+          "17",
+          "2"
+        ],
+        [
+          "LA MURALLA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "LAS CANOAS",
+          "3",
+          "68",
+          "29",
+          "39",
+          "7"
+        ],
+        [
+          "LAS FLORES",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LIBRADO RIVERA (PROVIDENCIA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LORENZO VARGAS",
+          "1",
+          "17",
+          "8",
+          "9",
+          "1"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "52",
+          "26",
+          "26",
+          "4"
+        ],
+        [
+          "OCAMPO",
+          "11",
+          "1,536",
+          "739",
+          "797",
+          "108"
+        ],
+        [
+          "PASO REAL DE MORELOS (LA PUENTE)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "PRÁXEDIS G. GUERRERO (CALLEJONES)",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "PRÁXEDIS G. GUERRERO (LA LAJA)",
+          "3",
+          "86",
+          "42",
+          "44",
+          "7"
+        ],
+        [
+          "PROTASIO F. GUERRA (CORRALES)",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO (LEE TAYLOR)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "229",
+          "112",
+          "117",
+          "16"
+        ],
+        [
+          "SAN LORENZO (LAS BAYAS)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "SAN LORENZO EL GRANDE",
+          "3",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE (LA COLONIA)",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "TANLAJÁS (LA ALHAJILLA)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE (LAS POZAS)",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "72",
+          "2,993",
+          "1,425",
+          "1,568",
+          "226"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:29.867Z"
+}

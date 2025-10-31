@@ -1,0 +1,538 @@
+{
+  "municipality": "MONTECRISTO DE GUERRERO",
+  "municipalityCode": "117",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MONTECRISTO DE GUERRERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tEL NOMINADO\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PALENQUE\n\t\t5\n\t\t91\n\t\t50\n\t\t41\n\t\t7\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t2\n\t\t74\n\t\t32\n\t\t42\n\t\t4\n\t\n\t\n\t\tLA CANDELARIA\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA LUCHA\n\t\t3\n\t\t71\n\t\t36\n\t\t35\n\t\t5\n\t\n\t\n\t\tLA OPINIÓN\n\t\t2\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tLAGUNA DEL COFRE\n\t\t4\n\t\t529\n\t\t274\n\t\t255\n\t\t21\n\t\n\t\n\t\tLLANO GRANDE\n\t\t3\n\t\t57\n\t\t25\n\t\t32\n\t\t4\n\t\n\t\n\t\tMONTE VIRGEN CANDELARIA\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tMONTECRISTO DE GUERRERO\n\t\t6\n\t\t979\n\t\t515\n\t\t464\n\t\t39\n\t\n\t\n\t\tNUEVO MILENIO TOLUCA\n\t\t2\n\t\t68\n\t\t33\n\t\t35\n\t\t4\n\t\n\t\n\t\tNUEVO MUNDO\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tNUEVO RÍO NEGRO\n\t\t2\n\t\t34\n\t\t22\n\t\t12\n\t\t3\n\t\n\t\n\t\tPUERTO RICO\n\t\t3\n\t\t175\n\t\t84\n\t\t91\n\t\t8\n\t\n\t\n\t\tRANCHO BONITO\n\t\t2\n\t\t24\n\t\t17\n\t\t7\n\t\t2\n\t\n\t\n\t\tREFORMA\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tRÍO NEGRO\n\t\t2\n\t\t15\n\t\t7\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN NICOLÁS PLAN DE AYUTLA\n\t\t2\n\t\t192\n\t\t105\n\t\t87\n\t\t9\n\t\n\t\n\t\tTOLUCA\n\t\t2\n\t\t38\n\t\t19\n\t\t19\n\t\t3\n\t\n\t\n\t\tVISTA ALEGRE\n\t\t3\n\t\t47\n\t\t25\n\t\t22\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t53\n\t\t2,519\n\t\t1,307\n\t\t1,212\n\t\t127\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MONTECRISTO DE GUERRERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "EL NOMINADO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL PALENQUE",
+          "5",
+          "91",
+          "50",
+          "41",
+          "7",
+          "EMILIANO ZAPATA",
+          "2",
+          "74",
+          "32",
+          "42",
+          "4",
+          "LA CANDELARIA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3",
+          "LA LUCHA",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5",
+          "LA OPINIÓN",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2",
+          "LAGUNA DEL COFRE",
+          "4",
+          "529",
+          "274",
+          "255",
+          "21",
+          "LLANO GRANDE",
+          "3",
+          "57",
+          "25",
+          "32",
+          "4",
+          "MONTE VIRGEN CANDELARIA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3",
+          "MONTECRISTO DE GUERRERO",
+          "6",
+          "979",
+          "515",
+          "464",
+          "39",
+          "NUEVO MILENIO TOLUCA",
+          "2",
+          "68",
+          "33",
+          "35",
+          "4",
+          "NUEVO MUNDO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "NUEVO RÍO NEGRO",
+          "2",
+          "34",
+          "22",
+          "12",
+          "3",
+          "PUERTO RICO",
+          "3",
+          "175",
+          "84",
+          "91",
+          "8",
+          "RANCHO BONITO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2",
+          "REFORMA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "RÍO NEGRO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2",
+          "SAN NICOLÁS PLAN DE AYUTLA",
+          "2",
+          "192",
+          "105",
+          "87",
+          "9",
+          "TOLUCA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3",
+          "VISTA ALEGRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "3",
+          "TOTAL",
+          "53",
+          "2,519",
+          "1,307",
+          "1,212",
+          "127",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MONTECRISTO DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL NOMINADO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PALENQUE",
+          "5",
+          "91",
+          "50",
+          "41",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "74",
+          "32",
+          "42",
+          "4"
+        ],
+        [
+          "LA CANDELARIA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "LA LUCHA",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5"
+        ],
+        [
+          "LA OPINIÓN",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "LAGUNA DEL COFRE",
+          "4",
+          "529",
+          "274",
+          "255",
+          "21"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "57",
+          "25",
+          "32",
+          "4"
+        ],
+        [
+          "MONTE VIRGEN CANDELARIA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "MONTECRISTO DE GUERRERO",
+          "6",
+          "979",
+          "515",
+          "464",
+          "39"
+        ],
+        [
+          "NUEVO MILENIO TOLUCA",
+          "2",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "NUEVO MUNDO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "NUEVO RÍO NEGRO",
+          "2",
+          "34",
+          "22",
+          "12",
+          "3"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "175",
+          "84",
+          "91",
+          "8"
+        ],
+        [
+          "RANCHO BONITO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "RÍO NEGRO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS PLAN DE AYUTLA",
+          "2",
+          "192",
+          "105",
+          "87",
+          "9"
+        ],
+        [
+          "TOLUCA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "VISTA ALEGRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "53",
+          "2,519",
+          "1,307",
+          "1,212",
+          "127"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MONTECRISTO DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "EL NOMINADO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PALENQUE",
+          "5",
+          "91",
+          "50",
+          "41",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "74",
+          "32",
+          "42",
+          "4"
+        ],
+        [
+          "LA CANDELARIA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "LA LUCHA",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5"
+        ],
+        [
+          "LA OPINIÓN",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "LAGUNA DEL COFRE",
+          "4",
+          "529",
+          "274",
+          "255",
+          "21"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "57",
+          "25",
+          "32",
+          "4"
+        ],
+        [
+          "MONTE VIRGEN CANDELARIA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "MONTECRISTO DE GUERRERO",
+          "6",
+          "979",
+          "515",
+          "464",
+          "39"
+        ],
+        [
+          "NUEVO MILENIO TOLUCA",
+          "2",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "NUEVO MUNDO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "NUEVO RÍO NEGRO",
+          "2",
+          "34",
+          "22",
+          "12",
+          "3"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "175",
+          "84",
+          "91",
+          "8"
+        ],
+        [
+          "RANCHO BONITO",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "RÍO NEGRO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS PLAN DE AYUTLA",
+          "2",
+          "192",
+          "105",
+          "87",
+          "9"
+        ],
+        [
+          "TOLUCA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "VISTA ALEGRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "53",
+          "2,519",
+          "1,307",
+          "1,212",
+          "127"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:23.100Z"
+}

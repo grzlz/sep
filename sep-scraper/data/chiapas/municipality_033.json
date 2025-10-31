@@ -1,0 +1,714 @@
+{
+  "municipality": "FRANCISCO LEÓN",
+  "municipalityCode": "033",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: FRANCISCO LEÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO CARACOL (MONTE DE OLIVO)\n\t\t3\n\t\t62\n\t\t33\n\t\t29\n\t\t4\n\t\n\t\n\t\tARROYO SANGRE\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tAZAPAC AMATAL\n\t\t5\n\t\t197\n\t\t107\n\t\t90\n\t\t12\n\t\n\t\n\t\tCANDELARIA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tCARRIZAL\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL GAVILÁN\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tGUADALUPE SARDINA\n\t\t3\n\t\t71\n\t\t30\n\t\t41\n\t\t4\n\t\n\t\n\t\tLAS CRUCES\n\t\t3\n\t\t36\n\t\t18\n\t\t18\n\t\t4\n\t\n\t\n\t\tNARANJO\n\t\t3\n\t\t160\n\t\t72\n\t\t88\n\t\t8\n\t\n\t\n\t\tNUEVA CANDELARIA\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t3\n\t\n\t\n\t\tNUEVA TRINIDAD (TZIMBAC)\n\t\t3\n\t\t24\n\t\t7\n\t\t17\n\t\t3\n\t\n\t\n\t\tNUEVO CARMEN\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tNUEVO CRISTO REY\n\t\t3\n\t\t116\n\t\t58\n\t\t58\n\t\t6\n\t\n\t\n\t\tNUEVO PARAÍSO\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t3\n\t\n\t\n\t\tNUEVO TILA\n\t\t2\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tPARAÍSO\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tRÍO NEGRO\n\t\t3\n\t\t79\n\t\t36\n\t\t43\n\t\t5\n\t\n\t\n\t\tRIVERA EL VIEJO CARMEN\n\t\t5\n\t\t300\n\t\t152\n\t\t148\n\t\t15\n\t\n\t\n\t\tSAN ANTONIO MASPAC\n\t\t2\n\t\t39\n\t\t21\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ MASPAC\n\t\t4\n\t\t346\n\t\t166\n\t\t180\n\t\t15\n\t\n\t\n\t\tSAN MIGUEL\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL BUENAVISTA\n\t\t2\n\t\t12\n\t\t4\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL LA SARDINA\n\t\t5\n\t\t421\n\t\t202\n\t\t219\n\t\t17\n\t\n\t\n\t\tSAN PABLO TUMBAC\n\t\t2\n\t\t36\n\t\t12\n\t\t24\n\t\t2\n\t\n\t\n\t\tSANTA MARTHA\n\t\t3\n\t\t31\n\t\t14\n\t\t17\n\t\t4\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tSIETE ARROYOS (EL AMPARO)\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t5\n\t\t239\n\t\t104\n\t\t135\n\t\t13\n\t\n\t\n\t\tTOTAL\n\t\t75\n\t\t2,369\n\t\t1,135\n\t\t1,234\n\t\t139\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: FRANCISCO LEÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO CARACOL (MONTE DE OLIVO)",
+          "3",
+          "62",
+          "33",
+          "29",
+          "4",
+          "ARROYO SANGRE",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "AZAPAC AMATAL",
+          "5",
+          "197",
+          "107",
+          "90",
+          "12",
+          "CANDELARIA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "CARRIZAL",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3",
+          "EL GAVILÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "GUADALUPE SARDINA",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4",
+          "LAS CRUCES",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4",
+          "NARANJO",
+          "3",
+          "160",
+          "72",
+          "88",
+          "8",
+          "NUEVA CANDELARIA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3",
+          "NUEVA TRINIDAD (TZIMBAC)",
+          "3",
+          "24",
+          "7",
+          "17",
+          "3",
+          "NUEVO CARMEN",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "NUEVO CRISTO REY",
+          "3",
+          "116",
+          "58",
+          "58",
+          "6",
+          "NUEVO PARAÍSO",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3",
+          "NUEVO TILA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2",
+          "PARAÍSO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2",
+          "RÍO NEGRO",
+          "3",
+          "79",
+          "36",
+          "43",
+          "5",
+          "RIVERA EL VIEJO CARMEN",
+          "5",
+          "300",
+          "152",
+          "148",
+          "15",
+          "SAN ANTONIO MASPAC",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2",
+          "SAN JOSÉ MASPAC",
+          "4",
+          "346",
+          "166",
+          "180",
+          "15",
+          "SAN MIGUEL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "SAN MIGUEL BUENAVISTA",
+          "2",
+          "12",
+          "4",
+          "8",
+          "2",
+          "SAN MIGUEL LA SARDINA",
+          "5",
+          "421",
+          "202",
+          "219",
+          "17",
+          "SAN PABLO TUMBAC",
+          "2",
+          "36",
+          "12",
+          "24",
+          "2",
+          "SANTA MARTHA",
+          "3",
+          "31",
+          "14",
+          "17",
+          "4",
+          "SANTO DOMINGO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "SIETE ARROYOS (EL AMPARO)",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2",
+          "VICENTE GUERRERO",
+          "5",
+          "239",
+          "104",
+          "135",
+          "13",
+          "TOTAL",
+          "75",
+          "2,369",
+          "1,135",
+          "1,234",
+          "139",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: FRANCISCO LEÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO CARACOL (MONTE DE OLIVO)",
+          "3",
+          "62",
+          "33",
+          "29",
+          "4"
+        ],
+        [
+          "ARROYO SANGRE",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "AZAPAC AMATAL",
+          "5",
+          "197",
+          "107",
+          "90",
+          "12"
+        ],
+        [
+          "CANDELARIA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CARRIZAL",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "GUADALUPE SARDINA",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "NARANJO",
+          "3",
+          "160",
+          "72",
+          "88",
+          "8"
+        ],
+        [
+          "NUEVA CANDELARIA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "NUEVA TRINIDAD (TZIMBAC)",
+          "3",
+          "24",
+          "7",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVO CARMEN",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO CRISTO REY",
+          "3",
+          "116",
+          "58",
+          "58",
+          "6"
+        ],
+        [
+          "NUEVO PARAÍSO",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "NUEVO TILA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "PARAÍSO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "RÍO NEGRO",
+          "3",
+          "79",
+          "36",
+          "43",
+          "5"
+        ],
+        [
+          "RIVERA EL VIEJO CARMEN",
+          "5",
+          "300",
+          "152",
+          "148",
+          "15"
+        ],
+        [
+          "SAN ANTONIO MASPAC",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "SAN JOSÉ MASPAC",
+          "4",
+          "346",
+          "166",
+          "180",
+          "15"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "SAN MIGUEL BUENAVISTA",
+          "2",
+          "12",
+          "4",
+          "8",
+          "2"
+        ],
+        [
+          "SAN MIGUEL LA SARDINA",
+          "5",
+          "421",
+          "202",
+          "219",
+          "17"
+        ],
+        [
+          "SAN PABLO TUMBAC",
+          "2",
+          "36",
+          "12",
+          "24",
+          "2"
+        ],
+        [
+          "SANTA MARTHA",
+          "3",
+          "31",
+          "14",
+          "17",
+          "4"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "SIETE ARROYOS (EL AMPARO)",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "5",
+          "239",
+          "104",
+          "135",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "75",
+          "2,369",
+          "1,135",
+          "1,234",
+          "139"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: FRANCISCO LEÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO CARACOL (MONTE DE OLIVO)",
+          "3",
+          "62",
+          "33",
+          "29",
+          "4"
+        ],
+        [
+          "ARROYO SANGRE",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "AZAPAC AMATAL",
+          "5",
+          "197",
+          "107",
+          "90",
+          "12"
+        ],
+        [
+          "CANDELARIA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CARRIZAL",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "GUADALUPE SARDINA",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "NARANJO",
+          "3",
+          "160",
+          "72",
+          "88",
+          "8"
+        ],
+        [
+          "NUEVA CANDELARIA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "NUEVA TRINIDAD (TZIMBAC)",
+          "3",
+          "24",
+          "7",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVO CARMEN",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO CRISTO REY",
+          "3",
+          "116",
+          "58",
+          "58",
+          "6"
+        ],
+        [
+          "NUEVO PARAÍSO",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "NUEVO TILA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "PARAÍSO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "RÍO NEGRO",
+          "3",
+          "79",
+          "36",
+          "43",
+          "5"
+        ],
+        [
+          "RIVERA EL VIEJO CARMEN",
+          "5",
+          "300",
+          "152",
+          "148",
+          "15"
+        ],
+        [
+          "SAN ANTONIO MASPAC",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "SAN JOSÉ MASPAC",
+          "4",
+          "346",
+          "166",
+          "180",
+          "15"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "SAN MIGUEL BUENAVISTA",
+          "2",
+          "12",
+          "4",
+          "8",
+          "2"
+        ],
+        [
+          "SAN MIGUEL LA SARDINA",
+          "5",
+          "421",
+          "202",
+          "219",
+          "17"
+        ],
+        [
+          "SAN PABLO TUMBAC",
+          "2",
+          "36",
+          "12",
+          "24",
+          "2"
+        ],
+        [
+          "SANTA MARTHA",
+          "3",
+          "31",
+          "14",
+          "17",
+          "4"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "SIETE ARROYOS (EL AMPARO)",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "5",
+          "239",
+          "104",
+          "135",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "75",
+          "2,369",
+          "1,135",
+          "1,234",
+          "139"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:22.267Z"
+}

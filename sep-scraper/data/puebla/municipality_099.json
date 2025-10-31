@@ -1,0 +1,648 @@
+{
+  "municipality": "CAÑADA MORELOS",
+  "municipalityCode": "099",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CAÑADA MORELOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE GUADALUPE\n\t\t2\n\t\t42\n\t\t22\n\t\t20\n\t\t2\n\t\n\t\n\t\tBARRIO LA SOLEDAD\n\t\t3\n\t\t142\n\t\t65\n\t\t77\n\t\t8\n\t\n\t\n\t\tBOCA NOPAL\n\t\t4\n\t\t247\n\t\t103\n\t\t144\n\t\t12\n\t\n\t\n\t\tBUENA VISTA\n\t\t4\n\t\t283\n\t\t161\n\t\t122\n\t\t17\n\t\n\t\n\t\tCENTRO DE AHUATEPEC (EL PILANCÓN)\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tCERRO GORDO\n\t\t3\n\t\t81\n\t\t49\n\t\t32\n\t\t5\n\t\n\t\n\t\tEL CALVARIO\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tEL LLANO TEMAXCALAPA\n\t\t2\n\t\t13\n\t\t2\n\t\t11\n\t\t2\n\t\n\t\n\t\tGUADALUPE FRESNAL\n\t\t4\n\t\t188\n\t\t106\n\t\t82\n\t\t10\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t125\n\t\t52\n\t\t73\n\t\t6\n\t\n\t\n\t\tLLANO GRANDE AHUATEPEC\n\t\t4\n\t\t167\n\t\t91\n\t\t76\n\t\t10\n\t\n\t\n\t\tLLANO GRANDE IXTAPA\n\t\t2\n\t\t52\n\t\t25\n\t\t27\n\t\t3\n\t\n\t\n\t\tLOMA BONITA\n\t\t3\n\t\t38\n\t\t16\n\t\t22\n\t\t5\n\t\n\t\n\t\tLOS GARCÍAS\n\t\t4\n\t\t275\n\t\t128\n\t\t147\n\t\t13\n\t\n\t\n\t\tMORELOS CAÑADA\n\t\t6\n\t\t1,385\n\t\t726\n\t\t659\n\t\t59\n\t\n\t\n\t\tPUERTA CAÑADA\n\t\t3\n\t\t122\n\t\t54\n\t\t68\n\t\t7\n\t\n\t\n\t\tSAN ANTONIO SOLEDAD\n\t\t4\n\t\t574\n\t\t275\n\t\t299\n\t\t23\n\t\n\t\n\t\tSAN CAYETANO\n\t\t3\n\t\t27\n\t\t16\n\t\t11\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ IXTAPA\n\t\t5\n\t\t870\n\t\t430\n\t\t440\n\t\t35\n\t\n\t\n\t\tSAN LUCAS\n\t\t1\n\t\t47\n\t\t29\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL CUESTA CHICA\n\t\t3\n\t\t77\n\t\t38\n\t\t39\n\t\t4\n\t\n\t\n\t\tSANTA ANA OCOTEPEC\n\t\t1\n\t\t38\n\t\t27\n\t\t11\n\t\t3\n\t\n\t\n\t\tSANTA CRUZ SOLEDAD\n\t\t4\n\t\t236\n\t\t116\n\t\t120\n\t\t10\n\t\n\t\n\t\tTEMAXCALAPA\n\t\t3\n\t\t128\n\t\t63\n\t\t65\n\t\t7\n\t\n\t\n\t\tTEZUAPAN (SAN ISIDRO)\n\t\t3\n\t\t205\n\t\t107\n\t\t98\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t77\n\t\t5,397\n\t\t2,718\n\t\t2,679\n\t\t262\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CAÑADA MORELOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE GUADALUPE",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2",
+          "BARRIO LA SOLEDAD",
+          "3",
+          "142",
+          "65",
+          "77",
+          "8",
+          "BOCA NOPAL",
+          "4",
+          "247",
+          "103",
+          "144",
+          "12",
+          "BUENA VISTA",
+          "4",
+          "283",
+          "161",
+          "122",
+          "17",
+          "CENTRO DE AHUATEPEC (EL PILANCÓN)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "CERRO GORDO",
+          "3",
+          "81",
+          "49",
+          "32",
+          "5",
+          "EL CALVARIO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3",
+          "EL LLANO TEMAXCALAPA",
+          "2",
+          "13",
+          "2",
+          "11",
+          "2",
+          "GUADALUPE FRESNAL",
+          "4",
+          "188",
+          "106",
+          "82",
+          "10",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "125",
+          "52",
+          "73",
+          "6",
+          "LLANO GRANDE AHUATEPEC",
+          "4",
+          "167",
+          "91",
+          "76",
+          "10",
+          "LLANO GRANDE IXTAPA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3",
+          "LOMA BONITA",
+          "3",
+          "38",
+          "16",
+          "22",
+          "5",
+          "LOS GARCÍAS",
+          "4",
+          "275",
+          "128",
+          "147",
+          "13",
+          "MORELOS CAÑADA",
+          "6",
+          "1,385",
+          "726",
+          "659",
+          "59",
+          "PUERTA CAÑADA",
+          "3",
+          "122",
+          "54",
+          "68",
+          "7",
+          "SAN ANTONIO SOLEDAD",
+          "4",
+          "574",
+          "275",
+          "299",
+          "23",
+          "SAN CAYETANO",
+          "3",
+          "27",
+          "16",
+          "11",
+          "4",
+          "SAN JOSÉ IXTAPA",
+          "5",
+          "870",
+          "430",
+          "440",
+          "35",
+          "SAN LUCAS",
+          "1",
+          "47",
+          "29",
+          "18",
+          "2",
+          "SAN MIGUEL CUESTA CHICA",
+          "3",
+          "77",
+          "38",
+          "39",
+          "4",
+          "SANTA ANA OCOTEPEC",
+          "1",
+          "38",
+          "27",
+          "11",
+          "3",
+          "SANTA CRUZ SOLEDAD",
+          "4",
+          "236",
+          "116",
+          "120",
+          "10",
+          "TEMAXCALAPA",
+          "3",
+          "128",
+          "63",
+          "65",
+          "7",
+          "TEZUAPAN (SAN ISIDRO)",
+          "3",
+          "205",
+          "107",
+          "98",
+          "11",
+          "TOTAL",
+          "77",
+          "5,397",
+          "2,718",
+          "2,679",
+          "262",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CAÑADA MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "BARRIO LA SOLEDAD",
+          "3",
+          "142",
+          "65",
+          "77",
+          "8"
+        ],
+        [
+          "BOCA NOPAL",
+          "4",
+          "247",
+          "103",
+          "144",
+          "12"
+        ],
+        [
+          "BUENA VISTA",
+          "4",
+          "283",
+          "161",
+          "122",
+          "17"
+        ],
+        [
+          "CENTRO DE AHUATEPEC (EL PILANCÓN)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CERRO GORDO",
+          "3",
+          "81",
+          "49",
+          "32",
+          "5"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "EL LLANO TEMAXCALAPA",
+          "2",
+          "13",
+          "2",
+          "11",
+          "2"
+        ],
+        [
+          "GUADALUPE FRESNAL",
+          "4",
+          "188",
+          "106",
+          "82",
+          "10"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "125",
+          "52",
+          "73",
+          "6"
+        ],
+        [
+          "LLANO GRANDE AHUATEPEC",
+          "4",
+          "167",
+          "91",
+          "76",
+          "10"
+        ],
+        [
+          "LLANO GRANDE IXTAPA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "38",
+          "16",
+          "22",
+          "5"
+        ],
+        [
+          "LOS GARCÍAS",
+          "4",
+          "275",
+          "128",
+          "147",
+          "13"
+        ],
+        [
+          "MORELOS CAÑADA",
+          "6",
+          "1,385",
+          "726",
+          "659",
+          "59"
+        ],
+        [
+          "PUERTA CAÑADA",
+          "3",
+          "122",
+          "54",
+          "68",
+          "7"
+        ],
+        [
+          "SAN ANTONIO SOLEDAD",
+          "4",
+          "574",
+          "275",
+          "299",
+          "23"
+        ],
+        [
+          "SAN CAYETANO",
+          "3",
+          "27",
+          "16",
+          "11",
+          "4"
+        ],
+        [
+          "SAN JOSÉ IXTAPA",
+          "5",
+          "870",
+          "430",
+          "440",
+          "35"
+        ],
+        [
+          "SAN LUCAS",
+          "1",
+          "47",
+          "29",
+          "18",
+          "2"
+        ],
+        [
+          "SAN MIGUEL CUESTA CHICA",
+          "3",
+          "77",
+          "38",
+          "39",
+          "4"
+        ],
+        [
+          "SANTA ANA OCOTEPEC",
+          "1",
+          "38",
+          "27",
+          "11",
+          "3"
+        ],
+        [
+          "SANTA CRUZ SOLEDAD",
+          "4",
+          "236",
+          "116",
+          "120",
+          "10"
+        ],
+        [
+          "TEMAXCALAPA",
+          "3",
+          "128",
+          "63",
+          "65",
+          "7"
+        ],
+        [
+          "TEZUAPAN (SAN ISIDRO)",
+          "3",
+          "205",
+          "107",
+          "98",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "5,397",
+          "2,718",
+          "2,679",
+          "262"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CAÑADA MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "BARRIO LA SOLEDAD",
+          "3",
+          "142",
+          "65",
+          "77",
+          "8"
+        ],
+        [
+          "BOCA NOPAL",
+          "4",
+          "247",
+          "103",
+          "144",
+          "12"
+        ],
+        [
+          "BUENA VISTA",
+          "4",
+          "283",
+          "161",
+          "122",
+          "17"
+        ],
+        [
+          "CENTRO DE AHUATEPEC (EL PILANCÓN)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CERRO GORDO",
+          "3",
+          "81",
+          "49",
+          "32",
+          "5"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "EL LLANO TEMAXCALAPA",
+          "2",
+          "13",
+          "2",
+          "11",
+          "2"
+        ],
+        [
+          "GUADALUPE FRESNAL",
+          "4",
+          "188",
+          "106",
+          "82",
+          "10"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "125",
+          "52",
+          "73",
+          "6"
+        ],
+        [
+          "LLANO GRANDE AHUATEPEC",
+          "4",
+          "167",
+          "91",
+          "76",
+          "10"
+        ],
+        [
+          "LLANO GRANDE IXTAPA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "38",
+          "16",
+          "22",
+          "5"
+        ],
+        [
+          "LOS GARCÍAS",
+          "4",
+          "275",
+          "128",
+          "147",
+          "13"
+        ],
+        [
+          "MORELOS CAÑADA",
+          "6",
+          "1,385",
+          "726",
+          "659",
+          "59"
+        ],
+        [
+          "PUERTA CAÑADA",
+          "3",
+          "122",
+          "54",
+          "68",
+          "7"
+        ],
+        [
+          "SAN ANTONIO SOLEDAD",
+          "4",
+          "574",
+          "275",
+          "299",
+          "23"
+        ],
+        [
+          "SAN CAYETANO",
+          "3",
+          "27",
+          "16",
+          "11",
+          "4"
+        ],
+        [
+          "SAN JOSÉ IXTAPA",
+          "5",
+          "870",
+          "430",
+          "440",
+          "35"
+        ],
+        [
+          "SAN LUCAS",
+          "1",
+          "47",
+          "29",
+          "18",
+          "2"
+        ],
+        [
+          "SAN MIGUEL CUESTA CHICA",
+          "3",
+          "77",
+          "38",
+          "39",
+          "4"
+        ],
+        [
+          "SANTA ANA OCOTEPEC",
+          "1",
+          "38",
+          "27",
+          "11",
+          "3"
+        ],
+        [
+          "SANTA CRUZ SOLEDAD",
+          "4",
+          "236",
+          "116",
+          "120",
+          "10"
+        ],
+        [
+          "TEMAXCALAPA",
+          "3",
+          "128",
+          "63",
+          "65",
+          "7"
+        ],
+        [
+          "TEZUAPAN (SAN ISIDRO)",
+          "3",
+          "205",
+          "107",
+          "98",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "5,397",
+          "2,718",
+          "2,679",
+          "262"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:24.318Z"
+}

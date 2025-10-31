@@ -1,0 +1,736 @@
+{
+  "municipality": "MORELOS",
+  "municipalityCode": "056",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: MORELOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO CUARTO (LA LOMA)\n\t\t3\n\t\t689\n\t\t320\n\t\t369\n\t\t28\n\t\n\t\n\t\tBARRIO DE XICANI\n\t\t2\n\t\t38\n\t\t6\n\t\t32\n\t\t4\n\t\n\t\n\t\tBARRIO PRIMERO (LA CALAVERA)\n\t\t4\n\t\t638\n\t\t306\n\t\t332\n\t\t44\n\t\n\t\n\t\tBARRIO TERCERO\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tCAXBONCUAC\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t4\n\t\n\t\n\t\tEJIDO DE SAN ANTONIO\n\t\t2\n\t\t69\n\t\t37\n\t\t32\n\t\t7\n\t\n\t\n\t\tEJIDO SANTA CLARA\n\t\t3\n\t\t18\n\t\t10\n\t\t8\n\t\t3\n\t\n\t\n\t\tEL REINO\n\t\t3\n\t\t32\n\t\t14\n\t\t18\n\t\t4\n\t\n\t\n\t\tLA BELTRÁN\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA CAÑADA\n\t\t2\n\t\t19\n\t\t4\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA CAÑADA (SAN MARCOS TLAZALPAN)\n\t\t2\n\t\t54\n\t\t28\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA CRUZ (SAN SIMÓN LA CRUZ)\n\t\t3\n\t\t52\n\t\t22\n\t\t30\n\t\t4\n\t\n\t\n\t\tLA FINCA\n\t\t2\n\t\t60\n\t\t34\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA LAGUNILLA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tLAGUNA SECA\n\t\t5\n\t\t151\n\t\t69\n\t\t82\n\t\t10\n\t\n\t\n\t\tLOMA DE BUENAVISTA\n\t\t2\n\t\t95\n\t\t53\n\t\t42\n\t\t5\n\t\n\t\n\t\tRANCHERÍA SAN ANTONIO\n\t\t3\n\t\t44\n\t\t26\n\t\t18\n\t\t3\n\t\n\t\n\t\tRANCHO LA MALINCHE\n\t\t1\n\t\t61\n\t\t31\n\t\t30\n\t\t6\n\t\n\t\n\t\tSAN BARTOLO MORELOS\n\t\t9\n\t\t1,324\n\t\t681\n\t\t643\n\t\t67\n\t\n\t\n\t\tSAN GREGORIO MACAPEXCO\n\t\t7\n\t\t270\n\t\t135\n\t\t135\n\t\t16\n\t\n\t\n\t\tSAN JOSÉ EL QUELITE\n\t\t4\n\t\t81\n\t\t43\n\t\t38\n\t\t9\n\t\n\t\n\t\tSAN JOSÉ LA EPIFANIA\n\t\t3\n\t\t179\n\t\t89\n\t\t90\n\t\t11\n\t\n\t\n\t\tSAN LORENZO MALACOTA\n\t\t9\n\t\t984\n\t\t499\n\t\t485\n\t\t54\n\t\n\t\n\t\tSAN MARCOS TLAZALPAN\n\t\t7\n\t\t1,023\n\t\t523\n\t\t500\n\t\t58\n\t\n\t\n\t\tSAN SEBASTIÁN BUENOS AIRES (SAN SEBASTIÁN)\n\t\t10\n\t\t973\n\t\t463\n\t\t510\n\t\t47\n\t\n\t\n\t\tSANTA CLARA DE JUÁREZ\n\t\t9\n\t\t1,370\n\t\t663\n\t\t707\n\t\t79\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t144\n\t\t65\n\t\t79\n\t\t9\n\t\n\t\n\t\tTLALPUJAHUILLA\n\t\t4\n\t\t114\n\t\t54\n\t\t60\n\t\t7\n\t\n\t\n\t\tXHINTE DE LAGOS\n\t\t3\n\t\t198\n\t\t96\n\t\t102\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t112\n\t\t8,761\n\t\t4,310\n\t\t4,451\n\t\t502\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: MORELOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO CUARTO (LA LOMA)",
+          "3",
+          "689",
+          "320",
+          "369",
+          "28",
+          "BARRIO DE XICANI",
+          "2",
+          "38",
+          "6",
+          "32",
+          "4",
+          "BARRIO PRIMERO (LA CALAVERA)",
+          "4",
+          "638",
+          "306",
+          "332",
+          "44",
+          "BARRIO TERCERO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "CAXBONCUAC",
+          "3",
+          "28",
+          "14",
+          "14",
+          "4",
+          "EJIDO DE SAN ANTONIO",
+          "2",
+          "69",
+          "37",
+          "32",
+          "7",
+          "EJIDO SANTA CLARA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "3",
+          "EL REINO",
+          "3",
+          "32",
+          "14",
+          "18",
+          "4",
+          "LA BELTRÁN",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2",
+          "LA CAÑADA",
+          "2",
+          "19",
+          "4",
+          "15",
+          "2",
+          "LA CAÑADA (SAN MARCOS TLAZALPAN)",
+          "2",
+          "54",
+          "28",
+          "26",
+          "3",
+          "LA CRUZ (SAN SIMÓN LA CRUZ)",
+          "3",
+          "52",
+          "22",
+          "30",
+          "4",
+          "LA FINCA",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3",
+          "LA LAGUNILLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "LAGUNA SECA",
+          "5",
+          "151",
+          "69",
+          "82",
+          "10",
+          "LOMA DE BUENAVISTA",
+          "2",
+          "95",
+          "53",
+          "42",
+          "5",
+          "RANCHERÍA SAN ANTONIO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3",
+          "RANCHO LA MALINCHE",
+          "1",
+          "61",
+          "31",
+          "30",
+          "6",
+          "SAN BARTOLO MORELOS",
+          "9",
+          "1,324",
+          "681",
+          "643",
+          "67",
+          "SAN GREGORIO MACAPEXCO",
+          "7",
+          "270",
+          "135",
+          "135",
+          "16",
+          "SAN JOSÉ EL QUELITE",
+          "4",
+          "81",
+          "43",
+          "38",
+          "9",
+          "SAN JOSÉ LA EPIFANIA",
+          "3",
+          "179",
+          "89",
+          "90",
+          "11",
+          "SAN LORENZO MALACOTA",
+          "9",
+          "984",
+          "499",
+          "485",
+          "54",
+          "SAN MARCOS TLAZALPAN",
+          "7",
+          "1,023",
+          "523",
+          "500",
+          "58",
+          "SAN SEBASTIÁN BUENOS AIRES (SAN SEBASTIÁN)",
+          "10",
+          "973",
+          "463",
+          "510",
+          "47",
+          "SANTA CLARA DE JUÁREZ",
+          "9",
+          "1,370",
+          "663",
+          "707",
+          "79",
+          "SANTA CRUZ",
+          "2",
+          "144",
+          "65",
+          "79",
+          "9",
+          "TLALPUJAHUILLA",
+          "4",
+          "114",
+          "54",
+          "60",
+          "7",
+          "XHINTE DE LAGOS",
+          "3",
+          "198",
+          "96",
+          "102",
+          "10",
+          "TOTAL",
+          "112",
+          "8,761",
+          "4,310",
+          "4,451",
+          "502",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO CUARTO (LA LOMA)",
+          "3",
+          "689",
+          "320",
+          "369",
+          "28"
+        ],
+        [
+          "BARRIO DE XICANI",
+          "2",
+          "38",
+          "6",
+          "32",
+          "4"
+        ],
+        [
+          "BARRIO PRIMERO (LA CALAVERA)",
+          "4",
+          "638",
+          "306",
+          "332",
+          "44"
+        ],
+        [
+          "BARRIO TERCERO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "CAXBONCUAC",
+          "3",
+          "28",
+          "14",
+          "14",
+          "4"
+        ],
+        [
+          "EJIDO DE SAN ANTONIO",
+          "2",
+          "69",
+          "37",
+          "32",
+          "7"
+        ],
+        [
+          "EJIDO SANTA CLARA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "3"
+        ],
+        [
+          "EL REINO",
+          "3",
+          "32",
+          "14",
+          "18",
+          "4"
+        ],
+        [
+          "LA BELTRÁN",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "19",
+          "4",
+          "15",
+          "2"
+        ],
+        [
+          "LA CAÑADA (SAN MARCOS TLAZALPAN)",
+          "2",
+          "54",
+          "28",
+          "26",
+          "3"
+        ],
+        [
+          "LA CRUZ (SAN SIMÓN LA CRUZ)",
+          "3",
+          "52",
+          "22",
+          "30",
+          "4"
+        ],
+        [
+          "LA FINCA",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3"
+        ],
+        [
+          "LA LAGUNILLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LAGUNA SECA",
+          "5",
+          "151",
+          "69",
+          "82",
+          "10"
+        ],
+        [
+          "LOMA DE BUENAVISTA",
+          "2",
+          "95",
+          "53",
+          "42",
+          "5"
+        ],
+        [
+          "RANCHERÍA SAN ANTONIO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "RANCHO LA MALINCHE",
+          "1",
+          "61",
+          "31",
+          "30",
+          "6"
+        ],
+        [
+          "SAN BARTOLO MORELOS",
+          "9",
+          "1,324",
+          "681",
+          "643",
+          "67"
+        ],
+        [
+          "SAN GREGORIO MACAPEXCO",
+          "7",
+          "270",
+          "135",
+          "135",
+          "16"
+        ],
+        [
+          "SAN JOSÉ EL QUELITE",
+          "4",
+          "81",
+          "43",
+          "38",
+          "9"
+        ],
+        [
+          "SAN JOSÉ LA EPIFANIA",
+          "3",
+          "179",
+          "89",
+          "90",
+          "11"
+        ],
+        [
+          "SAN LORENZO MALACOTA",
+          "9",
+          "984",
+          "499",
+          "485",
+          "54"
+        ],
+        [
+          "SAN MARCOS TLAZALPAN",
+          "7",
+          "1,023",
+          "523",
+          "500",
+          "58"
+        ],
+        [
+          "SAN SEBASTIÁN BUENOS AIRES (SAN SEBASTIÁN)",
+          "10",
+          "973",
+          "463",
+          "510",
+          "47"
+        ],
+        [
+          "SANTA CLARA DE JUÁREZ",
+          "9",
+          "1,370",
+          "663",
+          "707",
+          "79"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "144",
+          "65",
+          "79",
+          "9"
+        ],
+        [
+          "TLALPUJAHUILLA",
+          "4",
+          "114",
+          "54",
+          "60",
+          "7"
+        ],
+        [
+          "XHINTE DE LAGOS",
+          "3",
+          "198",
+          "96",
+          "102",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "112",
+          "8,761",
+          "4,310",
+          "4,451",
+          "502"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO CUARTO (LA LOMA)",
+          "3",
+          "689",
+          "320",
+          "369",
+          "28"
+        ],
+        [
+          "BARRIO DE XICANI",
+          "2",
+          "38",
+          "6",
+          "32",
+          "4"
+        ],
+        [
+          "BARRIO PRIMERO (LA CALAVERA)",
+          "4",
+          "638",
+          "306",
+          "332",
+          "44"
+        ],
+        [
+          "BARRIO TERCERO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "CAXBONCUAC",
+          "3",
+          "28",
+          "14",
+          "14",
+          "4"
+        ],
+        [
+          "EJIDO DE SAN ANTONIO",
+          "2",
+          "69",
+          "37",
+          "32",
+          "7"
+        ],
+        [
+          "EJIDO SANTA CLARA",
+          "3",
+          "18",
+          "10",
+          "8",
+          "3"
+        ],
+        [
+          "EL REINO",
+          "3",
+          "32",
+          "14",
+          "18",
+          "4"
+        ],
+        [
+          "LA BELTRÁN",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "19",
+          "4",
+          "15",
+          "2"
+        ],
+        [
+          "LA CAÑADA (SAN MARCOS TLAZALPAN)",
+          "2",
+          "54",
+          "28",
+          "26",
+          "3"
+        ],
+        [
+          "LA CRUZ (SAN SIMÓN LA CRUZ)",
+          "3",
+          "52",
+          "22",
+          "30",
+          "4"
+        ],
+        [
+          "LA FINCA",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3"
+        ],
+        [
+          "LA LAGUNILLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LAGUNA SECA",
+          "5",
+          "151",
+          "69",
+          "82",
+          "10"
+        ],
+        [
+          "LOMA DE BUENAVISTA",
+          "2",
+          "95",
+          "53",
+          "42",
+          "5"
+        ],
+        [
+          "RANCHERÍA SAN ANTONIO",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "RANCHO LA MALINCHE",
+          "1",
+          "61",
+          "31",
+          "30",
+          "6"
+        ],
+        [
+          "SAN BARTOLO MORELOS",
+          "9",
+          "1,324",
+          "681",
+          "643",
+          "67"
+        ],
+        [
+          "SAN GREGORIO MACAPEXCO",
+          "7",
+          "270",
+          "135",
+          "135",
+          "16"
+        ],
+        [
+          "SAN JOSÉ EL QUELITE",
+          "4",
+          "81",
+          "43",
+          "38",
+          "9"
+        ],
+        [
+          "SAN JOSÉ LA EPIFANIA",
+          "3",
+          "179",
+          "89",
+          "90",
+          "11"
+        ],
+        [
+          "SAN LORENZO MALACOTA",
+          "9",
+          "984",
+          "499",
+          "485",
+          "54"
+        ],
+        [
+          "SAN MARCOS TLAZALPAN",
+          "7",
+          "1,023",
+          "523",
+          "500",
+          "58"
+        ],
+        [
+          "SAN SEBASTIÁN BUENOS AIRES (SAN SEBASTIÁN)",
+          "10",
+          "973",
+          "463",
+          "510",
+          "47"
+        ],
+        [
+          "SANTA CLARA DE JUÁREZ",
+          "9",
+          "1,370",
+          "663",
+          "707",
+          "79"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "144",
+          "65",
+          "79",
+          "9"
+        ],
+        [
+          "TLALPUJAHUILLA",
+          "4",
+          "114",
+          "54",
+          "60",
+          "7"
+        ],
+        [
+          "XHINTE DE LAGOS",
+          "3",
+          "198",
+          "96",
+          "102",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "112",
+          "8,761",
+          "4,310",
+          "4,451",
+          "502"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:35.551Z"
+}

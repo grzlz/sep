@@ -1,0 +1,1374 @@
+{
+  "municipality": "MEZCALAPA",
+  "municipalityCode": "124",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MEZCALAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACHIOTE\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t4\n\t\t676\n\t\t366\n\t\t310\n\t\t26\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS KILÓMETRO 54\n\t\t2\n\t\t22\n\t\t15\n\t\t7\n\t\t3\n\t\n\t\n\t\tÁNGEL ALBINO CORZO\n\t\t3\n\t\t156\n\t\t83\n\t\t73\n\t\t9\n\t\n\t\n\t\tBELISARIO DOMÍNGUEZ\n\t\t2\n\t\t138\n\t\t69\n\t\t69\n\t\t7\n\t\n\t\n\t\tBENITO JUÁREZ LÁMINA UNO\n\t\t3\n\t\t82\n\t\t43\n\t\t39\n\t\t4\n\t\n\t\n\t\tBENITO JUÁREZ VILLA RURAL\n\t\t2\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tBUENAVISTA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tCAMPAMENTO GENERAL EMILIANO ZAPATA\n\t\t3\n\t\t65\n\t\t34\n\t\t31\n\t\t4\n\t\n\t\n\t\tCHINTULITO CAMPAMENTO\n\t\t3\n\t\t41\n\t\t21\n\t\t20\n\t\t4\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t3\n\t\t113\n\t\t49\n\t\t64\n\t\t6\n\t\n\t\n\t\tEL DORADO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ESTRECHO\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL LIMÓN\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PROGRESO (CHINTUL)\n\t\t3\n\t\t205\n\t\t98\n\t\t107\n\t\t12\n\t\n\t\n\t\tEL SACRIFICIO\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t2\n\t\n\t\n\t\tESPERANZA DE LOS POBRES\n\t\t3\n\t\t185\n\t\t99\n\t\t86\n\t\t8\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t3\n\t\t44\n\t\t21\n\t\t23\n\t\t4\n\t\n\t\n\t\tGENARO VÁZQUEZ ROJAS\n\t\t3\n\t\t53\n\t\t33\n\t\t20\n\t\t4\n\t\n\t\n\t\tGUSTAVO DÍAZ ORDAZ\n\t\t4\n\t\t166\n\t\t92\n\t\t74\n\t\t9\n\t\n\t\n\t\tJOSÉ LÓPEZ PORTILLO\n\t\t2\n\t\t44\n\t\t17\n\t\t27\n\t\t2\n\t\n\t\n\t\tLA ALIANZA\n\t\t4\n\t\t192\n\t\t85\n\t\t107\n\t\t11\n\t\n\t\n\t\tLA ESPERANZA\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA FLORESTA\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA FLORIDA UNO\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA VENTA\n\t\t2\n\t\t50\n\t\t23\n\t\t27\n\t\t2\n\t\n\t\n\t\tLA VICTORIA\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAS ALMENDRAS\n\t\t1\n\t\t17\n\t\t9\n\t\t8\n\t\t1\n\t\n\t\n\t\tLAS ARENAS (EL COROZO)\n\t\t1\n\t\t4\n\t\t4\n\t\t0\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t4\n\t\t176\n\t\t76\n\t\t100\n\t\t9\n\t\n\t\n\t\tLOS DIAMANTES\n\t\t3\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tMIGUEL HIDALGO LÁMINAS CUATRO\n\t\t2\n\t\t96\n\t\t42\n\t\t54\n\t\t5\n\t\n\t\n\t\tMIRAVALLE\n\t\t3\n\t\t31\n\t\t18\n\t\t13\n\t\t3\n\t\n\t\n\t\tNUEVA ALIANZA\n\t\t2\n\t\t109\n\t\t46\n\t\t63\n\t\t4\n\t\n\t\n\t\tNUEVA ESPERANZA\n\t\t3\n\t\t45\n\t\t19\n\t\t26\n\t\t3\n\t\n\t\n\t\tNUEVO CHAPULTENANGO\n\t\t5\n\t\t96\n\t\t41\n\t\t55\n\t\t6\n\t\n\t\n\t\tNUEVO LIMONCITO\n\t\t2\n\t\t16\n\t\t5\n\t\t11\n\t\t2\n\t\n\t\n\t\tNUEVO MÉXICO\n\t\t2\n\t\t96\n\t\t55\n\t\t41\n\t\t6\n\t\n\t\n\t\tPALESTINA\n\t\t2\n\t\t57\n\t\t33\n\t\t24\n\t\t3\n\t\n\t\n\t\tPASCUAL DÍAZ\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t4\n\t\t200\n\t\t105\n\t\t95\n\t\t10\n\t\n\t\n\t\tRAUDALES MALPASO\n\t\t21\n\t\t2,494\n\t\t1,279\n\t\t1,215\n\t\t128\n\t\n\t\n\t\tREACOMODO NUEVO MÉXICO (KILÓMETRO 59)\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tROBERTO BARRIOS\n\t\t2\n\t\t56\n\t\t25\n\t\t31\n\t\t3\n\t\n\t\n\t\tRÓMULO CALZADA (LA HERRADURA)\n\t\t4\n\t\t780\n\t\t397\n\t\t383\n\t\t33\n\t\n\t\n\t\tRUBÉN JARAMILLO\n\t\t3\n\t\t76\n\t\t38\n\t\t38\n\t\t4\n\t\n\t\n\t\tSAL SI PUEDES\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO ACAMBAC (EL FAISÁN)\n\t\t2\n\t\t56\n\t\t29\n\t\t27\n\t\t3\n\t\n\t\n\t\tSAN FERNANDO DÍAZ (MARITANO)\n\t\t3\n\t\t150\n\t\t72\n\t\t78\n\t\t6\n\t\n\t\n\t\tSAN MARCOS\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t2\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t1\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tSANTOS DEGOLLADO\n\t\t1\n\t\t122\n\t\t64\n\t\t58\n\t\t5\n\t\n\t\n\t\tTIERRA Y LIBERTAD\n\t\t2\n\t\t63\n\t\t29\n\t\t34\n\t\t3\n\t\n\t\n\t\tTRECE DE SEPTIEMBRE\n\t\t3\n\t\t47\n\t\t25\n\t\t22\n\t\t5\n\t\n\t\n\t\tUNIÓN DEL PROGRESO\n\t\t2\n\t\t57\n\t\t29\n\t\t28\n\t\t3\n\t\n\t\n\t\tVICENTE GUERRERO (DIQUE DOS)\n\t\t3\n\t\t90\n\t\t43\n\t\t47\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t155\n\t\t7,526\n\t\t3,804\n\t\t3,722\n\t\t396\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MEZCALAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACHIOTE",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "676",
+          "366",
+          "310",
+          "26",
+          "ADOLFO LÓPEZ MATEOS KILÓMETRO 54",
+          "2",
+          "22",
+          "15",
+          "7",
+          "3",
+          "ÁNGEL ALBINO CORZO",
+          "3",
+          "156",
+          "83",
+          "73",
+          "9",
+          "BELISARIO DOMÍNGUEZ",
+          "2",
+          "138",
+          "69",
+          "69",
+          "7",
+          "BENITO JUÁREZ LÁMINA UNO",
+          "3",
+          "82",
+          "43",
+          "39",
+          "4",
+          "BENITO JUÁREZ VILLA RURAL",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2",
+          "BUENAVISTA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "CAMPAMENTO GENERAL EMILIANO ZAPATA",
+          "3",
+          "65",
+          "34",
+          "31",
+          "4",
+          "CHINTULITO CAMPAMENTO",
+          "3",
+          "41",
+          "21",
+          "20",
+          "4",
+          "CINCO DE MAYO",
+          "3",
+          "113",
+          "49",
+          "64",
+          "6",
+          "EL DORADO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL ESTRECHO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "EL LIMÓN",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "EL PROGRESO (CHINTUL)",
+          "3",
+          "205",
+          "98",
+          "107",
+          "12",
+          "EL SACRIFICIO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2",
+          "ESPERANZA DE LOS POBRES",
+          "3",
+          "185",
+          "99",
+          "86",
+          "8",
+          "FRANCISCO VILLA",
+          "3",
+          "44",
+          "21",
+          "23",
+          "4",
+          "GENARO VÁZQUEZ ROJAS",
+          "3",
+          "53",
+          "33",
+          "20",
+          "4",
+          "GUSTAVO DÍAZ ORDAZ",
+          "4",
+          "166",
+          "92",
+          "74",
+          "9",
+          "JOSÉ LÓPEZ PORTILLO",
+          "2",
+          "44",
+          "17",
+          "27",
+          "2",
+          "LA ALIANZA",
+          "4",
+          "192",
+          "85",
+          "107",
+          "11",
+          "LA ESPERANZA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "LA FLORESTA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "LA FLORIDA UNO",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1",
+          "LA PRIMAVERA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "LA VENTA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "2",
+          "LA VICTORIA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3",
+          "LAS ALMENDRAS",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1",
+          "LAS ARENAS (EL COROZO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1",
+          "LÁZARO CÁRDENAS",
+          "4",
+          "176",
+          "76",
+          "100",
+          "9",
+          "LOS DIAMANTES",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3",
+          "MIGUEL HIDALGO LÁMINAS CUATRO",
+          "2",
+          "96",
+          "42",
+          "54",
+          "5",
+          "MIRAVALLE",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3",
+          "NUEVA ALIANZA",
+          "2",
+          "109",
+          "46",
+          "63",
+          "4",
+          "NUEVA ESPERANZA",
+          "3",
+          "45",
+          "19",
+          "26",
+          "3",
+          "NUEVO CHAPULTENANGO",
+          "5",
+          "96",
+          "41",
+          "55",
+          "6",
+          "NUEVO LIMONCITO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2",
+          "NUEVO MÉXICO",
+          "2",
+          "96",
+          "55",
+          "41",
+          "6",
+          "PALESTINA",
+          "2",
+          "57",
+          "33",
+          "24",
+          "3",
+          "PASCUAL DÍAZ",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "PLAN DE AYALA",
+          "4",
+          "200",
+          "105",
+          "95",
+          "10",
+          "RAUDALES MALPASO",
+          "21",
+          "2,494",
+          "1,279",
+          "1,215",
+          "128",
+          "REACOMODO NUEVO MÉXICO (KILÓMETRO 59)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2",
+          "RICARDO FLORES MAGÓN",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1",
+          "ROBERTO BARRIOS",
+          "2",
+          "56",
+          "25",
+          "31",
+          "3",
+          "RÓMULO CALZADA (LA HERRADURA)",
+          "4",
+          "780",
+          "397",
+          "383",
+          "33",
+          "RUBÉN JARAMILLO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4",
+          "SAL SI PUEDES",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "SAN ANTONIO ACAMBAC (EL FAISÁN)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "3",
+          "SAN FERNANDO DÍAZ (MARITANO)",
+          "3",
+          "150",
+          "72",
+          "78",
+          "6",
+          "SAN MARCOS",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2",
+          "SANTO DOMINGO",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1",
+          "SANTOS DEGOLLADO",
+          "1",
+          "122",
+          "64",
+          "58",
+          "5",
+          "TIERRA Y LIBERTAD",
+          "2",
+          "63",
+          "29",
+          "34",
+          "3",
+          "TRECE DE SEPTIEMBRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "5",
+          "UNIÓN DEL PROGRESO",
+          "2",
+          "57",
+          "29",
+          "28",
+          "3",
+          "VICENTE GUERRERO (DIQUE DOS)",
+          "3",
+          "90",
+          "43",
+          "47",
+          "4",
+          "TOTAL",
+          "155",
+          "7,526",
+          "3,804",
+          "3,722",
+          "396",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MEZCALAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHIOTE",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "676",
+          "366",
+          "310",
+          "26"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS KILÓMETRO 54",
+          "2",
+          "22",
+          "15",
+          "7",
+          "3"
+        ],
+        [
+          "ÁNGEL ALBINO CORZO",
+          "3",
+          "156",
+          "83",
+          "73",
+          "9"
+        ],
+        [
+          "BELISARIO DOMÍNGUEZ",
+          "2",
+          "138",
+          "69",
+          "69",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ LÁMINA UNO",
+          "3",
+          "82",
+          "43",
+          "39",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ VILLA RURAL",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CAMPAMENTO GENERAL EMILIANO ZAPATA",
+          "3",
+          "65",
+          "34",
+          "31",
+          "4"
+        ],
+        [
+          "CHINTULITO CAMPAMENTO",
+          "3",
+          "41",
+          "21",
+          "20",
+          "4"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "113",
+          "49",
+          "64",
+          "6"
+        ],
+        [
+          "EL DORADO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL ESTRECHO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "EL LIMÓN",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO (CHINTUL)",
+          "3",
+          "205",
+          "98",
+          "107",
+          "12"
+        ],
+        [
+          "EL SACRIFICIO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "ESPERANZA DE LOS POBRES",
+          "3",
+          "185",
+          "99",
+          "86",
+          "8"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "44",
+          "21",
+          "23",
+          "4"
+        ],
+        [
+          "GENARO VÁZQUEZ ROJAS",
+          "3",
+          "53",
+          "33",
+          "20",
+          "4"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "4",
+          "166",
+          "92",
+          "74",
+          "9"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "2",
+          "44",
+          "17",
+          "27",
+          "2"
+        ],
+        [
+          "LA ALIANZA",
+          "4",
+          "192",
+          "85",
+          "107",
+          "11"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA FLORESTA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "LA FLORIDA UNO",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "LA VENTA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "2"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LAS ALMENDRAS",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "LAS ARENAS (EL COROZO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "4",
+          "176",
+          "76",
+          "100",
+          "9"
+        ],
+        [
+          "LOS DIAMANTES",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO LÁMINAS CUATRO",
+          "2",
+          "96",
+          "42",
+          "54",
+          "5"
+        ],
+        [
+          "MIRAVALLE",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "NUEVA ALIANZA",
+          "2",
+          "109",
+          "46",
+          "63",
+          "4"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "3",
+          "45",
+          "19",
+          "26",
+          "3"
+        ],
+        [
+          "NUEVO CHAPULTENANGO",
+          "5",
+          "96",
+          "41",
+          "55",
+          "6"
+        ],
+        [
+          "NUEVO LIMONCITO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO MÉXICO",
+          "2",
+          "96",
+          "55",
+          "41",
+          "6"
+        ],
+        [
+          "PALESTINA",
+          "2",
+          "57",
+          "33",
+          "24",
+          "3"
+        ],
+        [
+          "PASCUAL DÍAZ",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "200",
+          "105",
+          "95",
+          "10"
+        ],
+        [
+          "RAUDALES MALPASO",
+          "21",
+          "2,494",
+          "1,279",
+          "1,215",
+          "128"
+        ],
+        [
+          "REACOMODO NUEVO MÉXICO (KILÓMETRO 59)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "ROBERTO BARRIOS",
+          "2",
+          "56",
+          "25",
+          "31",
+          "3"
+        ],
+        [
+          "RÓMULO CALZADA (LA HERRADURA)",
+          "4",
+          "780",
+          "397",
+          "383",
+          "33"
+        ],
+        [
+          "RUBÉN JARAMILLO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4"
+        ],
+        [
+          "SAL SI PUEDES",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SAN ANTONIO ACAMBAC (EL FAISÁN)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "3"
+        ],
+        [
+          "SAN FERNANDO DÍAZ (MARITANO)",
+          "3",
+          "150",
+          "72",
+          "78",
+          "6"
+        ],
+        [
+          "SAN MARCOS",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "SANTO DOMINGO",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "SANTOS DEGOLLADO",
+          "1",
+          "122",
+          "64",
+          "58",
+          "5"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "2",
+          "63",
+          "29",
+          "34",
+          "3"
+        ],
+        [
+          "TRECE DE SEPTIEMBRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "5"
+        ],
+        [
+          "UNIÓN DEL PROGRESO",
+          "2",
+          "57",
+          "29",
+          "28",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (DIQUE DOS)",
+          "3",
+          "90",
+          "43",
+          "47",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "155",
+          "7,526",
+          "3,804",
+          "3,722",
+          "396"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: MEZCALAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHIOTE",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "676",
+          "366",
+          "310",
+          "26"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS KILÓMETRO 54",
+          "2",
+          "22",
+          "15",
+          "7",
+          "3"
+        ],
+        [
+          "ÁNGEL ALBINO CORZO",
+          "3",
+          "156",
+          "83",
+          "73",
+          "9"
+        ],
+        [
+          "BELISARIO DOMÍNGUEZ",
+          "2",
+          "138",
+          "69",
+          "69",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ LÁMINA UNO",
+          "3",
+          "82",
+          "43",
+          "39",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ VILLA RURAL",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CAMPAMENTO GENERAL EMILIANO ZAPATA",
+          "3",
+          "65",
+          "34",
+          "31",
+          "4"
+        ],
+        [
+          "CHINTULITO CAMPAMENTO",
+          "3",
+          "41",
+          "21",
+          "20",
+          "4"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "113",
+          "49",
+          "64",
+          "6"
+        ],
+        [
+          "EL DORADO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL ESTRECHO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "EL LIMÓN",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO (CHINTUL)",
+          "3",
+          "205",
+          "98",
+          "107",
+          "12"
+        ],
+        [
+          "EL SACRIFICIO",
+          "2",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "ESPERANZA DE LOS POBRES",
+          "3",
+          "185",
+          "99",
+          "86",
+          "8"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "44",
+          "21",
+          "23",
+          "4"
+        ],
+        [
+          "GENARO VÁZQUEZ ROJAS",
+          "3",
+          "53",
+          "33",
+          "20",
+          "4"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "4",
+          "166",
+          "92",
+          "74",
+          "9"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "2",
+          "44",
+          "17",
+          "27",
+          "2"
+        ],
+        [
+          "LA ALIANZA",
+          "4",
+          "192",
+          "85",
+          "107",
+          "11"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA FLORESTA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "LA FLORIDA UNO",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "LA VENTA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "2"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LAS ALMENDRAS",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "LAS ARENAS (EL COROZO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "4",
+          "176",
+          "76",
+          "100",
+          "9"
+        ],
+        [
+          "LOS DIAMANTES",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO LÁMINAS CUATRO",
+          "2",
+          "96",
+          "42",
+          "54",
+          "5"
+        ],
+        [
+          "MIRAVALLE",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "NUEVA ALIANZA",
+          "2",
+          "109",
+          "46",
+          "63",
+          "4"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "3",
+          "45",
+          "19",
+          "26",
+          "3"
+        ],
+        [
+          "NUEVO CHAPULTENANGO",
+          "5",
+          "96",
+          "41",
+          "55",
+          "6"
+        ],
+        [
+          "NUEVO LIMONCITO",
+          "2",
+          "16",
+          "5",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO MÉXICO",
+          "2",
+          "96",
+          "55",
+          "41",
+          "6"
+        ],
+        [
+          "PALESTINA",
+          "2",
+          "57",
+          "33",
+          "24",
+          "3"
+        ],
+        [
+          "PASCUAL DÍAZ",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "200",
+          "105",
+          "95",
+          "10"
+        ],
+        [
+          "RAUDALES MALPASO",
+          "21",
+          "2,494",
+          "1,279",
+          "1,215",
+          "128"
+        ],
+        [
+          "REACOMODO NUEVO MÉXICO (KILÓMETRO 59)",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "ROBERTO BARRIOS",
+          "2",
+          "56",
+          "25",
+          "31",
+          "3"
+        ],
+        [
+          "RÓMULO CALZADA (LA HERRADURA)",
+          "4",
+          "780",
+          "397",
+          "383",
+          "33"
+        ],
+        [
+          "RUBÉN JARAMILLO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4"
+        ],
+        [
+          "SAL SI PUEDES",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SAN ANTONIO ACAMBAC (EL FAISÁN)",
+          "2",
+          "56",
+          "29",
+          "27",
+          "3"
+        ],
+        [
+          "SAN FERNANDO DÍAZ (MARITANO)",
+          "3",
+          "150",
+          "72",
+          "78",
+          "6"
+        ],
+        [
+          "SAN MARCOS",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "SANTO DOMINGO",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "SANTOS DEGOLLADO",
+          "1",
+          "122",
+          "64",
+          "58",
+          "5"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "2",
+          "63",
+          "29",
+          "34",
+          "3"
+        ],
+        [
+          "TRECE DE SEPTIEMBRE",
+          "3",
+          "47",
+          "25",
+          "22",
+          "5"
+        ],
+        [
+          "UNIÓN DEL PROGRESO",
+          "2",
+          "57",
+          "29",
+          "28",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (DIQUE DOS)",
+          "3",
+          "90",
+          "43",
+          "47",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "155",
+          "7,526",
+          "3,804",
+          "3,722",
+          "396"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:15.352Z"
+}

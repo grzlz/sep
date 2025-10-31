@@ -1,0 +1,780 @@
+{
+  "municipality": "RODEO",
+  "municipalityCode": "024",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: RODEO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tABASOLO\n\t\t4\n\t\t400\n\t\t198\n\t\t202\n\t\t25\n\t\n\t\n\t\tALAMILLO GALEANA\n\t\t3\n\t\t52\n\t\t25\n\t\t27\n\t\t4\n\t\n\t\n\t\tBARRIO DE GUADALUPE\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t30\n\t\t11\n\t\t19\n\t\t4\n\t\n\t\n\t\tEL PARÍAN\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL REALITO\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tFRANCISCO MÁRQUEZ\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t2\n\t\n\t\n\t\tFRANCISCO ZARCO (TATANTÓN)\n\t\t3\n\t\t61\n\t\t30\n\t\t31\n\t\t4\n\t\n\t\n\t\tHÉROES DE MÉXICO (LA ANGOSTURA)\n\t\t3\n\t\t49\n\t\t32\n\t\t17\n\t\t4\n\t\n\t\n\t\tHIDALGO DE SAN ANTONIO\n\t\t4\n\t\t177\n\t\t81\n\t\t96\n\t\t10\n\t\n\t\n\t\tHIGUERAS\n\t\t3\n\t\t54\n\t\t26\n\t\t28\n\t\t5\n\t\n\t\n\t\tJESÚS GONZÁLEZ ORTEGA\n\t\t3\n\t\t39\n\t\t17\n\t\t22\n\t\t4\n\t\n\t\n\t\tLA CUESTA DE PALMITOS\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA GOTERA\n\t\t3\n\t\t13\n\t\t8\n\t\t5\n\t\t2\n\t\n\t\n\t\tLABOR DE GUADALUPE\n\t\t1\n\t\t14\n\t\t4\n\t\t10\n\t\t1\n\t\n\t\n\t\tLAS ÁNIMAS\n\t\t3\n\t\t31\n\t\t13\n\t\t18\n\t\t3\n\t\n\t\n\t\tLEANDRO VALLE\n\t\t4\n\t\t130\n\t\t54\n\t\t76\n\t\t13\n\t\n\t\n\t\tLINARES DEL RÍO\n\t\t3\n\t\t81\n\t\t39\n\t\t42\n\t\t6\n\t\n\t\n\t\tLOS AMOLES\n\t\t3\n\t\t44\n\t\t16\n\t\t28\n\t\t3\n\t\n\t\n\t\tLOS ÁNGELES (TIERRA PRIETA)\n\t\t2\n\t\t64\n\t\t31\n\t\t33\n\t\t4\n\t\n\t\n\t\tLOS LADRILLOS\n\t\t2\n\t\t34\n\t\t13\n\t\t21\n\t\t3\n\t\n\t\n\t\tNIÑOS HÉROES (SAN RAFAEL)\n\t\t3\n\t\t53\n\t\t21\n\t\t32\n\t\t5\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tRODEO\n\t\t10\n\t\t1,945\n\t\t989\n\t\t956\n\t\t156\n\t\n\t\n\t\tSAN PEDRO\n\t\t3\n\t\t13\n\t\t4\n\t\t9\n\t\t3\n\t\n\t\n\t\tSAN SALVADOR DE HORTA\n\t\t3\n\t\t71\n\t\t33\n\t\t38\n\t\t5\n\t\n\t\n\t\tSANTA BÁRBARA\n\t\t3\n\t\t194\n\t\t79\n\t\t115\n\t\t13\n\t\n\t\n\t\tSANTA ISABEL DEL RESBALÓN\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t2\n\t\t22\n\t\t13\n\t\t9\n\t\t2\n\t\n\t\n\t\tUNIÓN Y PROGRESO (EL TEJABAN)\n\t\t2\n\t\t36\n\t\t16\n\t\t20\n\t\t3\n\t\n\t\n\t\tVALLE NACIONAL (EL BANCO)\n\t\t1\n\t\t21\n\t\t10\n\t\t11\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t87\n\t\t3,750\n\t\t1,824\n\t\t1,926\n\t\t296\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: RODEO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ABASOLO",
+          "4",
+          "400",
+          "198",
+          "202",
+          "25",
+          "ALAMILLO GALEANA",
+          "3",
+          "52",
+          "25",
+          "27",
+          "4",
+          "BARRIO DE GUADALUPE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "BUENAVISTA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "4",
+          "EL PARÍAN",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "EL REALITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "FRANCISCO MÁRQUEZ",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2",
+          "FRANCISCO ZARCO (TATANTÓN)",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4",
+          "HÉROES DE MÉXICO (LA ANGOSTURA)",
+          "3",
+          "49",
+          "32",
+          "17",
+          "4",
+          "HIDALGO DE SAN ANTONIO",
+          "4",
+          "177",
+          "81",
+          "96",
+          "10",
+          "HIGUERAS",
+          "3",
+          "54",
+          "26",
+          "28",
+          "5",
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4",
+          "LA CUESTA DE PALMITOS",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2",
+          "LA GOTERA",
+          "3",
+          "13",
+          "8",
+          "5",
+          "2",
+          "LABOR DE GUADALUPE",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1",
+          "LAS ÁNIMAS",
+          "3",
+          "31",
+          "13",
+          "18",
+          "3",
+          "LEANDRO VALLE",
+          "4",
+          "130",
+          "54",
+          "76",
+          "13",
+          "LINARES DEL RÍO",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6",
+          "LOS AMOLES",
+          "3",
+          "44",
+          "16",
+          "28",
+          "3",
+          "LOS ÁNGELES (TIERRA PRIETA)",
+          "2",
+          "64",
+          "31",
+          "33",
+          "4",
+          "LOS LADRILLOS",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3",
+          "NIÑOS HÉROES (SAN RAFAEL)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "5",
+          "OJO DE AGUA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "RODEO",
+          "10",
+          "1,945",
+          "989",
+          "956",
+          "156",
+          "SAN PEDRO",
+          "3",
+          "13",
+          "4",
+          "9",
+          "3",
+          "SAN SALVADOR DE HORTA",
+          "3",
+          "71",
+          "33",
+          "38",
+          "5",
+          "SANTA BÁRBARA",
+          "3",
+          "194",
+          "79",
+          "115",
+          "13",
+          "SANTA ISABEL DEL RESBALÓN",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "TIERRA BLANCA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2",
+          "UNIÓN Y PROGRESO (EL TEJABAN)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3",
+          "VALLE NACIONAL (EL BANCO)",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1",
+          "TOTAL",
+          "87",
+          "3,750",
+          "1,824",
+          "1,926",
+          "296",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: RODEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABASOLO",
+          "4",
+          "400",
+          "198",
+          "202",
+          "25"
+        ],
+        [
+          "ALAMILLO GALEANA",
+          "3",
+          "52",
+          "25",
+          "27",
+          "4"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "4"
+        ],
+        [
+          "EL PARÍAN",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "EL REALITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO MÁRQUEZ",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "FRANCISCO ZARCO (TATANTÓN)",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "HÉROES DE MÉXICO (LA ANGOSTURA)",
+          "3",
+          "49",
+          "32",
+          "17",
+          "4"
+        ],
+        [
+          "HIDALGO DE SAN ANTONIO",
+          "4",
+          "177",
+          "81",
+          "96",
+          "10"
+        ],
+        [
+          "HIGUERAS",
+          "3",
+          "54",
+          "26",
+          "28",
+          "5"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4"
+        ],
+        [
+          "LA CUESTA DE PALMITOS",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "LA GOTERA",
+          "3",
+          "13",
+          "8",
+          "5",
+          "2"
+        ],
+        [
+          "LABOR DE GUADALUPE",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "3",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "LEANDRO VALLE",
+          "4",
+          "130",
+          "54",
+          "76",
+          "13"
+        ],
+        [
+          "LINARES DEL RÍO",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "LOS AMOLES",
+          "3",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "LOS ÁNGELES (TIERRA PRIETA)",
+          "2",
+          "64",
+          "31",
+          "33",
+          "4"
+        ],
+        [
+          "LOS LADRILLOS",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "NIÑOS HÉROES (SAN RAFAEL)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "5"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "RODEO",
+          "10",
+          "1,945",
+          "989",
+          "956",
+          "156"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "13",
+          "4",
+          "9",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE HORTA",
+          "3",
+          "71",
+          "33",
+          "38",
+          "5"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "3",
+          "194",
+          "79",
+          "115",
+          "13"
+        ],
+        [
+          "SANTA ISABEL DEL RESBALÓN",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "UNIÓN Y PROGRESO (EL TEJABAN)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "VALLE NACIONAL (EL BANCO)",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "87",
+          "3,750",
+          "1,824",
+          "1,926",
+          "296"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: RODEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABASOLO",
+          "4",
+          "400",
+          "198",
+          "202",
+          "25"
+        ],
+        [
+          "ALAMILLO GALEANA",
+          "3",
+          "52",
+          "25",
+          "27",
+          "4"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "4"
+        ],
+        [
+          "EL PARÍAN",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "EL REALITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO MÁRQUEZ",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "FRANCISCO ZARCO (TATANTÓN)",
+          "3",
+          "61",
+          "30",
+          "31",
+          "4"
+        ],
+        [
+          "HÉROES DE MÉXICO (LA ANGOSTURA)",
+          "3",
+          "49",
+          "32",
+          "17",
+          "4"
+        ],
+        [
+          "HIDALGO DE SAN ANTONIO",
+          "4",
+          "177",
+          "81",
+          "96",
+          "10"
+        ],
+        [
+          "HIGUERAS",
+          "3",
+          "54",
+          "26",
+          "28",
+          "5"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4"
+        ],
+        [
+          "LA CUESTA DE PALMITOS",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "LA GOTERA",
+          "3",
+          "13",
+          "8",
+          "5",
+          "2"
+        ],
+        [
+          "LABOR DE GUADALUPE",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "3",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "LEANDRO VALLE",
+          "4",
+          "130",
+          "54",
+          "76",
+          "13"
+        ],
+        [
+          "LINARES DEL RÍO",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "LOS AMOLES",
+          "3",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "LOS ÁNGELES (TIERRA PRIETA)",
+          "2",
+          "64",
+          "31",
+          "33",
+          "4"
+        ],
+        [
+          "LOS LADRILLOS",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "NIÑOS HÉROES (SAN RAFAEL)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "5"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "RODEO",
+          "10",
+          "1,945",
+          "989",
+          "956",
+          "156"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "13",
+          "4",
+          "9",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE HORTA",
+          "3",
+          "71",
+          "33",
+          "38",
+          "5"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "3",
+          "194",
+          "79",
+          "115",
+          "13"
+        ],
+        [
+          "SANTA ISABEL DEL RESBALÓN",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "UNIÓN Y PROGRESO (EL TEJABAN)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "VALLE NACIONAL (EL BANCO)",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "87",
+          "3,750",
+          "1,824",
+          "1,926",
+          "296"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:20.269Z"
+}

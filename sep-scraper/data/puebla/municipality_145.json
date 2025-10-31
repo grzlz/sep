@@ -1,0 +1,912 @@
+{
+  "municipality": "SAN SEBASTIÁN TLACOTEPEC",
+  "municipalityCode": "145",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: SAN SEBASTIÁN TLACOTEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA AZUL\n\t\t2\n\t\t36\n\t\t21\n\t\t15\n\t\t2\n\t\n\t\n\t\tBUENA VISTA DE CUAUHTÉMOC\n\t\t4\n\t\t173\n\t\t86\n\t\t87\n\t\t10\n\t\n\t\n\t\tCOYOMEATL\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tCRUZTITLA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tCUAXUCHPA\n\t\t2\n\t\t90\n\t\t34\n\t\t56\n\t\t5\n\t\n\t\n\t\tEL CARPINTERO\n\t\t3\n\t\t49\n\t\t24\n\t\t25\n\t\t6\n\t\n\t\n\t\tEL MIRADOR\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA CUMBRE\n\t\t4\n\t\t199\n\t\t107\n\t\t92\n\t\t9\n\t\n\t\n\t\tLA GARRAPATA\n\t\t2\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA GUACAMAYA\n\t\t3\n\t\t45\n\t\t21\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA GUADALUPE\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS PALMAS\n\t\t3\n\t\t17\n\t\t7\n\t\t10\n\t\t3\n\t\n\t\n\t\tLIBRES\n\t\t3\n\t\t46\n\t\t28\n\t\t18\n\t\t4\n\t\n\t\n\t\tLOMAS DE GUADALUPE\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tMAZATZONGO DE GUERRERO\n\t\t3\n\t\t158\n\t\t78\n\t\t80\n\t\t8\n\t\n\t\n\t\tNARANJASTITLA DE VICTORIA\n\t\t4\n\t\t122\n\t\t60\n\t\t62\n\t\t11\n\t\n\t\n\t\tOJO DE AGUA\n\t\t3\n\t\t49\n\t\t26\n\t\t23\n\t\t3\n\t\n\t\n\t\tOVATERO Y ATEXACA\n\t\t2\n\t\t41\n\t\t23\n\t\t18\n\t\t3\n\t\n\t\n\t\tPAPALOCUAUTLA\n\t\t1\n\t\t8\n\t\t7\n\t\t1\n\t\t1\n\t\n\t\n\t\tPEÑA ALTA\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tPLAYA NUEVA\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ PETLAPA\n\t\t3\n\t\t49\n\t\t16\n\t\t33\n\t\t4\n\t\n\t\n\t\tSAN MARTÍN MAZATEOPAN\n\t\t3\n\t\t201\n\t\t106\n\t\t95\n\t\t12\n\t\n\t\n\t\tTECOLOTEPEC\n\t\t4\n\t\t153\n\t\t76\n\t\t77\n\t\t8\n\t\n\t\n\t\tTENTZIANTLA\n\t\t3\n\t\t174\n\t\t80\n\t\t94\n\t\t10\n\t\n\t\n\t\tTEOLOLULCO\n\t\t3\n\t\t56\n\t\t26\n\t\t30\n\t\t4\n\t\n\t\n\t\tTEPETLA\n\t\t4\n\t\t38\n\t\t25\n\t\t13\n\t\t4\n\t\n\t\n\t\tTEPEXILOTLA\n\t\t2\n\t\t44\n\t\t20\n\t\t24\n\t\t3\n\t\n\t\n\t\tTLACOTEPEC DE PORFIRIO DÍAZ\n\t\t8\n\t\t738\n\t\t348\n\t\t390\n\t\t36\n\t\n\t\n\t\tTLACXITLA\n\t\t4\n\t\t68\n\t\t37\n\t\t31\n\t\t5\n\t\n\t\n\t\tVILLA DEL RÍO\n\t\t4\n\t\t168\n\t\t91\n\t\t77\n\t\t11\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t4\n\t\t118\n\t\t51\n\t\t67\n\t\t9\n\t\n\t\n\t\tXALATIOPA\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tXONOÁTL\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tYOVALASTOC\n\t\t1\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tZACATEPEC DE BRAVO\n\t\t4\n\t\t110\n\t\t53\n\t\t57\n\t\t7\n\t\n\t\n\t\tZACATILIHUIC\n\t\t3\n\t\t151\n\t\t75\n\t\t76\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t103\n\t\t3,313\n\t\t1,633\n\t\t1,680\n\t\t206\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: SAN SEBASTIÁN TLACOTEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA AZUL",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2",
+          "BUENA VISTA DE CUAUHTÉMOC",
+          "4",
+          "173",
+          "86",
+          "87",
+          "10",
+          "COYOMEATL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "CRUZTITLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "CUAXUCHPA",
+          "2",
+          "90",
+          "34",
+          "56",
+          "5",
+          "EL CARPINTERO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "6",
+          "EL MIRADOR",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "LA CUMBRE",
+          "4",
+          "199",
+          "107",
+          "92",
+          "9",
+          "LA GARRAPATA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2",
+          "LA GUACAMAYA",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3",
+          "LA GUADALUPE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LAS PALMAS",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3",
+          "LIBRES",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4",
+          "LOMAS DE GUADALUPE",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "MAZATZONGO DE GUERRERO",
+          "3",
+          "158",
+          "78",
+          "80",
+          "8",
+          "NARANJASTITLA DE VICTORIA",
+          "4",
+          "122",
+          "60",
+          "62",
+          "11",
+          "OJO DE AGUA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "3",
+          "OVATERO Y ATEXACA",
+          "2",
+          "41",
+          "23",
+          "18",
+          "3",
+          "PAPALOCUAUTLA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1",
+          "PEÑA ALTA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "PLAYA NUEVA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3",
+          "SAN JOSÉ PETLAPA",
+          "3",
+          "49",
+          "16",
+          "33",
+          "4",
+          "SAN MARTÍN MAZATEOPAN",
+          "3",
+          "201",
+          "106",
+          "95",
+          "12",
+          "TECOLOTEPEC",
+          "4",
+          "153",
+          "76",
+          "77",
+          "8",
+          "TENTZIANTLA",
+          "3",
+          "174",
+          "80",
+          "94",
+          "10",
+          "TEOLOLULCO",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4",
+          "TEPETLA",
+          "4",
+          "38",
+          "25",
+          "13",
+          "4",
+          "TEPEXILOTLA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3",
+          "TLACOTEPEC DE PORFIRIO DÍAZ",
+          "8",
+          "738",
+          "348",
+          "390",
+          "36",
+          "TLACXITLA",
+          "4",
+          "68",
+          "37",
+          "31",
+          "5",
+          "VILLA DEL RÍO",
+          "4",
+          "168",
+          "91",
+          "77",
+          "11",
+          "VISTA HERMOSA",
+          "4",
+          "118",
+          "51",
+          "67",
+          "9",
+          "XALATIOPA",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2",
+          "XONOÁTL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1",
+          "YOVALASTOC",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2",
+          "ZACATEPEC DE BRAVO",
+          "4",
+          "110",
+          "53",
+          "57",
+          "7",
+          "ZACATILIHUIC",
+          "3",
+          "151",
+          "75",
+          "76",
+          "7",
+          "TOTAL",
+          "103",
+          "3,313",
+          "1,633",
+          "1,680",
+          "206",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: SAN SEBASTIÁN TLACOTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA AZUL",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2"
+        ],
+        [
+          "BUENA VISTA DE CUAUHTÉMOC",
+          "4",
+          "173",
+          "86",
+          "87",
+          "10"
+        ],
+        [
+          "COYOMEATL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CRUZTITLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "CUAXUCHPA",
+          "2",
+          "90",
+          "34",
+          "56",
+          "5"
+        ],
+        [
+          "EL CARPINTERO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "6"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "LA CUMBRE",
+          "4",
+          "199",
+          "107",
+          "92",
+          "9"
+        ],
+        [
+          "LA GARRAPATA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "LA GUACAMAYA",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "LIBRES",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4"
+        ],
+        [
+          "LOMAS DE GUADALUPE",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "MAZATZONGO DE GUERRERO",
+          "3",
+          "158",
+          "78",
+          "80",
+          "8"
+        ],
+        [
+          "NARANJASTITLA DE VICTORIA",
+          "4",
+          "122",
+          "60",
+          "62",
+          "11"
+        ],
+        [
+          "OJO DE AGUA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "OVATERO Y ATEXACA",
+          "2",
+          "41",
+          "23",
+          "18",
+          "3"
+        ],
+        [
+          "PAPALOCUAUTLA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "PEÑA ALTA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PLAYA NUEVA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PETLAPA",
+          "3",
+          "49",
+          "16",
+          "33",
+          "4"
+        ],
+        [
+          "SAN MARTÍN MAZATEOPAN",
+          "3",
+          "201",
+          "106",
+          "95",
+          "12"
+        ],
+        [
+          "TECOLOTEPEC",
+          "4",
+          "153",
+          "76",
+          "77",
+          "8"
+        ],
+        [
+          "TENTZIANTLA",
+          "3",
+          "174",
+          "80",
+          "94",
+          "10"
+        ],
+        [
+          "TEOLOLULCO",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "TEPETLA",
+          "4",
+          "38",
+          "25",
+          "13",
+          "4"
+        ],
+        [
+          "TEPEXILOTLA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "TLACOTEPEC DE PORFIRIO DÍAZ",
+          "8",
+          "738",
+          "348",
+          "390",
+          "36"
+        ],
+        [
+          "TLACXITLA",
+          "4",
+          "68",
+          "37",
+          "31",
+          "5"
+        ],
+        [
+          "VILLA DEL RÍO",
+          "4",
+          "168",
+          "91",
+          "77",
+          "11"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "118",
+          "51",
+          "67",
+          "9"
+        ],
+        [
+          "XALATIOPA",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "XONOÁTL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "YOVALASTOC",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "ZACATEPEC DE BRAVO",
+          "4",
+          "110",
+          "53",
+          "57",
+          "7"
+        ],
+        [
+          "ZACATILIHUIC",
+          "3",
+          "151",
+          "75",
+          "76",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "3,313",
+          "1,633",
+          "1,680",
+          "206"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: SAN SEBASTIÁN TLACOTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA AZUL",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2"
+        ],
+        [
+          "BUENA VISTA DE CUAUHTÉMOC",
+          "4",
+          "173",
+          "86",
+          "87",
+          "10"
+        ],
+        [
+          "COYOMEATL",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CRUZTITLA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "CUAXUCHPA",
+          "2",
+          "90",
+          "34",
+          "56",
+          "5"
+        ],
+        [
+          "EL CARPINTERO",
+          "3",
+          "49",
+          "24",
+          "25",
+          "6"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "LA CUMBRE",
+          "4",
+          "199",
+          "107",
+          "92",
+          "9"
+        ],
+        [
+          "LA GARRAPATA",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "LA GUACAMAYA",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "LIBRES",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4"
+        ],
+        [
+          "LOMAS DE GUADALUPE",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "MAZATZONGO DE GUERRERO",
+          "3",
+          "158",
+          "78",
+          "80",
+          "8"
+        ],
+        [
+          "NARANJASTITLA DE VICTORIA",
+          "4",
+          "122",
+          "60",
+          "62",
+          "11"
+        ],
+        [
+          "OJO DE AGUA",
+          "3",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "OVATERO Y ATEXACA",
+          "2",
+          "41",
+          "23",
+          "18",
+          "3"
+        ],
+        [
+          "PAPALOCUAUTLA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "PEÑA ALTA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PLAYA NUEVA",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PETLAPA",
+          "3",
+          "49",
+          "16",
+          "33",
+          "4"
+        ],
+        [
+          "SAN MARTÍN MAZATEOPAN",
+          "3",
+          "201",
+          "106",
+          "95",
+          "12"
+        ],
+        [
+          "TECOLOTEPEC",
+          "4",
+          "153",
+          "76",
+          "77",
+          "8"
+        ],
+        [
+          "TENTZIANTLA",
+          "3",
+          "174",
+          "80",
+          "94",
+          "10"
+        ],
+        [
+          "TEOLOLULCO",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "TEPETLA",
+          "4",
+          "38",
+          "25",
+          "13",
+          "4"
+        ],
+        [
+          "TEPEXILOTLA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "TLACOTEPEC DE PORFIRIO DÍAZ",
+          "8",
+          "738",
+          "348",
+          "390",
+          "36"
+        ],
+        [
+          "TLACXITLA",
+          "4",
+          "68",
+          "37",
+          "31",
+          "5"
+        ],
+        [
+          "VILLA DEL RÍO",
+          "4",
+          "168",
+          "91",
+          "77",
+          "11"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "118",
+          "51",
+          "67",
+          "9"
+        ],
+        [
+          "XALATIOPA",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "XONOÁTL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "YOVALASTOC",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "ZACATEPEC DE BRAVO",
+          "4",
+          "110",
+          "53",
+          "57",
+          "7"
+        ],
+        [
+          "ZACATILIHUIC",
+          "3",
+          "151",
+          "75",
+          "76",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "3,313",
+          "1,633",
+          "1,680",
+          "206"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:33:57.190Z"
+}

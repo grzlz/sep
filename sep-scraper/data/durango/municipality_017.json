@@ -1,0 +1,604 @@
+{
+  "municipality": "OCAMPO",
+  "municipalityCode": "017",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OCAMPO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCANUTILLO\n\t\t4\n\t\t384\n\t\t217\n\t\t167\n\t\t44\n\t\n\t\n\t\tEL CHORRO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL ENCINO DE LA PAZ\n\t\t3\n\t\t43\n\t\t18\n\t\t25\n\t\t4\n\t\n\t\n\t\tEL OJITO\n\t\t4\n\t\t56\n\t\t32\n\t\t24\n\t\t5\n\t\n\t\n\t\tGRACIANO SÁNCHEZ (TANQUE GRANDE)\n\t\t1\n\t\t19\n\t\t8\n\t\t11\n\t\t1\n\t\n\t\n\t\tLA CIMBRA\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA ESTANCIA\n\t\t3\n\t\t32\n\t\t23\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA HACIENDITA DEL ESPÍRITU SANTO\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA NAVECILLA\n\t\t1\n\t\t17\n\t\t11\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t4\n\t\t89\n\t\t44\n\t\t45\n\t\t7\n\t\n\t\n\t\tLLANOS DE COCINAS\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tMESA DE NAVARRO\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tMÉXICO Y LOS LIRIOS\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tOJOS AZULES (CAMPO ALEGRE)\n\t\t3\n\t\t30\n\t\t18\n\t\t12\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t3\n\t\t110\n\t\t46\n\t\t64\n\t\t23\n\t\n\t\n\t\tSAN GABRIEL\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE LA MONTAÑA\n\t\t1\n\t\t17\n\t\t13\n\t\t4\n\t\t1\n\t\n\t\n\t\tSANTA ANA\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tSAUCES DE CANUTILLO\n\t\t1\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tTORREÓN DE CAÑAS\n\t\t3\n\t\t140\n\t\t64\n\t\t76\n\t\t10\n\t\n\t\n\t\tVILLA LAS NIEVES\n\t\t5\n\t\t616\n\t\t303\n\t\t313\n\t\t48\n\t\n\t\n\t\tVILLA OCAMPO\n\t\t4\n\t\t398\n\t\t208\n\t\t190\n\t\t32\n\t\n\t\n\t\tVILLA ORESTES PEREYRA (ROSARIO)\n\t\t3\n\t\t111\n\t\t54\n\t\t57\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t56\n\t\t2,201\n\t\t1,123\n\t\t1,078\n\t\t203\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OCAMPO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CANUTILLO",
+          "4",
+          "384",
+          "217",
+          "167",
+          "44",
+          "EL CHORRO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "EL ENCINO DE LA PAZ",
+          "3",
+          "43",
+          "18",
+          "25",
+          "4",
+          "EL OJITO",
+          "4",
+          "56",
+          "32",
+          "24",
+          "5",
+          "GRACIANO SÁNCHEZ (TANQUE GRANDE)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1",
+          "LA CIMBRA",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2",
+          "LA ESTANCIA",
+          "3",
+          "32",
+          "23",
+          "9",
+          "3",
+          "LA HACIENDITA DEL ESPÍRITU SANTO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LA NAVECILLA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1",
+          "LA PROVIDENCIA",
+          "4",
+          "89",
+          "44",
+          "45",
+          "7",
+          "LLANOS DE COCINAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "MESA DE NAVARRO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1",
+          "MÉXICO Y LOS LIRIOS",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2",
+          "OJOS AZULES (CAMPO ALEGRE)",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3",
+          "RANCHO NUEVO",
+          "3",
+          "110",
+          "46",
+          "64",
+          "23",
+          "SAN GABRIEL",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "SAN JOSÉ DE LA MONTAÑA",
+          "1",
+          "17",
+          "13",
+          "4",
+          "1",
+          "SANTA ANA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3",
+          "SAUCES DE CANUTILLO",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1",
+          "TORREÓN DE CAÑAS",
+          "3",
+          "140",
+          "64",
+          "76",
+          "10",
+          "VILLA LAS NIEVES",
+          "5",
+          "616",
+          "303",
+          "313",
+          "48",
+          "VILLA OCAMPO",
+          "4",
+          "398",
+          "208",
+          "190",
+          "32",
+          "VILLA ORESTES PEREYRA (ROSARIO)",
+          "3",
+          "111",
+          "54",
+          "57",
+          "7",
+          "TOTAL",
+          "56",
+          "2,201",
+          "1,123",
+          "1,078",
+          "203",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CANUTILLO",
+          "4",
+          "384",
+          "217",
+          "167",
+          "44"
+        ],
+        [
+          "EL CHORRO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL ENCINO DE LA PAZ",
+          "3",
+          "43",
+          "18",
+          "25",
+          "4"
+        ],
+        [
+          "EL OJITO",
+          "4",
+          "56",
+          "32",
+          "24",
+          "5"
+        ],
+        [
+          "GRACIANO SÁNCHEZ (TANQUE GRANDE)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "LA CIMBRA",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "32",
+          "23",
+          "9",
+          "3"
+        ],
+        [
+          "LA HACIENDITA DEL ESPÍRITU SANTO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA NAVECILLA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "4",
+          "89",
+          "44",
+          "45",
+          "7"
+        ],
+        [
+          "LLANOS DE COCINAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "MESA DE NAVARRO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "MÉXICO Y LOS LIRIOS",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "OJOS AZULES (CAMPO ALEGRE)",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "110",
+          "46",
+          "64",
+          "23"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LA MONTAÑA",
+          "1",
+          "17",
+          "13",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "SAUCES DE CANUTILLO",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "TORREÓN DE CAÑAS",
+          "3",
+          "140",
+          "64",
+          "76",
+          "10"
+        ],
+        [
+          "VILLA LAS NIEVES",
+          "5",
+          "616",
+          "303",
+          "313",
+          "48"
+        ],
+        [
+          "VILLA OCAMPO",
+          "4",
+          "398",
+          "208",
+          "190",
+          "32"
+        ],
+        [
+          "VILLA ORESTES PEREYRA (ROSARIO)",
+          "3",
+          "111",
+          "54",
+          "57",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "56",
+          "2,201",
+          "1,123",
+          "1,078",
+          "203"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CANUTILLO",
+          "4",
+          "384",
+          "217",
+          "167",
+          "44"
+        ],
+        [
+          "EL CHORRO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL ENCINO DE LA PAZ",
+          "3",
+          "43",
+          "18",
+          "25",
+          "4"
+        ],
+        [
+          "EL OJITO",
+          "4",
+          "56",
+          "32",
+          "24",
+          "5"
+        ],
+        [
+          "GRACIANO SÁNCHEZ (TANQUE GRANDE)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "LA CIMBRA",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "32",
+          "23",
+          "9",
+          "3"
+        ],
+        [
+          "LA HACIENDITA DEL ESPÍRITU SANTO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA NAVECILLA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "4",
+          "89",
+          "44",
+          "45",
+          "7"
+        ],
+        [
+          "LLANOS DE COCINAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "MESA DE NAVARRO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "MÉXICO Y LOS LIRIOS",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "OJOS AZULES (CAMPO ALEGRE)",
+          "3",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "110",
+          "46",
+          "64",
+          "23"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LA MONTAÑA",
+          "1",
+          "17",
+          "13",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "SAUCES DE CANUTILLO",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "TORREÓN DE CAÑAS",
+          "3",
+          "140",
+          "64",
+          "76",
+          "10"
+        ],
+        [
+          "VILLA LAS NIEVES",
+          "5",
+          "616",
+          "303",
+          "313",
+          "48"
+        ],
+        [
+          "VILLA OCAMPO",
+          "4",
+          "398",
+          "208",
+          "190",
+          "32"
+        ],
+        [
+          "VILLA ORESTES PEREYRA (ROSARIO)",
+          "3",
+          "111",
+          "54",
+          "57",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "56",
+          "2,201",
+          "1,123",
+          "1,078",
+          "203"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:57.006Z"
+}

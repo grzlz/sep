@@ -1,0 +1,692 @@
+{
+  "municipality": "TORREÓN",
+  "municipalityCode": "035",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: TORREÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALBIA\n\t\t2\n\t\t239\n\t\t122\n\t\t117\n\t\t9\n\t\n\t\n\t\tBARREAL DE GUADALUPE\n\t\t4\n\t\t126\n\t\t69\n\t\t57\n\t\t10\n\t\n\t\n\t\tCIUDAD DE LOS NIÑOS\n\t\t2\n\t\t260\n\t\t120\n\t\t140\n\t\t9\n\t\n\t\n\t\tDOCE DE DICIEMBRE\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL MOSTRENCO (EUSKAL)\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL PACÍFICO\n\t\t2\n\t\t47\n\t\t27\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL PERÚ\n\t\t5\n\t\t552\n\t\t306\n\t\t246\n\t\t27\n\t\n\t\n\t\tJALISCO\n\t\t2\n\t\t164\n\t\t78\n\t\t86\n\t\t8\n\t\n\t\n\t\tJIMULCO\n\t\t2\n\t\t72\n\t\t38\n\t\t34\n\t\t4\n\t\n\t\n\t\tJUAN EUGENIO\n\t\t5\n\t\t459\n\t\t235\n\t\t224\n\t\t33\n\t\n\t\n\t\tLA COLONIA\n\t\t3\n\t\t22\n\t\t10\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA CONCHA\n\t\t5\n\t\t1,741\n\t\t835\n\t\t906\n\t\t106\n\t\n\t\n\t\tLA CONCHITA ROJA\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t2\n\t\n\t\n\t\tLA FLOR DE JIMULCO\n\t\t4\n\t\t271\n\t\t123\n\t\t148\n\t\t24\n\t\n\t\n\t\tLA NUEVA COLONIA (PERALTA)\n\t\t3\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA PALMA\n\t\t2\n\t\t158\n\t\t76\n\t\t82\n\t\t8\n\t\n\t\n\t\tLA PARTIDA\n\t\t7\n\t\t1,825\n\t\t913\n\t\t912\n\t\t184\n\t\n\t\n\t\tLA PAZ\n\t\t3\n\t\t868\n\t\t436\n\t\t432\n\t\t26\n\t\n\t\n\t\tLA PERLA\n\t\t2\n\t\t96\n\t\t51\n\t\t45\n\t\t4\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t59\n\t\t25\n\t\t34\n\t\t4\n\t\n\t\n\t\tNUEVO MIELERAS (LA TRES)\n\t\t2\n\t\t169\n\t\t76\n\t\t93\n\t\t8\n\t\n\t\n\t\tPASO DEL ÁGUILA\n\t\t2\n\t\t169\n\t\t80\n\t\t89\n\t\t7\n\t\n\t\n\t\tPROVIDENCIA\n\t\t2\n\t\t191\n\t\t104\n\t\t87\n\t\t7\n\t\n\t\n\t\tRANCHO ALEGRE\n\t\t3\n\t\t336\n\t\t164\n\t\t172\n\t\t12\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t2\n\t\t79\n\t\t43\n\t\t36\n\t\t6\n\t\n\t\n\t\tSANTA FE\n\t\t2\n\t\t458\n\t\t228\n\t\t230\n\t\t15\n\t\n\t\n\t\tTORREÓN\n\t\t1,049\n\t\t193,007\n\t\t97,137\n\t\t95,870\n\t\t14,937\n\t\n\t\n\t\tTOTAL\n\t\t1,121\n\t\t201,470\n\t\t101,344\n\t\t100,126\n\t\t15,461\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: TORREÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALBIA",
+          "2",
+          "239",
+          "122",
+          "117",
+          "9",
+          "BARREAL DE GUADALUPE",
+          "4",
+          "126",
+          "69",
+          "57",
+          "10",
+          "CIUDAD DE LOS NIÑOS",
+          "2",
+          "260",
+          "120",
+          "140",
+          "9",
+          "DOCE DE DICIEMBRE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL MOSTRENCO (EUSKAL)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "EL PACÍFICO",
+          "2",
+          "47",
+          "27",
+          "20",
+          "3",
+          "EL PERÚ",
+          "5",
+          "552",
+          "306",
+          "246",
+          "27",
+          "JALISCO",
+          "2",
+          "164",
+          "78",
+          "86",
+          "8",
+          "JIMULCO",
+          "2",
+          "72",
+          "38",
+          "34",
+          "4",
+          "JUAN EUGENIO",
+          "5",
+          "459",
+          "235",
+          "224",
+          "33",
+          "LA COLONIA",
+          "3",
+          "22",
+          "10",
+          "12",
+          "3",
+          "LA CONCHA",
+          "5",
+          "1,741",
+          "835",
+          "906",
+          "106",
+          "LA CONCHITA ROJA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2",
+          "LA FLOR DE JIMULCO",
+          "4",
+          "271",
+          "123",
+          "148",
+          "24",
+          "LA NUEVA COLONIA (PERALTA)",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3",
+          "LA PALMA",
+          "2",
+          "158",
+          "76",
+          "82",
+          "8",
+          "LA PARTIDA",
+          "7",
+          "1,825",
+          "913",
+          "912",
+          "184",
+          "LA PAZ",
+          "3",
+          "868",
+          "436",
+          "432",
+          "26",
+          "LA PERLA",
+          "2",
+          "96",
+          "51",
+          "45",
+          "4",
+          "LA TRINIDAD",
+          "2",
+          "59",
+          "25",
+          "34",
+          "4",
+          "NUEVO MIELERAS (LA TRES)",
+          "2",
+          "169",
+          "76",
+          "93",
+          "8",
+          "PASO DEL ÁGUILA",
+          "2",
+          "169",
+          "80",
+          "89",
+          "7",
+          "PROVIDENCIA",
+          "2",
+          "191",
+          "104",
+          "87",
+          "7",
+          "RANCHO ALEGRE",
+          "3",
+          "336",
+          "164",
+          "172",
+          "12",
+          "RICARDO FLORES MAGÓN",
+          "2",
+          "79",
+          "43",
+          "36",
+          "6",
+          "SANTA FE",
+          "2",
+          "458",
+          "228",
+          "230",
+          "15",
+          "TORREÓN",
+          "1,049",
+          "193,007",
+          "97,137",
+          "95,870",
+          "14,937",
+          "TOTAL",
+          "1,121",
+          "201,470",
+          "101,344",
+          "100,126",
+          "15,461",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: TORREÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALBIA",
+          "2",
+          "239",
+          "122",
+          "117",
+          "9"
+        ],
+        [
+          "BARREAL DE GUADALUPE",
+          "4",
+          "126",
+          "69",
+          "57",
+          "10"
+        ],
+        [
+          "CIUDAD DE LOS NIÑOS",
+          "2",
+          "260",
+          "120",
+          "140",
+          "9"
+        ],
+        [
+          "DOCE DE DICIEMBRE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL MOSTRENCO (EUSKAL)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EL PACÍFICO",
+          "2",
+          "47",
+          "27",
+          "20",
+          "3"
+        ],
+        [
+          "EL PERÚ",
+          "5",
+          "552",
+          "306",
+          "246",
+          "27"
+        ],
+        [
+          "JALISCO",
+          "2",
+          "164",
+          "78",
+          "86",
+          "8"
+        ],
+        [
+          "JIMULCO",
+          "2",
+          "72",
+          "38",
+          "34",
+          "4"
+        ],
+        [
+          "JUAN EUGENIO",
+          "5",
+          "459",
+          "235",
+          "224",
+          "33"
+        ],
+        [
+          "LA COLONIA",
+          "3",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LA CONCHA",
+          "5",
+          "1,741",
+          "835",
+          "906",
+          "106"
+        ],
+        [
+          "LA CONCHITA ROJA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "LA FLOR DE JIMULCO",
+          "4",
+          "271",
+          "123",
+          "148",
+          "24"
+        ],
+        [
+          "LA NUEVA COLONIA (PERALTA)",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "158",
+          "76",
+          "82",
+          "8"
+        ],
+        [
+          "LA PARTIDA",
+          "7",
+          "1,825",
+          "913",
+          "912",
+          "184"
+        ],
+        [
+          "LA PAZ",
+          "3",
+          "868",
+          "436",
+          "432",
+          "26"
+        ],
+        [
+          "LA PERLA",
+          "2",
+          "96",
+          "51",
+          "45",
+          "4"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "59",
+          "25",
+          "34",
+          "4"
+        ],
+        [
+          "NUEVO MIELERAS (LA TRES)",
+          "2",
+          "169",
+          "76",
+          "93",
+          "8"
+        ],
+        [
+          "PASO DEL ÁGUILA",
+          "2",
+          "169",
+          "80",
+          "89",
+          "7"
+        ],
+        [
+          "PROVIDENCIA",
+          "2",
+          "191",
+          "104",
+          "87",
+          "7"
+        ],
+        [
+          "RANCHO ALEGRE",
+          "3",
+          "336",
+          "164",
+          "172",
+          "12"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "2",
+          "79",
+          "43",
+          "36",
+          "6"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "458",
+          "228",
+          "230",
+          "15"
+        ],
+        [
+          "TORREÓN",
+          "1,049",
+          "193,007",
+          "97,137",
+          "95,870",
+          "14,937"
+        ],
+        [
+          "TOTAL",
+          "1,121",
+          "201,470",
+          "101,344",
+          "100,126",
+          "15,461"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: TORREÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALBIA",
+          "2",
+          "239",
+          "122",
+          "117",
+          "9"
+        ],
+        [
+          "BARREAL DE GUADALUPE",
+          "4",
+          "126",
+          "69",
+          "57",
+          "10"
+        ],
+        [
+          "CIUDAD DE LOS NIÑOS",
+          "2",
+          "260",
+          "120",
+          "140",
+          "9"
+        ],
+        [
+          "DOCE DE DICIEMBRE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL MOSTRENCO (EUSKAL)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EL PACÍFICO",
+          "2",
+          "47",
+          "27",
+          "20",
+          "3"
+        ],
+        [
+          "EL PERÚ",
+          "5",
+          "552",
+          "306",
+          "246",
+          "27"
+        ],
+        [
+          "JALISCO",
+          "2",
+          "164",
+          "78",
+          "86",
+          "8"
+        ],
+        [
+          "JIMULCO",
+          "2",
+          "72",
+          "38",
+          "34",
+          "4"
+        ],
+        [
+          "JUAN EUGENIO",
+          "5",
+          "459",
+          "235",
+          "224",
+          "33"
+        ],
+        [
+          "LA COLONIA",
+          "3",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LA CONCHA",
+          "5",
+          "1,741",
+          "835",
+          "906",
+          "106"
+        ],
+        [
+          "LA CONCHITA ROJA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "LA FLOR DE JIMULCO",
+          "4",
+          "271",
+          "123",
+          "148",
+          "24"
+        ],
+        [
+          "LA NUEVA COLONIA (PERALTA)",
+          "3",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "158",
+          "76",
+          "82",
+          "8"
+        ],
+        [
+          "LA PARTIDA",
+          "7",
+          "1,825",
+          "913",
+          "912",
+          "184"
+        ],
+        [
+          "LA PAZ",
+          "3",
+          "868",
+          "436",
+          "432",
+          "26"
+        ],
+        [
+          "LA PERLA",
+          "2",
+          "96",
+          "51",
+          "45",
+          "4"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "59",
+          "25",
+          "34",
+          "4"
+        ],
+        [
+          "NUEVO MIELERAS (LA TRES)",
+          "2",
+          "169",
+          "76",
+          "93",
+          "8"
+        ],
+        [
+          "PASO DEL ÁGUILA",
+          "2",
+          "169",
+          "80",
+          "89",
+          "7"
+        ],
+        [
+          "PROVIDENCIA",
+          "2",
+          "191",
+          "104",
+          "87",
+          "7"
+        ],
+        [
+          "RANCHO ALEGRE",
+          "3",
+          "336",
+          "164",
+          "172",
+          "12"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "2",
+          "79",
+          "43",
+          "36",
+          "6"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "458",
+          "228",
+          "230",
+          "15"
+        ],
+        [
+          "TORREÓN",
+          "1,049",
+          "193,007",
+          "97,137",
+          "95,870",
+          "14,937"
+        ],
+        [
+          "TOTAL",
+          "1,121",
+          "201,470",
+          "101,344",
+          "100,126",
+          "15,461"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:24.705Z"
+}

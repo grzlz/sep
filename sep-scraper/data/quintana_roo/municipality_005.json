@@ -1,0 +1,208 @@
+{
+  "municipality": "BENITO JUÁREZ",
+  "municipalityCode": "005",
+  "state": "QUINTANA ROO",
+  "stateCode": "23",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBACALAR\n\tBENITO JUÁREZ\n\tCOZUMEL\n\tFELIPE CARRILLO PUERTO\n\tISLA MUJERES\n\tJOSÉ MARÍA MORELOS\n\tLÁZARO CÁRDENAS\n\tOTHÓN P. BLANCO\n\tPUERTO MORELOS\n\tSOLIDARIDAD\n\tTULUM"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: BENITO JUÁREZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALFREDO V. BONFIL\n\t\t33\n\t\t4,849\n\t\t2,393\n\t\t2,456\n\t\t274\n\t\n\t\n\t\tCANCÚN\n\t\t781\n\t\t209,450\n\t\t104,301\n\t\t105,149\n\t\t13,354\n\t\n\t\n\t\tCOLONIA CHIAPANECA SIGLO XXI\n\t\t3\n\t\t73\n\t\t38\n\t\t35\n\t\t4\n\t\n\t\n\t\tEL PORVENIR\n\t\t3\n\t\t215\n\t\t106\n\t\t109\n\t\t10\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t30\n\t\t13\n\t\t17\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t823\n\t\t214,617\n\t\t106,851\n\t\t107,766\n\t\t13,646\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: BENITO JUÁREZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALFREDO V. BONFIL",
+          "33",
+          "4,849",
+          "2,393",
+          "2,456",
+          "274",
+          "CANCÚN",
+          "781",
+          "209,450",
+          "104,301",
+          "105,149",
+          "13,354",
+          "COLONIA CHIAPANECA SIGLO XXI",
+          "3",
+          "73",
+          "38",
+          "35",
+          "4",
+          "EL PORVENIR",
+          "3",
+          "215",
+          "106",
+          "109",
+          "10",
+          "EMILIANO ZAPATA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "4",
+          "TOTAL",
+          "823",
+          "214,617",
+          "106,851",
+          "107,766",
+          "13,646",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: BENITO JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL",
+          "33",
+          "4,849",
+          "2,393",
+          "2,456",
+          "274"
+        ],
+        [
+          "CANCÚN",
+          "781",
+          "209,450",
+          "104,301",
+          "105,149",
+          "13,354"
+        ],
+        [
+          "COLONIA CHIAPANECA SIGLO XXI",
+          "3",
+          "73",
+          "38",
+          "35",
+          "4"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "215",
+          "106",
+          "109",
+          "10"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "823",
+          "214,617",
+          "106,851",
+          "107,766",
+          "13,646"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: BENITO JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL",
+          "33",
+          "4,849",
+          "2,393",
+          "2,456",
+          "274"
+        ],
+        [
+          "CANCÚN",
+          "781",
+          "209,450",
+          "104,301",
+          "105,149",
+          "13,354"
+        ],
+        [
+          "COLONIA CHIAPANECA SIGLO XXI",
+          "3",
+          "73",
+          "38",
+          "35",
+          "4"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "215",
+          "106",
+          "109",
+          "10"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "823",
+          "214,617",
+          "106,851",
+          "107,766",
+          "13,646"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:27:35.831Z"
+}

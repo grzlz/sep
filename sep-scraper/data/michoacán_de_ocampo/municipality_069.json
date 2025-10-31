@@ -1,0 +1,802 @@
+{
+  "municipality": "LA PIEDAD",
+  "municipalityCode": "069",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LA PIEDAD\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACUITZIO\n\t\t3\n\t\t129\n\t\t72\n\t\t57\n\t\t9\n\t\n\t\n\t\tCOLONIA MELCHOR OCAMPO (ÁNIMAS GUSGAS)\n\t\t2\n\t\t44\n\t\t23\n\t\t21\n\t\t3\n\t\n\t\n\t\tCUJUARATO\n\t\t3\n\t\t47\n\t\t31\n\t\t16\n\t\t5\n\t\n\t\n\t\tEL ALGODONAL\n\t\t4\n\t\t149\n\t\t85\n\t\t64\n\t\t10\n\t\n\t\n\t\tEL CALABOCITO\n\t\t2\n\t\t45\n\t\t24\n\t\t21\n\t\t4\n\t\n\t\n\t\tEL CAUDILLO (CHORRERA DE SILVA)\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL FUERTE (SAN JUAN DEL FUERTE)\n\t\t5\n\t\t284\n\t\t137\n\t\t147\n\t\t15\n\t\n\t\n\t\tEL PANDILLO\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t1\n\t\n\t\n\t\tEL ZAPOTE\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t3\n\t\n\t\n\t\tGRANJA DE LOS ZAMBRANO\n\t\t1\n\t\t91\n\t\t48\n\t\t43\n\t\t5\n\t\n\t\n\t\tGUANAJUATILLO\n\t\t2\n\t\t160\n\t\t79\n\t\t81\n\t\t9\n\t\n\t\n\t\tHIGUERA DE SAN RAFAEL (LAS HIGUERAS)\n\t\t2\n\t\t43\n\t\t20\n\t\t23\n\t\t5\n\t\n\t\n\t\tJAUJA\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tLA CAMPANA\n\t\t3\n\t\t24\n\t\t10\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA ESCOBA\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA PIEDAD DE CABADAS\n\t\t145\n\t\t25,305\n\t\t13,049\n\t\t12,256\n\t\t1,526\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t3\n\t\t33\n\t\t18\n\t\t15\n\t\t4\n\t\n\t\n\t\tLAS CANOAS DEL SALTO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS GUAJES\n\t\t4\n\t\t310\n\t\t154\n\t\t156\n\t\t13\n\t\n\t\n\t\tLOS LÓPEZ\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS OCALES (TRINO LÓPEZ RAMÍREZ)\n\t\t2\n\t\t210\n\t\t109\n\t\t101\n\t\t7\n\t\n\t\n\t\tOJO DE AGUA DE SERRATO\n\t\t3\n\t\t54\n\t\t30\n\t\t24\n\t\t5\n\t\n\t\n\t\tPAREDONES\n\t\t3\n\t\t72\n\t\t31\n\t\t41\n\t\t6\n\t\n\t\n\t\tRÍO GRANDE\n\t\t4\n\t\t366\n\t\t170\n\t\t196\n\t\t18\n\t\n\t\n\t\tSAN CRISTÓBAL\n\t\t1\n\t\t22\n\t\t8\n\t\t14\n\t\t1\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTA CATARINA\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tTANQUE DE PEÑA\n\t\t3\n\t\t60\n\t\t21\n\t\t39\n\t\t5\n\t\n\t\n\t\tTAQUISCUAREO (LA FINCA)\n\t\t2\n\t\t39\n\t\t23\n\t\t16\n\t\t3\n\t\n\t\n\t\tTICUITACO (TOCUITACO)\n\t\t2\n\t\t61\n\t\t30\n\t\t31\n\t\t5\n\t\n\t\n\t\tVILLAS DE LAS LOMAS\n\t\t1\n\t\t207\n\t\t103\n\t\t104\n\t\t7\n\t\n\t\n\t\tZARAGOZA\n\t\t2\n\t\t107\n\t\t55\n\t\t52\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t214\n\t\t27,975\n\t\t14,383\n\t\t13,592\n\t\t1,690\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LA PIEDAD",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACUITZIO",
+          "3",
+          "129",
+          "72",
+          "57",
+          "9",
+          "COLONIA MELCHOR OCAMPO (ÁNIMAS GUSGAS)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3",
+          "CUJUARATO",
+          "3",
+          "47",
+          "31",
+          "16",
+          "5",
+          "EL ALGODONAL",
+          "4",
+          "149",
+          "85",
+          "64",
+          "10",
+          "EL CALABOCITO",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4",
+          "EL CAUDILLO (CHORRERA DE SILVA)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3",
+          "EL FUERTE (SAN JUAN DEL FUERTE)",
+          "5",
+          "284",
+          "137",
+          "147",
+          "15",
+          "EL PANDILLO",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1",
+          "EL ZAPOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3",
+          "GRANJA DE LOS ZAMBRANO",
+          "1",
+          "91",
+          "48",
+          "43",
+          "5",
+          "GUANAJUATILLO",
+          "2",
+          "160",
+          "79",
+          "81",
+          "9",
+          "HIGUERA DE SAN RAFAEL (LAS HIGUERAS)",
+          "2",
+          "43",
+          "20",
+          "23",
+          "5",
+          "JAUJA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2",
+          "LA CAMPANA",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3",
+          "LA ESCOBA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "LA PIEDAD DE CABADAS",
+          "145",
+          "25,305",
+          "13,049",
+          "12,256",
+          "1,526",
+          "LA PROVIDENCIA",
+          "3",
+          "33",
+          "18",
+          "15",
+          "4",
+          "LAS CANOAS DEL SALTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LOS GUAJES",
+          "4",
+          "310",
+          "154",
+          "156",
+          "13",
+          "LOS LÓPEZ",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "LOS OCALES (TRINO LÓPEZ RAMÍREZ)",
+          "2",
+          "210",
+          "109",
+          "101",
+          "7",
+          "OJO DE AGUA DE SERRATO",
+          "3",
+          "54",
+          "30",
+          "24",
+          "5",
+          "PAREDONES",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6",
+          "RÍO GRANDE",
+          "4",
+          "366",
+          "170",
+          "196",
+          "18",
+          "SAN CRISTÓBAL",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1",
+          "SAN JOAQUÍN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SANTA CATARINA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "TANQUE DE PEÑA",
+          "3",
+          "60",
+          "21",
+          "39",
+          "5",
+          "TAQUISCUAREO (LA FINCA)",
+          "2",
+          "39",
+          "23",
+          "16",
+          "3",
+          "TICUITACO (TOCUITACO)",
+          "2",
+          "61",
+          "30",
+          "31",
+          "5",
+          "VILLAS DE LAS LOMAS",
+          "1",
+          "207",
+          "103",
+          "104",
+          "7",
+          "ZARAGOZA",
+          "2",
+          "107",
+          "55",
+          "52",
+          "7",
+          "TOTAL",
+          "214",
+          "27,975",
+          "14,383",
+          "13,592",
+          "1,690",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LA PIEDAD"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACUITZIO",
+          "3",
+          "129",
+          "72",
+          "57",
+          "9"
+        ],
+        [
+          "COLONIA MELCHOR OCAMPO (ÁNIMAS GUSGAS)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3"
+        ],
+        [
+          "CUJUARATO",
+          "3",
+          "47",
+          "31",
+          "16",
+          "5"
+        ],
+        [
+          "EL ALGODONAL",
+          "4",
+          "149",
+          "85",
+          "64",
+          "10"
+        ],
+        [
+          "EL CALABOCITO",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "EL CAUDILLO (CHORRERA DE SILVA)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "EL FUERTE (SAN JUAN DEL FUERTE)",
+          "5",
+          "284",
+          "137",
+          "147",
+          "15"
+        ],
+        [
+          "EL PANDILLO",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "GRANJA DE LOS ZAMBRANO",
+          "1",
+          "91",
+          "48",
+          "43",
+          "5"
+        ],
+        [
+          "GUANAJUATILLO",
+          "2",
+          "160",
+          "79",
+          "81",
+          "9"
+        ],
+        [
+          "HIGUERA DE SAN RAFAEL (LAS HIGUERAS)",
+          "2",
+          "43",
+          "20",
+          "23",
+          "5"
+        ],
+        [
+          "JAUJA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "LA ESCOBA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LA PIEDAD DE CABADAS",
+          "145",
+          "25,305",
+          "13,049",
+          "12,256",
+          "1,526"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "3",
+          "33",
+          "18",
+          "15",
+          "4"
+        ],
+        [
+          "LAS CANOAS DEL SALTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS GUAJES",
+          "4",
+          "310",
+          "154",
+          "156",
+          "13"
+        ],
+        [
+          "LOS LÓPEZ",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LOS OCALES (TRINO LÓPEZ RAMÍREZ)",
+          "2",
+          "210",
+          "109",
+          "101",
+          "7"
+        ],
+        [
+          "OJO DE AGUA DE SERRATO",
+          "3",
+          "54",
+          "30",
+          "24",
+          "5"
+        ],
+        [
+          "PAREDONES",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6"
+        ],
+        [
+          "RÍO GRANDE",
+          "4",
+          "366",
+          "170",
+          "196",
+          "18"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TANQUE DE PEÑA",
+          "3",
+          "60",
+          "21",
+          "39",
+          "5"
+        ],
+        [
+          "TAQUISCUAREO (LA FINCA)",
+          "2",
+          "39",
+          "23",
+          "16",
+          "3"
+        ],
+        [
+          "TICUITACO (TOCUITACO)",
+          "2",
+          "61",
+          "30",
+          "31",
+          "5"
+        ],
+        [
+          "VILLAS DE LAS LOMAS",
+          "1",
+          "207",
+          "103",
+          "104",
+          "7"
+        ],
+        [
+          "ZARAGOZA",
+          "2",
+          "107",
+          "55",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "214",
+          "27,975",
+          "14,383",
+          "13,592",
+          "1,690"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LA PIEDAD"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACUITZIO",
+          "3",
+          "129",
+          "72",
+          "57",
+          "9"
+        ],
+        [
+          "COLONIA MELCHOR OCAMPO (ÁNIMAS GUSGAS)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3"
+        ],
+        [
+          "CUJUARATO",
+          "3",
+          "47",
+          "31",
+          "16",
+          "5"
+        ],
+        [
+          "EL ALGODONAL",
+          "4",
+          "149",
+          "85",
+          "64",
+          "10"
+        ],
+        [
+          "EL CALABOCITO",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "EL CAUDILLO (CHORRERA DE SILVA)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "EL FUERTE (SAN JUAN DEL FUERTE)",
+          "5",
+          "284",
+          "137",
+          "147",
+          "15"
+        ],
+        [
+          "EL PANDILLO",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "GRANJA DE LOS ZAMBRANO",
+          "1",
+          "91",
+          "48",
+          "43",
+          "5"
+        ],
+        [
+          "GUANAJUATILLO",
+          "2",
+          "160",
+          "79",
+          "81",
+          "9"
+        ],
+        [
+          "HIGUERA DE SAN RAFAEL (LAS HIGUERAS)",
+          "2",
+          "43",
+          "20",
+          "23",
+          "5"
+        ],
+        [
+          "JAUJA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "LA ESCOBA",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LA PIEDAD DE CABADAS",
+          "145",
+          "25,305",
+          "13,049",
+          "12,256",
+          "1,526"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "3",
+          "33",
+          "18",
+          "15",
+          "4"
+        ],
+        [
+          "LAS CANOAS DEL SALTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS GUAJES",
+          "4",
+          "310",
+          "154",
+          "156",
+          "13"
+        ],
+        [
+          "LOS LÓPEZ",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LOS OCALES (TRINO LÓPEZ RAMÍREZ)",
+          "2",
+          "210",
+          "109",
+          "101",
+          "7"
+        ],
+        [
+          "OJO DE AGUA DE SERRATO",
+          "3",
+          "54",
+          "30",
+          "24",
+          "5"
+        ],
+        [
+          "PAREDONES",
+          "3",
+          "72",
+          "31",
+          "41",
+          "6"
+        ],
+        [
+          "RÍO GRANDE",
+          "4",
+          "366",
+          "170",
+          "196",
+          "18"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "1",
+          "22",
+          "8",
+          "14",
+          "1"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TANQUE DE PEÑA",
+          "3",
+          "60",
+          "21",
+          "39",
+          "5"
+        ],
+        [
+          "TAQUISCUAREO (LA FINCA)",
+          "2",
+          "39",
+          "23",
+          "16",
+          "3"
+        ],
+        [
+          "TICUITACO (TOCUITACO)",
+          "2",
+          "61",
+          "30",
+          "31",
+          "5"
+        ],
+        [
+          "VILLAS DE LAS LOMAS",
+          "1",
+          "207",
+          "103",
+          "104",
+          "7"
+        ],
+        [
+          "ZARAGOZA",
+          "2",
+          "107",
+          "55",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "214",
+          "27,975",
+          "14,383",
+          "13,592",
+          "1,690"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:20.295Z"
+}

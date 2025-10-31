@@ -1,0 +1,1176 @@
+{
+  "municipality": "COPAINALÁ",
+  "municipalityCode": "021",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: COPAINALÁ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t3\n\t\t97\n\t\t50\n\t\t47\n\t\t4\n\t\n\t\n\t\tAGUSTÍN DE ITURBIDE\n\t\t4\n\t\t235\n\t\t121\n\t\t114\n\t\t13\n\t\n\t\n\t\tÁNGEL ALBINO CORZO (GUADALUPE)\n\t\t6\n\t\t585\n\t\t304\n\t\t281\n\t\t30\n\t\n\t\n\t\tBELLAVISTA\n\t\t4\n\t\t40\n\t\t21\n\t\t19\n\t\t4\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t4\n\t\t433\n\t\t215\n\t\t218\n\t\t22\n\t\n\t\n\t\tCAMPECHE\n\t\t3\n\t\t181\n\t\t81\n\t\t100\n\t\t11\n\t\n\t\n\t\tCANDELARIA\n\t\t3\n\t\t59\n\t\t26\n\t\t33\n\t\t3\n\t\n\t\n\t\tCHILPANCINGO\n\t\t2\n\t\t55\n\t\t22\n\t\t33\n\t\t3\n\t\n\t\n\t\tCOPAINALÁ\n\t\t21\n\t\t2,844\n\t\t1,429\n\t\t1,415\n\t\t167\n\t\n\t\n\t\tCOPANO\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tCOSTA ALEGRE\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t3\n\t\n\t\n\t\tDIVISIÓN DEL NORTE (LA LAGUNA Y SAN VICENTE)\n\t\t3\n\t\t40\n\t\t21\n\t\t19\n\t\t4\n\t\n\t\n\t\tEL BAQUETAL\n\t\t3\n\t\t47\n\t\t21\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL CIPRÉS\n\t\t4\n\t\t209\n\t\t110\n\t\t99\n\t\t11\n\t\n\t\n\t\tEL LIMÓN (EL AGUACATE)\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL ROSARIO\n\t\t2\n\t\t106\n\t\t46\n\t\t60\n\t\t6\n\t\n\t\n\t\tFRANCISCO SARABIA\n\t\t2\n\t\t48\n\t\t24\n\t\t24\n\t\t3\n\t\n\t\n\t\tGENERAL SANDINO\n\t\t2\n\t\t64\n\t\t25\n\t\t39\n\t\t3\n\t\n\t\n\t\tHONDURAS\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t5\n\t\t256\n\t\t120\n\t\t136\n\t\t14\n\t\n\t\n\t\tINDEPENDENCIA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN\n\t\t2\n\t\t65\n\t\t38\n\t\t27\n\t\t3\n\t\n\t\n\t\tJULIÁN GRAJALES (SAN ANTONIO)\n\t\t2\n\t\t70\n\t\t35\n\t\t35\n\t\t6\n\t\n\t\n\t\tLA ESPERANZA\n\t\t3\n\t\t20\n\t\t7\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA NUEVA\n\t\t3\n\t\t165\n\t\t81\n\t\t84\n\t\t9\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t95\n\t\t55\n\t\t40\n\t\t6\n\t\n\t\n\t\tMIGUEL HIDALGO (ZACALAPA)\n\t\t3\n\t\t220\n\t\t106\n\t\t114\n\t\t11\n\t\n\t\n\t\tNUEVO PROGRESO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tNUEVO VERGEL\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t3\n\t\n\t\n\t\tRÍO GRANDE\n\t\t2\n\t\t43\n\t\t20\n\t\t23\n\t\t2\n\t\n\t\n\t\tSAN GERÓNIMO\n\t\t2\n\t\t42\n\t\t22\n\t\t20\n\t\t3\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t60\n\t\t35\n\t\t25\n\t\t5\n\t\n\t\n\t\tSAN ISIDRO (SAN ANTONIO)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ (SAN MARCOS)\n\t\t1\n\t\t18\n\t\t8\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ MOTEJÉN\n\t\t2\n\t\t70\n\t\t31\n\t\t39\n\t\t3\n\t\n\t\n\t\tSAN MARCOS I\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN PEDRO\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN VICENTE (RIBERA HIDALGO)\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tSANTA CATALINA\n\t\t1\n\t\t22\n\t\t11\n\t\t11\n\t\t1\n\t\n\t\n\t\tSANTA CATARINA\n\t\t2\n\t\t58\n\t\t26\n\t\t32\n\t\t4\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t2\n\t\t49\n\t\t27\n\t\t22\n\t\t3\n\t\n\t\n\t\tTRES PICOS\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tTUÑAJÉN (SAN RAFAEL)\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t134\n\t\t6,694\n\t\t3,339\n\t\t3,355\n\t\t398\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: COPAINALÁ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "97",
+          "50",
+          "47",
+          "4",
+          "AGUSTÍN DE ITURBIDE",
+          "4",
+          "235",
+          "121",
+          "114",
+          "13",
+          "ÁNGEL ALBINO CORZO (GUADALUPE)",
+          "6",
+          "585",
+          "304",
+          "281",
+          "30",
+          "BELLAVISTA",
+          "4",
+          "40",
+          "21",
+          "19",
+          "4",
+          "BENITO JUÁREZ",
+          "4",
+          "433",
+          "215",
+          "218",
+          "22",
+          "CAMPECHE",
+          "3",
+          "181",
+          "81",
+          "100",
+          "11",
+          "CANDELARIA",
+          "3",
+          "59",
+          "26",
+          "33",
+          "3",
+          "CHILPANCINGO",
+          "2",
+          "55",
+          "22",
+          "33",
+          "3",
+          "COPAINALÁ",
+          "21",
+          "2,844",
+          "1,429",
+          "1,415",
+          "167",
+          "COPANO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "COSTA ALEGRE",
+          "2",
+          "21",
+          "8",
+          "13",
+          "3",
+          "DIVISIÓN DEL NORTE (LA LAGUNA Y SAN VICENTE)",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4",
+          "EL BAQUETAL",
+          "3",
+          "47",
+          "21",
+          "26",
+          "3",
+          "EL CIPRÉS",
+          "4",
+          "209",
+          "110",
+          "99",
+          "11",
+          "EL LIMÓN (EL AGUACATE)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "EL ROSARIO",
+          "2",
+          "106",
+          "46",
+          "60",
+          "6",
+          "FRANCISCO SARABIA",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3",
+          "GENERAL SANDINO",
+          "2",
+          "64",
+          "25",
+          "39",
+          "3",
+          "HONDURAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "IGNACIO ZARAGOZA",
+          "5",
+          "256",
+          "120",
+          "136",
+          "14",
+          "INDEPENDENCIA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "1",
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "2",
+          "65",
+          "38",
+          "27",
+          "3",
+          "JULIÁN GRAJALES (SAN ANTONIO)",
+          "2",
+          "70",
+          "35",
+          "35",
+          "6",
+          "LA ESPERANZA",
+          "3",
+          "20",
+          "7",
+          "13",
+          "3",
+          "LA NUEVA",
+          "3",
+          "165",
+          "81",
+          "84",
+          "9",
+          "LA PROVIDENCIA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "LA TRINIDAD",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6",
+          "MIGUEL HIDALGO (ZACALAPA)",
+          "3",
+          "220",
+          "106",
+          "114",
+          "11",
+          "NUEVO PROGRESO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "NUEVO VERGEL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "3",
+          "RÍO GRANDE",
+          "2",
+          "43",
+          "20",
+          "23",
+          "2",
+          "SAN GERÓNIMO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "3",
+          "SAN ISIDRO",
+          "2",
+          "60",
+          "35",
+          "25",
+          "5",
+          "SAN ISIDRO (SAN ANTONIO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SAN JOSÉ",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "SAN JOSÉ (SAN MARCOS)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1",
+          "SAN JOSÉ MOTEJÉN",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3",
+          "SAN MARCOS I",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3",
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "SAN PEDRO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2",
+          "SAN VICENTE (RIBERA HIDALGO)",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "SANTA CATALINA",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1",
+          "SANTA CATARINA",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4",
+          "SANTA LUCÍA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "TIERRA BLANCA",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3",
+          "TRES PICOS",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "TUÑAJÉN (SAN RAFAEL)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3",
+          "VISTA HERMOSA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "TOTAL",
+          "134",
+          "6,694",
+          "3,339",
+          "3,355",
+          "398",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: COPAINALÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "97",
+          "50",
+          "47",
+          "4"
+        ],
+        [
+          "AGUSTÍN DE ITURBIDE",
+          "4",
+          "235",
+          "121",
+          "114",
+          "13"
+        ],
+        [
+          "ÁNGEL ALBINO CORZO (GUADALUPE)",
+          "6",
+          "585",
+          "304",
+          "281",
+          "30"
+        ],
+        [
+          "BELLAVISTA",
+          "4",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "433",
+          "215",
+          "218",
+          "22"
+        ],
+        [
+          "CAMPECHE",
+          "3",
+          "181",
+          "81",
+          "100",
+          "11"
+        ],
+        [
+          "CANDELARIA",
+          "3",
+          "59",
+          "26",
+          "33",
+          "3"
+        ],
+        [
+          "CHILPANCINGO",
+          "2",
+          "55",
+          "22",
+          "33",
+          "3"
+        ],
+        [
+          "COPAINALÁ",
+          "21",
+          "2,844",
+          "1,429",
+          "1,415",
+          "167"
+        ],
+        [
+          "COPANO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "COSTA ALEGRE",
+          "2",
+          "21",
+          "8",
+          "13",
+          "3"
+        ],
+        [
+          "DIVISIÓN DEL NORTE (LA LAGUNA Y SAN VICENTE)",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "EL BAQUETAL",
+          "3",
+          "47",
+          "21",
+          "26",
+          "3"
+        ],
+        [
+          "EL CIPRÉS",
+          "4",
+          "209",
+          "110",
+          "99",
+          "11"
+        ],
+        [
+          "EL LIMÓN (EL AGUACATE)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "2",
+          "106",
+          "46",
+          "60",
+          "6"
+        ],
+        [
+          "FRANCISCO SARABIA",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3"
+        ],
+        [
+          "GENERAL SANDINO",
+          "2",
+          "64",
+          "25",
+          "39",
+          "3"
+        ],
+        [
+          "HONDURAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "5",
+          "256",
+          "120",
+          "136",
+          "14"
+        ],
+        [
+          "INDEPENDENCIA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "2",
+          "65",
+          "38",
+          "27",
+          "3"
+        ],
+        [
+          "JULIÁN GRAJALES (SAN ANTONIO)",
+          "2",
+          "70",
+          "35",
+          "35",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "20",
+          "7",
+          "13",
+          "3"
+        ],
+        [
+          "LA NUEVA",
+          "3",
+          "165",
+          "81",
+          "84",
+          "9"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6"
+        ],
+        [
+          "MIGUEL HIDALGO (ZACALAPA)",
+          "3",
+          "220",
+          "106",
+          "114",
+          "11"
+        ],
+        [
+          "NUEVO PROGRESO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "NUEVO VERGEL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "3"
+        ],
+        [
+          "RÍO GRANDE",
+          "2",
+          "43",
+          "20",
+          "23",
+          "2"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "3"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "60",
+          "35",
+          "25",
+          "5"
+        ],
+        [
+          "SAN ISIDRO (SAN ANTONIO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ (SAN MARCOS)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "SAN JOSÉ MOTEJÉN",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3"
+        ],
+        [
+          "SAN MARCOS I",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN VICENTE (RIBERA HIDALGO)",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA CATALINA",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4"
+        ],
+        [
+          "SANTA LUCÍA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "TRES PICOS",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "TUÑAJÉN (SAN RAFAEL)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "134",
+          "6,694",
+          "3,339",
+          "3,355",
+          "398"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: COPAINALÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "97",
+          "50",
+          "47",
+          "4"
+        ],
+        [
+          "AGUSTÍN DE ITURBIDE",
+          "4",
+          "235",
+          "121",
+          "114",
+          "13"
+        ],
+        [
+          "ÁNGEL ALBINO CORZO (GUADALUPE)",
+          "6",
+          "585",
+          "304",
+          "281",
+          "30"
+        ],
+        [
+          "BELLAVISTA",
+          "4",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "433",
+          "215",
+          "218",
+          "22"
+        ],
+        [
+          "CAMPECHE",
+          "3",
+          "181",
+          "81",
+          "100",
+          "11"
+        ],
+        [
+          "CANDELARIA",
+          "3",
+          "59",
+          "26",
+          "33",
+          "3"
+        ],
+        [
+          "CHILPANCINGO",
+          "2",
+          "55",
+          "22",
+          "33",
+          "3"
+        ],
+        [
+          "COPAINALÁ",
+          "21",
+          "2,844",
+          "1,429",
+          "1,415",
+          "167"
+        ],
+        [
+          "COPANO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "COSTA ALEGRE",
+          "2",
+          "21",
+          "8",
+          "13",
+          "3"
+        ],
+        [
+          "DIVISIÓN DEL NORTE (LA LAGUNA Y SAN VICENTE)",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "EL BAQUETAL",
+          "3",
+          "47",
+          "21",
+          "26",
+          "3"
+        ],
+        [
+          "EL CIPRÉS",
+          "4",
+          "209",
+          "110",
+          "99",
+          "11"
+        ],
+        [
+          "EL LIMÓN (EL AGUACATE)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "2",
+          "106",
+          "46",
+          "60",
+          "6"
+        ],
+        [
+          "FRANCISCO SARABIA",
+          "2",
+          "48",
+          "24",
+          "24",
+          "3"
+        ],
+        [
+          "GENERAL SANDINO",
+          "2",
+          "64",
+          "25",
+          "39",
+          "3"
+        ],
+        [
+          "HONDURAS",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "5",
+          "256",
+          "120",
+          "136",
+          "14"
+        ],
+        [
+          "INDEPENDENCIA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "2",
+          "65",
+          "38",
+          "27",
+          "3"
+        ],
+        [
+          "JULIÁN GRAJALES (SAN ANTONIO)",
+          "2",
+          "70",
+          "35",
+          "35",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "20",
+          "7",
+          "13",
+          "3"
+        ],
+        [
+          "LA NUEVA",
+          "3",
+          "165",
+          "81",
+          "84",
+          "9"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6"
+        ],
+        [
+          "MIGUEL HIDALGO (ZACALAPA)",
+          "3",
+          "220",
+          "106",
+          "114",
+          "11"
+        ],
+        [
+          "NUEVO PROGRESO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "NUEVO VERGEL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "3"
+        ],
+        [
+          "RÍO GRANDE",
+          "2",
+          "43",
+          "20",
+          "23",
+          "2"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "3"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "60",
+          "35",
+          "25",
+          "5"
+        ],
+        [
+          "SAN ISIDRO (SAN ANTONIO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JOSÉ",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ (SAN MARCOS)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "SAN JOSÉ MOTEJÉN",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3"
+        ],
+        [
+          "SAN MARCOS I",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN VICENTE (RIBERA HIDALGO)",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA CATALINA",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4"
+        ],
+        [
+          "SANTA LUCÍA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "TRES PICOS",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "TUÑAJÉN (SAN RAFAEL)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "134",
+          "6,694",
+          "3,339",
+          "3,355",
+          "398"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:59.014Z"
+}

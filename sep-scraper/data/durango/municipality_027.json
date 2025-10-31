@@ -1,0 +1,802 @@
+{
+  "municipality": "SAN JUAN DE GUADALUPE",
+  "municipalityCode": "027",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DE GUADALUPE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACACIO (ESTACIÓN ACACIO)\n\t\t3\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tAGUA NUEVA\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tBENITO JUÁREZ (EL CAPADERO)\n\t\t3\n\t\t18\n\t\t9\n\t\t9\n\t\t3\n\t\n\t\n\t\tBUENAVISTA\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tCIPRIANO\n\t\t3\n\t\t26\n\t\t13\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL CERRITO\n\t\t2\n\t\t16\n\t\t11\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL DURAZNO\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL FLOREÑO\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL GRANJENO\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL PAVO (MINERAL EL DIEZ)\n\t\t3\n\t\t42\n\t\t18\n\t\t24\n\t\t4\n\t\n\t\n\t\tEL ZORRILLO\n\t\t3\n\t\t56\n\t\t23\n\t\t33\n\t\t5\n\t\n\t\n\t\tFRANCISCO I. MADERO (EL PERDIDO)\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tGUADALUPITO\n\t\t3\n\t\t75\n\t\t41\n\t\t34\n\t\t4\n\t\n\t\n\t\tLA BARRANCA\n\t\t1\n\t\t18\n\t\t13\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA ESCALERA\n\t\t2\n\t\t18\n\t\t6\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA PLANILLA\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA ROSITA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS (EL ZACATE)\n\t\t3\n\t\t54\n\t\t27\n\t\t27\n\t\t4\n\t\n\t\n\t\tLOS ESQUIVELES\n\t\t3\n\t\t52\n\t\t32\n\t\t20\n\t\t4\n\t\n\t\n\t\tMAGALLANES\n\t\t3\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tNUEVA REFORMA\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tPALOS ALTOS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tSABANILLA\n\t\t3\n\t\t13\n\t\t6\n\t\t7\n\t\t3\n\t\n\t\n\t\tSALITRILLO (LA PRESITA)\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DE LA LAGUNA\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO DE PERIBANES\n\t\t3\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tSAN JUAN DE GUADALUPE\n\t\t5\n\t\t573\n\t\t310\n\t\t263\n\t\t33\n\t\n\t\n\t\tSANTA CRUZ DEL ORÉGANO (EL ORÉGANO)\n\t\t3\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tSANTO NIÑO\n\t\t3\n\t\t50\n\t\t25\n\t\t25\n\t\t4\n\t\n\t\n\t\tSYMON (ESTACIÓN SYMON)\n\t\t2\n\t\t20\n\t\t13\n\t\t7\n\t\t2\n\t\n\t\n\t\tVICENTE GUERRERO (SIETE ZACATES)\n\t\t4\n\t\t114\n\t\t61\n\t\t53\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t77\n\t\t1,395\n\t\t733\n\t\t662\n\t\t114\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DE GUADALUPE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACACIO (ESTACIÓN ACACIO)",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3",
+          "AGUA NUEVA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "BENITO JUÁREZ (EL CAPADERO)",
+          "3",
+          "18",
+          "9",
+          "9",
+          "3",
+          "BUENAVISTA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "CIPRIANO",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3",
+          "EL CERRITO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2",
+          "EL DURAZNO",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2",
+          "EL FLOREÑO",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "EL GRANJENO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2",
+          "EL PAVO (MINERAL EL DIEZ)",
+          "3",
+          "42",
+          "18",
+          "24",
+          "4",
+          "EL ZORRILLO",
+          "3",
+          "56",
+          "23",
+          "33",
+          "5",
+          "FRANCISCO I. MADERO (EL PERDIDO)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2",
+          "GUADALUPITO",
+          "3",
+          "75",
+          "41",
+          "34",
+          "4",
+          "LA BARRANCA",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1",
+          "LA ESCALERA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2",
+          "LA PLANILLA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "LA PROVIDENCIA",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1",
+          "LA ROSITA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LÁZARO CÁRDENAS (EL ZACATE)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4",
+          "LOS ESQUIVELES",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4",
+          "MAGALLANES",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3",
+          "NUEVA REFORMA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "PALOS ALTOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "SABANILLA",
+          "3",
+          "13",
+          "6",
+          "7",
+          "3",
+          "SALITRILLO (LA PRESITA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3",
+          "SAN ANTONIO DE LA LAGUNA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "SAN FRANCISCO DE PERIBANES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3",
+          "SAN JUAN DE GUADALUPE",
+          "5",
+          "573",
+          "310",
+          "263",
+          "33",
+          "SANTA CRUZ DEL ORÉGANO (EL ORÉGANO)",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3",
+          "SANTO NIÑO",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4",
+          "SYMON (ESTACIÓN SYMON)",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2",
+          "VICENTE GUERRERO (SIETE ZACATES)",
+          "4",
+          "114",
+          "61",
+          "53",
+          "7",
+          "TOTAL",
+          "77",
+          "1,395",
+          "733",
+          "662",
+          "114",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DE GUADALUPE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACACIO (ESTACIÓN ACACIO)",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "AGUA NUEVA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "BENITO JUÁREZ (EL CAPADERO)",
+          "3",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "CIPRIANO",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "EL CERRITO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "EL FLOREÑO",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "EL GRANJENO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "EL PAVO (MINERAL EL DIEZ)",
+          "3",
+          "42",
+          "18",
+          "24",
+          "4"
+        ],
+        [
+          "EL ZORRILLO",
+          "3",
+          "56",
+          "23",
+          "33",
+          "5"
+        ],
+        [
+          "FRANCISCO I. MADERO (EL PERDIDO)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "GUADALUPITO",
+          "3",
+          "75",
+          "41",
+          "34",
+          "4"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1"
+        ],
+        [
+          "LA ESCALERA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "LA PLANILLA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA ROSITA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (EL ZACATE)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "LOS ESQUIVELES",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4"
+        ],
+        [
+          "MAGALLANES",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "NUEVA REFORMA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "PALOS ALTOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SABANILLA",
+          "3",
+          "13",
+          "6",
+          "7",
+          "3"
+        ],
+        [
+          "SALITRILLO (LA PRESITA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE LA LAGUNA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE PERIBANES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "SAN JUAN DE GUADALUPE",
+          "5",
+          "573",
+          "310",
+          "263",
+          "33"
+        ],
+        [
+          "SANTA CRUZ DEL ORÉGANO (EL ORÉGANO)",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "SANTO NIÑO",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "SYMON (ESTACIÓN SYMON)",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO (SIETE ZACATES)",
+          "4",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "1,395",
+          "733",
+          "662",
+          "114"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SAN JUAN DE GUADALUPE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACACIO (ESTACIÓN ACACIO)",
+          "3",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "AGUA NUEVA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "BENITO JUÁREZ (EL CAPADERO)",
+          "3",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "CIPRIANO",
+          "3",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "EL CERRITO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "EL FLOREÑO",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "EL GRANJENO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "EL PAVO (MINERAL EL DIEZ)",
+          "3",
+          "42",
+          "18",
+          "24",
+          "4"
+        ],
+        [
+          "EL ZORRILLO",
+          "3",
+          "56",
+          "23",
+          "33",
+          "5"
+        ],
+        [
+          "FRANCISCO I. MADERO (EL PERDIDO)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "GUADALUPITO",
+          "3",
+          "75",
+          "41",
+          "34",
+          "4"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1"
+        ],
+        [
+          "LA ESCALERA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "LA PLANILLA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA ROSITA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS (EL ZACATE)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "LOS ESQUIVELES",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4"
+        ],
+        [
+          "MAGALLANES",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "NUEVA REFORMA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "PALOS ALTOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SABANILLA",
+          "3",
+          "13",
+          "6",
+          "7",
+          "3"
+        ],
+        [
+          "SALITRILLO (LA PRESITA)",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE LA LAGUNA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE PERIBANES",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "SAN JUAN DE GUADALUPE",
+          "5",
+          "573",
+          "310",
+          "263",
+          "33"
+        ],
+        [
+          "SANTA CRUZ DEL ORÉGANO (EL ORÉGANO)",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "SANTO NIÑO",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "SYMON (ESTACIÓN SYMON)",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO (SIETE ZACATES)",
+          "4",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "1,395",
+          "733",
+          "662",
+          "114"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:31.984Z"
+}

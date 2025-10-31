@@ -1,0 +1,714 @@
+{
+  "municipality": "LA BARCA",
+  "municipalityCode": "018",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: LA BARCA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCARRASQUEÑO\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t2\n\t\n\t\n\t\tCÓNDIRO\n\t\t2\n\t\t124\n\t\t61\n\t\t63\n\t\t8\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t131\n\t\t63\n\t\t68\n\t\t8\n\t\n\t\n\t\tEL GOBERNADOR\n\t\t3\n\t\t198\n\t\t89\n\t\t109\n\t\t11\n\t\n\t\n\t\tEL LIMÓN\n\t\t2\n\t\t104\n\t\t52\n\t\t52\n\t\t5\n\t\n\t\n\t\tEL LOPEÑO (GUAJAZO)\n\t\t3\n\t\t61\n\t\t25\n\t\t36\n\t\t4\n\t\n\t\n\t\tEL LORETO OCCIDENTAL\n\t\t2\n\t\t181\n\t\t89\n\t\t92\n\t\t9\n\t\n\t\n\t\tEL MIRTO\n\t\t2\n\t\t76\n\t\t45\n\t\t31\n\t\t5\n\t\n\t\n\t\tGENERAL GABRIEL LEYVA\n\t\t1\n\t\t35\n\t\t14\n\t\t21\n\t\t2\n\t\n\t\n\t\tGUADALUPE DEL LERMA\n\t\t3\n\t\t240\n\t\t133\n\t\t107\n\t\t12\n\t\n\t\n\t\tHACIENDA DEL TARENGO\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA BARCA\n\t\t51\n\t\t12,506\n\t\t6,116\n\t\t6,390\n\t\t649\n\t\n\t\n\t\tLA PAZ DE ORDAZ\n\t\t3\n\t\t300\n\t\t130\n\t\t170\n\t\t14\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t145\n\t\t79\n\t\t66\n\t\t8\n\t\n\t\n\t\tLA PUERTA DE GUAMÚCHIL\n\t\t2\n\t\t91\n\t\t47\n\t\t44\n\t\t6\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tLOS CANALES\n\t\t3\n\t\t243\n\t\t118\n\t\t125\n\t\t12\n\t\n\t\n\t\tLOS GUAYABOS\n\t\t3\n\t\t158\n\t\t74\n\t\t84\n\t\t9\n\t\n\t\n\t\tPORTEZUELO\n\t\t6\n\t\t852\n\t\t412\n\t\t440\n\t\t59\n\t\n\t\n\t\tSAN ANTONIO DE RIVAS\n\t\t5\n\t\t629\n\t\t299\n\t\t330\n\t\t29\n\t\n\t\n\t\tSAN FRANCISCO DE RIVAS\n\t\t4\n\t\t272\n\t\t129\n\t\t143\n\t\t16\n\t\n\t\n\t\tSAN JOSÉ CASAS CAÍDAS\n\t\t4\n\t\t389\n\t\t206\n\t\t183\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ DE LAS MORAS\n\t\t3\n\t\t230\n\t\t105\n\t\t125\n\t\t11\n\t\n\t\n\t\tSAN PEDRO DE RUIZ\n\t\t2\n\t\t160\n\t\t79\n\t\t81\n\t\t8\n\t\n\t\n\t\tSAN RAMÓN\n\t\t3\n\t\t343\n\t\t162\n\t\t181\n\t\t14\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t3\n\t\t176\n\t\t83\n\t\t93\n\t\t11\n\t\n\t\n\t\tVILLA DE GARCÍA MÁRQUEZ (EL TARENGO NUEVO)\n\t\t3\n\t\t351\n\t\t163\n\t\t188\n\t\t16\n\t\n\t\n\t\tZALAMEA\n\t\t3\n\t\t302\n\t\t153\n\t\t149\n\t\t15\n\t\n\t\n\t\tTOTAL\n\t\t125\n\t\t18,365\n\t\t8,952\n\t\t9,413\n\t\t971\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: LA BARCA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CARRASQUEÑO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2",
+          "CÓNDIRO",
+          "2",
+          "124",
+          "61",
+          "63",
+          "8",
+          "EL CARMEN",
+          "2",
+          "131",
+          "63",
+          "68",
+          "8",
+          "EL GOBERNADOR",
+          "3",
+          "198",
+          "89",
+          "109",
+          "11",
+          "EL LIMÓN",
+          "2",
+          "104",
+          "52",
+          "52",
+          "5",
+          "EL LOPEÑO (GUAJAZO)",
+          "3",
+          "61",
+          "25",
+          "36",
+          "4",
+          "EL LORETO OCCIDENTAL",
+          "2",
+          "181",
+          "89",
+          "92",
+          "9",
+          "EL MIRTO",
+          "2",
+          "76",
+          "45",
+          "31",
+          "5",
+          "GENERAL GABRIEL LEYVA",
+          "1",
+          "35",
+          "14",
+          "21",
+          "2",
+          "GUADALUPE DEL LERMA",
+          "3",
+          "240",
+          "133",
+          "107",
+          "12",
+          "HACIENDA DEL TARENGO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "LA BARCA",
+          "51",
+          "12,506",
+          "6,116",
+          "6,390",
+          "649",
+          "LA PAZ DE ORDAZ",
+          "3",
+          "300",
+          "130",
+          "170",
+          "14",
+          "LA PROVIDENCIA",
+          "2",
+          "145",
+          "79",
+          "66",
+          "8",
+          "LA PUERTA DE GUAMÚCHIL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "6",
+          "LOS ÁNGELES",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2",
+          "LOS CANALES",
+          "3",
+          "243",
+          "118",
+          "125",
+          "12",
+          "LOS GUAYABOS",
+          "3",
+          "158",
+          "74",
+          "84",
+          "9",
+          "PORTEZUELO",
+          "6",
+          "852",
+          "412",
+          "440",
+          "59",
+          "SAN ANTONIO DE RIVAS",
+          "5",
+          "629",
+          "299",
+          "330",
+          "29",
+          "SAN FRANCISCO DE RIVAS",
+          "4",
+          "272",
+          "129",
+          "143",
+          "16",
+          "SAN JOSÉ CASAS CAÍDAS",
+          "4",
+          "389",
+          "206",
+          "183",
+          "24",
+          "SAN JOSÉ DE LAS MORAS",
+          "3",
+          "230",
+          "105",
+          "125",
+          "11",
+          "SAN PEDRO DE RUIZ",
+          "2",
+          "160",
+          "79",
+          "81",
+          "8",
+          "SAN RAMÓN",
+          "3",
+          "343",
+          "162",
+          "181",
+          "14",
+          "SANTA LUCÍA",
+          "3",
+          "176",
+          "83",
+          "93",
+          "11",
+          "VILLA DE GARCÍA MÁRQUEZ (EL TARENGO NUEVO)",
+          "3",
+          "351",
+          "163",
+          "188",
+          "16",
+          "ZALAMEA",
+          "3",
+          "302",
+          "153",
+          "149",
+          "15",
+          "TOTAL",
+          "125",
+          "18,365",
+          "8,952",
+          "9,413",
+          "971",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: LA BARCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CARRASQUEÑO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "CÓNDIRO",
+          "2",
+          "124",
+          "61",
+          "63",
+          "8"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "131",
+          "63",
+          "68",
+          "8"
+        ],
+        [
+          "EL GOBERNADOR",
+          "3",
+          "198",
+          "89",
+          "109",
+          "11"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "104",
+          "52",
+          "52",
+          "5"
+        ],
+        [
+          "EL LOPEÑO (GUAJAZO)",
+          "3",
+          "61",
+          "25",
+          "36",
+          "4"
+        ],
+        [
+          "EL LORETO OCCIDENTAL",
+          "2",
+          "181",
+          "89",
+          "92",
+          "9"
+        ],
+        [
+          "EL MIRTO",
+          "2",
+          "76",
+          "45",
+          "31",
+          "5"
+        ],
+        [
+          "GENERAL GABRIEL LEYVA",
+          "1",
+          "35",
+          "14",
+          "21",
+          "2"
+        ],
+        [
+          "GUADALUPE DEL LERMA",
+          "3",
+          "240",
+          "133",
+          "107",
+          "12"
+        ],
+        [
+          "HACIENDA DEL TARENGO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "LA BARCA",
+          "51",
+          "12,506",
+          "6,116",
+          "6,390",
+          "649"
+        ],
+        [
+          "LA PAZ DE ORDAZ",
+          "3",
+          "300",
+          "130",
+          "170",
+          "14"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "145",
+          "79",
+          "66",
+          "8"
+        ],
+        [
+          "LA PUERTA DE GUAMÚCHIL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "6"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "LOS CANALES",
+          "3",
+          "243",
+          "118",
+          "125",
+          "12"
+        ],
+        [
+          "LOS GUAYABOS",
+          "3",
+          "158",
+          "74",
+          "84",
+          "9"
+        ],
+        [
+          "PORTEZUELO",
+          "6",
+          "852",
+          "412",
+          "440",
+          "59"
+        ],
+        [
+          "SAN ANTONIO DE RIVAS",
+          "5",
+          "629",
+          "299",
+          "330",
+          "29"
+        ],
+        [
+          "SAN FRANCISCO DE RIVAS",
+          "4",
+          "272",
+          "129",
+          "143",
+          "16"
+        ],
+        [
+          "SAN JOSÉ CASAS CAÍDAS",
+          "4",
+          "389",
+          "206",
+          "183",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE LAS MORAS",
+          "3",
+          "230",
+          "105",
+          "125",
+          "11"
+        ],
+        [
+          "SAN PEDRO DE RUIZ",
+          "2",
+          "160",
+          "79",
+          "81",
+          "8"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "343",
+          "162",
+          "181",
+          "14"
+        ],
+        [
+          "SANTA LUCÍA",
+          "3",
+          "176",
+          "83",
+          "93",
+          "11"
+        ],
+        [
+          "VILLA DE GARCÍA MÁRQUEZ (EL TARENGO NUEVO)",
+          "3",
+          "351",
+          "163",
+          "188",
+          "16"
+        ],
+        [
+          "ZALAMEA",
+          "3",
+          "302",
+          "153",
+          "149",
+          "15"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "18,365",
+          "8,952",
+          "9,413",
+          "971"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: LA BARCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CARRASQUEÑO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "CÓNDIRO",
+          "2",
+          "124",
+          "61",
+          "63",
+          "8"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "131",
+          "63",
+          "68",
+          "8"
+        ],
+        [
+          "EL GOBERNADOR",
+          "3",
+          "198",
+          "89",
+          "109",
+          "11"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "104",
+          "52",
+          "52",
+          "5"
+        ],
+        [
+          "EL LOPEÑO (GUAJAZO)",
+          "3",
+          "61",
+          "25",
+          "36",
+          "4"
+        ],
+        [
+          "EL LORETO OCCIDENTAL",
+          "2",
+          "181",
+          "89",
+          "92",
+          "9"
+        ],
+        [
+          "EL MIRTO",
+          "2",
+          "76",
+          "45",
+          "31",
+          "5"
+        ],
+        [
+          "GENERAL GABRIEL LEYVA",
+          "1",
+          "35",
+          "14",
+          "21",
+          "2"
+        ],
+        [
+          "GUADALUPE DEL LERMA",
+          "3",
+          "240",
+          "133",
+          "107",
+          "12"
+        ],
+        [
+          "HACIENDA DEL TARENGO",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "LA BARCA",
+          "51",
+          "12,506",
+          "6,116",
+          "6,390",
+          "649"
+        ],
+        [
+          "LA PAZ DE ORDAZ",
+          "3",
+          "300",
+          "130",
+          "170",
+          "14"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "145",
+          "79",
+          "66",
+          "8"
+        ],
+        [
+          "LA PUERTA DE GUAMÚCHIL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "6"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "LOS CANALES",
+          "3",
+          "243",
+          "118",
+          "125",
+          "12"
+        ],
+        [
+          "LOS GUAYABOS",
+          "3",
+          "158",
+          "74",
+          "84",
+          "9"
+        ],
+        [
+          "PORTEZUELO",
+          "6",
+          "852",
+          "412",
+          "440",
+          "59"
+        ],
+        [
+          "SAN ANTONIO DE RIVAS",
+          "5",
+          "629",
+          "299",
+          "330",
+          "29"
+        ],
+        [
+          "SAN FRANCISCO DE RIVAS",
+          "4",
+          "272",
+          "129",
+          "143",
+          "16"
+        ],
+        [
+          "SAN JOSÉ CASAS CAÍDAS",
+          "4",
+          "389",
+          "206",
+          "183",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE LAS MORAS",
+          "3",
+          "230",
+          "105",
+          "125",
+          "11"
+        ],
+        [
+          "SAN PEDRO DE RUIZ",
+          "2",
+          "160",
+          "79",
+          "81",
+          "8"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "343",
+          "162",
+          "181",
+          "14"
+        ],
+        [
+          "SANTA LUCÍA",
+          "3",
+          "176",
+          "83",
+          "93",
+          "11"
+        ],
+        [
+          "VILLA DE GARCÍA MÁRQUEZ (EL TARENGO NUEVO)",
+          "3",
+          "351",
+          "163",
+          "188",
+          "16"
+        ],
+        [
+          "ZALAMEA",
+          "3",
+          "302",
+          "153",
+          "149",
+          "15"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "18,365",
+          "8,952",
+          "9,413",
+          "971"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:21.712Z"
+}

@@ -1,0 +1,824 @@
+{
+  "municipality": "EL BOSQUE",
+  "municipalityCode": "014",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL BOSQUE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTAGRACIA\n\t\t3\n\t\t164\n\t\t82\n\t\t82\n\t\t10\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t4\n\t\t503\n\t\t249\n\t\t254\n\t\t22\n\t\n\t\n\t\tARGENTINA\n\t\t2\n\t\t66\n\t\t29\n\t\t37\n\t\t3\n\t\n\t\n\t\tCARMEN EL OCOTAL\n\t\t1\n\t\t42\n\t\t22\n\t\t20\n\t\t2\n\t\n\t\n\t\tCARMEN GUAYABAL\n\t\t3\n\t\t50\n\t\t20\n\t\t30\n\t\t4\n\t\n\t\n\t\tCARMEN GUAYABAL DOS\n\t\t3\n\t\t51\n\t\t21\n\t\t30\n\t\t4\n\t\n\t\n\t\tCHABAJEBAL\n\t\t3\n\t\t465\n\t\t235\n\t\t230\n\t\t21\n\t\n\t\n\t\tEL BOSQUE\n\t\t11\n\t\t1,967\n\t\t995\n\t\t972\n\t\t84\n\t\n\t\n\t\tEL CARRIZAL\n\t\t3\n\t\t278\n\t\t152\n\t\t126\n\t\t10\n\t\n\t\n\t\tEL PALMAR\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL PEDREGAL\n\t\t1\n\t\t108\n\t\t61\n\t\t47\n\t\t4\n\t\n\t\n\t\tFLORENCIA\n\t\t2\n\t\t84\n\t\t41\n\t\t43\n\t\t3\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t3\n\t\n\t\n\t\tLAS DELICIAS\n\t\t5\n\t\t271\n\t\t120\n\t\t151\n\t\t11\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t2\n\t\t244\n\t\t111\n\t\t133\n\t\t9\n\t\n\t\n\t\tMERCEDES LA ILUSIÓN\n\t\t2\n\t\t101\n\t\t53\n\t\t48\n\t\t4\n\t\n\t\n\t\tNUEVA ESPERANZA\n\t\t2\n\t\t39\n\t\t22\n\t\t17\n\t\t3\n\t\n\t\n\t\tNUEVA JERUSALÉN\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t2\n\t\n\t\n\t\tNUEVA UCRANIA\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tPLÁTANOS\n\t\t4\n\t\t1,126\n\t\t561\n\t\t565\n\t\t38\n\t\n\t\n\t\tSABINOTIC\n\t\t2\n\t\t94\n\t\t52\n\t\t42\n\t\t4\n\t\n\t\n\t\tSAN ANDRÉS LA LAGUNA\n\t\t2\n\t\t215\n\t\t115\n\t\t100\n\t\t7\n\t\n\t\n\t\tSAN ANTONIO EL BRILLANTE\n\t\t2\n\t\t183\n\t\t89\n\t\t94\n\t\t6\n\t\n\t\n\t\tSAN CAYETANO\n\t\t4\n\t\t915\n\t\t451\n\t\t464\n\t\t42\n\t\n\t\n\t\tSAN CRISTÓBAL LA GLORIA\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN FRANCISCO CONHÓ\n\t\t2\n\t\t53\n\t\t29\n\t\t24\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t168\n\t\t81\n\t\t87\n\t\t7\n\t\n\t\n\t\tSAN PEDRO NICHTALUCUM\n\t\t6\n\t\t886\n\t\t421\n\t\t465\n\t\t36\n\t\n\t\n\t\tSANTA TERESA\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tTIERRA CALIENTE\n\t\t2\n\t\t97\n\t\t52\n\t\t45\n\t\t4\n\t\n\t\n\t\tUNIÓN PROGRESO\n\t\t3\n\t\t38\n\t\t16\n\t\t22\n\t\t3\n\t\n\t\n\t\tUNIÓN TIERRA TZOTZIL\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tVERGEL\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t92\n\t\t8,423\n\t\t4,181\n\t\t4,242\n\t\t360\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL BOSQUE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTAGRACIA",
+          "3",
+          "164",
+          "82",
+          "82",
+          "10",
+          "ÁLVARO OBREGÓN",
+          "4",
+          "503",
+          "249",
+          "254",
+          "22",
+          "ARGENTINA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "3",
+          "CARMEN EL OCOTAL",
+          "1",
+          "42",
+          "22",
+          "20",
+          "2",
+          "CARMEN GUAYABAL",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4",
+          "CARMEN GUAYABAL DOS",
+          "3",
+          "51",
+          "21",
+          "30",
+          "4",
+          "CHABAJEBAL",
+          "3",
+          "465",
+          "235",
+          "230",
+          "21",
+          "EL BOSQUE",
+          "11",
+          "1,967",
+          "995",
+          "972",
+          "84",
+          "EL CARRIZAL",
+          "3",
+          "278",
+          "152",
+          "126",
+          "10",
+          "EL PALMAR",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "EL PEDREGAL",
+          "1",
+          "108",
+          "61",
+          "47",
+          "4",
+          "FLORENCIA",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3",
+          "LA TRINIDAD",
+          "2",
+          "73",
+          "33",
+          "40",
+          "3",
+          "LAS DELICIAS",
+          "5",
+          "271",
+          "120",
+          "151",
+          "11",
+          "LOS ÁNGELES",
+          "2",
+          "244",
+          "111",
+          "133",
+          "9",
+          "MERCEDES LA ILUSIÓN",
+          "2",
+          "101",
+          "53",
+          "48",
+          "4",
+          "NUEVA ESPERANZA",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3",
+          "NUEVA JERUSALÉN",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2",
+          "NUEVA UCRANIA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2",
+          "PLÁTANOS",
+          "4",
+          "1,126",
+          "561",
+          "565",
+          "38",
+          "SABINOTIC",
+          "2",
+          "94",
+          "52",
+          "42",
+          "4",
+          "SAN ANDRÉS LA LAGUNA",
+          "2",
+          "215",
+          "115",
+          "100",
+          "7",
+          "SAN ANTONIO EL BRILLANTE",
+          "2",
+          "183",
+          "89",
+          "94",
+          "6",
+          "SAN CAYETANO",
+          "4",
+          "915",
+          "451",
+          "464",
+          "42",
+          "SAN CRISTÓBAL LA GLORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "SAN FRANCISCO CONHÓ",
+          "2",
+          "53",
+          "29",
+          "24",
+          "3",
+          "SAN MIGUEL",
+          "3",
+          "168",
+          "81",
+          "87",
+          "7",
+          "SAN PEDRO NICHTALUCUM",
+          "6",
+          "886",
+          "421",
+          "465",
+          "36",
+          "SANTA TERESA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1",
+          "TIERRA CALIENTE",
+          "2",
+          "97",
+          "52",
+          "45",
+          "4",
+          "UNIÓN PROGRESO",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3",
+          "UNIÓN TIERRA TZOTZIL",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3",
+          "VERGEL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "TOTAL",
+          "92",
+          "8,423",
+          "4,181",
+          "4,242",
+          "360",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL BOSQUE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAGRACIA",
+          "3",
+          "164",
+          "82",
+          "82",
+          "10"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "4",
+          "503",
+          "249",
+          "254",
+          "22"
+        ],
+        [
+          "ARGENTINA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "3"
+        ],
+        [
+          "CARMEN EL OCOTAL",
+          "1",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "CARMEN GUAYABAL",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "CARMEN GUAYABAL DOS",
+          "3",
+          "51",
+          "21",
+          "30",
+          "4"
+        ],
+        [
+          "CHABAJEBAL",
+          "3",
+          "465",
+          "235",
+          "230",
+          "21"
+        ],
+        [
+          "EL BOSQUE",
+          "11",
+          "1,967",
+          "995",
+          "972",
+          "84"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "278",
+          "152",
+          "126",
+          "10"
+        ],
+        [
+          "EL PALMAR",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "108",
+          "61",
+          "47",
+          "4"
+        ],
+        [
+          "FLORENCIA",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "73",
+          "33",
+          "40",
+          "3"
+        ],
+        [
+          "LAS DELICIAS",
+          "5",
+          "271",
+          "120",
+          "151",
+          "11"
+        ],
+        [
+          "LOS ÁNGELES",
+          "2",
+          "244",
+          "111",
+          "133",
+          "9"
+        ],
+        [
+          "MERCEDES LA ILUSIÓN",
+          "2",
+          "101",
+          "53",
+          "48",
+          "4"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVA JERUSALÉN",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVA UCRANIA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "PLÁTANOS",
+          "4",
+          "1,126",
+          "561",
+          "565",
+          "38"
+        ],
+        [
+          "SABINOTIC",
+          "2",
+          "94",
+          "52",
+          "42",
+          "4"
+        ],
+        [
+          "SAN ANDRÉS LA LAGUNA",
+          "2",
+          "215",
+          "115",
+          "100",
+          "7"
+        ],
+        [
+          "SAN ANTONIO EL BRILLANTE",
+          "2",
+          "183",
+          "89",
+          "94",
+          "6"
+        ],
+        [
+          "SAN CAYETANO",
+          "4",
+          "915",
+          "451",
+          "464",
+          "42"
+        ],
+        [
+          "SAN CRISTÓBAL LA GLORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO CONHÓ",
+          "2",
+          "53",
+          "29",
+          "24",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "168",
+          "81",
+          "87",
+          "7"
+        ],
+        [
+          "SAN PEDRO NICHTALUCUM",
+          "6",
+          "886",
+          "421",
+          "465",
+          "36"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "TIERRA CALIENTE",
+          "2",
+          "97",
+          "52",
+          "45",
+          "4"
+        ],
+        [
+          "UNIÓN PROGRESO",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "UNIÓN TIERRA TZOTZIL",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "VERGEL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "92",
+          "8,423",
+          "4,181",
+          "4,242",
+          "360"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: EL BOSQUE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAGRACIA",
+          "3",
+          "164",
+          "82",
+          "82",
+          "10"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "4",
+          "503",
+          "249",
+          "254",
+          "22"
+        ],
+        [
+          "ARGENTINA",
+          "2",
+          "66",
+          "29",
+          "37",
+          "3"
+        ],
+        [
+          "CARMEN EL OCOTAL",
+          "1",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "CARMEN GUAYABAL",
+          "3",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "CARMEN GUAYABAL DOS",
+          "3",
+          "51",
+          "21",
+          "30",
+          "4"
+        ],
+        [
+          "CHABAJEBAL",
+          "3",
+          "465",
+          "235",
+          "230",
+          "21"
+        ],
+        [
+          "EL BOSQUE",
+          "11",
+          "1,967",
+          "995",
+          "972",
+          "84"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "278",
+          "152",
+          "126",
+          "10"
+        ],
+        [
+          "EL PALMAR",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "108",
+          "61",
+          "47",
+          "4"
+        ],
+        [
+          "FLORENCIA",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "73",
+          "33",
+          "40",
+          "3"
+        ],
+        [
+          "LAS DELICIAS",
+          "5",
+          "271",
+          "120",
+          "151",
+          "11"
+        ],
+        [
+          "LOS ÁNGELES",
+          "2",
+          "244",
+          "111",
+          "133",
+          "9"
+        ],
+        [
+          "MERCEDES LA ILUSIÓN",
+          "2",
+          "101",
+          "53",
+          "48",
+          "4"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "NUEVA JERUSALÉN",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVA UCRANIA",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "PLÁTANOS",
+          "4",
+          "1,126",
+          "561",
+          "565",
+          "38"
+        ],
+        [
+          "SABINOTIC",
+          "2",
+          "94",
+          "52",
+          "42",
+          "4"
+        ],
+        [
+          "SAN ANDRÉS LA LAGUNA",
+          "2",
+          "215",
+          "115",
+          "100",
+          "7"
+        ],
+        [
+          "SAN ANTONIO EL BRILLANTE",
+          "2",
+          "183",
+          "89",
+          "94",
+          "6"
+        ],
+        [
+          "SAN CAYETANO",
+          "4",
+          "915",
+          "451",
+          "464",
+          "42"
+        ],
+        [
+          "SAN CRISTÓBAL LA GLORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO CONHÓ",
+          "2",
+          "53",
+          "29",
+          "24",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "168",
+          "81",
+          "87",
+          "7"
+        ],
+        [
+          "SAN PEDRO NICHTALUCUM",
+          "6",
+          "886",
+          "421",
+          "465",
+          "36"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "TIERRA CALIENTE",
+          "2",
+          "97",
+          "52",
+          "45",
+          "4"
+        ],
+        [
+          "UNIÓN PROGRESO",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "UNIÓN TIERRA TZOTZIL",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "VERGEL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "92",
+          "8,423",
+          "4,181",
+          "4,242",
+          "360"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:02.896Z"
+}

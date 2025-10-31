@@ -1,0 +1,494 @@
+{
+  "municipality": "LAS VIGAS",
+  "municipalityCode": "082",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: LAS VIGAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTAMIRA\n\t\t2\n\t\t20\n\t\t14\n\t\t6\n\t\t2\n\t\n\t\n\t\tALTO DE VENTURA\n\t\t2\n\t\t164\n\t\t75\n\t\t89\n\t\t10\n\t\n\t\n\t\tARROYO DE LA UNIÓN\n\t\t3\n\t\t27\n\t\t12\n\t\t15\n\t\t3\n\t\n\t\n\t\tARROYO DE LIMÓN\n\t\t3\n\t\t137\n\t\t65\n\t\t72\n\t\t10\n\t\n\t\n\t\tBARRANCA PRIETA\n\t\t3\n\t\t43\n\t\t17\n\t\t26\n\t\t4\n\t\n\t\n\t\tBUENA VISTA DEL SUR\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL AGOSTADERO\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL ARENAL DE NEXPA\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL PAPAYO\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tESPINALILLO DEL TENANTE\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tESTERO VERDE\n\t\t4\n\t\t244\n\t\t120\n\t\t124\n\t\t34\n\t\n\t\n\t\tLAS LECHUGAS\n\t\t3\n\t\t81\n\t\t45\n\t\t36\n\t\t8\n\t\n\t\n\t\tLAS LOMITAS DE NEXPA\n\t\t4\n\t\t151\n\t\t68\n\t\t83\n\t\t10\n\t\n\t\n\t\tLAS POZAS\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tLAS RAMADITAS\n\t\t3\n\t\t48\n\t\t19\n\t\t29\n\t\t5\n\t\n\t\n\t\tLAS VIGAS\n\t\t10\n\t\t1,497\n\t\t736\n\t\t761\n\t\t89\n\t\n\t\n\t\tSAN JOSÉ LA PALA\n\t\t2\n\t\t15\n\t\t3\n\t\t12\n\t\t2\n\t\n\t\n\t\tVISTA ALEGRE\n\t\t4\n\t\t180\n\t\t90\n\t\t90\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t54\n\t\t2,709\n\t\t1,315\n\t\t1,394\n\t\t200\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: LAS VIGAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTAMIRA",
+          "2",
+          "20",
+          "14",
+          "6",
+          "2",
+          "ALTO DE VENTURA",
+          "2",
+          "164",
+          "75",
+          "89",
+          "10",
+          "ARROYO DE LA UNIÓN",
+          "3",
+          "27",
+          "12",
+          "15",
+          "3",
+          "ARROYO DE LIMÓN",
+          "3",
+          "137",
+          "65",
+          "72",
+          "10",
+          "BARRANCA PRIETA",
+          "3",
+          "43",
+          "17",
+          "26",
+          "4",
+          "BUENA VISTA DEL SUR",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3",
+          "EL AGOSTADERO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2",
+          "EL ARENAL DE NEXPA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "EL PAPAYO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "ESPINALILLO DEL TENANTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "ESTERO VERDE",
+          "4",
+          "244",
+          "120",
+          "124",
+          "34",
+          "LAS LECHUGAS",
+          "3",
+          "81",
+          "45",
+          "36",
+          "8",
+          "LAS LOMITAS DE NEXPA",
+          "4",
+          "151",
+          "68",
+          "83",
+          "10",
+          "LAS POZAS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "LAS RAMADITAS",
+          "3",
+          "48",
+          "19",
+          "29",
+          "5",
+          "LAS VIGAS",
+          "10",
+          "1,497",
+          "736",
+          "761",
+          "89",
+          "SAN JOSÉ LA PALA",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2",
+          "VISTA ALEGRE",
+          "4",
+          "180",
+          "90",
+          "90",
+          "11",
+          "TOTAL",
+          "54",
+          "2,709",
+          "1,315",
+          "1,394",
+          "200",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: LAS VIGAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAMIRA",
+          "2",
+          "20",
+          "14",
+          "6",
+          "2"
+        ],
+        [
+          "ALTO DE VENTURA",
+          "2",
+          "164",
+          "75",
+          "89",
+          "10"
+        ],
+        [
+          "ARROYO DE LA UNIÓN",
+          "3",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "ARROYO DE LIMÓN",
+          "3",
+          "137",
+          "65",
+          "72",
+          "10"
+        ],
+        [
+          "BARRANCA PRIETA",
+          "3",
+          "43",
+          "17",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA VISTA DEL SUR",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "EL AGOSTADERO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "EL ARENAL DE NEXPA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL PAPAYO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "ESPINALILLO DEL TENANTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "ESTERO VERDE",
+          "4",
+          "244",
+          "120",
+          "124",
+          "34"
+        ],
+        [
+          "LAS LECHUGAS",
+          "3",
+          "81",
+          "45",
+          "36",
+          "8"
+        ],
+        [
+          "LAS LOMITAS DE NEXPA",
+          "4",
+          "151",
+          "68",
+          "83",
+          "10"
+        ],
+        [
+          "LAS POZAS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LAS RAMADITAS",
+          "3",
+          "48",
+          "19",
+          "29",
+          "5"
+        ],
+        [
+          "LAS VIGAS",
+          "10",
+          "1,497",
+          "736",
+          "761",
+          "89"
+        ],
+        [
+          "SAN JOSÉ LA PALA",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "VISTA ALEGRE",
+          "4",
+          "180",
+          "90",
+          "90",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "2,709",
+          "1,315",
+          "1,394",
+          "200"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: LAS VIGAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAMIRA",
+          "2",
+          "20",
+          "14",
+          "6",
+          "2"
+        ],
+        [
+          "ALTO DE VENTURA",
+          "2",
+          "164",
+          "75",
+          "89",
+          "10"
+        ],
+        [
+          "ARROYO DE LA UNIÓN",
+          "3",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "ARROYO DE LIMÓN",
+          "3",
+          "137",
+          "65",
+          "72",
+          "10"
+        ],
+        [
+          "BARRANCA PRIETA",
+          "3",
+          "43",
+          "17",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA VISTA DEL SUR",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "EL AGOSTADERO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "2"
+        ],
+        [
+          "EL ARENAL DE NEXPA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL PAPAYO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "ESPINALILLO DEL TENANTE",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "ESTERO VERDE",
+          "4",
+          "244",
+          "120",
+          "124",
+          "34"
+        ],
+        [
+          "LAS LECHUGAS",
+          "3",
+          "81",
+          "45",
+          "36",
+          "8"
+        ],
+        [
+          "LAS LOMITAS DE NEXPA",
+          "4",
+          "151",
+          "68",
+          "83",
+          "10"
+        ],
+        [
+          "LAS POZAS",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LAS RAMADITAS",
+          "3",
+          "48",
+          "19",
+          "29",
+          "5"
+        ],
+        [
+          "LAS VIGAS",
+          "10",
+          "1,497",
+          "736",
+          "761",
+          "89"
+        ],
+        [
+          "SAN JOSÉ LA PALA",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "VISTA ALEGRE",
+          "4",
+          "180",
+          "90",
+          "90",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "2,709",
+          "1,315",
+          "1,394",
+          "200"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:14.762Z"
+}

@@ -1,0 +1,846 @@
+{
+  "municipality": "RÍO BRAVO",
+  "municipalityCode": "033",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: RÍO BRAVO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN RÍO BRAVO\n\t\t4\n\t\t199\n\t\t82\n\t\t117\n\t\t16\n\t\n\t\n\t\tATIZAPÁN DE ZARAGOZA\n\t\t3\n\t\t69\n\t\t36\n\t\t33\n\t\t6\n\t\n\t\n\t\tBUENAVISTA (CHARCO AZUL)\n\t\t3\n\t\t74\n\t\t39\n\t\t35\n\t\t6\n\t\n\t\n\t\tCÁNDIDO AGUILAR\n\t\t3\n\t\t93\n\t\t50\n\t\t43\n\t\t14\n\t\n\t\n\t\tCENTENARIO DE LA CONSTITUCIÓN\n\t\t1\n\t\t12\n\t\t4\n\t\t8\n\t\t1\n\t\n\t\n\t\tCIUDAD RÍO BRAVO\n\t\t145\n\t\t26,908\n\t\t13,528\n\t\t13,380\n\t\t1,760\n\t\n\t\n\t\tCONQUISTA CAMPESINA\n\t\t3\n\t\t65\n\t\t21\n\t\t44\n\t\t10\n\t\n\t\n\t\tCRISTÓBAL COLÓN\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEBANITO NUEVO\n\t\t2\n\t\t40\n\t\t20\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL ROSARIO\n\t\t2\n\t\t41\n\t\t24\n\t\t17\n\t\t3\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t34\n\t\t15\n\t\t19\n\t\t3\n\t\n\t\n\t\tEMILIO PORTES GIL\n\t\t2\n\t\t61\n\t\t29\n\t\t32\n\t\t6\n\t\n\t\n\t\tESTACIÓN CANALES\n\t\t3\n\t\t63\n\t\t30\n\t\t33\n\t\t7\n\t\n\t\n\t\tGENERAL GUADALUPE MAINERO\n\t\t3\n\t\t77\n\t\t35\n\t\t42\n\t\t6\n\t\n\t\n\t\tGENERAL PEDRO OCHOA\n\t\t3\n\t\t63\n\t\t29\n\t\t34\n\t\t11\n\t\n\t\n\t\tLA ARGÜELLEÑA\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA POSTA\n\t\t3\n\t\t76\n\t\t30\n\t\t46\n\t\t5\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t103\n\t\t45\n\t\t58\n\t\t6\n\t\n\t\n\t\tLA ZACATECANA\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tLAS FLORES\n\t\t1\n\t\t244\n\t\t123\n\t\t121\n\t\t10\n\t\n\t\n\t\tLAS PALMAS\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t1\n\t\t18\n\t\t10\n\t\t8\n\t\t1\n\t\n\t\n\t\tMANUEL PARREÑO\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tMARIO SOUZA\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tNUEVA INDEPENDENCIA (LA CULECA)\n\t\t2\n\t\t59\n\t\t36\n\t\t23\n\t\t6\n\t\n\t\n\t\tNUEVO PRIMERO DE MAYO (RAMIRO MARTÍNEZ)\n\t\t1\n\t\t98\n\t\t45\n\t\t53\n\t\t13\n\t\n\t\n\t\tNUEVO PROGRESO\n\t\t11\n\t\t1,798\n\t\t881\n\t\t917\n\t\t74\n\t\n\t\n\t\tRAÚL MUÑIZ\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN CAYETANO (BRECHA 116 CON KILÓMETRO 1 SUR)\n\t\t1\n\t\t12\n\t\t4\n\t\t8\n\t\t1\n\t\n\t\n\t\tSAN LUISITO\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tSANTA APOLONIA\n\t\t4\n\t\t363\n\t\t184\n\t\t179\n\t\t28\n\t\n\t\n\t\tSEIS DE ENERO\n\t\t3\n\t\t53\n\t\t19\n\t\t34\n\t\t5\n\t\n\t\n\t\tVERACRUZ Y PROGRESO\n\t\t3\n\t\t79\n\t\t43\n\t\t36\n\t\t5\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t2\n\t\t47\n\t\t19\n\t\t28\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t228\n\t\t30,847\n\t\t15,426\n\t\t15,421\n\t\t2,023\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: RÍO BRAVO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN RÍO BRAVO",
+          "4",
+          "199",
+          "82",
+          "117",
+          "16",
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "69",
+          "36",
+          "33",
+          "6",
+          "BUENAVISTA (CHARCO AZUL)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "6",
+          "CÁNDIDO AGUILAR",
+          "3",
+          "93",
+          "50",
+          "43",
+          "14",
+          "CENTENARIO DE LA CONSTITUCIÓN",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1",
+          "CIUDAD RÍO BRAVO",
+          "145",
+          "26,908",
+          "13,528",
+          "13,380",
+          "1,760",
+          "CONQUISTA CAMPESINA",
+          "3",
+          "65",
+          "21",
+          "44",
+          "10",
+          "CRISTÓBAL COLÓN",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EBANITO NUEVO",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3",
+          "EL ROSARIO",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3",
+          "EMILIANO ZAPATA",
+          "3",
+          "34",
+          "15",
+          "19",
+          "3",
+          "EMILIO PORTES GIL",
+          "2",
+          "61",
+          "29",
+          "32",
+          "6",
+          "ESTACIÓN CANALES",
+          "3",
+          "63",
+          "30",
+          "33",
+          "7",
+          "GENERAL GUADALUPE MAINERO",
+          "3",
+          "77",
+          "35",
+          "42",
+          "6",
+          "GENERAL PEDRO OCHOA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "11",
+          "LA ARGÜELLEÑA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LA POSTA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5",
+          "LA SOLEDAD",
+          "3",
+          "103",
+          "45",
+          "58",
+          "6",
+          "LA ZACATECANA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3",
+          "LAS FLORES",
+          "1",
+          "244",
+          "123",
+          "121",
+          "10",
+          "LAS PALMAS",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "LOS ÁNGELES",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1",
+          "MANUEL PARREÑO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3",
+          "MARIO SOUZA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "NUEVA INDEPENDENCIA (LA CULECA)",
+          "2",
+          "59",
+          "36",
+          "23",
+          "6",
+          "NUEVO PRIMERO DE MAYO (RAMIRO MARTÍNEZ)",
+          "1",
+          "98",
+          "45",
+          "53",
+          "13",
+          "NUEVO PROGRESO",
+          "11",
+          "1,798",
+          "881",
+          "917",
+          "74",
+          "RAÚL MUÑIZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SAN CAYETANO (BRECHA 116 CON KILÓMETRO 1 SUR)",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1",
+          "SAN LUISITO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1",
+          "SANTA APOLONIA",
+          "4",
+          "363",
+          "184",
+          "179",
+          "28",
+          "SEIS DE ENERO",
+          "3",
+          "53",
+          "19",
+          "34",
+          "5",
+          "VERACRUZ Y PROGRESO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5",
+          "VICENTE GUERRERO",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4",
+          "TOTAL",
+          "228",
+          "30,847",
+          "15,426",
+          "15,421",
+          "2,023",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: RÍO BRAVO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN RÍO BRAVO",
+          "4",
+          "199",
+          "82",
+          "117",
+          "16"
+        ],
+        [
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "69",
+          "36",
+          "33",
+          "6"
+        ],
+        [
+          "BUENAVISTA (CHARCO AZUL)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "6"
+        ],
+        [
+          "CÁNDIDO AGUILAR",
+          "3",
+          "93",
+          "50",
+          "43",
+          "14"
+        ],
+        [
+          "CENTENARIO DE LA CONSTITUCIÓN",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CIUDAD RÍO BRAVO",
+          "145",
+          "26,908",
+          "13,528",
+          "13,380",
+          "1,760"
+        ],
+        [
+          "CONQUISTA CAMPESINA",
+          "3",
+          "65",
+          "21",
+          "44",
+          "10"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EBANITO NUEVO",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "EL ROSARIO",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "34",
+          "15",
+          "19",
+          "3"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "2",
+          "61",
+          "29",
+          "32",
+          "6"
+        ],
+        [
+          "ESTACIÓN CANALES",
+          "3",
+          "63",
+          "30",
+          "33",
+          "7"
+        ],
+        [
+          "GENERAL GUADALUPE MAINERO",
+          "3",
+          "77",
+          "35",
+          "42",
+          "6"
+        ],
+        [
+          "GENERAL PEDRO OCHOA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "11"
+        ],
+        [
+          "LA ARGÜELLEÑA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA POSTA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "103",
+          "45",
+          "58",
+          "6"
+        ],
+        [
+          "LA ZACATECANA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "244",
+          "123",
+          "121",
+          "10"
+        ],
+        [
+          "LAS PALMAS",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "MANUEL PARREÑO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "MARIO SOUZA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "NUEVA INDEPENDENCIA (LA CULECA)",
+          "2",
+          "59",
+          "36",
+          "23",
+          "6"
+        ],
+        [
+          "NUEVO PRIMERO DE MAYO (RAMIRO MARTÍNEZ)",
+          "1",
+          "98",
+          "45",
+          "53",
+          "13"
+        ],
+        [
+          "NUEVO PROGRESO",
+          "11",
+          "1,798",
+          "881",
+          "917",
+          "74"
+        ],
+        [
+          "RAÚL MUÑIZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN CAYETANO (BRECHA 116 CON KILÓMETRO 1 SUR)",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "SAN LUISITO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA APOLONIA",
+          "4",
+          "363",
+          "184",
+          "179",
+          "28"
+        ],
+        [
+          "SEIS DE ENERO",
+          "3",
+          "53",
+          "19",
+          "34",
+          "5"
+        ],
+        [
+          "VERACRUZ Y PROGRESO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "228",
+          "30,847",
+          "15,426",
+          "15,421",
+          "2,023"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: RÍO BRAVO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN RÍO BRAVO",
+          "4",
+          "199",
+          "82",
+          "117",
+          "16"
+        ],
+        [
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "69",
+          "36",
+          "33",
+          "6"
+        ],
+        [
+          "BUENAVISTA (CHARCO AZUL)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "6"
+        ],
+        [
+          "CÁNDIDO AGUILAR",
+          "3",
+          "93",
+          "50",
+          "43",
+          "14"
+        ],
+        [
+          "CENTENARIO DE LA CONSTITUCIÓN",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CIUDAD RÍO BRAVO",
+          "145",
+          "26,908",
+          "13,528",
+          "13,380",
+          "1,760"
+        ],
+        [
+          "CONQUISTA CAMPESINA",
+          "3",
+          "65",
+          "21",
+          "44",
+          "10"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EBANITO NUEVO",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "EL ROSARIO",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "34",
+          "15",
+          "19",
+          "3"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "2",
+          "61",
+          "29",
+          "32",
+          "6"
+        ],
+        [
+          "ESTACIÓN CANALES",
+          "3",
+          "63",
+          "30",
+          "33",
+          "7"
+        ],
+        [
+          "GENERAL GUADALUPE MAINERO",
+          "3",
+          "77",
+          "35",
+          "42",
+          "6"
+        ],
+        [
+          "GENERAL PEDRO OCHOA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "11"
+        ],
+        [
+          "LA ARGÜELLEÑA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA POSTA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "103",
+          "45",
+          "58",
+          "6"
+        ],
+        [
+          "LA ZACATECANA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "244",
+          "123",
+          "121",
+          "10"
+        ],
+        [
+          "LAS PALMAS",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "MANUEL PARREÑO",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "MARIO SOUZA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "NUEVA INDEPENDENCIA (LA CULECA)",
+          "2",
+          "59",
+          "36",
+          "23",
+          "6"
+        ],
+        [
+          "NUEVO PRIMERO DE MAYO (RAMIRO MARTÍNEZ)",
+          "1",
+          "98",
+          "45",
+          "53",
+          "13"
+        ],
+        [
+          "NUEVO PROGRESO",
+          "11",
+          "1,798",
+          "881",
+          "917",
+          "74"
+        ],
+        [
+          "RAÚL MUÑIZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN CAYETANO (BRECHA 116 CON KILÓMETRO 1 SUR)",
+          "1",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "SAN LUISITO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA APOLONIA",
+          "4",
+          "363",
+          "184",
+          "179",
+          "28"
+        ],
+        [
+          "SEIS DE ENERO",
+          "3",
+          "53",
+          "19",
+          "34",
+          "5"
+        ],
+        [
+          "VERACRUZ Y PROGRESO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "228",
+          "30,847",
+          "15,426",
+          "15,421",
+          "2,023"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:45.273Z"
+}

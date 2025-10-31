@@ -1,0 +1,582 @@
+{
+  "municipality": "JUAN R. ESCUDERO",
+  "municipalityCode": "039",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: JUAN R. ESCUDERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHACALAPA DE BRAVOS\n\t\t3\n\t\t169\n\t\t79\n\t\t90\n\t\t11\n\t\n\t\n\t\tEL POTRERO ORIENTAL\n\t\t3\n\t\t171\n\t\t80\n\t\t91\n\t\t12\n\t\n\t\n\t\tEL PUENTE (SAN JOSÉ DEL PUENTE)\n\t\t3\n\t\t147\n\t\t76\n\t\t71\n\t\t9\n\t\n\t\n\t\tEL TABACAL\n\t\t2\n\t\t94\n\t\t40\n\t\t54\n\t\t5\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t2\n\t\t21\n\t\t5\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL TEPEHUAJE DOS\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL TERRERO\n\t\t4\n\t\t212\n\t\t105\n\t\t107\n\t\t20\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t3\n\t\n\t\n\t\tGARRAPATAS (GARRAPATA)\n\t\t3\n\t\t99\n\t\t45\n\t\t54\n\t\t10\n\t\n\t\n\t\tLA PALMA\n\t\t4\n\t\t417\n\t\t206\n\t\t211\n\t\t44\n\t\n\t\n\t\tLAS PIÑAS\n\t\t2\n\t\t19\n\t\t6\n\t\t13\n\t\t2\n\t\n\t\n\t\tMICHAPA\n\t\t3\n\t\t81\n\t\t39\n\t\t42\n\t\t6\n\t\n\t\n\t\tOMITLÁN\n\t\t3\n\t\t97\n\t\t43\n\t\t54\n\t\t7\n\t\n\t\n\t\tPALO GORDO\n\t\t3\n\t\t235\n\t\t118\n\t\t117\n\t\t12\n\t\n\t\n\t\tPAPAGAYO\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t3\n\t\n\t\n\t\tPLAN DE LIMA\n\t\t3\n\t\t65\n\t\t31\n\t\t34\n\t\t6\n\t\n\t\n\t\tSAN JUAN DEL REPARO NORTE (SAN JUAN DEL REPARO)\n\t\t2\n\t\t171\n\t\t89\n\t\t82\n\t\t21\n\t\n\t\n\t\tSAN JUAN DEL REPARO SUR (SAN JUAN DEL REPARO)\n\t\t4\n\t\t320\n\t\t166\n\t\t154\n\t\t23\n\t\n\t\n\t\tTIERRA COLORADA\n\t\t20\n\t\t3,263\n\t\t1,587\n\t\t1,676\n\t\t216\n\t\n\t\n\t\tTLALCHOCOHUITE\n\t\t2\n\t\t16\n\t\t4\n\t\t12\n\t\t2\n\t\n\t\n\t\tTLAYOLAPA\n\t\t4\n\t\t267\n\t\t137\n\t\t130\n\t\t15\n\t\n\t\n\t\tVILLA GUERRERO (JOBERO O TAJARITO)\n\t\t3\n\t\t72\n\t\t43\n\t\t29\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t79\n\t\t6,013\n\t\t2,937\n\t\t3,076\n\t\t438\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: JUAN R. ESCUDERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHACALAPA DE BRAVOS",
+          "3",
+          "169",
+          "79",
+          "90",
+          "11",
+          "EL POTRERO ORIENTAL",
+          "3",
+          "171",
+          "80",
+          "91",
+          "12",
+          "EL PUENTE (SAN JOSÉ DEL PUENTE)",
+          "3",
+          "147",
+          "76",
+          "71",
+          "9",
+          "EL TABACAL",
+          "2",
+          "94",
+          "40",
+          "54",
+          "5",
+          "EL TEPEHUAJE",
+          "2",
+          "21",
+          "5",
+          "16",
+          "2",
+          "EL TEPEHUAJE DOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "EL TERRERO",
+          "4",
+          "212",
+          "105",
+          "107",
+          "20",
+          "EL ZAPOTE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3",
+          "GARRAPATAS (GARRAPATA)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "10",
+          "LA PALMA",
+          "4",
+          "417",
+          "206",
+          "211",
+          "44",
+          "LAS PIÑAS",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2",
+          "MICHAPA",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6",
+          "OMITLÁN",
+          "3",
+          "97",
+          "43",
+          "54",
+          "7",
+          "PALO GORDO",
+          "3",
+          "235",
+          "118",
+          "117",
+          "12",
+          "PAPAGAYO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3",
+          "PLAN DE LIMA",
+          "3",
+          "65",
+          "31",
+          "34",
+          "6",
+          "SAN JUAN DEL REPARO NORTE (SAN JUAN DEL REPARO)",
+          "2",
+          "171",
+          "89",
+          "82",
+          "21",
+          "SAN JUAN DEL REPARO SUR (SAN JUAN DEL REPARO)",
+          "4",
+          "320",
+          "166",
+          "154",
+          "23",
+          "TIERRA COLORADA",
+          "20",
+          "3,263",
+          "1,587",
+          "1,676",
+          "216",
+          "TLALCHOCOHUITE",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2",
+          "TLAYOLAPA",
+          "4",
+          "267",
+          "137",
+          "130",
+          "15",
+          "VILLA GUERRERO (JOBERO O TAJARITO)",
+          "3",
+          "72",
+          "43",
+          "29",
+          "7",
+          "TOTAL",
+          "79",
+          "6,013",
+          "2,937",
+          "3,076",
+          "438",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: JUAN R. ESCUDERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHACALAPA DE BRAVOS",
+          "3",
+          "169",
+          "79",
+          "90",
+          "11"
+        ],
+        [
+          "EL POTRERO ORIENTAL",
+          "3",
+          "171",
+          "80",
+          "91",
+          "12"
+        ],
+        [
+          "EL PUENTE (SAN JOSÉ DEL PUENTE)",
+          "3",
+          "147",
+          "76",
+          "71",
+          "9"
+        ],
+        [
+          "EL TABACAL",
+          "2",
+          "94",
+          "40",
+          "54",
+          "5"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "21",
+          "5",
+          "16",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE DOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL TERRERO",
+          "4",
+          "212",
+          "105",
+          "107",
+          "20"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3"
+        ],
+        [
+          "GARRAPATAS (GARRAPATA)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "10"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "417",
+          "206",
+          "211",
+          "44"
+        ],
+        [
+          "LAS PIÑAS",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "MICHAPA",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "OMITLÁN",
+          "3",
+          "97",
+          "43",
+          "54",
+          "7"
+        ],
+        [
+          "PALO GORDO",
+          "3",
+          "235",
+          "118",
+          "117",
+          "12"
+        ],
+        [
+          "PAPAGAYO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "PLAN DE LIMA",
+          "3",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "SAN JUAN DEL REPARO NORTE (SAN JUAN DEL REPARO)",
+          "2",
+          "171",
+          "89",
+          "82",
+          "21"
+        ],
+        [
+          "SAN JUAN DEL REPARO SUR (SAN JUAN DEL REPARO)",
+          "4",
+          "320",
+          "166",
+          "154",
+          "23"
+        ],
+        [
+          "TIERRA COLORADA",
+          "20",
+          "3,263",
+          "1,587",
+          "1,676",
+          "216"
+        ],
+        [
+          "TLALCHOCOHUITE",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2"
+        ],
+        [
+          "TLAYOLAPA",
+          "4",
+          "267",
+          "137",
+          "130",
+          "15"
+        ],
+        [
+          "VILLA GUERRERO (JOBERO O TAJARITO)",
+          "3",
+          "72",
+          "43",
+          "29",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "79",
+          "6,013",
+          "2,937",
+          "3,076",
+          "438"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: JUAN R. ESCUDERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHACALAPA DE BRAVOS",
+          "3",
+          "169",
+          "79",
+          "90",
+          "11"
+        ],
+        [
+          "EL POTRERO ORIENTAL",
+          "3",
+          "171",
+          "80",
+          "91",
+          "12"
+        ],
+        [
+          "EL PUENTE (SAN JOSÉ DEL PUENTE)",
+          "3",
+          "147",
+          "76",
+          "71",
+          "9"
+        ],
+        [
+          "EL TABACAL",
+          "2",
+          "94",
+          "40",
+          "54",
+          "5"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "21",
+          "5",
+          "16",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE DOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL TERRERO",
+          "4",
+          "212",
+          "105",
+          "107",
+          "20"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3"
+        ],
+        [
+          "GARRAPATAS (GARRAPATA)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "10"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "417",
+          "206",
+          "211",
+          "44"
+        ],
+        [
+          "LAS PIÑAS",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "MICHAPA",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "OMITLÁN",
+          "3",
+          "97",
+          "43",
+          "54",
+          "7"
+        ],
+        [
+          "PALO GORDO",
+          "3",
+          "235",
+          "118",
+          "117",
+          "12"
+        ],
+        [
+          "PAPAGAYO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "PLAN DE LIMA",
+          "3",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "SAN JUAN DEL REPARO NORTE (SAN JUAN DEL REPARO)",
+          "2",
+          "171",
+          "89",
+          "82",
+          "21"
+        ],
+        [
+          "SAN JUAN DEL REPARO SUR (SAN JUAN DEL REPARO)",
+          "4",
+          "320",
+          "166",
+          "154",
+          "23"
+        ],
+        [
+          "TIERRA COLORADA",
+          "20",
+          "3,263",
+          "1,587",
+          "1,676",
+          "216"
+        ],
+        [
+          "TLALCHOCOHUITE",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2"
+        ],
+        [
+          "TLAYOLAPA",
+          "4",
+          "267",
+          "137",
+          "130",
+          "15"
+        ],
+        [
+          "VILLA GUERRERO (JOBERO O TAJARITO)",
+          "3",
+          "72",
+          "43",
+          "29",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "79",
+          "6,013",
+          "2,937",
+          "3,076",
+          "438"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:03.250Z"
+}

@@ -1,0 +1,670 @@
+{
+  "municipality": "CORREGIDORA",
+  "municipalityCode": "006",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: CORREGIDORA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO HONDO\n\t\t2\n\t\t52\n\t\t28\n\t\t24\n\t\t3\n\t\n\t\n\t\tBRAVO\n\t\t4\n\t\t1,199\n\t\t632\n\t\t567\n\t\t55\n\t\n\t\n\t\tCHARCO BLANCO\n\t\t5\n\t\t568\n\t\t286\n\t\t282\n\t\t27\n\t\n\t\n\t\tEL CALICHAR\n\t\t2\n\t\t63\n\t\t25\n\t\t38\n\t\t3\n\t\n\t\n\t\tEL JARAL\n\t\t3\n\t\t490\n\t\t237\n\t\t253\n\t\t20\n\t\n\t\n\t\tEL PROGRESO (LAS TROJAS)\n\t\t2\n\t\t55\n\t\t26\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL PUEBLITO\n\t\t185\n\t\t29,831\n\t\t15,020\n\t\t14,811\n\t\t1,929\n\t\n\t\n\t\tEL ROMERAL\n\t\t2\n\t\t155\n\t\t77\n\t\t78\n\t\t7\n\t\n\t\n\t\tLA CANTERA\n\t\t2\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA CUEVA\n\t\t4\n\t\t614\n\t\t303\n\t\t311\n\t\t22\n\t\n\t\n\t\tLA NEGRETA\n\t\t1\n\t\t288\n\t\t135\n\t\t153\n\t\t9\n\t\n\t\n\t\tLA POZA\n\t\t2\n\t\t43\n\t\t24\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA PURÍSIMA DE LA CUEVA\n\t\t2\n\t\t108\n\t\t47\n\t\t61\n\t\t5\n\t\n\t\n\t\tLOMAS DE ZARAGOZA\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t2\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t5\n\t\t2,022\n\t\t1,009\n\t\t1,013\n\t\t84\n\t\n\t\n\t\tLOS OLVERA\n\t\t29\n\t\t5,536\n\t\t2,673\n\t\t2,863\n\t\t433\n\t\n\t\n\t\tLOURDES\n\t\t3\n\t\t510\n\t\t248\n\t\t262\n\t\t14\n\t\n\t\n\t\tPITA\n\t\t1\n\t\t43\n\t\t18\n\t\t25\n\t\t2\n\t\n\t\n\t\tPRESA DE BRAVO\n\t\t3\n\t\t749\n\t\t372\n\t\t377\n\t\t84\n\t\n\t\n\t\tPUERTA DE SAN RAFAEL\n\t\t2\n\t\t159\n\t\t78\n\t\t81\n\t\t7\n\t\n\t\n\t\tPURÍSIMA DE SAN RAFAEL\n\t\t2\n\t\t169\n\t\t84\n\t\t85\n\t\t7\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t8\n\t\t773\n\t\t429\n\t\t344\n\t\t73\n\t\n\t\n\t\tSAN JOSÉ DE LOS OLVERA\n\t\t20\n\t\t3,504\n\t\t1,826\n\t\t1,678\n\t\t185\n\t\n\t\n\t\tSAN RAFAEL\n\t\t3\n\t\t351\n\t\t164\n\t\t187\n\t\t22\n\t\n\t\n\t\tSANTA FE [RESIDENCIAL]\n\t\t1\n\t\t52\n\t\t20\n\t\t32\n\t\t4\n\t\n\t\n\t\tVENCEREMOS\n\t\t5\n\t\t1,279\n\t\t616\n\t\t663\n\t\t43\n\t\n\t\n\t\tTOTAL\n\t\t300\n\t\t48,667\n\t\t24,402\n\t\t24,265\n\t\t3,048\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: CORREGIDORA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO HONDO",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3",
+          "BRAVO",
+          "4",
+          "1,199",
+          "632",
+          "567",
+          "55",
+          "CHARCO BLANCO",
+          "5",
+          "568",
+          "286",
+          "282",
+          "27",
+          "EL CALICHAR",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3",
+          "EL JARAL",
+          "3",
+          "490",
+          "237",
+          "253",
+          "20",
+          "EL PROGRESO (LAS TROJAS)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3",
+          "EL PUEBLITO",
+          "185",
+          "29,831",
+          "15,020",
+          "14,811",
+          "1,929",
+          "EL ROMERAL",
+          "2",
+          "155",
+          "77",
+          "78",
+          "7",
+          "LA CANTERA",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2",
+          "LA CUEVA",
+          "4",
+          "614",
+          "303",
+          "311",
+          "22",
+          "LA NEGRETA",
+          "1",
+          "288",
+          "135",
+          "153",
+          "9",
+          "LA POZA",
+          "2",
+          "43",
+          "24",
+          "19",
+          "3",
+          "LA PURÍSIMA DE LA CUEVA",
+          "2",
+          "108",
+          "47",
+          "61",
+          "5",
+          "LOMAS DE ZARAGOZA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2",
+          "LOS ÁNGELES",
+          "5",
+          "2,022",
+          "1,009",
+          "1,013",
+          "84",
+          "LOS OLVERA",
+          "29",
+          "5,536",
+          "2,673",
+          "2,863",
+          "433",
+          "LOURDES",
+          "3",
+          "510",
+          "248",
+          "262",
+          "14",
+          "PITA",
+          "1",
+          "43",
+          "18",
+          "25",
+          "2",
+          "PRESA DE BRAVO",
+          "3",
+          "749",
+          "372",
+          "377",
+          "84",
+          "PUERTA DE SAN RAFAEL",
+          "2",
+          "159",
+          "78",
+          "81",
+          "7",
+          "PURÍSIMA DE SAN RAFAEL",
+          "2",
+          "169",
+          "84",
+          "85",
+          "7",
+          "SAN FRANCISCO",
+          "8",
+          "773",
+          "429",
+          "344",
+          "73",
+          "SAN JOSÉ DE LOS OLVERA",
+          "20",
+          "3,504",
+          "1,826",
+          "1,678",
+          "185",
+          "SAN RAFAEL",
+          "3",
+          "351",
+          "164",
+          "187",
+          "22",
+          "SANTA FE [RESIDENCIAL]",
+          "1",
+          "52",
+          "20",
+          "32",
+          "4",
+          "VENCEREMOS",
+          "5",
+          "1,279",
+          "616",
+          "663",
+          "43",
+          "TOTAL",
+          "300",
+          "48,667",
+          "24,402",
+          "24,265",
+          "3,048",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: CORREGIDORA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3"
+        ],
+        [
+          "BRAVO",
+          "4",
+          "1,199",
+          "632",
+          "567",
+          "55"
+        ],
+        [
+          "CHARCO BLANCO",
+          "5",
+          "568",
+          "286",
+          "282",
+          "27"
+        ],
+        [
+          "EL CALICHAR",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3"
+        ],
+        [
+          "EL JARAL",
+          "3",
+          "490",
+          "237",
+          "253",
+          "20"
+        ],
+        [
+          "EL PROGRESO (LAS TROJAS)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EL PUEBLITO",
+          "185",
+          "29,831",
+          "15,020",
+          "14,811",
+          "1,929"
+        ],
+        [
+          "EL ROMERAL",
+          "2",
+          "155",
+          "77",
+          "78",
+          "7"
+        ],
+        [
+          "LA CANTERA",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "LA CUEVA",
+          "4",
+          "614",
+          "303",
+          "311",
+          "22"
+        ],
+        [
+          "LA NEGRETA",
+          "1",
+          "288",
+          "135",
+          "153",
+          "9"
+        ],
+        [
+          "LA POZA",
+          "2",
+          "43",
+          "24",
+          "19",
+          "3"
+        ],
+        [
+          "LA PURÍSIMA DE LA CUEVA",
+          "2",
+          "108",
+          "47",
+          "61",
+          "5"
+        ],
+        [
+          "LOMAS DE ZARAGOZA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "5",
+          "2,022",
+          "1,009",
+          "1,013",
+          "84"
+        ],
+        [
+          "LOS OLVERA",
+          "29",
+          "5,536",
+          "2,673",
+          "2,863",
+          "433"
+        ],
+        [
+          "LOURDES",
+          "3",
+          "510",
+          "248",
+          "262",
+          "14"
+        ],
+        [
+          "PITA",
+          "1",
+          "43",
+          "18",
+          "25",
+          "2"
+        ],
+        [
+          "PRESA DE BRAVO",
+          "3",
+          "749",
+          "372",
+          "377",
+          "84"
+        ],
+        [
+          "PUERTA DE SAN RAFAEL",
+          "2",
+          "159",
+          "78",
+          "81",
+          "7"
+        ],
+        [
+          "PURÍSIMA DE SAN RAFAEL",
+          "2",
+          "169",
+          "84",
+          "85",
+          "7"
+        ],
+        [
+          "SAN FRANCISCO",
+          "8",
+          "773",
+          "429",
+          "344",
+          "73"
+        ],
+        [
+          "SAN JOSÉ DE LOS OLVERA",
+          "20",
+          "3,504",
+          "1,826",
+          "1,678",
+          "185"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "351",
+          "164",
+          "187",
+          "22"
+        ],
+        [
+          "SANTA FE [RESIDENCIAL]",
+          "1",
+          "52",
+          "20",
+          "32",
+          "4"
+        ],
+        [
+          "VENCEREMOS",
+          "5",
+          "1,279",
+          "616",
+          "663",
+          "43"
+        ],
+        [
+          "TOTAL",
+          "300",
+          "48,667",
+          "24,402",
+          "24,265",
+          "3,048"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: CORREGIDORA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3"
+        ],
+        [
+          "BRAVO",
+          "4",
+          "1,199",
+          "632",
+          "567",
+          "55"
+        ],
+        [
+          "CHARCO BLANCO",
+          "5",
+          "568",
+          "286",
+          "282",
+          "27"
+        ],
+        [
+          "EL CALICHAR",
+          "2",
+          "63",
+          "25",
+          "38",
+          "3"
+        ],
+        [
+          "EL JARAL",
+          "3",
+          "490",
+          "237",
+          "253",
+          "20"
+        ],
+        [
+          "EL PROGRESO (LAS TROJAS)",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EL PUEBLITO",
+          "185",
+          "29,831",
+          "15,020",
+          "14,811",
+          "1,929"
+        ],
+        [
+          "EL ROMERAL",
+          "2",
+          "155",
+          "77",
+          "78",
+          "7"
+        ],
+        [
+          "LA CANTERA",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "LA CUEVA",
+          "4",
+          "614",
+          "303",
+          "311",
+          "22"
+        ],
+        [
+          "LA NEGRETA",
+          "1",
+          "288",
+          "135",
+          "153",
+          "9"
+        ],
+        [
+          "LA POZA",
+          "2",
+          "43",
+          "24",
+          "19",
+          "3"
+        ],
+        [
+          "LA PURÍSIMA DE LA CUEVA",
+          "2",
+          "108",
+          "47",
+          "61",
+          "5"
+        ],
+        [
+          "LOMAS DE ZARAGOZA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LOS ÁNGELES",
+          "5",
+          "2,022",
+          "1,009",
+          "1,013",
+          "84"
+        ],
+        [
+          "LOS OLVERA",
+          "29",
+          "5,536",
+          "2,673",
+          "2,863",
+          "433"
+        ],
+        [
+          "LOURDES",
+          "3",
+          "510",
+          "248",
+          "262",
+          "14"
+        ],
+        [
+          "PITA",
+          "1",
+          "43",
+          "18",
+          "25",
+          "2"
+        ],
+        [
+          "PRESA DE BRAVO",
+          "3",
+          "749",
+          "372",
+          "377",
+          "84"
+        ],
+        [
+          "PUERTA DE SAN RAFAEL",
+          "2",
+          "159",
+          "78",
+          "81",
+          "7"
+        ],
+        [
+          "PURÍSIMA DE SAN RAFAEL",
+          "2",
+          "169",
+          "84",
+          "85",
+          "7"
+        ],
+        [
+          "SAN FRANCISCO",
+          "8",
+          "773",
+          "429",
+          "344",
+          "73"
+        ],
+        [
+          "SAN JOSÉ DE LOS OLVERA",
+          "20",
+          "3,504",
+          "1,826",
+          "1,678",
+          "185"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "351",
+          "164",
+          "187",
+          "22"
+        ],
+        [
+          "SANTA FE [RESIDENCIAL]",
+          "1",
+          "52",
+          "20",
+          "32",
+          "4"
+        ],
+        [
+          "VENCEREMOS",
+          "5",
+          "1,279",
+          "616",
+          "663",
+          "43"
+        ],
+        [
+          "TOTAL",
+          "300",
+          "48,667",
+          "24,402",
+          "24,265",
+          "3,048"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:34.385Z"
+}

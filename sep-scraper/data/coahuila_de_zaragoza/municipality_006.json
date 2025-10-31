@@ -1,0 +1,296 @@
+{
+  "municipality": "CASTAÑOS",
+  "municipalityCode": "006",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CASTAÑOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACÁMBARO (ACÁMBARO VIEJO)\n\t\t2\n\t\t23\n\t\t14\n\t\t9\n\t\t2\n\t\n\t\n\t\tBAJÁN (ESTACIÓN BAJÁN)\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t2\n\t\n\t\n\t\tCASTAÑOS\n\t\t42\n\t\t7,469\n\t\t3,611\n\t\t3,858\n\t\t320\n\t\n\t\n\t\tDOLORES\n\t\t4\n\t\t69\n\t\t35\n\t\t34\n\t\t7\n\t\n\t\n\t\tESPINAZO\n\t\t3\n\t\t34\n\t\t22\n\t\t12\n\t\t5\n\t\n\t\n\t\tPALO BLANCO\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tPRESA RODRÍGUEZ\n\t\t3\n\t\t29\n\t\t12\n\t\t17\n\t\t3\n\t\n\t\n\t\tSANTA TERESA\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tSOLEDAD\n\t\t4\n\t\t71\n\t\t39\n\t\t32\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t7,774\n\t\t3,768\n\t\t4,006\n\t\t350\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CASTAÑOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACÁMBARO (ACÁMBARO VIEJO)",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2",
+          "BAJÁN (ESTACIÓN BAJÁN)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2",
+          "CASTAÑOS",
+          "42",
+          "7,469",
+          "3,611",
+          "3,858",
+          "320",
+          "DOLORES",
+          "4",
+          "69",
+          "35",
+          "34",
+          "7",
+          "ESPINAZO",
+          "3",
+          "34",
+          "22",
+          "12",
+          "5",
+          "PALO BLANCO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2",
+          "PRESA RODRÍGUEZ",
+          "3",
+          "29",
+          "12",
+          "17",
+          "3",
+          "SANTA TERESA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "SOLEDAD",
+          "4",
+          "71",
+          "39",
+          "32",
+          "7",
+          "TOTAL",
+          "64",
+          "7,774",
+          "3,768",
+          "4,006",
+          "350",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CASTAÑOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACÁMBARO (ACÁMBARO VIEJO)",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "BAJÁN (ESTACIÓN BAJÁN)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "CASTAÑOS",
+          "42",
+          "7,469",
+          "3,611",
+          "3,858",
+          "320"
+        ],
+        [
+          "DOLORES",
+          "4",
+          "69",
+          "35",
+          "34",
+          "7"
+        ],
+        [
+          "ESPINAZO",
+          "3",
+          "34",
+          "22",
+          "12",
+          "5"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "PRESA RODRÍGUEZ",
+          "3",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "SOLEDAD",
+          "4",
+          "71",
+          "39",
+          "32",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "7,774",
+          "3,768",
+          "4,006",
+          "350"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CASTAÑOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACÁMBARO (ACÁMBARO VIEJO)",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "BAJÁN (ESTACIÓN BAJÁN)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "CASTAÑOS",
+          "42",
+          "7,469",
+          "3,611",
+          "3,858",
+          "320"
+        ],
+        [
+          "DOLORES",
+          "4",
+          "69",
+          "35",
+          "34",
+          "7"
+        ],
+        [
+          "ESPINAZO",
+          "3",
+          "34",
+          "22",
+          "12",
+          "5"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "PRESA RODRÍGUEZ",
+          "3",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "SOLEDAD",
+          "4",
+          "71",
+          "39",
+          "32",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "7,774",
+          "3,768",
+          "4,006",
+          "350"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:32.315Z"
+}

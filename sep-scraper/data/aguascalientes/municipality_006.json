@@ -1,0 +1,494 @@
+{
+  "municipality": "PABELLÓN DE ARTEAGA",
+  "municipalityCode": "006",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: PABELLÓN DE ARTEAGA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA NUEVA\n\t\t2\n\t\t65\n\t\t39\n\t\t26\n\t\t3\n\t\n\t\n\t\tEJIDO EL MEZQUITE (OJO DE AGUA DEL MEZQUITE)\n\t\t3\n\t\t117\n\t\t58\n\t\t59\n\t\t5\n\t\n\t\n\t\tEJIDO OJO ZARCO (LA LOMA)\n\t\t3\n\t\t191\n\t\t95\n\t\t96\n\t\t6\n\t\n\t\n\t\tEL GARABATO\n\t\t3\n\t\t133\n\t\t82\n\t\t51\n\t\t5\n\t\n\t\n\t\tEL MEZQUITE [COLONIA]\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL MEZQUITE [HACIENDA]\n\t\t1\n\t\t26\n\t\t15\n\t\t11\n\t\t1\n\t\n\t\n\t\tEL PEDREGAL\n\t\t1\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t6\n\t\t959\n\t\t479\n\t\t480\n\t\t35\n\t\n\t\n\t\tGÁMEZ OROZCO (PUERTA DE CARBONERAS) [COLONIA]\n\t\t2\n\t\t30\n\t\t18\n\t\t12\n\t\t2\n\t\n\t\n\t\tLADRILLERAS UNIDAS\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tLAS ÁNIMAS\n\t\t4\n\t\t601\n\t\t314\n\t\t287\n\t\t24\n\t\n\t\n\t\tLOS LIRA\n\t\t2\n\t\t37\n\t\t19\n\t\t18\n\t\t2\n\t\n\t\n\t\tMIGUEL ALEMÁN [SECADORA]\n\t\t2\n\t\t30\n\t\t17\n\t\t13\n\t\t2\n\t\n\t\n\t\tOJO ZARCO [COLONIA]\n\t\t4\n\t\t263\n\t\t139\n\t\t124\n\t\t12\n\t\n\t\n\t\tPABELLÓN DE ARTEAGA\n\t\t40\n\t\t9,788\n\t\t4,788\n\t\t5,000\n\t\t580\n\t\n\t\n\t\tSAN AGUSTÍN DE LOS PUENTES\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN LUIS DE LETRAS\n\t\t4\n\t\t312\n\t\t141\n\t\t171\n\t\t14\n\t\n\t\n\t\tSANTIAGO\n\t\t3\n\t\t311\n\t\t165\n\t\t146\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t85\n\t\t12,928\n\t\t6,403\n\t\t6,525\n\t\t708\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: PABELLÓN DE ARTEAGA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA NUEVA",
+          "2",
+          "65",
+          "39",
+          "26",
+          "3",
+          "EJIDO EL MEZQUITE (OJO DE AGUA DEL MEZQUITE)",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5",
+          "EJIDO OJO ZARCO (LA LOMA)",
+          "3",
+          "191",
+          "95",
+          "96",
+          "6",
+          "EL GARABATO",
+          "3",
+          "133",
+          "82",
+          "51",
+          "5",
+          "EL MEZQUITE [COLONIA]",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "EL MEZQUITE [HACIENDA]",
+          "1",
+          "26",
+          "15",
+          "11",
+          "1",
+          "EL PEDREGAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1",
+          "EMILIANO ZAPATA",
+          "6",
+          "959",
+          "479",
+          "480",
+          "35",
+          "GÁMEZ OROZCO (PUERTA DE CARBONERAS) [COLONIA]",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2",
+          "LADRILLERAS UNIDAS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "LAS ÁNIMAS",
+          "4",
+          "601",
+          "314",
+          "287",
+          "24",
+          "LOS LIRA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2",
+          "MIGUEL ALEMÁN [SECADORA]",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2",
+          "OJO ZARCO [COLONIA]",
+          "4",
+          "263",
+          "139",
+          "124",
+          "12",
+          "PABELLÓN DE ARTEAGA",
+          "40",
+          "9,788",
+          "4,788",
+          "5,000",
+          "580",
+          "SAN AGUSTÍN DE LOS PUENTES",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "SAN LUIS DE LETRAS",
+          "4",
+          "312",
+          "141",
+          "171",
+          "14",
+          "SANTIAGO",
+          "3",
+          "311",
+          "165",
+          "146",
+          "11",
+          "TOTAL",
+          "85",
+          "12,928",
+          "6,403",
+          "6,525",
+          "708",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: PABELLÓN DE ARTEAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA NUEVA",
+          "2",
+          "65",
+          "39",
+          "26",
+          "3"
+        ],
+        [
+          "EJIDO EL MEZQUITE (OJO DE AGUA DEL MEZQUITE)",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5"
+        ],
+        [
+          "EJIDO OJO ZARCO (LA LOMA)",
+          "3",
+          "191",
+          "95",
+          "96",
+          "6"
+        ],
+        [
+          "EL GARABATO",
+          "3",
+          "133",
+          "82",
+          "51",
+          "5"
+        ],
+        [
+          "EL MEZQUITE [COLONIA]",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "EL MEZQUITE [HACIENDA]",
+          "1",
+          "26",
+          "15",
+          "11",
+          "1"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "959",
+          "479",
+          "480",
+          "35"
+        ],
+        [
+          "GÁMEZ OROZCO (PUERTA DE CARBONERAS) [COLONIA]",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2"
+        ],
+        [
+          "LADRILLERAS UNIDAS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "4",
+          "601",
+          "314",
+          "287",
+          "24"
+        ],
+        [
+          "LOS LIRA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2"
+        ],
+        [
+          "MIGUEL ALEMÁN [SECADORA]",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "OJO ZARCO [COLONIA]",
+          "4",
+          "263",
+          "139",
+          "124",
+          "12"
+        ],
+        [
+          "PABELLÓN DE ARTEAGA",
+          "40",
+          "9,788",
+          "4,788",
+          "5,000",
+          "580"
+        ],
+        [
+          "SAN AGUSTÍN DE LOS PUENTES",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SAN LUIS DE LETRAS",
+          "4",
+          "312",
+          "141",
+          "171",
+          "14"
+        ],
+        [
+          "SANTIAGO",
+          "3",
+          "311",
+          "165",
+          "146",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "85",
+          "12,928",
+          "6,403",
+          "6,525",
+          "708"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: PABELLÓN DE ARTEAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA NUEVA",
+          "2",
+          "65",
+          "39",
+          "26",
+          "3"
+        ],
+        [
+          "EJIDO EL MEZQUITE (OJO DE AGUA DEL MEZQUITE)",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5"
+        ],
+        [
+          "EJIDO OJO ZARCO (LA LOMA)",
+          "3",
+          "191",
+          "95",
+          "96",
+          "6"
+        ],
+        [
+          "EL GARABATO",
+          "3",
+          "133",
+          "82",
+          "51",
+          "5"
+        ],
+        [
+          "EL MEZQUITE [COLONIA]",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "EL MEZQUITE [HACIENDA]",
+          "1",
+          "26",
+          "15",
+          "11",
+          "1"
+        ],
+        [
+          "EL PEDREGAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "959",
+          "479",
+          "480",
+          "35"
+        ],
+        [
+          "GÁMEZ OROZCO (PUERTA DE CARBONERAS) [COLONIA]",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2"
+        ],
+        [
+          "LADRILLERAS UNIDAS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "4",
+          "601",
+          "314",
+          "287",
+          "24"
+        ],
+        [
+          "LOS LIRA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2"
+        ],
+        [
+          "MIGUEL ALEMÁN [SECADORA]",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "OJO ZARCO [COLONIA]",
+          "4",
+          "263",
+          "139",
+          "124",
+          "12"
+        ],
+        [
+          "PABELLÓN DE ARTEAGA",
+          "40",
+          "9,788",
+          "4,788",
+          "5,000",
+          "580"
+        ],
+        [
+          "SAN AGUSTÍN DE LOS PUENTES",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SAN LUIS DE LETRAS",
+          "4",
+          "312",
+          "141",
+          "171",
+          "14"
+        ],
+        [
+          "SANTIAGO",
+          "3",
+          "311",
+          "165",
+          "146",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "85",
+          "12,928",
+          "6,403",
+          "6,525",
+          "708"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:17.978Z"
+}

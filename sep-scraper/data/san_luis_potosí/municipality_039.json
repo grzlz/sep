@@ -1,0 +1,890 @@
+{
+  "municipality": "TAMPAMOLÓN CORONA",
+  "municipalityCode": "039",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPAMOLÓN CORONA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tCHIQUINTECO\n\t\t2\n\t\t33\n\t\t21\n\t\t12\n\t\t3\n\t\n\t\n\t\tCOAXINQUILA\n\t\t3\n\t\t106\n\t\t50\n\t\t56\n\t\t6\n\t\n\t\n\t\tCOAXOCOYO\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tCOMUNIDAD EL NARANJO\n\t\t3\n\t\t79\n\t\t43\n\t\t36\n\t\t5\n\t\n\t\n\t\tC'OYOB TÚJUB\n\t\t2\n\t\t42\n\t\t21\n\t\t21\n\t\t2\n\t\n\t\n\t\tCUATZ AJIN (COATZAJÍN)\n\t\t1\n\t\t9\n\t\t2\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL CARRIZAL\n\t\t4\n\t\t175\n\t\t98\n\t\t77\n\t\t12\n\t\n\t\n\t\tEL CHIJOL\n\t\t3\n\t\t56\n\t\t31\n\t\t25\n\t\t5\n\t\n\t\n\t\tEL CHUCHE\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL NARANJO TAYABTZÉN (TRES PALMAS)\n\t\t4\n\t\t132\n\t\t64\n\t\t68\n\t\t8\n\t\n\t\n\t\tEL PUENTE UNO\n\t\t3\n\t\t39\n\t\t22\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL TAMARINDO MEXICANO\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA CANDELARIA\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA PEÑA\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS MESITAS\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tLAS VÍBORAS\n\t\t5\n\t\t290\n\t\t129\n\t\t161\n\t\t22\n\t\n\t\n\t\tMANCORNADERO\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tPAXQUID\n\t\t3\n\t\t83\n\t\t42\n\t\t41\n\t\t5\n\t\n\t\n\t\tPAXQUID (LA PIMIENTA)\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tPOYQUID\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tPUCTÉ\n\t\t2\n\t\t61\n\t\t31\n\t\t30\n\t\t4\n\t\n\t\n\t\tPUNCHUMU\n\t\t3\n\t\t38\n\t\t17\n\t\t21\n\t\t3\n\t\n\t\n\t\tRÍO FLORIDO\n\t\t2\n\t\t23\n\t\t16\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN BARTOLO\n\t\t2\n\t\t33\n\t\t11\n\t\t22\n\t\t3\n\t\n\t\n\t\tTAJINAB\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tTALLABTZÉN\n\t\t3\n\t\t59\n\t\t29\n\t\t30\n\t\t4\n\t\n\t\n\t\tTAMARINDO HUASTECO\n\t\t4\n\t\t119\n\t\t69\n\t\t50\n\t\t11\n\t\n\t\n\t\tTAMPAMOLÓN CORONA\n\t\t7\n\t\t1,494\n\t\t771\n\t\t723\n\t\t85\n\t\n\t\n\t\tTEAXIL\n\t\t2\n\t\t49\n\t\t22\n\t\t27\n\t\t3\n\t\n\t\n\t\tTENEXO\n\t\t3\n\t\t70\n\t\t29\n\t\t41\n\t\t7\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t3\n\t\t63\n\t\t29\n\t\t34\n\t\t6\n\t\n\t\n\t\tTONATICO\n\t\t3\n\t\t167\n\t\t75\n\t\t92\n\t\t11\n\t\n\t\n\t\tTUT TZEN (TIUTZÉN)\n\t\t2\n\t\t31\n\t\t10\n\t\t21\n\t\t2\n\t\n\t\n\t\tTZAPUW JÁ (TZAPUJA)\n\t\t3\n\t\t96\n\t\t47\n\t\t49\n\t\t6\n\t\n\t\n\t\tYOHUALA\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t93\n\t\t3,567\n\t\t1,788\n\t\t1,779\n\t\t242\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPAMOLÓN CORONA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "CHIQUINTECO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3",
+          "COAXINQUILA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6",
+          "COAXOCOYO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "COMUNIDAD EL NARANJO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5",
+          "C'OYOB TÚJUB",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2",
+          "CUATZ AJIN (COATZAJÍN)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1",
+          "EL CARRIZAL",
+          "4",
+          "175",
+          "98",
+          "77",
+          "12",
+          "EL CHIJOL",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5",
+          "EL CHUCHE",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "EL NARANJO TAYABTZÉN (TRES PALMAS)",
+          "4",
+          "132",
+          "64",
+          "68",
+          "8",
+          "EL PUENTE UNO",
+          "3",
+          "39",
+          "22",
+          "17",
+          "3",
+          "EL TAMARINDO MEXICANO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LA CANDELARIA",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2",
+          "LA PEÑA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LAS MESITAS",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "LAS VÍBORAS",
+          "5",
+          "290",
+          "129",
+          "161",
+          "22",
+          "MANCORNADERO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "PAXQUID",
+          "3",
+          "83",
+          "42",
+          "41",
+          "5",
+          "PAXQUID (LA PIMIENTA)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "POYQUID",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3",
+          "PUCTÉ",
+          "2",
+          "61",
+          "31",
+          "30",
+          "4",
+          "PUNCHUMU",
+          "3",
+          "38",
+          "17",
+          "21",
+          "3",
+          "RÍO FLORIDO",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2",
+          "SAN BARTOLO",
+          "2",
+          "33",
+          "11",
+          "22",
+          "3",
+          "TAJINAB",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3",
+          "TALLABTZÉN",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4",
+          "TAMARINDO HUASTECO",
+          "4",
+          "119",
+          "69",
+          "50",
+          "11",
+          "TAMPAMOLÓN CORONA",
+          "7",
+          "1,494",
+          "771",
+          "723",
+          "85",
+          "TEAXIL",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3",
+          "TENEXO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "7",
+          "TIERRA BLANCA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "6",
+          "TONATICO",
+          "3",
+          "167",
+          "75",
+          "92",
+          "11",
+          "TUT TZEN (TIUTZÉN)",
+          "2",
+          "31",
+          "10",
+          "21",
+          "2",
+          "TZAPUW JÁ (TZAPUJA)",
+          "3",
+          "96",
+          "47",
+          "49",
+          "6",
+          "YOHUALA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "TOTAL",
+          "93",
+          "3,567",
+          "1,788",
+          "1,779",
+          "242",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPAMOLÓN CORONA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "CHIQUINTECO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "COAXINQUILA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6"
+        ],
+        [
+          "COAXOCOYO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "COMUNIDAD EL NARANJO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5"
+        ],
+        [
+          "C'OYOB TÚJUB",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2"
+        ],
+        [
+          "CUATZ AJIN (COATZAJÍN)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "4",
+          "175",
+          "98",
+          "77",
+          "12"
+        ],
+        [
+          "EL CHIJOL",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5"
+        ],
+        [
+          "EL CHUCHE",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL NARANJO TAYABTZÉN (TRES PALMAS)",
+          "4",
+          "132",
+          "64",
+          "68",
+          "8"
+        ],
+        [
+          "EL PUENTE UNO",
+          "3",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "EL TAMARINDO MEXICANO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA CANDELARIA",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "LA PEÑA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LAS MESITAS",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LAS VÍBORAS",
+          "5",
+          "290",
+          "129",
+          "161",
+          "22"
+        ],
+        [
+          "MANCORNADERO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "PAXQUID",
+          "3",
+          "83",
+          "42",
+          "41",
+          "5"
+        ],
+        [
+          "PAXQUID (LA PIMIENTA)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POYQUID",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "PUCTÉ",
+          "2",
+          "61",
+          "31",
+          "30",
+          "4"
+        ],
+        [
+          "PUNCHUMU",
+          "3",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "RÍO FLORIDO",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2"
+        ],
+        [
+          "SAN BARTOLO",
+          "2",
+          "33",
+          "11",
+          "22",
+          "3"
+        ],
+        [
+          "TAJINAB",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "TALLABTZÉN",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "TAMARINDO HUASTECO",
+          "4",
+          "119",
+          "69",
+          "50",
+          "11"
+        ],
+        [
+          "TAMPAMOLÓN CORONA",
+          "7",
+          "1,494",
+          "771",
+          "723",
+          "85"
+        ],
+        [
+          "TEAXIL",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "TENEXO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "7"
+        ],
+        [
+          "TIERRA BLANCA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "6"
+        ],
+        [
+          "TONATICO",
+          "3",
+          "167",
+          "75",
+          "92",
+          "11"
+        ],
+        [
+          "TUT TZEN (TIUTZÉN)",
+          "2",
+          "31",
+          "10",
+          "21",
+          "2"
+        ],
+        [
+          "TZAPUW JÁ (TZAPUJA)",
+          "3",
+          "96",
+          "47",
+          "49",
+          "6"
+        ],
+        [
+          "YOHUALA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "3,567",
+          "1,788",
+          "1,779",
+          "242"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPAMOLÓN CORONA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "CHIQUINTECO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "COAXINQUILA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6"
+        ],
+        [
+          "COAXOCOYO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "COMUNIDAD EL NARANJO",
+          "3",
+          "79",
+          "43",
+          "36",
+          "5"
+        ],
+        [
+          "C'OYOB TÚJUB",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2"
+        ],
+        [
+          "CUATZ AJIN (COATZAJÍN)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "4",
+          "175",
+          "98",
+          "77",
+          "12"
+        ],
+        [
+          "EL CHIJOL",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5"
+        ],
+        [
+          "EL CHUCHE",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL NARANJO TAYABTZÉN (TRES PALMAS)",
+          "4",
+          "132",
+          "64",
+          "68",
+          "8"
+        ],
+        [
+          "EL PUENTE UNO",
+          "3",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "EL TAMARINDO MEXICANO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA CANDELARIA",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "LA PEÑA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LAS MESITAS",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LAS VÍBORAS",
+          "5",
+          "290",
+          "129",
+          "161",
+          "22"
+        ],
+        [
+          "MANCORNADERO",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "PAXQUID",
+          "3",
+          "83",
+          "42",
+          "41",
+          "5"
+        ],
+        [
+          "PAXQUID (LA PIMIENTA)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "POYQUID",
+          "2",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "PUCTÉ",
+          "2",
+          "61",
+          "31",
+          "30",
+          "4"
+        ],
+        [
+          "PUNCHUMU",
+          "3",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "RÍO FLORIDO",
+          "2",
+          "23",
+          "16",
+          "7",
+          "2"
+        ],
+        [
+          "SAN BARTOLO",
+          "2",
+          "33",
+          "11",
+          "22",
+          "3"
+        ],
+        [
+          "TAJINAB",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "TALLABTZÉN",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "TAMARINDO HUASTECO",
+          "4",
+          "119",
+          "69",
+          "50",
+          "11"
+        ],
+        [
+          "TAMPAMOLÓN CORONA",
+          "7",
+          "1,494",
+          "771",
+          "723",
+          "85"
+        ],
+        [
+          "TEAXIL",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "TENEXO",
+          "3",
+          "70",
+          "29",
+          "41",
+          "7"
+        ],
+        [
+          "TIERRA BLANCA",
+          "3",
+          "63",
+          "29",
+          "34",
+          "6"
+        ],
+        [
+          "TONATICO",
+          "3",
+          "167",
+          "75",
+          "92",
+          "11"
+        ],
+        [
+          "TUT TZEN (TIUTZÉN)",
+          "2",
+          "31",
+          "10",
+          "21",
+          "2"
+        ],
+        [
+          "TZAPUW JÁ (TZAPUJA)",
+          "3",
+          "96",
+          "47",
+          "49",
+          "6"
+        ],
+        [
+          "YOHUALA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "3,567",
+          "1,788",
+          "1,779",
+          "242"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:30:53.041Z"
+}

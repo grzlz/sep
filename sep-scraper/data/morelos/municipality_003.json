@@ -1,0 +1,406 @@
+{
+  "municipality": "AXOCHIAPAN",
+  "municipalityCode": "003",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AXOCHIAPAN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUAXTLA\n\t\t2\n\t\t93\n\t\t32\n\t\t61\n\t\t4\n\t\n\t\n\t\tATLACAHUALOYA\n\t\t3\n\t\t840\n\t\t423\n\t\t417\n\t\t31\n\t\n\t\n\t\tAXOCHIAPAN\n\t\t27\n\t\t5,150\n\t\t2,735\n\t\t2,415\n\t\t273\n\t\n\t\n\t\tCAMPO JICAMAL\n\t\t1\n\t\t39\n\t\t17\n\t\t22\n\t\t2\n\t\n\t\n\t\tCAYEHUACÁN\n\t\t3\n\t\t68\n\t\t29\n\t\t39\n\t\t4\n\t\n\t\n\t\tJOAQUÍN CAMAÑO\n\t\t3\n\t\t97\n\t\t32\n\t\t65\n\t\t6\n\t\n\t\n\t\tLA TOMA\n\t\t2\n\t\t51\n\t\t23\n\t\t28\n\t\t4\n\t\n\t\n\t\tLOS GAVILANES\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tMARCELINO RODRÍGUEZ (SAN IGNACIO)\n\t\t5\n\t\t812\n\t\t413\n\t\t399\n\t\t30\n\t\n\t\n\t\tPALO BLANCO\n\t\t2\n\t\t67\n\t\t29\n\t\t38\n\t\t3\n\t\n\t\n\t\tPATUALA [PARAJE]\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tQUEBRANTADERO\n\t\t3\n\t\t426\n\t\t194\n\t\t232\n\t\t19\n\t\n\t\n\t\tTELIXTAC\n\t\t5\n\t\t1,201\n\t\t614\n\t\t587\n\t\t50\n\t\n\t\n\t\tTLALAYO\n\t\t3\n\t\t262\n\t\t114\n\t\t148\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t61\n\t\t9,129\n\t\t4,665\n\t\t4,464\n\t\t438\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AXOCHIAPAN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUAXTLA",
+          "2",
+          "93",
+          "32",
+          "61",
+          "4",
+          "ATLACAHUALOYA",
+          "3",
+          "840",
+          "423",
+          "417",
+          "31",
+          "AXOCHIAPAN",
+          "27",
+          "5,150",
+          "2,735",
+          "2,415",
+          "273",
+          "CAMPO JICAMAL",
+          "1",
+          "39",
+          "17",
+          "22",
+          "2",
+          "CAYEHUACÁN",
+          "3",
+          "68",
+          "29",
+          "39",
+          "4",
+          "JOAQUÍN CAMAÑO",
+          "3",
+          "97",
+          "32",
+          "65",
+          "6",
+          "LA TOMA",
+          "2",
+          "51",
+          "23",
+          "28",
+          "4",
+          "LOS GAVILANES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "MARCELINO RODRÍGUEZ (SAN IGNACIO)",
+          "5",
+          "812",
+          "413",
+          "399",
+          "30",
+          "PALO BLANCO",
+          "2",
+          "67",
+          "29",
+          "38",
+          "3",
+          "PATUALA [PARAJE]",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "QUEBRANTADERO",
+          "3",
+          "426",
+          "194",
+          "232",
+          "19",
+          "TELIXTAC",
+          "5",
+          "1,201",
+          "614",
+          "587",
+          "50",
+          "TLALAYO",
+          "3",
+          "262",
+          "114",
+          "148",
+          "10",
+          "TOTAL",
+          "61",
+          "9,129",
+          "4,665",
+          "4,464",
+          "438",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AXOCHIAPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUAXTLA",
+          "2",
+          "93",
+          "32",
+          "61",
+          "4"
+        ],
+        [
+          "ATLACAHUALOYA",
+          "3",
+          "840",
+          "423",
+          "417",
+          "31"
+        ],
+        [
+          "AXOCHIAPAN",
+          "27",
+          "5,150",
+          "2,735",
+          "2,415",
+          "273"
+        ],
+        [
+          "CAMPO JICAMAL",
+          "1",
+          "39",
+          "17",
+          "22",
+          "2"
+        ],
+        [
+          "CAYEHUACÁN",
+          "3",
+          "68",
+          "29",
+          "39",
+          "4"
+        ],
+        [
+          "JOAQUÍN CAMAÑO",
+          "3",
+          "97",
+          "32",
+          "65",
+          "6"
+        ],
+        [
+          "LA TOMA",
+          "2",
+          "51",
+          "23",
+          "28",
+          "4"
+        ],
+        [
+          "LOS GAVILANES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "MARCELINO RODRÍGUEZ (SAN IGNACIO)",
+          "5",
+          "812",
+          "413",
+          "399",
+          "30"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "67",
+          "29",
+          "38",
+          "3"
+        ],
+        [
+          "PATUALA [PARAJE]",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "QUEBRANTADERO",
+          "3",
+          "426",
+          "194",
+          "232",
+          "19"
+        ],
+        [
+          "TELIXTAC",
+          "5",
+          "1,201",
+          "614",
+          "587",
+          "50"
+        ],
+        [
+          "TLALAYO",
+          "3",
+          "262",
+          "114",
+          "148",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "9,129",
+          "4,665",
+          "4,464",
+          "438"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AXOCHIAPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUAXTLA",
+          "2",
+          "93",
+          "32",
+          "61",
+          "4"
+        ],
+        [
+          "ATLACAHUALOYA",
+          "3",
+          "840",
+          "423",
+          "417",
+          "31"
+        ],
+        [
+          "AXOCHIAPAN",
+          "27",
+          "5,150",
+          "2,735",
+          "2,415",
+          "273"
+        ],
+        [
+          "CAMPO JICAMAL",
+          "1",
+          "39",
+          "17",
+          "22",
+          "2"
+        ],
+        [
+          "CAYEHUACÁN",
+          "3",
+          "68",
+          "29",
+          "39",
+          "4"
+        ],
+        [
+          "JOAQUÍN CAMAÑO",
+          "3",
+          "97",
+          "32",
+          "65",
+          "6"
+        ],
+        [
+          "LA TOMA",
+          "2",
+          "51",
+          "23",
+          "28",
+          "4"
+        ],
+        [
+          "LOS GAVILANES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "MARCELINO RODRÍGUEZ (SAN IGNACIO)",
+          "5",
+          "812",
+          "413",
+          "399",
+          "30"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "67",
+          "29",
+          "38",
+          "3"
+        ],
+        [
+          "PATUALA [PARAJE]",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "QUEBRANTADERO",
+          "3",
+          "426",
+          "194",
+          "232",
+          "19"
+        ],
+        [
+          "TELIXTAC",
+          "5",
+          "1,201",
+          "614",
+          "587",
+          "50"
+        ],
+        [
+          "TLALAYO",
+          "3",
+          "262",
+          "114",
+          "148",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "9,129",
+          "4,665",
+          "4,464",
+          "438"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:12.538Z"
+}

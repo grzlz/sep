@@ -1,0 +1,1352 @@
+{
+  "municipality": "ZIHUATANEJO DE AZUETA",
+  "municipalityCode": "038",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIHUATANEJO DE AZUETA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO SECO\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tBARBULILLAS\n\t\t2\n\t\t154\n\t\t75\n\t\t79\n\t\t7\n\t\n\t\n\t\tBARRANCA DE LA BANDERA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tBARRANCA DEL MONTOR (MONTOR UNO)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tBARRIO NUEVO\n\t\t3\n\t\t239\n\t\t115\n\t\t124\n\t\t15\n\t\n\t\n\t\tBUENA VISTA\n\t\t3\n\t\t174\n\t\t81\n\t\t93\n\t\t12\n\t\n\t\n\t\tCOLONIA AEROPUERTO\n\t\t2\n\t\t137\n\t\t62\n\t\t75\n\t\t7\n\t\n\t\n\t\tCOLONIA BALTAZAR R. LEYVA MANCILLA\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tCOLONIA TRES DE DICIEMBRE\n\t\t2\n\t\t30\n\t\t18\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL ARENOSITO\n\t\t1\n\t\t25\n\t\t16\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CALABAZAL\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL CALABAZALITO\n\t\t4\n\t\t92\n\t\t53\n\t\t39\n\t\t8\n\t\n\t\n\t\tEL CAMALOTE\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL CAPIRILLO\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tEL COACOYUL\n\t\t14\n\t\t2,113\n\t\t1,031\n\t\t1,082\n\t\t105\n\t\n\t\n\t\tEL CORRIENTOSO\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL ESPINALILLO\n\t\t1\n\t\t103\n\t\t51\n\t\t52\n\t\t6\n\t\n\t\n\t\tEL GUAYABAL\n\t\t3\n\t\t41\n\t\t22\n\t\t19\n\t\t4\n\t\n\t\n\t\tEL HIGO\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL POSQUELITE\n\t\t2\n\t\t92\n\t\t45\n\t\t47\n\t\t7\n\t\n\t\n\t\tEL TIRADERO\n\t\t1\n\t\t53\n\t\t26\n\t\t27\n\t\t4\n\t\n\t\n\t\tEL ZARCO\n\t\t3\n\t\t129\n\t\t59\n\t\t70\n\t\t10\n\t\n\t\n\t\tFIGUEROA\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tIXTAPA ZIHUATANEJO\n\t\t5\n\t\t125\n\t\t62\n\t\t63\n\t\t24\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t1\n\t\t27\n\t\t15\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA LAGUNA\n\t\t3\n\t\t16\n\t\t10\n\t\t6\n\t\t3\n\t\n\t\n\t\tLA LAJA (BUENAVISTA)\n\t\t3\n\t\t85\n\t\t50\n\t\t35\n\t\t7\n\t\n\t\n\t\tLA MESA DE LOS BRAVOS\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PAROTA\n\t\t3\n\t\t43\n\t\t21\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA PERICA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PUERTA DE IXTAPA\n\t\t3\n\t\t674\n\t\t341\n\t\t333\n\t\t18\n\t\n\t\n\t\tLA SALITRERA\n\t\t3\n\t\t254\n\t\t125\n\t\t129\n\t\t11\n\t\n\t\n\t\tLA SOLEDAD\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS HIGUERITAS\n\t\t3\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tLAS OLLAS\n\t\t3\n\t\t65\n\t\t38\n\t\t27\n\t\t6\n\t\n\t\n\t\tLAS PIPINAS\n\t\t2\n\t\t18\n\t\t12\n\t\t6\n\t\t3\n\t\n\t\n\t\tLOS ACHOTES\n\t\t4\n\t\t232\n\t\t110\n\t\t122\n\t\t14\n\t\n\t\n\t\tLOS ALMENDROS\n\t\t3\n\t\t362\n\t\t166\n\t\t196\n\t\t21\n\t\n\t\n\t\tLOS LLANITOS\n\t\t2\n\t\t31\n\t\t11\n\t\t20\n\t\t2\n\t\n\t\n\t\tNUEVO AMANECER\n\t\t1\n\t\t165\n\t\t88\n\t\t77\n\t\t7\n\t\n\t\n\t\tPANTLA\n\t\t7\n\t\t914\n\t\t469\n\t\t445\n\t\t51\n\t\n\t\n\t\tPLAYA BLANCA\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tPLAYA LARGA\n\t\t2\n\t\t39\n\t\t17\n\t\t22\n\t\t2\n\t\n\t\n\t\tPUERTECITO\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tRABO DE IGUANA\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tRANCHO LA ESPERANZA\n\t\t1\n\t\t558\n\t\t266\n\t\t292\n\t\t19\n\t\n\t\n\t\tREAL DE GUADALUPE (EL MINERAL DE GUADALUPE)\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO (LA CURVA)\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN IGNACIO\n\t\t2\n\t\t17\n\t\t6\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ IXTAPA (BARRIO VIEJO)\n\t\t9\n\t\t1,562\n\t\t751\n\t\t811\n\t\t63\n\t\n\t\n\t\tSAN MIGUELITO\n\t\t3\n\t\t145\n\t\t68\n\t\t77\n\t\t12\n\t\n\t\n\t\tVALLECITOS DE ZARAGOZA\n\t\t5\n\t\t298\n\t\t142\n\t\t156\n\t\t21\n\t\n\t\n\t\tVILLA HERMOSA (LAS POZAS)\n\t\t1\n\t\t66\n\t\t29\n\t\t37\n\t\t4\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tYERBABUENA\n\t\t2\n\t\t5\n\t\t0\n\t\t5\n\t\t2\n\t\n\t\n\t\tZIHUATANEJO\n\t\t138\n\t\t21,804\n\t\t11,310\n\t\t10,494\n\t\t1,510\n\t\n\t\n\t\tZUMATLÁN\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t275\n\t\t31,065\n\t\t15,839\n\t\t15,226\n\t\t2,022\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIHUATANEJO DE AZUETA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO SECO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "BARBULILLAS",
+          "2",
+          "154",
+          "75",
+          "79",
+          "7",
+          "BARRANCA DE LA BANDERA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "BARRANCA DEL MONTOR (MONTOR UNO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "BARRIO NUEVO",
+          "3",
+          "239",
+          "115",
+          "124",
+          "15",
+          "BUENA VISTA",
+          "3",
+          "174",
+          "81",
+          "93",
+          "12",
+          "COLONIA AEROPUERTO",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7",
+          "COLONIA BALTAZAR R. LEYVA MANCILLA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "COLONIA TRES DE DICIEMBRE",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3",
+          "EL ARENOSITO",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2",
+          "EL CALABAZAL",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "EL CALABAZALITO",
+          "4",
+          "92",
+          "53",
+          "39",
+          "8",
+          "EL CAMALOTE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL CAPIRILLO",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "EL COACOYUL",
+          "14",
+          "2,113",
+          "1,031",
+          "1,082",
+          "105",
+          "EL CORRIENTOSO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "EL ESPINALILLO",
+          "1",
+          "103",
+          "51",
+          "52",
+          "6",
+          "EL GUAYABAL",
+          "3",
+          "41",
+          "22",
+          "19",
+          "4",
+          "EL HIGO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "EL POSQUELITE",
+          "2",
+          "92",
+          "45",
+          "47",
+          "7",
+          "EL TIRADERO",
+          "1",
+          "53",
+          "26",
+          "27",
+          "4",
+          "EL ZARCO",
+          "3",
+          "129",
+          "59",
+          "70",
+          "10",
+          "FIGUEROA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "IXTAPA ZIHUATANEJO",
+          "5",
+          "125",
+          "62",
+          "63",
+          "24",
+          "LA CIÉNEGA",
+          "1",
+          "27",
+          "15",
+          "12",
+          "2",
+          "LA LAGUNA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3",
+          "LA LAJA (BUENAVISTA)",
+          "3",
+          "85",
+          "50",
+          "35",
+          "7",
+          "LA MESA DE LOS BRAVOS",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LA PAROTA",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3",
+          "LA PERICA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA PUERTA DE IXTAPA",
+          "3",
+          "674",
+          "341",
+          "333",
+          "18",
+          "LA SALITRERA",
+          "3",
+          "254",
+          "125",
+          "129",
+          "11",
+          "LA SOLEDAD",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "LAS HIGUERITAS",
+          "3",
+          "14",
+          "7",
+          "7",
+          "2",
+          "LAS OLLAS",
+          "3",
+          "65",
+          "38",
+          "27",
+          "6",
+          "LAS PIPINAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "3",
+          "LOS ACHOTES",
+          "4",
+          "232",
+          "110",
+          "122",
+          "14",
+          "LOS ALMENDROS",
+          "3",
+          "362",
+          "166",
+          "196",
+          "21",
+          "LOS LLANITOS",
+          "2",
+          "31",
+          "11",
+          "20",
+          "2",
+          "NUEVO AMANECER",
+          "1",
+          "165",
+          "88",
+          "77",
+          "7",
+          "PANTLA",
+          "7",
+          "914",
+          "469",
+          "445",
+          "51",
+          "PLAYA BLANCA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "PLAYA LARGA",
+          "2",
+          "39",
+          "17",
+          "22",
+          "2",
+          "PUERTECITO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "RABO DE IGUANA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "RANCHO LA ESPERANZA",
+          "1",
+          "558",
+          "266",
+          "292",
+          "19",
+          "REAL DE GUADALUPE (EL MINERAL DE GUADALUPE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2",
+          "SAN ANTONIO (LA CURVA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "SAN IGNACIO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2",
+          "SAN JOSÉ IXTAPA (BARRIO VIEJO)",
+          "9",
+          "1,562",
+          "751",
+          "811",
+          "63",
+          "SAN MIGUELITO",
+          "3",
+          "145",
+          "68",
+          "77",
+          "12",
+          "VALLECITOS DE ZARAGOZA",
+          "5",
+          "298",
+          "142",
+          "156",
+          "21",
+          "VILLA HERMOSA (LAS POZAS)",
+          "1",
+          "66",
+          "29",
+          "37",
+          "4",
+          "VISTA HERMOSA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "YERBABUENA",
+          "2",
+          "5",
+          "0",
+          "5",
+          "2",
+          "ZIHUATANEJO",
+          "138",
+          "21,804",
+          "11,310",
+          "10,494",
+          "1,510",
+          "ZUMATLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "TOTAL",
+          "275",
+          "31,065",
+          "15,839",
+          "15,226",
+          "2,022",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIHUATANEJO DE AZUETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "BARBULILLAS",
+          "2",
+          "154",
+          "75",
+          "79",
+          "7"
+        ],
+        [
+          "BARRANCA DE LA BANDERA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "BARRANCA DEL MONTOR (MONTOR UNO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "BARRIO NUEVO",
+          "3",
+          "239",
+          "115",
+          "124",
+          "15"
+        ],
+        [
+          "BUENA VISTA",
+          "3",
+          "174",
+          "81",
+          "93",
+          "12"
+        ],
+        [
+          "COLONIA AEROPUERTO",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7"
+        ],
+        [
+          "COLONIA BALTAZAR R. LEYVA MANCILLA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "COLONIA TRES DE DICIEMBRE",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "EL ARENOSITO",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "EL CALABAZAL",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "EL CALABAZALITO",
+          "4",
+          "92",
+          "53",
+          "39",
+          "8"
+        ],
+        [
+          "EL CAMALOTE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL CAPIRILLO",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "EL COACOYUL",
+          "14",
+          "2,113",
+          "1,031",
+          "1,082",
+          "105"
+        ],
+        [
+          "EL CORRIENTOSO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESPINALILLO",
+          "1",
+          "103",
+          "51",
+          "52",
+          "6"
+        ],
+        [
+          "EL GUAYABAL",
+          "3",
+          "41",
+          "22",
+          "19",
+          "4"
+        ],
+        [
+          "EL HIGO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL POSQUELITE",
+          "2",
+          "92",
+          "45",
+          "47",
+          "7"
+        ],
+        [
+          "EL TIRADERO",
+          "1",
+          "53",
+          "26",
+          "27",
+          "4"
+        ],
+        [
+          "EL ZARCO",
+          "3",
+          "129",
+          "59",
+          "70",
+          "10"
+        ],
+        [
+          "FIGUEROA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "IXTAPA ZIHUATANEJO",
+          "5",
+          "125",
+          "62",
+          "63",
+          "24"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3"
+        ],
+        [
+          "LA LAJA (BUENAVISTA)",
+          "3",
+          "85",
+          "50",
+          "35",
+          "7"
+        ],
+        [
+          "LA MESA DE LOS BRAVOS",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LA PERICA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA PUERTA DE IXTAPA",
+          "3",
+          "674",
+          "341",
+          "333",
+          "18"
+        ],
+        [
+          "LA SALITRERA",
+          "3",
+          "254",
+          "125",
+          "129",
+          "11"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "LAS HIGUERITAS",
+          "3",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LAS OLLAS",
+          "3",
+          "65",
+          "38",
+          "27",
+          "6"
+        ],
+        [
+          "LAS PIPINAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "LOS ACHOTES",
+          "4",
+          "232",
+          "110",
+          "122",
+          "14"
+        ],
+        [
+          "LOS ALMENDROS",
+          "3",
+          "362",
+          "166",
+          "196",
+          "21"
+        ],
+        [
+          "LOS LLANITOS",
+          "2",
+          "31",
+          "11",
+          "20",
+          "2"
+        ],
+        [
+          "NUEVO AMANECER",
+          "1",
+          "165",
+          "88",
+          "77",
+          "7"
+        ],
+        [
+          "PANTLA",
+          "7",
+          "914",
+          "469",
+          "445",
+          "51"
+        ],
+        [
+          "PLAYA BLANCA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "PLAYA LARGA",
+          "2",
+          "39",
+          "17",
+          "22",
+          "2"
+        ],
+        [
+          "PUERTECITO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "RABO DE IGUANA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "RANCHO LA ESPERANZA",
+          "1",
+          "558",
+          "266",
+          "292",
+          "19"
+        ],
+        [
+          "REAL DE GUADALUPE (EL MINERAL DE GUADALUPE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "SAN ANTONIO (LA CURVA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "SAN JOSÉ IXTAPA (BARRIO VIEJO)",
+          "9",
+          "1,562",
+          "751",
+          "811",
+          "63"
+        ],
+        [
+          "SAN MIGUELITO",
+          "3",
+          "145",
+          "68",
+          "77",
+          "12"
+        ],
+        [
+          "VALLECITOS DE ZARAGOZA",
+          "5",
+          "298",
+          "142",
+          "156",
+          "21"
+        ],
+        [
+          "VILLA HERMOSA (LAS POZAS)",
+          "1",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "YERBABUENA",
+          "2",
+          "5",
+          "0",
+          "5",
+          "2"
+        ],
+        [
+          "ZIHUATANEJO",
+          "138",
+          "21,804",
+          "11,310",
+          "10,494",
+          "1,510"
+        ],
+        [
+          "ZUMATLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "275",
+          "31,065",
+          "15,839",
+          "15,226",
+          "2,022"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIHUATANEJO DE AZUETA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "BARBULILLAS",
+          "2",
+          "154",
+          "75",
+          "79",
+          "7"
+        ],
+        [
+          "BARRANCA DE LA BANDERA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "BARRANCA DEL MONTOR (MONTOR UNO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "BARRIO NUEVO",
+          "3",
+          "239",
+          "115",
+          "124",
+          "15"
+        ],
+        [
+          "BUENA VISTA",
+          "3",
+          "174",
+          "81",
+          "93",
+          "12"
+        ],
+        [
+          "COLONIA AEROPUERTO",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7"
+        ],
+        [
+          "COLONIA BALTAZAR R. LEYVA MANCILLA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "COLONIA TRES DE DICIEMBRE",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "EL ARENOSITO",
+          "1",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "EL CALABAZAL",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "EL CALABAZALITO",
+          "4",
+          "92",
+          "53",
+          "39",
+          "8"
+        ],
+        [
+          "EL CAMALOTE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL CAPIRILLO",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "EL COACOYUL",
+          "14",
+          "2,113",
+          "1,031",
+          "1,082",
+          "105"
+        ],
+        [
+          "EL CORRIENTOSO",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESPINALILLO",
+          "1",
+          "103",
+          "51",
+          "52",
+          "6"
+        ],
+        [
+          "EL GUAYABAL",
+          "3",
+          "41",
+          "22",
+          "19",
+          "4"
+        ],
+        [
+          "EL HIGO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL POSQUELITE",
+          "2",
+          "92",
+          "45",
+          "47",
+          "7"
+        ],
+        [
+          "EL TIRADERO",
+          "1",
+          "53",
+          "26",
+          "27",
+          "4"
+        ],
+        [
+          "EL ZARCO",
+          "3",
+          "129",
+          "59",
+          "70",
+          "10"
+        ],
+        [
+          "FIGUEROA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "IXTAPA ZIHUATANEJO",
+          "5",
+          "125",
+          "62",
+          "63",
+          "24"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3"
+        ],
+        [
+          "LA LAJA (BUENAVISTA)",
+          "3",
+          "85",
+          "50",
+          "35",
+          "7"
+        ],
+        [
+          "LA MESA DE LOS BRAVOS",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LA PERICA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA PUERTA DE IXTAPA",
+          "3",
+          "674",
+          "341",
+          "333",
+          "18"
+        ],
+        [
+          "LA SALITRERA",
+          "3",
+          "254",
+          "125",
+          "129",
+          "11"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "LAS HIGUERITAS",
+          "3",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LAS OLLAS",
+          "3",
+          "65",
+          "38",
+          "27",
+          "6"
+        ],
+        [
+          "LAS PIPINAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "LOS ACHOTES",
+          "4",
+          "232",
+          "110",
+          "122",
+          "14"
+        ],
+        [
+          "LOS ALMENDROS",
+          "3",
+          "362",
+          "166",
+          "196",
+          "21"
+        ],
+        [
+          "LOS LLANITOS",
+          "2",
+          "31",
+          "11",
+          "20",
+          "2"
+        ],
+        [
+          "NUEVO AMANECER",
+          "1",
+          "165",
+          "88",
+          "77",
+          "7"
+        ],
+        [
+          "PANTLA",
+          "7",
+          "914",
+          "469",
+          "445",
+          "51"
+        ],
+        [
+          "PLAYA BLANCA",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "PLAYA LARGA",
+          "2",
+          "39",
+          "17",
+          "22",
+          "2"
+        ],
+        [
+          "PUERTECITO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "RABO DE IGUANA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "RANCHO LA ESPERANZA",
+          "1",
+          "558",
+          "266",
+          "292",
+          "19"
+        ],
+        [
+          "REAL DE GUADALUPE (EL MINERAL DE GUADALUPE)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "SAN ANTONIO (LA CURVA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "SAN JOSÉ IXTAPA (BARRIO VIEJO)",
+          "9",
+          "1,562",
+          "751",
+          "811",
+          "63"
+        ],
+        [
+          "SAN MIGUELITO",
+          "3",
+          "145",
+          "68",
+          "77",
+          "12"
+        ],
+        [
+          "VALLECITOS DE ZARAGOZA",
+          "5",
+          "298",
+          "142",
+          "156",
+          "21"
+        ],
+        [
+          "VILLA HERMOSA (LAS POZAS)",
+          "1",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "YERBABUENA",
+          "2",
+          "5",
+          "0",
+          "5",
+          "2"
+        ],
+        [
+          "ZIHUATANEJO",
+          "138",
+          "21,804",
+          "11,310",
+          "10,494",
+          "1,510"
+        ],
+        [
+          "ZUMATLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "275",
+          "31,065",
+          "15,839",
+          "15,226",
+          "2,022"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:38.253Z"
+}

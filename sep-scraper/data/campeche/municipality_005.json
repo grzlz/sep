@@ -1,0 +1,384 @@
+{
+  "municipality": "HECELCHAKÁN",
+  "municipalityCode": "005",
+  "state": "CAMPECHE",
+  "stateCode": "4",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCALAKMUL\n\tCALKINÍ\n\tCAMPECHE\n\tCANDELARIA\n\tCARMEN\n\tCHAMPOTÓN\n\tDZITBALCHÉ\n\tESCÁRCEGA\n\tHECELCHAKÁN\n\tHOPELCHÉN\n\tPALIZADA\n\tSEYBAPLAYA\n\tTENABO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: HECELCHAKÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBLANCA FLOR\n\t\t3\n\t\t71\n\t\t36\n\t\t35\n\t\t4\n\t\n\t\n\t\tCBTA NÚMERO CIENTO SESENTA Y NUEVE\n\t\t1\n\t\t331\n\t\t184\n\t\t147\n\t\t39\n\t\n\t\n\t\tCHUNKANÁN\n\t\t5\n\t\t368\n\t\t182\n\t\t186\n\t\t18\n\t\n\t\n\t\tCUMPICH\n\t\t7\n\t\t642\n\t\t301\n\t\t341\n\t\t26\n\t\n\t\n\t\tDZITNUP\n\t\t4\n\t\t243\n\t\t117\n\t\t126\n\t\t14\n\t\n\t\n\t\tDZOTCHÉN\n\t\t3\n\t\t68\n\t\t33\n\t\t35\n\t\t4\n\t\n\t\n\t\tHECELCHAKÁN\n\t\t18\n\t\t3,007\n\t\t1,521\n\t\t1,486\n\t\t197\n\t\n\t\n\t\tMONTEBELLO\n\t\t3\n\t\t68\n\t\t32\n\t\t36\n\t\t4\n\t\n\t\n\t\tNOHALAL\n\t\t4\n\t\t135\n\t\t67\n\t\t68\n\t\t10\n\t\n\t\n\t\tPOCBOC\n\t\t5\n\t\t330\n\t\t153\n\t\t177\n\t\t15\n\t\n\t\n\t\tPOMUCH\n\t\t15\n\t\t2,606\n\t\t1,331\n\t\t1,275\n\t\t161\n\t\n\t\n\t\tSANTA CRUZ\n\t\t4\n\t\t212\n\t\t98\n\t\t114\n\t\t10\n\t\n\t\n\t\tZODZIL\n\t\t3\n\t\t69\n\t\t36\n\t\t33\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t75\n\t\t8,150\n\t\t4,091\n\t\t4,059\n\t\t506\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: HECELCHAKÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BLANCA FLOR",
+          "3",
+          "71",
+          "36",
+          "35",
+          "4",
+          "CBTA NÚMERO CIENTO SESENTA Y NUEVE",
+          "1",
+          "331",
+          "184",
+          "147",
+          "39",
+          "CHUNKANÁN",
+          "5",
+          "368",
+          "182",
+          "186",
+          "18",
+          "CUMPICH",
+          "7",
+          "642",
+          "301",
+          "341",
+          "26",
+          "DZITNUP",
+          "4",
+          "243",
+          "117",
+          "126",
+          "14",
+          "DZOTCHÉN",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4",
+          "HECELCHAKÁN",
+          "18",
+          "3,007",
+          "1,521",
+          "1,486",
+          "197",
+          "MONTEBELLO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "4",
+          "NOHALAL",
+          "4",
+          "135",
+          "67",
+          "68",
+          "10",
+          "POCBOC",
+          "5",
+          "330",
+          "153",
+          "177",
+          "15",
+          "POMUCH",
+          "15",
+          "2,606",
+          "1,331",
+          "1,275",
+          "161",
+          "SANTA CRUZ",
+          "4",
+          "212",
+          "98",
+          "114",
+          "10",
+          "ZODZIL",
+          "3",
+          "69",
+          "36",
+          "33",
+          "4",
+          "TOTAL",
+          "75",
+          "8,150",
+          "4,091",
+          "4,059",
+          "506",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: HECELCHAKÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BLANCA FLOR",
+          "3",
+          "71",
+          "36",
+          "35",
+          "4"
+        ],
+        [
+          "CBTA NÚMERO CIENTO SESENTA Y NUEVE",
+          "1",
+          "331",
+          "184",
+          "147",
+          "39"
+        ],
+        [
+          "CHUNKANÁN",
+          "5",
+          "368",
+          "182",
+          "186",
+          "18"
+        ],
+        [
+          "CUMPICH",
+          "7",
+          "642",
+          "301",
+          "341",
+          "26"
+        ],
+        [
+          "DZITNUP",
+          "4",
+          "243",
+          "117",
+          "126",
+          "14"
+        ],
+        [
+          "DZOTCHÉN",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "HECELCHAKÁN",
+          "18",
+          "3,007",
+          "1,521",
+          "1,486",
+          "197"
+        ],
+        [
+          "MONTEBELLO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "4"
+        ],
+        [
+          "NOHALAL",
+          "4",
+          "135",
+          "67",
+          "68",
+          "10"
+        ],
+        [
+          "POCBOC",
+          "5",
+          "330",
+          "153",
+          "177",
+          "15"
+        ],
+        [
+          "POMUCH",
+          "15",
+          "2,606",
+          "1,331",
+          "1,275",
+          "161"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "212",
+          "98",
+          "114",
+          "10"
+        ],
+        [
+          "ZODZIL",
+          "3",
+          "69",
+          "36",
+          "33",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "75",
+          "8,150",
+          "4,091",
+          "4,059",
+          "506"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: HECELCHAKÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BLANCA FLOR",
+          "3",
+          "71",
+          "36",
+          "35",
+          "4"
+        ],
+        [
+          "CBTA NÚMERO CIENTO SESENTA Y NUEVE",
+          "1",
+          "331",
+          "184",
+          "147",
+          "39"
+        ],
+        [
+          "CHUNKANÁN",
+          "5",
+          "368",
+          "182",
+          "186",
+          "18"
+        ],
+        [
+          "CUMPICH",
+          "7",
+          "642",
+          "301",
+          "341",
+          "26"
+        ],
+        [
+          "DZITNUP",
+          "4",
+          "243",
+          "117",
+          "126",
+          "14"
+        ],
+        [
+          "DZOTCHÉN",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "HECELCHAKÁN",
+          "18",
+          "3,007",
+          "1,521",
+          "1,486",
+          "197"
+        ],
+        [
+          "MONTEBELLO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "4"
+        ],
+        [
+          "NOHALAL",
+          "4",
+          "135",
+          "67",
+          "68",
+          "10"
+        ],
+        [
+          "POCBOC",
+          "5",
+          "330",
+          "153",
+          "177",
+          "15"
+        ],
+        [
+          "POMUCH",
+          "15",
+          "2,606",
+          "1,331",
+          "1,275",
+          "161"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "212",
+          "98",
+          "114",
+          "10"
+        ],
+        [
+          "ZODZIL",
+          "3",
+          "69",
+          "36",
+          "33",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "75",
+          "8,150",
+          "4,091",
+          "4,059",
+          "506"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:36.263Z"
+}

@@ -1,0 +1,1154 @@
+{
+  "municipality": "TEPEHUANES",
+  "municipalityCode": "035",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TEPEHUANES\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACAPULCO\n\t\t1\n\t\t3\n\t\t3\n\t\t0\n\t\t1\n\t\n\t\n\t\tBARAJAS\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tCAPULÍN DE METATES\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tCARRERAS\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tCIÉNEGA DE CABALLOS\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t3\n\t\n\t\n\t\tCIÉNEGA DE ESCOBAR\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tCIÉNEGA DE LOS FRAILES\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CONEJO\n\t\t3\n\t\t43\n\t\t22\n\t\t21\n\t\t4\n\t\n\t\n\t\tEL GATO DE ARRIBA\n\t\t4\n\t\t84\n\t\t40\n\t\t44\n\t\t7\n\t\n\t\n\t\tEL PEÑOL\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL PURGATORIO\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL REFUGIO (EL REFUGIO DE LOS LOBOS)\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL RINCÓN\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL TAISTE\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL TARAHUMAR\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL TULE\n\t\t1\n\t\t20\n\t\t11\n\t\t9\n\t\t1\n\t\n\t\n\t\tJOYA DE LAS VIUDAS\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA ATASCOSA\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA BUFA\n\t\t1\n\t\t21\n\t\t10\n\t\t11\n\t\t1\n\t\n\t\n\t\tLA CONCEPCIÓN DE LAS IGLESIAS (EL PEDREGAL)\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA JOYA DE CHIQUEROS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA JOYA DEL VENADO\n\t\t1\n\t\t14\n\t\t9\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA LAGUNITA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA SOLEDAD DE SAN ISIDRO (LA SOLEDAD)\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS CRUCES\n\t\t3\n\t\t20\n\t\t8\n\t\t12\n\t\t3\n\t\n\t\n\t\tLAS CRUCES DE BARAJAS\n\t\t2\n\t\t11\n\t\t7\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAS FLORES\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tLAS IGLESIAS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS BAGRES\n\t\t2\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tLOS CORRALES\n\t\t3\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tMESA DE LOS NÁVAR\n\t\t3\n\t\t43\n\t\t21\n\t\t22\n\t\t3\n\t\n\t\n\t\tPIE DE LA CUESTA\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tPOTRERILLOS\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tPOTRERO DE CHÁIDEZ\n\t\t3\n\t\t42\n\t\t21\n\t\t21\n\t\t4\n\t\n\t\n\t\tPRESIDIO DE ABAJO (LA CANDELA)\n\t\t1\n\t\t12\n\t\t8\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN GERÓNIMO\n\t\t2\n\t\t25\n\t\t14\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN IGNACIO DE LA SIERRA\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO DE LAS CALABAZAS (LAS CALABAZAS)\n\t\t1\n\t\t13\n\t\t3\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE LA BOCA\n\t\t3\n\t\t184\n\t\t93\n\t\t91\n\t\t12\n\t\n\t\n\t\tSAN JUAN DEL NEGRO (SAN JUAN)\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL DE LOBOS\n\t\t1\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tSAN NICOLÁS DE PRESIDIO (PRESIDIO DE ARRIBA)\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t15\n\t\t11\n\t\t4\n\t\t2\n\t\n\t\n\t\tSANDÍAS (EL VADO DE SANDÍAS)\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA CATARINA DE TEPEHUANES\n\t\t9\n\t\t1,295\n\t\t684\n\t\t611\n\t\t67\n\t\n\t\n\t\tTORO QUEMADO\n\t\t3\n\t\t24\n\t\t10\n\t\t14\n\t\t3\n\t\n\t\n\t\tYERBABUENA\n\t\t1\n\t\t13\n\t\t4\n\t\t9\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t88\n\t\t2,243\n\t\t1,161\n\t\t1,082\n\t\t159\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TEPEHUANES",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACAPULCO",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1",
+          "BARAJAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2",
+          "CAPULÍN DE METATES",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1",
+          "CARRERAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "CIÉNEGA DE CABALLOS",
+          "2",
+          "28",
+          "17",
+          "11",
+          "3",
+          "CIÉNEGA DE ESCOBAR",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "CIÉNEGA DE LOS FRAILES",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1",
+          "EL CONEJO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "4",
+          "EL GATO DE ARRIBA",
+          "4",
+          "84",
+          "40",
+          "44",
+          "7",
+          "EL PEÑOL",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL PURGATORIO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "EL REFUGIO (EL REFUGIO DE LOS LOBOS)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "EL RINCÓN",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "EL TAISTE",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "EL TARAHUMAR",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "EL TULE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1",
+          "JOYA DE LAS VIUDAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LA ATASCOSA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "LA BUFA",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1",
+          "LA CONCEPCIÓN DE LAS IGLESIAS (EL PEDREGAL)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LA JOYA DE CHIQUEROS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LA JOYA DEL VENADO",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1",
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA PURÍSIMA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "LA SOLEDAD DE SAN ISIDRO (LA SOLEDAD)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "LAS CRUCES",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3",
+          "LAS CRUCES DE BARAJAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2",
+          "LAS FLORES",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "LAS IGLESIAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LOS BAGRES",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3",
+          "LOS CORRALES",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3",
+          "MESA DE LOS NÁVAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3",
+          "PIE DE LA CUESTA",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "POTRERILLOS",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "POTRERO DE CHÁIDEZ",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4",
+          "PRESIDIO DE ABAJO (LA CANDELA)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1",
+          "SAN GERÓNIMO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2",
+          "SAN IGNACIO DE LA SIERRA",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1",
+          "SAN ISIDRO DE LAS CALABAZAS (LAS CALABAZAS)",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1",
+          "SAN JOSÉ DE LA BOCA",
+          "3",
+          "184",
+          "93",
+          "91",
+          "12",
+          "SAN JUAN DEL NEGRO (SAN JUAN)",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "SAN MIGUEL DE LOBOS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1",
+          "SAN NICOLÁS DE PRESIDIO (PRESIDIO DE ARRIBA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "SAN RAFAEL",
+          "2",
+          "15",
+          "11",
+          "4",
+          "2",
+          "SANDÍAS (EL VADO DE SANDÍAS)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "SANTA CATARINA DE TEPEHUANES",
+          "9",
+          "1,295",
+          "684",
+          "611",
+          "67",
+          "TORO QUEMADO",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3",
+          "YERBABUENA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1",
+          "TOTAL",
+          "88",
+          "2,243",
+          "1,161",
+          "1,082",
+          "159",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TEPEHUANES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPULCO",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "BARAJAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CAPULÍN DE METATES",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "CARRERAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE CABALLOS",
+          "2",
+          "28",
+          "17",
+          "11",
+          "3"
+        ],
+        [
+          "CIÉNEGA DE ESCOBAR",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "CIÉNEGA DE LOS FRAILES",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL CONEJO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "4"
+        ],
+        [
+          "EL GATO DE ARRIBA",
+          "4",
+          "84",
+          "40",
+          "44",
+          "7"
+        ],
+        [
+          "EL PEÑOL",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL PURGATORIO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL REFUGIO DE LOS LOBOS)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "EL TAISTE",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL TARAHUMAR",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EL TULE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1"
+        ],
+        [
+          "JOYA DE LAS VIUDAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA ATASCOSA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LA BUFA",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1"
+        ],
+        [
+          "LA CONCEPCIÓN DE LAS IGLESIAS (EL PEDREGAL)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA JOYA DE CHIQUEROS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA JOYA DEL VENADO",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LA SOLEDAD DE SAN ISIDRO (LA SOLEDAD)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3"
+        ],
+        [
+          "LAS CRUCES DE BARAJAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "LAS IGLESIAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS BAGRES",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LOS CORRALES",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "MESA DE LOS NÁVAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "POTRERO DE CHÁIDEZ",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "PRESIDIO DE ABAJO (LA CANDELA)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "SAN IGNACIO DE LA SIERRA",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ISIDRO DE LAS CALABAZAS (LAS CALABAZAS)",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA BOCA",
+          "3",
+          "184",
+          "93",
+          "91",
+          "12"
+        ],
+        [
+          "SAN JUAN DEL NEGRO (SAN JUAN)",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE LOBOS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SAN NICOLÁS DE PRESIDIO (PRESIDIO DE ARRIBA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "15",
+          "11",
+          "4",
+          "2"
+        ],
+        [
+          "SANDÍAS (EL VADO DE SANDÍAS)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA CATARINA DE TEPEHUANES",
+          "9",
+          "1,295",
+          "684",
+          "611",
+          "67"
+        ],
+        [
+          "TORO QUEMADO",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "YERBABUENA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "2,243",
+          "1,161",
+          "1,082",
+          "159"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TEPEHUANES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAPULCO",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "BARAJAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CAPULÍN DE METATES",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "CARRERAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE CABALLOS",
+          "2",
+          "28",
+          "17",
+          "11",
+          "3"
+        ],
+        [
+          "CIÉNEGA DE ESCOBAR",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "CIÉNEGA DE LOS FRAILES",
+          "2",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "EL CONEJO",
+          "3",
+          "43",
+          "22",
+          "21",
+          "4"
+        ],
+        [
+          "EL GATO DE ARRIBA",
+          "4",
+          "84",
+          "40",
+          "44",
+          "7"
+        ],
+        [
+          "EL PEÑOL",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL PURGATORIO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL REFUGIO DE LOS LOBOS)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "EL TAISTE",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL TARAHUMAR",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EL TULE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "1"
+        ],
+        [
+          "JOYA DE LAS VIUDAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA ATASCOSA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LA BUFA",
+          "1",
+          "21",
+          "10",
+          "11",
+          "1"
+        ],
+        [
+          "LA CONCEPCIÓN DE LAS IGLESIAS (EL PEDREGAL)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA JOYA DE CHIQUEROS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA JOYA DEL VENADO",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LA SOLEDAD DE SAN ISIDRO (LA SOLEDAD)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3"
+        ],
+        [
+          "LAS CRUCES DE BARAJAS",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "LAS FLORES",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "LAS IGLESIAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS BAGRES",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LOS CORRALES",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "MESA DE LOS NÁVAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "POTRERO DE CHÁIDEZ",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "PRESIDIO DE ABAJO (LA CANDELA)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "SAN GERÓNIMO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "SAN IGNACIO DE LA SIERRA",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ISIDRO DE LAS CALABAZAS (LAS CALABAZAS)",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA BOCA",
+          "3",
+          "184",
+          "93",
+          "91",
+          "12"
+        ],
+        [
+          "SAN JUAN DEL NEGRO (SAN JUAN)",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE LOBOS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SAN NICOLÁS DE PRESIDIO (PRESIDIO DE ARRIBA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "15",
+          "11",
+          "4",
+          "2"
+        ],
+        [
+          "SANDÍAS (EL VADO DE SANDÍAS)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA CATARINA DE TEPEHUANES",
+          "9",
+          "1,295",
+          "684",
+          "611",
+          "67"
+        ],
+        [
+          "TORO QUEMADO",
+          "3",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "YERBABUENA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "2,243",
+          "1,161",
+          "1,082",
+          "159"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:02.804Z"
+}

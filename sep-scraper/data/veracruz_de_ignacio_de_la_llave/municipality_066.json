@@ -1,0 +1,890 @@
+{
+  "municipality": "ESPINAL",
+  "municipalityCode": "066",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ESPINAL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARENAL\n\t\t4\n\t\t345\n\t\t174\n\t\t171\n\t\t24\n\t\n\t\n\t\tBUENAVISTA\n\t\t6\n\t\t286\n\t\t136\n\t\t150\n\t\t19\n\t\n\t\n\t\tCHAPULTEPEC\n\t\t3\n\t\t174\n\t\t91\n\t\t83\n\t\t12\n\t\n\t\n\t\tCINCO DE OCTUBRE\n\t\t2\n\t\t147\n\t\t72\n\t\t75\n\t\t8\n\t\n\t\n\t\tCOLONIA CUAUHTÉMOC\n\t\t2\n\t\t23\n\t\t14\n\t\t9\n\t\t2\n\t\n\t\n\t\tCOLONIA GUADALUPE DE HIDALGO\n\t\t2\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tCOLONIA MEDIODÍA\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t3\n\t\n\t\n\t\tCOLONIA SANTA CRUZ\n\t\t2\n\t\t21\n\t\t12\n\t\t9\n\t\t3\n\t\n\t\n\t\tCOMALTECO\n\t\t5\n\t\t340\n\t\t162\n\t\t178\n\t\t26\n\t\n\t\n\t\tEL CERRO\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL CIRUELO\n\t\t6\n\t\t331\n\t\t163\n\t\t168\n\t\t21\n\t\n\t\n\t\tEL ERMITAÑO\n\t\t4\n\t\t158\n\t\t71\n\t\t87\n\t\t12\n\t\n\t\n\t\tEL MIRADOR\n\t\t4\n\t\t110\n\t\t57\n\t\t53\n\t\t9\n\t\n\t\n\t\tEL PACÍFICO\n\t\t4\n\t\t233\n\t\t109\n\t\t124\n\t\t14\n\t\n\t\n\t\tEL ZAPOTAL\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t2\n\t\n\t\n\t\tENTABLADERO\n\t\t8\n\t\t1,121\n\t\t525\n\t\t596\n\t\t68\n\t\n\t\n\t\tESPINAL\n\t\t14\n\t\t1,354\n\t\t717\n\t\t637\n\t\t78\n\t\n\t\n\t\tGARRANCHOS\n\t\t1\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA GUADALUPE\n\t\t2\n\t\t44\n\t\t22\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA LUNA\n\t\t3\n\t\t55\n\t\t26\n\t\t29\n\t\t5\n\t\n\t\n\t\tLA NORIA\n\t\t2\n\t\t105\n\t\t48\n\t\t57\n\t\t9\n\t\n\t\n\t\tLA NUEVA ESPERANZA\n\t\t1\n\t\t32\n\t\t16\n\t\t16\n\t\t2\n\t\n\t\n\t\tMELCHOR OCAMPO\n\t\t4\n\t\t276\n\t\t130\n\t\t146\n\t\t15\n\t\n\t\n\t\tMIGUEL ALEMÁN VALDÉS\n\t\t5\n\t\t237\n\t\t105\n\t\t132\n\t\t16\n\t\n\t\n\t\tNUEVO OJITE\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t62\n\t\t29\n\t\t33\n\t\t6\n\t\n\t\n\t\tORIENTE MEDIO DÍA\n\t\t3\n\t\t159\n\t\t67\n\t\t92\n\t\t11\n\t\n\t\n\t\tORIENTE MERIDIANO\n\t\t2\n\t\t100\n\t\t64\n\t\t36\n\t\t9\n\t\n\t\n\t\tPOZA LARGA MIRADORES\n\t\t3\n\t\t114\n\t\t46\n\t\t68\n\t\t10\n\t\n\t\n\t\tPOZA LARGA ZAPOTAL\n\t\t5\n\t\t284\n\t\t140\n\t\t144\n\t\t18\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t117\n\t\t54\n\t\t63\n\t\t10\n\t\n\t\n\t\tSAN LEONCIO JAMAYA\n\t\t3\n\t\t299\n\t\t142\n\t\t157\n\t\t15\n\t\n\t\n\t\tSAN PEDRO MIRADORES\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA ISABEL\n\t\t7\n\t\t466\n\t\t232\n\t\t234\n\t\t26\n\t\n\t\n\t\tZACATE LIMÓN\n\t\t2\n\t\t107\n\t\t53\n\t\t54\n\t\t9\n\t\n\t\n\t\tZAPOTE CHICO\n\t\t2\n\t\t38\n\t\t17\n\t\t21\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t125\n\t\t7,304\n\t\t3,570\n\t\t3,734\n\t\t478\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ESPINAL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARENAL",
+          "4",
+          "345",
+          "174",
+          "171",
+          "24",
+          "BUENAVISTA",
+          "6",
+          "286",
+          "136",
+          "150",
+          "19",
+          "CHAPULTEPEC",
+          "3",
+          "174",
+          "91",
+          "83",
+          "12",
+          "CINCO DE OCTUBRE",
+          "2",
+          "147",
+          "72",
+          "75",
+          "8",
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2",
+          "COLONIA GUADALUPE DE HIDALGO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2",
+          "COLONIA MEDIODÍA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3",
+          "COLONIA SANTA CRUZ",
+          "2",
+          "21",
+          "12",
+          "9",
+          "3",
+          "COMALTECO",
+          "5",
+          "340",
+          "162",
+          "178",
+          "26",
+          "EL CERRO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "EL CIRUELO",
+          "6",
+          "331",
+          "163",
+          "168",
+          "21",
+          "EL ERMITAÑO",
+          "4",
+          "158",
+          "71",
+          "87",
+          "12",
+          "EL MIRADOR",
+          "4",
+          "110",
+          "57",
+          "53",
+          "9",
+          "EL PACÍFICO",
+          "4",
+          "233",
+          "109",
+          "124",
+          "14",
+          "EL ZAPOTAL",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2",
+          "ENTABLADERO",
+          "8",
+          "1,121",
+          "525",
+          "596",
+          "68",
+          "ESPINAL",
+          "14",
+          "1,354",
+          "717",
+          "637",
+          "78",
+          "GARRANCHOS",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2",
+          "LA GUADALUPE",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3",
+          "LA LUNA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "5",
+          "LA NORIA",
+          "2",
+          "105",
+          "48",
+          "57",
+          "9",
+          "LA NUEVA ESPERANZA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2",
+          "MELCHOR OCAMPO",
+          "4",
+          "276",
+          "130",
+          "146",
+          "15",
+          "MIGUEL ALEMÁN VALDÉS",
+          "5",
+          "237",
+          "105",
+          "132",
+          "16",
+          "NUEVO OJITE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "OJO DE AGUA",
+          "2",
+          "62",
+          "29",
+          "33",
+          "6",
+          "ORIENTE MEDIO DÍA",
+          "3",
+          "159",
+          "67",
+          "92",
+          "11",
+          "ORIENTE MERIDIANO",
+          "2",
+          "100",
+          "64",
+          "36",
+          "9",
+          "POZA LARGA MIRADORES",
+          "3",
+          "114",
+          "46",
+          "68",
+          "10",
+          "POZA LARGA ZAPOTAL",
+          "5",
+          "284",
+          "140",
+          "144",
+          "18",
+          "SAN FRANCISCO",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10",
+          "SAN LEONCIO JAMAYA",
+          "3",
+          "299",
+          "142",
+          "157",
+          "15",
+          "SAN PEDRO MIRADORES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "SANTA ISABEL",
+          "7",
+          "466",
+          "232",
+          "234",
+          "26",
+          "ZACATE LIMÓN",
+          "2",
+          "107",
+          "53",
+          "54",
+          "9",
+          "ZAPOTE CHICO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "4",
+          "TOTAL",
+          "125",
+          "7,304",
+          "3,570",
+          "3,734",
+          "478",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ESPINAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARENAL",
+          "4",
+          "345",
+          "174",
+          "171",
+          "24"
+        ],
+        [
+          "BUENAVISTA",
+          "6",
+          "286",
+          "136",
+          "150",
+          "19"
+        ],
+        [
+          "CHAPULTEPEC",
+          "3",
+          "174",
+          "91",
+          "83",
+          "12"
+        ],
+        [
+          "CINCO DE OCTUBRE",
+          "2",
+          "147",
+          "72",
+          "75",
+          "8"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "COLONIA GUADALUPE DE HIDALGO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "COLONIA MEDIODÍA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "COLONIA SANTA CRUZ",
+          "2",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "COMALTECO",
+          "5",
+          "340",
+          "162",
+          "178",
+          "26"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "EL CIRUELO",
+          "6",
+          "331",
+          "163",
+          "168",
+          "21"
+        ],
+        [
+          "EL ERMITAÑO",
+          "4",
+          "158",
+          "71",
+          "87",
+          "12"
+        ],
+        [
+          "EL MIRADOR",
+          "4",
+          "110",
+          "57",
+          "53",
+          "9"
+        ],
+        [
+          "EL PACÍFICO",
+          "4",
+          "233",
+          "109",
+          "124",
+          "14"
+        ],
+        [
+          "EL ZAPOTAL",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "ENTABLADERO",
+          "8",
+          "1,121",
+          "525",
+          "596",
+          "68"
+        ],
+        [
+          "ESPINAL",
+          "14",
+          "1,354",
+          "717",
+          "637",
+          "78"
+        ],
+        [
+          "GARRANCHOS",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "LA GUADALUPE",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "LA LUNA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "5"
+        ],
+        [
+          "LA NORIA",
+          "2",
+          "105",
+          "48",
+          "57",
+          "9"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "4",
+          "276",
+          "130",
+          "146",
+          "15"
+        ],
+        [
+          "MIGUEL ALEMÁN VALDÉS",
+          "5",
+          "237",
+          "105",
+          "132",
+          "16"
+        ],
+        [
+          "NUEVO OJITE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "62",
+          "29",
+          "33",
+          "6"
+        ],
+        [
+          "ORIENTE MEDIO DÍA",
+          "3",
+          "159",
+          "67",
+          "92",
+          "11"
+        ],
+        [
+          "ORIENTE MERIDIANO",
+          "2",
+          "100",
+          "64",
+          "36",
+          "9"
+        ],
+        [
+          "POZA LARGA MIRADORES",
+          "3",
+          "114",
+          "46",
+          "68",
+          "10"
+        ],
+        [
+          "POZA LARGA ZAPOTAL",
+          "5",
+          "284",
+          "140",
+          "144",
+          "18"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10"
+        ],
+        [
+          "SAN LEONCIO JAMAYA",
+          "3",
+          "299",
+          "142",
+          "157",
+          "15"
+        ],
+        [
+          "SAN PEDRO MIRADORES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ISABEL",
+          "7",
+          "466",
+          "232",
+          "234",
+          "26"
+        ],
+        [
+          "ZACATE LIMÓN",
+          "2",
+          "107",
+          "53",
+          "54",
+          "9"
+        ],
+        [
+          "ZAPOTE CHICO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "7,304",
+          "3,570",
+          "3,734",
+          "478"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ESPINAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARENAL",
+          "4",
+          "345",
+          "174",
+          "171",
+          "24"
+        ],
+        [
+          "BUENAVISTA",
+          "6",
+          "286",
+          "136",
+          "150",
+          "19"
+        ],
+        [
+          "CHAPULTEPEC",
+          "3",
+          "174",
+          "91",
+          "83",
+          "12"
+        ],
+        [
+          "CINCO DE OCTUBRE",
+          "2",
+          "147",
+          "72",
+          "75",
+          "8"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "COLONIA GUADALUPE DE HIDALGO",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "COLONIA MEDIODÍA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "COLONIA SANTA CRUZ",
+          "2",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "COMALTECO",
+          "5",
+          "340",
+          "162",
+          "178",
+          "26"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "EL CIRUELO",
+          "6",
+          "331",
+          "163",
+          "168",
+          "21"
+        ],
+        [
+          "EL ERMITAÑO",
+          "4",
+          "158",
+          "71",
+          "87",
+          "12"
+        ],
+        [
+          "EL MIRADOR",
+          "4",
+          "110",
+          "57",
+          "53",
+          "9"
+        ],
+        [
+          "EL PACÍFICO",
+          "4",
+          "233",
+          "109",
+          "124",
+          "14"
+        ],
+        [
+          "EL ZAPOTAL",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "ENTABLADERO",
+          "8",
+          "1,121",
+          "525",
+          "596",
+          "68"
+        ],
+        [
+          "ESPINAL",
+          "14",
+          "1,354",
+          "717",
+          "637",
+          "78"
+        ],
+        [
+          "GARRANCHOS",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "LA GUADALUPE",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "LA LUNA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "5"
+        ],
+        [
+          "LA NORIA",
+          "2",
+          "105",
+          "48",
+          "57",
+          "9"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "4",
+          "276",
+          "130",
+          "146",
+          "15"
+        ],
+        [
+          "MIGUEL ALEMÁN VALDÉS",
+          "5",
+          "237",
+          "105",
+          "132",
+          "16"
+        ],
+        [
+          "NUEVO OJITE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "62",
+          "29",
+          "33",
+          "6"
+        ],
+        [
+          "ORIENTE MEDIO DÍA",
+          "3",
+          "159",
+          "67",
+          "92",
+          "11"
+        ],
+        [
+          "ORIENTE MERIDIANO",
+          "2",
+          "100",
+          "64",
+          "36",
+          "9"
+        ],
+        [
+          "POZA LARGA MIRADORES",
+          "3",
+          "114",
+          "46",
+          "68",
+          "10"
+        ],
+        [
+          "POZA LARGA ZAPOTAL",
+          "5",
+          "284",
+          "140",
+          "144",
+          "18"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10"
+        ],
+        [
+          "SAN LEONCIO JAMAYA",
+          "3",
+          "299",
+          "142",
+          "157",
+          "15"
+        ],
+        [
+          "SAN PEDRO MIRADORES",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ISABEL",
+          "7",
+          "466",
+          "232",
+          "234",
+          "26"
+        ],
+        [
+          "ZACATE LIMÓN",
+          "2",
+          "107",
+          "53",
+          "54",
+          "9"
+        ],
+        [
+          "ZAPOTE CHICO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "125",
+          "7,304",
+          "3,570",
+          "3,734",
+          "478"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:45:46.435Z"
+}

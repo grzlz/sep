@@ -1,0 +1,516 @@
+{
+  "municipality": "TIXTLA DE GUERRERO",
+  "municipalityCode": "061",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TIXTLA DE GUERRERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATEMPA\n\t\t3\n\t\t390\n\t\t202\n\t\t188\n\t\t17\n\t\n\t\n\t\tALMOLONGA\n\t\t5\n\t\t324\n\t\t164\n\t\t160\n\t\t19\n\t\n\t\n\t\tATLIACA\n\t\t14\n\t\t1,956\n\t\t958\n\t\t998\n\t\t109\n\t\n\t\n\t\tAYOTZINAPA\n\t\t1\n\t\t633\n\t\t0\n\t\t633\n\t\t57\n\t\n\t\n\t\tCHALICO (RANCHO CHALICO)\n\t\t1\n\t\t151\n\t\t81\n\t\t70\n\t\t6\n\t\n\t\n\t\tCHILACACHAPA\n\t\t3\n\t\t161\n\t\t86\n\t\t75\n\t\t12\n\t\n\t\n\t\tEL AHUEJOTE\n\t\t3\n\t\t135\n\t\t65\n\t\t70\n\t\t12\n\t\n\t\n\t\tEL DURAZNO\n\t\t3\n\t\t280\n\t\t140\n\t\t140\n\t\t18\n\t\n\t\n\t\tEL POTRERO\n\t\t5\n\t\t109\n\t\t51\n\t\t58\n\t\t11\n\t\n\t\n\t\tEL TRONCÓN\n\t\t4\n\t\t133\n\t\t62\n\t\t71\n\t\t13\n\t\n\t\n\t\tLA ESTACADA\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t3\n\t\n\t\n\t\tLOS TERREROS (COLONIA GENERAL EUSEBIO GONZÁLEZ S.)\n\t\t1\n\t\t19\n\t\t9\n\t\t10\n\t\t1\n\t\n\t\n\t\tMATLALAPA\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tOJITOS DE AGUA\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t3\n\t\n\t\n\t\tOMEAPA\n\t\t3\n\t\t83\n\t\t38\n\t\t45\n\t\t7\n\t\n\t\n\t\tPLAN DE GUERRERO\n\t\t3\n\t\t89\n\t\t47\n\t\t42\n\t\t11\n\t\n\t\n\t\tTIXTLA DE GUERRERO\n\t\t37\n\t\t6,262\n\t\t3,132\n\t\t3,130\n\t\t375\n\t\n\t\n\t\tZACATZONAPA\n\t\t4\n\t\t323\n\t\t158\n\t\t165\n\t\t16\n\t\n\t\n\t\tZOQUIAPA\n\t\t4\n\t\t410\n\t\t233\n\t\t177\n\t\t21\n\t\n\t\n\t\tTOTAL\n\t\t99\n\t\t11,526\n\t\t5,465\n\t\t6,061\n\t\t712\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TIXTLA DE GUERRERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATEMPA",
+          "3",
+          "390",
+          "202",
+          "188",
+          "17",
+          "ALMOLONGA",
+          "5",
+          "324",
+          "164",
+          "160",
+          "19",
+          "ATLIACA",
+          "14",
+          "1,956",
+          "958",
+          "998",
+          "109",
+          "AYOTZINAPA",
+          "1",
+          "633",
+          "0",
+          "633",
+          "57",
+          "CHALICO (RANCHO CHALICO)",
+          "1",
+          "151",
+          "81",
+          "70",
+          "6",
+          "CHILACACHAPA",
+          "3",
+          "161",
+          "86",
+          "75",
+          "12",
+          "EL AHUEJOTE",
+          "3",
+          "135",
+          "65",
+          "70",
+          "12",
+          "EL DURAZNO",
+          "3",
+          "280",
+          "140",
+          "140",
+          "18",
+          "EL POTRERO",
+          "5",
+          "109",
+          "51",
+          "58",
+          "11",
+          "EL TRONCÓN",
+          "4",
+          "133",
+          "62",
+          "71",
+          "13",
+          "LA ESTACADA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3",
+          "LOS TERREROS (COLONIA GENERAL EUSEBIO GONZÁLEZ S.)",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1",
+          "MATLALAPA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "OJITOS DE AGUA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "3",
+          "OMEAPA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7",
+          "PLAN DE GUERRERO",
+          "3",
+          "89",
+          "47",
+          "42",
+          "11",
+          "TIXTLA DE GUERRERO",
+          "37",
+          "6,262",
+          "3,132",
+          "3,130",
+          "375",
+          "ZACATZONAPA",
+          "4",
+          "323",
+          "158",
+          "165",
+          "16",
+          "ZOQUIAPA",
+          "4",
+          "410",
+          "233",
+          "177",
+          "21",
+          "TOTAL",
+          "99",
+          "11,526",
+          "5,465",
+          "6,061",
+          "712",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TIXTLA DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATEMPA",
+          "3",
+          "390",
+          "202",
+          "188",
+          "17"
+        ],
+        [
+          "ALMOLONGA",
+          "5",
+          "324",
+          "164",
+          "160",
+          "19"
+        ],
+        [
+          "ATLIACA",
+          "14",
+          "1,956",
+          "958",
+          "998",
+          "109"
+        ],
+        [
+          "AYOTZINAPA",
+          "1",
+          "633",
+          "0",
+          "633",
+          "57"
+        ],
+        [
+          "CHALICO (RANCHO CHALICO)",
+          "1",
+          "151",
+          "81",
+          "70",
+          "6"
+        ],
+        [
+          "CHILACACHAPA",
+          "3",
+          "161",
+          "86",
+          "75",
+          "12"
+        ],
+        [
+          "EL AHUEJOTE",
+          "3",
+          "135",
+          "65",
+          "70",
+          "12"
+        ],
+        [
+          "EL DURAZNO",
+          "3",
+          "280",
+          "140",
+          "140",
+          "18"
+        ],
+        [
+          "EL POTRERO",
+          "5",
+          "109",
+          "51",
+          "58",
+          "11"
+        ],
+        [
+          "EL TRONCÓN",
+          "4",
+          "133",
+          "62",
+          "71",
+          "13"
+        ],
+        [
+          "LA ESTACADA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3"
+        ],
+        [
+          "LOS TERREROS (COLONIA GENERAL EUSEBIO GONZÁLEZ S.)",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "MATLALAPA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "OJITOS DE AGUA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "OMEAPA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7"
+        ],
+        [
+          "PLAN DE GUERRERO",
+          "3",
+          "89",
+          "47",
+          "42",
+          "11"
+        ],
+        [
+          "TIXTLA DE GUERRERO",
+          "37",
+          "6,262",
+          "3,132",
+          "3,130",
+          "375"
+        ],
+        [
+          "ZACATZONAPA",
+          "4",
+          "323",
+          "158",
+          "165",
+          "16"
+        ],
+        [
+          "ZOQUIAPA",
+          "4",
+          "410",
+          "233",
+          "177",
+          "21"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "11,526",
+          "5,465",
+          "6,061",
+          "712"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TIXTLA DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATEMPA",
+          "3",
+          "390",
+          "202",
+          "188",
+          "17"
+        ],
+        [
+          "ALMOLONGA",
+          "5",
+          "324",
+          "164",
+          "160",
+          "19"
+        ],
+        [
+          "ATLIACA",
+          "14",
+          "1,956",
+          "958",
+          "998",
+          "109"
+        ],
+        [
+          "AYOTZINAPA",
+          "1",
+          "633",
+          "0",
+          "633",
+          "57"
+        ],
+        [
+          "CHALICO (RANCHO CHALICO)",
+          "1",
+          "151",
+          "81",
+          "70",
+          "6"
+        ],
+        [
+          "CHILACACHAPA",
+          "3",
+          "161",
+          "86",
+          "75",
+          "12"
+        ],
+        [
+          "EL AHUEJOTE",
+          "3",
+          "135",
+          "65",
+          "70",
+          "12"
+        ],
+        [
+          "EL DURAZNO",
+          "3",
+          "280",
+          "140",
+          "140",
+          "18"
+        ],
+        [
+          "EL POTRERO",
+          "5",
+          "109",
+          "51",
+          "58",
+          "11"
+        ],
+        [
+          "EL TRONCÓN",
+          "4",
+          "133",
+          "62",
+          "71",
+          "13"
+        ],
+        [
+          "LA ESTACADA",
+          "2",
+          "41",
+          "22",
+          "19",
+          "3"
+        ],
+        [
+          "LOS TERREROS (COLONIA GENERAL EUSEBIO GONZÁLEZ S.)",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "MATLALAPA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "OJITOS DE AGUA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "OMEAPA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7"
+        ],
+        [
+          "PLAN DE GUERRERO",
+          "3",
+          "89",
+          "47",
+          "42",
+          "11"
+        ],
+        [
+          "TIXTLA DE GUERRERO",
+          "37",
+          "6,262",
+          "3,132",
+          "3,130",
+          "375"
+        ],
+        [
+          "ZACATZONAPA",
+          "4",
+          "323",
+          "158",
+          "165",
+          "16"
+        ],
+        [
+          "ZOQUIAPA",
+          "4",
+          "410",
+          "233",
+          "177",
+          "21"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "11,526",
+          "5,465",
+          "6,061",
+          "712"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:13:54.975Z"
+}

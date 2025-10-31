@@ -1,0 +1,538 @@
+{
+  "municipality": "TZINTZUNTZAN",
+  "municipalityCode": "100",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TZINTZUNTZAN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOENEMBO\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t5\n\t\n\t\n\t\tCOLONIA LÁZARO CÁRDENAS\n\t\t2\n\t\t40\n\t\t21\n\t\t19\n\t\t3\n\t\n\t\n\t\tCUCUCHUCHO (SAN PEDRO)\n\t\t5\n\t\t188\n\t\t102\n\t\t86\n\t\t16\n\t\n\t\n\t\tEL JAGÜEY (EL MOLINO)\n\t\t3\n\t\t134\n\t\t66\n\t\t68\n\t\t8\n\t\n\t\n\t\tEL TIGRE\n\t\t2\n\t\t65\n\t\t27\n\t\t38\n\t\t5\n\t\n\t\n\t\tICHUPIO\n\t\t3\n\t\t55\n\t\t23\n\t\t32\n\t\t5\n\t\n\t\n\t\tIHUATZIO\n\t\t7\n\t\t989\n\t\t498\n\t\t491\n\t\t56\n\t\n\t\n\t\tISLA DE PACANDA (ISLA PACANDA)\n\t\t3\n\t\t79\n\t\t33\n\t\t46\n\t\t7\n\t\n\t\n\t\tLA NORIA\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tLAS CUEVAS\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t3\n\t\n\t\n\t\tLOS CORRALES\n\t\t4\n\t\t141\n\t\t75\n\t\t66\n\t\t14\n\t\n\t\n\t\tNUEVO RODEO\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t4\n\t\n\t\n\t\tPATAMBICHO\n\t\t2\n\t\t46\n\t\t22\n\t\t24\n\t\t4\n\t\n\t\n\t\tSANABRIA\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tSANTA CRUZ\n\t\t3\n\t\t105\n\t\t55\n\t\t50\n\t\t7\n\t\n\t\n\t\tTARERÍO\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tTZINTZUNTZAN\n\t\t10\n\t\t1,380\n\t\t702\n\t\t678\n\t\t105\n\t\n\t\n\t\tTZINTZUNTZITA\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tTZIRANGA\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tUCASANÁSTACUA\n\t\t3\n\t\t46\n\t\t28\n\t\t18\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t61\n\t\t3,498\n\t\t1,773\n\t\t1,725\n\t\t255\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TZINTZUNTZAN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COENEMBO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5",
+          "COLONIA LÁZARO CÁRDENAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "3",
+          "CUCUCHUCHO (SAN PEDRO)",
+          "5",
+          "188",
+          "102",
+          "86",
+          "16",
+          "EL JAGÜEY (EL MOLINO)",
+          "3",
+          "134",
+          "66",
+          "68",
+          "8",
+          "EL TIGRE",
+          "2",
+          "65",
+          "27",
+          "38",
+          "5",
+          "ICHUPIO",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5",
+          "IHUATZIO",
+          "7",
+          "989",
+          "498",
+          "491",
+          "56",
+          "ISLA DE PACANDA (ISLA PACANDA)",
+          "3",
+          "79",
+          "33",
+          "46",
+          "7",
+          "LA NORIA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "LAS CUEVAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "3",
+          "LOS CORRALES",
+          "4",
+          "141",
+          "75",
+          "66",
+          "14",
+          "NUEVO RODEO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4",
+          "PATAMBICHO",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4",
+          "SANABRIA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "SANTA CRUZ",
+          "3",
+          "105",
+          "55",
+          "50",
+          "7",
+          "TARERÍO",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3",
+          "TZINTZUNTZAN",
+          "10",
+          "1,380",
+          "702",
+          "678",
+          "105",
+          "TZINTZUNTZITA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "TZIRANGA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "UCASANÁSTACUA",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4",
+          "TOTAL",
+          "61",
+          "3,498",
+          "1,773",
+          "1,725",
+          "255",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TZINTZUNTZAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COENEMBO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "COLONIA LÁZARO CÁRDENAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "3"
+        ],
+        [
+          "CUCUCHUCHO (SAN PEDRO)",
+          "5",
+          "188",
+          "102",
+          "86",
+          "16"
+        ],
+        [
+          "EL JAGÜEY (EL MOLINO)",
+          "3",
+          "134",
+          "66",
+          "68",
+          "8"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "65",
+          "27",
+          "38",
+          "5"
+        ],
+        [
+          "ICHUPIO",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5"
+        ],
+        [
+          "IHUATZIO",
+          "7",
+          "989",
+          "498",
+          "491",
+          "56"
+        ],
+        [
+          "ISLA DE PACANDA (ISLA PACANDA)",
+          "3",
+          "79",
+          "33",
+          "46",
+          "7"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "LAS CUEVAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "3"
+        ],
+        [
+          "LOS CORRALES",
+          "4",
+          "141",
+          "75",
+          "66",
+          "14"
+        ],
+        [
+          "NUEVO RODEO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "PATAMBICHO",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4"
+        ],
+        [
+          "SANABRIA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA CRUZ",
+          "3",
+          "105",
+          "55",
+          "50",
+          "7"
+        ],
+        [
+          "TARERÍO",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "TZINTZUNTZAN",
+          "10",
+          "1,380",
+          "702",
+          "678",
+          "105"
+        ],
+        [
+          "TZINTZUNTZITA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TZIRANGA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "UCASANÁSTACUA",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "3,498",
+          "1,773",
+          "1,725",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TZINTZUNTZAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COENEMBO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "COLONIA LÁZARO CÁRDENAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "3"
+        ],
+        [
+          "CUCUCHUCHO (SAN PEDRO)",
+          "5",
+          "188",
+          "102",
+          "86",
+          "16"
+        ],
+        [
+          "EL JAGÜEY (EL MOLINO)",
+          "3",
+          "134",
+          "66",
+          "68",
+          "8"
+        ],
+        [
+          "EL TIGRE",
+          "2",
+          "65",
+          "27",
+          "38",
+          "5"
+        ],
+        [
+          "ICHUPIO",
+          "3",
+          "55",
+          "23",
+          "32",
+          "5"
+        ],
+        [
+          "IHUATZIO",
+          "7",
+          "989",
+          "498",
+          "491",
+          "56"
+        ],
+        [
+          "ISLA DE PACANDA (ISLA PACANDA)",
+          "3",
+          "79",
+          "33",
+          "46",
+          "7"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "LAS CUEVAS",
+          "2",
+          "20",
+          "9",
+          "11",
+          "3"
+        ],
+        [
+          "LOS CORRALES",
+          "4",
+          "141",
+          "75",
+          "66",
+          "14"
+        ],
+        [
+          "NUEVO RODEO",
+          "2",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "PATAMBICHO",
+          "2",
+          "46",
+          "22",
+          "24",
+          "4"
+        ],
+        [
+          "SANABRIA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA CRUZ",
+          "3",
+          "105",
+          "55",
+          "50",
+          "7"
+        ],
+        [
+          "TARERÍO",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "TZINTZUNTZAN",
+          "10",
+          "1,380",
+          "702",
+          "678",
+          "105"
+        ],
+        [
+          "TZINTZUNTZITA",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TZIRANGA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "UCASANÁSTACUA",
+          "3",
+          "46",
+          "28",
+          "18",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "3,498",
+          "1,773",
+          "1,725",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:38.719Z"
+}

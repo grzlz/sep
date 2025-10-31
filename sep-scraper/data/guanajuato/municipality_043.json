@@ -1,0 +1,1308 @@
+{
+  "municipality": "VICTORIA",
+  "municipalityCode": "043",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: VICTORIA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t3\n\t\t25\n\t\t9\n\t\t16\n\t\t3\n\t\n\t\n\t\tÁLAMOS DE MARTÍNEZ\n\t\t4\n\t\t72\n\t\t33\n\t\t39\n\t\t6\n\t\n\t\n\t\tBUENAVISTA DE GUADALUPE\n\t\t1\n\t\t14\n\t\t11\n\t\t3\n\t\t1\n\t\n\t\n\t\tCAÑADA DE HIGUERAS\n\t\t2\n\t\t48\n\t\t20\n\t\t28\n\t\t3\n\t\n\t\n\t\tCAÑADA DE MORENO\n\t\t2\n\t\t84\n\t\t36\n\t\t48\n\t\t4\n\t\n\t\n\t\tCAPILLA BLANCA\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tCERRITO COLORADO\n\t\t4\n\t\t118\n\t\t62\n\t\t56\n\t\t9\n\t\n\t\n\t\tCIENEGUILLA\n\t\t4\n\t\t822\n\t\t439\n\t\t383\n\t\t35\n\t\n\t\n\t\tCORRAL DE PIEDRA\n\t\t2\n\t\t57\n\t\t26\n\t\t31\n\t\t3\n\t\n\t\n\t\tCORRALILLOS\n\t\t2\n\t\t81\n\t\t38\n\t\t43\n\t\t4\n\t\n\t\n\t\tDERRAMADEROS\n\t\t4\n\t\t119\n\t\t52\n\t\t67\n\t\t9\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t135\n\t\t69\n\t\t66\n\t\t8\n\t\n\t\n\t\tEL OBISPO (SAN MARTÍN DEL OBISPO)\n\t\t1\n\t\t4\n\t\t4\n\t\t0\n\t\t1\n\t\n\t\n\t\tEL OJO DE AGUA\n\t\t3\n\t\t51\n\t\t27\n\t\t24\n\t\t4\n\t\n\t\n\t\tEL PITAHAYO\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL QUELITE\n\t\t1\n\t\t16\n\t\t4\n\t\t12\n\t\t1\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t54\n\t\t24\n\t\t30\n\t\t4\n\t\n\t\n\t\tEL SAUZ DE ARRIBA\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL TEPETATE\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA CALERA\n\t\t2\n\t\t27\n\t\t15\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t53\n\t\t27\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA ESTANCIA\n\t\t2\n\t\t65\n\t\t28\n\t\t37\n\t\t4\n\t\n\t\n\t\tLA JOYA FRÍA\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA LAGUNITA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA LUZ\n\t\t2\n\t\t38\n\t\t24\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA SIMONA\n\t\t2\n\t\t54\n\t\t27\n\t\t27\n\t\t4\n\t\n\t\n\t\tLAS CHIVAS\n\t\t2\n\t\t35\n\t\t12\n\t\t23\n\t\t3\n\t\n\t\n\t\tLAS HELADAS\n\t\t2\n\t\t38\n\t\t17\n\t\t21\n\t\t2\n\t\n\t\n\t\tLAS NARANJAS\n\t\t3\n\t\t44\n\t\t17\n\t\t27\n\t\t3\n\t\n\t\n\t\tLOMA DE LOS CHILITOS\n\t\t3\n\t\t117\n\t\t55\n\t\t62\n\t\t7\n\t\n\t\n\t\tLOS LINDEROS\n\t\t2\n\t\t119\n\t\t53\n\t\t66\n\t\t6\n\t\n\t\n\t\tLOS REMEDIOS (CERRO GRANDE)\n\t\t3\n\t\t252\n\t\t117\n\t\t135\n\t\t12\n\t\n\t\n\t\tMALINTO\n\t\t4\n\t\t159\n\t\t82\n\t\t77\n\t\t10\n\t\n\t\n\t\tMESA DE LA CANTERA\n\t\t2\n\t\t47\n\t\t19\n\t\t28\n\t\t3\n\t\n\t\n\t\tMESITA DEL TIGRE\n\t\t2\n\t\t53\n\t\t22\n\t\t31\n\t\t3\n\t\n\t\n\t\tMILPILLAS DE SANTIAGO\n\t\t4\n\t\t435\n\t\t234\n\t\t201\n\t\t17\n\t\n\t\n\t\tMILPILLAS DEL PITO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tMISIÓN DE ARNEDO\n\t\t4\n\t\t403\n\t\t202\n\t\t201\n\t\t18\n\t\n\t\n\t\tNEGRITAS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tPALMILLAS\n\t\t2\n\t\t141\n\t\t70\n\t\t71\n\t\t7\n\t\n\t\n\t\tPANALES\n\t\t2\n\t\t124\n\t\t65\n\t\t59\n\t\t6\n\t\n\t\n\t\tPASO HONDO\n\t\t1\n\t\t27\n\t\t10\n\t\t17\n\t\t12\n\t\n\t\n\t\tPUERTO DE LA TAPONA\n\t\t2\n\t\t95\n\t\t49\n\t\t46\n\t\t6\n\t\n\t\n\t\tPUERTO DE PALMAS\n\t\t4\n\t\t127\n\t\t70\n\t\t57\n\t\t8\n\t\n\t\n\t\tRANCHO VIEJO (ESPÍRITU SANTO)\n\t\t3\n\t\t53\n\t\t27\n\t\t26\n\t\t3\n\t\n\t\n\t\tROMERILLOS\n\t\t2\n\t\t13\n\t\t11\n\t\t2\n\t\t2\n\t\n\t\n\t\tSALITRERA\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN JERÓNIMO (EL LLANITO)\n\t\t2\n\t\t58\n\t\t32\n\t\t26\n\t\t3\n\t\n\t\n\t\tSAN SALVADOR DE AHORCADOS\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tSOMBRERETE\n\t\t2\n\t\t51\n\t\t25\n\t\t26\n\t\t3\n\t\n\t\n\t\tTASAJILLO\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t5\n\t\n\t\n\t\tVICTORIA\n\t\t6\n\t\t1,083\n\t\t564\n\t\t519\n\t\t49\n\t\n\t\n\t\tXACALÁZUCHITL\n\t\t2\n\t\t24\n\t\t14\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t126\n\t\t5,722\n\t\t2,883\n\t\t2,839\n\t\t318\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: VICTORIA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "3",
+          "25",
+          "9",
+          "16",
+          "3",
+          "ÁLAMOS DE MARTÍNEZ",
+          "4",
+          "72",
+          "33",
+          "39",
+          "6",
+          "BUENAVISTA DE GUADALUPE",
+          "1",
+          "14",
+          "11",
+          "3",
+          "1",
+          "CAÑADA DE HIGUERAS",
+          "2",
+          "48",
+          "20",
+          "28",
+          "3",
+          "CAÑADA DE MORENO",
+          "2",
+          "84",
+          "36",
+          "48",
+          "4",
+          "CAPILLA BLANCA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "CERRITO COLORADO",
+          "4",
+          "118",
+          "62",
+          "56",
+          "9",
+          "CIENEGUILLA",
+          "4",
+          "822",
+          "439",
+          "383",
+          "35",
+          "CORRAL DE PIEDRA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3",
+          "CORRALILLOS",
+          "2",
+          "81",
+          "38",
+          "43",
+          "4",
+          "DERRAMADEROS",
+          "4",
+          "119",
+          "52",
+          "67",
+          "9",
+          "EL CARMEN",
+          "2",
+          "135",
+          "69",
+          "66",
+          "8",
+          "EL OBISPO (SAN MARTÍN DEL OBISPO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1",
+          "EL OJO DE AGUA",
+          "3",
+          "51",
+          "27",
+          "24",
+          "4",
+          "EL PITAHAYO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2",
+          "EL QUELITE",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1",
+          "EL REFUGIO",
+          "2",
+          "54",
+          "24",
+          "30",
+          "4",
+          "EL SAUZ DE ARRIBA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL TEPEHUAJE",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "EL TEPETATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2",
+          "LA CALERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2",
+          "LA ESPERANZA",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3",
+          "LA ESTANCIA",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4",
+          "LA JOYA FRÍA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA LUZ",
+          "2",
+          "38",
+          "24",
+          "14",
+          "2",
+          "LA SIMONA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "4",
+          "LAS CHIVAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3",
+          "LAS HELADAS",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2",
+          "LAS NARANJAS",
+          "3",
+          "44",
+          "17",
+          "27",
+          "3",
+          "LOMA DE LOS CHILITOS",
+          "3",
+          "117",
+          "55",
+          "62",
+          "7",
+          "LOS LINDEROS",
+          "2",
+          "119",
+          "53",
+          "66",
+          "6",
+          "LOS REMEDIOS (CERRO GRANDE)",
+          "3",
+          "252",
+          "117",
+          "135",
+          "12",
+          "MALINTO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "10",
+          "MESA DE LA CANTERA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "3",
+          "MESITA DEL TIGRE",
+          "2",
+          "53",
+          "22",
+          "31",
+          "3",
+          "MILPILLAS DE SANTIAGO",
+          "4",
+          "435",
+          "234",
+          "201",
+          "17",
+          "MILPILLAS DEL PITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "MISIÓN DE ARNEDO",
+          "4",
+          "403",
+          "202",
+          "201",
+          "18",
+          "NEGRITAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "PALMILLAS",
+          "2",
+          "141",
+          "70",
+          "71",
+          "7",
+          "PANALES",
+          "2",
+          "124",
+          "65",
+          "59",
+          "6",
+          "PASO HONDO",
+          "1",
+          "27",
+          "10",
+          "17",
+          "12",
+          "PUERTO DE LA TAPONA",
+          "2",
+          "95",
+          "49",
+          "46",
+          "6",
+          "PUERTO DE PALMAS",
+          "4",
+          "127",
+          "70",
+          "57",
+          "8",
+          "RANCHO VIEJO (ESPÍRITU SANTO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3",
+          "ROMERILLOS",
+          "2",
+          "13",
+          "11",
+          "2",
+          "2",
+          "SALITRERA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1",
+          "SAN AGUSTÍN",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "SAN JERÓNIMO (EL LLANITO)",
+          "2",
+          "58",
+          "32",
+          "26",
+          "3",
+          "SAN SALVADOR DE AHORCADOS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2",
+          "SOMBRERETE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3",
+          "TASAJILLO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "5",
+          "VICTORIA",
+          "6",
+          "1,083",
+          "564",
+          "519",
+          "49",
+          "XACALÁZUCHITL",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2",
+          "TOTAL",
+          "126",
+          "5,722",
+          "2,883",
+          "2,839",
+          "318",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "25",
+          "9",
+          "16",
+          "3"
+        ],
+        [
+          "ÁLAMOS DE MARTÍNEZ",
+          "4",
+          "72",
+          "33",
+          "39",
+          "6"
+        ],
+        [
+          "BUENAVISTA DE GUADALUPE",
+          "1",
+          "14",
+          "11",
+          "3",
+          "1"
+        ],
+        [
+          "CAÑADA DE HIGUERAS",
+          "2",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "CAÑADA DE MORENO",
+          "2",
+          "84",
+          "36",
+          "48",
+          "4"
+        ],
+        [
+          "CAPILLA BLANCA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "CERRITO COLORADO",
+          "4",
+          "118",
+          "62",
+          "56",
+          "9"
+        ],
+        [
+          "CIENEGUILLA",
+          "4",
+          "822",
+          "439",
+          "383",
+          "35"
+        ],
+        [
+          "CORRAL DE PIEDRA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "CORRALILLOS",
+          "2",
+          "81",
+          "38",
+          "43",
+          "4"
+        ],
+        [
+          "DERRAMADEROS",
+          "4",
+          "119",
+          "52",
+          "67",
+          "9"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "135",
+          "69",
+          "66",
+          "8"
+        ],
+        [
+          "EL OBISPO (SAN MARTÍN DEL OBISPO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "EL OJO DE AGUA",
+          "3",
+          "51",
+          "27",
+          "24",
+          "4"
+        ],
+        [
+          "EL PITAHAYO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "EL QUELITE",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "54",
+          "24",
+          "30",
+          "4"
+        ],
+        [
+          "EL SAUZ DE ARRIBA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "EL TEPETATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "LA CALERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "LA JOYA FRÍA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "38",
+          "24",
+          "14",
+          "2"
+        ],
+        [
+          "LA SIMONA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "LAS CHIVAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "LAS HELADAS",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2"
+        ],
+        [
+          "LAS NARANJAS",
+          "3",
+          "44",
+          "17",
+          "27",
+          "3"
+        ],
+        [
+          "LOMA DE LOS CHILITOS",
+          "3",
+          "117",
+          "55",
+          "62",
+          "7"
+        ],
+        [
+          "LOS LINDEROS",
+          "2",
+          "119",
+          "53",
+          "66",
+          "6"
+        ],
+        [
+          "LOS REMEDIOS (CERRO GRANDE)",
+          "3",
+          "252",
+          "117",
+          "135",
+          "12"
+        ],
+        [
+          "MALINTO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "10"
+        ],
+        [
+          "MESA DE LA CANTERA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "3"
+        ],
+        [
+          "MESITA DEL TIGRE",
+          "2",
+          "53",
+          "22",
+          "31",
+          "3"
+        ],
+        [
+          "MILPILLAS DE SANTIAGO",
+          "4",
+          "435",
+          "234",
+          "201",
+          "17"
+        ],
+        [
+          "MILPILLAS DEL PITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "MISIÓN DE ARNEDO",
+          "4",
+          "403",
+          "202",
+          "201",
+          "18"
+        ],
+        [
+          "NEGRITAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PALMILLAS",
+          "2",
+          "141",
+          "70",
+          "71",
+          "7"
+        ],
+        [
+          "PANALES",
+          "2",
+          "124",
+          "65",
+          "59",
+          "6"
+        ],
+        [
+          "PASO HONDO",
+          "1",
+          "27",
+          "10",
+          "17",
+          "12"
+        ],
+        [
+          "PUERTO DE LA TAPONA",
+          "2",
+          "95",
+          "49",
+          "46",
+          "6"
+        ],
+        [
+          "PUERTO DE PALMAS",
+          "4",
+          "127",
+          "70",
+          "57",
+          "8"
+        ],
+        [
+          "RANCHO VIEJO (ESPÍRITU SANTO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "ROMERILLOS",
+          "2",
+          "13",
+          "11",
+          "2",
+          "2"
+        ],
+        [
+          "SALITRERA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "SAN JERÓNIMO (EL LLANITO)",
+          "2",
+          "58",
+          "32",
+          "26",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE AHORCADOS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "SOMBRERETE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "TASAJILLO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "5"
+        ],
+        [
+          "VICTORIA",
+          "6",
+          "1,083",
+          "564",
+          "519",
+          "49"
+        ],
+        [
+          "XACALÁZUCHITL",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "126",
+          "5,722",
+          "2,883",
+          "2,839",
+          "318"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "3",
+          "25",
+          "9",
+          "16",
+          "3"
+        ],
+        [
+          "ÁLAMOS DE MARTÍNEZ",
+          "4",
+          "72",
+          "33",
+          "39",
+          "6"
+        ],
+        [
+          "BUENAVISTA DE GUADALUPE",
+          "1",
+          "14",
+          "11",
+          "3",
+          "1"
+        ],
+        [
+          "CAÑADA DE HIGUERAS",
+          "2",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "CAÑADA DE MORENO",
+          "2",
+          "84",
+          "36",
+          "48",
+          "4"
+        ],
+        [
+          "CAPILLA BLANCA",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "CERRITO COLORADO",
+          "4",
+          "118",
+          "62",
+          "56",
+          "9"
+        ],
+        [
+          "CIENEGUILLA",
+          "4",
+          "822",
+          "439",
+          "383",
+          "35"
+        ],
+        [
+          "CORRAL DE PIEDRA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "CORRALILLOS",
+          "2",
+          "81",
+          "38",
+          "43",
+          "4"
+        ],
+        [
+          "DERRAMADEROS",
+          "4",
+          "119",
+          "52",
+          "67",
+          "9"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "135",
+          "69",
+          "66",
+          "8"
+        ],
+        [
+          "EL OBISPO (SAN MARTÍN DEL OBISPO)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "EL OJO DE AGUA",
+          "3",
+          "51",
+          "27",
+          "24",
+          "4"
+        ],
+        [
+          "EL PITAHAYO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "EL QUELITE",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "54",
+          "24",
+          "30",
+          "4"
+        ],
+        [
+          "EL SAUZ DE ARRIBA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "EL TEPETATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "LA CALERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "LA JOYA FRÍA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "38",
+          "24",
+          "14",
+          "2"
+        ],
+        [
+          "LA SIMONA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "4"
+        ],
+        [
+          "LAS CHIVAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "LAS HELADAS",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2"
+        ],
+        [
+          "LAS NARANJAS",
+          "3",
+          "44",
+          "17",
+          "27",
+          "3"
+        ],
+        [
+          "LOMA DE LOS CHILITOS",
+          "3",
+          "117",
+          "55",
+          "62",
+          "7"
+        ],
+        [
+          "LOS LINDEROS",
+          "2",
+          "119",
+          "53",
+          "66",
+          "6"
+        ],
+        [
+          "LOS REMEDIOS (CERRO GRANDE)",
+          "3",
+          "252",
+          "117",
+          "135",
+          "12"
+        ],
+        [
+          "MALINTO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "10"
+        ],
+        [
+          "MESA DE LA CANTERA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "3"
+        ],
+        [
+          "MESITA DEL TIGRE",
+          "2",
+          "53",
+          "22",
+          "31",
+          "3"
+        ],
+        [
+          "MILPILLAS DE SANTIAGO",
+          "4",
+          "435",
+          "234",
+          "201",
+          "17"
+        ],
+        [
+          "MILPILLAS DEL PITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "MISIÓN DE ARNEDO",
+          "4",
+          "403",
+          "202",
+          "201",
+          "18"
+        ],
+        [
+          "NEGRITAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PALMILLAS",
+          "2",
+          "141",
+          "70",
+          "71",
+          "7"
+        ],
+        [
+          "PANALES",
+          "2",
+          "124",
+          "65",
+          "59",
+          "6"
+        ],
+        [
+          "PASO HONDO",
+          "1",
+          "27",
+          "10",
+          "17",
+          "12"
+        ],
+        [
+          "PUERTO DE LA TAPONA",
+          "2",
+          "95",
+          "49",
+          "46",
+          "6"
+        ],
+        [
+          "PUERTO DE PALMAS",
+          "4",
+          "127",
+          "70",
+          "57",
+          "8"
+        ],
+        [
+          "RANCHO VIEJO (ESPÍRITU SANTO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "ROMERILLOS",
+          "2",
+          "13",
+          "11",
+          "2",
+          "2"
+        ],
+        [
+          "SALITRERA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "SAN JERÓNIMO (EL LLANITO)",
+          "2",
+          "58",
+          "32",
+          "26",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE AHORCADOS",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "SOMBRERETE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "TASAJILLO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "5"
+        ],
+        [
+          "VICTORIA",
+          "6",
+          "1,083",
+          "564",
+          "519",
+          "49"
+        ],
+        [
+          "XACALÁZUCHITL",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "126",
+          "5,722",
+          "2,883",
+          "2,839",
+          "318"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:27.276Z"
+}

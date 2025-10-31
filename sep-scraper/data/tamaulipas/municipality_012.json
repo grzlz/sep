@@ -1,0 +1,824 @@
+{
+  "municipality": "GONZÁLEZ",
+  "municipalityCode": "012",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: GONZÁLEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO RUIZ CORTINES\n\t\t3\n\t\t75\n\t\t42\n\t\t33\n\t\t6\n\t\n\t\n\t\tATIZAPÁN DE ZARAGOZA\n\t\t3\n\t\t62\n\t\t33\n\t\t29\n\t\t6\n\t\n\t\n\t\tAURELIANO CABALLERO\n\t\t3\n\t\t56\n\t\t43\n\t\t13\n\t\t5\n\t\n\t\n\t\tEL BERNAL\n\t\t1\n\t\t41\n\t\t21\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL CENTAURO\n\t\t3\n\t\t72\n\t\t28\n\t\t44\n\t\t6\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t3\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL PROGRESO\n\t\t3\n\t\t46\n\t\t25\n\t\t21\n\t\t6\n\t\n\t\n\t\tESTACIÓN MANUEL (ÚRSULO GALVÁN)\n\t\t12\n\t\t2,180\n\t\t1,120\n\t\t1,060\n\t\t108\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tFORTÍN AGRARIO (ESTACIÓN CALLES)\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tFRANCISCO I. MADERO DOS\n\t\t5\n\t\t344\n\t\t184\n\t\t160\n\t\t18\n\t\n\t\n\t\tGONZÁLEZ\n\t\t16\n\t\t2,891\n\t\t1,513\n\t\t1,378\n\t\t174\n\t\n\t\n\t\tGONZÁLEZ [EJIDO]\n\t\t2\n\t\t95\n\t\t50\n\t\t45\n\t\t7\n\t\n\t\n\t\tGRACIANO SÁNCHEZ\n\t\t6\n\t\t942\n\t\t464\n\t\t478\n\t\t44\n\t\n\t\n\t\tGUSTAVO DÍAZ ORDAZ\n\t\t2\n\t\t20\n\t\t13\n\t\t7\n\t\t2\n\t\n\t\n\t\tINDEPENDENCIA Y REVOLUCIÓN\n\t\t2\n\t\t7\n\t\t6\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA GLORIA\n\t\t3\n\t\t40\n\t\t12\n\t\t28\n\t\t5\n\t\n\t\n\t\tLA REFORMA\n\t\t3\n\t\t105\n\t\t53\n\t\t52\n\t\t7\n\t\n\t\n\t\tLA TORRECILLA\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t2\n\t\n\t\n\t\tLAS ÁGUILAS DEL BERNAL\n\t\t1\n\t\t12\n\t\t3\n\t\t9\n\t\t1\n\t\n\t\n\t\tLÓPEZ RAYÓN\n\t\t5\n\t\t429\n\t\t225\n\t\t204\n\t\t23\n\t\n\t\n\t\tMAGISCATZIN\n\t\t3\n\t\t189\n\t\t90\n\t\t99\n\t\t15\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t3\n\t\t42\n\t\t16\n\t\t26\n\t\t4\n\t\n\t\n\t\tNUEVO QUINTERO\n\t\t3\n\t\t97\n\t\t47\n\t\t50\n\t\t8\n\t\n\t\n\t\tROSILLO\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO NOGALAR\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO RAYÓN\n\t\t3\n\t\t246\n\t\t124\n\t\t122\n\t\t11\n\t\n\t\n\t\tSAN FERNANDO\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN PEDRO\n\t\t3\n\t\t48\n\t\t21\n\t\t27\n\t\t5\n\t\n\t\n\t\tSANTA FE\n\t\t3\n\t\t229\n\t\t117\n\t\t112\n\t\t13\n\t\n\t\n\t\tTAMAHOLIPA\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tVENUSTIANO CARRANZA DOS\n\t\t3\n\t\t115\n\t\t67\n\t\t48\n\t\t8\n\t\n\t\n\t\tVENUSTIANO CARRANZA UNO\n\t\t3\n\t\t50\n\t\t23\n\t\t27\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t110\n\t\t8,530\n\t\t4,385\n\t\t4,145\n\t\t504\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: GONZÁLEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO RUIZ CORTINES",
+          "3",
+          "75",
+          "42",
+          "33",
+          "6",
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "62",
+          "33",
+          "29",
+          "6",
+          "AURELIANO CABALLERO",
+          "3",
+          "56",
+          "43",
+          "13",
+          "5",
+          "EL BERNAL",
+          "1",
+          "41",
+          "21",
+          "20",
+          "2",
+          "EL CENTAURO",
+          "3",
+          "72",
+          "28",
+          "44",
+          "6",
+          "EL MEZQUITAL",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2",
+          "EL PROGRESO",
+          "3",
+          "46",
+          "25",
+          "21",
+          "6",
+          "ESTACIÓN MANUEL (ÚRSULO GALVÁN)",
+          "12",
+          "2,180",
+          "1,120",
+          "1,060",
+          "108",
+          "FELIPE CARRILLO PUERTO",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "FORTÍN AGRARIO (ESTACIÓN CALLES)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "FRANCISCO I. MADERO DOS",
+          "5",
+          "344",
+          "184",
+          "160",
+          "18",
+          "GONZÁLEZ",
+          "16",
+          "2,891",
+          "1,513",
+          "1,378",
+          "174",
+          "GONZÁLEZ [EJIDO]",
+          "2",
+          "95",
+          "50",
+          "45",
+          "7",
+          "GRACIANO SÁNCHEZ",
+          "6",
+          "942",
+          "464",
+          "478",
+          "44",
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2",
+          "INDEPENDENCIA Y REVOLUCIÓN",
+          "2",
+          "7",
+          "6",
+          "1",
+          "1",
+          "LA GLORIA",
+          "3",
+          "40",
+          "12",
+          "28",
+          "5",
+          "LA REFORMA",
+          "3",
+          "105",
+          "53",
+          "52",
+          "7",
+          "LA TORRECILLA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2",
+          "LAS ÁGUILAS DEL BERNAL",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1",
+          "LÓPEZ RAYÓN",
+          "5",
+          "429",
+          "225",
+          "204",
+          "23",
+          "MAGISCATZIN",
+          "3",
+          "189",
+          "90",
+          "99",
+          "15",
+          "NICOLÁS BRAVO",
+          "3",
+          "42",
+          "16",
+          "26",
+          "4",
+          "NUEVO QUINTERO",
+          "3",
+          "97",
+          "47",
+          "50",
+          "8",
+          "ROSILLO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "SAN ANTONIO NOGALAR",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "SAN ANTONIO RAYÓN",
+          "3",
+          "246",
+          "124",
+          "122",
+          "11",
+          "SAN FERNANDO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "SAN PEDRO",
+          "3",
+          "48",
+          "21",
+          "27",
+          "5",
+          "SANTA FE",
+          "3",
+          "229",
+          "117",
+          "112",
+          "13",
+          "TAMAHOLIPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3",
+          "VENUSTIANO CARRANZA DOS",
+          "3",
+          "115",
+          "67",
+          "48",
+          "8",
+          "VENUSTIANO CARRANZA UNO",
+          "3",
+          "50",
+          "23",
+          "27",
+          "6",
+          "TOTAL",
+          "110",
+          "8,530",
+          "4,385",
+          "4,145",
+          "504",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: GONZÁLEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO RUIZ CORTINES",
+          "3",
+          "75",
+          "42",
+          "33",
+          "6"
+        ],
+        [
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "62",
+          "33",
+          "29",
+          "6"
+        ],
+        [
+          "AURELIANO CABALLERO",
+          "3",
+          "56",
+          "43",
+          "13",
+          "5"
+        ],
+        [
+          "EL BERNAL",
+          "1",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "EL CENTAURO",
+          "3",
+          "72",
+          "28",
+          "44",
+          "6"
+        ],
+        [
+          "EL MEZQUITAL",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL PROGRESO",
+          "3",
+          "46",
+          "25",
+          "21",
+          "6"
+        ],
+        [
+          "ESTACIÓN MANUEL (ÚRSULO GALVÁN)",
+          "12",
+          "2,180",
+          "1,120",
+          "1,060",
+          "108"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "FORTÍN AGRARIO (ESTACIÓN CALLES)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO DOS",
+          "5",
+          "344",
+          "184",
+          "160",
+          "18"
+        ],
+        [
+          "GONZÁLEZ",
+          "16",
+          "2,891",
+          "1,513",
+          "1,378",
+          "174"
+        ],
+        [
+          "GONZÁLEZ [EJIDO]",
+          "2",
+          "95",
+          "50",
+          "45",
+          "7"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "6",
+          "942",
+          "464",
+          "478",
+          "44"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "INDEPENDENCIA Y REVOLUCIÓN",
+          "2",
+          "7",
+          "6",
+          "1",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "40",
+          "12",
+          "28",
+          "5"
+        ],
+        [
+          "LA REFORMA",
+          "3",
+          "105",
+          "53",
+          "52",
+          "7"
+        ],
+        [
+          "LA TORRECILLA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "LAS ÁGUILAS DEL BERNAL",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "LÓPEZ RAYÓN",
+          "5",
+          "429",
+          "225",
+          "204",
+          "23"
+        ],
+        [
+          "MAGISCATZIN",
+          "3",
+          "189",
+          "90",
+          "99",
+          "15"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "42",
+          "16",
+          "26",
+          "4"
+        ],
+        [
+          "NUEVO QUINTERO",
+          "3",
+          "97",
+          "47",
+          "50",
+          "8"
+        ],
+        [
+          "ROSILLO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ANTONIO NOGALAR",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SAN ANTONIO RAYÓN",
+          "3",
+          "246",
+          "124",
+          "122",
+          "11"
+        ],
+        [
+          "SAN FERNANDO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "48",
+          "21",
+          "27",
+          "5"
+        ],
+        [
+          "SANTA FE",
+          "3",
+          "229",
+          "117",
+          "112",
+          "13"
+        ],
+        [
+          "TAMAHOLIPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "VENUSTIANO CARRANZA DOS",
+          "3",
+          "115",
+          "67",
+          "48",
+          "8"
+        ],
+        [
+          "VENUSTIANO CARRANZA UNO",
+          "3",
+          "50",
+          "23",
+          "27",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "110",
+          "8,530",
+          "4,385",
+          "4,145",
+          "504"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: GONZÁLEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO RUIZ CORTINES",
+          "3",
+          "75",
+          "42",
+          "33",
+          "6"
+        ],
+        [
+          "ATIZAPÁN DE ZARAGOZA",
+          "3",
+          "62",
+          "33",
+          "29",
+          "6"
+        ],
+        [
+          "AURELIANO CABALLERO",
+          "3",
+          "56",
+          "43",
+          "13",
+          "5"
+        ],
+        [
+          "EL BERNAL",
+          "1",
+          "41",
+          "21",
+          "20",
+          "2"
+        ],
+        [
+          "EL CENTAURO",
+          "3",
+          "72",
+          "28",
+          "44",
+          "6"
+        ],
+        [
+          "EL MEZQUITAL",
+          "3",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL PROGRESO",
+          "3",
+          "46",
+          "25",
+          "21",
+          "6"
+        ],
+        [
+          "ESTACIÓN MANUEL (ÚRSULO GALVÁN)",
+          "12",
+          "2,180",
+          "1,120",
+          "1,060",
+          "108"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "FORTÍN AGRARIO (ESTACIÓN CALLES)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO DOS",
+          "5",
+          "344",
+          "184",
+          "160",
+          "18"
+        ],
+        [
+          "GONZÁLEZ",
+          "16",
+          "2,891",
+          "1,513",
+          "1,378",
+          "174"
+        ],
+        [
+          "GONZÁLEZ [EJIDO]",
+          "2",
+          "95",
+          "50",
+          "45",
+          "7"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "6",
+          "942",
+          "464",
+          "478",
+          "44"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "INDEPENDENCIA Y REVOLUCIÓN",
+          "2",
+          "7",
+          "6",
+          "1",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "40",
+          "12",
+          "28",
+          "5"
+        ],
+        [
+          "LA REFORMA",
+          "3",
+          "105",
+          "53",
+          "52",
+          "7"
+        ],
+        [
+          "LA TORRECILLA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "LAS ÁGUILAS DEL BERNAL",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "LÓPEZ RAYÓN",
+          "5",
+          "429",
+          "225",
+          "204",
+          "23"
+        ],
+        [
+          "MAGISCATZIN",
+          "3",
+          "189",
+          "90",
+          "99",
+          "15"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "42",
+          "16",
+          "26",
+          "4"
+        ],
+        [
+          "NUEVO QUINTERO",
+          "3",
+          "97",
+          "47",
+          "50",
+          "8"
+        ],
+        [
+          "ROSILLO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ANTONIO NOGALAR",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "SAN ANTONIO RAYÓN",
+          "3",
+          "246",
+          "124",
+          "122",
+          "11"
+        ],
+        [
+          "SAN FERNANDO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PEDRO",
+          "3",
+          "48",
+          "21",
+          "27",
+          "5"
+        ],
+        [
+          "SANTA FE",
+          "3",
+          "229",
+          "117",
+          "112",
+          "13"
+        ],
+        [
+          "TAMAHOLIPA",
+          "2",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "VENUSTIANO CARRANZA DOS",
+          "3",
+          "115",
+          "67",
+          "48",
+          "8"
+        ],
+        [
+          "VENUSTIANO CARRANZA UNO",
+          "3",
+          "50",
+          "23",
+          "27",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "110",
+          "8,530",
+          "4,385",
+          "4,145",
+          "504"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:28.049Z"
+}

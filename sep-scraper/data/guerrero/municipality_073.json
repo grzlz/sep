@@ -1,0 +1,1220 @@
+{
+  "municipality": "ZIRÁNDARO",
+  "municipalityCode": "073",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIRÁNDARO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALITA\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tARATICHANGUIO\n\t\t6\n\t\t471\n\t\t235\n\t\t236\n\t\t26\n\t\n\t\n\t\tCARACHURIO (CARACHURIO EL NUEVO)\n\t\t4\n\t\t151\n\t\t73\n\t\t78\n\t\t10\n\t\n\t\n\t\tCATZÚNDARO\n\t\t2\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tCAYUNCHA\n\t\t1\n\t\t11\n\t\t2\n\t\t9\n\t\t1\n\t\n\t\n\t\tCIRIQUICHO\n\t\t3\n\t\t47\n\t\t21\n\t\t26\n\t\t5\n\t\n\t\n\t\tCUAHULOTE\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tCUAMBIO\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t3\n\t\n\t\n\t\tCUPUÁN\n\t\t4\n\t\t132\n\t\t70\n\t\t62\n\t\t8\n\t\n\t\n\t\tEL AGUACATE\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL CHIVO\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL COCO\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL CUITAZ\n\t\t3\n\t\t126\n\t\t62\n\t\t64\n\t\t8\n\t\n\t\n\t\tEL LUVIANO\n\t\t2\n\t\t27\n\t\t12\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL NARANJO\n\t\t2\n\t\t19\n\t\t6\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL PINO\n\t\t3\n\t\t71\n\t\t35\n\t\t36\n\t\t5\n\t\n\t\n\t\tEL RANCHITO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL REPARO\n\t\t3\n\t\t32\n\t\t17\n\t\t15\n\t\t4\n\t\n\t\n\t\tENRAMADAS\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tGUAYAMEO\n\t\t5\n\t\t464\n\t\t228\n\t\t236\n\t\t26\n\t\n\t\n\t\tHACIENDA VIEJA\n\t\t2\n\t\t95\n\t\t43\n\t\t52\n\t\t6\n\t\n\t\n\t\tHUANUMO\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tHUITZÁTARO\n\t\t3\n\t\t32\n\t\t15\n\t\t17\n\t\t5\n\t\n\t\n\t\tLA CALERA\n\t\t2\n\t\t73\n\t\t36\n\t\t37\n\t\t5\n\t\n\t\n\t\tLA CALERA (LA CALERA VERTIDOR)\n\t\t1\n\t\t87\n\t\t39\n\t\t48\n\t\t5\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA MESA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA PAROTA\n\t\t3\n\t\t119\n\t\t53\n\t\t66\n\t\t8\n\t\n\t\n\t\tLA PAROTA DEL CUARTEL\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PILA HONDA (LA PILA)\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA QUIRINGUCUA\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tLA TASAJERA\n\t\t2\n\t\t68\n\t\t32\n\t\t36\n\t\t5\n\t\n\t\n\t\tLAS COLONIAS\n\t\t3\n\t\t40\n\t\t21\n\t\t19\n\t\t4\n\t\n\t\n\t\tLAS GUACAMAYAS\n\t\t1\n\t\t24\n\t\t9\n\t\t15\n\t\t1\n\t\n\t\n\t\tLAS HUMEDADES (LA HUMEDAD)\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tLAS JUNTAS DE CUJARÁN (LAS JUNTAS)\n\t\t1\n\t\t27\n\t\t12\n\t\t15\n\t\t2\n\t\n\t\n\t\tLAS PILAS\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS ALACRANES\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tLOS BANCOS\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS CIMIENTOS\n\t\t3\n\t\t56\n\t\t23\n\t\t33\n\t\t4\n\t\n\t\n\t\tPALMA SOLA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tPANDACUAREO\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tPASO SECO\n\t\t3\n\t\t20\n\t\t12\n\t\t8\n\t\t3\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tRINCÓN DE LAS CEIBAS\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t84\n\t\t47\n\t\t37\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ DEL PILÓN\n\t\t4\n\t\t79\n\t\t45\n\t\t34\n\t\t8\n\t\n\t\n\t\tSAN RAFAEL\n\t\t4\n\t\t124\n\t\t58\n\t\t66\n\t\t11\n\t\n\t\n\t\tTIMÓN (EL TIMÓN CAÍDO)\n\t\t2\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tZIRÁNDARO DE LOS CHÁVEZ\n\t\t6\n\t\t1,064\n\t\t559\n\t\t505\n\t\t52\n\t\n\t\n\t\tZIRITZÍCUARO\n\t\t2\n\t\t51\n\t\t24\n\t\t27\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t119\n\t\t3,945\n\t\t1,967\n\t\t1,978\n\t\t264\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIRÁNDARO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALITA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "2",
+          "ARATICHANGUIO",
+          "6",
+          "471",
+          "235",
+          "236",
+          "26",
+          "CARACHURIO (CARACHURIO EL NUEVO)",
+          "4",
+          "151",
+          "73",
+          "78",
+          "10",
+          "CATZÚNDARO",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2",
+          "CAYUNCHA",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1",
+          "CIRIQUICHO",
+          "3",
+          "47",
+          "21",
+          "26",
+          "5",
+          "CUAHULOTE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "CUAMBIO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3",
+          "CUPUÁN",
+          "4",
+          "132",
+          "70",
+          "62",
+          "8",
+          "EL AGUACATE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1",
+          "EL CHIVO",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2",
+          "EL COCO",
+          "2",
+          "32",
+          "19",
+          "13",
+          "3",
+          "EL CUITAZ",
+          "3",
+          "126",
+          "62",
+          "64",
+          "8",
+          "EL LUVIANO",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2",
+          "EL NARANJO",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2",
+          "EL PINO",
+          "3",
+          "71",
+          "35",
+          "36",
+          "5",
+          "EL RANCHITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL REPARO",
+          "3",
+          "32",
+          "17",
+          "15",
+          "4",
+          "ENRAMADAS",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "GUAYAMEO",
+          "5",
+          "464",
+          "228",
+          "236",
+          "26",
+          "HACIENDA VIEJA",
+          "2",
+          "95",
+          "43",
+          "52",
+          "6",
+          "HUANUMO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "HUITZÁTARO",
+          "3",
+          "32",
+          "15",
+          "17",
+          "5",
+          "LA CALERA",
+          "2",
+          "73",
+          "36",
+          "37",
+          "5",
+          "LA CALERA (LA CALERA VERTIDOR)",
+          "1",
+          "87",
+          "39",
+          "48",
+          "5",
+          "LA CIÉNEGA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA MESA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LA PAROTA",
+          "3",
+          "119",
+          "53",
+          "66",
+          "8",
+          "LA PAROTA DEL CUARTEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "LA PILA HONDA (LA PILA)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2",
+          "LA QUIRINGUCUA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3",
+          "LA TASAJERA",
+          "2",
+          "68",
+          "32",
+          "36",
+          "5",
+          "LAS COLONIAS",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4",
+          "LAS GUACAMAYAS",
+          "1",
+          "24",
+          "9",
+          "15",
+          "1",
+          "LAS HUMEDADES (LA HUMEDAD)",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "LAS JUNTAS DE CUJARÁN (LAS JUNTAS)",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2",
+          "LAS PILAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LOS ALACRANES",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "LOS BANCOS",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1",
+          "LOS CIMIENTOS",
+          "3",
+          "56",
+          "23",
+          "33",
+          "4",
+          "PALMA SOLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "PANDACUAREO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3",
+          "PASO SECO",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3",
+          "PUEBLO VIEJO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1",
+          "RINCÓN DE LAS CEIBAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "SAN ANTONIO",
+          "3",
+          "84",
+          "47",
+          "37",
+          "6",
+          "SAN JOSÉ DEL PILÓN",
+          "4",
+          "79",
+          "45",
+          "34",
+          "8",
+          "SAN RAFAEL",
+          "4",
+          "124",
+          "58",
+          "66",
+          "11",
+          "TIMÓN (EL TIMÓN CAÍDO)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "1",
+          "ZIRÁNDARO DE LOS CHÁVEZ",
+          "6",
+          "1,064",
+          "559",
+          "505",
+          "52",
+          "ZIRITZÍCUARO",
+          "2",
+          "51",
+          "24",
+          "27",
+          "3",
+          "TOTAL",
+          "119",
+          "3,945",
+          "1,967",
+          "1,978",
+          "264",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIRÁNDARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALITA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "ARATICHANGUIO",
+          "6",
+          "471",
+          "235",
+          "236",
+          "26"
+        ],
+        [
+          "CARACHURIO (CARACHURIO EL NUEVO)",
+          "4",
+          "151",
+          "73",
+          "78",
+          "10"
+        ],
+        [
+          "CATZÚNDARO",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "CAYUNCHA",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "CIRIQUICHO",
+          "3",
+          "47",
+          "21",
+          "26",
+          "5"
+        ],
+        [
+          "CUAHULOTE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "CUAMBIO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "CUPUÁN",
+          "4",
+          "132",
+          "70",
+          "62",
+          "8"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EL CHIVO",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "EL CUITAZ",
+          "3",
+          "126",
+          "62",
+          "64",
+          "8"
+        ],
+        [
+          "EL LUVIANO",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "EL NARANJO",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "EL PINO",
+          "3",
+          "71",
+          "35",
+          "36",
+          "5"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL REPARO",
+          "3",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "ENRAMADAS",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "GUAYAMEO",
+          "5",
+          "464",
+          "228",
+          "236",
+          "26"
+        ],
+        [
+          "HACIENDA VIEJA",
+          "2",
+          "95",
+          "43",
+          "52",
+          "6"
+        ],
+        [
+          "HUANUMO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "HUITZÁTARO",
+          "3",
+          "32",
+          "15",
+          "17",
+          "5"
+        ],
+        [
+          "LA CALERA",
+          "2",
+          "73",
+          "36",
+          "37",
+          "5"
+        ],
+        [
+          "LA CALERA (LA CALERA VERTIDOR)",
+          "1",
+          "87",
+          "39",
+          "48",
+          "5"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "3",
+          "119",
+          "53",
+          "66",
+          "8"
+        ],
+        [
+          "LA PAROTA DEL CUARTEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "LA PILA HONDA (LA PILA)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "LA QUIRINGUCUA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "LA TASAJERA",
+          "2",
+          "68",
+          "32",
+          "36",
+          "5"
+        ],
+        [
+          "LAS COLONIAS",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "LAS GUACAMAYAS",
+          "1",
+          "24",
+          "9",
+          "15",
+          "1"
+        ],
+        [
+          "LAS HUMEDADES (LA HUMEDAD)",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "LAS JUNTAS DE CUJARÁN (LAS JUNTAS)",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ALACRANES",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LOS BANCOS",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CIMIENTOS",
+          "3",
+          "56",
+          "23",
+          "33",
+          "4"
+        ],
+        [
+          "PALMA SOLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PANDACUAREO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "PASO SECO",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "RINCÓN DE LAS CEIBAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "84",
+          "47",
+          "37",
+          "6"
+        ],
+        [
+          "SAN JOSÉ DEL PILÓN",
+          "4",
+          "79",
+          "45",
+          "34",
+          "8"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "124",
+          "58",
+          "66",
+          "11"
+        ],
+        [
+          "TIMÓN (EL TIMÓN CAÍDO)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "ZIRÁNDARO DE LOS CHÁVEZ",
+          "6",
+          "1,064",
+          "559",
+          "505",
+          "52"
+        ],
+        [
+          "ZIRITZÍCUARO",
+          "2",
+          "51",
+          "24",
+          "27",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "119",
+          "3,945",
+          "1,967",
+          "1,978",
+          "264"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ZIRÁNDARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALITA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "ARATICHANGUIO",
+          "6",
+          "471",
+          "235",
+          "236",
+          "26"
+        ],
+        [
+          "CARACHURIO (CARACHURIO EL NUEVO)",
+          "4",
+          "151",
+          "73",
+          "78",
+          "10"
+        ],
+        [
+          "CATZÚNDARO",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "CAYUNCHA",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "CIRIQUICHO",
+          "3",
+          "47",
+          "21",
+          "26",
+          "5"
+        ],
+        [
+          "CUAHULOTE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "CUAMBIO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "CUPUÁN",
+          "4",
+          "132",
+          "70",
+          "62",
+          "8"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "EL CHIVO",
+          "2",
+          "33",
+          "18",
+          "15",
+          "2"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "EL CUITAZ",
+          "3",
+          "126",
+          "62",
+          "64",
+          "8"
+        ],
+        [
+          "EL LUVIANO",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "EL NARANJO",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "EL PINO",
+          "3",
+          "71",
+          "35",
+          "36",
+          "5"
+        ],
+        [
+          "EL RANCHITO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL REPARO",
+          "3",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "ENRAMADAS",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "GUAYAMEO",
+          "5",
+          "464",
+          "228",
+          "236",
+          "26"
+        ],
+        [
+          "HACIENDA VIEJA",
+          "2",
+          "95",
+          "43",
+          "52",
+          "6"
+        ],
+        [
+          "HUANUMO",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "HUITZÁTARO",
+          "3",
+          "32",
+          "15",
+          "17",
+          "5"
+        ],
+        [
+          "LA CALERA",
+          "2",
+          "73",
+          "36",
+          "37",
+          "5"
+        ],
+        [
+          "LA CALERA (LA CALERA VERTIDOR)",
+          "1",
+          "87",
+          "39",
+          "48",
+          "5"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "3",
+          "119",
+          "53",
+          "66",
+          "8"
+        ],
+        [
+          "LA PAROTA DEL CUARTEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "LA PILA HONDA (LA PILA)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "LA QUIRINGUCUA",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "LA TASAJERA",
+          "2",
+          "68",
+          "32",
+          "36",
+          "5"
+        ],
+        [
+          "LAS COLONIAS",
+          "3",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "LAS GUACAMAYAS",
+          "1",
+          "24",
+          "9",
+          "15",
+          "1"
+        ],
+        [
+          "LAS HUMEDADES (LA HUMEDAD)",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "LAS JUNTAS DE CUJARÁN (LAS JUNTAS)",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ALACRANES",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LOS BANCOS",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CIMIENTOS",
+          "3",
+          "56",
+          "23",
+          "33",
+          "4"
+        ],
+        [
+          "PALMA SOLA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PANDACUAREO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "PASO SECO",
+          "3",
+          "20",
+          "12",
+          "8",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "RINCÓN DE LAS CEIBAS",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "84",
+          "47",
+          "37",
+          "6"
+        ],
+        [
+          "SAN JOSÉ DEL PILÓN",
+          "4",
+          "79",
+          "45",
+          "34",
+          "8"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "124",
+          "58",
+          "66",
+          "11"
+        ],
+        [
+          "TIMÓN (EL TIMÓN CAÍDO)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "ZIRÁNDARO DE LOS CHÁVEZ",
+          "6",
+          "1,064",
+          "559",
+          "505",
+          "52"
+        ],
+        [
+          "ZIRITZÍCUARO",
+          "2",
+          "51",
+          "24",
+          "27",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "119",
+          "3,945",
+          "1,967",
+          "1,978",
+          "264"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:42.110Z"
+}

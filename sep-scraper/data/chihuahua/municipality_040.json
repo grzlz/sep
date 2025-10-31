@@ -1,0 +1,780 @@
+{
+  "municipality": "MADERA",
+  "municipalityCode": "040",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MADERA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAÑO DE HIDALGO (EL CUATROCIENTOS)\n\t\t3\n\t\t35\n\t\t16\n\t\t19\n\t\t4\n\t\n\t\n\t\tARROYO AMPLIO (MINERAL DE DOLORES)\n\t\t2\n\t\t31\n\t\t19\n\t\t12\n\t\t3\n\t\n\t\n\t\tARTURO GÁMIZ\n\t\t3\n\t\t18\n\t\t12\n\t\t6\n\t\t3\n\t\n\t\n\t\tCAMPO EL DOS (DOS DE ARRIBA)\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tCASA COLORADA\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tCHIHUAHUITA\n\t\t2\n\t\t96\n\t\t38\n\t\t58\n\t\t7\n\t\n\t\n\t\tCHUHUICHUPA\n\t\t2\n\t\t30\n\t\t16\n\t\t14\n\t\t3\n\t\n\t\n\t\tDOLORES (MINERAL DE DOLORES)\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tEJIDO JESÚS GARCÍA (EL OSO)\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CABLE\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL HURACÁN\n\t\t2\n\t\t77\n\t\t35\n\t\t42\n\t\t6\n\t\n\t\n\t\tEL LARGO\n\t\t6\n\t\t750\n\t\t370\n\t\t380\n\t\t42\n\t\n\t\n\t\tEL NORTE\n\t\t2\n\t\t25\n\t\t8\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL OJITO\n\t\t1\n\t\t45\n\t\t23\n\t\t22\n\t\t2\n\t\n\t\n\t\tEL REFUGIO\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tHUIZOPA\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t1\n\t\n\t\n\t\tLA NORTEÑA\n\t\t4\n\t\t142\n\t\t83\n\t\t59\n\t\t10\n\t\n\t\n\t\tLAS VARAS (ESTACIÓN BABÍCORA)\n\t\t5\n\t\t217\n\t\t109\n\t\t108\n\t\t16\n\t\n\t\n\t\tLOS DESMONTES\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t1\n\t\n\t\n\t\tMADERA\n\t\t29\n\t\t4,255\n\t\t2,221\n\t\t2,034\n\t\t246\n\t\n\t\n\t\tMESA BLANCA\n\t\t3\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tMESA DE LA SIMONA\n\t\t3\n\t\t43\n\t\t25\n\t\t18\n\t\t3\n\t\n\t\n\t\tMESA DEL GARABATO\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tNAHUERACHI\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t2\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t7\n\t\t282\n\t\t151\n\t\t131\n\t\t25\n\t\n\t\n\t\tNUEVA MADERA\n\t\t3\n\t\t64\n\t\t35\n\t\t29\n\t\t5\n\t\n\t\n\t\tPRESÓN DE GOLONDRINAS\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t3\n\t\n\t\n\t\tPRESÓN DEL TORO\n\t\t3\n\t\t28\n\t\t12\n\t\t16\n\t\t3\n\t\n\t\n\t\tSANTA RITA\n\t\t2\n\t\t15\n\t\t7\n\t\t8\n\t\t2\n\t\n\t\n\t\tSOCORRO RIVERA\n\t\t3\n\t\t62\n\t\t25\n\t\t37\n\t\t5\n\t\n\t\n\t\tTRES OJITOS\n\t\t3\n\t\t43\n\t\t23\n\t\t20\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t102\n\t\t6,447\n\t\t3,326\n\t\t3,121\n\t\t408\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MADERA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AÑO DE HIDALGO (EL CUATROCIENTOS)",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4",
+          "ARROYO AMPLIO (MINERAL DE DOLORES)",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3",
+          "ARTURO GÁMIZ",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3",
+          "CAMPO EL DOS (DOS DE ARRIBA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "CASA COLORADA",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1",
+          "CHIHUAHUITA",
+          "2",
+          "96",
+          "38",
+          "58",
+          "7",
+          "CHUHUICHUPA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3",
+          "DOLORES (MINERAL DE DOLORES)",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1",
+          "EJIDO JESÚS GARCÍA (EL OSO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL CABLE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "EL HURACÁN",
+          "2",
+          "77",
+          "35",
+          "42",
+          "6",
+          "EL LARGO",
+          "6",
+          "750",
+          "370",
+          "380",
+          "42",
+          "EL NORTE",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2",
+          "EL OJITO",
+          "1",
+          "45",
+          "23",
+          "22",
+          "2",
+          "EL REFUGIO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "HUIZOPA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1",
+          "LA NORTEÑA",
+          "4",
+          "142",
+          "83",
+          "59",
+          "10",
+          "LAS VARAS (ESTACIÓN BABÍCORA)",
+          "5",
+          "217",
+          "109",
+          "108",
+          "16",
+          "LOS DESMONTES",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1",
+          "MADERA",
+          "29",
+          "4,255",
+          "2,221",
+          "2,034",
+          "246",
+          "MESA BLANCA",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3",
+          "MESA DE LA SIMONA",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3",
+          "MESA DEL GARABATO",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "NAHUERACHI",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2",
+          "NICOLÁS BRAVO",
+          "7",
+          "282",
+          "151",
+          "131",
+          "25",
+          "NUEVA MADERA",
+          "3",
+          "64",
+          "35",
+          "29",
+          "5",
+          "PRESÓN DE GOLONDRINAS",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3",
+          "PRESÓN DEL TORO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3",
+          "SANTA RITA",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2",
+          "SOCORRO RIVERA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5",
+          "TRES OJITOS",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3",
+          "TOTAL",
+          "102",
+          "6,447",
+          "3,326",
+          "3,121",
+          "408",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MADERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AÑO DE HIDALGO (EL CUATROCIENTOS)",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "ARROYO AMPLIO (MINERAL DE DOLORES)",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "ARTURO GÁMIZ",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "CAMPO EL DOS (DOS DE ARRIBA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "CASA COLORADA",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "CHIHUAHUITA",
+          "2",
+          "96",
+          "38",
+          "58",
+          "7"
+        ],
+        [
+          "CHUHUICHUPA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "DOLORES (MINERAL DE DOLORES)",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "EJIDO JESÚS GARCÍA (EL OSO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL CABLE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL HURACÁN",
+          "2",
+          "77",
+          "35",
+          "42",
+          "6"
+        ],
+        [
+          "EL LARGO",
+          "6",
+          "750",
+          "370",
+          "380",
+          "42"
+        ],
+        [
+          "EL NORTE",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2"
+        ],
+        [
+          "EL OJITO",
+          "1",
+          "45",
+          "23",
+          "22",
+          "2"
+        ],
+        [
+          "EL REFUGIO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "HUIZOPA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1"
+        ],
+        [
+          "LA NORTEÑA",
+          "4",
+          "142",
+          "83",
+          "59",
+          "10"
+        ],
+        [
+          "LAS VARAS (ESTACIÓN BABÍCORA)",
+          "5",
+          "217",
+          "109",
+          "108",
+          "16"
+        ],
+        [
+          "LOS DESMONTES",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "MADERA",
+          "29",
+          "4,255",
+          "2,221",
+          "2,034",
+          "246"
+        ],
+        [
+          "MESA BLANCA",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE LA SIMONA",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3"
+        ],
+        [
+          "MESA DEL GARABATO",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "NAHUERACHI",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "7",
+          "282",
+          "151",
+          "131",
+          "25"
+        ],
+        [
+          "NUEVA MADERA",
+          "3",
+          "64",
+          "35",
+          "29",
+          "5"
+        ],
+        [
+          "PRESÓN DE GOLONDRINAS",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "PRESÓN DEL TORO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "SOCORRO RIVERA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5"
+        ],
+        [
+          "TRES OJITOS",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "6,447",
+          "3,326",
+          "3,121",
+          "408"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MADERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AÑO DE HIDALGO (EL CUATROCIENTOS)",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "ARROYO AMPLIO (MINERAL DE DOLORES)",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "ARTURO GÁMIZ",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "CAMPO EL DOS (DOS DE ARRIBA)",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "CASA COLORADA",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "CHIHUAHUITA",
+          "2",
+          "96",
+          "38",
+          "58",
+          "7"
+        ],
+        [
+          "CHUHUICHUPA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "DOLORES (MINERAL DE DOLORES)",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "EJIDO JESÚS GARCÍA (EL OSO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL CABLE",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL HURACÁN",
+          "2",
+          "77",
+          "35",
+          "42",
+          "6"
+        ],
+        [
+          "EL LARGO",
+          "6",
+          "750",
+          "370",
+          "380",
+          "42"
+        ],
+        [
+          "EL NORTE",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2"
+        ],
+        [
+          "EL OJITO",
+          "1",
+          "45",
+          "23",
+          "22",
+          "2"
+        ],
+        [
+          "EL REFUGIO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "HUIZOPA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1"
+        ],
+        [
+          "LA NORTEÑA",
+          "4",
+          "142",
+          "83",
+          "59",
+          "10"
+        ],
+        [
+          "LAS VARAS (ESTACIÓN BABÍCORA)",
+          "5",
+          "217",
+          "109",
+          "108",
+          "16"
+        ],
+        [
+          "LOS DESMONTES",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "MADERA",
+          "29",
+          "4,255",
+          "2,221",
+          "2,034",
+          "246"
+        ],
+        [
+          "MESA BLANCA",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE LA SIMONA",
+          "3",
+          "43",
+          "25",
+          "18",
+          "3"
+        ],
+        [
+          "MESA DEL GARABATO",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "NAHUERACHI",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "7",
+          "282",
+          "151",
+          "131",
+          "25"
+        ],
+        [
+          "NUEVA MADERA",
+          "3",
+          "64",
+          "35",
+          "29",
+          "5"
+        ],
+        [
+          "PRESÓN DE GOLONDRINAS",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "PRESÓN DEL TORO",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "SOCORRO RIVERA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5"
+        ],
+        [
+          "TRES OJITOS",
+          "3",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "6,447",
+          "3,326",
+          "3,121",
+          "408"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:53.468Z"
+}

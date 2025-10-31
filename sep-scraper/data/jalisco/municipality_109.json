@@ -1,0 +1,978 @@
+{
+  "municipality": "UNIÓN DE SAN ANTONIO",
+  "municipalityCode": "109",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: UNIÓN DE SAN ANTONIO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARRONERAS DE LOURDES (ARRONERAS)\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tARROYO DEL PALO\n\t\t1\n\t\t44\n\t\t16\n\t\t28\n\t\t3\n\t\n\t\n\t\tCAÑADA DE MENA\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tCHARCO REDONDO (FÁTIMA)\n\t\t1\n\t\t30\n\t\t13\n\t\t17\n\t\t2\n\t\n\t\n\t\tCHURINTZIO\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tEJIDO LAS AGUJAS (EL MAGUEY)\n\t\t1\n\t\t40\n\t\t8\n\t\t32\n\t\t2\n\t\n\t\n\t\tEL CEDRO\n\t\t1\n\t\t39\n\t\t17\n\t\t22\n\t\t3\n\t\n\t\n\t\tEL JARAL\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL LOBO (EL LOBO DE PRIMAVERA)\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL SALTILLO DE VELÁZQUEZ\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL SAUCILLO DE PRIMAVERA\n\t\t2\n\t\t153\n\t\t82\n\t\t71\n\t\t7\n\t\n\t\n\t\tHALCONEROS\n\t\t1\n\t\t32\n\t\t8\n\t\t24\n\t\t2\n\t\n\t\n\t\tLA LOMA ALTA (ESTACIÓN LOMA ALTA)\n\t\t2\n\t\t13\n\t\t9\n\t\t4\n\t\t2\n\t\n\t\n\t\tLA NORIA (LAS NORIAS DE LAS VUELTAS)\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t5\n\t\n\t\n\t\tLA ROSA DE CASTILLA (EJIDO JARAMILLO DE ABAJO)\n\t\t2\n\t\t159\n\t\t74\n\t\t85\n\t\t8\n\t\n\t\n\t\tLA TRINIDAD\n\t\t4\n\t\t104\n\t\t46\n\t\t58\n\t\t8\n\t\n\t\n\t\tLAS PRESITAS\n\t\t2\n\t\t49\n\t\t22\n\t\t27\n\t\t3\n\t\n\t\n\t\tLAS TORTUGAS\n\t\t1\n\t\t154\n\t\t67\n\t\t87\n\t\t6\n\t\n\t\n\t\tLLANOS DE BASILIO\n\t\t3\n\t\t34\n\t\t16\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOMA DE SOTELOS\n\t\t2\n\t\t85\n\t\t40\n\t\t45\n\t\t5\n\t\n\t\n\t\tLOMA DEL AIRE (LOMITA DEL AIRE)\n\t\t1\n\t\t10\n\t\t1\n\t\t9\n\t\t1\n\t\n\t\n\t\tLOMAS DE SANTA GERTRUDIS\n\t\t3\n\t\t66\n\t\t33\n\t\t33\n\t\t5\n\t\n\t\n\t\tLOS CUARTOS (LOS CUARTOS DE PRIMAVERA)\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tPALO ALTO\n\t\t1\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tPEDRITO [ESTACIÓN]\n\t\t1\n\t\t52\n\t\t30\n\t\t22\n\t\t3\n\t\n\t\n\t\tPRIMAVERA (HACIENDA DE PRIMAVERA)\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tRÍO DE VÁZQUEZ\n\t\t1\n\t\t30\n\t\t14\n\t\t16\n\t\t2\n\t\n\t\n\t\tSALTO ZURITA\n\t\t1\n\t\t19\n\t\t10\n\t\t9\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO DE LA GARZA\n\t\t2\n\t\t50\n\t\t25\n\t\t25\n\t\t4\n\t\n\t\n\t\tSAN BARTOLO DE GONZÁLEZ (SAN BARTOLO)\n\t\t1\n\t\t74\n\t\t34\n\t\t40\n\t\t4\n\t\n\t\n\t\tSAN IGNACIO\n\t\t3\n\t\t46\n\t\t24\n\t\t22\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ DE GORDOA\n\t\t3\n\t\t66\n\t\t33\n\t\t33\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ DE LAS PALMAS\n\t\t4\n\t\t118\n\t\t63\n\t\t55\n\t\t8\n\t\n\t\n\t\tSAN JOSÉ DEL CALICHE (EL CALICHE)\n\t\t4\n\t\t429\n\t\t208\n\t\t221\n\t\t18\n\t\n\t\n\t\tSAN JOSÉ EL ALTO\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTA TERESA\n\t\t1\n\t\t40\n\t\t20\n\t\t20\n\t\t3\n\t\n\t\n\t\tSANTILLANES\n\t\t1\n\t\t22\n\t\t11\n\t\t11\n\t\t1\n\t\n\t\n\t\tTLACUITAPAN\n\t\t4\n\t\t245\n\t\t154\n\t\t91\n\t\t14\n\t\n\t\n\t\tUNIÓN DE SAN ANTONIO\n\t\t13\n\t\t2,276\n\t\t1,151\n\t\t1,125\n\t\t125\n\t\n\t\n\t\tVIZCAÍNO\n\t\t3\n\t\t39\n\t\t18\n\t\t21\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t84\n\t\t4,692\n\t\t2,331\n\t\t2,361\n\t\t273\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: UNIÓN DE SAN ANTONIO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARRONERAS DE LOURDES (ARRONERAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1",
+          "ARROYO DEL PALO",
+          "1",
+          "44",
+          "16",
+          "28",
+          "3",
+          "CAÑADA DE MENA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3",
+          "CHARCO REDONDO (FÁTIMA)",
+          "1",
+          "30",
+          "13",
+          "17",
+          "2",
+          "CHURINTZIO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "EJIDO LAS AGUJAS (EL MAGUEY)",
+          "1",
+          "40",
+          "8",
+          "32",
+          "2",
+          "EL CEDRO",
+          "1",
+          "39",
+          "17",
+          "22",
+          "3",
+          "EL JARAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL LOBO (EL LOBO DE PRIMAVERA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL SALTILLO DE VELÁZQUEZ",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL SAUCILLO DE PRIMAVERA",
+          "2",
+          "153",
+          "82",
+          "71",
+          "7",
+          "HALCONEROS",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2",
+          "LA LOMA ALTA (ESTACIÓN LOMA ALTA)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2",
+          "LA NORIA (LAS NORIAS DE LAS VUELTAS)",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5",
+          "LA ROSA DE CASTILLA (EJIDO JARAMILLO DE ABAJO)",
+          "2",
+          "159",
+          "74",
+          "85",
+          "8",
+          "LA TRINIDAD",
+          "4",
+          "104",
+          "46",
+          "58",
+          "8",
+          "LAS PRESITAS",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3",
+          "LAS TORTUGAS",
+          "1",
+          "154",
+          "67",
+          "87",
+          "6",
+          "LLANOS DE BASILIO",
+          "3",
+          "34",
+          "16",
+          "18",
+          "3",
+          "LOMA DE SOTELOS",
+          "2",
+          "85",
+          "40",
+          "45",
+          "5",
+          "LOMA DEL AIRE (LOMITA DEL AIRE)",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1",
+          "LOMAS DE SANTA GERTRUDIS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5",
+          "LOS CUARTOS (LOS CUARTOS DE PRIMAVERA)",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "PALO ALTO",
+          "1",
+          "17",
+          "12",
+          "5",
+          "2",
+          "PEDRITO [ESTACIÓN]",
+          "1",
+          "52",
+          "30",
+          "22",
+          "3",
+          "PRIMAVERA (HACIENDA DE PRIMAVERA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "RÍO DE VÁZQUEZ",
+          "1",
+          "30",
+          "14",
+          "16",
+          "2",
+          "SALTO ZURITA",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1",
+          "SAN ANTONIO DE LA GARZA",
+          "2",
+          "50",
+          "25",
+          "25",
+          "4",
+          "SAN BARTOLO DE GONZÁLEZ (SAN BARTOLO)",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4",
+          "SAN IGNACIO",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4",
+          "SAN JOSÉ DE GORDOA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "4",
+          "SAN JOSÉ DE LAS PALMAS",
+          "4",
+          "118",
+          "63",
+          "55",
+          "8",
+          "SAN JOSÉ DEL CALICHE (EL CALICHE)",
+          "4",
+          "429",
+          "208",
+          "221",
+          "18",
+          "SAN JOSÉ EL ALTO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SANTA TERESA",
+          "1",
+          "40",
+          "20",
+          "20",
+          "3",
+          "SANTILLANES",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1",
+          "TLACUITAPAN",
+          "4",
+          "245",
+          "154",
+          "91",
+          "14",
+          "UNIÓN DE SAN ANTONIO",
+          "13",
+          "2,276",
+          "1,151",
+          "1,125",
+          "125",
+          "VIZCAÍNO",
+          "3",
+          "39",
+          "18",
+          "21",
+          "4",
+          "TOTAL",
+          "84",
+          "4,692",
+          "2,331",
+          "2,361",
+          "273",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: UNIÓN DE SAN ANTONIO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRONERAS DE LOURDES (ARRONERAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "ARROYO DEL PALO",
+          "1",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "CAÑADA DE MENA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "CHARCO REDONDO (FÁTIMA)",
+          "1",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "CHURINTZIO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "EJIDO LAS AGUJAS (EL MAGUEY)",
+          "1",
+          "40",
+          "8",
+          "32",
+          "2"
+        ],
+        [
+          "EL CEDRO",
+          "1",
+          "39",
+          "17",
+          "22",
+          "3"
+        ],
+        [
+          "EL JARAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL LOBO (EL LOBO DE PRIMAVERA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL SALTILLO DE VELÁZQUEZ",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL SAUCILLO DE PRIMAVERA",
+          "2",
+          "153",
+          "82",
+          "71",
+          "7"
+        ],
+        [
+          "HALCONEROS",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2"
+        ],
+        [
+          "LA LOMA ALTA (ESTACIÓN LOMA ALTA)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "LA NORIA (LAS NORIAS DE LAS VUELTAS)",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5"
+        ],
+        [
+          "LA ROSA DE CASTILLA (EJIDO JARAMILLO DE ABAJO)",
+          "2",
+          "159",
+          "74",
+          "85",
+          "8"
+        ],
+        [
+          "LA TRINIDAD",
+          "4",
+          "104",
+          "46",
+          "58",
+          "8"
+        ],
+        [
+          "LAS PRESITAS",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "LAS TORTUGAS",
+          "1",
+          "154",
+          "67",
+          "87",
+          "6"
+        ],
+        [
+          "LLANOS DE BASILIO",
+          "3",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LOMA DE SOTELOS",
+          "2",
+          "85",
+          "40",
+          "45",
+          "5"
+        ],
+        [
+          "LOMA DEL AIRE (LOMITA DEL AIRE)",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1"
+        ],
+        [
+          "LOMAS DE SANTA GERTRUDIS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5"
+        ],
+        [
+          "LOS CUARTOS (LOS CUARTOS DE PRIMAVERA)",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "PALO ALTO",
+          "1",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "PEDRITO [ESTACIÓN]",
+          "1",
+          "52",
+          "30",
+          "22",
+          "3"
+        ],
+        [
+          "PRIMAVERA (HACIENDA DE PRIMAVERA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "RÍO DE VÁZQUEZ",
+          "1",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "SALTO ZURITA",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LA GARZA",
+          "2",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "SAN BARTOLO DE GONZÁLEZ (SAN BARTOLO)",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE GORDOA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE LAS PALMAS",
+          "4",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DEL CALICHE (EL CALICHE)",
+          "4",
+          "429",
+          "208",
+          "221",
+          "18"
+        ],
+        [
+          "SAN JOSÉ EL ALTO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA TERESA",
+          "1",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "SANTILLANES",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "TLACUITAPAN",
+          "4",
+          "245",
+          "154",
+          "91",
+          "14"
+        ],
+        [
+          "UNIÓN DE SAN ANTONIO",
+          "13",
+          "2,276",
+          "1,151",
+          "1,125",
+          "125"
+        ],
+        [
+          "VIZCAÍNO",
+          "3",
+          "39",
+          "18",
+          "21",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "4,692",
+          "2,331",
+          "2,361",
+          "273"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: UNIÓN DE SAN ANTONIO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRONERAS DE LOURDES (ARRONERAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "ARROYO DEL PALO",
+          "1",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "CAÑADA DE MENA",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "CHARCO REDONDO (FÁTIMA)",
+          "1",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "CHURINTZIO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "EJIDO LAS AGUJAS (EL MAGUEY)",
+          "1",
+          "40",
+          "8",
+          "32",
+          "2"
+        ],
+        [
+          "EL CEDRO",
+          "1",
+          "39",
+          "17",
+          "22",
+          "3"
+        ],
+        [
+          "EL JARAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL LOBO (EL LOBO DE PRIMAVERA)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL SALTILLO DE VELÁZQUEZ",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL SAUCILLO DE PRIMAVERA",
+          "2",
+          "153",
+          "82",
+          "71",
+          "7"
+        ],
+        [
+          "HALCONEROS",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2"
+        ],
+        [
+          "LA LOMA ALTA (ESTACIÓN LOMA ALTA)",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "LA NORIA (LAS NORIAS DE LAS VUELTAS)",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5"
+        ],
+        [
+          "LA ROSA DE CASTILLA (EJIDO JARAMILLO DE ABAJO)",
+          "2",
+          "159",
+          "74",
+          "85",
+          "8"
+        ],
+        [
+          "LA TRINIDAD",
+          "4",
+          "104",
+          "46",
+          "58",
+          "8"
+        ],
+        [
+          "LAS PRESITAS",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "LAS TORTUGAS",
+          "1",
+          "154",
+          "67",
+          "87",
+          "6"
+        ],
+        [
+          "LLANOS DE BASILIO",
+          "3",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LOMA DE SOTELOS",
+          "2",
+          "85",
+          "40",
+          "45",
+          "5"
+        ],
+        [
+          "LOMA DEL AIRE (LOMITA DEL AIRE)",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1"
+        ],
+        [
+          "LOMAS DE SANTA GERTRUDIS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5"
+        ],
+        [
+          "LOS CUARTOS (LOS CUARTOS DE PRIMAVERA)",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "PALO ALTO",
+          "1",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "PEDRITO [ESTACIÓN]",
+          "1",
+          "52",
+          "30",
+          "22",
+          "3"
+        ],
+        [
+          "PRIMAVERA (HACIENDA DE PRIMAVERA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "RÍO DE VÁZQUEZ",
+          "1",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "SALTO ZURITA",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LA GARZA",
+          "2",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "SAN BARTOLO DE GONZÁLEZ (SAN BARTOLO)",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE GORDOA",
+          "3",
+          "66",
+          "33",
+          "33",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE LAS PALMAS",
+          "4",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DEL CALICHE (EL CALICHE)",
+          "4",
+          "429",
+          "208",
+          "221",
+          "18"
+        ],
+        [
+          "SAN JOSÉ EL ALTO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA TERESA",
+          "1",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "SANTILLANES",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "TLACUITAPAN",
+          "4",
+          "245",
+          "154",
+          "91",
+          "14"
+        ],
+        [
+          "UNIÓN DE SAN ANTONIO",
+          "13",
+          "2,276",
+          "1,151",
+          "1,125",
+          "125"
+        ],
+        [
+          "VIZCAÍNO",
+          "3",
+          "39",
+          "18",
+          "21",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "4,692",
+          "2,331",
+          "2,361",
+          "273"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:19:00.886Z"
+}

@@ -1,0 +1,714 @@
+{
+  "municipality": "ACULTZINGO",
+  "municipalityCode": "006",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ACULTZINGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATLA\n\t\t3\n\t\t269\n\t\t145\n\t\t124\n\t\t15\n\t\n\t\n\t\tACULTZINGO\n\t\t9\n\t\t1,611\n\t\t808\n\t\t803\n\t\t77\n\t\n\t\n\t\tAGUACHINOLA\n\t\t2\n\t\t139\n\t\t72\n\t\t67\n\t\t8\n\t\n\t\n\t\tATITLA (BARRIO DE GUADALUPE)\n\t\t1\n\t\t36\n\t\t14\n\t\t22\n\t\t2\n\t\n\t\n\t\tBARRIO DE GUADALUPE\n\t\t3\n\t\t174\n\t\t93\n\t\t81\n\t\t9\n\t\n\t\n\t\tCOATEPEC DE ARRIBA\n\t\t4\n\t\t126\n\t\t68\n\t\t58\n\t\t9\n\t\n\t\n\t\tCOLONIA LA CUESTA\n\t\t1\n\t\t10\n\t\t9\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOMUNIDAD LA JAROCHITA\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tCOXOLITLA DE ABAJO\n\t\t3\n\t\t483\n\t\t256\n\t\t227\n\t\t21\n\t\n\t\n\t\tCOXOLITLA DE ARRIBA\n\t\t3\n\t\t175\n\t\t92\n\t\t83\n\t\t10\n\t\n\t\n\t\tCUMBRES DE ACULTZINGO\n\t\t2\n\t\t24\n\t\t8\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL AHUITZIQUE\n\t\t3\n\t\t33\n\t\t18\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL POTRERO\n\t\t3\n\t\t345\n\t\t174\n\t\t171\n\t\t20\n\t\n\t\n\t\tEL SUMIDERO\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tIXTACAHUATLA\n\t\t2\n\t\t29\n\t\t14\n\t\t15\n\t\t2\n\t\n\t\n\t\tLINDA VISTA\n\t\t2\n\t\t85\n\t\t45\n\t\t40\n\t\t4\n\t\n\t\n\t\tMACUALTZINGO\n\t\t1\n\t\t20\n\t\t10\n\t\t10\n\t\t1\n\t\n\t\n\t\tOJO DE AGUA DE ABAJO (LA MESA)\n\t\t2\n\t\t50\n\t\t34\n\t\t16\n\t\t4\n\t\n\t\n\t\tOJO DE AGUA DE ARRIBA\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tPINOTLA\n\t\t1\n\t\t13\n\t\t10\n\t\t3\n\t\t1\n\t\n\t\n\t\tPRÓSPERO PINEDA\n\t\t2\n\t\t92\n\t\t35\n\t\t57\n\t\t5\n\t\n\t\n\t\tPUENTE DE GUADALUPE\n\t\t2\n\t\t223\n\t\t117\n\t\t106\n\t\t10\n\t\n\t\n\t\tPUERTO DEL AIRE\n\t\t1\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tSIERRA DE AGUA\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t4\n\t\n\t\n\t\tTECAMALUCAN\n\t\t6\n\t\t742\n\t\t351\n\t\t391\n\t\t44\n\t\n\t\n\t\tTLAPEXTITLA\n\t\t2\n\t\t43\n\t\t20\n\t\t23\n\t\t3\n\t\n\t\n\t\tVAQUERÍA\n\t\t3\n\t\t81\n\t\t37\n\t\t44\n\t\t6\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t4\n\t\t189\n\t\t96\n\t\t93\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t73\n\t\t5,111\n\t\t2,579\n\t\t2,532\n\t\t280\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ACULTZINGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATLA",
+          "3",
+          "269",
+          "145",
+          "124",
+          "15",
+          "ACULTZINGO",
+          "9",
+          "1,611",
+          "808",
+          "803",
+          "77",
+          "AGUACHINOLA",
+          "2",
+          "139",
+          "72",
+          "67",
+          "8",
+          "ATITLA (BARRIO DE GUADALUPE)",
+          "1",
+          "36",
+          "14",
+          "22",
+          "2",
+          "BARRIO DE GUADALUPE",
+          "3",
+          "174",
+          "93",
+          "81",
+          "9",
+          "COATEPEC DE ARRIBA",
+          "4",
+          "126",
+          "68",
+          "58",
+          "9",
+          "COLONIA LA CUESTA",
+          "1",
+          "10",
+          "9",
+          "1",
+          "1",
+          "COMUNIDAD LA JAROCHITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "COXOLITLA DE ABAJO",
+          "3",
+          "483",
+          "256",
+          "227",
+          "21",
+          "COXOLITLA DE ARRIBA",
+          "3",
+          "175",
+          "92",
+          "83",
+          "10",
+          "CUMBRES DE ACULTZINGO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2",
+          "EL AHUITZIQUE",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3",
+          "EL POTRERO",
+          "3",
+          "345",
+          "174",
+          "171",
+          "20",
+          "EL SUMIDERO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "IXTACAHUATLA",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2",
+          "LINDA VISTA",
+          "2",
+          "85",
+          "45",
+          "40",
+          "4",
+          "MACUALTZINGO",
+          "1",
+          "20",
+          "10",
+          "10",
+          "1",
+          "OJO DE AGUA DE ABAJO (LA MESA)",
+          "2",
+          "50",
+          "34",
+          "16",
+          "4",
+          "OJO DE AGUA DE ARRIBA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "PINOTLA",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1",
+          "PRÓSPERO PINEDA",
+          "2",
+          "92",
+          "35",
+          "57",
+          "5",
+          "PUENTE DE GUADALUPE",
+          "2",
+          "223",
+          "117",
+          "106",
+          "10",
+          "PUERTO DEL AIRE",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1",
+          "SIERRA DE AGUA",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4",
+          "TECAMALUCAN",
+          "6",
+          "742",
+          "351",
+          "391",
+          "44",
+          "TLAPEXTITLA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3",
+          "VAQUERÍA",
+          "3",
+          "81",
+          "37",
+          "44",
+          "6",
+          "VISTA HERMOSA",
+          "4",
+          "189",
+          "96",
+          "93",
+          "12",
+          "TOTAL",
+          "73",
+          "5,111",
+          "2,579",
+          "2,532",
+          "280",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ACULTZINGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATLA",
+          "3",
+          "269",
+          "145",
+          "124",
+          "15"
+        ],
+        [
+          "ACULTZINGO",
+          "9",
+          "1,611",
+          "808",
+          "803",
+          "77"
+        ],
+        [
+          "AGUACHINOLA",
+          "2",
+          "139",
+          "72",
+          "67",
+          "8"
+        ],
+        [
+          "ATITLA (BARRIO DE GUADALUPE)",
+          "1",
+          "36",
+          "14",
+          "22",
+          "2"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "3",
+          "174",
+          "93",
+          "81",
+          "9"
+        ],
+        [
+          "COATEPEC DE ARRIBA",
+          "4",
+          "126",
+          "68",
+          "58",
+          "9"
+        ],
+        [
+          "COLONIA LA CUESTA",
+          "1",
+          "10",
+          "9",
+          "1",
+          "1"
+        ],
+        [
+          "COMUNIDAD LA JAROCHITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "COXOLITLA DE ABAJO",
+          "3",
+          "483",
+          "256",
+          "227",
+          "21"
+        ],
+        [
+          "COXOLITLA DE ARRIBA",
+          "3",
+          "175",
+          "92",
+          "83",
+          "10"
+        ],
+        [
+          "CUMBRES DE ACULTZINGO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL AHUITZIQUE",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "EL POTRERO",
+          "3",
+          "345",
+          "174",
+          "171",
+          "20"
+        ],
+        [
+          "EL SUMIDERO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "IXTACAHUATLA",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "LINDA VISTA",
+          "2",
+          "85",
+          "45",
+          "40",
+          "4"
+        ],
+        [
+          "MACUALTZINGO",
+          "1",
+          "20",
+          "10",
+          "10",
+          "1"
+        ],
+        [
+          "OJO DE AGUA DE ABAJO (LA MESA)",
+          "2",
+          "50",
+          "34",
+          "16",
+          "4"
+        ],
+        [
+          "OJO DE AGUA DE ARRIBA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "PINOTLA",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "PRÓSPERO PINEDA",
+          "2",
+          "92",
+          "35",
+          "57",
+          "5"
+        ],
+        [
+          "PUENTE DE GUADALUPE",
+          "2",
+          "223",
+          "117",
+          "106",
+          "10"
+        ],
+        [
+          "PUERTO DEL AIRE",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "SIERRA DE AGUA",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "TECAMALUCAN",
+          "6",
+          "742",
+          "351",
+          "391",
+          "44"
+        ],
+        [
+          "TLAPEXTITLA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3"
+        ],
+        [
+          "VAQUERÍA",
+          "3",
+          "81",
+          "37",
+          "44",
+          "6"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "189",
+          "96",
+          "93",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "5,111",
+          "2,579",
+          "2,532",
+          "280"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ACULTZINGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATLA",
+          "3",
+          "269",
+          "145",
+          "124",
+          "15"
+        ],
+        [
+          "ACULTZINGO",
+          "9",
+          "1,611",
+          "808",
+          "803",
+          "77"
+        ],
+        [
+          "AGUACHINOLA",
+          "2",
+          "139",
+          "72",
+          "67",
+          "8"
+        ],
+        [
+          "ATITLA (BARRIO DE GUADALUPE)",
+          "1",
+          "36",
+          "14",
+          "22",
+          "2"
+        ],
+        [
+          "BARRIO DE GUADALUPE",
+          "3",
+          "174",
+          "93",
+          "81",
+          "9"
+        ],
+        [
+          "COATEPEC DE ARRIBA",
+          "4",
+          "126",
+          "68",
+          "58",
+          "9"
+        ],
+        [
+          "COLONIA LA CUESTA",
+          "1",
+          "10",
+          "9",
+          "1",
+          "1"
+        ],
+        [
+          "COMUNIDAD LA JAROCHITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "COXOLITLA DE ABAJO",
+          "3",
+          "483",
+          "256",
+          "227",
+          "21"
+        ],
+        [
+          "COXOLITLA DE ARRIBA",
+          "3",
+          "175",
+          "92",
+          "83",
+          "10"
+        ],
+        [
+          "CUMBRES DE ACULTZINGO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL AHUITZIQUE",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "EL POTRERO",
+          "3",
+          "345",
+          "174",
+          "171",
+          "20"
+        ],
+        [
+          "EL SUMIDERO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "IXTACAHUATLA",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "LINDA VISTA",
+          "2",
+          "85",
+          "45",
+          "40",
+          "4"
+        ],
+        [
+          "MACUALTZINGO",
+          "1",
+          "20",
+          "10",
+          "10",
+          "1"
+        ],
+        [
+          "OJO DE AGUA DE ABAJO (LA MESA)",
+          "2",
+          "50",
+          "34",
+          "16",
+          "4"
+        ],
+        [
+          "OJO DE AGUA DE ARRIBA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "PINOTLA",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "PRÓSPERO PINEDA",
+          "2",
+          "92",
+          "35",
+          "57",
+          "5"
+        ],
+        [
+          "PUENTE DE GUADALUPE",
+          "2",
+          "223",
+          "117",
+          "106",
+          "10"
+        ],
+        [
+          "PUERTO DEL AIRE",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "SIERRA DE AGUA",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "TECAMALUCAN",
+          "6",
+          "742",
+          "351",
+          "391",
+          "44"
+        ],
+        [
+          "TLAPEXTITLA",
+          "2",
+          "43",
+          "20",
+          "23",
+          "3"
+        ],
+        [
+          "VAQUERÍA",
+          "3",
+          "81",
+          "37",
+          "44",
+          "6"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "189",
+          "96",
+          "93",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "5,111",
+          "2,579",
+          "2,532",
+          "280"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:41:49.841Z"
+}

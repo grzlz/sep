@@ -1,0 +1,538 @@
+{
+  "municipality": "VALLE HERMOSO",
+  "municipalityCode": "040",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VALLE HERMOSO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t18 DE MARZO (BRECHA 110 ENTRE SUR 82 Y SUR 88)\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\t18 DE MARZO (BRECHA 116 ENTRE KILÓMETRO 96 Y 97)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tAMPLIACIÓN AQUILES SERDÁN\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tANÁHUAC\n\t\t6\n\t\t725\n\t\t352\n\t\t373\n\t\t42\n\t\n\t\n\t\tAQUILES SERDÁN\n\t\t3\n\t\t57\n\t\t28\n\t\t29\n\t\t6\n\t\n\t\n\t\tBRECHA 128 ENTRE SUR 82 A SUR 82.6\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t1\n\t\n\t\n\t\tCOLONIA AGRÍCOLA ANÁHUAC [CARRETERA ESTATAL 53 ENTRE SUR 60 Y SUR 70]\n\t\t1\n\t\t25\n\t\t10\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL REALITO\n\t\t5\n\t\t579\n\t\t286\n\t\t293\n\t\t40\n\t\n\t\n\t\tEL TERRALVA\n\t\t1\n\t\t18\n\t\t7\n\t\t11\n\t\t1\n\t\n\t\n\t\tEMPALME\n\t\t2\n\t\t180\n\t\t86\n\t\t94\n\t\t10\n\t\n\t\n\t\tENSENADA\n\t\t3\n\t\t121\n\t\t64\n\t\t57\n\t\t9\n\t\n\t\n\t\tIGNACIO MANUEL ALTAMIRANO\n\t\t3\n\t\t192\n\t\t85\n\t\t107\n\t\t18\n\t\n\t\n\t\tJOSÉ DELGADO\n\t\t2\n\t\t39\n\t\t21\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA FLORIDA\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tLIBERACIÓN DEL CAMPESINO\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tMAGUEYES (BRECHA 128 CON KILÓMETRO 84)\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tMAGUEYES (POZO 4) [COLONIA AGRÍCOLA, CARRETERA ESTATAL 53, ENTRE SUR 73 Y SUR 78]\n\t\t2\n\t\t38\n\t\t23\n\t\t15\n\t\t3\n\t\n\t\n\t\tPIEDRAS PINTAS\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tRICARDO FLORES MAGÓN (BRECHA 118 SUR 82.4 Y SUR 85.3)\n\t\t1\n\t\t12\n\t\t3\n\t\t9\n\t\t1\n\t\n\t\n\t\tVALLE HERMOSO\n\t\t83\n\t\t12,784\n\t\t6,478\n\t\t6,306\n\t\t945\n\t\n\t\n\t\tTOTAL\n\t\t123\n\t\t14,867\n\t\t7,486\n\t\t7,381\n\t\t1,091\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VALLE HERMOSO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "18 DE MARZO (BRECHA 110 ENTRE SUR 82 Y SUR 88)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "18 DE MARZO (BRECHA 116 ENTRE KILÓMETRO 96 Y 97)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "AMPLIACIÓN AQUILES SERDÁN",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "ANÁHUAC",
+          "6",
+          "725",
+          "352",
+          "373",
+          "42",
+          "AQUILES SERDÁN",
+          "3",
+          "57",
+          "28",
+          "29",
+          "6",
+          "BRECHA 128 ENTRE SUR 82 A SUR 82.6",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1",
+          "COLONIA AGRÍCOLA ANÁHUAC [CARRETERA ESTATAL 53 ENTRE SUR 60 Y SUR 70]",
+          "1",
+          "25",
+          "10",
+          "15",
+          "2",
+          "EL REALITO",
+          "5",
+          "579",
+          "286",
+          "293",
+          "40",
+          "EL TERRALVA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1",
+          "EMPALME",
+          "2",
+          "180",
+          "86",
+          "94",
+          "10",
+          "ENSENADA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "9",
+          "IGNACIO MANUEL ALTAMIRANO",
+          "3",
+          "192",
+          "85",
+          "107",
+          "18",
+          "JOSÉ DELGADO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "3",
+          "LA FLORIDA",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "LIBERACIÓN DEL CAMPESINO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "MAGUEYES (BRECHA 128 CON KILÓMETRO 84)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "MAGUEYES (POZO 4) [COLONIA AGRÍCOLA, CARRETERA ESTATAL 53, ENTRE SUR 73 Y SUR 78]",
+          "2",
+          "38",
+          "23",
+          "15",
+          "3",
+          "PIEDRAS PINTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "RICARDO FLORES MAGÓN (BRECHA 118 SUR 82.4 Y SUR 85.3)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1",
+          "VALLE HERMOSO",
+          "83",
+          "12,784",
+          "6,478",
+          "6,306",
+          "945",
+          "TOTAL",
+          "123",
+          "14,867",
+          "7,486",
+          "7,381",
+          "1,091",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VALLE HERMOSO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE MARZO (BRECHA 110 ENTRE SUR 82 Y SUR 88)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "18 DE MARZO (BRECHA 116 ENTRE KILÓMETRO 96 Y 97)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "AMPLIACIÓN AQUILES SERDÁN",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "ANÁHUAC",
+          "6",
+          "725",
+          "352",
+          "373",
+          "42"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "3",
+          "57",
+          "28",
+          "29",
+          "6"
+        ],
+        [
+          "BRECHA 128 ENTRE SUR 82 A SUR 82.6",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA ANÁHUAC [CARRETERA ESTATAL 53 ENTRE SUR 60 Y SUR 70]",
+          "1",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL REALITO",
+          "5",
+          "579",
+          "286",
+          "293",
+          "40"
+        ],
+        [
+          "EL TERRALVA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "EMPALME",
+          "2",
+          "180",
+          "86",
+          "94",
+          "10"
+        ],
+        [
+          "ENSENADA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "9"
+        ],
+        [
+          "IGNACIO MANUEL ALTAMIRANO",
+          "3",
+          "192",
+          "85",
+          "107",
+          "18"
+        ],
+        [
+          "JOSÉ DELGADO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "3"
+        ],
+        [
+          "LA FLORIDA",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LIBERACIÓN DEL CAMPESINO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "MAGUEYES (BRECHA 128 CON KILÓMETRO 84)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "MAGUEYES (POZO 4) [COLONIA AGRÍCOLA, CARRETERA ESTATAL 53, ENTRE SUR 73 Y SUR 78]",
+          "2",
+          "38",
+          "23",
+          "15",
+          "3"
+        ],
+        [
+          "PIEDRAS PINTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN (BRECHA 118 SUR 82.4 Y SUR 85.3)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "VALLE HERMOSO",
+          "83",
+          "12,784",
+          "6,478",
+          "6,306",
+          "945"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "14,867",
+          "7,486",
+          "7,381",
+          "1,091"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VALLE HERMOSO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE MARZO (BRECHA 110 ENTRE SUR 82 Y SUR 88)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "18 DE MARZO (BRECHA 116 ENTRE KILÓMETRO 96 Y 97)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "AMPLIACIÓN AQUILES SERDÁN",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "ANÁHUAC",
+          "6",
+          "725",
+          "352",
+          "373",
+          "42"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "3",
+          "57",
+          "28",
+          "29",
+          "6"
+        ],
+        [
+          "BRECHA 128 ENTRE SUR 82 A SUR 82.6",
+          "1",
+          "18",
+          "9",
+          "9",
+          "1"
+        ],
+        [
+          "COLONIA AGRÍCOLA ANÁHUAC [CARRETERA ESTATAL 53 ENTRE SUR 60 Y SUR 70]",
+          "1",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL REALITO",
+          "5",
+          "579",
+          "286",
+          "293",
+          "40"
+        ],
+        [
+          "EL TERRALVA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "EMPALME",
+          "2",
+          "180",
+          "86",
+          "94",
+          "10"
+        ],
+        [
+          "ENSENADA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "9"
+        ],
+        [
+          "IGNACIO MANUEL ALTAMIRANO",
+          "3",
+          "192",
+          "85",
+          "107",
+          "18"
+        ],
+        [
+          "JOSÉ DELGADO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "3"
+        ],
+        [
+          "LA FLORIDA",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LIBERACIÓN DEL CAMPESINO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "MAGUEYES (BRECHA 128 CON KILÓMETRO 84)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "MAGUEYES (POZO 4) [COLONIA AGRÍCOLA, CARRETERA ESTATAL 53, ENTRE SUR 73 Y SUR 78]",
+          "2",
+          "38",
+          "23",
+          "15",
+          "3"
+        ],
+        [
+          "PIEDRAS PINTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN (BRECHA 118 SUR 82.4 Y SUR 85.3)",
+          "1",
+          "12",
+          "3",
+          "9",
+          "1"
+        ],
+        [
+          "VALLE HERMOSO",
+          "83",
+          "12,784",
+          "6,478",
+          "6,306",
+          "945"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "14,867",
+          "7,486",
+          "7,381",
+          "1,091"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:41:12.325Z"
+}

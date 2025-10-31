@@ -1,0 +1,824 @@
+{
+  "municipality": "COENEO",
+  "municipalityCode": "016",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COENEO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA CALIENTE\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t4\n\t\n\t\n\t\tBELLAS FUENTES\n\t\t4\n\t\t180\n\t\t88\n\t\t92\n\t\t15\n\t\n\t\n\t\tCARATACUA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tCHAHUETO\n\t\t3\n\t\t75\n\t\t39\n\t\t36\n\t\t7\n\t\n\t\n\t\tCOENEO DE LA LIBERTAD\n\t\t8\n\t\t1,247\n\t\t653\n\t\t594\n\t\t77\n\t\n\t\n\t\tCOLONIA BENITO JUÁREZ (LOS CHARCOS)\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tCOLONIA FÉLIX IRETA\n\t\t2\n\t\t45\n\t\t24\n\t\t21\n\t\t4\n\t\n\t\n\t\tCOMANJA\n\t\t3\n\t\t280\n\t\t150\n\t\t130\n\t\t26\n\t\n\t\n\t\tCORTIJO NUEVO\n\t\t3\n\t\t81\n\t\t43\n\t\t38\n\t\t8\n\t\n\t\n\t\tCORTIJO VIEJO\n\t\t3\n\t\t93\n\t\t42\n\t\t51\n\t\t9\n\t\n\t\n\t\tCÓTIRO\n\t\t3\n\t\t29\n\t\t17\n\t\t12\n\t\t4\n\t\n\t\n\t\tEL COBRERO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t4\n\t\n\t\n\t\tEL DURAZNO (SAN JOSÉ DEL DURAZNO)\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL PUENTE DEL MIRADOR\n\t\t2\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL RODEO\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL TRANSVAL\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t1\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA CAÑADA\n\t\t4\n\t\t113\n\t\t51\n\t\t62\n\t\t16\n\t\n\t\n\t\tLA CIENEGUITA\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA COFRADÍA (EL CAPULÍN)\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t4\n\t\n\t\n\t\tLA CONSTITUCIÓN\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t3\n\t\n\t\n\t\tLAREDO\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t4\n\t\n\t\n\t\tLAS MESAS\n\t\t2\n\t\t35\n\t\t12\n\t\t23\n\t\t3\n\t\n\t\n\t\tMATUGEO (SAN MARCOS)\n\t\t3\n\t\t82\n\t\t48\n\t\t34\n\t\t11\n\t\n\t\n\t\tPRETORIA\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t5\n\t\n\t\n\t\tPRIMO TAPIA (EL CHIRIMOYO) [COLONIA]\n\t\t2\n\t\t109\n\t\t55\n\t\t54\n\t\t7\n\t\n\t\n\t\tQUENCIO\n\t\t2\n\t\t30\n\t\t12\n\t\t18\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t125\n\t\t59\n\t\t66\n\t\t10\n\t\n\t\n\t\tSAN PEDRO TACARO\n\t\t3\n\t\t93\n\t\t46\n\t\t47\n\t\t9\n\t\n\t\n\t\tSANTIAGO AZAJO\n\t\t6\n\t\t471\n\t\t243\n\t\t228\n\t\t33\n\t\n\t\n\t\tTACUPO\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tTUNGUITIRO\n\t\t4\n\t\t105\n\t\t49\n\t\t56\n\t\t11\n\t\n\t\n\t\tZIPIAJO\n\t\t6\n\t\t885\n\t\t464\n\t\t421\n\t\t50\n\t\n\t\n\t\tTOTAL\n\t\t88\n\t\t4,368\n\t\t2,236\n\t\t2,132\n\t\t343\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COENEO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA CALIENTE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "4",
+          "BELLAS FUENTES",
+          "4",
+          "180",
+          "88",
+          "92",
+          "15",
+          "CARATACUA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "CHAHUETO",
+          "3",
+          "75",
+          "39",
+          "36",
+          "7",
+          "COENEO DE LA LIBERTAD",
+          "8",
+          "1,247",
+          "653",
+          "594",
+          "77",
+          "COLONIA BENITO JUÁREZ (LOS CHARCOS)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "COLONIA FÉLIX IRETA",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4",
+          "COMANJA",
+          "3",
+          "280",
+          "150",
+          "130",
+          "26",
+          "CORTIJO NUEVO",
+          "3",
+          "81",
+          "43",
+          "38",
+          "8",
+          "CORTIJO VIEJO",
+          "3",
+          "93",
+          "42",
+          "51",
+          "9",
+          "CÓTIRO",
+          "3",
+          "29",
+          "17",
+          "12",
+          "4",
+          "EL COBRERO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "4",
+          "EL DURAZNO (SAN JOSÉ DEL DURAZNO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL PUENTE DEL MIRADOR",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2",
+          "EL RODEO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2",
+          "EL TRANSVAL",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2",
+          "EMILIANO ZAPATA",
+          "1",
+          "35",
+          "19",
+          "16",
+          "3",
+          "LA CAÑADA",
+          "4",
+          "113",
+          "51",
+          "62",
+          "16",
+          "LA CIENEGUITA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "LA COFRADÍA (EL CAPULÍN)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "4",
+          "LA CONSTITUCIÓN",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3",
+          "LAREDO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "4",
+          "LAS MESAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3",
+          "MATUGEO (SAN MARCOS)",
+          "3",
+          "82",
+          "48",
+          "34",
+          "11",
+          "PRETORIA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "5",
+          "PRIMO TAPIA (EL CHIRIMOYO) [COLONIA]",
+          "2",
+          "109",
+          "55",
+          "54",
+          "7",
+          "QUENCIO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "4",
+          "SAN ISIDRO",
+          "3",
+          "125",
+          "59",
+          "66",
+          "10",
+          "SAN PEDRO TACARO",
+          "3",
+          "93",
+          "46",
+          "47",
+          "9",
+          "SANTIAGO AZAJO",
+          "6",
+          "471",
+          "243",
+          "228",
+          "33",
+          "TACUPO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2",
+          "TUNGUITIRO",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11",
+          "ZIPIAJO",
+          "6",
+          "885",
+          "464",
+          "421",
+          "50",
+          "TOTAL",
+          "88",
+          "4,368",
+          "2,236",
+          "2,132",
+          "343",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COENEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "4"
+        ],
+        [
+          "BELLAS FUENTES",
+          "4",
+          "180",
+          "88",
+          "92",
+          "15"
+        ],
+        [
+          "CARATACUA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CHAHUETO",
+          "3",
+          "75",
+          "39",
+          "36",
+          "7"
+        ],
+        [
+          "COENEO DE LA LIBERTAD",
+          "8",
+          "1,247",
+          "653",
+          "594",
+          "77"
+        ],
+        [
+          "COLONIA BENITO JUÁREZ (LOS CHARCOS)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "COLONIA FÉLIX IRETA",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "COMANJA",
+          "3",
+          "280",
+          "150",
+          "130",
+          "26"
+        ],
+        [
+          "CORTIJO NUEVO",
+          "3",
+          "81",
+          "43",
+          "38",
+          "8"
+        ],
+        [
+          "CORTIJO VIEJO",
+          "3",
+          "93",
+          "42",
+          "51",
+          "9"
+        ],
+        [
+          "CÓTIRO",
+          "3",
+          "29",
+          "17",
+          "12",
+          "4"
+        ],
+        [
+          "EL COBRERO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "4"
+        ],
+        [
+          "EL DURAZNO (SAN JOSÉ DEL DURAZNO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL PUENTE DEL MIRADOR",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "EL RODEO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "EL TRANSVAL",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "1",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LA CAÑADA",
+          "4",
+          "113",
+          "51",
+          "62",
+          "16"
+        ],
+        [
+          "LA CIENEGUITA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LA COFRADÍA (EL CAPULÍN)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "4"
+        ],
+        [
+          "LA CONSTITUCIÓN",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "LAREDO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "4"
+        ],
+        [
+          "LAS MESAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "MATUGEO (SAN MARCOS)",
+          "3",
+          "82",
+          "48",
+          "34",
+          "11"
+        ],
+        [
+          "PRETORIA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "5"
+        ],
+        [
+          "PRIMO TAPIA (EL CHIRIMOYO) [COLONIA]",
+          "2",
+          "109",
+          "55",
+          "54",
+          "7"
+        ],
+        [
+          "QUENCIO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "125",
+          "59",
+          "66",
+          "10"
+        ],
+        [
+          "SAN PEDRO TACARO",
+          "3",
+          "93",
+          "46",
+          "47",
+          "9"
+        ],
+        [
+          "SANTIAGO AZAJO",
+          "6",
+          "471",
+          "243",
+          "228",
+          "33"
+        ],
+        [
+          "TACUPO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "TUNGUITIRO",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11"
+        ],
+        [
+          "ZIPIAJO",
+          "6",
+          "885",
+          "464",
+          "421",
+          "50"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "4,368",
+          "2,236",
+          "2,132",
+          "343"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COENEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "28",
+          "15",
+          "13",
+          "4"
+        ],
+        [
+          "BELLAS FUENTES",
+          "4",
+          "180",
+          "88",
+          "92",
+          "15"
+        ],
+        [
+          "CARATACUA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CHAHUETO",
+          "3",
+          "75",
+          "39",
+          "36",
+          "7"
+        ],
+        [
+          "COENEO DE LA LIBERTAD",
+          "8",
+          "1,247",
+          "653",
+          "594",
+          "77"
+        ],
+        [
+          "COLONIA BENITO JUÁREZ (LOS CHARCOS)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "COLONIA FÉLIX IRETA",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "COMANJA",
+          "3",
+          "280",
+          "150",
+          "130",
+          "26"
+        ],
+        [
+          "CORTIJO NUEVO",
+          "3",
+          "81",
+          "43",
+          "38",
+          "8"
+        ],
+        [
+          "CORTIJO VIEJO",
+          "3",
+          "93",
+          "42",
+          "51",
+          "9"
+        ],
+        [
+          "CÓTIRO",
+          "3",
+          "29",
+          "17",
+          "12",
+          "4"
+        ],
+        [
+          "EL COBRERO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "4"
+        ],
+        [
+          "EL DURAZNO (SAN JOSÉ DEL DURAZNO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL PUENTE DEL MIRADOR",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "EL RODEO",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "EL TRANSVAL",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "1",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LA CAÑADA",
+          "4",
+          "113",
+          "51",
+          "62",
+          "16"
+        ],
+        [
+          "LA CIENEGUITA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LA COFRADÍA (EL CAPULÍN)",
+          "2",
+          "11",
+          "5",
+          "6",
+          "4"
+        ],
+        [
+          "LA CONSTITUCIÓN",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "LAREDO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "4"
+        ],
+        [
+          "LAS MESAS",
+          "2",
+          "35",
+          "12",
+          "23",
+          "3"
+        ],
+        [
+          "MATUGEO (SAN MARCOS)",
+          "3",
+          "82",
+          "48",
+          "34",
+          "11"
+        ],
+        [
+          "PRETORIA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "5"
+        ],
+        [
+          "PRIMO TAPIA (EL CHIRIMOYO) [COLONIA]",
+          "2",
+          "109",
+          "55",
+          "54",
+          "7"
+        ],
+        [
+          "QUENCIO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "125",
+          "59",
+          "66",
+          "10"
+        ],
+        [
+          "SAN PEDRO TACARO",
+          "3",
+          "93",
+          "46",
+          "47",
+          "9"
+        ],
+        [
+          "SANTIAGO AZAJO",
+          "6",
+          "471",
+          "243",
+          "228",
+          "33"
+        ],
+        [
+          "TACUPO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "TUNGUITIRO",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11"
+        ],
+        [
+          "ZIPIAJO",
+          "6",
+          "885",
+          "464",
+          "421",
+          "50"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "4,368",
+          "2,236",
+          "2,132",
+          "343"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:43.806Z"
+}

@@ -1,0 +1,670 @@
+{
+  "municipality": "ARRIAGA",
+  "municipalityCode": "009",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: ARRIAGA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t5 DE MAYO\n\t\t3\n\t\t59\n\t\t30\n\t\t29\n\t\t4\n\t\n\t\n\t\tAGRÍCOLA VEINTE DE NOVIEMBRE\n\t\t3\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tAGUA FRÍA\n\t\t1\n\t\t23\n\t\t12\n\t\t11\n\t\t1\n\t\n\t\n\t\tARRIAGA\n\t\t56\n\t\t6,840\n\t\t3,441\n\t\t3,399\n\t\t443\n\t\n\t\n\t\tAZTECA (LA PUNTA)\n\t\t4\n\t\t246\n\t\t120\n\t\t126\n\t\t21\n\t\n\t\n\t\tEBEN EZER\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL ARENAL\n\t\t2\n\t\t33\n\t\t17\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL PLEITO\n\t\t2\n\t\t39\n\t\t21\n\t\t18\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t6\n\t\t925\n\t\t470\n\t\t455\n\t\t41\n\t\n\t\n\t\tFRACCIÓN LA ESPERANZA\n\t\t2\n\t\t210\n\t\t110\n\t\t100\n\t\t11\n\t\n\t\n\t\tLA GLORIA\n\t\t4\n\t\t398\n\t\t218\n\t\t180\n\t\t17\n\t\n\t\n\t\tLA LÍNEA\n\t\t3\n\t\t377\n\t\t187\n\t\t190\n\t\t19\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tLAS ARENAS\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t248\n\t\t117\n\t\t131\n\t\t11\n\t\n\t\n\t\tMALPASO\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t1\n\t\n\t\n\t\tNICOLÁS BRAVO (EL HONDO)\n\t\t3\n\t\t102\n\t\t44\n\t\t58\n\t\t10\n\t\n\t\n\t\tNUEVO PROGRESO (ABSALÓN CASTELLANOS D.)\n\t\t3\n\t\t24\n\t\t13\n\t\t11\n\t\t3\n\t\n\t\n\t\tNUEVO SAN PABLO\n\t\t2\n\t\t42\n\t\t14\n\t\t28\n\t\t3\n\t\n\t\n\t\tOAXAQUITA\n\t\t3\n\t\t55\n\t\t26\n\t\t29\n\t\t4\n\t\n\t\n\t\tPOZA GALANA\n\t\t3\n\t\t22\n\t\t12\n\t\t10\n\t\t3\n\t\n\t\n\t\tPUNTA FLOR\n\t\t4\n\t\t217\n\t\t98\n\t\t119\n\t\t13\n\t\n\t\n\t\tSAN ISIDRO\n\t\t1\n\t\t20\n\t\t12\n\t\t8\n\t\t1\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t1\n\t\t291\n\t\t149\n\t\t142\n\t\t37\n\t\n\t\n\t\tVILLA DEL MAR\n\t\t4\n\t\t150\n\t\t83\n\t\t67\n\t\t10\n\t\n\t\n\t\tVISTA FLOR\n\t\t1\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t121\n\t\t10,465\n\t\t5,261\n\t\t5,204\n\t\t668\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: ARRIAGA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "5 DE MAYO",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4",
+          "AGRÍCOLA VEINTE DE NOVIEMBRE",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3",
+          "AGUA FRÍA",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1",
+          "ARRIAGA",
+          "56",
+          "6,840",
+          "3,441",
+          "3,399",
+          "443",
+          "AZTECA (LA PUNTA)",
+          "4",
+          "246",
+          "120",
+          "126",
+          "21",
+          "EBEN EZER",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "EL ARENAL",
+          "2",
+          "33",
+          "17",
+          "16",
+          "2",
+          "EL PLEITO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2",
+          "EMILIANO ZAPATA",
+          "6",
+          "925",
+          "470",
+          "455",
+          "41",
+          "FRACCIÓN LA ESPERANZA",
+          "2",
+          "210",
+          "110",
+          "100",
+          "11",
+          "LA GLORIA",
+          "4",
+          "398",
+          "218",
+          "180",
+          "17",
+          "LA LÍNEA",
+          "3",
+          "377",
+          "187",
+          "190",
+          "19",
+          "LA SOLEDAD",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "LAS ARENAS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "248",
+          "117",
+          "131",
+          "11",
+          "MALPASO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1",
+          "NICOLÁS BRAVO (EL HONDO)",
+          "3",
+          "102",
+          "44",
+          "58",
+          "10",
+          "NUEVO PROGRESO (ABSALÓN CASTELLANOS D.)",
+          "3",
+          "24",
+          "13",
+          "11",
+          "3",
+          "NUEVO SAN PABLO",
+          "2",
+          "42",
+          "14",
+          "28",
+          "3",
+          "OAXAQUITA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "4",
+          "POZA GALANA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3",
+          "PUNTA FLOR",
+          "4",
+          "217",
+          "98",
+          "119",
+          "13",
+          "SAN ISIDRO",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1",
+          "SANTA LUCÍA",
+          "1",
+          "291",
+          "149",
+          "142",
+          "37",
+          "VILLA DEL MAR",
+          "4",
+          "150",
+          "83",
+          "67",
+          "10",
+          "VISTA FLOR",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2",
+          "TOTAL",
+          "121",
+          "10,465",
+          "5,261",
+          "5,204",
+          "668",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: ARRIAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "5 DE MAYO",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "AGRÍCOLA VEINTE DE NOVIEMBRE",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "AGUA FRÍA",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1"
+        ],
+        [
+          "ARRIAGA",
+          "56",
+          "6,840",
+          "3,441",
+          "3,399",
+          "443"
+        ],
+        [
+          "AZTECA (LA PUNTA)",
+          "4",
+          "246",
+          "120",
+          "126",
+          "21"
+        ],
+        [
+          "EBEN EZER",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "33",
+          "17",
+          "16",
+          "2"
+        ],
+        [
+          "EL PLEITO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "925",
+          "470",
+          "455",
+          "41"
+        ],
+        [
+          "FRACCIÓN LA ESPERANZA",
+          "2",
+          "210",
+          "110",
+          "100",
+          "11"
+        ],
+        [
+          "LA GLORIA",
+          "4",
+          "398",
+          "218",
+          "180",
+          "17"
+        ],
+        [
+          "LA LÍNEA",
+          "3",
+          "377",
+          "187",
+          "190",
+          "19"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "LAS ARENAS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "248",
+          "117",
+          "131",
+          "11"
+        ],
+        [
+          "MALPASO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "NICOLÁS BRAVO (EL HONDO)",
+          "3",
+          "102",
+          "44",
+          "58",
+          "10"
+        ],
+        [
+          "NUEVO PROGRESO (ABSALÓN CASTELLANOS D.)",
+          "3",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "NUEVO SAN PABLO",
+          "2",
+          "42",
+          "14",
+          "28",
+          "3"
+        ],
+        [
+          "OAXAQUITA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "POZA GALANA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "PUNTA FLOR",
+          "4",
+          "217",
+          "98",
+          "119",
+          "13"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA LUCÍA",
+          "1",
+          "291",
+          "149",
+          "142",
+          "37"
+        ],
+        [
+          "VILLA DEL MAR",
+          "4",
+          "150",
+          "83",
+          "67",
+          "10"
+        ],
+        [
+          "VISTA FLOR",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "121",
+          "10,465",
+          "5,261",
+          "5,204",
+          "668"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: ARRIAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "5 DE MAYO",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "AGRÍCOLA VEINTE DE NOVIEMBRE",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "AGUA FRÍA",
+          "1",
+          "23",
+          "12",
+          "11",
+          "1"
+        ],
+        [
+          "ARRIAGA",
+          "56",
+          "6,840",
+          "3,441",
+          "3,399",
+          "443"
+        ],
+        [
+          "AZTECA (LA PUNTA)",
+          "4",
+          "246",
+          "120",
+          "126",
+          "21"
+        ],
+        [
+          "EBEN EZER",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "33",
+          "17",
+          "16",
+          "2"
+        ],
+        [
+          "EL PLEITO",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "925",
+          "470",
+          "455",
+          "41"
+        ],
+        [
+          "FRACCIÓN LA ESPERANZA",
+          "2",
+          "210",
+          "110",
+          "100",
+          "11"
+        ],
+        [
+          "LA GLORIA",
+          "4",
+          "398",
+          "218",
+          "180",
+          "17"
+        ],
+        [
+          "LA LÍNEA",
+          "3",
+          "377",
+          "187",
+          "190",
+          "19"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "LAS ARENAS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "248",
+          "117",
+          "131",
+          "11"
+        ],
+        [
+          "MALPASO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "NICOLÁS BRAVO (EL HONDO)",
+          "3",
+          "102",
+          "44",
+          "58",
+          "10"
+        ],
+        [
+          "NUEVO PROGRESO (ABSALÓN CASTELLANOS D.)",
+          "3",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "NUEVO SAN PABLO",
+          "2",
+          "42",
+          "14",
+          "28",
+          "3"
+        ],
+        [
+          "OAXAQUITA",
+          "3",
+          "55",
+          "26",
+          "29",
+          "4"
+        ],
+        [
+          "POZA GALANA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "PUNTA FLOR",
+          "4",
+          "217",
+          "98",
+          "119",
+          "13"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA LUCÍA",
+          "1",
+          "291",
+          "149",
+          "142",
+          "37"
+        ],
+        [
+          "VILLA DEL MAR",
+          "4",
+          "150",
+          "83",
+          "67",
+          "10"
+        ],
+        [
+          "VISTA FLOR",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "121",
+          "10,465",
+          "5,261",
+          "5,204",
+          "668"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:33.561Z"
+}

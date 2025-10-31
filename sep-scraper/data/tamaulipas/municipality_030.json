@@ -1,0 +1,516 @@
+{
+  "municipality": "PADILLA",
+  "municipalityCode": "030",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: PADILLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRETAL\n\t\t7\n\t\t1,008\n\t\t485\n\t\t523\n\t\t59\n\t\n\t\n\t\tCAMPOAMOR\n\t\t2\n\t\t22\n\t\t7\n\t\t15\n\t\t2\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t3\n\t\t341\n\t\t176\n\t\t165\n\t\t63\n\t\n\t\n\t\tCONRADO CASTILLO\n\t\t4\n\t\t93\n\t\t51\n\t\t42\n\t\t7\n\t\n\t\n\t\tCORPUS CHRISTI\n\t\t2\n\t\t56\n\t\t22\n\t\t34\n\t\t5\n\t\n\t\n\t\tJOSÉ LÓPEZ PORTILLO\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tJOSÉ SILVA SÁNCHEZ\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t2\n\t\t39\n\t\t20\n\t\t19\n\t\t4\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t541\n\t\t301\n\t\t240\n\t\t122\n\t\n\t\n\t\tLOS BRASILES\n\t\t2\n\t\t42\n\t\t20\n\t\t22\n\t\t4\n\t\n\t\n\t\tLOUISIANA\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tMARTE R. GÓMEZ\n\t\t2\n\t\t58\n\t\t28\n\t\t30\n\t\t5\n\t\n\t\n\t\tNUEVA VILLA DE PADILLA\n\t\t7\n\t\t1,062\n\t\t506\n\t\t556\n\t\t81\n\t\n\t\n\t\tNUEVO SAN JUAN\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t4\n\t\t66\n\t\t31\n\t\t35\n\t\t9\n\t\n\t\n\t\tQUINCE DE FEBRERO\n\t\t3\n\t\t32\n\t\t21\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN PATRICIO\n\t\t2\n\t\t35\n\t\t20\n\t\t15\n\t\t3\n\t\n\t\n\t\tSANTA JUANA\n\t\t2\n\t\t39\n\t\t25\n\t\t14\n\t\t3\n\t\n\t\n\t\tVICENTE GUERRERO (EL TABLERO)\n\t\t2\n\t\t58\n\t\t24\n\t\t34\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t52\n\t\t3,529\n\t\t1,757\n\t\t1,772\n\t\t379\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: PADILLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRETAL",
+          "7",
+          "1,008",
+          "485",
+          "523",
+          "59",
+          "CAMPOAMOR",
+          "2",
+          "22",
+          "7",
+          "15",
+          "2",
+          "CINCO DE MAYO",
+          "3",
+          "341",
+          "176",
+          "165",
+          "63",
+          "CONRADO CASTILLO",
+          "4",
+          "93",
+          "51",
+          "42",
+          "7",
+          "CORPUS CHRISTI",
+          "2",
+          "56",
+          "22",
+          "34",
+          "5",
+          "JOSÉ LÓPEZ PORTILLO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LA CONCEPCIÓN",
+          "2",
+          "39",
+          "20",
+          "19",
+          "4",
+          "LA SOLEDAD",
+          "3",
+          "541",
+          "301",
+          "240",
+          "122",
+          "LOS BRASILES",
+          "2",
+          "42",
+          "20",
+          "22",
+          "4",
+          "LOUISIANA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "MARTE R. GÓMEZ",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5",
+          "NUEVA VILLA DE PADILLA",
+          "7",
+          "1,062",
+          "506",
+          "556",
+          "81",
+          "NUEVO SAN JUAN",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "PLAN DE AYALA",
+          "4",
+          "66",
+          "31",
+          "35",
+          "9",
+          "QUINCE DE FEBRERO",
+          "3",
+          "32",
+          "21",
+          "11",
+          "3",
+          "SAN PATRICIO",
+          "2",
+          "35",
+          "20",
+          "15",
+          "3",
+          "SANTA JUANA",
+          "2",
+          "39",
+          "25",
+          "14",
+          "3",
+          "VICENTE GUERRERO (EL TABLERO)",
+          "2",
+          "58",
+          "24",
+          "34",
+          "4",
+          "TOTAL",
+          "52",
+          "3,529",
+          "1,757",
+          "1,772",
+          "379",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: PADILLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRETAL",
+          "7",
+          "1,008",
+          "485",
+          "523",
+          "59"
+        ],
+        [
+          "CAMPOAMOR",
+          "2",
+          "22",
+          "7",
+          "15",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "341",
+          "176",
+          "165",
+          "63"
+        ],
+        [
+          "CONRADO CASTILLO",
+          "4",
+          "93",
+          "51",
+          "42",
+          "7"
+        ],
+        [
+          "CORPUS CHRISTI",
+          "2",
+          "56",
+          "22",
+          "34",
+          "5"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "39",
+          "20",
+          "19",
+          "4"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "541",
+          "301",
+          "240",
+          "122"
+        ],
+        [
+          "LOS BRASILES",
+          "2",
+          "42",
+          "20",
+          "22",
+          "4"
+        ],
+        [
+          "LOUISIANA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "MARTE R. GÓMEZ",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "NUEVA VILLA DE PADILLA",
+          "7",
+          "1,062",
+          "506",
+          "556",
+          "81"
+        ],
+        [
+          "NUEVO SAN JUAN",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "66",
+          "31",
+          "35",
+          "9"
+        ],
+        [
+          "QUINCE DE FEBRERO",
+          "3",
+          "32",
+          "21",
+          "11",
+          "3"
+        ],
+        [
+          "SAN PATRICIO",
+          "2",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "SANTA JUANA",
+          "2",
+          "39",
+          "25",
+          "14",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (EL TABLERO)",
+          "2",
+          "58",
+          "24",
+          "34",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "3,529",
+          "1,757",
+          "1,772",
+          "379"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: PADILLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRETAL",
+          "7",
+          "1,008",
+          "485",
+          "523",
+          "59"
+        ],
+        [
+          "CAMPOAMOR",
+          "2",
+          "22",
+          "7",
+          "15",
+          "2"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "341",
+          "176",
+          "165",
+          "63"
+        ],
+        [
+          "CONRADO CASTILLO",
+          "4",
+          "93",
+          "51",
+          "42",
+          "7"
+        ],
+        [
+          "CORPUS CHRISTI",
+          "2",
+          "56",
+          "22",
+          "34",
+          "5"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "39",
+          "20",
+          "19",
+          "4"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "541",
+          "301",
+          "240",
+          "122"
+        ],
+        [
+          "LOS BRASILES",
+          "2",
+          "42",
+          "20",
+          "22",
+          "4"
+        ],
+        [
+          "LOUISIANA",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "MARTE R. GÓMEZ",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "NUEVA VILLA DE PADILLA",
+          "7",
+          "1,062",
+          "506",
+          "556",
+          "81"
+        ],
+        [
+          "NUEVO SAN JUAN",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "66",
+          "31",
+          "35",
+          "9"
+        ],
+        [
+          "QUINCE DE FEBRERO",
+          "3",
+          "32",
+          "21",
+          "11",
+          "3"
+        ],
+        [
+          "SAN PATRICIO",
+          "2",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "SANTA JUANA",
+          "2",
+          "39",
+          "25",
+          "14",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (EL TABLERO)",
+          "2",
+          "58",
+          "24",
+          "34",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "3,529",
+          "1,757",
+          "1,772",
+          "379"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:33.719Z"
+}

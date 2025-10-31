@@ -1,0 +1,692 @@
+{
+  "municipality": "TUXTLA CHICO",
+  "municipalityCode": "102",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TUXTLA CHICO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t1RA. SECCIÓN DE GUILLÉN CENTRO\n\t\t1\n\t\t40\n\t\t22\n\t\t18\n\t\t2\n\t\n\t\n\t\t1RA. SECCIÓN DE GUILLÉN ORIENTE\n\t\t1\n\t\t63\n\t\t39\n\t\t24\n\t\t3\n\t\n\t\n\t\t1RA. SECCIÓN DE IZAPA\n\t\t2\n\t\t172\n\t\t73\n\t\t99\n\t\t8\n\t\n\t\n\t\t1RA. SECCIÓN DE MEDIO MONTE\n\t\t6\n\t\t811\n\t\t422\n\t\t389\n\t\t36\n\t\n\t\n\t\t2DA. SECCIÓN DE CAHOA (BUENAVISTA)\n\t\t2\n\t\t49\n\t\t26\n\t\t23\n\t\t3\n\t\n\t\n\t\t2DA. SECCIÓN DE GUILLÉN\n\t\t6\n\t\t511\n\t\t238\n\t\t273\n\t\t22\n\t\n\t\n\t\t2DA. SECCIÓN DE IZAPA\n\t\t4\n\t\t523\n\t\t256\n\t\t267\n\t\t30\n\t\n\t\n\t\t2DA. SECCIÓN DE MEDIO MONTE\n\t\t9\n\t\t997\n\t\t490\n\t\t507\n\t\t39\n\t\n\t\n\t\tEL AGUINAL\n\t\t2\n\t\t72\n\t\t32\n\t\t40\n\t\t4\n\t\n\t\n\t\tEL ENCANTO\n\t\t2\n\t\t29\n\t\t11\n\t\t18\n\t\t2\n\t\n\t\n\t\tEL SACRIFICIO\n\t\t3\n\t\t601\n\t\t290\n\t\t311\n\t\t23\n\t\n\t\n\t\tEL SUR DE GUILLÉN\n\t\t3\n\t\t347\n\t\t175\n\t\t172\n\t\t21\n\t\n\t\n\t\tFRACCIÓN LA JERINGA\n\t\t2\n\t\t57\n\t\t31\n\t\t26\n\t\t3\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t126\n\t\t62\n\t\t64\n\t\t6\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t4\n\t\t428\n\t\t189\n\t\t239\n\t\t40\n\t\n\t\n\t\tMANUEL LAZOS\n\t\t4\n\t\t707\n\t\t337\n\t\t370\n\t\t27\n\t\n\t\n\t\tMIGUEL HIDALGO\n\t\t4\n\t\t224\n\t\t102\n\t\t122\n\t\t10\n\t\n\t\n\t\tOMOHA\n\t\t4\n\t\t174\n\t\t76\n\t\t98\n\t\t9\n\t\n\t\n\t\tSAN JOAQUÍN (CAMPO FLORIDO)\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tSECCIÓN LA GRANJA\n\t\t2\n\t\t136\n\t\t66\n\t\t70\n\t\t6\n\t\n\t\n\t\tSECCIÓN LA TOMA\n\t\t2\n\t\t58\n\t\t28\n\t\t30\n\t\t2\n\t\n\t\n\t\tSECCIÓN MARGARITAS (SANTA ROSA)\n\t\t2\n\t\t77\n\t\t39\n\t\t38\n\t\t3\n\t\n\t\n\t\tSECCIÓN TOMA LA GALERA\n\t\t3\n\t\t101\n\t\t44\n\t\t57\n\t\t5\n\t\n\t\n\t\tSILVANO GATICA\n\t\t3\n\t\t292\n\t\t149\n\t\t143\n\t\t13\n\t\n\t\n\t\tTALISMÁN\n\t\t4\n\t\t564\n\t\t290\n\t\t274\n\t\t23\n\t\n\t\n\t\tTUXTLA CHICO\n\t\t24\n\t\t5,425\n\t\t2,859\n\t\t2,566\n\t\t296\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t4\n\t\t451\n\t\t231\n\t\t220\n\t\t26\n\t\n\t\n\t\tTOTAL\n\t\t106\n\t\t13,050\n\t\t6,585\n\t\t6,465\n\t\t663\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TUXTLA CHICO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "1RA. SECCIÓN DE GUILLÉN CENTRO",
+          "1",
+          "40",
+          "22",
+          "18",
+          "2",
+          "1RA. SECCIÓN DE GUILLÉN ORIENTE",
+          "1",
+          "63",
+          "39",
+          "24",
+          "3",
+          "1RA. SECCIÓN DE IZAPA",
+          "2",
+          "172",
+          "73",
+          "99",
+          "8",
+          "1RA. SECCIÓN DE MEDIO MONTE",
+          "6",
+          "811",
+          "422",
+          "389",
+          "36",
+          "2DA. SECCIÓN DE CAHOA (BUENAVISTA)",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3",
+          "2DA. SECCIÓN DE GUILLÉN",
+          "6",
+          "511",
+          "238",
+          "273",
+          "22",
+          "2DA. SECCIÓN DE IZAPA",
+          "4",
+          "523",
+          "256",
+          "267",
+          "30",
+          "2DA. SECCIÓN DE MEDIO MONTE",
+          "9",
+          "997",
+          "490",
+          "507",
+          "39",
+          "EL AGUINAL",
+          "2",
+          "72",
+          "32",
+          "40",
+          "4",
+          "EL ENCANTO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "2",
+          "EL SACRIFICIO",
+          "3",
+          "601",
+          "290",
+          "311",
+          "23",
+          "EL SUR DE GUILLÉN",
+          "3",
+          "347",
+          "175",
+          "172",
+          "21",
+          "FRACCIÓN LA JERINGA",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3",
+          "FRANCISCO VILLA",
+          "2",
+          "126",
+          "62",
+          "64",
+          "6",
+          "GUADALUPE VICTORIA",
+          "4",
+          "428",
+          "189",
+          "239",
+          "40",
+          "MANUEL LAZOS",
+          "4",
+          "707",
+          "337",
+          "370",
+          "27",
+          "MIGUEL HIDALGO",
+          "4",
+          "224",
+          "102",
+          "122",
+          "10",
+          "OMOHA",
+          "4",
+          "174",
+          "76",
+          "98",
+          "9",
+          "SAN JOAQUÍN (CAMPO FLORIDO)",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "SECCIÓN LA GRANJA",
+          "2",
+          "136",
+          "66",
+          "70",
+          "6",
+          "SECCIÓN LA TOMA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "2",
+          "SECCIÓN MARGARITAS (SANTA ROSA)",
+          "2",
+          "77",
+          "39",
+          "38",
+          "3",
+          "SECCIÓN TOMA LA GALERA",
+          "3",
+          "101",
+          "44",
+          "57",
+          "5",
+          "SILVANO GATICA",
+          "3",
+          "292",
+          "149",
+          "143",
+          "13",
+          "TALISMÁN",
+          "4",
+          "564",
+          "290",
+          "274",
+          "23",
+          "TUXTLA CHICO",
+          "24",
+          "5,425",
+          "2,859",
+          "2,566",
+          "296",
+          "VICENTE GUERRERO",
+          "4",
+          "451",
+          "231",
+          "220",
+          "26",
+          "TOTAL",
+          "106",
+          "13,050",
+          "6,585",
+          "6,465",
+          "663",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TUXTLA CHICO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "1RA. SECCIÓN DE GUILLÉN CENTRO",
+          "1",
+          "40",
+          "22",
+          "18",
+          "2"
+        ],
+        [
+          "1RA. SECCIÓN DE GUILLÉN ORIENTE",
+          "1",
+          "63",
+          "39",
+          "24",
+          "3"
+        ],
+        [
+          "1RA. SECCIÓN DE IZAPA",
+          "2",
+          "172",
+          "73",
+          "99",
+          "8"
+        ],
+        [
+          "1RA. SECCIÓN DE MEDIO MONTE",
+          "6",
+          "811",
+          "422",
+          "389",
+          "36"
+        ],
+        [
+          "2DA. SECCIÓN DE CAHOA (BUENAVISTA)",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "2DA. SECCIÓN DE GUILLÉN",
+          "6",
+          "511",
+          "238",
+          "273",
+          "22"
+        ],
+        [
+          "2DA. SECCIÓN DE IZAPA",
+          "4",
+          "523",
+          "256",
+          "267",
+          "30"
+        ],
+        [
+          "2DA. SECCIÓN DE MEDIO MONTE",
+          "9",
+          "997",
+          "490",
+          "507",
+          "39"
+        ],
+        [
+          "EL AGUINAL",
+          "2",
+          "72",
+          "32",
+          "40",
+          "4"
+        ],
+        [
+          "EL ENCANTO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "2"
+        ],
+        [
+          "EL SACRIFICIO",
+          "3",
+          "601",
+          "290",
+          "311",
+          "23"
+        ],
+        [
+          "EL SUR DE GUILLÉN",
+          "3",
+          "347",
+          "175",
+          "172",
+          "21"
+        ],
+        [
+          "FRACCIÓN LA JERINGA",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "126",
+          "62",
+          "64",
+          "6"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "4",
+          "428",
+          "189",
+          "239",
+          "40"
+        ],
+        [
+          "MANUEL LAZOS",
+          "4",
+          "707",
+          "337",
+          "370",
+          "27"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "4",
+          "224",
+          "102",
+          "122",
+          "10"
+        ],
+        [
+          "OMOHA",
+          "4",
+          "174",
+          "76",
+          "98",
+          "9"
+        ],
+        [
+          "SAN JOAQUÍN (CAMPO FLORIDO)",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SECCIÓN LA GRANJA",
+          "2",
+          "136",
+          "66",
+          "70",
+          "6"
+        ],
+        [
+          "SECCIÓN LA TOMA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "2"
+        ],
+        [
+          "SECCIÓN MARGARITAS (SANTA ROSA)",
+          "2",
+          "77",
+          "39",
+          "38",
+          "3"
+        ],
+        [
+          "SECCIÓN TOMA LA GALERA",
+          "3",
+          "101",
+          "44",
+          "57",
+          "5"
+        ],
+        [
+          "SILVANO GATICA",
+          "3",
+          "292",
+          "149",
+          "143",
+          "13"
+        ],
+        [
+          "TALISMÁN",
+          "4",
+          "564",
+          "290",
+          "274",
+          "23"
+        ],
+        [
+          "TUXTLA CHICO",
+          "24",
+          "5,425",
+          "2,859",
+          "2,566",
+          "296"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "4",
+          "451",
+          "231",
+          "220",
+          "26"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "13,050",
+          "6,585",
+          "6,465",
+          "663"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TUXTLA CHICO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "1RA. SECCIÓN DE GUILLÉN CENTRO",
+          "1",
+          "40",
+          "22",
+          "18",
+          "2"
+        ],
+        [
+          "1RA. SECCIÓN DE GUILLÉN ORIENTE",
+          "1",
+          "63",
+          "39",
+          "24",
+          "3"
+        ],
+        [
+          "1RA. SECCIÓN DE IZAPA",
+          "2",
+          "172",
+          "73",
+          "99",
+          "8"
+        ],
+        [
+          "1RA. SECCIÓN DE MEDIO MONTE",
+          "6",
+          "811",
+          "422",
+          "389",
+          "36"
+        ],
+        [
+          "2DA. SECCIÓN DE CAHOA (BUENAVISTA)",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "2DA. SECCIÓN DE GUILLÉN",
+          "6",
+          "511",
+          "238",
+          "273",
+          "22"
+        ],
+        [
+          "2DA. SECCIÓN DE IZAPA",
+          "4",
+          "523",
+          "256",
+          "267",
+          "30"
+        ],
+        [
+          "2DA. SECCIÓN DE MEDIO MONTE",
+          "9",
+          "997",
+          "490",
+          "507",
+          "39"
+        ],
+        [
+          "EL AGUINAL",
+          "2",
+          "72",
+          "32",
+          "40",
+          "4"
+        ],
+        [
+          "EL ENCANTO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "2"
+        ],
+        [
+          "EL SACRIFICIO",
+          "3",
+          "601",
+          "290",
+          "311",
+          "23"
+        ],
+        [
+          "EL SUR DE GUILLÉN",
+          "3",
+          "347",
+          "175",
+          "172",
+          "21"
+        ],
+        [
+          "FRACCIÓN LA JERINGA",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "126",
+          "62",
+          "64",
+          "6"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "4",
+          "428",
+          "189",
+          "239",
+          "40"
+        ],
+        [
+          "MANUEL LAZOS",
+          "4",
+          "707",
+          "337",
+          "370",
+          "27"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "4",
+          "224",
+          "102",
+          "122",
+          "10"
+        ],
+        [
+          "OMOHA",
+          "4",
+          "174",
+          "76",
+          "98",
+          "9"
+        ],
+        [
+          "SAN JOAQUÍN (CAMPO FLORIDO)",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "SECCIÓN LA GRANJA",
+          "2",
+          "136",
+          "66",
+          "70",
+          "6"
+        ],
+        [
+          "SECCIÓN LA TOMA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "2"
+        ],
+        [
+          "SECCIÓN MARGARITAS (SANTA ROSA)",
+          "2",
+          "77",
+          "39",
+          "38",
+          "3"
+        ],
+        [
+          "SECCIÓN TOMA LA GALERA",
+          "3",
+          "101",
+          "44",
+          "57",
+          "5"
+        ],
+        [
+          "SILVANO GATICA",
+          "3",
+          "292",
+          "149",
+          "143",
+          "13"
+        ],
+        [
+          "TALISMÁN",
+          "4",
+          "564",
+          "290",
+          "274",
+          "23"
+        ],
+        [
+          "TUXTLA CHICO",
+          "24",
+          "5,425",
+          "2,859",
+          "2,566",
+          "296"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "4",
+          "451",
+          "231",
+          "220",
+          "26"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "13,050",
+          "6,585",
+          "6,465",
+          "663"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:16.419Z"
+}

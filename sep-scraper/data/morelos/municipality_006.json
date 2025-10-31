@@ -1,0 +1,560 @@
+{
+  "municipality": "CUAUTLA",
+  "municipalityCode": "006",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: CUAUTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t19 DE FEBRERO DE 1812\n\t\t2\n\t\t102\n\t\t53\n\t\t49\n\t\t7\n\t\n\t\n\t\tAMPLIACIÓN BIZNAGA UNO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tAMPLIACIÓN FRANCISCO I. MADERO\n\t\t2\n\t\t345\n\t\t174\n\t\t171\n\t\t15\n\t\n\t\n\t\tAMPLIACIÓN GABRIEL TEPEPA\n\t\t11\n\t\t3,551\n\t\t1,908\n\t\t1,643\n\t\t231\n\t\n\t\n\t\tAMPLIACIÓN IZTACCÍHUATL\n\t\t2\n\t\t3,310\n\t\t1,238\n\t\t2,072\n\t\t31\n\t\n\t\n\t\tAMPLIACIÓN NARCISO MENDOZA\n\t\t1\n\t\t22\n\t\t13\n\t\t9\n\t\t1\n\t\n\t\n\t\tCALDERÓN\n\t\t3\n\t\t417\n\t\t192\n\t\t225\n\t\t16\n\t\n\t\n\t\tCAMPO EL GUAJE\n\t\t2\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tCAMPO NUEVO\n\t\t1\n\t\t64\n\t\t31\n\t\t33\n\t\t3\n\t\n\t\n\t\tCOLONIA EL PARAÍSO\n\t\t1\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tCUAUTLA\n\t\t366\n\t\t51,111\n\t\t26,178\n\t\t24,933\n\t\t3,202\n\t\n\t\n\t\tEL POLVORÍN\n\t\t1\n\t\t357\n\t\t176\n\t\t181\n\t\t12\n\t\n\t\n\t\tEMPLEADO MUNICIPAL\n\t\t2\n\t\t142\n\t\t74\n\t\t68\n\t\t8\n\t\n\t\n\t\tEUSEBIO JÁUREGUI (LA ANGOSTURA)\n\t\t6\n\t\t1,717\n\t\t710\n\t\t1,007\n\t\t85\n\t\n\t\n\t\tEX-HACIENDA EL HOSPITAL\n\t\t4\n\t\t497\n\t\t247\n\t\t250\n\t\t27\n\t\n\t\n\t\tHÉROE DE NACOZARI\n\t\t3\n\t\t549\n\t\t43\n\t\t506\n\t\t34\n\t\n\t\n\t\tNARCISO MENDOZA\n\t\t1\n\t\t122\n\t\t54\n\t\t68\n\t\t6\n\t\n\t\n\t\tPEÑA FLORES (PALO VERDE)\n\t\t5\n\t\t421\n\t\t222\n\t\t199\n\t\t24\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t1\n\t\t729\n\t\t414\n\t\t315\n\t\t21\n\t\n\t\n\t\tPUXTLA\n\t\t2\n\t\t159\n\t\t78\n\t\t81\n\t\t8\n\t\n\t\n\t\tTIERRA Y LIBERTAD\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t419\n\t\t63,694\n\t\t31,845\n\t\t31,849\n\t\t3,740\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: CUAUTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "19 DE FEBRERO DE 1812",
+          "2",
+          "102",
+          "53",
+          "49",
+          "7",
+          "AMPLIACIÓN BIZNAGA UNO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "AMPLIACIÓN FRANCISCO I. MADERO",
+          "2",
+          "345",
+          "174",
+          "171",
+          "15",
+          "AMPLIACIÓN GABRIEL TEPEPA",
+          "11",
+          "3,551",
+          "1,908",
+          "1,643",
+          "231",
+          "AMPLIACIÓN IZTACCÍHUATL",
+          "2",
+          "3,310",
+          "1,238",
+          "2,072",
+          "31",
+          "AMPLIACIÓN NARCISO MENDOZA",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1",
+          "CALDERÓN",
+          "3",
+          "417",
+          "192",
+          "225",
+          "16",
+          "CAMPO EL GUAJE",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2",
+          "CAMPO NUEVO",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3",
+          "COLONIA EL PARAÍSO",
+          "1",
+          "27",
+          "13",
+          "14",
+          "3",
+          "CUAUTLA",
+          "366",
+          "51,111",
+          "26,178",
+          "24,933",
+          "3,202",
+          "EL POLVORÍN",
+          "1",
+          "357",
+          "176",
+          "181",
+          "12",
+          "EMPLEADO MUNICIPAL",
+          "2",
+          "142",
+          "74",
+          "68",
+          "8",
+          "EUSEBIO JÁUREGUI (LA ANGOSTURA)",
+          "6",
+          "1,717",
+          "710",
+          "1,007",
+          "85",
+          "EX-HACIENDA EL HOSPITAL",
+          "4",
+          "497",
+          "247",
+          "250",
+          "27",
+          "HÉROE DE NACOZARI",
+          "3",
+          "549",
+          "43",
+          "506",
+          "34",
+          "NARCISO MENDOZA",
+          "1",
+          "122",
+          "54",
+          "68",
+          "6",
+          "PEÑA FLORES (PALO VERDE)",
+          "5",
+          "421",
+          "222",
+          "199",
+          "24",
+          "PLAN DE AYALA",
+          "1",
+          "729",
+          "414",
+          "315",
+          "21",
+          "PUXTLA",
+          "2",
+          "159",
+          "78",
+          "81",
+          "8",
+          "TIERRA Y LIBERTAD",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "TOTAL",
+          "419",
+          "63,694",
+          "31,845",
+          "31,849",
+          "3,740",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: CUAUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "19 DE FEBRERO DE 1812",
+          "2",
+          "102",
+          "53",
+          "49",
+          "7"
+        ],
+        [
+          "AMPLIACIÓN BIZNAGA UNO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "AMPLIACIÓN FRANCISCO I. MADERO",
+          "2",
+          "345",
+          "174",
+          "171",
+          "15"
+        ],
+        [
+          "AMPLIACIÓN GABRIEL TEPEPA",
+          "11",
+          "3,551",
+          "1,908",
+          "1,643",
+          "231"
+        ],
+        [
+          "AMPLIACIÓN IZTACCÍHUATL",
+          "2",
+          "3,310",
+          "1,238",
+          "2,072",
+          "31"
+        ],
+        [
+          "AMPLIACIÓN NARCISO MENDOZA",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1"
+        ],
+        [
+          "CALDERÓN",
+          "3",
+          "417",
+          "192",
+          "225",
+          "16"
+        ],
+        [
+          "CAMPO EL GUAJE",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "CAMPO NUEVO",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3"
+        ],
+        [
+          "COLONIA EL PARAÍSO",
+          "1",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "CUAUTLA",
+          "366",
+          "51,111",
+          "26,178",
+          "24,933",
+          "3,202"
+        ],
+        [
+          "EL POLVORÍN",
+          "1",
+          "357",
+          "176",
+          "181",
+          "12"
+        ],
+        [
+          "EMPLEADO MUNICIPAL",
+          "2",
+          "142",
+          "74",
+          "68",
+          "8"
+        ],
+        [
+          "EUSEBIO JÁUREGUI (LA ANGOSTURA)",
+          "6",
+          "1,717",
+          "710",
+          "1,007",
+          "85"
+        ],
+        [
+          "EX-HACIENDA EL HOSPITAL",
+          "4",
+          "497",
+          "247",
+          "250",
+          "27"
+        ],
+        [
+          "HÉROE DE NACOZARI",
+          "3",
+          "549",
+          "43",
+          "506",
+          "34"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "1",
+          "122",
+          "54",
+          "68",
+          "6"
+        ],
+        [
+          "PEÑA FLORES (PALO VERDE)",
+          "5",
+          "421",
+          "222",
+          "199",
+          "24"
+        ],
+        [
+          "PLAN DE AYALA",
+          "1",
+          "729",
+          "414",
+          "315",
+          "21"
+        ],
+        [
+          "PUXTLA",
+          "2",
+          "159",
+          "78",
+          "81",
+          "8"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "419",
+          "63,694",
+          "31,845",
+          "31,849",
+          "3,740"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: CUAUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "19 DE FEBRERO DE 1812",
+          "2",
+          "102",
+          "53",
+          "49",
+          "7"
+        ],
+        [
+          "AMPLIACIÓN BIZNAGA UNO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "AMPLIACIÓN FRANCISCO I. MADERO",
+          "2",
+          "345",
+          "174",
+          "171",
+          "15"
+        ],
+        [
+          "AMPLIACIÓN GABRIEL TEPEPA",
+          "11",
+          "3,551",
+          "1,908",
+          "1,643",
+          "231"
+        ],
+        [
+          "AMPLIACIÓN IZTACCÍHUATL",
+          "2",
+          "3,310",
+          "1,238",
+          "2,072",
+          "31"
+        ],
+        [
+          "AMPLIACIÓN NARCISO MENDOZA",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1"
+        ],
+        [
+          "CALDERÓN",
+          "3",
+          "417",
+          "192",
+          "225",
+          "16"
+        ],
+        [
+          "CAMPO EL GUAJE",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "CAMPO NUEVO",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3"
+        ],
+        [
+          "COLONIA EL PARAÍSO",
+          "1",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "CUAUTLA",
+          "366",
+          "51,111",
+          "26,178",
+          "24,933",
+          "3,202"
+        ],
+        [
+          "EL POLVORÍN",
+          "1",
+          "357",
+          "176",
+          "181",
+          "12"
+        ],
+        [
+          "EMPLEADO MUNICIPAL",
+          "2",
+          "142",
+          "74",
+          "68",
+          "8"
+        ],
+        [
+          "EUSEBIO JÁUREGUI (LA ANGOSTURA)",
+          "6",
+          "1,717",
+          "710",
+          "1,007",
+          "85"
+        ],
+        [
+          "EX-HACIENDA EL HOSPITAL",
+          "4",
+          "497",
+          "247",
+          "250",
+          "27"
+        ],
+        [
+          "HÉROE DE NACOZARI",
+          "3",
+          "549",
+          "43",
+          "506",
+          "34"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "1",
+          "122",
+          "54",
+          "68",
+          "6"
+        ],
+        [
+          "PEÑA FLORES (PALO VERDE)",
+          "5",
+          "421",
+          "222",
+          "199",
+          "24"
+        ],
+        [
+          "PLAN DE AYALA",
+          "1",
+          "729",
+          "414",
+          "315",
+          "21"
+        ],
+        [
+          "PUXTLA",
+          "2",
+          "159",
+          "78",
+          "81",
+          "8"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "419",
+          "63,694",
+          "31,845",
+          "31,849",
+          "3,740"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:28.072Z"
+}

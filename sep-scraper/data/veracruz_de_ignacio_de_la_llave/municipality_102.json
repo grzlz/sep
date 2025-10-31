@@ -1,0 +1,890 @@
+{
+  "municipality": "MARTÍNEZ DE LA TORRE",
+  "municipalityCode": "102",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: MARTÍNEZ DE LA TORRE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO BLANCO\n\t\t3\n\t\t159\n\t\t72\n\t\t87\n\t\t10\n\t\n\t\n\t\tARROYO DE FIERRO\n\t\t3\n\t\t83\n\t\t42\n\t\t41\n\t\t6\n\t\n\t\n\t\tARROYO DEL POTRERO\n\t\t3\n\t\t273\n\t\t141\n\t\t132\n\t\t15\n\t\n\t\n\t\tARROYO NEGRO\n\t\t3\n\t\t73\n\t\t32\n\t\t41\n\t\t7\n\t\n\t\n\t\tBALSAS DE AGUA (POZOS DE ORO)\n\t\t2\n\t\t63\n\t\t34\n\t\t29\n\t\t4\n\t\n\t\n\t\tCARTAGO\n\t\t2\n\t\t934\n\t\t428\n\t\t506\n\t\t34\n\t\n\t\n\t\tEL DIAMANTE\n\t\t2\n\t\t72\n\t\t35\n\t\t37\n\t\t6\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL PROGRESO\n\t\t3\n\t\t183\n\t\t95\n\t\t88\n\t\t12\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t51\n\t\t18\n\t\t33\n\t\t4\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO\n\t\t7\n\t\t749\n\t\t353\n\t\t396\n\t\t52\n\t\n\t\n\t\tFLAMENCOS\n\t\t2\n\t\t63\n\t\t31\n\t\t32\n\t\t5\n\t\n\t\n\t\tGRACIANO SÁNCHEZ\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t3\n\t\n\t\n\t\tHUIPILTEPEC\n\t\t4\n\t\t363\n\t\t184\n\t\t179\n\t\t24\n\t\n\t\n\t\tINDEPENDENCIA\n\t\t17\n\t\t3,284\n\t\t1,658\n\t\t1,626\n\t\t165\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN\n\t\t3\n\t\t70\n\t\t31\n\t\t39\n\t\t5\n\t\n\t\n\t\tLA COLMENA\n\t\t3\n\t\t92\n\t\t38\n\t\t54\n\t\t8\n\t\n\t\n\t\tLA PALMA\n\t\t4\n\t\t362\n\t\t193\n\t\t169\n\t\t19\n\t\n\t\n\t\tLA PIEDRILLA\n\t\t4\n\t\t307\n\t\t128\n\t\t179\n\t\t20\n\t\n\t\n\t\tLA POZA\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t3\n\t\n\t\n\t\tLA UNIÓN PASO LARGO\n\t\t2\n\t\t173\n\t\t92\n\t\t81\n\t\t9\n\t\n\t\n\t\tLAS CAÑADAS MARTÍNEZ\n\t\t3\n\t\t47\n\t\t23\n\t\t24\n\t\t6\n\t\n\t\n\t\tLOMA DE LAS FLORES\n\t\t3\n\t\t63\n\t\t37\n\t\t26\n\t\t6\n\t\n\t\n\t\tMANANTIALES\n\t\t2\n\t\t87\n\t\t39\n\t\t48\n\t\t5\n\t\n\t\n\t\tMARÍA DE LA TORRE\n\t\t3\n\t\t442\n\t\t212\n\t\t230\n\t\t19\n\t\n\t\n\t\tMARTÍNEZ DE LA TORRE\n\t\t107\n\t\t15,183\n\t\t7,754\n\t\t7,429\n\t\t1,158\n\t\n\t\n\t\tNUEVA ITALIA\n\t\t2\n\t\t33\n\t\t8\n\t\t25\n\t\t2\n\t\n\t\n\t\tNUEVA SURIANA\n\t\t4\n\t\t65\n\t\t28\n\t\t37\n\t\t5\n\t\n\t\n\t\tPLAN DE LIMÓN\n\t\t3\n\t\t102\n\t\t54\n\t\t48\n\t\t10\n\t\n\t\n\t\tPUEBLO VIEJO DOS\n\t\t2\n\t\t79\n\t\t47\n\t\t32\n\t\t4\n\t\n\t\n\t\tPUEBLO VIEJO UNO\n\t\t3\n\t\t115\n\t\t51\n\t\t64\n\t\t9\n\t\n\t\n\t\tSALVADOR DÍAZ MIRÓN\n\t\t3\n\t\t209\n\t\t99\n\t\t110\n\t\t12\n\t\n\t\n\t\tTEPETATE\n\t\t1\n\t\t25\n\t\t14\n\t\t11\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tVEGA REDONDA\n\t\t2\n\t\t184\n\t\t87\n\t\t97\n\t\t12\n\t\n\t\n\t\tZAPOTE BUENO\n\t\t3\n\t\t51\n\t\t25\n\t\t26\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t216\n\t\t24,124\n\t\t12,124\n\t\t12,000\n\t\t1,670\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: MARTÍNEZ DE LA TORRE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO BLANCO",
+          "3",
+          "159",
+          "72",
+          "87",
+          "10",
+          "ARROYO DE FIERRO",
+          "3",
+          "83",
+          "42",
+          "41",
+          "6",
+          "ARROYO DEL POTRERO",
+          "3",
+          "273",
+          "141",
+          "132",
+          "15",
+          "ARROYO NEGRO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7",
+          "BALSAS DE AGUA (POZOS DE ORO)",
+          "2",
+          "63",
+          "34",
+          "29",
+          "4",
+          "CARTAGO",
+          "2",
+          "934",
+          "428",
+          "506",
+          "34",
+          "EL DIAMANTE",
+          "2",
+          "72",
+          "35",
+          "37",
+          "6",
+          "EL MIRADOR",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2",
+          "EL PROGRESO",
+          "3",
+          "183",
+          "95",
+          "88",
+          "12",
+          "EL REFUGIO",
+          "2",
+          "51",
+          "18",
+          "33",
+          "4",
+          "FELIPE CARRILLO PUERTO",
+          "7",
+          "749",
+          "353",
+          "396",
+          "52",
+          "FLAMENCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5",
+          "GRACIANO SÁNCHEZ",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3",
+          "HUIPILTEPEC",
+          "4",
+          "363",
+          "184",
+          "179",
+          "24",
+          "INDEPENDENCIA",
+          "17",
+          "3,284",
+          "1,658",
+          "1,626",
+          "165",
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "3",
+          "70",
+          "31",
+          "39",
+          "5",
+          "LA COLMENA",
+          "3",
+          "92",
+          "38",
+          "54",
+          "8",
+          "LA PALMA",
+          "4",
+          "362",
+          "193",
+          "169",
+          "19",
+          "LA PIEDRILLA",
+          "4",
+          "307",
+          "128",
+          "179",
+          "20",
+          "LA POZA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3",
+          "LA UNIÓN PASO LARGO",
+          "2",
+          "173",
+          "92",
+          "81",
+          "9",
+          "LAS CAÑADAS MARTÍNEZ",
+          "3",
+          "47",
+          "23",
+          "24",
+          "6",
+          "LOMA DE LAS FLORES",
+          "3",
+          "63",
+          "37",
+          "26",
+          "6",
+          "MANANTIALES",
+          "2",
+          "87",
+          "39",
+          "48",
+          "5",
+          "MARÍA DE LA TORRE",
+          "3",
+          "442",
+          "212",
+          "230",
+          "19",
+          "MARTÍNEZ DE LA TORRE",
+          "107",
+          "15,183",
+          "7,754",
+          "7,429",
+          "1,158",
+          "NUEVA ITALIA",
+          "2",
+          "33",
+          "8",
+          "25",
+          "2",
+          "NUEVA SURIANA",
+          "4",
+          "65",
+          "28",
+          "37",
+          "5",
+          "PLAN DE LIMÓN",
+          "3",
+          "102",
+          "54",
+          "48",
+          "10",
+          "PUEBLO VIEJO DOS",
+          "2",
+          "79",
+          "47",
+          "32",
+          "4",
+          "PUEBLO VIEJO UNO",
+          "3",
+          "115",
+          "51",
+          "64",
+          "9",
+          "SALVADOR DÍAZ MIRÓN",
+          "3",
+          "209",
+          "99",
+          "110",
+          "12",
+          "TEPETATE",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2",
+          "TIERRA BLANCA",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "VEGA REDONDA",
+          "2",
+          "184",
+          "87",
+          "97",
+          "12",
+          "ZAPOTE BUENO",
+          "3",
+          "51",
+          "25",
+          "26",
+          "6",
+          "TOTAL",
+          "216",
+          "24,124",
+          "12,124",
+          "12,000",
+          "1,670",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: MARTÍNEZ DE LA TORRE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO BLANCO",
+          "3",
+          "159",
+          "72",
+          "87",
+          "10"
+        ],
+        [
+          "ARROYO DE FIERRO",
+          "3",
+          "83",
+          "42",
+          "41",
+          "6"
+        ],
+        [
+          "ARROYO DEL POTRERO",
+          "3",
+          "273",
+          "141",
+          "132",
+          "15"
+        ],
+        [
+          "ARROYO NEGRO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7"
+        ],
+        [
+          "BALSAS DE AGUA (POZOS DE ORO)",
+          "2",
+          "63",
+          "34",
+          "29",
+          "4"
+        ],
+        [
+          "CARTAGO",
+          "2",
+          "934",
+          "428",
+          "506",
+          "34"
+        ],
+        [
+          "EL DIAMANTE",
+          "2",
+          "72",
+          "35",
+          "37",
+          "6"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL PROGRESO",
+          "3",
+          "183",
+          "95",
+          "88",
+          "12"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "51",
+          "18",
+          "33",
+          "4"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "7",
+          "749",
+          "353",
+          "396",
+          "52"
+        ],
+        [
+          "FLAMENCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "HUIPILTEPEC",
+          "4",
+          "363",
+          "184",
+          "179",
+          "24"
+        ],
+        [
+          "INDEPENDENCIA",
+          "17",
+          "3,284",
+          "1,658",
+          "1,626",
+          "165"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "3",
+          "70",
+          "31",
+          "39",
+          "5"
+        ],
+        [
+          "LA COLMENA",
+          "3",
+          "92",
+          "38",
+          "54",
+          "8"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "362",
+          "193",
+          "169",
+          "19"
+        ],
+        [
+          "LA PIEDRILLA",
+          "4",
+          "307",
+          "128",
+          "179",
+          "20"
+        ],
+        [
+          "LA POZA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3"
+        ],
+        [
+          "LA UNIÓN PASO LARGO",
+          "2",
+          "173",
+          "92",
+          "81",
+          "9"
+        ],
+        [
+          "LAS CAÑADAS MARTÍNEZ",
+          "3",
+          "47",
+          "23",
+          "24",
+          "6"
+        ],
+        [
+          "LOMA DE LAS FLORES",
+          "3",
+          "63",
+          "37",
+          "26",
+          "6"
+        ],
+        [
+          "MANANTIALES",
+          "2",
+          "87",
+          "39",
+          "48",
+          "5"
+        ],
+        [
+          "MARÍA DE LA TORRE",
+          "3",
+          "442",
+          "212",
+          "230",
+          "19"
+        ],
+        [
+          "MARTÍNEZ DE LA TORRE",
+          "107",
+          "15,183",
+          "7,754",
+          "7,429",
+          "1,158"
+        ],
+        [
+          "NUEVA ITALIA",
+          "2",
+          "33",
+          "8",
+          "25",
+          "2"
+        ],
+        [
+          "NUEVA SURIANA",
+          "4",
+          "65",
+          "28",
+          "37",
+          "5"
+        ],
+        [
+          "PLAN DE LIMÓN",
+          "3",
+          "102",
+          "54",
+          "48",
+          "10"
+        ],
+        [
+          "PUEBLO VIEJO DOS",
+          "2",
+          "79",
+          "47",
+          "32",
+          "4"
+        ],
+        [
+          "PUEBLO VIEJO UNO",
+          "3",
+          "115",
+          "51",
+          "64",
+          "9"
+        ],
+        [
+          "SALVADOR DÍAZ MIRÓN",
+          "3",
+          "209",
+          "99",
+          "110",
+          "12"
+        ],
+        [
+          "TEPETATE",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "VEGA REDONDA",
+          "2",
+          "184",
+          "87",
+          "97",
+          "12"
+        ],
+        [
+          "ZAPOTE BUENO",
+          "3",
+          "51",
+          "25",
+          "26",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "216",
+          "24,124",
+          "12,124",
+          "12,000",
+          "1,670"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: MARTÍNEZ DE LA TORRE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO BLANCO",
+          "3",
+          "159",
+          "72",
+          "87",
+          "10"
+        ],
+        [
+          "ARROYO DE FIERRO",
+          "3",
+          "83",
+          "42",
+          "41",
+          "6"
+        ],
+        [
+          "ARROYO DEL POTRERO",
+          "3",
+          "273",
+          "141",
+          "132",
+          "15"
+        ],
+        [
+          "ARROYO NEGRO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7"
+        ],
+        [
+          "BALSAS DE AGUA (POZOS DE ORO)",
+          "2",
+          "63",
+          "34",
+          "29",
+          "4"
+        ],
+        [
+          "CARTAGO",
+          "2",
+          "934",
+          "428",
+          "506",
+          "34"
+        ],
+        [
+          "EL DIAMANTE",
+          "2",
+          "72",
+          "35",
+          "37",
+          "6"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL PROGRESO",
+          "3",
+          "183",
+          "95",
+          "88",
+          "12"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "51",
+          "18",
+          "33",
+          "4"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "7",
+          "749",
+          "353",
+          "396",
+          "52"
+        ],
+        [
+          "FLAMENCOS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5"
+        ],
+        [
+          "GRACIANO SÁNCHEZ",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "HUIPILTEPEC",
+          "4",
+          "363",
+          "184",
+          "179",
+          "24"
+        ],
+        [
+          "INDEPENDENCIA",
+          "17",
+          "3,284",
+          "1,658",
+          "1,626",
+          "165"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "3",
+          "70",
+          "31",
+          "39",
+          "5"
+        ],
+        [
+          "LA COLMENA",
+          "3",
+          "92",
+          "38",
+          "54",
+          "8"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "362",
+          "193",
+          "169",
+          "19"
+        ],
+        [
+          "LA PIEDRILLA",
+          "4",
+          "307",
+          "128",
+          "179",
+          "20"
+        ],
+        [
+          "LA POZA",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3"
+        ],
+        [
+          "LA UNIÓN PASO LARGO",
+          "2",
+          "173",
+          "92",
+          "81",
+          "9"
+        ],
+        [
+          "LAS CAÑADAS MARTÍNEZ",
+          "3",
+          "47",
+          "23",
+          "24",
+          "6"
+        ],
+        [
+          "LOMA DE LAS FLORES",
+          "3",
+          "63",
+          "37",
+          "26",
+          "6"
+        ],
+        [
+          "MANANTIALES",
+          "2",
+          "87",
+          "39",
+          "48",
+          "5"
+        ],
+        [
+          "MARÍA DE LA TORRE",
+          "3",
+          "442",
+          "212",
+          "230",
+          "19"
+        ],
+        [
+          "MARTÍNEZ DE LA TORRE",
+          "107",
+          "15,183",
+          "7,754",
+          "7,429",
+          "1,158"
+        ],
+        [
+          "NUEVA ITALIA",
+          "2",
+          "33",
+          "8",
+          "25",
+          "2"
+        ],
+        [
+          "NUEVA SURIANA",
+          "4",
+          "65",
+          "28",
+          "37",
+          "5"
+        ],
+        [
+          "PLAN DE LIMÓN",
+          "3",
+          "102",
+          "54",
+          "48",
+          "10"
+        ],
+        [
+          "PUEBLO VIEJO DOS",
+          "2",
+          "79",
+          "47",
+          "32",
+          "4"
+        ],
+        [
+          "PUEBLO VIEJO UNO",
+          "3",
+          "115",
+          "51",
+          "64",
+          "9"
+        ],
+        [
+          "SALVADOR DÍAZ MIRÓN",
+          "3",
+          "209",
+          "99",
+          "110",
+          "12"
+        ],
+        [
+          "TEPETATE",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "VEGA REDONDA",
+          "2",
+          "184",
+          "87",
+          "97",
+          "12"
+        ],
+        [
+          "ZAPOTE BUENO",
+          "3",
+          "51",
+          "25",
+          "26",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "216",
+          "24,124",
+          "12,124",
+          "12,000",
+          "1,670"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:48:25.243Z"
+}

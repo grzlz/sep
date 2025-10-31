@@ -1,0 +1,604 @@
+{
+  "municipality": "GENERAL PÁNFILO NATERA",
+  "municipalityCode": "016",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: GENERAL PÁNFILO NATERA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA AURELIO PÁMANES ESCOBEDO (EL SOCORRO)\n\t\t3\n\t\t87\n\t\t45\n\t\t42\n\t\t5\n\t\n\t\n\t\tCOLONIA LAS AMAPOLAS\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL MARÍN (MARÍN)\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL SAUCITO (EL HORNO)\n\t\t6\n\t\t943\n\t\t472\n\t\t471\n\t\t70\n\t\n\t\n\t\tEL TULE\n\t\t3\n\t\t339\n\t\t178\n\t\t161\n\t\t18\n\t\n\t\n\t\tGENERAL PÁNFILO NATERA\n\t\t7\n\t\t1,144\n\t\t544\n\t\t600\n\t\t64\n\t\n\t\n\t\tGUANAJUATILLO\n\t\t4\n\t\t268\n\t\t134\n\t\t134\n\t\t14\n\t\n\t\n\t\tLA CANDELARIA\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA HACIENDITA\n\t\t3\n\t\t45\n\t\t20\n\t\t25\n\t\t3\n\t\n\t\n\t\tLA PRESA DEL COLORADITO\n\t\t3\n\t\t64\n\t\t33\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA TESORERA (BAJÍO DE LA TESORERA)\n\t\t3\n\t\t380\n\t\t208\n\t\t172\n\t\t19\n\t\n\t\n\t\tLA UNIÓN DE SAN ANTONIO (UNIÓN DE LAS BORREGAS)\n\t\t3\n\t\t215\n\t\t110\n\t\t105\n\t\t11\n\t\n\t\n\t\tNINGUNO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tNORIA DEL CERRO DE SANTIAGO (EL CERRO)\n\t\t3\n\t\t71\n\t\t37\n\t\t34\n\t\t5\n\t\n\t\n\t\tPROVIDENCIA\n\t\t3\n\t\t85\n\t\t40\n\t\t45\n\t\t5\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t4\n\t\t238\n\t\t110\n\t\t128\n\t\t12\n\t\n\t\n\t\tSAN ANTONIO DEL BORDO\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ EL SALADILLO (EL SALADILLO)\n\t\t5\n\t\t702\n\t\t368\n\t\t334\n\t\t33\n\t\n\t\n\t\tSAN PABLO\n\t\t5\n\t\t505\n\t\t271\n\t\t234\n\t\t38\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tSAN RAMÓN\n\t\t3\n\t\t161\n\t\t74\n\t\t87\n\t\t9\n\t\n\t\n\t\tSANTA ELENA (FRANCISCO ZARCO)\n\t\t3\n\t\t479\n\t\t253\n\t\t226\n\t\t22\n\t\n\t\n\t\tTAHONAS\n\t\t3\n\t\t72\n\t\t34\n\t\t38\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t73\n\t\t5,893\n\t\t2,974\n\t\t2,919\n\t\t346\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: GENERAL PÁNFILO NATERA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA AURELIO PÁMANES ESCOBEDO (EL SOCORRO)",
+          "3",
+          "87",
+          "45",
+          "42",
+          "5",
+          "COLONIA LAS AMAPOLAS",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "EL MARÍN (MARÍN)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "EL SAUCITO (EL HORNO)",
+          "6",
+          "943",
+          "472",
+          "471",
+          "70",
+          "EL TULE",
+          "3",
+          "339",
+          "178",
+          "161",
+          "18",
+          "GENERAL PÁNFILO NATERA",
+          "7",
+          "1,144",
+          "544",
+          "600",
+          "64",
+          "GUANAJUATILLO",
+          "4",
+          "268",
+          "134",
+          "134",
+          "14",
+          "LA CANDELARIA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LA HACIENDITA",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3",
+          "LA PRESA DEL COLORADITO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4",
+          "LA TESORERA (BAJÍO DE LA TESORERA)",
+          "3",
+          "380",
+          "208",
+          "172",
+          "19",
+          "LA UNIÓN DE SAN ANTONIO (UNIÓN DE LAS BORREGAS)",
+          "3",
+          "215",
+          "110",
+          "105",
+          "11",
+          "NINGUNO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "NORIA DEL CERRO DE SANTIAGO (EL CERRO)",
+          "3",
+          "71",
+          "37",
+          "34",
+          "5",
+          "PROVIDENCIA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "5",
+          "RANCHO NUEVO",
+          "4",
+          "238",
+          "110",
+          "128",
+          "12",
+          "SAN ANTONIO DEL BORDO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "SAN JOSÉ EL SALADILLO (EL SALADILLO)",
+          "5",
+          "702",
+          "368",
+          "334",
+          "33",
+          "SAN PABLO",
+          "5",
+          "505",
+          "271",
+          "234",
+          "38",
+          "SAN RAFAEL",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3",
+          "SAN RAMÓN",
+          "3",
+          "161",
+          "74",
+          "87",
+          "9",
+          "SANTA ELENA (FRANCISCO ZARCO)",
+          "3",
+          "479",
+          "253",
+          "226",
+          "22",
+          "TAHONAS",
+          "3",
+          "72",
+          "34",
+          "38",
+          "4",
+          "TOTAL",
+          "73",
+          "5,893",
+          "2,974",
+          "2,919",
+          "346",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: GENERAL PÁNFILO NATERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA AURELIO PÁMANES ESCOBEDO (EL SOCORRO)",
+          "3",
+          "87",
+          "45",
+          "42",
+          "5"
+        ],
+        [
+          "COLONIA LAS AMAPOLAS",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL MARÍN (MARÍN)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL SAUCITO (EL HORNO)",
+          "6",
+          "943",
+          "472",
+          "471",
+          "70"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "339",
+          "178",
+          "161",
+          "18"
+        ],
+        [
+          "GENERAL PÁNFILO NATERA",
+          "7",
+          "1,144",
+          "544",
+          "600",
+          "64"
+        ],
+        [
+          "GUANAJUATILLO",
+          "4",
+          "268",
+          "134",
+          "134",
+          "14"
+        ],
+        [
+          "LA CANDELARIA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA HACIENDITA",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "LA PRESA DEL COLORADITO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "LA TESORERA (BAJÍO DE LA TESORERA)",
+          "3",
+          "380",
+          "208",
+          "172",
+          "19"
+        ],
+        [
+          "LA UNIÓN DE SAN ANTONIO (UNIÓN DE LAS BORREGAS)",
+          "3",
+          "215",
+          "110",
+          "105",
+          "11"
+        ],
+        [
+          "NINGUNO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NORIA DEL CERRO DE SANTIAGO (EL CERRO)",
+          "3",
+          "71",
+          "37",
+          "34",
+          "5"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO",
+          "4",
+          "238",
+          "110",
+          "128",
+          "12"
+        ],
+        [
+          "SAN ANTONIO DEL BORDO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JOSÉ EL SALADILLO (EL SALADILLO)",
+          "5",
+          "702",
+          "368",
+          "334",
+          "33"
+        ],
+        [
+          "SAN PABLO",
+          "5",
+          "505",
+          "271",
+          "234",
+          "38"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "161",
+          "74",
+          "87",
+          "9"
+        ],
+        [
+          "SANTA ELENA (FRANCISCO ZARCO)",
+          "3",
+          "479",
+          "253",
+          "226",
+          "22"
+        ],
+        [
+          "TAHONAS",
+          "3",
+          "72",
+          "34",
+          "38",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "5,893",
+          "2,974",
+          "2,919",
+          "346"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: GENERAL PÁNFILO NATERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA AURELIO PÁMANES ESCOBEDO (EL SOCORRO)",
+          "3",
+          "87",
+          "45",
+          "42",
+          "5"
+        ],
+        [
+          "COLONIA LAS AMAPOLAS",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL MARÍN (MARÍN)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "EL SAUCITO (EL HORNO)",
+          "6",
+          "943",
+          "472",
+          "471",
+          "70"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "339",
+          "178",
+          "161",
+          "18"
+        ],
+        [
+          "GENERAL PÁNFILO NATERA",
+          "7",
+          "1,144",
+          "544",
+          "600",
+          "64"
+        ],
+        [
+          "GUANAJUATILLO",
+          "4",
+          "268",
+          "134",
+          "134",
+          "14"
+        ],
+        [
+          "LA CANDELARIA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA HACIENDITA",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "LA PRESA DEL COLORADITO",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "LA TESORERA (BAJÍO DE LA TESORERA)",
+          "3",
+          "380",
+          "208",
+          "172",
+          "19"
+        ],
+        [
+          "LA UNIÓN DE SAN ANTONIO (UNIÓN DE LAS BORREGAS)",
+          "3",
+          "215",
+          "110",
+          "105",
+          "11"
+        ],
+        [
+          "NINGUNO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NORIA DEL CERRO DE SANTIAGO (EL CERRO)",
+          "3",
+          "71",
+          "37",
+          "34",
+          "5"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO",
+          "4",
+          "238",
+          "110",
+          "128",
+          "12"
+        ],
+        [
+          "SAN ANTONIO DEL BORDO",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JOSÉ EL SALADILLO (EL SALADILLO)",
+          "5",
+          "702",
+          "368",
+          "334",
+          "33"
+        ],
+        [
+          "SAN PABLO",
+          "5",
+          "505",
+          "271",
+          "234",
+          "38"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "SAN RAMÓN",
+          "3",
+          "161",
+          "74",
+          "87",
+          "9"
+        ],
+        [
+          "SANTA ELENA (FRANCISCO ZARCO)",
+          "3",
+          "479",
+          "253",
+          "226",
+          "22"
+        ],
+        [
+          "TAHONAS",
+          "3",
+          "72",
+          "34",
+          "38",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "5,893",
+          "2,974",
+          "2,919",
+          "346"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:51:09.512Z"
+}

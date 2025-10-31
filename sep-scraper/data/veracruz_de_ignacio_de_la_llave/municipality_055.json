@@ -1,0 +1,582 @@
+{
+  "municipality": "CHALMA",
+  "municipalityCode": "055",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHALMA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATZINTLA\n\t\t1\n\t\t24\n\t\t12\n\t\t12\n\t\t4\n\t\n\t\n\t\tAMATITLÁN DE ABAJO\n\t\t2\n\t\t28\n\t\t11\n\t\t17\n\t\t3\n\t\n\t\n\t\tAQUIXCUATITLA\n\t\t3\n\t\t94\n\t\t43\n\t\t51\n\t\t10\n\t\n\t\n\t\tCACALACA\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tCHALMA\n\t\t7\n\t\t539\n\t\t282\n\t\t257\n\t\t45\n\t\n\t\n\t\tCHAMIZAL\n\t\t5\n\t\t87\n\t\t43\n\t\t44\n\t\t13\n\t\n\t\n\t\tCHAPOPOTE CHICO (TLACHINOLAPA)\n\t\t7\n\t\t155\n\t\t82\n\t\t73\n\t\t25\n\t\n\t\n\t\tCUATEPIXTLA\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL AGUACATE CHICO\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL CERRO\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL PINTOR\n\t\t6\n\t\t512\n\t\t272\n\t\t240\n\t\t43\n\t\n\t\n\t\tLA BARRANCA\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t4\n\t\n\t\n\t\tLA LAJA\n\t\t3\n\t\t45\n\t\t18\n\t\t27\n\t\t6\n\t\n\t\n\t\tLA PUERTA\n\t\t2\n\t\t34\n\t\t21\n\t\t13\n\t\t4\n\t\n\t\n\t\tLAS PILAS\n\t\t2\n\t\t68\n\t\t31\n\t\t37\n\t\t9\n\t\n\t\n\t\tMESA DEL ANONO\n\t\t2\n\t\t33\n\t\t19\n\t\t14\n\t\t3\n\t\n\t\n\t\tSAN PEDRO COYUTLA\n\t\t6\n\t\t420\n\t\t196\n\t\t224\n\t\t27\n\t\n\t\n\t\tSANTA QUITERÍA\n\t\t3\n\t\t58\n\t\t28\n\t\t30\n\t\t5\n\t\n\t\n\t\tTAXTITLA\n\t\t2\n\t\t51\n\t\t28\n\t\t23\n\t\t5\n\t\n\t\n\t\tTENEXCO\n\t\t2\n\t\t35\n\t\t11\n\t\t24\n\t\t5\n\t\n\t\n\t\tTEPECHICA\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tZAPOTITLA\n\t\t3\n\t\t21\n\t\t10\n\t\t11\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t66\n\t\t2,301\n\t\t1,151\n\t\t1,150\n\t\t225\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHALMA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATZINTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "4",
+          "AMATITLÁN DE ABAJO",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3",
+          "AQUIXCUATITLA",
+          "3",
+          "94",
+          "43",
+          "51",
+          "10",
+          "CACALACA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "CHALMA",
+          "7",
+          "539",
+          "282",
+          "257",
+          "45",
+          "CHAMIZAL",
+          "5",
+          "87",
+          "43",
+          "44",
+          "13",
+          "CHAPOPOTE CHICO (TLACHINOLAPA)",
+          "7",
+          "155",
+          "82",
+          "73",
+          "25",
+          "CUATEPIXTLA",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2",
+          "EL AGUACATE CHICO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3",
+          "EL CERRO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3",
+          "EL PINTOR",
+          "6",
+          "512",
+          "272",
+          "240",
+          "43",
+          "LA BARRANCA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "4",
+          "LA LAJA",
+          "3",
+          "45",
+          "18",
+          "27",
+          "6",
+          "LA PUERTA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "4",
+          "LAS PILAS",
+          "2",
+          "68",
+          "31",
+          "37",
+          "9",
+          "MESA DEL ANONO",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3",
+          "SAN PEDRO COYUTLA",
+          "6",
+          "420",
+          "196",
+          "224",
+          "27",
+          "SANTA QUITERÍA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "5",
+          "TAXTITLA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "5",
+          "TENEXCO",
+          "2",
+          "35",
+          "11",
+          "24",
+          "5",
+          "TEPECHICA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "ZAPOTITLA",
+          "3",
+          "21",
+          "10",
+          "11",
+          "4",
+          "TOTAL",
+          "66",
+          "2,301",
+          "1,151",
+          "1,150",
+          "225",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHALMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATZINTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "4"
+        ],
+        [
+          "AMATITLÁN DE ABAJO",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3"
+        ],
+        [
+          "AQUIXCUATITLA",
+          "3",
+          "94",
+          "43",
+          "51",
+          "10"
+        ],
+        [
+          "CACALACA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "CHALMA",
+          "7",
+          "539",
+          "282",
+          "257",
+          "45"
+        ],
+        [
+          "CHAMIZAL",
+          "5",
+          "87",
+          "43",
+          "44",
+          "13"
+        ],
+        [
+          "CHAPOPOTE CHICO (TLACHINOLAPA)",
+          "7",
+          "155",
+          "82",
+          "73",
+          "25"
+        ],
+        [
+          "CUATEPIXTLA",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "EL AGUACATE CHICO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "EL PINTOR",
+          "6",
+          "512",
+          "272",
+          "240",
+          "43"
+        ],
+        [
+          "LA BARRANCA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "4"
+        ],
+        [
+          "LA LAJA",
+          "3",
+          "45",
+          "18",
+          "27",
+          "6"
+        ],
+        [
+          "LA PUERTA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "4"
+        ],
+        [
+          "LAS PILAS",
+          "2",
+          "68",
+          "31",
+          "37",
+          "9"
+        ],
+        [
+          "MESA DEL ANONO",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3"
+        ],
+        [
+          "SAN PEDRO COYUTLA",
+          "6",
+          "420",
+          "196",
+          "224",
+          "27"
+        ],
+        [
+          "SANTA QUITERÍA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "TAXTITLA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "5"
+        ],
+        [
+          "TENEXCO",
+          "2",
+          "35",
+          "11",
+          "24",
+          "5"
+        ],
+        [
+          "TEPECHICA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "ZAPOTITLA",
+          "3",
+          "21",
+          "10",
+          "11",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "66",
+          "2,301",
+          "1,151",
+          "1,150",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHALMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATZINTLA",
+          "1",
+          "24",
+          "12",
+          "12",
+          "4"
+        ],
+        [
+          "AMATITLÁN DE ABAJO",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3"
+        ],
+        [
+          "AQUIXCUATITLA",
+          "3",
+          "94",
+          "43",
+          "51",
+          "10"
+        ],
+        [
+          "CACALACA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "CHALMA",
+          "7",
+          "539",
+          "282",
+          "257",
+          "45"
+        ],
+        [
+          "CHAMIZAL",
+          "5",
+          "87",
+          "43",
+          "44",
+          "13"
+        ],
+        [
+          "CHAPOPOTE CHICO (TLACHINOLAPA)",
+          "7",
+          "155",
+          "82",
+          "73",
+          "25"
+        ],
+        [
+          "CUATEPIXTLA",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "EL AGUACATE CHICO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "EL PINTOR",
+          "6",
+          "512",
+          "272",
+          "240",
+          "43"
+        ],
+        [
+          "LA BARRANCA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "4"
+        ],
+        [
+          "LA LAJA",
+          "3",
+          "45",
+          "18",
+          "27",
+          "6"
+        ],
+        [
+          "LA PUERTA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "4"
+        ],
+        [
+          "LAS PILAS",
+          "2",
+          "68",
+          "31",
+          "37",
+          "9"
+        ],
+        [
+          "MESA DEL ANONO",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3"
+        ],
+        [
+          "SAN PEDRO COYUTLA",
+          "6",
+          "420",
+          "196",
+          "224",
+          "27"
+        ],
+        [
+          "SANTA QUITERÍA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "TAXTITLA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "5"
+        ],
+        [
+          "TENEXCO",
+          "2",
+          "35",
+          "11",
+          "24",
+          "5"
+        ],
+        [
+          "TEPECHICA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "ZAPOTITLA",
+          "3",
+          "21",
+          "10",
+          "11",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "66",
+          "2,301",
+          "1,151",
+          "1,150",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:43:50.585Z"
+}

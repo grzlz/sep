@@ -1,0 +1,560 @@
+{
+  "municipality": "PUERTO VALLARTA",
+  "municipalityCode": "067",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PUERTO VALLARTA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUACATERA\n\t\t3\n\t\t100\n\t\t43\n\t\t57\n\t\t8\n\t\n\t\n\t\tBOCA DE TOMATLÁN\n\t\t4\n\t\t273\n\t\t140\n\t\t133\n\t\t24\n\t\n\t\n\t\tCOLINAS DEL VALLE\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL CANTÓN\n\t\t5\n\t\t667\n\t\t350\n\t\t317\n\t\t20\n\t\n\t\n\t\tEL COLORADO\n\t\t5\n\t\t809\n\t\t408\n\t\t401\n\t\t27\n\t\n\t\n\t\tEL RANCHITO (EL COLESIO)\n\t\t5\n\t\t843\n\t\t445\n\t\t398\n\t\t28\n\t\n\t\n\t\tEL ZANCUDO\n\t\t2\n\t\t101\n\t\t61\n\t\t40\n\t\t6\n\t\n\t\n\t\tGETSEMANÍ\n\t\t2\n\t\t34\n\t\t12\n\t\t22\n\t\t2\n\t\n\t\n\t\tIXTAPA\n\t\t35\n\t\t15,853\n\t\t8,254\n\t\t7,599\n\t\t859\n\t\n\t\n\t\tLA ARBOLEDA (LOMAS DEL VALLE)\n\t\t2\n\t\t27\n\t\t9\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA PUNTA NEGRA\n\t\t1\n\t\t26\n\t\t7\n\t\t19\n\t\t1\n\t\n\t\n\t\tLAS JUNTAS\n\t\t26\n\t\t5,463\n\t\t2,968\n\t\t2,495\n\t\t364\n\t\n\t\n\t\tLAS PALMAS DE ARRIBA\n\t\t4\n\t\t936\n\t\t494\n\t\t442\n\t\t47\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tLOS LLANITOS\n\t\t4\n\t\t92\n\t\t46\n\t\t46\n\t\t6\n\t\n\t\n\t\tMISMALOYA\n\t\t3\n\t\t202\n\t\t79\n\t\t123\n\t\t11\n\t\n\t\n\t\tPLAYA GRANDE (SAN PEDRO)\n\t\t3\n\t\t126\n\t\t55\n\t\t71\n\t\t6\n\t\n\t\n\t\tPUERTO VALLARTA\n\t\t298\n\t\t57,076\n\t\t29,092\n\t\t27,984\n\t\t3,668\n\t\n\t\n\t\tRANCHO NÁCAR\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t3\n\t\n\t\n\t\tSANTA CRUZ DE QUELITÁN (PALMILLAS)\n\t\t3\n\t\t40\n\t\t18\n\t\t22\n\t\t4\n\t\n\t\n\t\tTEBELCHIA (EL ROBLE)\n\t\t3\n\t\t151\n\t\t76\n\t\t75\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t413\n\t\t82,893\n\t\t42,593\n\t\t40,300\n\t\t5,098\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PUERTO VALLARTA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUACATERA",
+          "3",
+          "100",
+          "43",
+          "57",
+          "8",
+          "BOCA DE TOMATLÁN",
+          "4",
+          "273",
+          "140",
+          "133",
+          "24",
+          "COLINAS DEL VALLE",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3",
+          "EL CANTÓN",
+          "5",
+          "667",
+          "350",
+          "317",
+          "20",
+          "EL COLORADO",
+          "5",
+          "809",
+          "408",
+          "401",
+          "27",
+          "EL RANCHITO (EL COLESIO)",
+          "5",
+          "843",
+          "445",
+          "398",
+          "28",
+          "EL ZANCUDO",
+          "2",
+          "101",
+          "61",
+          "40",
+          "6",
+          "GETSEMANÍ",
+          "2",
+          "34",
+          "12",
+          "22",
+          "2",
+          "IXTAPA",
+          "35",
+          "15,853",
+          "8,254",
+          "7,599",
+          "859",
+          "LA ARBOLEDA (LOMAS DEL VALLE)",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3",
+          "LA PUNTA NEGRA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1",
+          "LAS JUNTAS",
+          "26",
+          "5,463",
+          "2,968",
+          "2,495",
+          "364",
+          "LAS PALMAS DE ARRIBA",
+          "4",
+          "936",
+          "494",
+          "442",
+          "47",
+          "LOS ÁNGELES",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "LOS LLANITOS",
+          "4",
+          "92",
+          "46",
+          "46",
+          "6",
+          "MISMALOYA",
+          "3",
+          "202",
+          "79",
+          "123",
+          "11",
+          "PLAYA GRANDE (SAN PEDRO)",
+          "3",
+          "126",
+          "55",
+          "71",
+          "6",
+          "PUERTO VALLARTA",
+          "298",
+          "57,076",
+          "29,092",
+          "27,984",
+          "3,668",
+          "RANCHO NÁCAR",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3",
+          "SANTA CRUZ DE QUELITÁN (PALMILLAS)",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4",
+          "TEBELCHIA (EL ROBLE)",
+          "3",
+          "151",
+          "76",
+          "75",
+          "7",
+          "TOTAL",
+          "413",
+          "82,893",
+          "42,593",
+          "40,300",
+          "5,098",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PUERTO VALLARTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUACATERA",
+          "3",
+          "100",
+          "43",
+          "57",
+          "8"
+        ],
+        [
+          "BOCA DE TOMATLÁN",
+          "4",
+          "273",
+          "140",
+          "133",
+          "24"
+        ],
+        [
+          "COLINAS DEL VALLE",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "EL CANTÓN",
+          "5",
+          "667",
+          "350",
+          "317",
+          "20"
+        ],
+        [
+          "EL COLORADO",
+          "5",
+          "809",
+          "408",
+          "401",
+          "27"
+        ],
+        [
+          "EL RANCHITO (EL COLESIO)",
+          "5",
+          "843",
+          "445",
+          "398",
+          "28"
+        ],
+        [
+          "EL ZANCUDO",
+          "2",
+          "101",
+          "61",
+          "40",
+          "6"
+        ],
+        [
+          "GETSEMANÍ",
+          "2",
+          "34",
+          "12",
+          "22",
+          "2"
+        ],
+        [
+          "IXTAPA",
+          "35",
+          "15,853",
+          "8,254",
+          "7,599",
+          "859"
+        ],
+        [
+          "LA ARBOLEDA (LOMAS DEL VALLE)",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "LA PUNTA NEGRA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1"
+        ],
+        [
+          "LAS JUNTAS",
+          "26",
+          "5,463",
+          "2,968",
+          "2,495",
+          "364"
+        ],
+        [
+          "LAS PALMAS DE ARRIBA",
+          "4",
+          "936",
+          "494",
+          "442",
+          "47"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LOS LLANITOS",
+          "4",
+          "92",
+          "46",
+          "46",
+          "6"
+        ],
+        [
+          "MISMALOYA",
+          "3",
+          "202",
+          "79",
+          "123",
+          "11"
+        ],
+        [
+          "PLAYA GRANDE (SAN PEDRO)",
+          "3",
+          "126",
+          "55",
+          "71",
+          "6"
+        ],
+        [
+          "PUERTO VALLARTA",
+          "298",
+          "57,076",
+          "29,092",
+          "27,984",
+          "3,668"
+        ],
+        [
+          "RANCHO NÁCAR",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "SANTA CRUZ DE QUELITÁN (PALMILLAS)",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "TEBELCHIA (EL ROBLE)",
+          "3",
+          "151",
+          "76",
+          "75",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "413",
+          "82,893",
+          "42,593",
+          "40,300",
+          "5,098"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PUERTO VALLARTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUACATERA",
+          "3",
+          "100",
+          "43",
+          "57",
+          "8"
+        ],
+        [
+          "BOCA DE TOMATLÁN",
+          "4",
+          "273",
+          "140",
+          "133",
+          "24"
+        ],
+        [
+          "COLINAS DEL VALLE",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "EL CANTÓN",
+          "5",
+          "667",
+          "350",
+          "317",
+          "20"
+        ],
+        [
+          "EL COLORADO",
+          "5",
+          "809",
+          "408",
+          "401",
+          "27"
+        ],
+        [
+          "EL RANCHITO (EL COLESIO)",
+          "5",
+          "843",
+          "445",
+          "398",
+          "28"
+        ],
+        [
+          "EL ZANCUDO",
+          "2",
+          "101",
+          "61",
+          "40",
+          "6"
+        ],
+        [
+          "GETSEMANÍ",
+          "2",
+          "34",
+          "12",
+          "22",
+          "2"
+        ],
+        [
+          "IXTAPA",
+          "35",
+          "15,853",
+          "8,254",
+          "7,599",
+          "859"
+        ],
+        [
+          "LA ARBOLEDA (LOMAS DEL VALLE)",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "LA PUNTA NEGRA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1"
+        ],
+        [
+          "LAS JUNTAS",
+          "26",
+          "5,463",
+          "2,968",
+          "2,495",
+          "364"
+        ],
+        [
+          "LAS PALMAS DE ARRIBA",
+          "4",
+          "936",
+          "494",
+          "442",
+          "47"
+        ],
+        [
+          "LOS ÁNGELES",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LOS LLANITOS",
+          "4",
+          "92",
+          "46",
+          "46",
+          "6"
+        ],
+        [
+          "MISMALOYA",
+          "3",
+          "202",
+          "79",
+          "123",
+          "11"
+        ],
+        [
+          "PLAYA GRANDE (SAN PEDRO)",
+          "3",
+          "126",
+          "55",
+          "71",
+          "6"
+        ],
+        [
+          "PUERTO VALLARTA",
+          "298",
+          "57,076",
+          "29,092",
+          "27,984",
+          "3,668"
+        ],
+        [
+          "RANCHO NÁCAR",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "SANTA CRUZ DE QUELITÁN (PALMILLAS)",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "TEBELCHIA (EL ROBLE)",
+          "3",
+          "151",
+          "76",
+          "75",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "413",
+          "82,893",
+          "42,593",
+          "40,300",
+          "5,098"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:16:15.640Z"
+}

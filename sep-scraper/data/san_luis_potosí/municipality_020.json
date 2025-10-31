@@ -1,0 +1,1242 @@
+{
+  "municipality": "MATEHUALA",
+  "municipalityCode": "020",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: MATEHUALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYITO DEL AGUA\n\t\t3\n\t\t61\n\t\t35\n\t\t26\n\t\t4\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t53\n\t\t25\n\t\t28\n\t\t4\n\t\n\t\n\t\tCARBONERA\n\t\t3\n\t\t70\n\t\t36\n\t\t34\n\t\t5\n\t\n\t\n\t\tCERRITO BLANCO\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tCRUCERO LA LUZ\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL CARMEN\n\t\t3\n\t\t114\n\t\t58\n\t\t56\n\t\t8\n\t\n\t\n\t\tEL GUERRERO\n\t\t1\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL HERRERO\n\t\t2\n\t\t57\n\t\t28\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL MEZQUITE\n\t\t3\n\t\t71\n\t\t37\n\t\t34\n\t\t4\n\t\n\t\n\t\tEL VAQUERO\n\t\t4\n\t\t129\n\t\t61\n\t\t68\n\t\t9\n\t\n\t\n\t\tENCARNACIÓN DE ABAJO\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t2\n\t\n\t\n\t\tESTANQUE DE AGUA BUENA\n\t\t3\n\t\t89\n\t\t49\n\t\t40\n\t\t5\n\t\n\t\n\t\tLA BONITA\n\t\t3\n\t\t14\n\t\t7\n\t\t7\n\t\t3\n\t\n\t\n\t\tLA CAJA\n\t\t3\n\t\t45\n\t\t24\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t3\n\t\t78\n\t\t36\n\t\t42\n\t\t4\n\t\n\t\n\t\tLA JOYA\n\t\t3\n\t\t36\n\t\t19\n\t\t17\n\t\t4\n\t\n\t\n\t\tLA LUZ\n\t\t2\n\t\t9\n\t\t1\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA MISIÓN\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS POCITOS\n\t\t3\n\t\t55\n\t\t25\n\t\t30\n\t\t4\n\t\n\t\n\t\tMARAVILLAS\n\t\t3\n\t\t30\n\t\t14\n\t\t16\n\t\t3\n\t\n\t\n\t\tMATEHUALA\n\t\t129\n\t\t22,595\n\t\t11,431\n\t\t11,164\n\t\t1,546\n\t\n\t\n\t\tNORIA DE LA CABRA\n\t\t3\n\t\t165\n\t\t74\n\t\t91\n\t\t10\n\t\n\t\n\t\tNORIA DE LOS CASTILLOS\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tPALMAS\n\t\t1\n\t\t22\n\t\t11\n\t\t11\n\t\t1\n\t\n\t\n\t\tPASTORIZA\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t5\n\t\n\t\n\t\tPIEDRA BLANCA\n\t\t3\n\t\t35\n\t\t13\n\t\t22\n\t\t4\n\t\n\t\n\t\tPOTRERO DE SANTA ANA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tPOZO DE SANTA CLARA\n\t\t3\n\t\t51\n\t\t23\n\t\t28\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t3\n\t\t127\n\t\t66\n\t\t61\n\t\t9\n\t\n\t\n\t\tSACRAMENTO\n\t\t3\n\t\t129\n\t\t60\n\t\t69\n\t\t8\n\t\n\t\n\t\tSAN ANTONIO DE LAS BARRANCAS\n\t\t3\n\t\t45\n\t\t24\n\t\t21\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO DE LOS CASTILLO\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO DE ZARAGOZA\n\t\t3\n\t\t82\n\t\t40\n\t\t42\n\t\t6\n\t\n\t\n\t\tSAN CARLOS\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO DE CALEROS\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO DE LOS BOCANEGRA\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN GABRIEL\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE IPOA\n\t\t2\n\t\t34\n\t\t21\n\t\t13\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LA PEÑA\n\t\t3\n\t\t42\n\t\t13\n\t\t29\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LA VIUDA (ESTANQUE BLANCO)\n\t\t3\n\t\t58\n\t\t27\n\t\t31\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ DE LAS TROJES\n\t\t4\n\t\t1,225\n\t\t622\n\t\t603\n\t\t16\n\t\n\t\n\t\tSAN JOSÉ DE LOS GUAJES\n\t\t3\n\t\t86\n\t\t36\n\t\t50\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DE LOS SOTOLES\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL PLAN\n\t\t3\n\t\t33\n\t\t22\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t66\n\t\t24\n\t\t42\n\t\t4\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t24\n\t\t17\n\t\t7\n\t\t2\n\t\n\t\n\t\tSANTA BRÍGIDA\n\t\t3\n\t\t88\n\t\t42\n\t\t46\n\t\t6\n\t\n\t\n\t\tSANTA CRUZ\n\t\t4\n\t\t160\n\t\t85\n\t\t75\n\t\t11\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t4\n\t\t444\n\t\t217\n\t\t227\n\t\t46\n\t\n\t\n\t\tTANQUE COLORADO\n\t\t4\n\t\t223\n\t\t122\n\t\t101\n\t\t14\n\t\n\t\n\t\tTROJE DE LOS MORENO\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tVIBORILLAS\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t264\n\t\t26,984\n\t\t13,601\n\t\t13,383\n\t\t1,804\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: MATEHUALA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYITO DEL AGUA",
+          "3",
+          "61",
+          "35",
+          "26",
+          "4",
+          "BUENAVISTA",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4",
+          "CARBONERA",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5",
+          "CERRITO BLANCO",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2",
+          "CRUCERO LA LUZ",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1",
+          "EL CARMEN",
+          "3",
+          "114",
+          "58",
+          "56",
+          "8",
+          "EL GUERRERO",
+          "1",
+          "23",
+          "8",
+          "15",
+          "2",
+          "EL HERRERO",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3",
+          "EL MEZQUITE",
+          "3",
+          "71",
+          "37",
+          "34",
+          "4",
+          "EL VAQUERO",
+          "4",
+          "129",
+          "61",
+          "68",
+          "9",
+          "ENCARNACIÓN DE ABAJO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2",
+          "ESTANQUE DE AGUA BUENA",
+          "3",
+          "89",
+          "49",
+          "40",
+          "5",
+          "LA BONITA",
+          "3",
+          "14",
+          "7",
+          "7",
+          "3",
+          "LA CAJA",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4",
+          "LA CONCEPCIÓN",
+          "3",
+          "78",
+          "36",
+          "42",
+          "4",
+          "LA JOYA",
+          "3",
+          "36",
+          "19",
+          "17",
+          "4",
+          "LA LUZ",
+          "2",
+          "9",
+          "1",
+          "8",
+          "1",
+          "LA MISIÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "LOS POCITOS",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4",
+          "MARAVILLAS",
+          "3",
+          "30",
+          "14",
+          "16",
+          "3",
+          "MATEHUALA",
+          "129",
+          "22,595",
+          "11,431",
+          "11,164",
+          "1,546",
+          "NORIA DE LA CABRA",
+          "3",
+          "165",
+          "74",
+          "91",
+          "10",
+          "NORIA DE LOS CASTILLOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "PALMAS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1",
+          "PASTORIZA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5",
+          "PIEDRA BLANCA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "4",
+          "POTRERO DE SANTA ANA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "POZO DE SANTA CLARA",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3",
+          "RANCHO NUEVO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "9",
+          "SACRAMENTO",
+          "3",
+          "129",
+          "60",
+          "69",
+          "8",
+          "SAN ANTONIO DE LAS BARRANCAS",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4",
+          "SAN ANTONIO DE LOS CASTILLO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2",
+          "SAN ANTONIO DE ZARAGOZA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "6",
+          "SAN CARLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "SAN FRANCISCO DE CALEROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "SAN FRANCISCO DE LOS BOCANEGRA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SAN GABRIEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "SAN JOSÉ DE IPOA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "3",
+          "SAN JOSÉ DE LA PEÑA",
+          "3",
+          "42",
+          "13",
+          "29",
+          "3",
+          "SAN JOSÉ DE LA VIUDA (ESTANQUE BLANCO)",
+          "3",
+          "58",
+          "27",
+          "31",
+          "4",
+          "SAN JOSÉ DE LAS TROJES",
+          "4",
+          "1,225",
+          "622",
+          "603",
+          "16",
+          "SAN JOSÉ DE LOS GUAJES",
+          "3",
+          "86",
+          "36",
+          "50",
+          "5",
+          "SAN JOSÉ DE LOS SOTOLES",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2",
+          "SAN JOSÉ DEL PLAN",
+          "3",
+          "33",
+          "22",
+          "11",
+          "3",
+          "SAN MIGUEL",
+          "3",
+          "66",
+          "24",
+          "42",
+          "4",
+          "SAN RAFAEL",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2",
+          "SANTA BRÍGIDA",
+          "3",
+          "88",
+          "42",
+          "46",
+          "6",
+          "SANTA CRUZ",
+          "4",
+          "160",
+          "85",
+          "75",
+          "11",
+          "SANTA LUCÍA",
+          "4",
+          "444",
+          "217",
+          "227",
+          "46",
+          "TANQUE COLORADO",
+          "4",
+          "223",
+          "122",
+          "101",
+          "14",
+          "TROJE DE LOS MORENO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1",
+          "VIBORILLAS",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3",
+          "TOTAL",
+          "264",
+          "26,984",
+          "13,601",
+          "13,383",
+          "1,804",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: MATEHUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYITO DEL AGUA",
+          "3",
+          "61",
+          "35",
+          "26",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4"
+        ],
+        [
+          "CARBONERA",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5"
+        ],
+        [
+          "CERRITO BLANCO",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "CRUCERO LA LUZ",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "EL CARMEN",
+          "3",
+          "114",
+          "58",
+          "56",
+          "8"
+        ],
+        [
+          "EL GUERRERO",
+          "1",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "EL HERRERO",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "71",
+          "37",
+          "34",
+          "4"
+        ],
+        [
+          "EL VAQUERO",
+          "4",
+          "129",
+          "61",
+          "68",
+          "9"
+        ],
+        [
+          "ENCARNACIÓN DE ABAJO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "ESTANQUE DE AGUA BUENA",
+          "3",
+          "89",
+          "49",
+          "40",
+          "5"
+        ],
+        [
+          "LA BONITA",
+          "3",
+          "14",
+          "7",
+          "7",
+          "3"
+        ],
+        [
+          "LA CAJA",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "3",
+          "78",
+          "36",
+          "42",
+          "4"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "36",
+          "19",
+          "17",
+          "4"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "9",
+          "1",
+          "8",
+          "1"
+        ],
+        [
+          "LA MISIÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "MARAVILLAS",
+          "3",
+          "30",
+          "14",
+          "16",
+          "3"
+        ],
+        [
+          "MATEHUALA",
+          "129",
+          "22,595",
+          "11,431",
+          "11,164",
+          "1,546"
+        ],
+        [
+          "NORIA DE LA CABRA",
+          "3",
+          "165",
+          "74",
+          "91",
+          "10"
+        ],
+        [
+          "NORIA DE LOS CASTILLOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "PALMAS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "PASTORIZA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5"
+        ],
+        [
+          "PIEDRA BLANCA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "4"
+        ],
+        [
+          "POTRERO DE SANTA ANA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "POZO DE SANTA CLARA",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "9"
+        ],
+        [
+          "SACRAMENTO",
+          "3",
+          "129",
+          "60",
+          "69",
+          "8"
+        ],
+        [
+          "SAN ANTONIO DE LAS BARRANCAS",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LOS CASTILLO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE ZARAGOZA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "6"
+        ],
+        [
+          "SAN CARLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE CALEROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE LOS BOCANEGRA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE IPOA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA PEÑA",
+          "3",
+          "42",
+          "13",
+          "29",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA VIUDA (ESTANQUE BLANCO)",
+          "3",
+          "58",
+          "27",
+          "31",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE LAS TROJES",
+          "4",
+          "1,225",
+          "622",
+          "603",
+          "16"
+        ],
+        [
+          "SAN JOSÉ DE LOS GUAJES",
+          "3",
+          "86",
+          "36",
+          "50",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE LOS SOTOLES",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL PLAN",
+          "3",
+          "33",
+          "22",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "66",
+          "24",
+          "42",
+          "4"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA BRÍGIDA",
+          "3",
+          "88",
+          "42",
+          "46",
+          "6"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "160",
+          "85",
+          "75",
+          "11"
+        ],
+        [
+          "SANTA LUCÍA",
+          "4",
+          "444",
+          "217",
+          "227",
+          "46"
+        ],
+        [
+          "TANQUE COLORADO",
+          "4",
+          "223",
+          "122",
+          "101",
+          "14"
+        ],
+        [
+          "TROJE DE LOS MORENO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "VIBORILLAS",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "264",
+          "26,984",
+          "13,601",
+          "13,383",
+          "1,804"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: MATEHUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYITO DEL AGUA",
+          "3",
+          "61",
+          "35",
+          "26",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4"
+        ],
+        [
+          "CARBONERA",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5"
+        ],
+        [
+          "CERRITO BLANCO",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "CRUCERO LA LUZ",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "EL CARMEN",
+          "3",
+          "114",
+          "58",
+          "56",
+          "8"
+        ],
+        [
+          "EL GUERRERO",
+          "1",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "EL HERRERO",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "71",
+          "37",
+          "34",
+          "4"
+        ],
+        [
+          "EL VAQUERO",
+          "4",
+          "129",
+          "61",
+          "68",
+          "9"
+        ],
+        [
+          "ENCARNACIÓN DE ABAJO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "ESTANQUE DE AGUA BUENA",
+          "3",
+          "89",
+          "49",
+          "40",
+          "5"
+        ],
+        [
+          "LA BONITA",
+          "3",
+          "14",
+          "7",
+          "7",
+          "3"
+        ],
+        [
+          "LA CAJA",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "3",
+          "78",
+          "36",
+          "42",
+          "4"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "36",
+          "19",
+          "17",
+          "4"
+        ],
+        [
+          "LA LUZ",
+          "2",
+          "9",
+          "1",
+          "8",
+          "1"
+        ],
+        [
+          "LA MISIÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LOS POCITOS",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "MARAVILLAS",
+          "3",
+          "30",
+          "14",
+          "16",
+          "3"
+        ],
+        [
+          "MATEHUALA",
+          "129",
+          "22,595",
+          "11,431",
+          "11,164",
+          "1,546"
+        ],
+        [
+          "NORIA DE LA CABRA",
+          "3",
+          "165",
+          "74",
+          "91",
+          "10"
+        ],
+        [
+          "NORIA DE LOS CASTILLOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "PALMAS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "PASTORIZA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "5"
+        ],
+        [
+          "PIEDRA BLANCA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "4"
+        ],
+        [
+          "POTRERO DE SANTA ANA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "POZO DE SANTA CLARA",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "127",
+          "66",
+          "61",
+          "9"
+        ],
+        [
+          "SACRAMENTO",
+          "3",
+          "129",
+          "60",
+          "69",
+          "8"
+        ],
+        [
+          "SAN ANTONIO DE LAS BARRANCAS",
+          "3",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LOS CASTILLO",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE ZARAGOZA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "6"
+        ],
+        [
+          "SAN CARLOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE CALEROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE LOS BOCANEGRA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE IPOA",
+          "2",
+          "34",
+          "21",
+          "13",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA PEÑA",
+          "3",
+          "42",
+          "13",
+          "29",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA VIUDA (ESTANQUE BLANCO)",
+          "3",
+          "58",
+          "27",
+          "31",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DE LAS TROJES",
+          "4",
+          "1,225",
+          "622",
+          "603",
+          "16"
+        ],
+        [
+          "SAN JOSÉ DE LOS GUAJES",
+          "3",
+          "86",
+          "36",
+          "50",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE LOS SOTOLES",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL PLAN",
+          "3",
+          "33",
+          "22",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "66",
+          "24",
+          "42",
+          "4"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "24",
+          "17",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA BRÍGIDA",
+          "3",
+          "88",
+          "42",
+          "46",
+          "6"
+        ],
+        [
+          "SANTA CRUZ",
+          "4",
+          "160",
+          "85",
+          "75",
+          "11"
+        ],
+        [
+          "SANTA LUCÍA",
+          "4",
+          "444",
+          "217",
+          "227",
+          "46"
+        ],
+        [
+          "TANQUE COLORADO",
+          "4",
+          "223",
+          "122",
+          "101",
+          "14"
+        ],
+        [
+          "TROJE DE LOS MORENO",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "VIBORILLAS",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "264",
+          "26,984",
+          "13,601",
+          "13,383",
+          "1,804"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:35.366Z"
+}

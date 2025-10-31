@@ -1,0 +1,472 @@
+{
+  "municipality": "JOJUTLA",
+  "municipalityCode": "012",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JOJUTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHISCO\n\t\t3\n\t\t113\n\t\t62\n\t\t51\n\t\t7\n\t\n\t\n\t\tCOLONIA AMPLIACIÓN SANTA MARÍA\n\t\t1\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tCOLONIA EL PARAÍSO (COLONIA VICENTE GUERRERO)\n\t\t1\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tCOLONIA GUADALUPE\n\t\t1\n\t\t135\n\t\t62\n\t\t73\n\t\t6\n\t\n\t\n\t\tCOLONIA LA AZUCHILERA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tHIGUERÓN\n\t\t5\n\t\t750\n\t\t378\n\t\t372\n\t\t33\n\t\n\t\n\t\tJICARERO\n\t\t4\n\t\t1,224\n\t\t818\n\t\t406\n\t\t68\n\t\n\t\n\t\tJOJUTLA\n\t\t65\n\t\t10,771\n\t\t5,569\n\t\t5,202\n\t\t662\n\t\n\t\n\t\tLOS LAGARTOS\n\t\t2\n\t\t42\n\t\t19\n\t\t23\n\t\t4\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t3\n\t\t208\n\t\t101\n\t\t107\n\t\t11\n\t\n\t\n\t\tPEDRO AMARO\n\t\t6\n\t\t534\n\t\t255\n\t\t279\n\t\t29\n\t\n\t\n\t\tRÍO SECO\n\t\t2\n\t\t49\n\t\t31\n\t\t18\n\t\t3\n\t\n\t\n\t\tTEHUIXTLA\n\t\t7\n\t\t1,424\n\t\t732\n\t\t692\n\t\t91\n\t\n\t\n\t\tTEQUESQUITENGO\n\t\t3\n\t\t368\n\t\t186\n\t\t182\n\t\t22\n\t\n\t\n\t\tTLATENCHI\n\t\t9\n\t\t955\n\t\t462\n\t\t493\n\t\t55\n\t\n\t\n\t\tUNIDAD HABITACIONAL JOSÉ MARÍA MORELOS Y PAVÓN\n\t\t8\n\t\t480\n\t\t245\n\t\t235\n\t\t62\n\t\n\t\n\t\tVICENTE ARANDA (SAN RAFAEL)\n\t\t2\n\t\t30\n\t\t10\n\t\t20\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t123\n\t\t17,139\n\t\t8,960\n\t\t8,179\n\t\t1,061\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JOJUTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHISCO",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7",
+          "COLONIA AMPLIACIÓN SANTA MARÍA",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2",
+          "COLONIA EL PARAÍSO (COLONIA VICENTE GUERRERO)",
+          "1",
+          "25",
+          "15",
+          "10",
+          "2",
+          "COLONIA GUADALUPE",
+          "1",
+          "135",
+          "62",
+          "73",
+          "6",
+          "COLONIA LA AZUCHILERA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "HIGUERÓN",
+          "5",
+          "750",
+          "378",
+          "372",
+          "33",
+          "JICARERO",
+          "4",
+          "1,224",
+          "818",
+          "406",
+          "68",
+          "JOJUTLA",
+          "65",
+          "10,771",
+          "5,569",
+          "5,202",
+          "662",
+          "LOS LAGARTOS",
+          "2",
+          "42",
+          "19",
+          "23",
+          "4",
+          "NICOLÁS BRAVO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11",
+          "PEDRO AMARO",
+          "6",
+          "534",
+          "255",
+          "279",
+          "29",
+          "RÍO SECO",
+          "2",
+          "49",
+          "31",
+          "18",
+          "3",
+          "TEHUIXTLA",
+          "7",
+          "1,424",
+          "732",
+          "692",
+          "91",
+          "TEQUESQUITENGO",
+          "3",
+          "368",
+          "186",
+          "182",
+          "22",
+          "TLATENCHI",
+          "9",
+          "955",
+          "462",
+          "493",
+          "55",
+          "UNIDAD HABITACIONAL JOSÉ MARÍA MORELOS Y PAVÓN",
+          "8",
+          "480",
+          "245",
+          "235",
+          "62",
+          "VICENTE ARANDA (SAN RAFAEL)",
+          "2",
+          "30",
+          "10",
+          "20",
+          "3",
+          "TOTAL",
+          "123",
+          "17,139",
+          "8,960",
+          "8,179",
+          "1,061",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JOJUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHISCO",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7"
+        ],
+        [
+          "COLONIA AMPLIACIÓN SANTA MARÍA",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "COLONIA EL PARAÍSO (COLONIA VICENTE GUERRERO)",
+          "1",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "COLONIA GUADALUPE",
+          "1",
+          "135",
+          "62",
+          "73",
+          "6"
+        ],
+        [
+          "COLONIA LA AZUCHILERA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "HIGUERÓN",
+          "5",
+          "750",
+          "378",
+          "372",
+          "33"
+        ],
+        [
+          "JICARERO",
+          "4",
+          "1,224",
+          "818",
+          "406",
+          "68"
+        ],
+        [
+          "JOJUTLA",
+          "65",
+          "10,771",
+          "5,569",
+          "5,202",
+          "662"
+        ],
+        [
+          "LOS LAGARTOS",
+          "2",
+          "42",
+          "19",
+          "23",
+          "4"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11"
+        ],
+        [
+          "PEDRO AMARO",
+          "6",
+          "534",
+          "255",
+          "279",
+          "29"
+        ],
+        [
+          "RÍO SECO",
+          "2",
+          "49",
+          "31",
+          "18",
+          "3"
+        ],
+        [
+          "TEHUIXTLA",
+          "7",
+          "1,424",
+          "732",
+          "692",
+          "91"
+        ],
+        [
+          "TEQUESQUITENGO",
+          "3",
+          "368",
+          "186",
+          "182",
+          "22"
+        ],
+        [
+          "TLATENCHI",
+          "9",
+          "955",
+          "462",
+          "493",
+          "55"
+        ],
+        [
+          "UNIDAD HABITACIONAL JOSÉ MARÍA MORELOS Y PAVÓN",
+          "8",
+          "480",
+          "245",
+          "235",
+          "62"
+        ],
+        [
+          "VICENTE ARANDA (SAN RAFAEL)",
+          "2",
+          "30",
+          "10",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "17,139",
+          "8,960",
+          "8,179",
+          "1,061"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JOJUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHISCO",
+          "3",
+          "113",
+          "62",
+          "51",
+          "7"
+        ],
+        [
+          "COLONIA AMPLIACIÓN SANTA MARÍA",
+          "1",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "COLONIA EL PARAÍSO (COLONIA VICENTE GUERRERO)",
+          "1",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "COLONIA GUADALUPE",
+          "1",
+          "135",
+          "62",
+          "73",
+          "6"
+        ],
+        [
+          "COLONIA LA AZUCHILERA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "HIGUERÓN",
+          "5",
+          "750",
+          "378",
+          "372",
+          "33"
+        ],
+        [
+          "JICARERO",
+          "4",
+          "1,224",
+          "818",
+          "406",
+          "68"
+        ],
+        [
+          "JOJUTLA",
+          "65",
+          "10,771",
+          "5,569",
+          "5,202",
+          "662"
+        ],
+        [
+          "LOS LAGARTOS",
+          "2",
+          "42",
+          "19",
+          "23",
+          "4"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "3",
+          "208",
+          "101",
+          "107",
+          "11"
+        ],
+        [
+          "PEDRO AMARO",
+          "6",
+          "534",
+          "255",
+          "279",
+          "29"
+        ],
+        [
+          "RÍO SECO",
+          "2",
+          "49",
+          "31",
+          "18",
+          "3"
+        ],
+        [
+          "TEHUIXTLA",
+          "7",
+          "1,424",
+          "732",
+          "692",
+          "91"
+        ],
+        [
+          "TEQUESQUITENGO",
+          "3",
+          "368",
+          "186",
+          "182",
+          "22"
+        ],
+        [
+          "TLATENCHI",
+          "9",
+          "955",
+          "462",
+          "493",
+          "55"
+        ],
+        [
+          "UNIDAD HABITACIONAL JOSÉ MARÍA MORELOS Y PAVÓN",
+          "8",
+          "480",
+          "245",
+          "235",
+          "62"
+        ],
+        [
+          "VICENTE ARANDA (SAN RAFAEL)",
+          "2",
+          "30",
+          "10",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "123",
+          "17,139",
+          "8,960",
+          "8,179",
+          "1,061"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:55.338Z"
+}

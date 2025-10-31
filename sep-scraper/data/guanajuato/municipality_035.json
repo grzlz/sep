@@ -1,0 +1,1286 @@
+{
+  "municipality": "SANTA CRUZ DE JUVENTINO ROSAS",
+  "municipalityCode": "035",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SANTA CRUZ DE JUVENTINO ROSAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA ZARCA\n\t\t3\n\t\t22\n\t\t14\n\t\t8\n\t\t3\n\t\n\t\n\t\tCASAS BLANCAS\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tCERRITO DE GASCA\n\t\t3\n\t\t267\n\t\t132\n\t\t135\n\t\t12\n\t\n\t\n\t\tEL CARMEN DE ARRIBA\n\t\t2\n\t\t30\n\t\t10\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL JAGÜEY\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MURCIÉLAGO\n\t\t3\n\t\t267\n\t\t123\n\t\t144\n\t\t11\n\t\n\t\n\t\tEL NARANJILLO\n\t\t5\n\t\t546\n\t\t280\n\t\t266\n\t\t25\n\t\n\t\n\t\tEL ROCILLITO\n\t\t2\n\t\t50\n\t\t29\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL ROSILLO\n\t\t2\n\t\t56\n\t\t36\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL ZÚÑIGA (LOS PINOS)\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t167\n\t\t71\n\t\t96\n\t\t9\n\t\n\t\n\t\tENCINAL DE CANOAS\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tFRANCO TAVERA\n\t\t5\n\t\t1,188\n\t\t646\n\t\t542\n\t\t40\n\t\n\t\n\t\tGALERA PRIETA\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tINSURGENTES PÍPILA\n\t\t3\n\t\t20\n\t\t13\n\t\t7\n\t\t3\n\t\n\t\n\t\tJARALILLO\n\t\t3\n\t\t315\n\t\t174\n\t\t141\n\t\t12\n\t\n\t\n\t\tJUVENTINO ROSAS\n\t\t40\n\t\t11,113\n\t\t5,608\n\t\t5,505\n\t\t526\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t145\n\t\t77\n\t\t68\n\t\t7\n\t\n\t\n\t\tLA ESTANCIA\n\t\t3\n\t\t12\n\t\t5\n\t\t7\n\t\t3\n\t\n\t\n\t\tLA HUERTA\n\t\t3\n\t\t220\n\t\t106\n\t\t114\n\t\t10\n\t\n\t\n\t\tLA PEÑA (PEÑA COLORADA)\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t2\n\t\t51\n\t\t20\n\t\t31\n\t\t3\n\t\n\t\n\t\tLA TINAJA\n\t\t3\n\t\t97\n\t\t47\n\t\t50\n\t\t7\n\t\n\t\n\t\tLA TRINIDAD\n\t\t3\n\t\t186\n\t\t98\n\t\t88\n\t\t10\n\t\n\t\n\t\tLAGUNA SECA DE SAN ISIDRO\n\t\t2\n\t\t50\n\t\t30\n\t\t20\n\t\t3\n\t\n\t\n\t\tLAS FUENTES\n\t\t2\n\t\t88\n\t\t39\n\t\t49\n\t\t4\n\t\n\t\n\t\tLAS PALOMAS\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS DULCES NOMBRES\n\t\t3\n\t\t490\n\t\t251\n\t\t239\n\t\t20\n\t\n\t\n\t\tMANDUJANO\n\t\t2\n\t\t39\n\t\t12\n\t\t27\n\t\t2\n\t\n\t\n\t\tMESAS DE ACOSTA\n\t\t4\n\t\t162\n\t\t89\n\t\t73\n\t\t10\n\t\n\t\n\t\tMESAS DE ALMANZA\n\t\t3\n\t\t35\n\t\t23\n\t\t12\n\t\t3\n\t\n\t\n\t\tOJO DE AGUA DE OTATES\n\t\t2\n\t\t68\n\t\t30\n\t\t38\n\t\t4\n\t\n\t\n\t\tOJO DE AGUA DEL CARRIZAL\n\t\t3\n\t\t92\n\t\t49\n\t\t43\n\t\t6\n\t\n\t\n\t\tPOZOS\n\t\t4\n\t\t770\n\t\t406\n\t\t364\n\t\t26\n\t\n\t\n\t\tRINCÓN DE CENTENO\n\t\t4\n\t\t676\n\t\t339\n\t\t337\n\t\t26\n\t\n\t\n\t\tROMERO\n\t\t2\n\t\t44\n\t\t22\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DE LAS MARAVILLAS\n\t\t2\n\t\t59\n\t\t27\n\t\t32\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO DE MORALES\n\t\t4\n\t\t467\n\t\t231\n\t\t236\n\t\t24\n\t\n\t\n\t\tSAN ANTONIO DE ROMERILLO\n\t\t3\n\t\t225\n\t\t104\n\t\t121\n\t\t11\n\t\n\t\n\t\tSAN ANTONIO NUEVO VALENCIA (LA CHIRIPA)\n\t\t2\n\t\t39\n\t\t12\n\t\t27\n\t\t2\n\t\n\t\n\t\tSAN DIEGO DE LOS DOLORES\n\t\t3\n\t\t242\n\t\t118\n\t\t124\n\t\t11\n\t\n\t\n\t\tSAN JOSÉ DE LAS PILAS\n\t\t4\n\t\t334\n\t\t179\n\t\t155\n\t\t16\n\t\n\t\n\t\tSAN JOSÉ DE LOS LLANOS\n\t\t2\n\t\t12\n\t\t2\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE MANANTIALES\n\t\t2\n\t\t146\n\t\t85\n\t\t61\n\t\t7\n\t\n\t\n\t\tSAN JOSÉ DE MERINO\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DEL SAUZ\n\t\t2\n\t\t95\n\t\t49\n\t\t46\n\t\t4\n\t\n\t\n\t\tSAN JUAN DE LA CRUZ\n\t\t3\n\t\t236\n\t\t114\n\t\t122\n\t\t11\n\t\n\t\n\t\tSAN JUAN DE LA PROVEEDORA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN JULIÁN TIERRA BLANCA\n\t\t4\n\t\t253\n\t\t123\n\t\t130\n\t\t13\n\t\n\t\n\t\tSANTA ANA DE AGOSTADERO\n\t\t1\n\t\t13\n\t\t11\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA MARÍA DE GUADALUPE (EL RANCHITO)\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tSANTIAGO DE CUENDA\n\t\t7\n\t\t1,950\n\t\t998\n\t\t952\n\t\t76\n\t\n\t\n\t\tUNIDEG\n\t\t1\n\t\t189\n\t\t98\n\t\t91\n\t\t5\n\t\n\t\n\t\tVALENCIA\n\t\t3\n\t\t1,288\n\t\t573\n\t\t715\n\t\t114\n\t\n\t\n\t\tTOTAL\n\t\t179\n\t\t22,932\n\t\t11,568\n\t\t11,364\n\t\t1,112\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SANTA CRUZ DE JUVENTINO ROSAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA ZARCA",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3",
+          "CASAS BLANCAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "CERRITO DE GASCA",
+          "3",
+          "267",
+          "132",
+          "135",
+          "12",
+          "EL CARMEN DE ARRIBA",
+          "2",
+          "30",
+          "10",
+          "20",
+          "2",
+          "EL JAGÜEY",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2",
+          "EL MURCIÉLAGO",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11",
+          "EL NARANJILLO",
+          "5",
+          "546",
+          "280",
+          "266",
+          "25",
+          "EL ROCILLITO",
+          "2",
+          "50",
+          "29",
+          "21",
+          "3",
+          "EL ROSILLO",
+          "2",
+          "56",
+          "36",
+          "20",
+          "3",
+          "EL ZÚÑIGA (LOS PINOS)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2",
+          "EMILIANO ZAPATA",
+          "3",
+          "167",
+          "71",
+          "96",
+          "9",
+          "ENCINAL DE CANOAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "FRANCO TAVERA",
+          "5",
+          "1,188",
+          "646",
+          "542",
+          "40",
+          "GALERA PRIETA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "INSURGENTES PÍPILA",
+          "3",
+          "20",
+          "13",
+          "7",
+          "3",
+          "JARALILLO",
+          "3",
+          "315",
+          "174",
+          "141",
+          "12",
+          "JUVENTINO ROSAS",
+          "40",
+          "11,113",
+          "5,608",
+          "5,505",
+          "526",
+          "LA ESPERANZA",
+          "2",
+          "145",
+          "77",
+          "68",
+          "7",
+          "LA ESTANCIA",
+          "3",
+          "12",
+          "5",
+          "7",
+          "3",
+          "LA HUERTA",
+          "3",
+          "220",
+          "106",
+          "114",
+          "10",
+          "LA PEÑA (PEÑA COLORADA)",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "LA PURÍSIMA",
+          "2",
+          "51",
+          "20",
+          "31",
+          "3",
+          "LA TINAJA",
+          "3",
+          "97",
+          "47",
+          "50",
+          "7",
+          "LA TRINIDAD",
+          "3",
+          "186",
+          "98",
+          "88",
+          "10",
+          "LAGUNA SECA DE SAN ISIDRO",
+          "2",
+          "50",
+          "30",
+          "20",
+          "3",
+          "LAS FUENTES",
+          "2",
+          "88",
+          "39",
+          "49",
+          "4",
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LOS DULCES NOMBRES",
+          "3",
+          "490",
+          "251",
+          "239",
+          "20",
+          "MANDUJANO",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2",
+          "MESAS DE ACOSTA",
+          "4",
+          "162",
+          "89",
+          "73",
+          "10",
+          "MESAS DE ALMANZA",
+          "3",
+          "35",
+          "23",
+          "12",
+          "3",
+          "OJO DE AGUA DE OTATES",
+          "2",
+          "68",
+          "30",
+          "38",
+          "4",
+          "OJO DE AGUA DEL CARRIZAL",
+          "3",
+          "92",
+          "49",
+          "43",
+          "6",
+          "POZOS",
+          "4",
+          "770",
+          "406",
+          "364",
+          "26",
+          "RINCÓN DE CENTENO",
+          "4",
+          "676",
+          "339",
+          "337",
+          "26",
+          "ROMERO",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3",
+          "SAN ANTONIO DE LAS MARAVILLAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "4",
+          "SAN ANTONIO DE MORALES",
+          "4",
+          "467",
+          "231",
+          "236",
+          "24",
+          "SAN ANTONIO DE ROMERILLO",
+          "3",
+          "225",
+          "104",
+          "121",
+          "11",
+          "SAN ANTONIO NUEVO VALENCIA (LA CHIRIPA)",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2",
+          "SAN DIEGO DE LOS DOLORES",
+          "3",
+          "242",
+          "118",
+          "124",
+          "11",
+          "SAN JOSÉ DE LAS PILAS",
+          "4",
+          "334",
+          "179",
+          "155",
+          "16",
+          "SAN JOSÉ DE LOS LLANOS",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2",
+          "SAN JOSÉ DE MANANTIALES",
+          "2",
+          "146",
+          "85",
+          "61",
+          "7",
+          "SAN JOSÉ DE MERINO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1",
+          "SAN JOSÉ DEL SAUZ",
+          "2",
+          "95",
+          "49",
+          "46",
+          "4",
+          "SAN JUAN DE LA CRUZ",
+          "3",
+          "236",
+          "114",
+          "122",
+          "11",
+          "SAN JUAN DE LA PROVEEDORA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "SAN JULIÁN TIERRA BLANCA",
+          "4",
+          "253",
+          "123",
+          "130",
+          "13",
+          "SANTA ANA DE AGOSTADERO",
+          "1",
+          "13",
+          "11",
+          "2",
+          "1",
+          "SANTA MARÍA DE GUADALUPE (EL RANCHITO)",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "SANTIAGO DE CUENDA",
+          "7",
+          "1,950",
+          "998",
+          "952",
+          "76",
+          "UNIDEG",
+          "1",
+          "189",
+          "98",
+          "91",
+          "5",
+          "VALENCIA",
+          "3",
+          "1,288",
+          "573",
+          "715",
+          "114",
+          "TOTAL",
+          "179",
+          "22,932",
+          "11,568",
+          "11,364",
+          "1,112",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SANTA CRUZ DE JUVENTINO ROSAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA ZARCA",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "CASAS BLANCAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "CERRITO DE GASCA",
+          "3",
+          "267",
+          "132",
+          "135",
+          "12"
+        ],
+        [
+          "EL CARMEN DE ARRIBA",
+          "2",
+          "30",
+          "10",
+          "20",
+          "2"
+        ],
+        [
+          "EL JAGÜEY",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "EL MURCIÉLAGO",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11"
+        ],
+        [
+          "EL NARANJILLO",
+          "5",
+          "546",
+          "280",
+          "266",
+          "25"
+        ],
+        [
+          "EL ROCILLITO",
+          "2",
+          "50",
+          "29",
+          "21",
+          "3"
+        ],
+        [
+          "EL ROSILLO",
+          "2",
+          "56",
+          "36",
+          "20",
+          "3"
+        ],
+        [
+          "EL ZÚÑIGA (LOS PINOS)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "167",
+          "71",
+          "96",
+          "9"
+        ],
+        [
+          "ENCINAL DE CANOAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "FRANCO TAVERA",
+          "5",
+          "1,188",
+          "646",
+          "542",
+          "40"
+        ],
+        [
+          "GALERA PRIETA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "INSURGENTES PÍPILA",
+          "3",
+          "20",
+          "13",
+          "7",
+          "3"
+        ],
+        [
+          "JARALILLO",
+          "3",
+          "315",
+          "174",
+          "141",
+          "12"
+        ],
+        [
+          "JUVENTINO ROSAS",
+          "40",
+          "11,113",
+          "5,608",
+          "5,505",
+          "526"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "145",
+          "77",
+          "68",
+          "7"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "12",
+          "5",
+          "7",
+          "3"
+        ],
+        [
+          "LA HUERTA",
+          "3",
+          "220",
+          "106",
+          "114",
+          "10"
+        ],
+        [
+          "LA PEÑA (PEÑA COLORADA)",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "51",
+          "20",
+          "31",
+          "3"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "97",
+          "47",
+          "50",
+          "7"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "186",
+          "98",
+          "88",
+          "10"
+        ],
+        [
+          "LAGUNA SECA DE SAN ISIDRO",
+          "2",
+          "50",
+          "30",
+          "20",
+          "3"
+        ],
+        [
+          "LAS FUENTES",
+          "2",
+          "88",
+          "39",
+          "49",
+          "4"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS DULCES NOMBRES",
+          "3",
+          "490",
+          "251",
+          "239",
+          "20"
+        ],
+        [
+          "MANDUJANO",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2"
+        ],
+        [
+          "MESAS DE ACOSTA",
+          "4",
+          "162",
+          "89",
+          "73",
+          "10"
+        ],
+        [
+          "MESAS DE ALMANZA",
+          "3",
+          "35",
+          "23",
+          "12",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE OTATES",
+          "2",
+          "68",
+          "30",
+          "38",
+          "4"
+        ],
+        [
+          "OJO DE AGUA DEL CARRIZAL",
+          "3",
+          "92",
+          "49",
+          "43",
+          "6"
+        ],
+        [
+          "POZOS",
+          "4",
+          "770",
+          "406",
+          "364",
+          "26"
+        ],
+        [
+          "RINCÓN DE CENTENO",
+          "4",
+          "676",
+          "339",
+          "337",
+          "26"
+        ],
+        [
+          "ROMERO",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE LAS MARAVILLAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE MORALES",
+          "4",
+          "467",
+          "231",
+          "236",
+          "24"
+        ],
+        [
+          "SAN ANTONIO DE ROMERILLO",
+          "3",
+          "225",
+          "104",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ANTONIO NUEVO VALENCIA (LA CHIRIPA)",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2"
+        ],
+        [
+          "SAN DIEGO DE LOS DOLORES",
+          "3",
+          "242",
+          "118",
+          "124",
+          "11"
+        ],
+        [
+          "SAN JOSÉ DE LAS PILAS",
+          "4",
+          "334",
+          "179",
+          "155",
+          "16"
+        ],
+        [
+          "SAN JOSÉ DE LOS LLANOS",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE MANANTIALES",
+          "2",
+          "146",
+          "85",
+          "61",
+          "7"
+        ],
+        [
+          "SAN JOSÉ DE MERINO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DEL SAUZ",
+          "2",
+          "95",
+          "49",
+          "46",
+          "4"
+        ],
+        [
+          "SAN JUAN DE LA CRUZ",
+          "3",
+          "236",
+          "114",
+          "122",
+          "11"
+        ],
+        [
+          "SAN JUAN DE LA PROVEEDORA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JULIÁN TIERRA BLANCA",
+          "4",
+          "253",
+          "123",
+          "130",
+          "13"
+        ],
+        [
+          "SANTA ANA DE AGOSTADERO",
+          "1",
+          "13",
+          "11",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE (EL RANCHITO)",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "SANTIAGO DE CUENDA",
+          "7",
+          "1,950",
+          "998",
+          "952",
+          "76"
+        ],
+        [
+          "UNIDEG",
+          "1",
+          "189",
+          "98",
+          "91",
+          "5"
+        ],
+        [
+          "VALENCIA",
+          "3",
+          "1,288",
+          "573",
+          "715",
+          "114"
+        ],
+        [
+          "TOTAL",
+          "179",
+          "22,932",
+          "11,568",
+          "11,364",
+          "1,112"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SANTA CRUZ DE JUVENTINO ROSAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA ZARCA",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "CASAS BLANCAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "CERRITO DE GASCA",
+          "3",
+          "267",
+          "132",
+          "135",
+          "12"
+        ],
+        [
+          "EL CARMEN DE ARRIBA",
+          "2",
+          "30",
+          "10",
+          "20",
+          "2"
+        ],
+        [
+          "EL JAGÜEY",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "EL MURCIÉLAGO",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11"
+        ],
+        [
+          "EL NARANJILLO",
+          "5",
+          "546",
+          "280",
+          "266",
+          "25"
+        ],
+        [
+          "EL ROCILLITO",
+          "2",
+          "50",
+          "29",
+          "21",
+          "3"
+        ],
+        [
+          "EL ROSILLO",
+          "2",
+          "56",
+          "36",
+          "20",
+          "3"
+        ],
+        [
+          "EL ZÚÑIGA (LOS PINOS)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "167",
+          "71",
+          "96",
+          "9"
+        ],
+        [
+          "ENCINAL DE CANOAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "FRANCO TAVERA",
+          "5",
+          "1,188",
+          "646",
+          "542",
+          "40"
+        ],
+        [
+          "GALERA PRIETA",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "INSURGENTES PÍPILA",
+          "3",
+          "20",
+          "13",
+          "7",
+          "3"
+        ],
+        [
+          "JARALILLO",
+          "3",
+          "315",
+          "174",
+          "141",
+          "12"
+        ],
+        [
+          "JUVENTINO ROSAS",
+          "40",
+          "11,113",
+          "5,608",
+          "5,505",
+          "526"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "145",
+          "77",
+          "68",
+          "7"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "12",
+          "5",
+          "7",
+          "3"
+        ],
+        [
+          "LA HUERTA",
+          "3",
+          "220",
+          "106",
+          "114",
+          "10"
+        ],
+        [
+          "LA PEÑA (PEÑA COLORADA)",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "51",
+          "20",
+          "31",
+          "3"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "97",
+          "47",
+          "50",
+          "7"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "186",
+          "98",
+          "88",
+          "10"
+        ],
+        [
+          "LAGUNA SECA DE SAN ISIDRO",
+          "2",
+          "50",
+          "30",
+          "20",
+          "3"
+        ],
+        [
+          "LAS FUENTES",
+          "2",
+          "88",
+          "39",
+          "49",
+          "4"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS DULCES NOMBRES",
+          "3",
+          "490",
+          "251",
+          "239",
+          "20"
+        ],
+        [
+          "MANDUJANO",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2"
+        ],
+        [
+          "MESAS DE ACOSTA",
+          "4",
+          "162",
+          "89",
+          "73",
+          "10"
+        ],
+        [
+          "MESAS DE ALMANZA",
+          "3",
+          "35",
+          "23",
+          "12",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE OTATES",
+          "2",
+          "68",
+          "30",
+          "38",
+          "4"
+        ],
+        [
+          "OJO DE AGUA DEL CARRIZAL",
+          "3",
+          "92",
+          "49",
+          "43",
+          "6"
+        ],
+        [
+          "POZOS",
+          "4",
+          "770",
+          "406",
+          "364",
+          "26"
+        ],
+        [
+          "RINCÓN DE CENTENO",
+          "4",
+          "676",
+          "339",
+          "337",
+          "26"
+        ],
+        [
+          "ROMERO",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE LAS MARAVILLAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE MORALES",
+          "4",
+          "467",
+          "231",
+          "236",
+          "24"
+        ],
+        [
+          "SAN ANTONIO DE ROMERILLO",
+          "3",
+          "225",
+          "104",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ANTONIO NUEVO VALENCIA (LA CHIRIPA)",
+          "2",
+          "39",
+          "12",
+          "27",
+          "2"
+        ],
+        [
+          "SAN DIEGO DE LOS DOLORES",
+          "3",
+          "242",
+          "118",
+          "124",
+          "11"
+        ],
+        [
+          "SAN JOSÉ DE LAS PILAS",
+          "4",
+          "334",
+          "179",
+          "155",
+          "16"
+        ],
+        [
+          "SAN JOSÉ DE LOS LLANOS",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE MANANTIALES",
+          "2",
+          "146",
+          "85",
+          "61",
+          "7"
+        ],
+        [
+          "SAN JOSÉ DE MERINO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DEL SAUZ",
+          "2",
+          "95",
+          "49",
+          "46",
+          "4"
+        ],
+        [
+          "SAN JUAN DE LA CRUZ",
+          "3",
+          "236",
+          "114",
+          "122",
+          "11"
+        ],
+        [
+          "SAN JUAN DE LA PROVEEDORA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JULIÁN TIERRA BLANCA",
+          "4",
+          "253",
+          "123",
+          "130",
+          "13"
+        ],
+        [
+          "SANTA ANA DE AGOSTADERO",
+          "1",
+          "13",
+          "11",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE (EL RANCHITO)",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "SANTIAGO DE CUENDA",
+          "7",
+          "1,950",
+          "998",
+          "952",
+          "76"
+        ],
+        [
+          "UNIDEG",
+          "1",
+          "189",
+          "98",
+          "91",
+          "5"
+        ],
+        [
+          "VALENCIA",
+          "3",
+          "1,288",
+          "573",
+          "715",
+          "114"
+        ],
+        [
+          "TOTAL",
+          "179",
+          "22,932",
+          "11,568",
+          "11,364",
+          "1,112"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:56.490Z"
+}

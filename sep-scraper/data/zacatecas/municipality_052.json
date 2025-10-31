@@ -1,0 +1,626 @@
+{
+  "municipality": "VILLA GARCÍA",
+  "municipalityCode": "052",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA GARCÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA GORDA\n\t\t4\n\t\t275\n\t\t115\n\t\t160\n\t\t14\n\t\n\t\n\t\tAGUA GORDITA\n\t\t3\n\t\t228\n\t\t128\n\t\t100\n\t\t11\n\t\n\t\n\t\tBENITO JUÁREZ (COYOTES)\n\t\t3\n\t\t117\n\t\t51\n\t\t66\n\t\t5\n\t\n\t\n\t\tEL BAUTISMO\n\t\t2\n\t\t18\n\t\t5\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL COPETILLO\n\t\t3\n\t\t426\n\t\t205\n\t\t221\n\t\t23\n\t\n\t\n\t\tEL RAYO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL TANQUE DE PINO\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL TEPETATILLO\n\t\t1\n\t\t18\n\t\t10\n\t\t8\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA (ARREBIATADAS)\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t2\n\t\n\t\n\t\tFRANCISCO I. MADERO (AGUAS MUERTAS)\n\t\t3\n\t\t31\n\t\t17\n\t\t14\n\t\t3\n\t\n\t\n\t\tGRANADAS\n\t\t4\n\t\t405\n\t\t184\n\t\t221\n\t\t20\n\t\n\t\n\t\tIGNACIO ZARAGOZA (SAN IGNACIO)\n\t\t2\n\t\t39\n\t\t20\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA MILPA\n\t\t2\n\t\t23\n\t\t14\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA MONTESA\n\t\t3\n\t\t115\n\t\t67\n\t\t48\n\t\t6\n\t\n\t\n\t\tLA PUERTA DE JALISCO\n\t\t1\n\t\t36\n\t\t19\n\t\t17\n\t\t2\n\t\n\t\n\t\tLAS CRUCES\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS CAMPOS\n\t\t4\n\t\t800\n\t\t376\n\t\t424\n\t\t37\n\t\n\t\n\t\tLOS HORCONES\n\t\t2\n\t\t20\n\t\t5\n\t\t15\n\t\t2\n\t\n\t\n\t\tLOS PLANES\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tPRESA DEL CAPULÍN\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t3\n\t\t103\n\t\t56\n\t\t47\n\t\t5\n\t\n\t\n\t\tTIERRITAS BLANCAS\n\t\t3\n\t\t176\n\t\t92\n\t\t84\n\t\t14\n\t\n\t\n\t\tUNIÓN Y PROGRESO\n\t\t3\n\t\t117\n\t\t58\n\t\t59\n\t\t5\n\t\n\t\n\t\tVILLA GARCÍA\n\t\t9\n\t\t2,119\n\t\t1,062\n\t\t1,057\n\t\t99\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t5,196\n\t\t2,545\n\t\t2,651\n\t\t264\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA GARCÍA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA GORDA",
+          "4",
+          "275",
+          "115",
+          "160",
+          "14",
+          "AGUA GORDITA",
+          "3",
+          "228",
+          "128",
+          "100",
+          "11",
+          "BENITO JUÁREZ (COYOTES)",
+          "3",
+          "117",
+          "51",
+          "66",
+          "5",
+          "EL BAUTISMO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2",
+          "EL COPETILLO",
+          "3",
+          "426",
+          "205",
+          "221",
+          "23",
+          "EL RAYO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL TANQUE DE PINO",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2",
+          "EL TEPETATILLO",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1",
+          "EMILIANO ZAPATA (ARREBIATADAS)",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2",
+          "FRANCISCO I. MADERO (AGUAS MUERTAS)",
+          "3",
+          "31",
+          "17",
+          "14",
+          "3",
+          "GRANADAS",
+          "4",
+          "405",
+          "184",
+          "221",
+          "20",
+          "IGNACIO ZARAGOZA (SAN IGNACIO)",
+          "2",
+          "39",
+          "20",
+          "19",
+          "3",
+          "LA MILPA",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2",
+          "LA MONTESA",
+          "3",
+          "115",
+          "67",
+          "48",
+          "6",
+          "LA PUERTA DE JALISCO",
+          "1",
+          "36",
+          "19",
+          "17",
+          "2",
+          "LAS CRUCES",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LOS CAMPOS",
+          "4",
+          "800",
+          "376",
+          "424",
+          "37",
+          "LOS HORCONES",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2",
+          "LOS PLANES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "PRESA DEL CAPULÍN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3",
+          "RANCHO NUEVO",
+          "3",
+          "103",
+          "56",
+          "47",
+          "5",
+          "TIERRITAS BLANCAS",
+          "3",
+          "176",
+          "92",
+          "84",
+          "14",
+          "UNIÓN Y PROGRESO",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5",
+          "VILLA GARCÍA",
+          "9",
+          "2,119",
+          "1,062",
+          "1,057",
+          "99",
+          "TOTAL",
+          "64",
+          "5,196",
+          "2,545",
+          "2,651",
+          "264",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA GARCÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA GORDA",
+          "4",
+          "275",
+          "115",
+          "160",
+          "14"
+        ],
+        [
+          "AGUA GORDITA",
+          "3",
+          "228",
+          "128",
+          "100",
+          "11"
+        ],
+        [
+          "BENITO JUÁREZ (COYOTES)",
+          "3",
+          "117",
+          "51",
+          "66",
+          "5"
+        ],
+        [
+          "EL BAUTISMO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "EL COPETILLO",
+          "3",
+          "426",
+          "205",
+          "221",
+          "23"
+        ],
+        [
+          "EL RAYO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL TANQUE DE PINO",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "EL TEPETATILLO",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (ARREBIATADAS)",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO (AGUAS MUERTAS)",
+          "3",
+          "31",
+          "17",
+          "14",
+          "3"
+        ],
+        [
+          "GRANADAS",
+          "4",
+          "405",
+          "184",
+          "221",
+          "20"
+        ],
+        [
+          "IGNACIO ZARAGOZA (SAN IGNACIO)",
+          "2",
+          "39",
+          "20",
+          "19",
+          "3"
+        ],
+        [
+          "LA MILPA",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "LA MONTESA",
+          "3",
+          "115",
+          "67",
+          "48",
+          "6"
+        ],
+        [
+          "LA PUERTA DE JALISCO",
+          "1",
+          "36",
+          "19",
+          "17",
+          "2"
+        ],
+        [
+          "LAS CRUCES",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LOS CAMPOS",
+          "4",
+          "800",
+          "376",
+          "424",
+          "37"
+        ],
+        [
+          "LOS HORCONES",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2"
+        ],
+        [
+          "LOS PLANES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "PRESA DEL CAPULÍN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "103",
+          "56",
+          "47",
+          "5"
+        ],
+        [
+          "TIERRITAS BLANCAS",
+          "3",
+          "176",
+          "92",
+          "84",
+          "14"
+        ],
+        [
+          "UNIÓN Y PROGRESO",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5"
+        ],
+        [
+          "VILLA GARCÍA",
+          "9",
+          "2,119",
+          "1,062",
+          "1,057",
+          "99"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "5,196",
+          "2,545",
+          "2,651",
+          "264"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA GARCÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA GORDA",
+          "4",
+          "275",
+          "115",
+          "160",
+          "14"
+        ],
+        [
+          "AGUA GORDITA",
+          "3",
+          "228",
+          "128",
+          "100",
+          "11"
+        ],
+        [
+          "BENITO JUÁREZ (COYOTES)",
+          "3",
+          "117",
+          "51",
+          "66",
+          "5"
+        ],
+        [
+          "EL BAUTISMO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "EL COPETILLO",
+          "3",
+          "426",
+          "205",
+          "221",
+          "23"
+        ],
+        [
+          "EL RAYO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL TANQUE DE PINO",
+          "2",
+          "32",
+          "17",
+          "15",
+          "2"
+        ],
+        [
+          "EL TEPETATILLO",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (ARREBIATADAS)",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO (AGUAS MUERTAS)",
+          "3",
+          "31",
+          "17",
+          "14",
+          "3"
+        ],
+        [
+          "GRANADAS",
+          "4",
+          "405",
+          "184",
+          "221",
+          "20"
+        ],
+        [
+          "IGNACIO ZARAGOZA (SAN IGNACIO)",
+          "2",
+          "39",
+          "20",
+          "19",
+          "3"
+        ],
+        [
+          "LA MILPA",
+          "2",
+          "23",
+          "14",
+          "9",
+          "2"
+        ],
+        [
+          "LA MONTESA",
+          "3",
+          "115",
+          "67",
+          "48",
+          "6"
+        ],
+        [
+          "LA PUERTA DE JALISCO",
+          "1",
+          "36",
+          "19",
+          "17",
+          "2"
+        ],
+        [
+          "LAS CRUCES",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LOS CAMPOS",
+          "4",
+          "800",
+          "376",
+          "424",
+          "37"
+        ],
+        [
+          "LOS HORCONES",
+          "2",
+          "20",
+          "5",
+          "15",
+          "2"
+        ],
+        [
+          "LOS PLANES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "PRESA DEL CAPULÍN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "103",
+          "56",
+          "47",
+          "5"
+        ],
+        [
+          "TIERRITAS BLANCAS",
+          "3",
+          "176",
+          "92",
+          "84",
+          "14"
+        ],
+        [
+          "UNIÓN Y PROGRESO",
+          "3",
+          "117",
+          "58",
+          "59",
+          "5"
+        ],
+        [
+          "VILLA GARCÍA",
+          "9",
+          "2,119",
+          "1,062",
+          "1,057",
+          "99"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "5,196",
+          "2,545",
+          "2,651",
+          "264"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:53:36.417Z"
+}

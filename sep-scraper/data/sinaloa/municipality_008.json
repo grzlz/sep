@@ -1,0 +1,1418 @@
+{
+  "municipality": "ELOTA",
+  "municipalityCode": "008",
+  "state": "SINALOA",
+  "stateCode": "25",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHOME\n\tANGOSTURA\n\tBADIRAGUATO\n\tCHOIX\n\tCONCORDIA\n\tCOSALÁ\n\tCULIACÁN\n\tEL FUERTE\n\tELDORADO\n\tELOTA\n\tESCUINAPA\n\tGUASAVE\n\tJUAN JOSÉ RÍOS\n\tMAZATLÁN\n\tMOCORITO\n\tNAVOLATO\n\tROSARIO\n\tSALVADOR ALVARADO\n\tSAN IGNACIO\n\tSINALOA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ELOTA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t26 DE ENERO\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tABOCHO (ESTACIÓN ABOCHO)\n\t\t2\n\t\t23\n\t\t9\n\t\t14\n\t\t2\n\t\n\t\n\t\tAGUA NUEVA\n\t\t2\n\t\t12\n\t\t2\n\t\t10\n\t\t2\n\t\n\t\n\t\tAGUAPEPE\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tALTA ROSA (PÍPILA II)\n\t\t4\n\t\t71\n\t\t40\n\t\t31\n\t\t8\n\t\n\t\n\t\tBELLAVISTA\n\t\t5\n\t\t114\n\t\t65\n\t\t49\n\t\t6\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t3\n\t\t58\n\t\t35\n\t\t23\n\t\t6\n\t\n\t\n\t\tBOSCOSO\n\t\t2\n\t\t111\n\t\t55\n\t\t56\n\t\t7\n\t\n\t\n\t\tBUENAVISTA\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tCAIMANES II\n\t\t4\n\t\t233\n\t\t117\n\t\t116\n\t\t14\n\t\n\t\n\t\tCAMPO BELLAVISTA\n\t\t2\n\t\t88\n\t\t42\n\t\t46\n\t\t5\n\t\n\t\n\t\tCAMPO CACHANILLA\n\t\t3\n\t\t89\n\t\t37\n\t\t52\n\t\t6\n\t\n\t\n\t\tCAMPO CINCO (LA RETAMA)\n\t\t4\n\t\t197\n\t\t103\n\t\t94\n\t\t9\n\t\n\t\n\t\tCAMPO LA PALOMA [AGRÍCOLA EL CHAPARRAL]\n\t\t3\n\t\t278\n\t\t133\n\t\t145\n\t\t10\n\t\n\t\n\t\tCAMPO NUEVA FLORIDA\n\t\t4\n\t\t80\n\t\t41\n\t\t39\n\t\t5\n\t\n\t\n\t\tCAMPO NUEVO CAIMANES\n\t\t4\n\t\t126\n\t\t70\n\t\t56\n\t\t4\n\t\n\t\n\t\tCAMPO SAN JUAN\n\t\t3\n\t\t61\n\t\t29\n\t\t32\n\t\t4\n\t\n\t\n\t\tCAMPO TAYOLTITA\n\t\t3\n\t\t107\n\t\t53\n\t\t54\n\t\t5\n\t\n\t\n\t\tCASAS GRANDES\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tCASAS VIEJAS\n\t\t2\n\t\t102\n\t\t50\n\t\t52\n\t\t8\n\t\n\t\n\t\tCELESTINO GAZCA VILLASEÑOR\n\t\t4\n\t\t247\n\t\t120\n\t\t127\n\t\t14\n\t\n\t\n\t\tCEUTA\n\t\t5\n\t\t503\n\t\t244\n\t\t259\n\t\t24\n\t\n\t\n\t\tCOLONIA BUENOS AIRES\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tEJIDO CULIACÁN (CULIACANCITO)\n\t\t6\n\t\t202\n\t\t110\n\t\t92\n\t\t12\n\t\n\t\n\t\tEJIDO LA VENTANA (EL CARRIZO)\n\t\t3\n\t\t94\n\t\t58\n\t\t36\n\t\t5\n\t\n\t\n\t\tEL AGUAJE\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL BOLILLO\n\t\t3\n\t\t149\n\t\t89\n\t\t60\n\t\t8\n\t\n\t\n\t\tEL CHIRIMOLE\n\t\t3\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL ESPINAL\n\t\t3\n\t\t317\n\t\t164\n\t\t153\n\t\t17\n\t\n\t\n\t\tEL PORTEZUELO DE ARRIBA\n\t\t3\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL ROBLE\n\t\t3\n\t\t142\n\t\t59\n\t\t83\n\t\t6\n\t\n\t\n\t\tEL SABINAL\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL SALADITO\n\t\t5\n\t\t749\n\t\t376\n\t\t373\n\t\t42\n\t\n\t\n\t\tEL SALADO\n\t\t5\n\t\t129\n\t\t57\n\t\t72\n\t\t10\n\t\n\t\n\t\tEL SOLITO\n\t\t2\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tELOTA\n\t\t4\n\t\t186\n\t\t100\n\t\t86\n\t\t20\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t234\n\t\t99\n\t\t135\n\t\t12\n\t\n\t\n\t\tEMPAQUE TARRIBA\n\t\t2\n\t\t27\n\t\t17\n\t\t10\n\t\t5\n\t\n\t\n\t\tENSENADA\n\t\t3\n\t\t75\n\t\t40\n\t\t35\n\t\t6\n\t\n\t\n\t\tHIGUERAS DE CULIACANCITO\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tIBONÍA\n\t\t3\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tJAPUINO\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA CRUZ\n\t\t26\n\t\t6,465\n\t\t3,221\n\t\t3,244\n\t\t340\n\t\n\t\n\t\tLAS GRANJAS DEL NOROTE\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS TINAS\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t2\n\t\n\t\n\t\tLOMA DE TECUYO\n\t\t3\n\t\t81\n\t\t37\n\t\t44\n\t\t7\n\t\n\t\n\t\tLOS DIFUNTOS\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS MECATES\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tNUEVO SALTO GRANDE\n\t\t3\n\t\t76\n\t\t38\n\t\t38\n\t\t4\n\t\n\t\n\t\tPAREDÓN COLORADO\n\t\t2\n\t\t38\n\t\t17\n\t\t21\n\t\t3\n\t\n\t\n\t\tPOTRERILLO DE LOS LANDEROS\n\t\t2\n\t\t15\n\t\t3\n\t\t12\n\t\t2\n\t\n\t\n\t\tPOTRERILLO DEL NOROTE\n\t\t4\n\t\t653\n\t\t323\n\t\t330\n\t\t34\n\t\n\t\n\t\tPUEBLO NUEVO\n\t\t5\n\t\t432\n\t\t219\n\t\t213\n\t\t34\n\t\n\t\n\t\tRINCÓN DE IBONÍA\n\t\t3\n\t\t37\n\t\t23\n\t\t14\n\t\t3\n\t\n\t\n\t\tROSENDO NIEBLAS\n\t\t2\n\t\t17\n\t\t4\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE CONITACA (NUEVO CONITACA)\n\t\t3\n\t\t223\n\t\t113\n\t\t110\n\t\t16\n\t\n\t\n\t\tSOL Y ARENA\n\t\t3\n\t\t85\n\t\t40\n\t\t45\n\t\t3\n\t\n\t\n\t\tTANQUES\n\t\t6\n\t\t468\n\t\t254\n\t\t214\n\t\t25\n\t\n\t\n\t\tTAYOLTITA\n\t\t3\n\t\t246\n\t\t115\n\t\t131\n\t\t10\n\t\n\t\n\t\tVIDA CAMPESINA\n\t\t3\n\t\t100\n\t\t48\n\t\t52\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t201\n\t\t14,054\n\t\t7,025\n\t\t7,029\n\t\t805\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ELOTA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "26 DE ENERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "ABOCHO (ESTACIÓN ABOCHO)",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2",
+          "AGUA NUEVA",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2",
+          "AGUAPEPE",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3",
+          "ALTA ROSA (PÍPILA II)",
+          "4",
+          "71",
+          "40",
+          "31",
+          "8",
+          "BELLAVISTA",
+          "5",
+          "114",
+          "65",
+          "49",
+          "6",
+          "BENITO JUÁREZ",
+          "3",
+          "58",
+          "35",
+          "23",
+          "6",
+          "BOSCOSO",
+          "2",
+          "111",
+          "55",
+          "56",
+          "7",
+          "BUENAVISTA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "CAIMANES II",
+          "4",
+          "233",
+          "117",
+          "116",
+          "14",
+          "CAMPO BELLAVISTA",
+          "2",
+          "88",
+          "42",
+          "46",
+          "5",
+          "CAMPO CACHANILLA",
+          "3",
+          "89",
+          "37",
+          "52",
+          "6",
+          "CAMPO CINCO (LA RETAMA)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "9",
+          "CAMPO LA PALOMA [AGRÍCOLA EL CHAPARRAL]",
+          "3",
+          "278",
+          "133",
+          "145",
+          "10",
+          "CAMPO NUEVA FLORIDA",
+          "4",
+          "80",
+          "41",
+          "39",
+          "5",
+          "CAMPO NUEVO CAIMANES",
+          "4",
+          "126",
+          "70",
+          "56",
+          "4",
+          "CAMPO SAN JUAN",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4",
+          "CAMPO TAYOLTITA",
+          "3",
+          "107",
+          "53",
+          "54",
+          "5",
+          "CASAS GRANDES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "CASAS VIEJAS",
+          "2",
+          "102",
+          "50",
+          "52",
+          "8",
+          "CELESTINO GAZCA VILLASEÑOR",
+          "4",
+          "247",
+          "120",
+          "127",
+          "14",
+          "CEUTA",
+          "5",
+          "503",
+          "244",
+          "259",
+          "24",
+          "COLONIA BUENOS AIRES",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "EJIDO CULIACÁN (CULIACANCITO)",
+          "6",
+          "202",
+          "110",
+          "92",
+          "12",
+          "EJIDO LA VENTANA (EL CARRIZO)",
+          "3",
+          "94",
+          "58",
+          "36",
+          "5",
+          "EL AGUAJE",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3",
+          "EL BOLILLO",
+          "3",
+          "149",
+          "89",
+          "60",
+          "8",
+          "EL CHIRIMOLE",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2",
+          "EL ESPINAL",
+          "3",
+          "317",
+          "164",
+          "153",
+          "17",
+          "EL PORTEZUELO DE ARRIBA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3",
+          "EL ROBLE",
+          "3",
+          "142",
+          "59",
+          "83",
+          "6",
+          "EL SABINAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "EL SALADITO",
+          "5",
+          "749",
+          "376",
+          "373",
+          "42",
+          "EL SALADO",
+          "5",
+          "129",
+          "57",
+          "72",
+          "10",
+          "EL SOLITO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "1",
+          "ELOTA",
+          "4",
+          "186",
+          "100",
+          "86",
+          "20",
+          "EMILIANO ZAPATA",
+          "3",
+          "234",
+          "99",
+          "135",
+          "12",
+          "EMPAQUE TARRIBA",
+          "2",
+          "27",
+          "17",
+          "10",
+          "5",
+          "ENSENADA",
+          "3",
+          "75",
+          "40",
+          "35",
+          "6",
+          "HIGUERAS DE CULIACANCITO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2",
+          "IBONÍA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3",
+          "JAPUINO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "LA CRUZ",
+          "26",
+          "6,465",
+          "3,221",
+          "3,244",
+          "340",
+          "LAS GRANJAS DEL NOROTE",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "LAS TINAS",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2",
+          "LOMA DE TECUYO",
+          "3",
+          "81",
+          "37",
+          "44",
+          "7",
+          "LOS DIFUNTOS",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "LOS MECATES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1",
+          "NUEVO SALTO GRANDE",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4",
+          "PAREDÓN COLORADO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "3",
+          "POTRERILLO DE LOS LANDEROS",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2",
+          "POTRERILLO DEL NOROTE",
+          "4",
+          "653",
+          "323",
+          "330",
+          "34",
+          "PUEBLO NUEVO",
+          "5",
+          "432",
+          "219",
+          "213",
+          "34",
+          "RINCÓN DE IBONÍA",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3",
+          "ROSENDO NIEBLAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2",
+          "SAN JOSÉ DE CONITACA (NUEVO CONITACA)",
+          "3",
+          "223",
+          "113",
+          "110",
+          "16",
+          "SOL Y ARENA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "3",
+          "TANQUES",
+          "6",
+          "468",
+          "254",
+          "214",
+          "25",
+          "TAYOLTITA",
+          "3",
+          "246",
+          "115",
+          "131",
+          "10",
+          "VIDA CAMPESINA",
+          "3",
+          "100",
+          "48",
+          "52",
+          "7",
+          "TOTAL",
+          "201",
+          "14,054",
+          "7,025",
+          "7,029",
+          "805",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ELOTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "26 DE ENERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "ABOCHO (ESTACIÓN ABOCHO)",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2"
+        ],
+        [
+          "AGUAPEPE",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "ALTA ROSA (PÍPILA II)",
+          "4",
+          "71",
+          "40",
+          "31",
+          "8"
+        ],
+        [
+          "BELLAVISTA",
+          "5",
+          "114",
+          "65",
+          "49",
+          "6"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "58",
+          "35",
+          "23",
+          "6"
+        ],
+        [
+          "BOSCOSO",
+          "2",
+          "111",
+          "55",
+          "56",
+          "7"
+        ],
+        [
+          "BUENAVISTA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "CAIMANES II",
+          "4",
+          "233",
+          "117",
+          "116",
+          "14"
+        ],
+        [
+          "CAMPO BELLAVISTA",
+          "2",
+          "88",
+          "42",
+          "46",
+          "5"
+        ],
+        [
+          "CAMPO CACHANILLA",
+          "3",
+          "89",
+          "37",
+          "52",
+          "6"
+        ],
+        [
+          "CAMPO CINCO (LA RETAMA)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "9"
+        ],
+        [
+          "CAMPO LA PALOMA [AGRÍCOLA EL CHAPARRAL]",
+          "3",
+          "278",
+          "133",
+          "145",
+          "10"
+        ],
+        [
+          "CAMPO NUEVA FLORIDA",
+          "4",
+          "80",
+          "41",
+          "39",
+          "5"
+        ],
+        [
+          "CAMPO NUEVO CAIMANES",
+          "4",
+          "126",
+          "70",
+          "56",
+          "4"
+        ],
+        [
+          "CAMPO SAN JUAN",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "CAMPO TAYOLTITA",
+          "3",
+          "107",
+          "53",
+          "54",
+          "5"
+        ],
+        [
+          "CASAS GRANDES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "CASAS VIEJAS",
+          "2",
+          "102",
+          "50",
+          "52",
+          "8"
+        ],
+        [
+          "CELESTINO GAZCA VILLASEÑOR",
+          "4",
+          "247",
+          "120",
+          "127",
+          "14"
+        ],
+        [
+          "CEUTA",
+          "5",
+          "503",
+          "244",
+          "259",
+          "24"
+        ],
+        [
+          "COLONIA BUENOS AIRES",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "EJIDO CULIACÁN (CULIACANCITO)",
+          "6",
+          "202",
+          "110",
+          "92",
+          "12"
+        ],
+        [
+          "EJIDO LA VENTANA (EL CARRIZO)",
+          "3",
+          "94",
+          "58",
+          "36",
+          "5"
+        ],
+        [
+          "EL AGUAJE",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "EL BOLILLO",
+          "3",
+          "149",
+          "89",
+          "60",
+          "8"
+        ],
+        [
+          "EL CHIRIMOLE",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL ESPINAL",
+          "3",
+          "317",
+          "164",
+          "153",
+          "17"
+        ],
+        [
+          "EL PORTEZUELO DE ARRIBA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "EL ROBLE",
+          "3",
+          "142",
+          "59",
+          "83",
+          "6"
+        ],
+        [
+          "EL SABINAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL SALADITO",
+          "5",
+          "749",
+          "376",
+          "373",
+          "42"
+        ],
+        [
+          "EL SALADO",
+          "5",
+          "129",
+          "57",
+          "72",
+          "10"
+        ],
+        [
+          "EL SOLITO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "ELOTA",
+          "4",
+          "186",
+          "100",
+          "86",
+          "20"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "234",
+          "99",
+          "135",
+          "12"
+        ],
+        [
+          "EMPAQUE TARRIBA",
+          "2",
+          "27",
+          "17",
+          "10",
+          "5"
+        ],
+        [
+          "ENSENADA",
+          "3",
+          "75",
+          "40",
+          "35",
+          "6"
+        ],
+        [
+          "HIGUERAS DE CULIACANCITO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "IBONÍA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "JAPUINO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LA CRUZ",
+          "26",
+          "6,465",
+          "3,221",
+          "3,244",
+          "340"
+        ],
+        [
+          "LAS GRANJAS DEL NOROTE",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LAS TINAS",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LOMA DE TECUYO",
+          "3",
+          "81",
+          "37",
+          "44",
+          "7"
+        ],
+        [
+          "LOS DIFUNTOS",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LOS MECATES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO SALTO GRANDE",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4"
+        ],
+        [
+          "PAREDÓN COLORADO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "POTRERILLO DE LOS LANDEROS",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "POTRERILLO DEL NOROTE",
+          "4",
+          "653",
+          "323",
+          "330",
+          "34"
+        ],
+        [
+          "PUEBLO NUEVO",
+          "5",
+          "432",
+          "219",
+          "213",
+          "34"
+        ],
+        [
+          "RINCÓN DE IBONÍA",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "ROSENDO NIEBLAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CONITACA (NUEVO CONITACA)",
+          "3",
+          "223",
+          "113",
+          "110",
+          "16"
+        ],
+        [
+          "SOL Y ARENA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "3"
+        ],
+        [
+          "TANQUES",
+          "6",
+          "468",
+          "254",
+          "214",
+          "25"
+        ],
+        [
+          "TAYOLTITA",
+          "3",
+          "246",
+          "115",
+          "131",
+          "10"
+        ],
+        [
+          "VIDA CAMPESINA",
+          "3",
+          "100",
+          "48",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "201",
+          "14,054",
+          "7,025",
+          "7,029",
+          "805"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ELOTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "26 DE ENERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "ABOCHO (ESTACIÓN ABOCHO)",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "12",
+          "2",
+          "10",
+          "2"
+        ],
+        [
+          "AGUAPEPE",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "ALTA ROSA (PÍPILA II)",
+          "4",
+          "71",
+          "40",
+          "31",
+          "8"
+        ],
+        [
+          "BELLAVISTA",
+          "5",
+          "114",
+          "65",
+          "49",
+          "6"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "58",
+          "35",
+          "23",
+          "6"
+        ],
+        [
+          "BOSCOSO",
+          "2",
+          "111",
+          "55",
+          "56",
+          "7"
+        ],
+        [
+          "BUENAVISTA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "CAIMANES II",
+          "4",
+          "233",
+          "117",
+          "116",
+          "14"
+        ],
+        [
+          "CAMPO BELLAVISTA",
+          "2",
+          "88",
+          "42",
+          "46",
+          "5"
+        ],
+        [
+          "CAMPO CACHANILLA",
+          "3",
+          "89",
+          "37",
+          "52",
+          "6"
+        ],
+        [
+          "CAMPO CINCO (LA RETAMA)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "9"
+        ],
+        [
+          "CAMPO LA PALOMA [AGRÍCOLA EL CHAPARRAL]",
+          "3",
+          "278",
+          "133",
+          "145",
+          "10"
+        ],
+        [
+          "CAMPO NUEVA FLORIDA",
+          "4",
+          "80",
+          "41",
+          "39",
+          "5"
+        ],
+        [
+          "CAMPO NUEVO CAIMANES",
+          "4",
+          "126",
+          "70",
+          "56",
+          "4"
+        ],
+        [
+          "CAMPO SAN JUAN",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "CAMPO TAYOLTITA",
+          "3",
+          "107",
+          "53",
+          "54",
+          "5"
+        ],
+        [
+          "CASAS GRANDES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "CASAS VIEJAS",
+          "2",
+          "102",
+          "50",
+          "52",
+          "8"
+        ],
+        [
+          "CELESTINO GAZCA VILLASEÑOR",
+          "4",
+          "247",
+          "120",
+          "127",
+          "14"
+        ],
+        [
+          "CEUTA",
+          "5",
+          "503",
+          "244",
+          "259",
+          "24"
+        ],
+        [
+          "COLONIA BUENOS AIRES",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "EJIDO CULIACÁN (CULIACANCITO)",
+          "6",
+          "202",
+          "110",
+          "92",
+          "12"
+        ],
+        [
+          "EJIDO LA VENTANA (EL CARRIZO)",
+          "3",
+          "94",
+          "58",
+          "36",
+          "5"
+        ],
+        [
+          "EL AGUAJE",
+          "2",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "EL BOLILLO",
+          "3",
+          "149",
+          "89",
+          "60",
+          "8"
+        ],
+        [
+          "EL CHIRIMOLE",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL ESPINAL",
+          "3",
+          "317",
+          "164",
+          "153",
+          "17"
+        ],
+        [
+          "EL PORTEZUELO DE ARRIBA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "EL ROBLE",
+          "3",
+          "142",
+          "59",
+          "83",
+          "6"
+        ],
+        [
+          "EL SABINAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL SALADITO",
+          "5",
+          "749",
+          "376",
+          "373",
+          "42"
+        ],
+        [
+          "EL SALADO",
+          "5",
+          "129",
+          "57",
+          "72",
+          "10"
+        ],
+        [
+          "EL SOLITO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "ELOTA",
+          "4",
+          "186",
+          "100",
+          "86",
+          "20"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "234",
+          "99",
+          "135",
+          "12"
+        ],
+        [
+          "EMPAQUE TARRIBA",
+          "2",
+          "27",
+          "17",
+          "10",
+          "5"
+        ],
+        [
+          "ENSENADA",
+          "3",
+          "75",
+          "40",
+          "35",
+          "6"
+        ],
+        [
+          "HIGUERAS DE CULIACANCITO",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "IBONÍA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "JAPUINO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LA CRUZ",
+          "26",
+          "6,465",
+          "3,221",
+          "3,244",
+          "340"
+        ],
+        [
+          "LAS GRANJAS DEL NOROTE",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "LAS TINAS",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LOMA DE TECUYO",
+          "3",
+          "81",
+          "37",
+          "44",
+          "7"
+        ],
+        [
+          "LOS DIFUNTOS",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LOS MECATES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO SALTO GRANDE",
+          "3",
+          "76",
+          "38",
+          "38",
+          "4"
+        ],
+        [
+          "PAREDÓN COLORADO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "3"
+        ],
+        [
+          "POTRERILLO DE LOS LANDEROS",
+          "2",
+          "15",
+          "3",
+          "12",
+          "2"
+        ],
+        [
+          "POTRERILLO DEL NOROTE",
+          "4",
+          "653",
+          "323",
+          "330",
+          "34"
+        ],
+        [
+          "PUEBLO NUEVO",
+          "5",
+          "432",
+          "219",
+          "213",
+          "34"
+        ],
+        [
+          "RINCÓN DE IBONÍA",
+          "3",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "ROSENDO NIEBLAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CONITACA (NUEVO CONITACA)",
+          "3",
+          "223",
+          "113",
+          "110",
+          "16"
+        ],
+        [
+          "SOL Y ARENA",
+          "3",
+          "85",
+          "40",
+          "45",
+          "3"
+        ],
+        [
+          "TANQUES",
+          "6",
+          "468",
+          "254",
+          "214",
+          "25"
+        ],
+        [
+          "TAYOLTITA",
+          "3",
+          "246",
+          "115",
+          "131",
+          "10"
+        ],
+        [
+          "VIDA CAMPESINA",
+          "3",
+          "100",
+          "48",
+          "52",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "201",
+          "14,054",
+          "7,025",
+          "7,029",
+          "805"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:32:45.788Z"
+}

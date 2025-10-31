@@ -1,0 +1,1220 @@
+{
+  "municipality": "JALPA DE MÉNDEZ",
+  "municipalityCode": "010",
+  "state": "TABASCO",
+  "stateCode": "27",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBALANCÁN\n\tCÁRDENAS\n\tCENTLA\n\tCENTRO\n\tCOMALCALCO\n\tCUNDUACÁN\n\tEMILIANO ZAPATA\n\tHUIMANGUILLO\n\tJALAPA\n\tJALPA DE MÉNDEZ\n\tJONUTA\n\tMACUSPANA\n\tNACAJUCA\n\tPARAÍSO\n\tTACOTALPA\n\tTEAPA\n\tTENOSIQUE"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: JALPA DE MÉNDEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMATITÁN\n\t\t2\n\t\t384\n\t\t193\n\t\t191\n\t\t16\n\t\n\t\n\t\tAYAPA\n\t\t12\n\t\t2,238\n\t\t1,085\n\t\t1,153\n\t\t77\n\t\n\t\n\t\tBENITO JUÁREZ 1RA. SECCIÓN\n\t\t2\n\t\t148\n\t\t77\n\t\t71\n\t\t6\n\t\n\t\n\t\tBENITO JUÁREZ 2DA. SECCIÓN\n\t\t4\n\t\t698\n\t\t323\n\t\t375\n\t\t27\n\t\n\t\n\t\tBENITO JUÁREZ 3RA. SECCIÓN\n\t\t2\n\t\t178\n\t\t87\n\t\t91\n\t\t8\n\t\n\t\n\t\tBOQUIAPA\n\t\t2\n\t\t210\n\t\t114\n\t\t96\n\t\t8\n\t\n\t\n\t\tCHACALAPA 1RA. SECCIÓN\n\t\t3\n\t\t401\n\t\t172\n\t\t229\n\t\t17\n\t\n\t\n\t\tCHACALAPA 2DA. SECCIÓN (SAN MANUEL)\n\t\t2\n\t\t133\n\t\t55\n\t\t78\n\t\t6\n\t\n\t\n\t\tEL CAMPO PETROLERO MECOACÁN\n\t\t2\n\t\t98\n\t\t43\n\t\t55\n\t\t5\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t112\n\t\t60\n\t\t52\n\t\t4\n\t\n\t\n\t\tEL JUNCAL\n\t\t2\n\t\t43\n\t\t30\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL NOVILLERO\n\t\t2\n\t\t100\n\t\t49\n\t\t51\n\t\t4\n\t\n\t\n\t\tEL PÚLPITO\n\t\t2\n\t\t65\n\t\t33\n\t\t32\n\t\t4\n\t\n\t\n\t\tEL RECREO\n\t\t3\n\t\t200\n\t\t96\n\t\t104\n\t\t9\n\t\n\t\n\t\tEL RÍO\n\t\t2\n\t\t394\n\t\t201\n\t\t193\n\t\t15\n\t\n\t\n\t\tGREGORIO MÉNDEZ\n\t\t3\n\t\t420\n\t\t206\n\t\t214\n\t\t16\n\t\n\t\n\t\tHERMENEGILDO GALEANA 1RA. SECCIÓN\n\t\t2\n\t\t224\n\t\t116\n\t\t108\n\t\t8\n\t\n\t\n\t\tHERMENEGILDO GALEANA 2DA. SECCIÓN\n\t\t4\n\t\t733\n\t\t353\n\t\t380\n\t\t35\n\t\n\t\n\t\tHUAPACAL 1RA. SECCIÓN\n\t\t4\n\t\t303\n\t\t154\n\t\t149\n\t\t13\n\t\n\t\n\t\tHUAPACAL 2DA. SECCIÓN (PUNTA BRAVA)\n\t\t5\n\t\t380\n\t\t172\n\t\t208\n\t\t16\n\t\n\t\n\t\tIQUINUAPA\n\t\t4\n\t\t682\n\t\t310\n\t\t372\n\t\t52\n\t\n\t\n\t\tIQUINUAPA (EL CLAVO)\n\t\t2\n\t\t362\n\t\t177\n\t\t185\n\t\t14\n\t\n\t\n\t\tJALPA DE MÉNDEZ\n\t\t23\n\t\t6,666\n\t\t3,432\n\t\t3,234\n\t\t382\n\t\n\t\n\t\tJALUPA\n\t\t5\n\t\t1,413\n\t\t677\n\t\t736\n\t\t58\n\t\n\t\n\t\tLA CEIBA\n\t\t2\n\t\t104\n\t\t40\n\t\t64\n\t\t5\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t2\n\t\t84\n\t\t41\n\t\t43\n\t\t3\n\t\n\t\n\t\tLA CRUZ\n\t\t2\n\t\t230\n\t\t103\n\t\t127\n\t\t8\n\t\n\t\n\t\tLA ENSENADA\n\t\t2\n\t\t21\n\t\t14\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA PERA\n\t\t2\n\t\t626\n\t\t309\n\t\t317\n\t\t24\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t214\n\t\t97\n\t\t117\n\t\t8\n\t\n\t\n\t\tMECOACÁN\n\t\t3\n\t\t798\n\t\t383\n\t\t415\n\t\t27\n\t\n\t\n\t\tMECOACÁN 2DA. SECCIÓN (SAN LORENZO)\n\t\t5\n\t\t734\n\t\t368\n\t\t366\n\t\t27\n\t\n\t\n\t\tNABOR CORNELIO ÁLVAREZ\n\t\t3\n\t\t98\n\t\t44\n\t\t54\n\t\t4\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t4\n\t\t459\n\t\t212\n\t\t247\n\t\t18\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t2\n\t\t215\n\t\t106\n\t\t109\n\t\t9\n\t\n\t\n\t\tREFORMA 1RA. SECCIÓN\n\t\t2\n\t\t96\n\t\t48\n\t\t48\n\t\t5\n\t\n\t\n\t\tREFORMA 2DA. SECCIÓN (SANTA MARÍA)\n\t\t3\n\t\t424\n\t\t201\n\t\t223\n\t\t15\n\t\n\t\n\t\tREFORMA 3RA. SECCIÓN (EL GUANO)\n\t\t2\n\t\t104\n\t\t47\n\t\t57\n\t\t4\n\t\n\t\n\t\tRIBERA ALTA\n\t\t3\n\t\t1,026\n\t\t608\n\t\t418\n\t\t69\n\t\n\t\n\t\tSAN HIPÓLITO\n\t\t2\n\t\t124\n\t\t55\n\t\t69\n\t\t5\n\t\n\t\n\t\tSAN NICOLÁS\n\t\t2\n\t\t72\n\t\t34\n\t\t38\n\t\t3\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t2\n\t\t191\n\t\t100\n\t\t91\n\t\t8\n\t\n\t\n\t\tSANTUARIO 1RA. SECCIÓN\n\t\t2\n\t\t103\n\t\t59\n\t\t44\n\t\t5\n\t\n\t\n\t\tSANTUARIO 2DA. SECCIÓN\n\t\t3\n\t\t256\n\t\t128\n\t\t128\n\t\t10\n\t\n\t\n\t\tSOYATACO\n\t\t6\n\t\t1,867\n\t\t860\n\t\t1,007\n\t\t121\n\t\n\t\n\t\tTIERRA ADENTRO 1RA. SECCIÓN\n\t\t4\n\t\t323\n\t\t147\n\t\t176\n\t\t15\n\t\n\t\n\t\tTIERRA ADENTRO 2DA. SECCIÓN\n\t\t2\n\t\t94\n\t\t39\n\t\t55\n\t\t5\n\t\n\t\n\t\tTIERRA ADENTRO 3RA. SECCIÓN (EL VIGÍA)\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tTIERRAS PELEADAS (TIERRAS AMIGAS)\n\t\t1\n\t\t24\n\t\t11\n\t\t13\n\t\t1\n\t\n\t\n\t\tVICENTE GUERRERO 1RA. SECCIÓN\n\t\t4\n\t\t806\n\t\t406\n\t\t400\n\t\t29\n\t\n\t\n\t\tVICENTE GUERRERO 2DA. SECCIÓN\n\t\t2\n\t\t79\n\t\t38\n\t\t41\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t166\n\t\t25,768\n\t\t12,718\n\t\t13,050\n\t\t1,236\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: JALPA DE MÉNDEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMATITÁN",
+          "2",
+          "384",
+          "193",
+          "191",
+          "16",
+          "AYAPA",
+          "12",
+          "2,238",
+          "1,085",
+          "1,153",
+          "77",
+          "BENITO JUÁREZ 1RA. SECCIÓN",
+          "2",
+          "148",
+          "77",
+          "71",
+          "6",
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "4",
+          "698",
+          "323",
+          "375",
+          "27",
+          "BENITO JUÁREZ 3RA. SECCIÓN",
+          "2",
+          "178",
+          "87",
+          "91",
+          "8",
+          "BOQUIAPA",
+          "2",
+          "210",
+          "114",
+          "96",
+          "8",
+          "CHACALAPA 1RA. SECCIÓN",
+          "3",
+          "401",
+          "172",
+          "229",
+          "17",
+          "CHACALAPA 2DA. SECCIÓN (SAN MANUEL)",
+          "2",
+          "133",
+          "55",
+          "78",
+          "6",
+          "EL CAMPO PETROLERO MECOACÁN",
+          "2",
+          "98",
+          "43",
+          "55",
+          "5",
+          "EL CARMEN",
+          "2",
+          "112",
+          "60",
+          "52",
+          "4",
+          "EL JUNCAL",
+          "2",
+          "43",
+          "30",
+          "13",
+          "2",
+          "EL NOVILLERO",
+          "2",
+          "100",
+          "49",
+          "51",
+          "4",
+          "EL PÚLPITO",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4",
+          "EL RECREO",
+          "3",
+          "200",
+          "96",
+          "104",
+          "9",
+          "EL RÍO",
+          "2",
+          "394",
+          "201",
+          "193",
+          "15",
+          "GREGORIO MÉNDEZ",
+          "3",
+          "420",
+          "206",
+          "214",
+          "16",
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN",
+          "2",
+          "224",
+          "116",
+          "108",
+          "8",
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "4",
+          "733",
+          "353",
+          "380",
+          "35",
+          "HUAPACAL 1RA. SECCIÓN",
+          "4",
+          "303",
+          "154",
+          "149",
+          "13",
+          "HUAPACAL 2DA. SECCIÓN (PUNTA BRAVA)",
+          "5",
+          "380",
+          "172",
+          "208",
+          "16",
+          "IQUINUAPA",
+          "4",
+          "682",
+          "310",
+          "372",
+          "52",
+          "IQUINUAPA (EL CLAVO)",
+          "2",
+          "362",
+          "177",
+          "185",
+          "14",
+          "JALPA DE MÉNDEZ",
+          "23",
+          "6,666",
+          "3,432",
+          "3,234",
+          "382",
+          "JALUPA",
+          "5",
+          "1,413",
+          "677",
+          "736",
+          "58",
+          "LA CEIBA",
+          "2",
+          "104",
+          "40",
+          "64",
+          "5",
+          "LA CONCEPCIÓN",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3",
+          "LA CRUZ",
+          "2",
+          "230",
+          "103",
+          "127",
+          "8",
+          "LA ENSENADA",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2",
+          "LA PERA",
+          "2",
+          "626",
+          "309",
+          "317",
+          "24",
+          "LA TRINIDAD",
+          "2",
+          "214",
+          "97",
+          "117",
+          "8",
+          "MECOACÁN",
+          "3",
+          "798",
+          "383",
+          "415",
+          "27",
+          "MECOACÁN 2DA. SECCIÓN (SAN LORENZO)",
+          "5",
+          "734",
+          "368",
+          "366",
+          "27",
+          "NABOR CORNELIO ÁLVAREZ",
+          "3",
+          "98",
+          "44",
+          "54",
+          "4",
+          "NICOLÁS BRAVO",
+          "4",
+          "459",
+          "212",
+          "247",
+          "18",
+          "PUEBLO VIEJO",
+          "2",
+          "215",
+          "106",
+          "109",
+          "9",
+          "REFORMA 1RA. SECCIÓN",
+          "2",
+          "96",
+          "48",
+          "48",
+          "5",
+          "REFORMA 2DA. SECCIÓN (SANTA MARÍA)",
+          "3",
+          "424",
+          "201",
+          "223",
+          "15",
+          "REFORMA 3RA. SECCIÓN (EL GUANO)",
+          "2",
+          "104",
+          "47",
+          "57",
+          "4",
+          "RIBERA ALTA",
+          "3",
+          "1,026",
+          "608",
+          "418",
+          "69",
+          "SAN HIPÓLITO",
+          "2",
+          "124",
+          "55",
+          "69",
+          "5",
+          "SAN NICOLÁS",
+          "2",
+          "72",
+          "34",
+          "38",
+          "3",
+          "SANTA LUCÍA",
+          "2",
+          "191",
+          "100",
+          "91",
+          "8",
+          "SANTUARIO 1RA. SECCIÓN",
+          "2",
+          "103",
+          "59",
+          "44",
+          "5",
+          "SANTUARIO 2DA. SECCIÓN",
+          "3",
+          "256",
+          "128",
+          "128",
+          "10",
+          "SOYATACO",
+          "6",
+          "1,867",
+          "860",
+          "1,007",
+          "121",
+          "TIERRA ADENTRO 1RA. SECCIÓN",
+          "4",
+          "323",
+          "147",
+          "176",
+          "15",
+          "TIERRA ADENTRO 2DA. SECCIÓN",
+          "2",
+          "94",
+          "39",
+          "55",
+          "5",
+          "TIERRA ADENTRO 3RA. SECCIÓN (EL VIGÍA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "TIERRAS PELEADAS (TIERRAS AMIGAS)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1",
+          "VICENTE GUERRERO 1RA. SECCIÓN",
+          "4",
+          "806",
+          "406",
+          "400",
+          "29",
+          "VICENTE GUERRERO 2DA. SECCIÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "3",
+          "TOTAL",
+          "166",
+          "25,768",
+          "12,718",
+          "13,050",
+          "1,236",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: JALPA DE MÉNDEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMATITÁN",
+          "2",
+          "384",
+          "193",
+          "191",
+          "16"
+        ],
+        [
+          "AYAPA",
+          "12",
+          "2,238",
+          "1,085",
+          "1,153",
+          "77"
+        ],
+        [
+          "BENITO JUÁREZ 1RA. SECCIÓN",
+          "2",
+          "148",
+          "77",
+          "71",
+          "6"
+        ],
+        [
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "4",
+          "698",
+          "323",
+          "375",
+          "27"
+        ],
+        [
+          "BENITO JUÁREZ 3RA. SECCIÓN",
+          "2",
+          "178",
+          "87",
+          "91",
+          "8"
+        ],
+        [
+          "BOQUIAPA",
+          "2",
+          "210",
+          "114",
+          "96",
+          "8"
+        ],
+        [
+          "CHACALAPA 1RA. SECCIÓN",
+          "3",
+          "401",
+          "172",
+          "229",
+          "17"
+        ],
+        [
+          "CHACALAPA 2DA. SECCIÓN (SAN MANUEL)",
+          "2",
+          "133",
+          "55",
+          "78",
+          "6"
+        ],
+        [
+          "EL CAMPO PETROLERO MECOACÁN",
+          "2",
+          "98",
+          "43",
+          "55",
+          "5"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "112",
+          "60",
+          "52",
+          "4"
+        ],
+        [
+          "EL JUNCAL",
+          "2",
+          "43",
+          "30",
+          "13",
+          "2"
+        ],
+        [
+          "EL NOVILLERO",
+          "2",
+          "100",
+          "49",
+          "51",
+          "4"
+        ],
+        [
+          "EL PÚLPITO",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "EL RECREO",
+          "3",
+          "200",
+          "96",
+          "104",
+          "9"
+        ],
+        [
+          "EL RÍO",
+          "2",
+          "394",
+          "201",
+          "193",
+          "15"
+        ],
+        [
+          "GREGORIO MÉNDEZ",
+          "3",
+          "420",
+          "206",
+          "214",
+          "16"
+        ],
+        [
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN",
+          "2",
+          "224",
+          "116",
+          "108",
+          "8"
+        ],
+        [
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "4",
+          "733",
+          "353",
+          "380",
+          "35"
+        ],
+        [
+          "HUAPACAL 1RA. SECCIÓN",
+          "4",
+          "303",
+          "154",
+          "149",
+          "13"
+        ],
+        [
+          "HUAPACAL 2DA. SECCIÓN (PUNTA BRAVA)",
+          "5",
+          "380",
+          "172",
+          "208",
+          "16"
+        ],
+        [
+          "IQUINUAPA",
+          "4",
+          "682",
+          "310",
+          "372",
+          "52"
+        ],
+        [
+          "IQUINUAPA (EL CLAVO)",
+          "2",
+          "362",
+          "177",
+          "185",
+          "14"
+        ],
+        [
+          "JALPA DE MÉNDEZ",
+          "23",
+          "6,666",
+          "3,432",
+          "3,234",
+          "382"
+        ],
+        [
+          "JALUPA",
+          "5",
+          "1,413",
+          "677",
+          "736",
+          "58"
+        ],
+        [
+          "LA CEIBA",
+          "2",
+          "104",
+          "40",
+          "64",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3"
+        ],
+        [
+          "LA CRUZ",
+          "2",
+          "230",
+          "103",
+          "127",
+          "8"
+        ],
+        [
+          "LA ENSENADA",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "LA PERA",
+          "2",
+          "626",
+          "309",
+          "317",
+          "24"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "214",
+          "97",
+          "117",
+          "8"
+        ],
+        [
+          "MECOACÁN",
+          "3",
+          "798",
+          "383",
+          "415",
+          "27"
+        ],
+        [
+          "MECOACÁN 2DA. SECCIÓN (SAN LORENZO)",
+          "5",
+          "734",
+          "368",
+          "366",
+          "27"
+        ],
+        [
+          "NABOR CORNELIO ÁLVAREZ",
+          "3",
+          "98",
+          "44",
+          "54",
+          "4"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "4",
+          "459",
+          "212",
+          "247",
+          "18"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "215",
+          "106",
+          "109",
+          "9"
+        ],
+        [
+          "REFORMA 1RA. SECCIÓN",
+          "2",
+          "96",
+          "48",
+          "48",
+          "5"
+        ],
+        [
+          "REFORMA 2DA. SECCIÓN (SANTA MARÍA)",
+          "3",
+          "424",
+          "201",
+          "223",
+          "15"
+        ],
+        [
+          "REFORMA 3RA. SECCIÓN (EL GUANO)",
+          "2",
+          "104",
+          "47",
+          "57",
+          "4"
+        ],
+        [
+          "RIBERA ALTA",
+          "3",
+          "1,026",
+          "608",
+          "418",
+          "69"
+        ],
+        [
+          "SAN HIPÓLITO",
+          "2",
+          "124",
+          "55",
+          "69",
+          "5"
+        ],
+        [
+          "SAN NICOLÁS",
+          "2",
+          "72",
+          "34",
+          "38",
+          "3"
+        ],
+        [
+          "SANTA LUCÍA",
+          "2",
+          "191",
+          "100",
+          "91",
+          "8"
+        ],
+        [
+          "SANTUARIO 1RA. SECCIÓN",
+          "2",
+          "103",
+          "59",
+          "44",
+          "5"
+        ],
+        [
+          "SANTUARIO 2DA. SECCIÓN",
+          "3",
+          "256",
+          "128",
+          "128",
+          "10"
+        ],
+        [
+          "SOYATACO",
+          "6",
+          "1,867",
+          "860",
+          "1,007",
+          "121"
+        ],
+        [
+          "TIERRA ADENTRO 1RA. SECCIÓN",
+          "4",
+          "323",
+          "147",
+          "176",
+          "15"
+        ],
+        [
+          "TIERRA ADENTRO 2DA. SECCIÓN",
+          "2",
+          "94",
+          "39",
+          "55",
+          "5"
+        ],
+        [
+          "TIERRA ADENTRO 3RA. SECCIÓN (EL VIGÍA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "TIERRAS PELEADAS (TIERRAS AMIGAS)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO 1RA. SECCIÓN",
+          "4",
+          "806",
+          "406",
+          "400",
+          "29"
+        ],
+        [
+          "VICENTE GUERRERO 2DA. SECCIÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "166",
+          "25,768",
+          "12,718",
+          "13,050",
+          "1,236"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: JALPA DE MÉNDEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMATITÁN",
+          "2",
+          "384",
+          "193",
+          "191",
+          "16"
+        ],
+        [
+          "AYAPA",
+          "12",
+          "2,238",
+          "1,085",
+          "1,153",
+          "77"
+        ],
+        [
+          "BENITO JUÁREZ 1RA. SECCIÓN",
+          "2",
+          "148",
+          "77",
+          "71",
+          "6"
+        ],
+        [
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "4",
+          "698",
+          "323",
+          "375",
+          "27"
+        ],
+        [
+          "BENITO JUÁREZ 3RA. SECCIÓN",
+          "2",
+          "178",
+          "87",
+          "91",
+          "8"
+        ],
+        [
+          "BOQUIAPA",
+          "2",
+          "210",
+          "114",
+          "96",
+          "8"
+        ],
+        [
+          "CHACALAPA 1RA. SECCIÓN",
+          "3",
+          "401",
+          "172",
+          "229",
+          "17"
+        ],
+        [
+          "CHACALAPA 2DA. SECCIÓN (SAN MANUEL)",
+          "2",
+          "133",
+          "55",
+          "78",
+          "6"
+        ],
+        [
+          "EL CAMPO PETROLERO MECOACÁN",
+          "2",
+          "98",
+          "43",
+          "55",
+          "5"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "112",
+          "60",
+          "52",
+          "4"
+        ],
+        [
+          "EL JUNCAL",
+          "2",
+          "43",
+          "30",
+          "13",
+          "2"
+        ],
+        [
+          "EL NOVILLERO",
+          "2",
+          "100",
+          "49",
+          "51",
+          "4"
+        ],
+        [
+          "EL PÚLPITO",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "EL RECREO",
+          "3",
+          "200",
+          "96",
+          "104",
+          "9"
+        ],
+        [
+          "EL RÍO",
+          "2",
+          "394",
+          "201",
+          "193",
+          "15"
+        ],
+        [
+          "GREGORIO MÉNDEZ",
+          "3",
+          "420",
+          "206",
+          "214",
+          "16"
+        ],
+        [
+          "HERMENEGILDO GALEANA 1RA. SECCIÓN",
+          "2",
+          "224",
+          "116",
+          "108",
+          "8"
+        ],
+        [
+          "HERMENEGILDO GALEANA 2DA. SECCIÓN",
+          "4",
+          "733",
+          "353",
+          "380",
+          "35"
+        ],
+        [
+          "HUAPACAL 1RA. SECCIÓN",
+          "4",
+          "303",
+          "154",
+          "149",
+          "13"
+        ],
+        [
+          "HUAPACAL 2DA. SECCIÓN (PUNTA BRAVA)",
+          "5",
+          "380",
+          "172",
+          "208",
+          "16"
+        ],
+        [
+          "IQUINUAPA",
+          "4",
+          "682",
+          "310",
+          "372",
+          "52"
+        ],
+        [
+          "IQUINUAPA (EL CLAVO)",
+          "2",
+          "362",
+          "177",
+          "185",
+          "14"
+        ],
+        [
+          "JALPA DE MÉNDEZ",
+          "23",
+          "6,666",
+          "3,432",
+          "3,234",
+          "382"
+        ],
+        [
+          "JALUPA",
+          "5",
+          "1,413",
+          "677",
+          "736",
+          "58"
+        ],
+        [
+          "LA CEIBA",
+          "2",
+          "104",
+          "40",
+          "64",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "2",
+          "84",
+          "41",
+          "43",
+          "3"
+        ],
+        [
+          "LA CRUZ",
+          "2",
+          "230",
+          "103",
+          "127",
+          "8"
+        ],
+        [
+          "LA ENSENADA",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "LA PERA",
+          "2",
+          "626",
+          "309",
+          "317",
+          "24"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "214",
+          "97",
+          "117",
+          "8"
+        ],
+        [
+          "MECOACÁN",
+          "3",
+          "798",
+          "383",
+          "415",
+          "27"
+        ],
+        [
+          "MECOACÁN 2DA. SECCIÓN (SAN LORENZO)",
+          "5",
+          "734",
+          "368",
+          "366",
+          "27"
+        ],
+        [
+          "NABOR CORNELIO ÁLVAREZ",
+          "3",
+          "98",
+          "44",
+          "54",
+          "4"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "4",
+          "459",
+          "212",
+          "247",
+          "18"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "2",
+          "215",
+          "106",
+          "109",
+          "9"
+        ],
+        [
+          "REFORMA 1RA. SECCIÓN",
+          "2",
+          "96",
+          "48",
+          "48",
+          "5"
+        ],
+        [
+          "REFORMA 2DA. SECCIÓN (SANTA MARÍA)",
+          "3",
+          "424",
+          "201",
+          "223",
+          "15"
+        ],
+        [
+          "REFORMA 3RA. SECCIÓN (EL GUANO)",
+          "2",
+          "104",
+          "47",
+          "57",
+          "4"
+        ],
+        [
+          "RIBERA ALTA",
+          "3",
+          "1,026",
+          "608",
+          "418",
+          "69"
+        ],
+        [
+          "SAN HIPÓLITO",
+          "2",
+          "124",
+          "55",
+          "69",
+          "5"
+        ],
+        [
+          "SAN NICOLÁS",
+          "2",
+          "72",
+          "34",
+          "38",
+          "3"
+        ],
+        [
+          "SANTA LUCÍA",
+          "2",
+          "191",
+          "100",
+          "91",
+          "8"
+        ],
+        [
+          "SANTUARIO 1RA. SECCIÓN",
+          "2",
+          "103",
+          "59",
+          "44",
+          "5"
+        ],
+        [
+          "SANTUARIO 2DA. SECCIÓN",
+          "3",
+          "256",
+          "128",
+          "128",
+          "10"
+        ],
+        [
+          "SOYATACO",
+          "6",
+          "1,867",
+          "860",
+          "1,007",
+          "121"
+        ],
+        [
+          "TIERRA ADENTRO 1RA. SECCIÓN",
+          "4",
+          "323",
+          "147",
+          "176",
+          "15"
+        ],
+        [
+          "TIERRA ADENTRO 2DA. SECCIÓN",
+          "2",
+          "94",
+          "39",
+          "55",
+          "5"
+        ],
+        [
+          "TIERRA ADENTRO 3RA. SECCIÓN (EL VIGÍA)",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "TIERRAS PELEADAS (TIERRAS AMIGAS)",
+          "1",
+          "24",
+          "11",
+          "13",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO 1RA. SECCIÓN",
+          "4",
+          "806",
+          "406",
+          "400",
+          "29"
+        ],
+        [
+          "VICENTE GUERRERO 2DA. SECCIÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "166",
+          "25,768",
+          "12,718",
+          "13,050",
+          "1,236"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:38:49.338Z"
+}

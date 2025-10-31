@@ -1,0 +1,538 @@
+{
+  "municipality": "COCULA",
+  "municipalityCode": "017",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: COCULA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACALMANTLILA\n\t\t2\n\t\t60\n\t\t30\n\t\t30\n\t\t5\n\t\n\t\n\t\tAPANGO\n\t\t2\n\t\t77\n\t\t45\n\t\t32\n\t\t7\n\t\n\t\n\t\tAPIPILULCO\n\t\t2\n\t\t159\n\t\t74\n\t\t85\n\t\t13\n\t\n\t\n\t\tATLIXTAC\n\t\t6\n\t\t392\n\t\t191\n\t\t201\n\t\t30\n\t\n\t\n\t\tATZCALA\n\t\t3\n\t\t321\n\t\t152\n\t\t169\n\t\t14\n\t\n\t\n\t\tBALSAS NORTE\n\t\t1\n\t\t185\n\t\t94\n\t\t91\n\t\t6\n\t\n\t\n\t\tCOCULA\n\t\t14\n\t\t2,038\n\t\t969\n\t\t1,069\n\t\t151\n\t\n\t\n\t\tCOLONIA TOMÁS GÓMEZ (EL TRIUNFO)\n\t\t1\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tCUETZALA DE LA REFORMA\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MACHITO DE LAS FLORES\n\t\t3\n\t\t34\n\t\t14\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL MUNICIPIO (TIJUANITA)\n\t\t3\n\t\t87\n\t\t37\n\t\t50\n\t\t10\n\t\n\t\n\t\tEL REAL DEL LIMÓN\n\t\t2\n\t\t94\n\t\t49\n\t\t45\n\t\t5\n\t\n\t\n\t\tLA FUNDICIÓN\n\t\t3\n\t\t171\n\t\t81\n\t\t90\n\t\t7\n\t\n\t\n\t\tMOHONERA\n\t\t2\n\t\t45\n\t\t20\n\t\t25\n\t\t6\n\t\n\t\n\t\tNUEVO BALSAS\n\t\t4\n\t\t485\n\t\t235\n\t\t250\n\t\t25\n\t\n\t\n\t\tPUENTE RÍO SAN JUAN\n\t\t3\n\t\t72\n\t\t38\n\t\t34\n\t\t7\n\t\n\t\n\t\tSAN NICOLÁS\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tTECOMATLÁN\n\t\t3\n\t\t73\n\t\t32\n\t\t41\n\t\t7\n\t\n\t\n\t\tTLANIPATLÁN\n\t\t4\n\t\t199\n\t\t98\n\t\t101\n\t\t16\n\t\n\t\n\t\tXONACATLA\n\t\t3\n\t\t30\n\t\t16\n\t\t14\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t65\n\t\t4,588\n\t\t2,207\n\t\t2,381\n\t\t323\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: COCULA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACALMANTLILA",
+          "2",
+          "60",
+          "30",
+          "30",
+          "5",
+          "APANGO",
+          "2",
+          "77",
+          "45",
+          "32",
+          "7",
+          "APIPILULCO",
+          "2",
+          "159",
+          "74",
+          "85",
+          "13",
+          "ATLIXTAC",
+          "6",
+          "392",
+          "191",
+          "201",
+          "30",
+          "ATZCALA",
+          "3",
+          "321",
+          "152",
+          "169",
+          "14",
+          "BALSAS NORTE",
+          "1",
+          "185",
+          "94",
+          "91",
+          "6",
+          "COCULA",
+          "14",
+          "2,038",
+          "969",
+          "1,069",
+          "151",
+          "COLONIA TOMÁS GÓMEZ (EL TRIUNFO)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "2",
+          "CUETZALA DE LA REFORMA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "EL MACHITO DE LAS FLORES",
+          "3",
+          "34",
+          "14",
+          "20",
+          "3",
+          "EL MUNICIPIO (TIJUANITA)",
+          "3",
+          "87",
+          "37",
+          "50",
+          "10",
+          "EL REAL DEL LIMÓN",
+          "2",
+          "94",
+          "49",
+          "45",
+          "5",
+          "LA FUNDICIÓN",
+          "3",
+          "171",
+          "81",
+          "90",
+          "7",
+          "MOHONERA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "6",
+          "NUEVO BALSAS",
+          "4",
+          "485",
+          "235",
+          "250",
+          "25",
+          "PUENTE RÍO SAN JUAN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "7",
+          "SAN NICOLÁS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "TECOMATLÁN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7",
+          "TLANIPATLÁN",
+          "4",
+          "199",
+          "98",
+          "101",
+          "16",
+          "XONACATLA",
+          "3",
+          "30",
+          "16",
+          "14",
+          "5",
+          "TOTAL",
+          "65",
+          "4,588",
+          "2,207",
+          "2,381",
+          "323",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: COCULA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACALMANTLILA",
+          "2",
+          "60",
+          "30",
+          "30",
+          "5"
+        ],
+        [
+          "APANGO",
+          "2",
+          "77",
+          "45",
+          "32",
+          "7"
+        ],
+        [
+          "APIPILULCO",
+          "2",
+          "159",
+          "74",
+          "85",
+          "13"
+        ],
+        [
+          "ATLIXTAC",
+          "6",
+          "392",
+          "191",
+          "201",
+          "30"
+        ],
+        [
+          "ATZCALA",
+          "3",
+          "321",
+          "152",
+          "169",
+          "14"
+        ],
+        [
+          "BALSAS NORTE",
+          "1",
+          "185",
+          "94",
+          "91",
+          "6"
+        ],
+        [
+          "COCULA",
+          "14",
+          "2,038",
+          "969",
+          "1,069",
+          "151"
+        ],
+        [
+          "COLONIA TOMÁS GÓMEZ (EL TRIUNFO)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "CUETZALA DE LA REFORMA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "EL MACHITO DE LAS FLORES",
+          "3",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "EL MUNICIPIO (TIJUANITA)",
+          "3",
+          "87",
+          "37",
+          "50",
+          "10"
+        ],
+        [
+          "EL REAL DEL LIMÓN",
+          "2",
+          "94",
+          "49",
+          "45",
+          "5"
+        ],
+        [
+          "LA FUNDICIÓN",
+          "3",
+          "171",
+          "81",
+          "90",
+          "7"
+        ],
+        [
+          "MOHONERA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "6"
+        ],
+        [
+          "NUEVO BALSAS",
+          "4",
+          "485",
+          "235",
+          "250",
+          "25"
+        ],
+        [
+          "PUENTE RÍO SAN JUAN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "7"
+        ],
+        [
+          "SAN NICOLÁS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TECOMATLÁN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7"
+        ],
+        [
+          "TLANIPATLÁN",
+          "4",
+          "199",
+          "98",
+          "101",
+          "16"
+        ],
+        [
+          "XONACATLA",
+          "3",
+          "30",
+          "16",
+          "14",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "65",
+          "4,588",
+          "2,207",
+          "2,381",
+          "323"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: COCULA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACALMANTLILA",
+          "2",
+          "60",
+          "30",
+          "30",
+          "5"
+        ],
+        [
+          "APANGO",
+          "2",
+          "77",
+          "45",
+          "32",
+          "7"
+        ],
+        [
+          "APIPILULCO",
+          "2",
+          "159",
+          "74",
+          "85",
+          "13"
+        ],
+        [
+          "ATLIXTAC",
+          "6",
+          "392",
+          "191",
+          "201",
+          "30"
+        ],
+        [
+          "ATZCALA",
+          "3",
+          "321",
+          "152",
+          "169",
+          "14"
+        ],
+        [
+          "BALSAS NORTE",
+          "1",
+          "185",
+          "94",
+          "91",
+          "6"
+        ],
+        [
+          "COCULA",
+          "14",
+          "2,038",
+          "969",
+          "1,069",
+          "151"
+        ],
+        [
+          "COLONIA TOMÁS GÓMEZ (EL TRIUNFO)",
+          "1",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "CUETZALA DE LA REFORMA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "EL MACHITO DE LAS FLORES",
+          "3",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "EL MUNICIPIO (TIJUANITA)",
+          "3",
+          "87",
+          "37",
+          "50",
+          "10"
+        ],
+        [
+          "EL REAL DEL LIMÓN",
+          "2",
+          "94",
+          "49",
+          "45",
+          "5"
+        ],
+        [
+          "LA FUNDICIÓN",
+          "3",
+          "171",
+          "81",
+          "90",
+          "7"
+        ],
+        [
+          "MOHONERA",
+          "2",
+          "45",
+          "20",
+          "25",
+          "6"
+        ],
+        [
+          "NUEVO BALSAS",
+          "4",
+          "485",
+          "235",
+          "250",
+          "25"
+        ],
+        [
+          "PUENTE RÍO SAN JUAN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "7"
+        ],
+        [
+          "SAN NICOLÁS",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TECOMATLÁN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "7"
+        ],
+        [
+          "TLANIPATLÁN",
+          "4",
+          "199",
+          "98",
+          "101",
+          "16"
+        ],
+        [
+          "XONACATLA",
+          "3",
+          "30",
+          "16",
+          "14",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "65",
+          "4,588",
+          "2,207",
+          "2,381",
+          "323"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:38.639Z"
+}

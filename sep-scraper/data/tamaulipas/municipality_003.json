@@ -1,0 +1,978 @@
+{
+  "municipality": "ALTAMIRA",
+  "municipalityCode": "003",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: ALTAMIRA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DE CASTILLA\n\t\t2\n\t\t54\n\t\t27\n\t\t27\n\t\t5\n\t\n\t\n\t\tALTAMIRA\n\t\t139\n\t\t33,685\n\t\t16,620\n\t\t17,065\n\t\t2,526\n\t\n\t\n\t\tAMPLIACIÓN SAN ANTONIO (EL PLÁTANO)\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tAQUILES SERDÁN (EL BARRANCO)\n\t\t3\n\t\t160\n\t\t88\n\t\t72\n\t\t10\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t4\n\t\t324\n\t\t169\n\t\t155\n\t\t18\n\t\n\t\n\t\tCERVANTES\n\t\t3\n\t\t87\n\t\t44\n\t\t43\n\t\t6\n\t\n\t\n\t\tCHAPOPOTE\n\t\t2\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tCUAUHTÉMOC\n\t\t7\n\t\t1,932\n\t\t1,016\n\t\t916\n\t\t75\n\t\n\t\n\t\tCÚEZ DE PALMAS ALTAS\n\t\t3\n\t\t41\n\t\t19\n\t\t22\n\t\t4\n\t\n\t\n\t\tCÚEZ ORTEÑO\n\t\t1\n\t\t32\n\t\t8\n\t\t24\n\t\t2\n\t\n\t\n\t\tEL CONTADERO\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL FUERTE\n\t\t3\n\t\t125\n\t\t57\n\t\t68\n\t\t9\n\t\n\t\n\t\tEL POTOSÍ\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL REPECHO\n\t\t2\n\t\t63\n\t\t22\n\t\t41\n\t\t4\n\t\n\t\n\t\tEL SATÉLITE (EL CERRITO)\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tESTEROS\n\t\t2\n\t\t294\n\t\t135\n\t\t159\n\t\t13\n\t\n\t\n\t\tFRANCISCO MEDRANO\n\t\t3\n\t\t150\n\t\t75\n\t\t75\n\t\t9\n\t\n\t\n\t\tJOSÉ MARÍA LUIS MORA (LAS MARGARITAS)\n\t\t3\n\t\t130\n\t\t67\n\t\t63\n\t\t7\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS (LAS CUATROCIENTAS)\n\t\t2\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA COLONIA (ESTACIÓN COLONIAS)\n\t\t3\n\t\t263\n\t\t143\n\t\t120\n\t\t14\n\t\n\t\n\t\tLA PEDRERA\n\t\t7\n\t\t1,422\n\t\t689\n\t\t733\n\t\t63\n\t\n\t\n\t\tLAS TRES B\n\t\t2\n\t\t23\n\t\t13\n\t\t10\n\t\t2\n\t\n\t\n\t\tLLANO GRANDE (LILIANA ORTA DE HERNÁNDEZ)\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tLOMAS DEL REAL\n\t\t4\n\t\t263\n\t\t117\n\t\t146\n\t\t16\n\t\n\t\n\t\tMACLOVIO HERRERA (MIRADORES)\n\t\t4\n\t\t351\n\t\t169\n\t\t182\n\t\t17\n\t\n\t\n\t\tMARIANO MATAMOROS\n\t\t3\n\t\t82\n\t\t40\n\t\t42\n\t\t8\n\t\n\t\n\t\tMARTÍN A. MARTÍNEZ (LOS POTREROS)\n\t\t3\n\t\t70\n\t\t35\n\t\t35\n\t\t5\n\t\n\t\n\t\tMATA DEL ABRA\n\t\t3\n\t\t114\n\t\t57\n\t\t57\n\t\t7\n\t\n\t\n\t\tMIRAMAR\n\t\t112\n\t\t22,460\n\t\t10,943\n\t\t11,517\n\t\t1,164\n\t\n\t\n\t\tPROVIDENCIA Y NARANJOS\n\t\t3\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t4\n\t\t459\n\t\t207\n\t\t252\n\t\t21\n\t\n\t\n\t\tRÍO TAMIAHUA\n\t\t2\n\t\t195\n\t\t93\n\t\t102\n\t\t9\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN CARLITOS\n\t\t2\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTA AMALIA\n\t\t2\n\t\t203\n\t\t94\n\t\t109\n\t\t9\n\t\n\t\n\t\tSANTA JUANA\n\t\t3\n\t\t54\n\t\t22\n\t\t32\n\t\t5\n\t\n\t\n\t\tSANTA PAULA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tTORNO LARGO\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tTRES DE MAYO (MATA NEGRA)\n\t\t2\n\t\t69\n\t\t27\n\t\t42\n\t\t4\n\t\n\t\n\t\tVUELTA DE LAS YEGUAS\n\t\t3\n\t\t76\n\t\t46\n\t\t30\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t354\n\t\t63,376\n\t\t31,134\n\t\t32,242\n\t\t4,059\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: ALTAMIRA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA DE CASTILLA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "5",
+          "ALTAMIRA",
+          "139",
+          "33,685",
+          "16,620",
+          "17,065",
+          "2,526",
+          "AMPLIACIÓN SAN ANTONIO (EL PLÁTANO)",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "AQUILES SERDÁN (EL BARRANCO)",
+          "3",
+          "160",
+          "88",
+          "72",
+          "10",
+          "BENITO JUÁREZ",
+          "4",
+          "324",
+          "169",
+          "155",
+          "18",
+          "CERVANTES",
+          "3",
+          "87",
+          "44",
+          "43",
+          "6",
+          "CHAPOPOTE",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3",
+          "CUAUHTÉMOC",
+          "7",
+          "1,932",
+          "1,016",
+          "916",
+          "75",
+          "CÚEZ DE PALMAS ALTAS",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4",
+          "CÚEZ ORTEÑO",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2",
+          "EL CONTADERO",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2",
+          "EL FUERTE",
+          "3",
+          "125",
+          "57",
+          "68",
+          "9",
+          "EL POTOSÍ",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "EL REPECHO",
+          "2",
+          "63",
+          "22",
+          "41",
+          "4",
+          "EL SATÉLITE (EL CERRITO)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "ESTEROS",
+          "2",
+          "294",
+          "135",
+          "159",
+          "13",
+          "FRANCISCO MEDRANO",
+          "3",
+          "150",
+          "75",
+          "75",
+          "9",
+          "JOSÉ MARÍA LUIS MORA (LAS MARGARITAS)",
+          "3",
+          "130",
+          "67",
+          "63",
+          "7",
+          "JOSÉ MARÍA MORELOS (LAS CUATROCIENTAS)",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3",
+          "LA COLONIA (ESTACIÓN COLONIAS)",
+          "3",
+          "263",
+          "143",
+          "120",
+          "14",
+          "LA PEDRERA",
+          "7",
+          "1,422",
+          "689",
+          "733",
+          "63",
+          "LAS TRES B",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2",
+          "LLANO GRANDE (LILIANA ORTA DE HERNÁNDEZ)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "LOMAS DEL REAL",
+          "4",
+          "263",
+          "117",
+          "146",
+          "16",
+          "MACLOVIO HERRERA (MIRADORES)",
+          "4",
+          "351",
+          "169",
+          "182",
+          "17",
+          "MARIANO MATAMOROS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "8",
+          "MARTÍN A. MARTÍNEZ (LOS POTREROS)",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5",
+          "MATA DEL ABRA",
+          "3",
+          "114",
+          "57",
+          "57",
+          "7",
+          "MIRAMAR",
+          "112",
+          "22,460",
+          "10,943",
+          "11,517",
+          "1,164",
+          "PROVIDENCIA Y NARANJOS",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3",
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "459",
+          "207",
+          "252",
+          "21",
+          "RÍO TAMIAHUA",
+          "2",
+          "195",
+          "93",
+          "102",
+          "9",
+          "SAN ANTONIO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "SAN CARLITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1",
+          "SANTA AMALIA",
+          "2",
+          "203",
+          "94",
+          "109",
+          "9",
+          "SANTA JUANA",
+          "3",
+          "54",
+          "22",
+          "32",
+          "5",
+          "SANTA PAULA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "TORNO LARGO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "TRES DE MAYO (MATA NEGRA)",
+          "2",
+          "69",
+          "27",
+          "42",
+          "4",
+          "VUELTA DE LAS YEGUAS",
+          "3",
+          "76",
+          "46",
+          "30",
+          "5",
+          "TOTAL",
+          "354",
+          "63,376",
+          "31,134",
+          "32,242",
+          "4,059",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: ALTAMIRA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE CASTILLA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "5"
+        ],
+        [
+          "ALTAMIRA",
+          "139",
+          "33,685",
+          "16,620",
+          "17,065",
+          "2,526"
+        ],
+        [
+          "AMPLIACIÓN SAN ANTONIO (EL PLÁTANO)",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "AQUILES SERDÁN (EL BARRANCO)",
+          "3",
+          "160",
+          "88",
+          "72",
+          "10"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "324",
+          "169",
+          "155",
+          "18"
+        ],
+        [
+          "CERVANTES",
+          "3",
+          "87",
+          "44",
+          "43",
+          "6"
+        ],
+        [
+          "CHAPOPOTE",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "7",
+          "1,932",
+          "1,016",
+          "916",
+          "75"
+        ],
+        [
+          "CÚEZ DE PALMAS ALTAS",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4"
+        ],
+        [
+          "CÚEZ ORTEÑO",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2"
+        ],
+        [
+          "EL CONTADERO",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "EL FUERTE",
+          "3",
+          "125",
+          "57",
+          "68",
+          "9"
+        ],
+        [
+          "EL POTOSÍ",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL REPECHO",
+          "2",
+          "63",
+          "22",
+          "41",
+          "4"
+        ],
+        [
+          "EL SATÉLITE (EL CERRITO)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ESTEROS",
+          "2",
+          "294",
+          "135",
+          "159",
+          "13"
+        ],
+        [
+          "FRANCISCO MEDRANO",
+          "3",
+          "150",
+          "75",
+          "75",
+          "9"
+        ],
+        [
+          "JOSÉ MARÍA LUIS MORA (LAS MARGARITAS)",
+          "3",
+          "130",
+          "67",
+          "63",
+          "7"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (LAS CUATROCIENTAS)",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "LA COLONIA (ESTACIÓN COLONIAS)",
+          "3",
+          "263",
+          "143",
+          "120",
+          "14"
+        ],
+        [
+          "LA PEDRERA",
+          "7",
+          "1,422",
+          "689",
+          "733",
+          "63"
+        ],
+        [
+          "LAS TRES B",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "LLANO GRANDE (LILIANA ORTA DE HERNÁNDEZ)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LOMAS DEL REAL",
+          "4",
+          "263",
+          "117",
+          "146",
+          "16"
+        ],
+        [
+          "MACLOVIO HERRERA (MIRADORES)",
+          "4",
+          "351",
+          "169",
+          "182",
+          "17"
+        ],
+        [
+          "MARIANO MATAMOROS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "8"
+        ],
+        [
+          "MARTÍN A. MARTÍNEZ (LOS POTREROS)",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5"
+        ],
+        [
+          "MATA DEL ABRA",
+          "3",
+          "114",
+          "57",
+          "57",
+          "7"
+        ],
+        [
+          "MIRAMAR",
+          "112",
+          "22,460",
+          "10,943",
+          "11,517",
+          "1,164"
+        ],
+        [
+          "PROVIDENCIA Y NARANJOS",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "459",
+          "207",
+          "252",
+          "21"
+        ],
+        [
+          "RÍO TAMIAHUA",
+          "2",
+          "195",
+          "93",
+          "102",
+          "9"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN CARLITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA AMALIA",
+          "2",
+          "203",
+          "94",
+          "109",
+          "9"
+        ],
+        [
+          "SANTA JUANA",
+          "3",
+          "54",
+          "22",
+          "32",
+          "5"
+        ],
+        [
+          "SANTA PAULA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "TORNO LARGO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "TRES DE MAYO (MATA NEGRA)",
+          "2",
+          "69",
+          "27",
+          "42",
+          "4"
+        ],
+        [
+          "VUELTA DE LAS YEGUAS",
+          "3",
+          "76",
+          "46",
+          "30",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "354",
+          "63,376",
+          "31,134",
+          "32,242",
+          "4,059"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: ALTAMIRA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE CASTILLA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "5"
+        ],
+        [
+          "ALTAMIRA",
+          "139",
+          "33,685",
+          "16,620",
+          "17,065",
+          "2,526"
+        ],
+        [
+          "AMPLIACIÓN SAN ANTONIO (EL PLÁTANO)",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "AQUILES SERDÁN (EL BARRANCO)",
+          "3",
+          "160",
+          "88",
+          "72",
+          "10"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "324",
+          "169",
+          "155",
+          "18"
+        ],
+        [
+          "CERVANTES",
+          "3",
+          "87",
+          "44",
+          "43",
+          "6"
+        ],
+        [
+          "CHAPOPOTE",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "7",
+          "1,932",
+          "1,016",
+          "916",
+          "75"
+        ],
+        [
+          "CÚEZ DE PALMAS ALTAS",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4"
+        ],
+        [
+          "CÚEZ ORTEÑO",
+          "1",
+          "32",
+          "8",
+          "24",
+          "2"
+        ],
+        [
+          "EL CONTADERO",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "EL FUERTE",
+          "3",
+          "125",
+          "57",
+          "68",
+          "9"
+        ],
+        [
+          "EL POTOSÍ",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL REPECHO",
+          "2",
+          "63",
+          "22",
+          "41",
+          "4"
+        ],
+        [
+          "EL SATÉLITE (EL CERRITO)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "ESTEROS",
+          "2",
+          "294",
+          "135",
+          "159",
+          "13"
+        ],
+        [
+          "FRANCISCO MEDRANO",
+          "3",
+          "150",
+          "75",
+          "75",
+          "9"
+        ],
+        [
+          "JOSÉ MARÍA LUIS MORA (LAS MARGARITAS)",
+          "3",
+          "130",
+          "67",
+          "63",
+          "7"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (LAS CUATROCIENTAS)",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "LA COLONIA (ESTACIÓN COLONIAS)",
+          "3",
+          "263",
+          "143",
+          "120",
+          "14"
+        ],
+        [
+          "LA PEDRERA",
+          "7",
+          "1,422",
+          "689",
+          "733",
+          "63"
+        ],
+        [
+          "LAS TRES B",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "LLANO GRANDE (LILIANA ORTA DE HERNÁNDEZ)",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "LOMAS DEL REAL",
+          "4",
+          "263",
+          "117",
+          "146",
+          "16"
+        ],
+        [
+          "MACLOVIO HERRERA (MIRADORES)",
+          "4",
+          "351",
+          "169",
+          "182",
+          "17"
+        ],
+        [
+          "MARIANO MATAMOROS",
+          "3",
+          "82",
+          "40",
+          "42",
+          "8"
+        ],
+        [
+          "MARTÍN A. MARTÍNEZ (LOS POTREROS)",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5"
+        ],
+        [
+          "MATA DEL ABRA",
+          "3",
+          "114",
+          "57",
+          "57",
+          "7"
+        ],
+        [
+          "MIRAMAR",
+          "112",
+          "22,460",
+          "10,943",
+          "11,517",
+          "1,164"
+        ],
+        [
+          "PROVIDENCIA Y NARANJOS",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "459",
+          "207",
+          "252",
+          "21"
+        ],
+        [
+          "RÍO TAMIAHUA",
+          "2",
+          "195",
+          "93",
+          "102",
+          "9"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN CARLITOS",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA AMALIA",
+          "2",
+          "203",
+          "94",
+          "109",
+          "9"
+        ],
+        [
+          "SANTA JUANA",
+          "3",
+          "54",
+          "22",
+          "32",
+          "5"
+        ],
+        [
+          "SANTA PAULA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "TORNO LARGO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "TRES DE MAYO (MATA NEGRA)",
+          "2",
+          "69",
+          "27",
+          "42",
+          "4"
+        ],
+        [
+          "VUELTA DE LAS YEGUAS",
+          "3",
+          "76",
+          "46",
+          "30",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "354",
+          "63,376",
+          "31,134",
+          "32,242",
+          "4,059"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:38:49.326Z"
+}

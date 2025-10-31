@@ -1,0 +1,1022 @@
+{
+  "municipality": "ATLIXCO",
+  "municipalityCode": "019",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ATLIXCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tATLIXCO\n\t\t160\n\t\t29,682\n\t\t15,140\n\t\t14,542\n\t\t1,731\n\t\n\t\n\t\tAXOCOPAN\n\t\t1\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tCABRERA\n\t\t2\n\t\t911\n\t\t453\n\t\t458\n\t\t58\n\t\n\t\n\t\tCOLONIA AGRÍCOLA DE OCOTEPEC (COLONIA SAN JOSÉ)\n\t\t3\n\t\t575\n\t\t282\n\t\t293\n\t\t23\n\t\n\t\n\t\tDIEZ DE ABRIL\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t507\n\t\t243\n\t\t264\n\t\t21\n\t\n\t\n\t\tEL PAJAR\n\t\t3\n\t\t61\n\t\t26\n\t\t35\n\t\t7\n\t\n\t\n\t\tEMILIANO ZAPATA LOS MOLINOS\n\t\t1\n\t\t91\n\t\t49\n\t\t42\n\t\t4\n\t\n\t\n\t\tEMILIANO ZAPATA NEXATENGO\n\t\t2\n\t\t211\n\t\t99\n\t\t112\n\t\t8\n\t\n\t\n\t\tEX-HACIENDA SAN AGUSTÍN\n\t\t2\n\t\t62\n\t\t31\n\t\t31\n\t\t3\n\t\n\t\n\t\tEX-HACIENDA SAN FÉLIX\n\t\t1\n\t\t19\n\t\t7\n\t\t12\n\t\t1\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tGUADALUPE HUEXOCUAPAN\n\t\t3\n\t\t68\n\t\t31\n\t\t37\n\t\t5\n\t\n\t\n\t\tJUAN UVERA\n\t\t3\n\t\t177\n\t\t75\n\t\t102\n\t\t11\n\t\n\t\n\t\tLA MAGDALENA\n\t\t2\n\t\t721\n\t\t369\n\t\t352\n\t\t27\n\t\n\t\n\t\tLA SABANA (SAN JUAN LA SABANA)\n\t\t4\n\t\t291\n\t\t141\n\t\t150\n\t\t14\n\t\n\t\n\t\tLA TRINIDAD TEPANGO\n\t\t1\n\t\t95\n\t\t44\n\t\t51\n\t\t3\n\t\n\t\n\t\tMÁRTIR DE CHINAMECA\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN AGUSTÍN HUIXAXTLA\n\t\t2\n\t\t227\n\t\t107\n\t\t120\n\t\t9\n\t\n\t\n\t\tSAN AGUSTÍN IXTAHUIXTLA\n\t\t3\n\t\t132\n\t\t62\n\t\t70\n\t\t9\n\t\n\t\n\t\tSAN ALFONSO\n\t\t2\n\t\t358\n\t\t177\n\t\t181\n\t\t11\n\t\n\t\n\t\tSAN DIEGO ACAPULCO\n\t\t2\n\t\t173\n\t\t82\n\t\t91\n\t\t9\n\t\n\t\n\t\tSAN DIEGO LA BLANCA\n\t\t1\n\t\t197\n\t\t101\n\t\t96\n\t\t9\n\t\n\t\n\t\tSAN ESTEBAN ZOAPILTEPEC\n\t\t3\n\t\t122\n\t\t66\n\t\t56\n\t\t8\n\t\n\t\n\t\tSAN FELIPE XONACAYUCAN\n\t\t2\n\t\t28\n\t\t9\n\t\t19\n\t\t2\n\t\n\t\n\t\tSAN FÉLIX ALMAZÁN\n\t\t2\n\t\t131\n\t\t71\n\t\t60\n\t\t7\n\t\n\t\n\t\tSAN FÉLIX HIDALGO\n\t\t3\n\t\t695\n\t\t329\n\t\t366\n\t\t29\n\t\n\t\n\t\tSAN ISIDRO HUILOTEPEC\n\t\t5\n\t\t442\n\t\t215\n\t\t227\n\t\t25\n\t\n\t\n\t\tSAN JERÓNIMO CALERAS\n\t\t4\n\t\t241\n\t\t133\n\t\t108\n\t\t12\n\t\n\t\n\t\tSAN JERÓNIMO COYULA\n\t\t8\n\t\t1,610\n\t\t821\n\t\t789\n\t\t69\n\t\n\t\n\t\tSAN JUAN DE LOS LAURELES\n\t\t1\n\t\t22\n\t\t15\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN JUAN OCOTEPEC\n\t\t3\n\t\t311\n\t\t142\n\t\t169\n\t\t12\n\t\n\t\n\t\tSAN JUAN PORTEZUELO\n\t\t3\n\t\t339\n\t\t168\n\t\t171\n\t\t12\n\t\n\t\n\t\tSAN JUAN TEJALUCA\n\t\t2\n\t\t203\n\t\t112\n\t\t91\n\t\t8\n\t\n\t\n\t\tSAN PEDRO BENITO JUÁREZ\n\t\t5\n\t\t745\n\t\t391\n\t\t354\n\t\t36\n\t\n\t\n\t\tSANTA ANA YANCUITLALPAN (CHILHUACÁN)\n\t\t2\n\t\t221\n\t\t104\n\t\t117\n\t\t10\n\t\n\t\n\t\tSANTA CRUZ TEHUIXPANGO\n\t\t5\n\t\t821\n\t\t413\n\t\t408\n\t\t32\n\t\n\t\n\t\tSANTA ELENA AXOCOPAN\n\t\t1\n\t\t44\n\t\t24\n\t\t20\n\t\t2\n\t\n\t\n\t\tSANTA LUCÍA COSAMALOAPAN\n\t\t4\n\t\t464\n\t\t232\n\t\t232\n\t\t24\n\t\n\t\n\t\tSANTO DOMINGO ATOYATEMPAN\n\t\t4\n\t\t413\n\t\t199\n\t\t214\n\t\t18\n\t\n\t\n\t\tSOLARES DE TENEXTEPEC\n\t\t2\n\t\t86\n\t\t45\n\t\t41\n\t\t5\n\t\n\t\n\t\tTOLOMETLA DE BENITO JUÁREZ\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t267\n\t\t41,629\n\t\t21,074\n\t\t20,555\n\t\t2,286\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ATLIXCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ATLIXCO",
+          "160",
+          "29,682",
+          "15,140",
+          "14,542",
+          "1,731",
+          "AXOCOPAN",
+          "1",
+          "24",
+          "13",
+          "11",
+          "2",
+          "CABRERA",
+          "2",
+          "911",
+          "453",
+          "458",
+          "58",
+          "COLONIA AGRÍCOLA DE OCOTEPEC (COLONIA SAN JOSÉ)",
+          "3",
+          "575",
+          "282",
+          "293",
+          "23",
+          "DIEZ DE ABRIL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "EL CARMEN",
+          "2",
+          "507",
+          "243",
+          "264",
+          "21",
+          "EL PAJAR",
+          "3",
+          "61",
+          "26",
+          "35",
+          "7",
+          "EMILIANO ZAPATA LOS MOLINOS",
+          "1",
+          "91",
+          "49",
+          "42",
+          "4",
+          "EMILIANO ZAPATA NEXATENGO",
+          "2",
+          "211",
+          "99",
+          "112",
+          "8",
+          "EX-HACIENDA SAN AGUSTÍN",
+          "2",
+          "62",
+          "31",
+          "31",
+          "3",
+          "EX-HACIENDA SAN FÉLIX",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1",
+          "FRANCISCO VILLA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "GUADALUPE HUEXOCUAPAN",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5",
+          "JUAN UVERA",
+          "3",
+          "177",
+          "75",
+          "102",
+          "11",
+          "LA MAGDALENA",
+          "2",
+          "721",
+          "369",
+          "352",
+          "27",
+          "LA SABANA (SAN JUAN LA SABANA)",
+          "4",
+          "291",
+          "141",
+          "150",
+          "14",
+          "LA TRINIDAD TEPANGO",
+          "1",
+          "95",
+          "44",
+          "51",
+          "3",
+          "MÁRTIR DE CHINAMECA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "SAN AGUSTÍN HUIXAXTLA",
+          "2",
+          "227",
+          "107",
+          "120",
+          "9",
+          "SAN AGUSTÍN IXTAHUIXTLA",
+          "3",
+          "132",
+          "62",
+          "70",
+          "9",
+          "SAN ALFONSO",
+          "2",
+          "358",
+          "177",
+          "181",
+          "11",
+          "SAN DIEGO ACAPULCO",
+          "2",
+          "173",
+          "82",
+          "91",
+          "9",
+          "SAN DIEGO LA BLANCA",
+          "1",
+          "197",
+          "101",
+          "96",
+          "9",
+          "SAN ESTEBAN ZOAPILTEPEC",
+          "3",
+          "122",
+          "66",
+          "56",
+          "8",
+          "SAN FELIPE XONACAYUCAN",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2",
+          "SAN FÉLIX ALMAZÁN",
+          "2",
+          "131",
+          "71",
+          "60",
+          "7",
+          "SAN FÉLIX HIDALGO",
+          "3",
+          "695",
+          "329",
+          "366",
+          "29",
+          "SAN ISIDRO HUILOTEPEC",
+          "5",
+          "442",
+          "215",
+          "227",
+          "25",
+          "SAN JERÓNIMO CALERAS",
+          "4",
+          "241",
+          "133",
+          "108",
+          "12",
+          "SAN JERÓNIMO COYULA",
+          "8",
+          "1,610",
+          "821",
+          "789",
+          "69",
+          "SAN JUAN DE LOS LAURELES",
+          "1",
+          "22",
+          "15",
+          "7",
+          "1",
+          "SAN JUAN OCOTEPEC",
+          "3",
+          "311",
+          "142",
+          "169",
+          "12",
+          "SAN JUAN PORTEZUELO",
+          "3",
+          "339",
+          "168",
+          "171",
+          "12",
+          "SAN JUAN TEJALUCA",
+          "2",
+          "203",
+          "112",
+          "91",
+          "8",
+          "SAN PEDRO BENITO JUÁREZ",
+          "5",
+          "745",
+          "391",
+          "354",
+          "36",
+          "SANTA ANA YANCUITLALPAN (CHILHUACÁN)",
+          "2",
+          "221",
+          "104",
+          "117",
+          "10",
+          "SANTA CRUZ TEHUIXPANGO",
+          "5",
+          "821",
+          "413",
+          "408",
+          "32",
+          "SANTA ELENA AXOCOPAN",
+          "1",
+          "44",
+          "24",
+          "20",
+          "2",
+          "SANTA LUCÍA COSAMALOAPAN",
+          "4",
+          "464",
+          "232",
+          "232",
+          "24",
+          "SANTO DOMINGO ATOYATEMPAN",
+          "4",
+          "413",
+          "199",
+          "214",
+          "18",
+          "SOLARES DE TENEXTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5",
+          "TOLOMETLA DE BENITO JUÁREZ",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2",
+          "TOTAL",
+          "267",
+          "41,629",
+          "21,074",
+          "20,555",
+          "2,286",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ATLIXCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATLIXCO",
+          "160",
+          "29,682",
+          "15,140",
+          "14,542",
+          "1,731"
+        ],
+        [
+          "AXOCOPAN",
+          "1",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "CABRERA",
+          "2",
+          "911",
+          "453",
+          "458",
+          "58"
+        ],
+        [
+          "COLONIA AGRÍCOLA DE OCOTEPEC (COLONIA SAN JOSÉ)",
+          "3",
+          "575",
+          "282",
+          "293",
+          "23"
+        ],
+        [
+          "DIEZ DE ABRIL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "507",
+          "243",
+          "264",
+          "21"
+        ],
+        [
+          "EL PAJAR",
+          "3",
+          "61",
+          "26",
+          "35",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA LOS MOLINOS",
+          "1",
+          "91",
+          "49",
+          "42",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA NEXATENGO",
+          "2",
+          "211",
+          "99",
+          "112",
+          "8"
+        ],
+        [
+          "EX-HACIENDA SAN AGUSTÍN",
+          "2",
+          "62",
+          "31",
+          "31",
+          "3"
+        ],
+        [
+          "EX-HACIENDA SAN FÉLIX",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "GUADALUPE HUEXOCUAPAN",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "JUAN UVERA",
+          "3",
+          "177",
+          "75",
+          "102",
+          "11"
+        ],
+        [
+          "LA MAGDALENA",
+          "2",
+          "721",
+          "369",
+          "352",
+          "27"
+        ],
+        [
+          "LA SABANA (SAN JUAN LA SABANA)",
+          "4",
+          "291",
+          "141",
+          "150",
+          "14"
+        ],
+        [
+          "LA TRINIDAD TEPANGO",
+          "1",
+          "95",
+          "44",
+          "51",
+          "3"
+        ],
+        [
+          "MÁRTIR DE CHINAMECA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN HUIXAXTLA",
+          "2",
+          "227",
+          "107",
+          "120",
+          "9"
+        ],
+        [
+          "SAN AGUSTÍN IXTAHUIXTLA",
+          "3",
+          "132",
+          "62",
+          "70",
+          "9"
+        ],
+        [
+          "SAN ALFONSO",
+          "2",
+          "358",
+          "177",
+          "181",
+          "11"
+        ],
+        [
+          "SAN DIEGO ACAPULCO",
+          "2",
+          "173",
+          "82",
+          "91",
+          "9"
+        ],
+        [
+          "SAN DIEGO LA BLANCA",
+          "1",
+          "197",
+          "101",
+          "96",
+          "9"
+        ],
+        [
+          "SAN ESTEBAN ZOAPILTEPEC",
+          "3",
+          "122",
+          "66",
+          "56",
+          "8"
+        ],
+        [
+          "SAN FELIPE XONACAYUCAN",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2"
+        ],
+        [
+          "SAN FÉLIX ALMAZÁN",
+          "2",
+          "131",
+          "71",
+          "60",
+          "7"
+        ],
+        [
+          "SAN FÉLIX HIDALGO",
+          "3",
+          "695",
+          "329",
+          "366",
+          "29"
+        ],
+        [
+          "SAN ISIDRO HUILOTEPEC",
+          "5",
+          "442",
+          "215",
+          "227",
+          "25"
+        ],
+        [
+          "SAN JERÓNIMO CALERAS",
+          "4",
+          "241",
+          "133",
+          "108",
+          "12"
+        ],
+        [
+          "SAN JERÓNIMO COYULA",
+          "8",
+          "1,610",
+          "821",
+          "789",
+          "69"
+        ],
+        [
+          "SAN JUAN DE LOS LAURELES",
+          "1",
+          "22",
+          "15",
+          "7",
+          "1"
+        ],
+        [
+          "SAN JUAN OCOTEPEC",
+          "3",
+          "311",
+          "142",
+          "169",
+          "12"
+        ],
+        [
+          "SAN JUAN PORTEZUELO",
+          "3",
+          "339",
+          "168",
+          "171",
+          "12"
+        ],
+        [
+          "SAN JUAN TEJALUCA",
+          "2",
+          "203",
+          "112",
+          "91",
+          "8"
+        ],
+        [
+          "SAN PEDRO BENITO JUÁREZ",
+          "5",
+          "745",
+          "391",
+          "354",
+          "36"
+        ],
+        [
+          "SANTA ANA YANCUITLALPAN (CHILHUACÁN)",
+          "2",
+          "221",
+          "104",
+          "117",
+          "10"
+        ],
+        [
+          "SANTA CRUZ TEHUIXPANGO",
+          "5",
+          "821",
+          "413",
+          "408",
+          "32"
+        ],
+        [
+          "SANTA ELENA AXOCOPAN",
+          "1",
+          "44",
+          "24",
+          "20",
+          "2"
+        ],
+        [
+          "SANTA LUCÍA COSAMALOAPAN",
+          "4",
+          "464",
+          "232",
+          "232",
+          "24"
+        ],
+        [
+          "SANTO DOMINGO ATOYATEMPAN",
+          "4",
+          "413",
+          "199",
+          "214",
+          "18"
+        ],
+        [
+          "SOLARES DE TENEXTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5"
+        ],
+        [
+          "TOLOMETLA DE BENITO JUÁREZ",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "267",
+          "41,629",
+          "21,074",
+          "20,555",
+          "2,286"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ATLIXCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATLIXCO",
+          "160",
+          "29,682",
+          "15,140",
+          "14,542",
+          "1,731"
+        ],
+        [
+          "AXOCOPAN",
+          "1",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "CABRERA",
+          "2",
+          "911",
+          "453",
+          "458",
+          "58"
+        ],
+        [
+          "COLONIA AGRÍCOLA DE OCOTEPEC (COLONIA SAN JOSÉ)",
+          "3",
+          "575",
+          "282",
+          "293",
+          "23"
+        ],
+        [
+          "DIEZ DE ABRIL",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "507",
+          "243",
+          "264",
+          "21"
+        ],
+        [
+          "EL PAJAR",
+          "3",
+          "61",
+          "26",
+          "35",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA LOS MOLINOS",
+          "1",
+          "91",
+          "49",
+          "42",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA NEXATENGO",
+          "2",
+          "211",
+          "99",
+          "112",
+          "8"
+        ],
+        [
+          "EX-HACIENDA SAN AGUSTÍN",
+          "2",
+          "62",
+          "31",
+          "31",
+          "3"
+        ],
+        [
+          "EX-HACIENDA SAN FÉLIX",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "GUADALUPE HUEXOCUAPAN",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "JUAN UVERA",
+          "3",
+          "177",
+          "75",
+          "102",
+          "11"
+        ],
+        [
+          "LA MAGDALENA",
+          "2",
+          "721",
+          "369",
+          "352",
+          "27"
+        ],
+        [
+          "LA SABANA (SAN JUAN LA SABANA)",
+          "4",
+          "291",
+          "141",
+          "150",
+          "14"
+        ],
+        [
+          "LA TRINIDAD TEPANGO",
+          "1",
+          "95",
+          "44",
+          "51",
+          "3"
+        ],
+        [
+          "MÁRTIR DE CHINAMECA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN HUIXAXTLA",
+          "2",
+          "227",
+          "107",
+          "120",
+          "9"
+        ],
+        [
+          "SAN AGUSTÍN IXTAHUIXTLA",
+          "3",
+          "132",
+          "62",
+          "70",
+          "9"
+        ],
+        [
+          "SAN ALFONSO",
+          "2",
+          "358",
+          "177",
+          "181",
+          "11"
+        ],
+        [
+          "SAN DIEGO ACAPULCO",
+          "2",
+          "173",
+          "82",
+          "91",
+          "9"
+        ],
+        [
+          "SAN DIEGO LA BLANCA",
+          "1",
+          "197",
+          "101",
+          "96",
+          "9"
+        ],
+        [
+          "SAN ESTEBAN ZOAPILTEPEC",
+          "3",
+          "122",
+          "66",
+          "56",
+          "8"
+        ],
+        [
+          "SAN FELIPE XONACAYUCAN",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2"
+        ],
+        [
+          "SAN FÉLIX ALMAZÁN",
+          "2",
+          "131",
+          "71",
+          "60",
+          "7"
+        ],
+        [
+          "SAN FÉLIX HIDALGO",
+          "3",
+          "695",
+          "329",
+          "366",
+          "29"
+        ],
+        [
+          "SAN ISIDRO HUILOTEPEC",
+          "5",
+          "442",
+          "215",
+          "227",
+          "25"
+        ],
+        [
+          "SAN JERÓNIMO CALERAS",
+          "4",
+          "241",
+          "133",
+          "108",
+          "12"
+        ],
+        [
+          "SAN JERÓNIMO COYULA",
+          "8",
+          "1,610",
+          "821",
+          "789",
+          "69"
+        ],
+        [
+          "SAN JUAN DE LOS LAURELES",
+          "1",
+          "22",
+          "15",
+          "7",
+          "1"
+        ],
+        [
+          "SAN JUAN OCOTEPEC",
+          "3",
+          "311",
+          "142",
+          "169",
+          "12"
+        ],
+        [
+          "SAN JUAN PORTEZUELO",
+          "3",
+          "339",
+          "168",
+          "171",
+          "12"
+        ],
+        [
+          "SAN JUAN TEJALUCA",
+          "2",
+          "203",
+          "112",
+          "91",
+          "8"
+        ],
+        [
+          "SAN PEDRO BENITO JUÁREZ",
+          "5",
+          "745",
+          "391",
+          "354",
+          "36"
+        ],
+        [
+          "SANTA ANA YANCUITLALPAN (CHILHUACÁN)",
+          "2",
+          "221",
+          "104",
+          "117",
+          "10"
+        ],
+        [
+          "SANTA CRUZ TEHUIXPANGO",
+          "5",
+          "821",
+          "413",
+          "408",
+          "32"
+        ],
+        [
+          "SANTA ELENA AXOCOPAN",
+          "1",
+          "44",
+          "24",
+          "20",
+          "2"
+        ],
+        [
+          "SANTA LUCÍA COSAMALOAPAN",
+          "4",
+          "464",
+          "232",
+          "232",
+          "24"
+        ],
+        [
+          "SANTO DOMINGO ATOYATEMPAN",
+          "4",
+          "413",
+          "199",
+          "214",
+          "18"
+        ],
+        [
+          "SOLARES DE TENEXTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5"
+        ],
+        [
+          "TOLOMETLA DE BENITO JUÁREZ",
+          "2",
+          "28",
+          "15",
+          "13",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "267",
+          "41,629",
+          "21,074",
+          "20,555",
+          "2,286"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:25:45.611Z"
+}

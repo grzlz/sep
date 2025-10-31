@@ -1,0 +1,824 @@
+{
+  "municipality": "CABORCA",
+  "municipalityCode": "017",
+  "state": "SONORA",
+  "stateCode": "26",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACONCHI\n\tAGUA PRIETA\n\tÁLAMOS\n\tALTAR\n\tARIVECHI\n\tARIZPE\n\tATIL\n\tBACADÉHUACHI\n\tBACANORA\n\tBACERAC\n\tBACOACHI\n\tBÁCUM\n\tBANÁMICHI\n\tBAVIÁCORA\n\tBAVISPE\n\tBENITO JUÁREZ\n\tBENJAMÍN HILL\n\tCABORCA\n\tCAJEME\n\tCANANEA\n\tCARBÓ\n\tCUCURPE\n\tCUMPAS\n\tDIVISADEROS\n\tEMPALME\n\tETCHOJOA\n\tFRONTERAS\n\tGENERAL PLUTARCO ELÍAS CALLES\n\tGRANADOS\n\tGUAYMAS\n\tHERMOSILLO\n\tHUACHINERA\n\tHUÁSABAS\n\tHUATABAMPO\n\tHUÉPAC\n\tIMURIS\n\tLA COLORADA\n\tMAGDALENA\n\tMAZATÁN\n\tMOCTEZUMA\n\tNACO\n\tNÁCORI CHICO\n\tNACOZARI DE GARCÍA\n\tNAVOJOA\n\tNOGALES\n\tÓNAVAS\n\tOPODEPE\n\tOQUITOA\n\tPITIQUITO\n\tPUERTO PEÑASCO\n\tQUIRIEGO\n\tRAYÓN\n\tROSARIO\n\tSAHUARIPA\n\tSAN FELIPE DE JESÚS\n\tSAN IGNACIO RÍO MUERTO\n\tSAN JAVIER\n\tSAN LUIS RÍO COLORADO\n\tSAN MIGUEL DE HORCASITAS\n\tSAN PEDRO DE LA CUEVA\n\tSANTA ANA\n\tSANTA CRUZ\n\tSÁRIC\n\tSOYOPA\n\tSUAQUI GRANDE\n\tTEPACHE\n\tTRINCHERAS\n\tTUBUTAMA\n\tURES\n\tVILLA HIDALGO\n\tVILLA PESQUEIRA\n\tYÉCORA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SONORA;    MUNICIPIO: CABORCA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t15 DE SEPTIEMBRE\n\t\t2\n\t\t78\n\t\t36\n\t\t42\n\t\t5\n\t\n\t\n\t\tADOLFO ORIVE DE ALBA\n\t\t3\n\t\t111\n\t\t45\n\t\t66\n\t\t7\n\t\n\t\n\t\tALFONSO GARZÓN SANTIVAÑES (ZACATECAS)\n\t\t2\n\t\t25\n\t\t8\n\t\t17\n\t\t2\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t3\n\t\t147\n\t\t74\n\t\t73\n\t\t8\n\t\n\t\n\t\tCERRO BLANCO\n\t\t2\n\t\t43\n\t\t23\n\t\t20\n\t\t3\n\t\n\t\n\t\tDESEMBOQUE\n\t\t3\n\t\t110\n\t\t60\n\t\t50\n\t\t10\n\t\n\t\n\t\tEJIDO CAJEME DOS\n\t\t2\n\t\t34\n\t\t20\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL COYOTE\n\t\t3\n\t\t400\n\t\t199\n\t\t201\n\t\t19\n\t\n\t\n\t\tEL DIAMANTE (LA RETRANCA)\n\t\t3\n\t\t378\n\t\t205\n\t\t173\n\t\t18\n\t\n\t\n\t\tEL PIRUL\n\t\t1\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL SAHUARO\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tHEROICA CABORCA\n\t\t80\n\t\t16,916\n\t\t8,476\n\t\t8,440\n\t\t950\n\t\n\t\n\t\tJESÚS GARCÍA\n\t\t3\n\t\t89\n\t\t43\n\t\t46\n\t\t6\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS\n\t\t2\n\t\t80\n\t\t40\n\t\t40\n\t\t4\n\t\n\t\n\t\tJOSEFA ORTIZ DE DOMÍNGUEZ\n\t\t3\n\t\t50\n\t\t21\n\t\t29\n\t\t5\n\t\n\t\n\t\tJUAN ÁLVAREZ\n\t\t3\n\t\t23\n\t\t9\n\t\t14\n\t\t5\n\t\n\t\n\t\tLA ALAMEDA (CORTÁZAR)\n\t\t2\n\t\t98\n\t\t53\n\t\t45\n\t\t5\n\t\n\t\n\t\tLA ALMITA\n\t\t3\n\t\t114\n\t\t50\n\t\t64\n\t\t7\n\t\n\t\n\t\tLA MOCHOMERA (LA MORENA)\n\t\t3\n\t\t61\n\t\t29\n\t\t32\n\t\t4\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t3\n\t\t42\n\t\t26\n\t\t16\n\t\t4\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t1\n\t\t16\n\t\t11\n\t\t5\n\t\t1\n\t\n\t\n\t\tPLUTARCO ELÍAS CALLES (LA Y GRIEGA)\n\t\t8\n\t\t2,154\n\t\t1,076\n\t\t1,078\n\t\t90\n\t\n\t\n\t\tPOBLADO SAN FELIPE\n\t\t2\n\t\t158\n\t\t70\n\t\t88\n\t\t7\n\t\n\t\n\t\tPUERTO LOBOS\n\t\t3\n\t\t72\n\t\t30\n\t\t42\n\t\t4\n\t\n\t\n\t\tRODOLFO CAMPODÓNICO\n\t\t2\n\t\t25\n\t\t14\n\t\t11\n\t\t3\n\t\n\t\n\t\tSALOMÓN QUIHUIS\n\t\t1\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tSAN PEDRO\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t3\n\t\n\t\n\t\tSANTA EDUWIGES (LA CACHORA)\n\t\t2\n\t\t79\n\t\t42\n\t\t37\n\t\t4\n\t\n\t\n\t\tSIEMPRE VIVA\n\t\t3\n\t\t249\n\t\t130\n\t\t119\n\t\t11\n\t\n\t\n\t\tÚLTIMO ESFUERZO\n\t\t3\n\t\t118\n\t\t58\n\t\t60\n\t\t8\n\t\n\t\n\t\tURES\n\t\t2\n\t\t44\n\t\t21\n\t\t23\n\t\t3\n\t\n\t\n\t\tVIÑEDOS VIVA\n\t\t3\n\t\t141\n\t\t70\n\t\t71\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t161\n\t\t21,985\n\t\t11,009\n\t\t10,976\n\t\t1,213\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SONORA;    MUNICIPIO: CABORCA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "15 DE SEPTIEMBRE",
+          "2",
+          "78",
+          "36",
+          "42",
+          "5",
+          "ADOLFO ORIVE DE ALBA",
+          "3",
+          "111",
+          "45",
+          "66",
+          "7",
+          "ALFONSO GARZÓN SANTIVAÑES (ZACATECAS)",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2",
+          "ÁLVARO OBREGÓN",
+          "3",
+          "147",
+          "74",
+          "73",
+          "8",
+          "CERRO BLANCO",
+          "2",
+          "43",
+          "23",
+          "20",
+          "3",
+          "DESEMBOQUE",
+          "3",
+          "110",
+          "60",
+          "50",
+          "10",
+          "EJIDO CAJEME DOS",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3",
+          "EL COYOTE",
+          "3",
+          "400",
+          "199",
+          "201",
+          "19",
+          "EL DIAMANTE (LA RETRANCA)",
+          "3",
+          "378",
+          "205",
+          "173",
+          "18",
+          "EL PIRUL",
+          "1",
+          "29",
+          "15",
+          "14",
+          "2",
+          "EL SAHUARO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "HEROICA CABORCA",
+          "80",
+          "16,916",
+          "8,476",
+          "8,440",
+          "950",
+          "JESÚS GARCÍA",
+          "3",
+          "89",
+          "43",
+          "46",
+          "6",
+          "JOSÉ MARÍA MORELOS",
+          "2",
+          "80",
+          "40",
+          "40",
+          "4",
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5",
+          "JUAN ÁLVAREZ",
+          "3",
+          "23",
+          "9",
+          "14",
+          "5",
+          "LA ALAMEDA (CORTÁZAR)",
+          "2",
+          "98",
+          "53",
+          "45",
+          "5",
+          "LA ALMITA",
+          "3",
+          "114",
+          "50",
+          "64",
+          "7",
+          "LA MOCHOMERA (LA MORENA)",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4",
+          "LA PRIMAVERA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4",
+          "LÁZARO CÁRDENAS",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1",
+          "PLUTARCO ELÍAS CALLES (LA Y GRIEGA)",
+          "8",
+          "2,154",
+          "1,076",
+          "1,078",
+          "90",
+          "POBLADO SAN FELIPE",
+          "2",
+          "158",
+          "70",
+          "88",
+          "7",
+          "PUERTO LOBOS",
+          "3",
+          "72",
+          "30",
+          "42",
+          "4",
+          "RODOLFO CAMPODÓNICO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "3",
+          "SALOMÓN QUIHUIS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1",
+          "SAN ISIDRO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3",
+          "SAN PEDRO",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3",
+          "SANTA EDUWIGES (LA CACHORA)",
+          "2",
+          "79",
+          "42",
+          "37",
+          "4",
+          "SIEMPRE VIVA",
+          "3",
+          "249",
+          "130",
+          "119",
+          "11",
+          "ÚLTIMO ESFUERZO",
+          "3",
+          "118",
+          "58",
+          "60",
+          "8",
+          "URES",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3",
+          "VIÑEDOS VIVA",
+          "3",
+          "141",
+          "70",
+          "71",
+          "7",
+          "TOTAL",
+          "161",
+          "21,985",
+          "11,009",
+          "10,976",
+          "1,213",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SONORA;    MUNICIPIO: CABORCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "15 DE SEPTIEMBRE",
+          "2",
+          "78",
+          "36",
+          "42",
+          "5"
+        ],
+        [
+          "ADOLFO ORIVE DE ALBA",
+          "3",
+          "111",
+          "45",
+          "66",
+          "7"
+        ],
+        [
+          "ALFONSO GARZÓN SANTIVAÑES (ZACATECAS)",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "3",
+          "147",
+          "74",
+          "73",
+          "8"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "DESEMBOQUE",
+          "3",
+          "110",
+          "60",
+          "50",
+          "10"
+        ],
+        [
+          "EJIDO CAJEME DOS",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL COYOTE",
+          "3",
+          "400",
+          "199",
+          "201",
+          "19"
+        ],
+        [
+          "EL DIAMANTE (LA RETRANCA)",
+          "3",
+          "378",
+          "205",
+          "173",
+          "18"
+        ],
+        [
+          "EL PIRUL",
+          "1",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "EL SAHUARO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "HEROICA CABORCA",
+          "80",
+          "16,916",
+          "8,476",
+          "8,440",
+          "950"
+        ],
+        [
+          "JESÚS GARCÍA",
+          "3",
+          "89",
+          "43",
+          "46",
+          "6"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "2",
+          "80",
+          "40",
+          "40",
+          "4"
+        ],
+        [
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5"
+        ],
+        [
+          "JUAN ÁLVAREZ",
+          "3",
+          "23",
+          "9",
+          "14",
+          "5"
+        ],
+        [
+          "LA ALAMEDA (CORTÁZAR)",
+          "2",
+          "98",
+          "53",
+          "45",
+          "5"
+        ],
+        [
+          "LA ALMITA",
+          "3",
+          "114",
+          "50",
+          "64",
+          "7"
+        ],
+        [
+          "LA MOCHOMERA (LA MORENA)",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "LA PRIMAVERA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES (LA Y GRIEGA)",
+          "8",
+          "2,154",
+          "1,076",
+          "1,078",
+          "90"
+        ],
+        [
+          "POBLADO SAN FELIPE",
+          "2",
+          "158",
+          "70",
+          "88",
+          "7"
+        ],
+        [
+          "PUERTO LOBOS",
+          "3",
+          "72",
+          "30",
+          "42",
+          "4"
+        ],
+        [
+          "RODOLFO CAMPODÓNICO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "3"
+        ],
+        [
+          "SALOMÓN QUIHUIS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA EDUWIGES (LA CACHORA)",
+          "2",
+          "79",
+          "42",
+          "37",
+          "4"
+        ],
+        [
+          "SIEMPRE VIVA",
+          "3",
+          "249",
+          "130",
+          "119",
+          "11"
+        ],
+        [
+          "ÚLTIMO ESFUERZO",
+          "3",
+          "118",
+          "58",
+          "60",
+          "8"
+        ],
+        [
+          "URES",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "VIÑEDOS VIVA",
+          "3",
+          "141",
+          "70",
+          "71",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "161",
+          "21,985",
+          "11,009",
+          "10,976",
+          "1,213"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SONORA;    MUNICIPIO: CABORCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "15 DE SEPTIEMBRE",
+          "2",
+          "78",
+          "36",
+          "42",
+          "5"
+        ],
+        [
+          "ADOLFO ORIVE DE ALBA",
+          "3",
+          "111",
+          "45",
+          "66",
+          "7"
+        ],
+        [
+          "ALFONSO GARZÓN SANTIVAÑES (ZACATECAS)",
+          "2",
+          "25",
+          "8",
+          "17",
+          "2"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "3",
+          "147",
+          "74",
+          "73",
+          "8"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "43",
+          "23",
+          "20",
+          "3"
+        ],
+        [
+          "DESEMBOQUE",
+          "3",
+          "110",
+          "60",
+          "50",
+          "10"
+        ],
+        [
+          "EJIDO CAJEME DOS",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL COYOTE",
+          "3",
+          "400",
+          "199",
+          "201",
+          "19"
+        ],
+        [
+          "EL DIAMANTE (LA RETRANCA)",
+          "3",
+          "378",
+          "205",
+          "173",
+          "18"
+        ],
+        [
+          "EL PIRUL",
+          "1",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "EL SAHUARO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "HEROICA CABORCA",
+          "80",
+          "16,916",
+          "8,476",
+          "8,440",
+          "950"
+        ],
+        [
+          "JESÚS GARCÍA",
+          "3",
+          "89",
+          "43",
+          "46",
+          "6"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "2",
+          "80",
+          "40",
+          "40",
+          "4"
+        ],
+        [
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "3",
+          "50",
+          "21",
+          "29",
+          "5"
+        ],
+        [
+          "JUAN ÁLVAREZ",
+          "3",
+          "23",
+          "9",
+          "14",
+          "5"
+        ],
+        [
+          "LA ALAMEDA (CORTÁZAR)",
+          "2",
+          "98",
+          "53",
+          "45",
+          "5"
+        ],
+        [
+          "LA ALMITA",
+          "3",
+          "114",
+          "50",
+          "64",
+          "7"
+        ],
+        [
+          "LA MOCHOMERA (LA MORENA)",
+          "3",
+          "61",
+          "29",
+          "32",
+          "4"
+        ],
+        [
+          "LA PRIMAVERA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES (LA Y GRIEGA)",
+          "8",
+          "2,154",
+          "1,076",
+          "1,078",
+          "90"
+        ],
+        [
+          "POBLADO SAN FELIPE",
+          "2",
+          "158",
+          "70",
+          "88",
+          "7"
+        ],
+        [
+          "PUERTO LOBOS",
+          "3",
+          "72",
+          "30",
+          "42",
+          "4"
+        ],
+        [
+          "RODOLFO CAMPODÓNICO",
+          "2",
+          "25",
+          "14",
+          "11",
+          "3"
+        ],
+        [
+          "SALOMÓN QUIHUIS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "SANTA EDUWIGES (LA CACHORA)",
+          "2",
+          "79",
+          "42",
+          "37",
+          "4"
+        ],
+        [
+          "SIEMPRE VIVA",
+          "3",
+          "249",
+          "130",
+          "119",
+          "11"
+        ],
+        [
+          "ÚLTIMO ESFUERZO",
+          "3",
+          "118",
+          "58",
+          "60",
+          "8"
+        ],
+        [
+          "URES",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "VIÑEDOS VIVA",
+          "3",
+          "141",
+          "70",
+          "71",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "161",
+          "21,985",
+          "11,009",
+          "10,976",
+          "1,213"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:34:37.139Z"
+}

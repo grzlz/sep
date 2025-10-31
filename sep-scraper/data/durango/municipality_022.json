@@ -1,0 +1,428 @@
+{
+  "municipality": "POANAS",
+  "municipalityCode": "022",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: POANAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t18 DE AGOSTO\n\t\t3\n\t\t177\n\t\t82\n\t\t95\n\t\t11\n\t\n\t\n\t\tCIENEGUILLA\n\t\t4\n\t\t262\n\t\t119\n\t\t143\n\t\t21\n\t\n\t\n\t\tDAMIÁN CARMONA\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t1\n\t\n\t\n\t\tEL POTOSÍ\n\t\t2\n\t\t111\n\t\t49\n\t\t62\n\t\t8\n\t\n\t\n\t\tESTACIÓN POANAS\n\t\t2\n\t\t51\n\t\t24\n\t\t27\n\t\t4\n\t\n\t\n\t\tFRANCISCO ZARCO\n\t\t3\n\t\t52\n\t\t27\n\t\t25\n\t\t5\n\t\n\t\n\t\tLA JOYA\n\t\t3\n\t\t451\n\t\t218\n\t\t233\n\t\t33\n\t\n\t\n\t\tLA OCHOA\n\t\t6\n\t\t297\n\t\t149\n\t\t148\n\t\t21\n\t\n\t\n\t\tLOS ÁNGELES\n\t\t5\n\t\t490\n\t\t258\n\t\t232\n\t\t44\n\t\n\t\n\t\tNARCISO MENDOZA\n\t\t3\n\t\t178\n\t\t91\n\t\t87\n\t\t10\n\t\n\t\n\t\tNORIA DE LOS PILARES\n\t\t3\n\t\t52\n\t\t23\n\t\t29\n\t\t4\n\t\n\t\n\t\tORIZABA\n\t\t3\n\t\t250\n\t\t118\n\t\t132\n\t\t17\n\t\n\t\n\t\tSAN ATENÓGENES (LA VILLITA)\n\t\t4\n\t\t299\n\t\t150\n\t\t149\n\t\t19\n\t\n\t\n\t\tSAN MARTÍN\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tVILLA UNIÓN\n\t\t19\n\t\t3,912\n\t\t1,960\n\t\t1,952\n\t\t298\n\t\n\t\n\t\tTOTAL\n\t\t62\n\t\t6,601\n\t\t3,276\n\t\t3,325\n\t\t497\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: POANAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "18 DE AGOSTO",
+          "3",
+          "177",
+          "82",
+          "95",
+          "11",
+          "CIENEGUILLA",
+          "4",
+          "262",
+          "119",
+          "143",
+          "21",
+          "DAMIÁN CARMONA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1",
+          "EL POTOSÍ",
+          "2",
+          "111",
+          "49",
+          "62",
+          "8",
+          "ESTACIÓN POANAS",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4",
+          "FRANCISCO ZARCO",
+          "3",
+          "52",
+          "27",
+          "25",
+          "5",
+          "LA JOYA",
+          "3",
+          "451",
+          "218",
+          "233",
+          "33",
+          "LA OCHOA",
+          "6",
+          "297",
+          "149",
+          "148",
+          "21",
+          "LOS ÁNGELES",
+          "5",
+          "490",
+          "258",
+          "232",
+          "44",
+          "NARCISO MENDOZA",
+          "3",
+          "178",
+          "91",
+          "87",
+          "10",
+          "NORIA DE LOS PILARES",
+          "3",
+          "52",
+          "23",
+          "29",
+          "4",
+          "ORIZABA",
+          "3",
+          "250",
+          "118",
+          "132",
+          "17",
+          "SAN ATENÓGENES (LA VILLITA)",
+          "4",
+          "299",
+          "150",
+          "149",
+          "19",
+          "SAN MARTÍN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "VILLA UNIÓN",
+          "19",
+          "3,912",
+          "1,960",
+          "1,952",
+          "298",
+          "TOTAL",
+          "62",
+          "6,601",
+          "3,276",
+          "3,325",
+          "497",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: POANAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE AGOSTO",
+          "3",
+          "177",
+          "82",
+          "95",
+          "11"
+        ],
+        [
+          "CIENEGUILLA",
+          "4",
+          "262",
+          "119",
+          "143",
+          "21"
+        ],
+        [
+          "DAMIÁN CARMONA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "EL POTOSÍ",
+          "2",
+          "111",
+          "49",
+          "62",
+          "8"
+        ],
+        [
+          "ESTACIÓN POANAS",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "FRANCISCO ZARCO",
+          "3",
+          "52",
+          "27",
+          "25",
+          "5"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "451",
+          "218",
+          "233",
+          "33"
+        ],
+        [
+          "LA OCHOA",
+          "6",
+          "297",
+          "149",
+          "148",
+          "21"
+        ],
+        [
+          "LOS ÁNGELES",
+          "5",
+          "490",
+          "258",
+          "232",
+          "44"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "3",
+          "178",
+          "91",
+          "87",
+          "10"
+        ],
+        [
+          "NORIA DE LOS PILARES",
+          "3",
+          "52",
+          "23",
+          "29",
+          "4"
+        ],
+        [
+          "ORIZABA",
+          "3",
+          "250",
+          "118",
+          "132",
+          "17"
+        ],
+        [
+          "SAN ATENÓGENES (LA VILLITA)",
+          "4",
+          "299",
+          "150",
+          "149",
+          "19"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "VILLA UNIÓN",
+          "19",
+          "3,912",
+          "1,960",
+          "1,952",
+          "298"
+        ],
+        [
+          "TOTAL",
+          "62",
+          "6,601",
+          "3,276",
+          "3,325",
+          "497"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: POANAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE AGOSTO",
+          "3",
+          "177",
+          "82",
+          "95",
+          "11"
+        ],
+        [
+          "CIENEGUILLA",
+          "4",
+          "262",
+          "119",
+          "143",
+          "21"
+        ],
+        [
+          "DAMIÁN CARMONA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "EL POTOSÍ",
+          "2",
+          "111",
+          "49",
+          "62",
+          "8"
+        ],
+        [
+          "ESTACIÓN POANAS",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "FRANCISCO ZARCO",
+          "3",
+          "52",
+          "27",
+          "25",
+          "5"
+        ],
+        [
+          "LA JOYA",
+          "3",
+          "451",
+          "218",
+          "233",
+          "33"
+        ],
+        [
+          "LA OCHOA",
+          "6",
+          "297",
+          "149",
+          "148",
+          "21"
+        ],
+        [
+          "LOS ÁNGELES",
+          "5",
+          "490",
+          "258",
+          "232",
+          "44"
+        ],
+        [
+          "NARCISO MENDOZA",
+          "3",
+          "178",
+          "91",
+          "87",
+          "10"
+        ],
+        [
+          "NORIA DE LOS PILARES",
+          "3",
+          "52",
+          "23",
+          "29",
+          "4"
+        ],
+        [
+          "ORIZABA",
+          "3",
+          "250",
+          "118",
+          "132",
+          "17"
+        ],
+        [
+          "SAN ATENÓGENES (LA VILLITA)",
+          "4",
+          "299",
+          "150",
+          "149",
+          "19"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "VILLA UNIÓN",
+          "19",
+          "3,912",
+          "1,960",
+          "1,952",
+          "298"
+        ],
+        [
+          "TOTAL",
+          "62",
+          "6,601",
+          "3,276",
+          "3,325",
+          "497"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:12.461Z"
+}

@@ -1,0 +1,736 @@
+{
+  "municipality": "OCAMPO",
+  "municipalityCode": "061",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: OCAMPO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCERRO PRIETO\n\t\t3\n\t\t247\n\t\t128\n\t\t119\n\t\t8\n\t\n\t\n\t\tCIENEGUILLAS\n\t\t2\n\t\t58\n\t\t20\n\t\t38\n\t\t3\n\t\n\t\n\t\tCUARTEL DE EMILIANO ZAPATA\n\t\t2\n\t\t162\n\t\t70\n\t\t92\n\t\t8\n\t\n\t\n\t\tCUARTEL LA MESA (EL ASOLEADERO)\n\t\t4\n\t\t380\n\t\t187\n\t\t193\n\t\t18\n\t\n\t\n\t\tCUARTEL LAS PALMAS\n\t\t2\n\t\t172\n\t\t91\n\t\t81\n\t\t6\n\t\n\t\n\t\tEJIDO EL ROSARIO\n\t\t7\n\t\t1,068\n\t\t530\n\t\t538\n\t\t47\n\t\n\t\n\t\tEJIDO LAS TROJES\n\t\t2\n\t\t68\n\t\t35\n\t\t33\n\t\t4\n\t\n\t\n\t\tEL LLANO (CERRO DE LA COCINA)\n\t\t3\n\t\t36\n\t\t18\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL PASO\n\t\t2\n\t\t174\n\t\t81\n\t\t93\n\t\t8\n\t\n\t\n\t\tEL SOLDADO ANÓNIMO\n\t\t2\n\t\t115\n\t\t66\n\t\t49\n\t\t8\n\t\n\t\n\t\tHERVIDERO Y PLANCHA (CUAUHTÉMOC)\n\t\t2\n\t\t76\n\t\t29\n\t\t47\n\t\t3\n\t\n\t\n\t\tLA MANZANA DE SANTA CRUZ\n\t\t3\n\t\t157\n\t\t84\n\t\t73\n\t\t8\n\t\n\t\n\t\tLAGUNA VERDE\n\t\t3\n\t\t125\n\t\t56\n\t\t69\n\t\t10\n\t\n\t\n\t\tLOS TEPETATES\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tMANZANA DE DOLORES\n\t\t2\n\t\t47\n\t\t24\n\t\t23\n\t\t3\n\t\n\t\n\t\tMANZANA DE SAN LUIS\n\t\t6\n\t\t1,006\n\t\t486\n\t\t520\n\t\t36\n\t\n\t\n\t\tMANZANA DEL CENTRO DE SAN CRISTÓBAL\n\t\t5\n\t\t675\n\t\t346\n\t\t329\n\t\t34\n\t\n\t\n\t\tMANZANA DEL TEJOCOTE\n\t\t1\n\t\t48\n\t\t25\n\t\t23\n\t\t4\n\t\n\t\n\t\tMANZANA EL MORTERO DE SAN CRISTÓBAL\n\t\t3\n\t\t65\n\t\t27\n\t\t38\n\t\t6\n\t\n\t\n\t\tMANZANA EL PASO DE SAN CRISTÓBAL\n\t\t1\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tMANZANA EL TEJOCOTE\n\t\t1\n\t\t18\n\t\t4\n\t\t14\n\t\t1\n\t\n\t\n\t\tMANZANA LA CIÉNEGA\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tMANZANA LOS REMEDIOS\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tMANZANA RANCHO ESCONDIDO\n\t\t3\n\t\t172\n\t\t85\n\t\t87\n\t\t9\n\t\n\t\n\t\tMESA EL ARENAL\n\t\t2\n\t\t25\n\t\t18\n\t\t7\n\t\t2\n\t\n\t\n\t\tOCAMPO\n\t\t9\n\t\t2,246\n\t\t1,137\n\t\t1,109\n\t\t130\n\t\n\t\n\t\tOJO DE AGUA\n\t\t1\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN JUAN\n\t\t2\n\t\t85\n\t\t32\n\t\t53\n\t\t4\n\t\n\t\n\t\tSANTA ANA\n\t\t2\n\t\t60\n\t\t27\n\t\t33\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t80\n\t\t7,368\n\t\t3,644\n\t\t3,724\n\t\t375\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: OCAMPO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CERRO PRIETO",
+          "3",
+          "247",
+          "128",
+          "119",
+          "8",
+          "CIENEGUILLAS",
+          "2",
+          "58",
+          "20",
+          "38",
+          "3",
+          "CUARTEL DE EMILIANO ZAPATA",
+          "2",
+          "162",
+          "70",
+          "92",
+          "8",
+          "CUARTEL LA MESA (EL ASOLEADERO)",
+          "4",
+          "380",
+          "187",
+          "193",
+          "18",
+          "CUARTEL LAS PALMAS",
+          "2",
+          "172",
+          "91",
+          "81",
+          "6",
+          "EJIDO EL ROSARIO",
+          "7",
+          "1,068",
+          "530",
+          "538",
+          "47",
+          "EJIDO LAS TROJES",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4",
+          "EL LLANO (CERRO DE LA COCINA)",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4",
+          "EL PASO",
+          "2",
+          "174",
+          "81",
+          "93",
+          "8",
+          "EL SOLDADO ANÓNIMO",
+          "2",
+          "115",
+          "66",
+          "49",
+          "8",
+          "HERVIDERO Y PLANCHA (CUAUHTÉMOC)",
+          "2",
+          "76",
+          "29",
+          "47",
+          "3",
+          "LA MANZANA DE SANTA CRUZ",
+          "3",
+          "157",
+          "84",
+          "73",
+          "8",
+          "LAGUNA VERDE",
+          "3",
+          "125",
+          "56",
+          "69",
+          "10",
+          "LOS TEPETATES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "MANZANA DE DOLORES",
+          "2",
+          "47",
+          "24",
+          "23",
+          "3",
+          "MANZANA DE SAN LUIS",
+          "6",
+          "1,006",
+          "486",
+          "520",
+          "36",
+          "MANZANA DEL CENTRO DE SAN CRISTÓBAL",
+          "5",
+          "675",
+          "346",
+          "329",
+          "34",
+          "MANZANA DEL TEJOCOTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "4",
+          "MANZANA EL MORTERO DE SAN CRISTÓBAL",
+          "3",
+          "65",
+          "27",
+          "38",
+          "6",
+          "MANZANA EL PASO DE SAN CRISTÓBAL",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1",
+          "MANZANA EL TEJOCOTE",
+          "1",
+          "18",
+          "4",
+          "14",
+          "1",
+          "MANZANA LA CIÉNEGA",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3",
+          "MANZANA LOS REMEDIOS",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2",
+          "MANZANA RANCHO ESCONDIDO",
+          "3",
+          "172",
+          "85",
+          "87",
+          "9",
+          "MESA EL ARENAL",
+          "2",
+          "25",
+          "18",
+          "7",
+          "2",
+          "OCAMPO",
+          "9",
+          "2,246",
+          "1,137",
+          "1,109",
+          "130",
+          "OJO DE AGUA",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1",
+          "SAN JUAN",
+          "2",
+          "85",
+          "32",
+          "53",
+          "4",
+          "SANTA ANA",
+          "2",
+          "60",
+          "27",
+          "33",
+          "3",
+          "TOTAL",
+          "80",
+          "7,368",
+          "3,644",
+          "3,724",
+          "375",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "247",
+          "128",
+          "119",
+          "8"
+        ],
+        [
+          "CIENEGUILLAS",
+          "2",
+          "58",
+          "20",
+          "38",
+          "3"
+        ],
+        [
+          "CUARTEL DE EMILIANO ZAPATA",
+          "2",
+          "162",
+          "70",
+          "92",
+          "8"
+        ],
+        [
+          "CUARTEL LA MESA (EL ASOLEADERO)",
+          "4",
+          "380",
+          "187",
+          "193",
+          "18"
+        ],
+        [
+          "CUARTEL LAS PALMAS",
+          "2",
+          "172",
+          "91",
+          "81",
+          "6"
+        ],
+        [
+          "EJIDO EL ROSARIO",
+          "7",
+          "1,068",
+          "530",
+          "538",
+          "47"
+        ],
+        [
+          "EJIDO LAS TROJES",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4"
+        ],
+        [
+          "EL LLANO (CERRO DE LA COCINA)",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "EL PASO",
+          "2",
+          "174",
+          "81",
+          "93",
+          "8"
+        ],
+        [
+          "EL SOLDADO ANÓNIMO",
+          "2",
+          "115",
+          "66",
+          "49",
+          "8"
+        ],
+        [
+          "HERVIDERO Y PLANCHA (CUAUHTÉMOC)",
+          "2",
+          "76",
+          "29",
+          "47",
+          "3"
+        ],
+        [
+          "LA MANZANA DE SANTA CRUZ",
+          "3",
+          "157",
+          "84",
+          "73",
+          "8"
+        ],
+        [
+          "LAGUNA VERDE",
+          "3",
+          "125",
+          "56",
+          "69",
+          "10"
+        ],
+        [
+          "LOS TEPETATES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "MANZANA DE DOLORES",
+          "2",
+          "47",
+          "24",
+          "23",
+          "3"
+        ],
+        [
+          "MANZANA DE SAN LUIS",
+          "6",
+          "1,006",
+          "486",
+          "520",
+          "36"
+        ],
+        [
+          "MANZANA DEL CENTRO DE SAN CRISTÓBAL",
+          "5",
+          "675",
+          "346",
+          "329",
+          "34"
+        ],
+        [
+          "MANZANA DEL TEJOCOTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "4"
+        ],
+        [
+          "MANZANA EL MORTERO DE SAN CRISTÓBAL",
+          "3",
+          "65",
+          "27",
+          "38",
+          "6"
+        ],
+        [
+          "MANZANA EL PASO DE SAN CRISTÓBAL",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "MANZANA EL TEJOCOTE",
+          "1",
+          "18",
+          "4",
+          "14",
+          "1"
+        ],
+        [
+          "MANZANA LA CIÉNEGA",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "MANZANA LOS REMEDIOS",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "MANZANA RANCHO ESCONDIDO",
+          "3",
+          "172",
+          "85",
+          "87",
+          "9"
+        ],
+        [
+          "MESA EL ARENAL",
+          "2",
+          "25",
+          "18",
+          "7",
+          "2"
+        ],
+        [
+          "OCAMPO",
+          "9",
+          "2,246",
+          "1,137",
+          "1,109",
+          "130"
+        ],
+        [
+          "OJO DE AGUA",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "85",
+          "32",
+          "53",
+          "4"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "60",
+          "27",
+          "33",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "80",
+          "7,368",
+          "3,644",
+          "3,724",
+          "375"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "247",
+          "128",
+          "119",
+          "8"
+        ],
+        [
+          "CIENEGUILLAS",
+          "2",
+          "58",
+          "20",
+          "38",
+          "3"
+        ],
+        [
+          "CUARTEL DE EMILIANO ZAPATA",
+          "2",
+          "162",
+          "70",
+          "92",
+          "8"
+        ],
+        [
+          "CUARTEL LA MESA (EL ASOLEADERO)",
+          "4",
+          "380",
+          "187",
+          "193",
+          "18"
+        ],
+        [
+          "CUARTEL LAS PALMAS",
+          "2",
+          "172",
+          "91",
+          "81",
+          "6"
+        ],
+        [
+          "EJIDO EL ROSARIO",
+          "7",
+          "1,068",
+          "530",
+          "538",
+          "47"
+        ],
+        [
+          "EJIDO LAS TROJES",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4"
+        ],
+        [
+          "EL LLANO (CERRO DE LA COCINA)",
+          "3",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "EL PASO",
+          "2",
+          "174",
+          "81",
+          "93",
+          "8"
+        ],
+        [
+          "EL SOLDADO ANÓNIMO",
+          "2",
+          "115",
+          "66",
+          "49",
+          "8"
+        ],
+        [
+          "HERVIDERO Y PLANCHA (CUAUHTÉMOC)",
+          "2",
+          "76",
+          "29",
+          "47",
+          "3"
+        ],
+        [
+          "LA MANZANA DE SANTA CRUZ",
+          "3",
+          "157",
+          "84",
+          "73",
+          "8"
+        ],
+        [
+          "LAGUNA VERDE",
+          "3",
+          "125",
+          "56",
+          "69",
+          "10"
+        ],
+        [
+          "LOS TEPETATES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "MANZANA DE DOLORES",
+          "2",
+          "47",
+          "24",
+          "23",
+          "3"
+        ],
+        [
+          "MANZANA DE SAN LUIS",
+          "6",
+          "1,006",
+          "486",
+          "520",
+          "36"
+        ],
+        [
+          "MANZANA DEL CENTRO DE SAN CRISTÓBAL",
+          "5",
+          "675",
+          "346",
+          "329",
+          "34"
+        ],
+        [
+          "MANZANA DEL TEJOCOTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "4"
+        ],
+        [
+          "MANZANA EL MORTERO DE SAN CRISTÓBAL",
+          "3",
+          "65",
+          "27",
+          "38",
+          "6"
+        ],
+        [
+          "MANZANA EL PASO DE SAN CRISTÓBAL",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "MANZANA EL TEJOCOTE",
+          "1",
+          "18",
+          "4",
+          "14",
+          "1"
+        ],
+        [
+          "MANZANA LA CIÉNEGA",
+          "2",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "MANZANA LOS REMEDIOS",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "MANZANA RANCHO ESCONDIDO",
+          "3",
+          "172",
+          "85",
+          "87",
+          "9"
+        ],
+        [
+          "MESA EL ARENAL",
+          "2",
+          "25",
+          "18",
+          "7",
+          "2"
+        ],
+        [
+          "OCAMPO",
+          "9",
+          "2,246",
+          "1,137",
+          "1,109",
+          "130"
+        ],
+        [
+          "OJO DE AGUA",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "85",
+          "32",
+          "53",
+          "4"
+        ],
+        [
+          "SANTA ANA",
+          "2",
+          "60",
+          "27",
+          "33",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "80",
+          "7,368",
+          "3,644",
+          "3,724",
+          "375"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:18.751Z"
+}

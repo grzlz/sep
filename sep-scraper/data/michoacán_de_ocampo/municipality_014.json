@@ -1,0 +1,472 @@
+{
+  "municipality": "COAHUAYANA",
+  "municipalityCode": "014",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COAHUAYANA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACHOTÁN\n\t\t2\n\t\t45\n\t\t26\n\t\t19\n\t\t3\n\t\n\t\n\t\tBOCA DE APIZA\n\t\t4\n\t\t127\n\t\t63\n\t\t64\n\t\t11\n\t\n\t\n\t\tCOAHUAYANA DE HIDALGO\n\t\t14\n\t\t1,981\n\t\t1,000\n\t\t981\n\t\t91\n\t\n\t\n\t\tCOAHUAYANA VIEJO\n\t\t6\n\t\t1,437\n\t\t749\n\t\t688\n\t\t96\n\t\n\t\n\t\tCOLONIA VEINTE DE NOVIEMBRE (EL CAMALOTE)\n\t\t2\n\t\t57\n\t\t31\n\t\t26\n\t\t11\n\t\n\t\n\t\tEL AHIJADERO\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL CHORUMO\n\t\t3\n\t\t28\n\t\t18\n\t\t10\n\t\t4\n\t\n\t\n\t\tEL SAUCITO\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL TICUIZ\n\t\t2\n\t\t102\n\t\t45\n\t\t57\n\t\t6\n\t\n\t\n\t\tLA ESPERANZA\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tLÁZARO CÁRDENAS DEL RÍO (EL ÓRGANO)\n\t\t2\n\t\t48\n\t\t21\n\t\t27\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA DE SAN TELMO\n\t\t3\n\t\t125\n\t\t56\n\t\t69\n\t\t9\n\t\n\t\n\t\tPALOS MARÍAS\n\t\t3\n\t\t61\n\t\t26\n\t\t35\n\t\t6\n\t\n\t\n\t\tSAN MIGUEL DEL RÍO (LO DE LUNA)\n\t\t2\n\t\t13\n\t\t10\n\t\t3\n\t\t2\n\t\n\t\n\t\tSAN VICENTE\n\t\t2\n\t\t108\n\t\t51\n\t\t57\n\t\t8\n\t\n\t\n\t\tSANTA MARÍA MIRAMAR\n\t\t3\n\t\t50\n\t\t24\n\t\t26\n\t\t5\n\t\n\t\n\t\tZAPOTÁN\n\t\t3\n\t\t166\n\t\t92\n\t\t74\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t56\n\t\t4,406\n\t\t2,242\n\t\t2,164\n\t\t273\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COAHUAYANA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACHOTÁN",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3",
+          "BOCA DE APIZA",
+          "4",
+          "127",
+          "63",
+          "64",
+          "11",
+          "COAHUAYANA DE HIDALGO",
+          "14",
+          "1,981",
+          "1,000",
+          "981",
+          "91",
+          "COAHUAYANA VIEJO",
+          "6",
+          "1,437",
+          "749",
+          "688",
+          "96",
+          "COLONIA VEINTE DE NOVIEMBRE (EL CAMALOTE)",
+          "2",
+          "57",
+          "31",
+          "26",
+          "11",
+          "EL AHIJADERO",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3",
+          "EL CHORUMO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "4",
+          "EL SAUCITO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "EL TICUIZ",
+          "2",
+          "102",
+          "45",
+          "57",
+          "6",
+          "LA ESPERANZA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "2",
+          "LÁZARO CÁRDENAS DEL RÍO (EL ÓRGANO)",
+          "2",
+          "48",
+          "21",
+          "27",
+          "2",
+          "OJO DE AGUA DE SAN TELMO",
+          "3",
+          "125",
+          "56",
+          "69",
+          "9",
+          "PALOS MARÍAS",
+          "3",
+          "61",
+          "26",
+          "35",
+          "6",
+          "SAN MIGUEL DEL RÍO (LO DE LUNA)",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2",
+          "SAN VICENTE",
+          "2",
+          "108",
+          "51",
+          "57",
+          "8",
+          "SANTA MARÍA MIRAMAR",
+          "3",
+          "50",
+          "24",
+          "26",
+          "5",
+          "ZAPOTÁN",
+          "3",
+          "166",
+          "92",
+          "74",
+          "12",
+          "TOTAL",
+          "56",
+          "4,406",
+          "2,242",
+          "2,164",
+          "273",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COAHUAYANA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHOTÁN",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3"
+        ],
+        [
+          "BOCA DE APIZA",
+          "4",
+          "127",
+          "63",
+          "64",
+          "11"
+        ],
+        [
+          "COAHUAYANA DE HIDALGO",
+          "14",
+          "1,981",
+          "1,000",
+          "981",
+          "91"
+        ],
+        [
+          "COAHUAYANA VIEJO",
+          "6",
+          "1,437",
+          "749",
+          "688",
+          "96"
+        ],
+        [
+          "COLONIA VEINTE DE NOVIEMBRE (EL CAMALOTE)",
+          "2",
+          "57",
+          "31",
+          "26",
+          "11"
+        ],
+        [
+          "EL AHIJADERO",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "EL CHORUMO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "4"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "EL TICUIZ",
+          "2",
+          "102",
+          "45",
+          "57",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS DEL RÍO (EL ÓRGANO)",
+          "2",
+          "48",
+          "21",
+          "27",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE SAN TELMO",
+          "3",
+          "125",
+          "56",
+          "69",
+          "9"
+        ],
+        [
+          "PALOS MARÍAS",
+          "3",
+          "61",
+          "26",
+          "35",
+          "6"
+        ],
+        [
+          "SAN MIGUEL DEL RÍO (LO DE LUNA)",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "108",
+          "51",
+          "57",
+          "8"
+        ],
+        [
+          "SANTA MARÍA MIRAMAR",
+          "3",
+          "50",
+          "24",
+          "26",
+          "5"
+        ],
+        [
+          "ZAPOTÁN",
+          "3",
+          "166",
+          "92",
+          "74",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "56",
+          "4,406",
+          "2,242",
+          "2,164",
+          "273"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: COAHUAYANA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACHOTÁN",
+          "2",
+          "45",
+          "26",
+          "19",
+          "3"
+        ],
+        [
+          "BOCA DE APIZA",
+          "4",
+          "127",
+          "63",
+          "64",
+          "11"
+        ],
+        [
+          "COAHUAYANA DE HIDALGO",
+          "14",
+          "1,981",
+          "1,000",
+          "981",
+          "91"
+        ],
+        [
+          "COAHUAYANA VIEJO",
+          "6",
+          "1,437",
+          "749",
+          "688",
+          "96"
+        ],
+        [
+          "COLONIA VEINTE DE NOVIEMBRE (EL CAMALOTE)",
+          "2",
+          "57",
+          "31",
+          "26",
+          "11"
+        ],
+        [
+          "EL AHIJADERO",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "EL CHORUMO",
+          "3",
+          "28",
+          "18",
+          "10",
+          "4"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "EL TICUIZ",
+          "2",
+          "102",
+          "45",
+          "57",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS DEL RÍO (EL ÓRGANO)",
+          "2",
+          "48",
+          "21",
+          "27",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE SAN TELMO",
+          "3",
+          "125",
+          "56",
+          "69",
+          "9"
+        ],
+        [
+          "PALOS MARÍAS",
+          "3",
+          "61",
+          "26",
+          "35",
+          "6"
+        ],
+        [
+          "SAN MIGUEL DEL RÍO (LO DE LUNA)",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "108",
+          "51",
+          "57",
+          "8"
+        ],
+        [
+          "SANTA MARÍA MIRAMAR",
+          "3",
+          "50",
+          "24",
+          "26",
+          "5"
+        ],
+        [
+          "ZAPOTÁN",
+          "3",
+          "166",
+          "92",
+          "74",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "56",
+          "4,406",
+          "2,242",
+          "2,164",
+          "273"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:36.140Z"
+}

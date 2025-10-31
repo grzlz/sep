@@ -1,0 +1,582 @@
+{
+  "municipality": "ILIATENCO",
+  "municipalityCode": "081",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ILIATENCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALCHIPAHUAC\n\t\t2\n\t\t87\n\t\t51\n\t\t36\n\t\t5\n\t\n\t\n\t\tARROYO SAN PEDRO\n\t\t3\n\t\t150\n\t\t81\n\t\t69\n\t\t10\n\t\n\t\n\t\tAVIACIÓN\n\t\t2\n\t\t125\n\t\t58\n\t\t67\n\t\t8\n\t\n\t\n\t\tBARRANCA XALE\n\t\t1\n\t\t18\n\t\t8\n\t\t10\n\t\t1\n\t\n\t\n\t\tCERRO ARDILLA\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t3\n\t\n\t\n\t\tCERRO CUATE\n\t\t2\n\t\t106\n\t\t53\n\t\t53\n\t\t8\n\t\n\t\n\t\tCERRO GUAYABO\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tCERRO TEJÓN\n\t\t2\n\t\t79\n\t\t38\n\t\t41\n\t\t4\n\t\n\t\n\t\tCOLONIA UNIVERSIDAD\n\t\t2\n\t\t124\n\t\t60\n\t\t64\n\t\t7\n\t\n\t\n\t\tCRUZ VERDE\n\t\t2\n\t\t101\n\t\t43\n\t\t58\n\t\t5\n\t\n\t\n\t\tCRUZTOMÁHUAC\n\t\t3\n\t\t162\n\t\t76\n\t\t86\n\t\t8\n\t\n\t\n\t\tEL ASERRADERO\n\t\t3\n\t\t281\n\t\t141\n\t\t140\n\t\t12\n\t\n\t\n\t\tILIATENCO\n\t\t11\n\t\t1,531\n\t\t772\n\t\t759\n\t\t92\n\t\n\t\n\t\tLOMA DE CUAPINOLE\n\t\t2\n\t\t72\n\t\t26\n\t\t46\n\t\t4\n\t\n\t\n\t\tLOMA ENCINO\n\t\t1\n\t\t19\n\t\t7\n\t\t12\n\t\t1\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t69\n\t\t34\n\t\t35\n\t\t5\n\t\n\t\n\t\tPORTEZUELO DEL CLARÍN\n\t\t2\n\t\t71\n\t\t36\n\t\t35\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ VISTA HERMOSA\n\t\t5\n\t\t271\n\t\t117\n\t\t154\n\t\t19\n\t\n\t\n\t\tSANTA CECILIA\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tSANTA CRUZ HERNÁNDEZ\n\t\t1\n\t\t21\n\t\t12\n\t\t9\n\t\t1\n\t\n\t\n\t\tTLAHUITEPEC\n\t\t3\n\t\t118\n\t\t63\n\t\t55\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t55\n\t\t3,498\n\t\t1,720\n\t\t1,778\n\t\t210\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ILIATENCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALCHIPAHUAC",
+          "2",
+          "87",
+          "51",
+          "36",
+          "5",
+          "ARROYO SAN PEDRO",
+          "3",
+          "150",
+          "81",
+          "69",
+          "10",
+          "AVIACIÓN",
+          "2",
+          "125",
+          "58",
+          "67",
+          "8",
+          "BARRANCA XALE",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1",
+          "CERRO ARDILLA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3",
+          "CERRO CUATE",
+          "2",
+          "106",
+          "53",
+          "53",
+          "8",
+          "CERRO GUAYABO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "CERRO TEJÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "4",
+          "COLONIA UNIVERSIDAD",
+          "2",
+          "124",
+          "60",
+          "64",
+          "7",
+          "CRUZ VERDE",
+          "2",
+          "101",
+          "43",
+          "58",
+          "5",
+          "CRUZTOMÁHUAC",
+          "3",
+          "162",
+          "76",
+          "86",
+          "8",
+          "EL ASERRADERO",
+          "3",
+          "281",
+          "141",
+          "140",
+          "12",
+          "ILIATENCO",
+          "11",
+          "1,531",
+          "772",
+          "759",
+          "92",
+          "LOMA DE CUAPINOLE",
+          "2",
+          "72",
+          "26",
+          "46",
+          "4",
+          "LOMA ENCINO",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1",
+          "OJO DE AGUA",
+          "2",
+          "69",
+          "34",
+          "35",
+          "5",
+          "PORTEZUELO DEL CLARÍN",
+          "2",
+          "71",
+          "36",
+          "35",
+          "4",
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3",
+          "SAN JOSÉ VISTA HERMOSA",
+          "5",
+          "271",
+          "117",
+          "154",
+          "19",
+          "SANTA CECILIA",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "SANTA CRUZ HERNÁNDEZ",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1",
+          "TLAHUITEPEC",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8",
+          "TOTAL",
+          "55",
+          "3,498",
+          "1,720",
+          "1,778",
+          "210",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ILIATENCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALCHIPAHUAC",
+          "2",
+          "87",
+          "51",
+          "36",
+          "5"
+        ],
+        [
+          "ARROYO SAN PEDRO",
+          "3",
+          "150",
+          "81",
+          "69",
+          "10"
+        ],
+        [
+          "AVIACIÓN",
+          "2",
+          "125",
+          "58",
+          "67",
+          "8"
+        ],
+        [
+          "BARRANCA XALE",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "CERRO ARDILLA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "CERRO CUATE",
+          "2",
+          "106",
+          "53",
+          "53",
+          "8"
+        ],
+        [
+          "CERRO GUAYABO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "CERRO TEJÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA UNIVERSIDAD",
+          "2",
+          "124",
+          "60",
+          "64",
+          "7"
+        ],
+        [
+          "CRUZ VERDE",
+          "2",
+          "101",
+          "43",
+          "58",
+          "5"
+        ],
+        [
+          "CRUZTOMÁHUAC",
+          "3",
+          "162",
+          "76",
+          "86",
+          "8"
+        ],
+        [
+          "EL ASERRADERO",
+          "3",
+          "281",
+          "141",
+          "140",
+          "12"
+        ],
+        [
+          "ILIATENCO",
+          "11",
+          "1,531",
+          "772",
+          "759",
+          "92"
+        ],
+        [
+          "LOMA DE CUAPINOLE",
+          "2",
+          "72",
+          "26",
+          "46",
+          "4"
+        ],
+        [
+          "LOMA ENCINO",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "69",
+          "34",
+          "35",
+          "5"
+        ],
+        [
+          "PORTEZUELO DEL CLARÍN",
+          "2",
+          "71",
+          "36",
+          "35",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ VISTA HERMOSA",
+          "5",
+          "271",
+          "117",
+          "154",
+          "19"
+        ],
+        [
+          "SANTA CECILIA",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "SANTA CRUZ HERNÁNDEZ",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "TLAHUITEPEC",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "3,498",
+          "1,720",
+          "1,778",
+          "210"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ILIATENCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALCHIPAHUAC",
+          "2",
+          "87",
+          "51",
+          "36",
+          "5"
+        ],
+        [
+          "ARROYO SAN PEDRO",
+          "3",
+          "150",
+          "81",
+          "69",
+          "10"
+        ],
+        [
+          "AVIACIÓN",
+          "2",
+          "125",
+          "58",
+          "67",
+          "8"
+        ],
+        [
+          "BARRANCA XALE",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "CERRO ARDILLA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "3"
+        ],
+        [
+          "CERRO CUATE",
+          "2",
+          "106",
+          "53",
+          "53",
+          "8"
+        ],
+        [
+          "CERRO GUAYABO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "CERRO TEJÓN",
+          "2",
+          "79",
+          "38",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA UNIVERSIDAD",
+          "2",
+          "124",
+          "60",
+          "64",
+          "7"
+        ],
+        [
+          "CRUZ VERDE",
+          "2",
+          "101",
+          "43",
+          "58",
+          "5"
+        ],
+        [
+          "CRUZTOMÁHUAC",
+          "3",
+          "162",
+          "76",
+          "86",
+          "8"
+        ],
+        [
+          "EL ASERRADERO",
+          "3",
+          "281",
+          "141",
+          "140",
+          "12"
+        ],
+        [
+          "ILIATENCO",
+          "11",
+          "1,531",
+          "772",
+          "759",
+          "92"
+        ],
+        [
+          "LOMA DE CUAPINOLE",
+          "2",
+          "72",
+          "26",
+          "46",
+          "4"
+        ],
+        [
+          "LOMA ENCINO",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "69",
+          "34",
+          "35",
+          "5"
+        ],
+        [
+          "PORTEZUELO DEL CLARÍN",
+          "2",
+          "71",
+          "36",
+          "35",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ VISTA HERMOSA",
+          "5",
+          "271",
+          "117",
+          "154",
+          "19"
+        ],
+        [
+          "SANTA CECILIA",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "SANTA CRUZ HERNÁNDEZ",
+          "1",
+          "21",
+          "12",
+          "9",
+          "1"
+        ],
+        [
+          "TLAHUITEPEC",
+          "3",
+          "118",
+          "63",
+          "55",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "3,498",
+          "1,720",
+          "1,778",
+          "210"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:51.630Z"
+}

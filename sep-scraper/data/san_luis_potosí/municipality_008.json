@@ -1,0 +1,626 @@
+{
+  "municipality": "CERRITOS",
+  "municipalityCode": "008",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CERRITOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCERRITO BLANCO\n\t\t3\n\t\t37\n\t\t11\n\t\t26\n\t\t4\n\t\n\t\n\t\tCERRITOS\n\t\t21\n\t\t3,903\n\t\t1,960\n\t\t1,943\n\t\t210\n\t\n\t\n\t\tCERROS BLANCOS\n\t\t3\n\t\t36\n\t\t20\n\t\t16\n\t\t3\n\t\n\t\n\t\tDERRAMADEROS\n\t\t3\n\t\t89\n\t\t40\n\t\t49\n\t\t6\n\t\n\t\n\t\tEL GAVILÁN\n\t\t3\n\t\t36\n\t\t21\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL SAUZ\n\t\t3\n\t\t81\n\t\t46\n\t\t35\n\t\t5\n\t\n\t\n\t\tEL TEPETATE\n\t\t3\n\t\t52\n\t\t21\n\t\t31\n\t\t4\n\t\n\t\n\t\tEL TEPOZÁN\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tJOYA DE LUNA\n\t\t3\n\t\t96\n\t\t45\n\t\t51\n\t\t6\n\t\n\t\n\t\tLA PEÑA DE SALAZAR\n\t\t3\n\t\t6\n\t\t1\n\t\t5\n\t\t2\n\t\n\t\n\t\tLAS MARAVILLAS\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tMANZANILLAS\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tMEZQUITES CHICOS\n\t\t3\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tMEZQUITES GRANDES\n\t\t2\n\t\t25\n\t\t6\n\t\t19\n\t\t2\n\t\n\t\n\t\tMONTAÑA\n\t\t3\n\t\t55\n\t\t25\n\t\t30\n\t\t4\n\t\n\t\n\t\tNUEVO EJIDO SAN PEDRO DE LOS HERNÁNDEZ (LAS VIBORILLAS)\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA\n\t\t4\n\t\t367\n\t\t186\n\t\t181\n\t\t22\n\t\n\t\n\t\tPUERTO DE SAN JOSÉ (EL PUERTO)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tRINCÓN DE TURRUBIARTES\n\t\t3\n\t\t33\n\t\t16\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE TURRUBIARTES (EL ZAMANDOQUE)\n\t\t2\n\t\t31\n\t\t18\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN NICOLÁS DEL BOSQUE\n\t\t3\n\t\t31\n\t\t19\n\t\t12\n\t\t3\n\t\n\t\n\t\tSAN PEDRO DE LOS HERNÁNDEZ\n\t\t4\n\t\t96\n\t\t42\n\t\t54\n\t\t5\n\t\n\t\n\t\tTANQUITO DE BANDA\n\t\t3\n\t\t13\n\t\t3\n\t\t10\n\t\t2\n\t\n\t\n\t\tVILLAR (ESTACIÓN VILLAR)\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t81\n\t\t5,113\n\t\t2,536\n\t\t2,577\n\t\t298\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CERRITOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CERRITO BLANCO",
+          "3",
+          "37",
+          "11",
+          "26",
+          "4",
+          "CERRITOS",
+          "21",
+          "3,903",
+          "1,960",
+          "1,943",
+          "210",
+          "CERROS BLANCOS",
+          "3",
+          "36",
+          "20",
+          "16",
+          "3",
+          "DERRAMADEROS",
+          "3",
+          "89",
+          "40",
+          "49",
+          "6",
+          "EL GAVILÁN",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3",
+          "EL SAUZ",
+          "3",
+          "81",
+          "46",
+          "35",
+          "5",
+          "EL TEPETATE",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4",
+          "EL TEPOZÁN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "JOYA DE LUNA",
+          "3",
+          "96",
+          "45",
+          "51",
+          "6",
+          "LA PEÑA DE SALAZAR",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2",
+          "LAS MARAVILLAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "MANZANILLAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "MEZQUITES CHICOS",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3",
+          "MEZQUITES GRANDES",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2",
+          "MONTAÑA",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4",
+          "NUEVO EJIDO SAN PEDRO DE LOS HERNÁNDEZ (LAS VIBORILLAS)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "OJO DE AGUA",
+          "4",
+          "367",
+          "186",
+          "181",
+          "22",
+          "PUERTO DE SAN JOSÉ (EL PUERTO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "RINCÓN DE TURRUBIARTES",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3",
+          "SAN JOSÉ DE TURRUBIARTES (EL ZAMANDOQUE)",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2",
+          "SAN NICOLÁS DEL BOSQUE",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3",
+          "SAN PEDRO DE LOS HERNÁNDEZ",
+          "4",
+          "96",
+          "42",
+          "54",
+          "5",
+          "TANQUITO DE BANDA",
+          "3",
+          "13",
+          "3",
+          "10",
+          "2",
+          "VILLAR (ESTACIÓN VILLAR)",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2",
+          "TOTAL",
+          "81",
+          "5,113",
+          "2,536",
+          "2,577",
+          "298",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CERRITOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRITO BLANCO",
+          "3",
+          "37",
+          "11",
+          "26",
+          "4"
+        ],
+        [
+          "CERRITOS",
+          "21",
+          "3,903",
+          "1,960",
+          "1,943",
+          "210"
+        ],
+        [
+          "CERROS BLANCOS",
+          "3",
+          "36",
+          "20",
+          "16",
+          "3"
+        ],
+        [
+          "DERRAMADEROS",
+          "3",
+          "89",
+          "40",
+          "49",
+          "6"
+        ],
+        [
+          "EL GAVILÁN",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "81",
+          "46",
+          "35",
+          "5"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "EL TEPOZÁN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "JOYA DE LUNA",
+          "3",
+          "96",
+          "45",
+          "51",
+          "6"
+        ],
+        [
+          "LA PEÑA DE SALAZAR",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MARAVILLAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "MANZANILLAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "MEZQUITES CHICOS",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "MEZQUITES GRANDES",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2"
+        ],
+        [
+          "MONTAÑA",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "NUEVO EJIDO SAN PEDRO DE LOS HERNÁNDEZ (LAS VIBORILLAS)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "4",
+          "367",
+          "186",
+          "181",
+          "22"
+        ],
+        [
+          "PUERTO DE SAN JOSÉ (EL PUERTO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "RINCÓN DE TURRUBIARTES",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE TURRUBIARTES (EL ZAMANDOQUE)",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS DEL BOSQUE",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "SAN PEDRO DE LOS HERNÁNDEZ",
+          "4",
+          "96",
+          "42",
+          "54",
+          "5"
+        ],
+        [
+          "TANQUITO DE BANDA",
+          "3",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "VILLAR (ESTACIÓN VILLAR)",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "5,113",
+          "2,536",
+          "2,577",
+          "298"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CERRITOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRITO BLANCO",
+          "3",
+          "37",
+          "11",
+          "26",
+          "4"
+        ],
+        [
+          "CERRITOS",
+          "21",
+          "3,903",
+          "1,960",
+          "1,943",
+          "210"
+        ],
+        [
+          "CERROS BLANCOS",
+          "3",
+          "36",
+          "20",
+          "16",
+          "3"
+        ],
+        [
+          "DERRAMADEROS",
+          "3",
+          "89",
+          "40",
+          "49",
+          "6"
+        ],
+        [
+          "EL GAVILÁN",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "81",
+          "46",
+          "35",
+          "5"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "EL TEPOZÁN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "JOYA DE LUNA",
+          "3",
+          "96",
+          "45",
+          "51",
+          "6"
+        ],
+        [
+          "LA PEÑA DE SALAZAR",
+          "3",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MARAVILLAS",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "MANZANILLAS",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "MEZQUITES CHICOS",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "MEZQUITES GRANDES",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2"
+        ],
+        [
+          "MONTAÑA",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "NUEVO EJIDO SAN PEDRO DE LOS HERNÁNDEZ (LAS VIBORILLAS)",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "4",
+          "367",
+          "186",
+          "181",
+          "22"
+        ],
+        [
+          "PUERTO DE SAN JOSÉ (EL PUERTO)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "RINCÓN DE TURRUBIARTES",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE TURRUBIARTES (EL ZAMANDOQUE)",
+          "2",
+          "31",
+          "18",
+          "13",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS DEL BOSQUE",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "SAN PEDRO DE LOS HERNÁNDEZ",
+          "4",
+          "96",
+          "42",
+          "54",
+          "5"
+        ],
+        [
+          "TANQUITO DE BANDA",
+          "3",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "VILLAR (ESTACIÓN VILLAR)",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "5,113",
+          "2,536",
+          "2,577",
+          "298"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:28:48.382Z"
+}

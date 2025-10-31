@@ -1,0 +1,1132 @@
+{
+  "municipality": "SAN FERNANDO",
+  "municipalityCode": "035",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN FERNANDO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁGUILA AZTECA\n\t\t2\n\t\t51\n\t\t28\n\t\t23\n\t\t4\n\t\n\t\n\t\tALFREDO V. BONFIL (LUIS ECHEVERRÍA)\n\t\t3\n\t\t180\n\t\t89\n\t\t91\n\t\t11\n\t\n\t\n\t\tAMPLIACIÓN LOS VERGELES\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t33\n\t\t13\n\t\t20\n\t\t3\n\t\n\t\n\t\tCARBONERAS (LA CARBONERA)\n\t\t6\n\t\t642\n\t\t329\n\t\t313\n\t\t38\n\t\n\t\n\t\tCARVAJAL\n\t\t3\n\t\t227\n\t\t103\n\t\t124\n\t\t13\n\t\n\t\n\t\tDIVISIÓN DEL NORTE (LAGUNA SECA)\n\t\t2\n\t\t98\n\t\t52\n\t\t46\n\t\t6\n\t\n\t\n\t\tEL BARRANCÓN DEL TÍO BLAS (EL BARRANCÓN)\n\t\t3\n\t\t167\n\t\t84\n\t\t83\n\t\t8\n\t\n\t\n\t\tEL CORTINEÑO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA (AMPLIACIÓN SAN GERMÁN)\n\t\t3\n\t\t123\n\t\t47\n\t\t76\n\t\t9\n\t\n\t\n\t\tGENERAL FRANCISCO GONZÁLEZ VILLARREAL (SAN JUAN)\n\t\t5\n\t\t451\n\t\t223\n\t\t228\n\t\t40\n\t\n\t\n\t\tGENERAL FRANCISCO J. MÚJICA (LA POZA)\n\t\t3\n\t\t108\n\t\t52\n\t\t56\n\t\t8\n\t\n\t\n\t\tGENERAL FRANCISCO VILLA\n\t\t5\n\t\t967\n\t\t505\n\t\t462\n\t\t79\n\t\n\t\n\t\tGUADALUPE VICTORIA (EL NORTEÑO)\n\t\t3\n\t\t149\n\t\t71\n\t\t78\n\t\t11\n\t\n\t\n\t\tGUADALUPE VICTORIA (LAS ADJUNTAS)\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tJUAN ANTONIO\n\t\t2\n\t\t19\n\t\t13\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA CARRETA DOS\n\t\t4\n\t\t153\n\t\t82\n\t\t71\n\t\t11\n\t\n\t\n\t\tLA CARRETA UNO\n\t\t3\n\t\t37\n\t\t18\n\t\t19\n\t\t4\n\t\n\t\n\t\tLA FLORIDA (LA FLORIDA DEL SUR)\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA JOYA\n\t\t2\n\t\t27\n\t\t12\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA LIBERTAD DE SAN FERNANDO [NUEVO CENTRO DE POBLACIÓN]\n\t\t2\n\t\t13\n\t\t10\n\t\t3\n\t\t2\n\t\n\t\n\t\tLA LOMA\n\t\t2\n\t\t117\n\t\t50\n\t\t67\n\t\t8\n\t\n\t\n\t\tLA LOMITA [NUEVO CENTRO DE POBLACIÓN AGRÍCOLA]\n\t\t2\n\t\t127\n\t\t56\n\t\t71\n\t\t7\n\t\n\t\n\t\tLA MEDIA LUNA\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tLAGUNA DE SAN JUAN\n\t\t3\n\t\t89\n\t\t50\n\t\t39\n\t\t7\n\t\n\t\n\t\tLAS ESCOBAS\n\t\t1\n\t\t15\n\t\t11\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS NORIAS (SAN JOSÉ DE BUENAVISTA)\n\t\t3\n\t\t60\n\t\t28\n\t\t32\n\t\t5\n\t\n\t\n\t\tLAVADEROS\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS ÉBANOS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS VERGELES\n\t\t2\n\t\t40\n\t\t16\n\t\t24\n\t\t3\n\t\n\t\n\t\tMIGUEL HIDALGO UNO\n\t\t3\n\t\t97\n\t\t44\n\t\t53\n\t\t7\n\t\n\t\n\t\tNUEVO TLAXCALA XICOTÉNCATL\n\t\t2\n\t\t12\n\t\t10\n\t\t2\n\t\t1\n\t\n\t\n\t\tPALO SOLO\n\t\t4\n\t\t106\n\t\t54\n\t\t52\n\t\t10\n\t\n\t\n\t\tPALOS BLANCOS\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tPASO HONDO\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tPUERTO RICO\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tPUNTA DE ALAMBRE (PUENTE DE ALAMBRE)\n\t\t2\n\t\t87\n\t\t43\n\t\t44\n\t\t6\n\t\n\t\n\t\tPUNTA DE PIEDRA\n\t\t2\n\t\t80\n\t\t35\n\t\t45\n\t\t4\n\t\n\t\n\t\tSAN FERNANDO\n\t\t44\n\t\t7,415\n\t\t3,701\n\t\t3,714\n\t\t439\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN GERMÁN\n\t\t3\n\t\t242\n\t\t115\n\t\t127\n\t\t17\n\t\n\t\n\t\tSAN GERMÁN (EL DURAZNO)\n\t\t1\n\t\t92\n\t\t48\n\t\t44\n\t\t8\n\t\n\t\n\t\tSAN GILBERTO\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN LORENZO\n\t\t2\n\t\t36\n\t\t18\n\t\t18\n\t\t4\n\t\n\t\n\t\tSANTA RITA (ESCUADRÓN 201)\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tSANTA TERESA\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t152\n\t\t12,249\n\t\t6,089\n\t\t6,160\n\t\t801\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN FERNANDO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁGUILA AZTECA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "4",
+          "ALFREDO V. BONFIL (LUIS ECHEVERRÍA)",
+          "3",
+          "180",
+          "89",
+          "91",
+          "11",
+          "AMPLIACIÓN LOS VERGELES",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3",
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "13",
+          "20",
+          "3",
+          "CARBONERAS (LA CARBONERA)",
+          "6",
+          "642",
+          "329",
+          "313",
+          "38",
+          "CARVAJAL",
+          "3",
+          "227",
+          "103",
+          "124",
+          "13",
+          "DIVISIÓN DEL NORTE (LAGUNA SECA)",
+          "2",
+          "98",
+          "52",
+          "46",
+          "6",
+          "EL BARRANCÓN DEL TÍO BLAS (EL BARRANCÓN)",
+          "3",
+          "167",
+          "84",
+          "83",
+          "8",
+          "EL CORTINEÑO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "EMILIANO ZAPATA (AMPLIACIÓN SAN GERMÁN)",
+          "3",
+          "123",
+          "47",
+          "76",
+          "9",
+          "GENERAL FRANCISCO GONZÁLEZ VILLARREAL (SAN JUAN)",
+          "5",
+          "451",
+          "223",
+          "228",
+          "40",
+          "GENERAL FRANCISCO J. MÚJICA (LA POZA)",
+          "3",
+          "108",
+          "52",
+          "56",
+          "8",
+          "GENERAL FRANCISCO VILLA",
+          "5",
+          "967",
+          "505",
+          "462",
+          "79",
+          "GUADALUPE VICTORIA (EL NORTEÑO)",
+          "3",
+          "149",
+          "71",
+          "78",
+          "11",
+          "GUADALUPE VICTORIA (LAS ADJUNTAS)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "JUAN ANTONIO",
+          "2",
+          "19",
+          "13",
+          "6",
+          "2",
+          "LA CARRETA DOS",
+          "4",
+          "153",
+          "82",
+          "71",
+          "11",
+          "LA CARRETA UNO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4",
+          "LA FLORIDA (LA FLORIDA DEL SUR)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "LA JOYA",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2",
+          "LA LIBERTAD DE SAN FERNANDO [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2",
+          "LA LOMA",
+          "2",
+          "117",
+          "50",
+          "67",
+          "8",
+          "LA LOMITA [NUEVO CENTRO DE POBLACIÓN AGRÍCOLA]",
+          "2",
+          "127",
+          "56",
+          "71",
+          "7",
+          "LA MEDIA LUNA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "LAGUNA DE SAN JUAN",
+          "3",
+          "89",
+          "50",
+          "39",
+          "7",
+          "LAS ESCOBAS",
+          "1",
+          "15",
+          "11",
+          "4",
+          "1",
+          "LAS NORIAS (SAN JOSÉ DE BUENAVISTA)",
+          "3",
+          "60",
+          "28",
+          "32",
+          "5",
+          "LAVADEROS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LOS ÉBANOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LOS VERGELES",
+          "2",
+          "40",
+          "16",
+          "24",
+          "3",
+          "MIGUEL HIDALGO UNO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "7",
+          "NUEVO TLAXCALA XICOTÉNCATL",
+          "2",
+          "12",
+          "10",
+          "2",
+          "1",
+          "PALO SOLO",
+          "4",
+          "106",
+          "54",
+          "52",
+          "10",
+          "PALOS BLANCOS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "PASO HONDO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "PUERTO RICO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2",
+          "PUNTA DE ALAMBRE (PUENTE DE ALAMBRE)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6",
+          "PUNTA DE PIEDRA",
+          "2",
+          "80",
+          "35",
+          "45",
+          "4",
+          "SAN FERNANDO",
+          "44",
+          "7,415",
+          "3,701",
+          "3,714",
+          "439",
+          "SAN FRANCISCO",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2",
+          "SAN GERMÁN",
+          "3",
+          "242",
+          "115",
+          "127",
+          "17",
+          "SAN GERMÁN (EL DURAZNO)",
+          "1",
+          "92",
+          "48",
+          "44",
+          "8",
+          "SAN GILBERTO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "SAN LORENZO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "4",
+          "SANTA RITA (ESCUADRÓN 201)",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "SANTA TERESA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "VEINTE DE NOVIEMBRE",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "TOTAL",
+          "152",
+          "12,249",
+          "6,089",
+          "6,160",
+          "801",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN FERNANDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁGUILA AZTECA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "4"
+        ],
+        [
+          "ALFREDO V. BONFIL (LUIS ECHEVERRÍA)",
+          "3",
+          "180",
+          "89",
+          "91",
+          "11"
+        ],
+        [
+          "AMPLIACIÓN LOS VERGELES",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "13",
+          "20",
+          "3"
+        ],
+        [
+          "CARBONERAS (LA CARBONERA)",
+          "6",
+          "642",
+          "329",
+          "313",
+          "38"
+        ],
+        [
+          "CARVAJAL",
+          "3",
+          "227",
+          "103",
+          "124",
+          "13"
+        ],
+        [
+          "DIVISIÓN DEL NORTE (LAGUNA SECA)",
+          "2",
+          "98",
+          "52",
+          "46",
+          "6"
+        ],
+        [
+          "EL BARRANCÓN DEL TÍO BLAS (EL BARRANCÓN)",
+          "3",
+          "167",
+          "84",
+          "83",
+          "8"
+        ],
+        [
+          "EL CORTINEÑO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (AMPLIACIÓN SAN GERMÁN)",
+          "3",
+          "123",
+          "47",
+          "76",
+          "9"
+        ],
+        [
+          "GENERAL FRANCISCO GONZÁLEZ VILLARREAL (SAN JUAN)",
+          "5",
+          "451",
+          "223",
+          "228",
+          "40"
+        ],
+        [
+          "GENERAL FRANCISCO J. MÚJICA (LA POZA)",
+          "3",
+          "108",
+          "52",
+          "56",
+          "8"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA",
+          "5",
+          "967",
+          "505",
+          "462",
+          "79"
+        ],
+        [
+          "GUADALUPE VICTORIA (EL NORTEÑO)",
+          "3",
+          "149",
+          "71",
+          "78",
+          "11"
+        ],
+        [
+          "GUADALUPE VICTORIA (LAS ADJUNTAS)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "JUAN ANTONIO",
+          "2",
+          "19",
+          "13",
+          "6",
+          "2"
+        ],
+        [
+          "LA CARRETA DOS",
+          "4",
+          "153",
+          "82",
+          "71",
+          "11"
+        ],
+        [
+          "LA CARRETA UNO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4"
+        ],
+        [
+          "LA FLORIDA (LA FLORIDA DEL SUR)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LA LIBERTAD DE SAN FERNANDO [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "117",
+          "50",
+          "67",
+          "8"
+        ],
+        [
+          "LA LOMITA [NUEVO CENTRO DE POBLACIÓN AGRÍCOLA]",
+          "2",
+          "127",
+          "56",
+          "71",
+          "7"
+        ],
+        [
+          "LA MEDIA LUNA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LAGUNA DE SAN JUAN",
+          "3",
+          "89",
+          "50",
+          "39",
+          "7"
+        ],
+        [
+          "LAS ESCOBAS",
+          "1",
+          "15",
+          "11",
+          "4",
+          "1"
+        ],
+        [
+          "LAS NORIAS (SAN JOSÉ DE BUENAVISTA)",
+          "3",
+          "60",
+          "28",
+          "32",
+          "5"
+        ],
+        [
+          "LAVADEROS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LOS ÉBANOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS VERGELES",
+          "2",
+          "40",
+          "16",
+          "24",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO UNO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "7"
+        ],
+        [
+          "NUEVO TLAXCALA XICOTÉNCATL",
+          "2",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "PALO SOLO",
+          "4",
+          "106",
+          "54",
+          "52",
+          "10"
+        ],
+        [
+          "PALOS BLANCOS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "PASO HONDO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "PUERTO RICO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "PUNTA DE ALAMBRE (PUENTE DE ALAMBRE)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6"
+        ],
+        [
+          "PUNTA DE PIEDRA",
+          "2",
+          "80",
+          "35",
+          "45",
+          "4"
+        ],
+        [
+          "SAN FERNANDO",
+          "44",
+          "7,415",
+          "3,701",
+          "3,714",
+          "439"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GERMÁN",
+          "3",
+          "242",
+          "115",
+          "127",
+          "17"
+        ],
+        [
+          "SAN GERMÁN (EL DURAZNO)",
+          "1",
+          "92",
+          "48",
+          "44",
+          "8"
+        ],
+        [
+          "SAN GILBERTO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "SANTA RITA (ESCUADRÓN 201)",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA TERESA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "152",
+          "12,249",
+          "6,089",
+          "6,160",
+          "801"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: SAN FERNANDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁGUILA AZTECA",
+          "2",
+          "51",
+          "28",
+          "23",
+          "4"
+        ],
+        [
+          "ALFREDO V. BONFIL (LUIS ECHEVERRÍA)",
+          "3",
+          "180",
+          "89",
+          "91",
+          "11"
+        ],
+        [
+          "AMPLIACIÓN LOS VERGELES",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "13",
+          "20",
+          "3"
+        ],
+        [
+          "CARBONERAS (LA CARBONERA)",
+          "6",
+          "642",
+          "329",
+          "313",
+          "38"
+        ],
+        [
+          "CARVAJAL",
+          "3",
+          "227",
+          "103",
+          "124",
+          "13"
+        ],
+        [
+          "DIVISIÓN DEL NORTE (LAGUNA SECA)",
+          "2",
+          "98",
+          "52",
+          "46",
+          "6"
+        ],
+        [
+          "EL BARRANCÓN DEL TÍO BLAS (EL BARRANCÓN)",
+          "3",
+          "167",
+          "84",
+          "83",
+          "8"
+        ],
+        [
+          "EL CORTINEÑO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (AMPLIACIÓN SAN GERMÁN)",
+          "3",
+          "123",
+          "47",
+          "76",
+          "9"
+        ],
+        [
+          "GENERAL FRANCISCO GONZÁLEZ VILLARREAL (SAN JUAN)",
+          "5",
+          "451",
+          "223",
+          "228",
+          "40"
+        ],
+        [
+          "GENERAL FRANCISCO J. MÚJICA (LA POZA)",
+          "3",
+          "108",
+          "52",
+          "56",
+          "8"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA",
+          "5",
+          "967",
+          "505",
+          "462",
+          "79"
+        ],
+        [
+          "GUADALUPE VICTORIA (EL NORTEÑO)",
+          "3",
+          "149",
+          "71",
+          "78",
+          "11"
+        ],
+        [
+          "GUADALUPE VICTORIA (LAS ADJUNTAS)",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "JUAN ANTONIO",
+          "2",
+          "19",
+          "13",
+          "6",
+          "2"
+        ],
+        [
+          "LA CARRETA DOS",
+          "4",
+          "153",
+          "82",
+          "71",
+          "11"
+        ],
+        [
+          "LA CARRETA UNO",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4"
+        ],
+        [
+          "LA FLORIDA (LA FLORIDA DEL SUR)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LA LIBERTAD DE SAN FERNANDO [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "117",
+          "50",
+          "67",
+          "8"
+        ],
+        [
+          "LA LOMITA [NUEVO CENTRO DE POBLACIÓN AGRÍCOLA]",
+          "2",
+          "127",
+          "56",
+          "71",
+          "7"
+        ],
+        [
+          "LA MEDIA LUNA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LAGUNA DE SAN JUAN",
+          "3",
+          "89",
+          "50",
+          "39",
+          "7"
+        ],
+        [
+          "LAS ESCOBAS",
+          "1",
+          "15",
+          "11",
+          "4",
+          "1"
+        ],
+        [
+          "LAS NORIAS (SAN JOSÉ DE BUENAVISTA)",
+          "3",
+          "60",
+          "28",
+          "32",
+          "5"
+        ],
+        [
+          "LAVADEROS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LOS ÉBANOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LOS VERGELES",
+          "2",
+          "40",
+          "16",
+          "24",
+          "3"
+        ],
+        [
+          "MIGUEL HIDALGO UNO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "7"
+        ],
+        [
+          "NUEVO TLAXCALA XICOTÉNCATL",
+          "2",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "PALO SOLO",
+          "4",
+          "106",
+          "54",
+          "52",
+          "10"
+        ],
+        [
+          "PALOS BLANCOS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "PASO HONDO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "PUERTO RICO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "PUNTA DE ALAMBRE (PUENTE DE ALAMBRE)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6"
+        ],
+        [
+          "PUNTA DE PIEDRA",
+          "2",
+          "80",
+          "35",
+          "45",
+          "4"
+        ],
+        [
+          "SAN FERNANDO",
+          "44",
+          "7,415",
+          "3,701",
+          "3,714",
+          "439"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GERMÁN",
+          "3",
+          "242",
+          "115",
+          "127",
+          "17"
+        ],
+        [
+          "SAN GERMÁN (EL DURAZNO)",
+          "1",
+          "92",
+          "48",
+          "44",
+          "8"
+        ],
+        [
+          "SAN GILBERTO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "4"
+        ],
+        [
+          "SANTA RITA (ESCUADRÓN 201)",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA TERESA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "152",
+          "12,249",
+          "6,089",
+          "6,160",
+          "801"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:53.013Z"
+}

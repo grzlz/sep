@@ -1,0 +1,934 @@
+{
+  "municipality": "CATORCE",
+  "municipalityCode": "006",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CATORCE\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALAMITOS DE LOS DÍAZ\n\t\t3\n\t\t48\n\t\t22\n\t\t26\n\t\t4\n\t\n\t\n\t\tCASTAÑÓN\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tCHARCO LARGO\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL HUIZACHAL\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL JORDÁN\n\t\t2\n\t\t44\n\t\t21\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL MASTRANTO\n\t\t3\n\t\t112\n\t\t55\n\t\t57\n\t\t6\n\t\n\t\n\t\tEL POTRERO\n\t\t4\n\t\t112\n\t\t58\n\t\t54\n\t\t9\n\t\n\t\n\t\tEL REFUGIO (LA LUZ)\n\t\t2\n\t\t41\n\t\t18\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL SALTO\n\t\t3\n\t\t79\n\t\t38\n\t\t41\n\t\t5\n\t\n\t\n\t\tEL TECOLOTE\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tESTACIÓN CATORCE\n\t\t4\n\t\t538\n\t\t262\n\t\t276\n\t\t27\n\t\n\t\n\t\tESTACIÓN WADLEY\n\t\t3\n\t\t115\n\t\t68\n\t\t47\n\t\t6\n\t\n\t\n\t\tGUADALUPE DEL CARNICERO (LA MAROMA)\n\t\t3\n\t\t73\n\t\t33\n\t\t40\n\t\t6\n\t\n\t\n\t\tJESÚS DE CORONADOS\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA ALBERCA\n\t\t3\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA CAÑADA\n\t\t2\n\t\t9\n\t\t2\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA CARDONCITA\n\t\t3\n\t\t103\n\t\t56\n\t\t47\n\t\t6\n\t\n\t\n\t\tLA LAGUNITA (MAGUEY MOCHO)\n\t\t3\n\t\t24\n\t\t14\n\t\t10\n\t\t4\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS MARGARITAS\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS CATORCE\n\t\t3\n\t\t50\n\t\t25\n\t\t25\n\t\t3\n\t\n\t\n\t\tPOBLAZÓN\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tPOTRERILLOS\n\t\t3\n\t\t50\n\t\t27\n\t\t23\n\t\t4\n\t\n\t\n\t\tRANCHITO DE CORONADOS\n\t\t3\n\t\t43\n\t\t21\n\t\t22\n\t\t4\n\t\n\t\n\t\tREAL DE CATORCE\n\t\t5\n\t\t449\n\t\t241\n\t\t208\n\t\t28\n\t\n\t\n\t\tREAL DE MAROMA\n\t\t4\n\t\t52\n\t\t21\n\t\t31\n\t\t6\n\t\n\t\n\t\tSAN ANTONIO DE CORONADOS\n\t\t3\n\t\t75\n\t\t38\n\t\t37\n\t\t4\n\t\n\t\n\t\tSAN CRISTÓBAL\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE CORONADOS\n\t\t3\n\t\t55\n\t\t19\n\t\t36\n\t\t3\n\t\n\t\n\t\tSAN JUAN DE MATANZAS\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tSANTA CRUZ DE CARRETAS\n\t\t2\n\t\t32\n\t\t12\n\t\t20\n\t\t2\n\t\n\t\n\t\tSANTA CRUZ DEL MOGOTE\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t4\n\t\n\t\n\t\tSANTA MARÍA DEL REFUGIO\n\t\t4\n\t\t120\n\t\t62\n\t\t58\n\t\t10\n\t\n\t\n\t\tTAHONAS DEL JORDÁN\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tTAHONITAS DEL SALTO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tTANQUE DE ARENAS\n\t\t3\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tTANQUE DE DOLORES\n\t\t3\n\t\t63\n\t\t31\n\t\t32\n\t\t4\n\t\n\t\n\t\tVIGAS DE CORONADOS\n\t\t2\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t99\n\t\t2,516\n\t\t1,254\n\t\t1,262\n\t\t177\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CATORCE",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALAMITOS DE LOS DÍAZ",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4",
+          "CASTAÑÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "CHARCO LARGO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "EL HUIZACHAL",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL JORDÁN",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3",
+          "EL MASTRANTO",
+          "3",
+          "112",
+          "55",
+          "57",
+          "6",
+          "EL POTRERO",
+          "4",
+          "112",
+          "58",
+          "54",
+          "9",
+          "EL REFUGIO (LA LUZ)",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3",
+          "EL SALTO",
+          "3",
+          "79",
+          "38",
+          "41",
+          "5",
+          "EL TECOLOTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "ESTACIÓN CATORCE",
+          "4",
+          "538",
+          "262",
+          "276",
+          "27",
+          "ESTACIÓN WADLEY",
+          "3",
+          "115",
+          "68",
+          "47",
+          "6",
+          "GUADALUPE DEL CARNICERO (LA MAROMA)",
+          "3",
+          "73",
+          "33",
+          "40",
+          "6",
+          "JESÚS DE CORONADOS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "LA ALBERCA",
+          "3",
+          "23",
+          "11",
+          "12",
+          "2",
+          "LA CAÑADA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2",
+          "LA CARDONCITA",
+          "3",
+          "103",
+          "56",
+          "47",
+          "6",
+          "LA LAGUNITA (MAGUEY MOCHO)",
+          "3",
+          "24",
+          "14",
+          "10",
+          "4",
+          "LAS ADJUNTAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LAS MARGARITAS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "1",
+          "LOS CATORCE",
+          "3",
+          "50",
+          "25",
+          "25",
+          "3",
+          "POBLAZÓN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "POTRERILLOS",
+          "3",
+          "50",
+          "27",
+          "23",
+          "4",
+          "RANCHITO DE CORONADOS",
+          "3",
+          "43",
+          "21",
+          "22",
+          "4",
+          "REAL DE CATORCE",
+          "5",
+          "449",
+          "241",
+          "208",
+          "28",
+          "REAL DE MAROMA",
+          "4",
+          "52",
+          "21",
+          "31",
+          "6",
+          "SAN ANTONIO DE CORONADOS",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4",
+          "SAN CRISTÓBAL",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "SAN JOSÉ DE CORONADOS",
+          "3",
+          "55",
+          "19",
+          "36",
+          "3",
+          "SAN JUAN DE MATANZAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "SANTA CRUZ DE CARRETAS",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2",
+          "SANTA CRUZ DEL MOGOTE",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4",
+          "SANTA MARÍA DEL REFUGIO",
+          "4",
+          "120",
+          "62",
+          "58",
+          "10",
+          "TAHONAS DEL JORDÁN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "TAHONITAS DEL SALTO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "TANQUE DE ARENAS",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2",
+          "TANQUE DE DOLORES",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4",
+          "VIGAS DE CORONADOS",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1",
+          "TOTAL",
+          "99",
+          "2,516",
+          "1,254",
+          "1,262",
+          "177",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CATORCE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMITOS DE LOS DÍAZ",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4"
+        ],
+        [
+          "CASTAÑÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CHARCO LARGO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL HUIZACHAL",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL JORDÁN",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "EL MASTRANTO",
+          "3",
+          "112",
+          "55",
+          "57",
+          "6"
+        ],
+        [
+          "EL POTRERO",
+          "4",
+          "112",
+          "58",
+          "54",
+          "9"
+        ],
+        [
+          "EL REFUGIO (LA LUZ)",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "79",
+          "38",
+          "41",
+          "5"
+        ],
+        [
+          "EL TECOLOTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "ESTACIÓN CATORCE",
+          "4",
+          "538",
+          "262",
+          "276",
+          "27"
+        ],
+        [
+          "ESTACIÓN WADLEY",
+          "3",
+          "115",
+          "68",
+          "47",
+          "6"
+        ],
+        [
+          "GUADALUPE DEL CARNICERO (LA MAROMA)",
+          "3",
+          "73",
+          "33",
+          "40",
+          "6"
+        ],
+        [
+          "JESÚS DE CORONADOS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LA ALBERCA",
+          "3",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "LA CARDONCITA",
+          "3",
+          "103",
+          "56",
+          "47",
+          "6"
+        ],
+        [
+          "LA LAGUNITA (MAGUEY MOCHO)",
+          "3",
+          "24",
+          "14",
+          "10",
+          "4"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MARGARITAS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "LOS CATORCE",
+          "3",
+          "50",
+          "25",
+          "25",
+          "3"
+        ],
+        [
+          "POBLAZÓN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "3",
+          "50",
+          "27",
+          "23",
+          "4"
+        ],
+        [
+          "RANCHITO DE CORONADOS",
+          "3",
+          "43",
+          "21",
+          "22",
+          "4"
+        ],
+        [
+          "REAL DE CATORCE",
+          "5",
+          "449",
+          "241",
+          "208",
+          "28"
+        ],
+        [
+          "REAL DE MAROMA",
+          "4",
+          "52",
+          "21",
+          "31",
+          "6"
+        ],
+        [
+          "SAN ANTONIO DE CORONADOS",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CORONADOS",
+          "3",
+          "55",
+          "19",
+          "36",
+          "3"
+        ],
+        [
+          "SAN JUAN DE MATANZAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA CRUZ DE CARRETAS",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2"
+        ],
+        [
+          "SANTA CRUZ DEL MOGOTE",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "SANTA MARÍA DEL REFUGIO",
+          "4",
+          "120",
+          "62",
+          "58",
+          "10"
+        ],
+        [
+          "TAHONAS DEL JORDÁN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "TAHONITAS DEL SALTO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TANQUE DE ARENAS",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "TANQUE DE DOLORES",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "VIGAS DE CORONADOS",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "2,516",
+          "1,254",
+          "1,262",
+          "177"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CATORCE"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMITOS DE LOS DÍAZ",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4"
+        ],
+        [
+          "CASTAÑÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CHARCO LARGO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "EL HUIZACHAL",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL JORDÁN",
+          "2",
+          "44",
+          "21",
+          "23",
+          "3"
+        ],
+        [
+          "EL MASTRANTO",
+          "3",
+          "112",
+          "55",
+          "57",
+          "6"
+        ],
+        [
+          "EL POTRERO",
+          "4",
+          "112",
+          "58",
+          "54",
+          "9"
+        ],
+        [
+          "EL REFUGIO (LA LUZ)",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "79",
+          "38",
+          "41",
+          "5"
+        ],
+        [
+          "EL TECOLOTE",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "ESTACIÓN CATORCE",
+          "4",
+          "538",
+          "262",
+          "276",
+          "27"
+        ],
+        [
+          "ESTACIÓN WADLEY",
+          "3",
+          "115",
+          "68",
+          "47",
+          "6"
+        ],
+        [
+          "GUADALUPE DEL CARNICERO (LA MAROMA)",
+          "3",
+          "73",
+          "33",
+          "40",
+          "6"
+        ],
+        [
+          "JESÚS DE CORONADOS",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "LA ALBERCA",
+          "3",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "LA CARDONCITA",
+          "3",
+          "103",
+          "56",
+          "47",
+          "6"
+        ],
+        [
+          "LA LAGUNITA (MAGUEY MOCHO)",
+          "3",
+          "24",
+          "14",
+          "10",
+          "4"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MARGARITAS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "LOS CATORCE",
+          "3",
+          "50",
+          "25",
+          "25",
+          "3"
+        ],
+        [
+          "POBLAZÓN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "3",
+          "50",
+          "27",
+          "23",
+          "4"
+        ],
+        [
+          "RANCHITO DE CORONADOS",
+          "3",
+          "43",
+          "21",
+          "22",
+          "4"
+        ],
+        [
+          "REAL DE CATORCE",
+          "5",
+          "449",
+          "241",
+          "208",
+          "28"
+        ],
+        [
+          "REAL DE MAROMA",
+          "4",
+          "52",
+          "21",
+          "31",
+          "6"
+        ],
+        [
+          "SAN ANTONIO DE CORONADOS",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CORONADOS",
+          "3",
+          "55",
+          "19",
+          "36",
+          "3"
+        ],
+        [
+          "SAN JUAN DE MATANZAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA CRUZ DE CARRETAS",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2"
+        ],
+        [
+          "SANTA CRUZ DEL MOGOTE",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "SANTA MARÍA DEL REFUGIO",
+          "4",
+          "120",
+          "62",
+          "58",
+          "10"
+        ],
+        [
+          "TAHONAS DEL JORDÁN",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "TAHONITAS DEL SALTO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TANQUE DE ARENAS",
+          "3",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "TANQUE DE DOLORES",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "VIGAS DE CORONADOS",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "2,516",
+          "1,254",
+          "1,262",
+          "177"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:28:40.669Z"
+}

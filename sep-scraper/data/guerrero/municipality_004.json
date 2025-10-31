@@ -1,0 +1,758 @@
+{
+  "municipality": "ALCOZAUCA DE GUERRERO",
+  "municipalityCode": "004",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ALCOZAUCA DE GUERRERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACAMETLA DE BRAVO\n\t\t2\n\t\t114\n\t\t64\n\t\t50\n\t\t6\n\t\n\t\n\t\tAHUEJUTLA\n\t\t2\n\t\t133\n\t\t63\n\t\t70\n\t\t5\n\t\n\t\n\t\tALCOZAUCA DE GUERRERO\n\t\t9\n\t\t1,352\n\t\t687\n\t\t665\n\t\t54\n\t\n\t\n\t\tALMOLONGA DE OCAMPO (ALMOLONGA)\n\t\t8\n\t\t376\n\t\t204\n\t\t172\n\t\t16\n\t\n\t\n\t\tALTAMIRA\n\t\t1\n\t\t12\n\t\t2\n\t\t10\n\t\t1\n\t\n\t\n\t\tAMAPILCA\n\t\t2\n\t\t62\n\t\t33\n\t\t29\n\t\t5\n\t\n\t\n\t\tBUENA VISTA\n\t\t2\n\t\t123\n\t\t67\n\t\t56\n\t\t6\n\t\n\t\n\t\tCERRO AZUL\n\t\t2\n\t\t73\n\t\t39\n\t\t34\n\t\t5\n\t\n\t\n\t\tCHIMALTEPEC\n\t\t2\n\t\t132\n\t\t65\n\t\t67\n\t\t7\n\t\n\t\n\t\tCOLONIA EL ARENAL\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tCOLONIA LOMA BONITA SAN MIGUEL EL GRANDE\n\t\t2\n\t\t47\n\t\t27\n\t\t20\n\t\t4\n\t\n\t\n\t\tCOLONIA SAN ANTONIO\n\t\t2\n\t\t164\n\t\t84\n\t\t80\n\t\t7\n\t\n\t\n\t\tCRUZ VERDE\n\t\t2\n\t\t40\n\t\t25\n\t\t15\n\t\t2\n\t\n\t\n\t\tCUYUXTLAHUAC\n\t\t4\n\t\t474\n\t\t233\n\t\t241\n\t\t23\n\t\n\t\n\t\tEL GITANO\n\t\t2\n\t\t19\n\t\t11\n\t\t8\n\t\t2\n\t\n\t\n\t\tIXCUINATOYAC\n\t\t2\n\t\t262\n\t\t122\n\t\t140\n\t\t13\n\t\n\t\n\t\tLOMAZÓYATL (LOMAZOYA)\n\t\t3\n\t\t332\n\t\t160\n\t\t172\n\t\t12\n\t\n\t\n\t\tMELCHOR OCAMPO\n\t\t3\n\t\t328\n\t\t175\n\t\t153\n\t\t14\n\t\n\t\n\t\tNUEVO ZARAGOZA\n\t\t1\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tPETLACALANCINGO\n\t\t2\n\t\t85\n\t\t39\n\t\t46\n\t\t5\n\t\n\t\n\t\tPUEBLO DE DIOS\n\t\t2\n\t\t81\n\t\t46\n\t\t35\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ LAGUNAS (CAPULÍN)\n\t\t3\n\t\t125\n\t\t62\n\t\t63\n\t\t8\n\t\n\t\n\t\tSAN MARTÍN\n\t\t2\n\t\t98\n\t\t46\n\t\t52\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL EL GRANDE\n\t\t3\n\t\t206\n\t\t119\n\t\t87\n\t\t9\n\t\n\t\n\t\tSAN MIGUELITO\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t3\n\t\n\t\n\t\tSAN VICENTE ZOYATLÁN\n\t\t6\n\t\t653\n\t\t327\n\t\t326\n\t\t29\n\t\n\t\n\t\tTLAHUAPA\n\t\t4\n\t\t597\n\t\t297\n\t\t300\n\t\t25\n\t\n\t\n\t\tXOCHAPA\n\t\t8\n\t\t371\n\t\t195\n\t\t176\n\t\t26\n\t\n\t\n\t\tXONACATLÁN\n\t\t3\n\t\t176\n\t\t91\n\t\t85\n\t\t10\n\t\n\t\n\t\tZARAGOZA\n\t\t1\n\t\t63\n\t\t30\n\t\t33\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t89\n\t\t6,564\n\t\t3,346\n\t\t3,218\n\t\t312\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ALCOZAUCA DE GUERRERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACAMETLA DE BRAVO",
+          "2",
+          "114",
+          "64",
+          "50",
+          "6",
+          "AHUEJUTLA",
+          "2",
+          "133",
+          "63",
+          "70",
+          "5",
+          "ALCOZAUCA DE GUERRERO",
+          "9",
+          "1,352",
+          "687",
+          "665",
+          "54",
+          "ALMOLONGA DE OCAMPO (ALMOLONGA)",
+          "8",
+          "376",
+          "204",
+          "172",
+          "16",
+          "ALTAMIRA",
+          "1",
+          "12",
+          "2",
+          "10",
+          "1",
+          "AMAPILCA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "5",
+          "BUENA VISTA",
+          "2",
+          "123",
+          "67",
+          "56",
+          "6",
+          "CERRO AZUL",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5",
+          "CHIMALTEPEC",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7",
+          "COLONIA EL ARENAL",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "COLONIA LOMA BONITA SAN MIGUEL EL GRANDE",
+          "2",
+          "47",
+          "27",
+          "20",
+          "4",
+          "COLONIA SAN ANTONIO",
+          "2",
+          "164",
+          "84",
+          "80",
+          "7",
+          "CRUZ VERDE",
+          "2",
+          "40",
+          "25",
+          "15",
+          "2",
+          "CUYUXTLAHUAC",
+          "4",
+          "474",
+          "233",
+          "241",
+          "23",
+          "EL GITANO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2",
+          "IXCUINATOYAC",
+          "2",
+          "262",
+          "122",
+          "140",
+          "13",
+          "LOMAZÓYATL (LOMAZOYA)",
+          "3",
+          "332",
+          "160",
+          "172",
+          "12",
+          "MELCHOR OCAMPO",
+          "3",
+          "328",
+          "175",
+          "153",
+          "14",
+          "NUEVO ZARAGOZA",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2",
+          "PETLACALANCINGO",
+          "2",
+          "85",
+          "39",
+          "46",
+          "5",
+          "PUEBLO DE DIOS",
+          "2",
+          "81",
+          "46",
+          "35",
+          "4",
+          "SAN JOSÉ LAGUNAS (CAPULÍN)",
+          "3",
+          "125",
+          "62",
+          "63",
+          "8",
+          "SAN MARTÍN",
+          "2",
+          "98",
+          "46",
+          "52",
+          "4",
+          "SAN MIGUEL EL GRANDE",
+          "3",
+          "206",
+          "119",
+          "87",
+          "9",
+          "SAN MIGUELITO",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3",
+          "SAN VICENTE ZOYATLÁN",
+          "6",
+          "653",
+          "327",
+          "326",
+          "29",
+          "TLAHUAPA",
+          "4",
+          "597",
+          "297",
+          "300",
+          "25",
+          "XOCHAPA",
+          "8",
+          "371",
+          "195",
+          "176",
+          "26",
+          "XONACATLÁN",
+          "3",
+          "176",
+          "91",
+          "85",
+          "10",
+          "ZARAGOZA",
+          "1",
+          "63",
+          "30",
+          "33",
+          "3",
+          "TOTAL",
+          "89",
+          "6,564",
+          "3,346",
+          "3,218",
+          "312",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ALCOZAUCA DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAMETLA DE BRAVO",
+          "2",
+          "114",
+          "64",
+          "50",
+          "6"
+        ],
+        [
+          "AHUEJUTLA",
+          "2",
+          "133",
+          "63",
+          "70",
+          "5"
+        ],
+        [
+          "ALCOZAUCA DE GUERRERO",
+          "9",
+          "1,352",
+          "687",
+          "665",
+          "54"
+        ],
+        [
+          "ALMOLONGA DE OCAMPO (ALMOLONGA)",
+          "8",
+          "376",
+          "204",
+          "172",
+          "16"
+        ],
+        [
+          "ALTAMIRA",
+          "1",
+          "12",
+          "2",
+          "10",
+          "1"
+        ],
+        [
+          "AMAPILCA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "5"
+        ],
+        [
+          "BUENA VISTA",
+          "2",
+          "123",
+          "67",
+          "56",
+          "6"
+        ],
+        [
+          "CERRO AZUL",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5"
+        ],
+        [
+          "CHIMALTEPEC",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "COLONIA EL ARENAL",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "COLONIA LOMA BONITA SAN MIGUEL EL GRANDE",
+          "2",
+          "47",
+          "27",
+          "20",
+          "4"
+        ],
+        [
+          "COLONIA SAN ANTONIO",
+          "2",
+          "164",
+          "84",
+          "80",
+          "7"
+        ],
+        [
+          "CRUZ VERDE",
+          "2",
+          "40",
+          "25",
+          "15",
+          "2"
+        ],
+        [
+          "CUYUXTLAHUAC",
+          "4",
+          "474",
+          "233",
+          "241",
+          "23"
+        ],
+        [
+          "EL GITANO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "IXCUINATOYAC",
+          "2",
+          "262",
+          "122",
+          "140",
+          "13"
+        ],
+        [
+          "LOMAZÓYATL (LOMAZOYA)",
+          "3",
+          "332",
+          "160",
+          "172",
+          "12"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "3",
+          "328",
+          "175",
+          "153",
+          "14"
+        ],
+        [
+          "NUEVO ZARAGOZA",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "PETLACALANCINGO",
+          "2",
+          "85",
+          "39",
+          "46",
+          "5"
+        ],
+        [
+          "PUEBLO DE DIOS",
+          "2",
+          "81",
+          "46",
+          "35",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LAGUNAS (CAPULÍN)",
+          "3",
+          "125",
+          "62",
+          "63",
+          "8"
+        ],
+        [
+          "SAN MARTÍN",
+          "2",
+          "98",
+          "46",
+          "52",
+          "4"
+        ],
+        [
+          "SAN MIGUEL EL GRANDE",
+          "3",
+          "206",
+          "119",
+          "87",
+          "9"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "SAN VICENTE ZOYATLÁN",
+          "6",
+          "653",
+          "327",
+          "326",
+          "29"
+        ],
+        [
+          "TLAHUAPA",
+          "4",
+          "597",
+          "297",
+          "300",
+          "25"
+        ],
+        [
+          "XOCHAPA",
+          "8",
+          "371",
+          "195",
+          "176",
+          "26"
+        ],
+        [
+          "XONACATLÁN",
+          "3",
+          "176",
+          "91",
+          "85",
+          "10"
+        ],
+        [
+          "ZARAGOZA",
+          "1",
+          "63",
+          "30",
+          "33",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "89",
+          "6,564",
+          "3,346",
+          "3,218",
+          "312"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: ALCOZAUCA DE GUERRERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACAMETLA DE BRAVO",
+          "2",
+          "114",
+          "64",
+          "50",
+          "6"
+        ],
+        [
+          "AHUEJUTLA",
+          "2",
+          "133",
+          "63",
+          "70",
+          "5"
+        ],
+        [
+          "ALCOZAUCA DE GUERRERO",
+          "9",
+          "1,352",
+          "687",
+          "665",
+          "54"
+        ],
+        [
+          "ALMOLONGA DE OCAMPO (ALMOLONGA)",
+          "8",
+          "376",
+          "204",
+          "172",
+          "16"
+        ],
+        [
+          "ALTAMIRA",
+          "1",
+          "12",
+          "2",
+          "10",
+          "1"
+        ],
+        [
+          "AMAPILCA",
+          "2",
+          "62",
+          "33",
+          "29",
+          "5"
+        ],
+        [
+          "BUENA VISTA",
+          "2",
+          "123",
+          "67",
+          "56",
+          "6"
+        ],
+        [
+          "CERRO AZUL",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5"
+        ],
+        [
+          "CHIMALTEPEC",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "COLONIA EL ARENAL",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "COLONIA LOMA BONITA SAN MIGUEL EL GRANDE",
+          "2",
+          "47",
+          "27",
+          "20",
+          "4"
+        ],
+        [
+          "COLONIA SAN ANTONIO",
+          "2",
+          "164",
+          "84",
+          "80",
+          "7"
+        ],
+        [
+          "CRUZ VERDE",
+          "2",
+          "40",
+          "25",
+          "15",
+          "2"
+        ],
+        [
+          "CUYUXTLAHUAC",
+          "4",
+          "474",
+          "233",
+          "241",
+          "23"
+        ],
+        [
+          "EL GITANO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "IXCUINATOYAC",
+          "2",
+          "262",
+          "122",
+          "140",
+          "13"
+        ],
+        [
+          "LOMAZÓYATL (LOMAZOYA)",
+          "3",
+          "332",
+          "160",
+          "172",
+          "12"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "3",
+          "328",
+          "175",
+          "153",
+          "14"
+        ],
+        [
+          "NUEVO ZARAGOZA",
+          "1",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "PETLACALANCINGO",
+          "2",
+          "85",
+          "39",
+          "46",
+          "5"
+        ],
+        [
+          "PUEBLO DE DIOS",
+          "2",
+          "81",
+          "46",
+          "35",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LAGUNAS (CAPULÍN)",
+          "3",
+          "125",
+          "62",
+          "63",
+          "8"
+        ],
+        [
+          "SAN MARTÍN",
+          "2",
+          "98",
+          "46",
+          "52",
+          "4"
+        ],
+        [
+          "SAN MIGUEL EL GRANDE",
+          "3",
+          "206",
+          "119",
+          "87",
+          "9"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "SAN VICENTE ZOYATLÁN",
+          "6",
+          "653",
+          "327",
+          "326",
+          "29"
+        ],
+        [
+          "TLAHUAPA",
+          "4",
+          "597",
+          "297",
+          "300",
+          "25"
+        ],
+        [
+          "XOCHAPA",
+          "8",
+          "371",
+          "195",
+          "176",
+          "26"
+        ],
+        [
+          "XONACATLÁN",
+          "3",
+          "176",
+          "91",
+          "85",
+          "10"
+        ],
+        [
+          "ZARAGOZA",
+          "1",
+          "63",
+          "30",
+          "33",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "89",
+          "6,564",
+          "3,346",
+          "3,218",
+          "312"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:36.887Z"
+}

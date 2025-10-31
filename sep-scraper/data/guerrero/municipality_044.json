@@ -1,0 +1,538 @@
+{
+  "municipality": "MOCHITLÁN",
+  "municipalityCode": "044",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MOCHITLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHACOTLA\n\t\t3\n\t\t48\n\t\t22\n\t\t26\n\t\t4\n\t\n\t\n\t\tCOATOMATITLÁN\n\t\t3\n\t\t95\n\t\t42\n\t\t53\n\t\t12\n\t\n\t\n\t\tCOAXTLAHUACÁN\n\t\t4\n\t\t147\n\t\t77\n\t\t70\n\t\t12\n\t\n\t\n\t\tEL NARANJO\n\t\t2\n\t\t25\n\t\t10\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL RINCÓN DE TLAPACHOLAPA (EL RINCÓN)\n\t\t2\n\t\t30\n\t\t17\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL SALADO\n\t\t3\n\t\t111\n\t\t47\n\t\t64\n\t\t7\n\t\n\t\n\t\tLAGUNA DE SAN ISIDRO\n\t\t3\n\t\t27\n\t\t15\n\t\t12\n\t\t3\n\t\n\t\n\t\tLAGUNILLA\n\t\t2\n\t\t52\n\t\t25\n\t\t27\n\t\t4\n\t\n\t\n\t\tLAS PAROTAS\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOS DIRCIOS\n\t\t3\n\t\t22\n\t\t9\n\t\t13\n\t\t3\n\t\n\t\n\t\tMOCHITLÁN\n\t\t10\n\t\t1,744\n\t\t927\n\t\t817\n\t\t83\n\t\n\t\n\t\tMONTE ALEGRE\n\t\t4\n\t\t143\n\t\t69\n\t\t74\n\t\t14\n\t\n\t\n\t\tOJO DE AGUA DE SAN FRANCISCO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tRANCHO VIEJO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t191\n\t\t92\n\t\t99\n\t\t12\n\t\n\t\n\t\tSAN ROQUE\n\t\t3\n\t\t79\n\t\t41\n\t\t38\n\t\t7\n\t\n\t\n\t\tTLACOTEPEC\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t3\n\t\n\t\n\t\tTLACOTITLANAPA\n\t\t4\n\t\t90\n\t\t51\n\t\t39\n\t\t10\n\t\n\t\n\t\tTLAPACHOLAPA\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tZINTLANAPA\n\t\t3\n\t\t25\n\t\t12\n\t\t13\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t60\n\t\t2,885\n\t\t1,480\n\t\t1,405\n\t\t186\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MOCHITLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHACOTLA",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4",
+          "COATOMATITLÁN",
+          "3",
+          "95",
+          "42",
+          "53",
+          "12",
+          "COAXTLAHUACÁN",
+          "4",
+          "147",
+          "77",
+          "70",
+          "12",
+          "EL NARANJO",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2",
+          "EL RINCÓN DE TLAPACHOLAPA (EL RINCÓN)",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2",
+          "EL SALADO",
+          "3",
+          "111",
+          "47",
+          "64",
+          "7",
+          "LAGUNA DE SAN ISIDRO",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3",
+          "LAGUNILLA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "4",
+          "LAS PAROTAS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LOS DIRCIOS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3",
+          "MOCHITLÁN",
+          "10",
+          "1,744",
+          "927",
+          "817",
+          "83",
+          "MONTE ALEGRE",
+          "4",
+          "143",
+          "69",
+          "74",
+          "14",
+          "OJO DE AGUA DE SAN FRANCISCO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "RANCHO VIEJO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "SAN MIGUEL",
+          "3",
+          "191",
+          "92",
+          "99",
+          "12",
+          "SAN ROQUE",
+          "3",
+          "79",
+          "41",
+          "38",
+          "7",
+          "TLACOTEPEC",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3",
+          "TLACOTITLANAPA",
+          "4",
+          "90",
+          "51",
+          "39",
+          "10",
+          "TLAPACHOLAPA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2",
+          "ZINTLANAPA",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3",
+          "TOTAL",
+          "60",
+          "2,885",
+          "1,480",
+          "1,405",
+          "186",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MOCHITLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHACOTLA",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4"
+        ],
+        [
+          "COATOMATITLÁN",
+          "3",
+          "95",
+          "42",
+          "53",
+          "12"
+        ],
+        [
+          "COAXTLAHUACÁN",
+          "4",
+          "147",
+          "77",
+          "70",
+          "12"
+        ],
+        [
+          "EL NARANJO",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL RINCÓN DE TLAPACHOLAPA (EL RINCÓN)",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "EL SALADO",
+          "3",
+          "111",
+          "47",
+          "64",
+          "7"
+        ],
+        [
+          "LAGUNA DE SAN ISIDRO",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3"
+        ],
+        [
+          "LAGUNILLA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "4"
+        ],
+        [
+          "LAS PAROTAS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LOS DIRCIOS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "MOCHITLÁN",
+          "10",
+          "1,744",
+          "927",
+          "817",
+          "83"
+        ],
+        [
+          "MONTE ALEGRE",
+          "4",
+          "143",
+          "69",
+          "74",
+          "14"
+        ],
+        [
+          "OJO DE AGUA DE SAN FRANCISCO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "RANCHO VIEJO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "191",
+          "92",
+          "99",
+          "12"
+        ],
+        [
+          "SAN ROQUE",
+          "3",
+          "79",
+          "41",
+          "38",
+          "7"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "TLACOTITLANAPA",
+          "4",
+          "90",
+          "51",
+          "39",
+          "10"
+        ],
+        [
+          "TLAPACHOLAPA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "ZINTLANAPA",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "2,885",
+          "1,480",
+          "1,405",
+          "186"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MOCHITLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHACOTLA",
+          "3",
+          "48",
+          "22",
+          "26",
+          "4"
+        ],
+        [
+          "COATOMATITLÁN",
+          "3",
+          "95",
+          "42",
+          "53",
+          "12"
+        ],
+        [
+          "COAXTLAHUACÁN",
+          "4",
+          "147",
+          "77",
+          "70",
+          "12"
+        ],
+        [
+          "EL NARANJO",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL RINCÓN DE TLAPACHOLAPA (EL RINCÓN)",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "EL SALADO",
+          "3",
+          "111",
+          "47",
+          "64",
+          "7"
+        ],
+        [
+          "LAGUNA DE SAN ISIDRO",
+          "3",
+          "27",
+          "15",
+          "12",
+          "3"
+        ],
+        [
+          "LAGUNILLA",
+          "2",
+          "52",
+          "25",
+          "27",
+          "4"
+        ],
+        [
+          "LAS PAROTAS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LOS DIRCIOS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "MOCHITLÁN",
+          "10",
+          "1,744",
+          "927",
+          "817",
+          "83"
+        ],
+        [
+          "MONTE ALEGRE",
+          "4",
+          "143",
+          "69",
+          "74",
+          "14"
+        ],
+        [
+          "OJO DE AGUA DE SAN FRANCISCO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "RANCHO VIEJO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "191",
+          "92",
+          "99",
+          "12"
+        ],
+        [
+          "SAN ROQUE",
+          "3",
+          "79",
+          "41",
+          "38",
+          "7"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "TLACOTITLANAPA",
+          "4",
+          "90",
+          "51",
+          "39",
+          "10"
+        ],
+        [
+          "TLAPACHOLAPA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "ZINTLANAPA",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "2,885",
+          "1,480",
+          "1,405",
+          "186"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:37.959Z"
+}

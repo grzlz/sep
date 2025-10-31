@@ -7,6 +7,7 @@
   "scripts": {
     "scrape": "node scraper.js",
     "test": "TEST_MODE=true node scraper.js",
+    "to-csv": "node json-to-csv.js",
     "install-browser": "npx playwright install chromium"
   },
   "keywords": ["sep", "scraper", "playwright", "mexico", "education"],

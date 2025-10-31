@@ -1,0 +1,362 @@
+{
+  "municipality": "HIDALGO",
+  "municipalityCode": "010",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: HIDALGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENJAMÍN Y URÍAS (SAN ANDRÉS)\n\t\t2\n\t\t52\n\t\t30\n\t\t22\n\t\t5\n\t\n\t\n\t\tEL ENTRONQUE DEL CARRIZO\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t2\n\t\n\t\n\t\tIGNACIO VALENCIA (LOS ALAMITOS)\n\t\t3\n\t\t65\n\t\t29\n\t\t36\n\t\t6\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t15\n\t\t4\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA ZARCA\n\t\t4\n\t\t201\n\t\t115\n\t\t86\n\t\t10\n\t\n\t\n\t\tLAS PLAYAS\n\t\t3\n\t\t27\n\t\t10\n\t\t17\n\t\t3\n\t\n\t\n\t\tREVOLUCIÓN (LAS VÍBORAS)\n\t\t4\n\t\t236\n\t\t120\n\t\t116\n\t\t18\n\t\n\t\n\t\tROMÁN ARREOLA (LA MIMBRERA)\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN BERNARDO (NUEVO SAN BERNARDO)\n\t\t3\n\t\t36\n\t\t20\n\t\t16\n\t\t4\n\t\n\t\n\t\tSAN FERMÍN\n\t\t2\n\t\t41\n\t\t11\n\t\t30\n\t\t4\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t4\n\t\t194\n\t\t106\n\t\t88\n\t\t67\n\t\n\t\n\t\tVILLA UNIÓN DE MUÑOZ (VILLA UNIÓN)\n\t\t3\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t33\n\t\t913\n\t\t469\n\t\t444\n\t\t125\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: HIDALGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENJAMÍN Y URÍAS (SAN ANDRÉS)",
+          "2",
+          "52",
+          "30",
+          "22",
+          "5",
+          "EL ENTRONQUE DEL CARRIZO",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2",
+          "IGNACIO VALENCIA (LOS ALAMITOS)",
+          "3",
+          "65",
+          "29",
+          "36",
+          "6",
+          "LA ESPERANZA",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2",
+          "LA ZARCA",
+          "4",
+          "201",
+          "115",
+          "86",
+          "10",
+          "LAS PLAYAS",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3",
+          "REVOLUCIÓN (LAS VÍBORAS)",
+          "4",
+          "236",
+          "120",
+          "116",
+          "18",
+          "ROMÁN ARREOLA (LA MIMBRERA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "SAN BERNARDO (NUEVO SAN BERNARDO)",
+          "3",
+          "36",
+          "20",
+          "16",
+          "4",
+          "SAN FERMÍN",
+          "2",
+          "41",
+          "11",
+          "30",
+          "4",
+          "VILLA HIDALGO",
+          "4",
+          "194",
+          "106",
+          "88",
+          "67",
+          "VILLA UNIÓN DE MUÑOZ (VILLA UNIÓN)",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3",
+          "TOTAL",
+          "33",
+          "913",
+          "469",
+          "444",
+          "125",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENJAMÍN Y URÍAS (SAN ANDRÉS)",
+          "2",
+          "52",
+          "30",
+          "22",
+          "5"
+        ],
+        [
+          "EL ENTRONQUE DEL CARRIZO",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "IGNACIO VALENCIA (LOS ALAMITOS)",
+          "3",
+          "65",
+          "29",
+          "36",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2"
+        ],
+        [
+          "LA ZARCA",
+          "4",
+          "201",
+          "115",
+          "86",
+          "10"
+        ],
+        [
+          "LAS PLAYAS",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "REVOLUCIÓN (LAS VÍBORAS)",
+          "4",
+          "236",
+          "120",
+          "116",
+          "18"
+        ],
+        [
+          "ROMÁN ARREOLA (LA MIMBRERA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SAN BERNARDO (NUEVO SAN BERNARDO)",
+          "3",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SAN FERMÍN",
+          "2",
+          "41",
+          "11",
+          "30",
+          "4"
+        ],
+        [
+          "VILLA HIDALGO",
+          "4",
+          "194",
+          "106",
+          "88",
+          "67"
+        ],
+        [
+          "VILLA UNIÓN DE MUÑOZ (VILLA UNIÓN)",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "33",
+          "913",
+          "469",
+          "444",
+          "125"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENJAMÍN Y URÍAS (SAN ANDRÉS)",
+          "2",
+          "52",
+          "30",
+          "22",
+          "5"
+        ],
+        [
+          "EL ENTRONQUE DEL CARRIZO",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "IGNACIO VALENCIA (LOS ALAMITOS)",
+          "3",
+          "65",
+          "29",
+          "36",
+          "6"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2"
+        ],
+        [
+          "LA ZARCA",
+          "4",
+          "201",
+          "115",
+          "86",
+          "10"
+        ],
+        [
+          "LAS PLAYAS",
+          "3",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "REVOLUCIÓN (LAS VÍBORAS)",
+          "4",
+          "236",
+          "120",
+          "116",
+          "18"
+        ],
+        [
+          "ROMÁN ARREOLA (LA MIMBRERA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SAN BERNARDO (NUEVO SAN BERNARDO)",
+          "3",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SAN FERMÍN",
+          "2",
+          "41",
+          "11",
+          "30",
+          "4"
+        ],
+        [
+          "VILLA HIDALGO",
+          "4",
+          "194",
+          "106",
+          "88",
+          "67"
+        ],
+        [
+          "VILLA UNIÓN DE MUÑOZ (VILLA UNIÓN)",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "33",
+          "913",
+          "469",
+          "444",
+          "125"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:26.260Z"
+}

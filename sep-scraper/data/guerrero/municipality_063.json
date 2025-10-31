@@ -1,0 +1,758 @@
+{
+  "municipality": "TLACOAPA",
+  "municipalityCode": "063",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLACOAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUEHUETE\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t3\n\t\n\t\n\t\tAHUEJUYOS ASALTADOS (EL AHUEJUYO)\n\t\t2\n\t\t42\n\t\t21\n\t\t21\n\t\t3\n\t\n\t\n\t\tBARRANCA NOPALERA\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tBUENA VISTA\n\t\t1\n\t\t34\n\t\t19\n\t\t15\n\t\t2\n\t\n\t\n\t\tCHIRIMOYO\n\t\t2\n\t\t38\n\t\t21\n\t\t17\n\t\t3\n\t\n\t\n\t\tCRUZ DE GALLO\n\t\t2\n\t\t31\n\t\t15\n\t\t16\n\t\t3\n\t\n\t\n\t\tEL CAMPANARIO\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t4\n\t\n\t\n\t\tEL CAPULÍN\n\t\t2\n\t\t13\n\t\t9\n\t\t4\n\t\t3\n\t\n\t\n\t\tEL CARRIZAL\n\t\t1\n\t\t31\n\t\t22\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL MIRADOR\n\t\t2\n\t\t14\n\t\t10\n\t\t4\n\t\t2\n\t\n\t\n\t\tLA MAGUEYERA\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t3\n\t\n\t\n\t\tLAGUNA SECA\n\t\t1\n\t\t47\n\t\t31\n\t\t16\n\t\t2\n\t\n\t\n\t\tLLANO VERDE\n\t\t2\n\t\t31\n\t\t15\n\t\t16\n\t\t3\n\t\n\t\n\t\tMETLAPILAPA\n\t\t3\n\t\t74\n\t\t36\n\t\t38\n\t\t5\n\t\n\t\n\t\tPIEDRA ESCALERA\n\t\t1\n\t\t14\n\t\t9\n\t\t5\n\t\t1\n\t\n\t\n\t\tPLAN DE GUADALUPE\n\t\t2\n\t\t33\n\t\t15\n\t\t18\n\t\t3\n\t\n\t\n\t\tPLAN JACARANDA\n\t\t2\n\t\t22\n\t\t7\n\t\t15\n\t\t3\n\t\n\t\n\t\tSABANA\n\t\t3\n\t\t133\n\t\t63\n\t\t70\n\t\t6\n\t\n\t\n\t\tSABINO DE GUADALUPE\n\t\t2\n\t\t39\n\t\t22\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN MARCOS\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL BUENAVISTA\n\t\t3\n\t\t46\n\t\t24\n\t\t22\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL TENAMAZAPA (SAN MIGUELITO)\n\t\t2\n\t\t75\n\t\t38\n\t\t37\n\t\t4\n\t\n\t\n\t\tTECOLUTLA\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tTENAMAZAPA\n\t\t4\n\t\t479\n\t\t238\n\t\t241\n\t\t20\n\t\n\t\n\t\tTLACOAPA\n\t\t6\n\t\t670\n\t\t326\n\t\t344\n\t\t43\n\t\n\t\n\t\tTLACOTEPEC\n\t\t2\n\t\t58\n\t\t28\n\t\t30\n\t\t5\n\t\n\t\n\t\tTOTOMIXTLAHUACA\n\t\t4\n\t\t463\n\t\t242\n\t\t221\n\t\t30\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t3\n\t\n\t\n\t\tXOCHISTLAHUACA\n\t\t2\n\t\t36\n\t\t19\n\t\t17\n\t\t3\n\t\n\t\n\t\tXOCOAPA\n\t\t2\n\t\t71\n\t\t34\n\t\t37\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t2,634\n\t\t1,332\n\t\t1,302\n\t\t176\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLACOAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUEHUETE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3",
+          "AHUEJUYOS ASALTADOS (EL AHUEJUYO)",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3",
+          "BARRANCA NOPALERA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "2",
+          "BUENA VISTA",
+          "1",
+          "34",
+          "19",
+          "15",
+          "2",
+          "CHIRIMOYO",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3",
+          "CRUZ DE GALLO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3",
+          "EL CAMPANARIO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "4",
+          "EL CAPULÍN",
+          "2",
+          "13",
+          "9",
+          "4",
+          "3",
+          "EL CARRIZAL",
+          "1",
+          "31",
+          "22",
+          "9",
+          "2",
+          "EL MIRADOR",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2",
+          "LA MAGUEYERA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3",
+          "LAGUNA SECA",
+          "1",
+          "47",
+          "31",
+          "16",
+          "2",
+          "LLANO VERDE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3",
+          "METLAPILAPA",
+          "3",
+          "74",
+          "36",
+          "38",
+          "5",
+          "PIEDRA ESCALERA",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1",
+          "PLAN DE GUADALUPE",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3",
+          "PLAN JACARANDA",
+          "2",
+          "22",
+          "7",
+          "15",
+          "3",
+          "SABANA",
+          "3",
+          "133",
+          "63",
+          "70",
+          "6",
+          "SABINO DE GUADALUPE",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3",
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "SAN MIGUEL BUENAVISTA",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4",
+          "SAN MIGUEL TENAMAZAPA (SAN MIGUELITO)",
+          "2",
+          "75",
+          "38",
+          "37",
+          "4",
+          "TECOLUTLA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "TENAMAZAPA",
+          "4",
+          "479",
+          "238",
+          "241",
+          "20",
+          "TLACOAPA",
+          "6",
+          "670",
+          "326",
+          "344",
+          "43",
+          "TLACOTEPEC",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5",
+          "TOTOMIXTLAHUACA",
+          "4",
+          "463",
+          "242",
+          "221",
+          "30",
+          "VISTA HERMOSA",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3",
+          "XOCHISTLAHUACA",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3",
+          "XOCOAPA",
+          "2",
+          "71",
+          "34",
+          "37",
+          "6",
+          "TOTAL",
+          "64",
+          "2,634",
+          "1,332",
+          "1,302",
+          "176",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLACOAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEHUETE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "AHUEJUYOS ASALTADOS (EL AHUEJUYO)",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "BARRANCA NOPALERA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "BUENA VISTA",
+          "1",
+          "34",
+          "19",
+          "15",
+          "2"
+        ],
+        [
+          "CHIRIMOYO",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "CRUZ DE GALLO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "EL CAMPANARIO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "4"
+        ],
+        [
+          "EL CAPULÍN",
+          "2",
+          "13",
+          "9",
+          "4",
+          "3"
+        ],
+        [
+          "EL CARRIZAL",
+          "1",
+          "31",
+          "22",
+          "9",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "LA MAGUEYERA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LAGUNA SECA",
+          "1",
+          "47",
+          "31",
+          "16",
+          "2"
+        ],
+        [
+          "LLANO VERDE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "METLAPILAPA",
+          "3",
+          "74",
+          "36",
+          "38",
+          "5"
+        ],
+        [
+          "PIEDRA ESCALERA",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "PLAN DE GUADALUPE",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "PLAN JACARANDA",
+          "2",
+          "22",
+          "7",
+          "15",
+          "3"
+        ],
+        [
+          "SABANA",
+          "3",
+          "133",
+          "63",
+          "70",
+          "6"
+        ],
+        [
+          "SABINO DE GUADALUPE",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN MIGUEL BUENAVISTA",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "SAN MIGUEL TENAMAZAPA (SAN MIGUELITO)",
+          "2",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "TECOLUTLA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "TENAMAZAPA",
+          "4",
+          "479",
+          "238",
+          "241",
+          "20"
+        ],
+        [
+          "TLACOAPA",
+          "6",
+          "670",
+          "326",
+          "344",
+          "43"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "TOTOMIXTLAHUACA",
+          "4",
+          "463",
+          "242",
+          "221",
+          "30"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "XOCHISTLAHUACA",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "XOCOAPA",
+          "2",
+          "71",
+          "34",
+          "37",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "2,634",
+          "1,332",
+          "1,302",
+          "176"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLACOAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEHUETE",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "AHUEJUYOS ASALTADOS (EL AHUEJUYO)",
+          "2",
+          "42",
+          "21",
+          "21",
+          "3"
+        ],
+        [
+          "BARRANCA NOPALERA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "BUENA VISTA",
+          "1",
+          "34",
+          "19",
+          "15",
+          "2"
+        ],
+        [
+          "CHIRIMOYO",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "CRUZ DE GALLO",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "EL CAMPANARIO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "4"
+        ],
+        [
+          "EL CAPULÍN",
+          "2",
+          "13",
+          "9",
+          "4",
+          "3"
+        ],
+        [
+          "EL CARRIZAL",
+          "1",
+          "31",
+          "22",
+          "9",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "LA MAGUEYERA",
+          "2",
+          "22",
+          "10",
+          "12",
+          "3"
+        ],
+        [
+          "LAGUNA SECA",
+          "1",
+          "47",
+          "31",
+          "16",
+          "2"
+        ],
+        [
+          "LLANO VERDE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "METLAPILAPA",
+          "3",
+          "74",
+          "36",
+          "38",
+          "5"
+        ],
+        [
+          "PIEDRA ESCALERA",
+          "1",
+          "14",
+          "9",
+          "5",
+          "1"
+        ],
+        [
+          "PLAN DE GUADALUPE",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "PLAN JACARANDA",
+          "2",
+          "22",
+          "7",
+          "15",
+          "3"
+        ],
+        [
+          "SABANA",
+          "3",
+          "133",
+          "63",
+          "70",
+          "6"
+        ],
+        [
+          "SABINO DE GUADALUPE",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN MIGUEL BUENAVISTA",
+          "3",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "SAN MIGUEL TENAMAZAPA (SAN MIGUELITO)",
+          "2",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "TECOLUTLA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "TENAMAZAPA",
+          "4",
+          "479",
+          "238",
+          "241",
+          "20"
+        ],
+        [
+          "TLACOAPA",
+          "6",
+          "670",
+          "326",
+          "344",
+          "43"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "TOTOMIXTLAHUACA",
+          "4",
+          "463",
+          "242",
+          "221",
+          "30"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "XOCHISTLAHUACA",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "XOCOAPA",
+          "2",
+          "71",
+          "34",
+          "37",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "2,634",
+          "1,332",
+          "1,302",
+          "176"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:02.644Z"
+}

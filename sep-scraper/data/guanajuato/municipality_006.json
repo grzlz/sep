@@ -1,0 +1,560 @@
+{
+  "municipality": "ATARJEA",
+  "municipalityCode": "006",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: ATARJEA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁLAMOS\n\t\t4\n\t\t168\n\t\t93\n\t\t75\n\t\t7\n\t\n\t\n\t\tALDAMA (XOCONOXTLE)\n\t\t3\n\t\t64\n\t\t33\n\t\t31\n\t\t4\n\t\n\t\n\t\tATARJEA\n\t\t3\n\t\t82\n\t\t55\n\t\t27\n\t\t5\n\t\n\t\n\t\tCERRO PRIETO\n\t\t3\n\t\t35\n\t\t10\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL APARTADERO\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL BANCO\n\t\t3\n\t\t30\n\t\t16\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL CARRICILLO\n\t\t4\n\t\t167\n\t\t78\n\t\t89\n\t\t8\n\t\n\t\n\t\tEL CHARCO\n\t\t2\n\t\t22\n\t\t6\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL CHILARITO\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL DURAZNO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL TORO\n\t\t3\n\t\t24\n\t\t11\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA JOYA\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA LAGUNITA\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA TAPONA\n\t\t4\n\t\t177\n\t\t85\n\t\t92\n\t\t8\n\t\n\t\n\t\tLLANITOS A (EL REPASADERO)\n\t\t3\n\t\t64\n\t\t32\n\t\t32\n\t\t4\n\t\n\t\n\t\tLOS LLANITOS\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tMANGAS CUATAS\n\t\t4\n\t\t156\n\t\t90\n\t\t66\n\t\t12\n\t\n\t\n\t\tPIEDRA GORDA\n\t\t1\n\t\t22\n\t\t14\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN ANTÓN\n\t\t2\n\t\t21\n\t\t15\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN JUAN DE DIOS\n\t\t4\n\t\t106\n\t\t59\n\t\t47\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t55\n\t\t1,271\n\t\t665\n\t\t606\n\t\t82\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: ATARJEA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁLAMOS",
+          "4",
+          "168",
+          "93",
+          "75",
+          "7",
+          "ALDAMA (XOCONOXTLE)",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4",
+          "ATARJEA",
+          "3",
+          "82",
+          "55",
+          "27",
+          "5",
+          "CERRO PRIETO",
+          "3",
+          "35",
+          "10",
+          "25",
+          "3",
+          "EL APARTADERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "EL BANCO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "3",
+          "EL CARRICILLO",
+          "4",
+          "167",
+          "78",
+          "89",
+          "8",
+          "EL CHARCO",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2",
+          "EL CHILARITO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "EL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "EL MEZQUITAL",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "EL TORO",
+          "3",
+          "24",
+          "11",
+          "13",
+          "3",
+          "LA JOYA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "LA LAGUNITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "LA TAPONA",
+          "4",
+          "177",
+          "85",
+          "92",
+          "8",
+          "LLANITOS A (EL REPASADERO)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "4",
+          "LOS LLANITOS",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "MANGAS CUATAS",
+          "4",
+          "156",
+          "90",
+          "66",
+          "12",
+          "PIEDRA GORDA",
+          "1",
+          "22",
+          "14",
+          "8",
+          "2",
+          "SAN ANTÓN",
+          "2",
+          "21",
+          "15",
+          "6",
+          "2",
+          "SAN JUAN DE DIOS",
+          "4",
+          "106",
+          "59",
+          "47",
+          "7",
+          "TOTAL",
+          "55",
+          "1,271",
+          "665",
+          "606",
+          "82",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: ATARJEA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLAMOS",
+          "4",
+          "168",
+          "93",
+          "75",
+          "7"
+        ],
+        [
+          "ALDAMA (XOCONOXTLE)",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "ATARJEA",
+          "3",
+          "82",
+          "55",
+          "27",
+          "5"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "35",
+          "10",
+          "25",
+          "3"
+        ],
+        [
+          "EL APARTADERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "EL BANCO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "EL CARRICILLO",
+          "4",
+          "167",
+          "78",
+          "89",
+          "8"
+        ],
+        [
+          "EL CHARCO",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "EL CHILARITO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL TORO",
+          "3",
+          "24",
+          "11",
+          "13",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA TAPONA",
+          "4",
+          "177",
+          "85",
+          "92",
+          "8"
+        ],
+        [
+          "LLANITOS A (EL REPASADERO)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "4"
+        ],
+        [
+          "LOS LLANITOS",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "MANGAS CUATAS",
+          "4",
+          "156",
+          "90",
+          "66",
+          "12"
+        ],
+        [
+          "PIEDRA GORDA",
+          "1",
+          "22",
+          "14",
+          "8",
+          "2"
+        ],
+        [
+          "SAN ANTÓN",
+          "2",
+          "21",
+          "15",
+          "6",
+          "2"
+        ],
+        [
+          "SAN JUAN DE DIOS",
+          "4",
+          "106",
+          "59",
+          "47",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "1,271",
+          "665",
+          "606",
+          "82"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: ATARJEA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLAMOS",
+          "4",
+          "168",
+          "93",
+          "75",
+          "7"
+        ],
+        [
+          "ALDAMA (XOCONOXTLE)",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "ATARJEA",
+          "3",
+          "82",
+          "55",
+          "27",
+          "5"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "35",
+          "10",
+          "25",
+          "3"
+        ],
+        [
+          "EL APARTADERO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "EL BANCO",
+          "3",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "EL CARRICILLO",
+          "4",
+          "167",
+          "78",
+          "89",
+          "8"
+        ],
+        [
+          "EL CHARCO",
+          "2",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "EL CHILARITO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL TORO",
+          "3",
+          "24",
+          "11",
+          "13",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "LA TAPONA",
+          "4",
+          "177",
+          "85",
+          "92",
+          "8"
+        ],
+        [
+          "LLANITOS A (EL REPASADERO)",
+          "3",
+          "64",
+          "32",
+          "32",
+          "4"
+        ],
+        [
+          "LOS LLANITOS",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "MANGAS CUATAS",
+          "4",
+          "156",
+          "90",
+          "66",
+          "12"
+        ],
+        [
+          "PIEDRA GORDA",
+          "1",
+          "22",
+          "14",
+          "8",
+          "2"
+        ],
+        [
+          "SAN ANTÓN",
+          "2",
+          "21",
+          "15",
+          "6",
+          "2"
+        ],
+        [
+          "SAN JUAN DE DIOS",
+          "4",
+          "106",
+          "59",
+          "47",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "1,271",
+          "665",
+          "606",
+          "82"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:00.626Z"
+}

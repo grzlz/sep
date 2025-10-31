@@ -1,0 +1,582 @@
+{
+  "municipality": "JIMÉNEZ",
+  "municipalityCode": "036",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: JIMÉNEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCALIFORNIA\n\t\t2\n\t\t92\n\t\t53\n\t\t39\n\t\t6\n\t\n\t\n\t\tEJIDO LOTE OCHO\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL ÁGUILA\n\t\t2\n\t\t39\n\t\t19\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL PREDIO\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t1\n\t\n\t\n\t\tEL TRIUNFO\n\t\t2\n\t\t30\n\t\t19\n\t\t11\n\t\t2\n\t\n\t\n\t\tESCALÓN\n\t\t4\n\t\t219\n\t\t113\n\t\t106\n\t\t13\n\t\n\t\n\t\tJACOBO\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tJOSÉ MARIANO JIMÉNEZ\n\t\t49\n\t\t9,671\n\t\t4,781\n\t\t4,890\n\t\t489\n\t\n\t\n\t\tLA GLORIA\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tLAGUNA DE PALOMAS (ESTACIÓN CARRILLO)\n\t\t4\n\t\t96\n\t\t38\n\t\t58\n\t\t8\n\t\n\t\n\t\tLAS GLORIAS\n\t\t1\n\t\t43\n\t\t22\n\t\t21\n\t\t2\n\t\n\t\n\t\tLAS GLORIAS UNO\n\t\t1\n\t\t67\n\t\t31\n\t\t36\n\t\t4\n\t\n\t\n\t\tLIBERTAD (DOLORES)\n\t\t4\n\t\t224\n\t\t105\n\t\t119\n\t\t14\n\t\n\t\n\t\tMIRAMONTES\n\t\t3\n\t\t95\n\t\t46\n\t\t49\n\t\t4\n\t\n\t\n\t\tNUEVO SAUCILLO (RANCHO NUEVO)\n\t\t2\n\t\t46\n\t\t20\n\t\t26\n\t\t3\n\t\n\t\n\t\tNUEVO TAMPICO\n\t\t1\n\t\t17\n\t\t5\n\t\t12\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO (LOTE NÚMERO OCHO)\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN FELIPE\n\t\t4\n\t\t124\n\t\t61\n\t\t63\n\t\t8\n\t\n\t\n\t\tSAN LUIS\n\t\t2\n\t\t28\n\t\t9\n\t\t19\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t2\n\t\t44\n\t\t20\n\t\t24\n\t\t3\n\t\n\t\n\t\tTORREONCITOS\n\t\t4\n\t\t245\n\t\t120\n\t\t125\n\t\t13\n\t\n\t\n\t\tZARAGOZA\n\t\t2\n\t\t74\n\t\t33\n\t\t41\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t95\n\t\t11,219\n\t\t5,524\n\t\t5,695\n\t\t585\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: JIMÉNEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CALIFORNIA",
+          "2",
+          "92",
+          "53",
+          "39",
+          "6",
+          "EJIDO LOTE OCHO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "EL ÁGUILA",
+          "2",
+          "39",
+          "19",
+          "20",
+          "2",
+          "EL PREDIO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1",
+          "EL TRIUNFO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2",
+          "ESCALÓN",
+          "4",
+          "219",
+          "113",
+          "106",
+          "13",
+          "JACOBO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "JOSÉ MARIANO JIMÉNEZ",
+          "49",
+          "9,671",
+          "4,781",
+          "4,890",
+          "489",
+          "LA GLORIA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "LAGUNA DE PALOMAS (ESTACIÓN CARRILLO)",
+          "4",
+          "96",
+          "38",
+          "58",
+          "8",
+          "LAS GLORIAS",
+          "1",
+          "43",
+          "22",
+          "21",
+          "2",
+          "LAS GLORIAS UNO",
+          "1",
+          "67",
+          "31",
+          "36",
+          "4",
+          "LIBERTAD (DOLORES)",
+          "4",
+          "224",
+          "105",
+          "119",
+          "14",
+          "MIRAMONTES",
+          "3",
+          "95",
+          "46",
+          "49",
+          "4",
+          "NUEVO SAUCILLO (RANCHO NUEVO)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3",
+          "NUEVO TAMPICO",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1",
+          "SAN ANTONIO (LOTE NÚMERO OCHO)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "SAN FELIPE",
+          "4",
+          "124",
+          "61",
+          "63",
+          "8",
+          "SAN LUIS",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2",
+          "TIERRA BLANCA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3",
+          "TORREONCITOS",
+          "4",
+          "245",
+          "120",
+          "125",
+          "13",
+          "ZARAGOZA",
+          "2",
+          "74",
+          "33",
+          "41",
+          "5",
+          "TOTAL",
+          "95",
+          "11,219",
+          "5,524",
+          "5,695",
+          "585",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "92",
+          "53",
+          "39",
+          "6"
+        ],
+        [
+          "EJIDO LOTE OCHO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "EL ÁGUILA",
+          "2",
+          "39",
+          "19",
+          "20",
+          "2"
+        ],
+        [
+          "EL PREDIO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "EL TRIUNFO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "ESCALÓN",
+          "4",
+          "219",
+          "113",
+          "106",
+          "13"
+        ],
+        [
+          "JACOBO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARIANO JIMÉNEZ",
+          "49",
+          "9,671",
+          "4,781",
+          "4,890",
+          "489"
+        ],
+        [
+          "LA GLORIA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LAGUNA DE PALOMAS (ESTACIÓN CARRILLO)",
+          "4",
+          "96",
+          "38",
+          "58",
+          "8"
+        ],
+        [
+          "LAS GLORIAS",
+          "1",
+          "43",
+          "22",
+          "21",
+          "2"
+        ],
+        [
+          "LAS GLORIAS UNO",
+          "1",
+          "67",
+          "31",
+          "36",
+          "4"
+        ],
+        [
+          "LIBERTAD (DOLORES)",
+          "4",
+          "224",
+          "105",
+          "119",
+          "14"
+        ],
+        [
+          "MIRAMONTES",
+          "3",
+          "95",
+          "46",
+          "49",
+          "4"
+        ],
+        [
+          "NUEVO SAUCILLO (RANCHO NUEVO)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3"
+        ],
+        [
+          "NUEVO TAMPICO",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1"
+        ],
+        [
+          "SAN ANTONIO (LOTE NÚMERO OCHO)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN FELIPE",
+          "4",
+          "124",
+          "61",
+          "63",
+          "8"
+        ],
+        [
+          "SAN LUIS",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "TORREONCITOS",
+          "4",
+          "245",
+          "120",
+          "125",
+          "13"
+        ],
+        [
+          "ZARAGOZA",
+          "2",
+          "74",
+          "33",
+          "41",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "95",
+          "11,219",
+          "5,524",
+          "5,695",
+          "585"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "92",
+          "53",
+          "39",
+          "6"
+        ],
+        [
+          "EJIDO LOTE OCHO",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "EL ÁGUILA",
+          "2",
+          "39",
+          "19",
+          "20",
+          "2"
+        ],
+        [
+          "EL PREDIO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "EL TRIUNFO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "ESCALÓN",
+          "4",
+          "219",
+          "113",
+          "106",
+          "13"
+        ],
+        [
+          "JACOBO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARIANO JIMÉNEZ",
+          "49",
+          "9,671",
+          "4,781",
+          "4,890",
+          "489"
+        ],
+        [
+          "LA GLORIA",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LAGUNA DE PALOMAS (ESTACIÓN CARRILLO)",
+          "4",
+          "96",
+          "38",
+          "58",
+          "8"
+        ],
+        [
+          "LAS GLORIAS",
+          "1",
+          "43",
+          "22",
+          "21",
+          "2"
+        ],
+        [
+          "LAS GLORIAS UNO",
+          "1",
+          "67",
+          "31",
+          "36",
+          "4"
+        ],
+        [
+          "LIBERTAD (DOLORES)",
+          "4",
+          "224",
+          "105",
+          "119",
+          "14"
+        ],
+        [
+          "MIRAMONTES",
+          "3",
+          "95",
+          "46",
+          "49",
+          "4"
+        ],
+        [
+          "NUEVO SAUCILLO (RANCHO NUEVO)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3"
+        ],
+        [
+          "NUEVO TAMPICO",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1"
+        ],
+        [
+          "SAN ANTONIO (LOTE NÚMERO OCHO)",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN FELIPE",
+          "4",
+          "124",
+          "61",
+          "63",
+          "8"
+        ],
+        [
+          "SAN LUIS",
+          "2",
+          "28",
+          "9",
+          "19",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "TORREONCITOS",
+          "4",
+          "245",
+          "120",
+          "125",
+          "13"
+        ],
+        [
+          "ZARAGOZA",
+          "2",
+          "74",
+          "33",
+          "41",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "95",
+          "11,219",
+          "5,524",
+          "5,695",
+          "585"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:33.920Z"
+}

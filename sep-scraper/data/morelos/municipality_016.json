@@ -1,0 +1,274 @@
+{
+  "municipality": "OCUITUCO",
+  "municipalityCode": "016",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: OCUITUCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tHUECAHUASCO\n\t\t5\n\t\t446\n\t\t234\n\t\t212\n\t\t24\n\t\n\t\n\t\tHUEJOTENGO (SAN MARCOS)\n\t\t2\n\t\t138\n\t\t68\n\t\t70\n\t\t8\n\t\n\t\n\t\tHUEPALCALCO (SAN MIGUEL)\n\t\t3\n\t\t274\n\t\t129\n\t\t145\n\t\t11\n\t\n\t\n\t\tJUMILTEPEC\n\t\t6\n\t\t971\n\t\t486\n\t\t485\n\t\t45\n\t\n\t\n\t\tMETEPEC\n\t\t6\n\t\t769\n\t\t387\n\t\t382\n\t\t31\n\t\n\t\n\t\tOCOXALTEPEC\n\t\t3\n\t\t314\n\t\t152\n\t\t162\n\t\t14\n\t\n\t\n\t\tOCUITUCO\n\t\t7\n\t\t1,786\n\t\t869\n\t\t917\n\t\t90\n\t\n\t\n\t\tSANTA MÓNICA\n\t\t1\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t33\n\t\t4,719\n\t\t2,334\n\t\t2,385\n\t\t225\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: OCUITUCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "HUECAHUASCO",
+          "5",
+          "446",
+          "234",
+          "212",
+          "24",
+          "HUEJOTENGO (SAN MARCOS)",
+          "2",
+          "138",
+          "68",
+          "70",
+          "8",
+          "HUEPALCALCO (SAN MIGUEL)",
+          "3",
+          "274",
+          "129",
+          "145",
+          "11",
+          "JUMILTEPEC",
+          "6",
+          "971",
+          "486",
+          "485",
+          "45",
+          "METEPEC",
+          "6",
+          "769",
+          "387",
+          "382",
+          "31",
+          "OCOXALTEPEC",
+          "3",
+          "314",
+          "152",
+          "162",
+          "14",
+          "OCUITUCO",
+          "7",
+          "1,786",
+          "869",
+          "917",
+          "90",
+          "SANTA MÓNICA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2",
+          "TOTAL",
+          "33",
+          "4,719",
+          "2,334",
+          "2,385",
+          "225",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: OCUITUCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "HUECAHUASCO",
+          "5",
+          "446",
+          "234",
+          "212",
+          "24"
+        ],
+        [
+          "HUEJOTENGO (SAN MARCOS)",
+          "2",
+          "138",
+          "68",
+          "70",
+          "8"
+        ],
+        [
+          "HUEPALCALCO (SAN MIGUEL)",
+          "3",
+          "274",
+          "129",
+          "145",
+          "11"
+        ],
+        [
+          "JUMILTEPEC",
+          "6",
+          "971",
+          "486",
+          "485",
+          "45"
+        ],
+        [
+          "METEPEC",
+          "6",
+          "769",
+          "387",
+          "382",
+          "31"
+        ],
+        [
+          "OCOXALTEPEC",
+          "3",
+          "314",
+          "152",
+          "162",
+          "14"
+        ],
+        [
+          "OCUITUCO",
+          "7",
+          "1,786",
+          "869",
+          "917",
+          "90"
+        ],
+        [
+          "SANTA MÓNICA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "33",
+          "4,719",
+          "2,334",
+          "2,385",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: OCUITUCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "HUECAHUASCO",
+          "5",
+          "446",
+          "234",
+          "212",
+          "24"
+        ],
+        [
+          "HUEJOTENGO (SAN MARCOS)",
+          "2",
+          "138",
+          "68",
+          "70",
+          "8"
+        ],
+        [
+          "HUEPALCALCO (SAN MIGUEL)",
+          "3",
+          "274",
+          "129",
+          "145",
+          "11"
+        ],
+        [
+          "JUMILTEPEC",
+          "6",
+          "971",
+          "486",
+          "485",
+          "45"
+        ],
+        [
+          "METEPEC",
+          "6",
+          "769",
+          "387",
+          "382",
+          "31"
+        ],
+        [
+          "OCOXALTEPEC",
+          "3",
+          "314",
+          "152",
+          "162",
+          "14"
+        ],
+        [
+          "OCUITUCO",
+          "7",
+          "1,786",
+          "869",
+          "917",
+          "90"
+        ],
+        [
+          "SANTA MÓNICA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "33",
+          "4,719",
+          "2,334",
+          "2,385",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:10.929Z"
+}

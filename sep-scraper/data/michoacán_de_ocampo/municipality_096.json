@@ -1,0 +1,494 @@
+{
+  "municipality": "TUMBISCATÍO",
+  "municipalityCode": "096",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TUMBISCATÍO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARUCHITA\n\t\t1\n\t\t9\n\t\t1\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL FRESNAL\n\t\t1\n\t\t14\n\t\t4\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL HUJE\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL NOPAL (LA NOPALERA)\n\t\t1\n\t\t7\n\t\t6\n\t\t1\n\t\t2\n\t\n\t\n\t\tEL PEDREGOSO\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PLATANAL\n\t\t3\n\t\t43\n\t\t22\n\t\t21\n\t\t7\n\t\n\t\n\t\tGENERAL FRANCISCO VILLA (LAS CRUCES)\n\t\t5\n\t\t312\n\t\t162\n\t\t150\n\t\t30\n\t\n\t\n\t\tGRACIANO SÁNCHEZ (EL SOCORRO)\n\t\t4\n\t\t99\n\t\t51\n\t\t48\n\t\t8\n\t\n\t\n\t\tLA CRUZ\n\t\t1\n\t\t2\n\t\t2\n\t\t0\n\t\t1\n\t\n\t\n\t\tLAS NUEVAS CARAMICUAS\n\t\t3\n\t\t40\n\t\t22\n\t\t18\n\t\t6\n\t\n\t\n\t\tLAS PLAYITAS\n\t\t4\n\t\t84\n\t\t50\n\t\t34\n\t\t14\n\t\n\t\n\t\tLOS CHIVOS\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t2\n\t\n\t\n\t\tMATA DE PLÁTANO\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tPOTRERILLOS DE CORIA (LA LOMA)\n\t\t3\n\t\t56\n\t\t32\n\t\t24\n\t\t7\n\t\n\t\n\t\tSAN ANTONIO\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tSÁNCHEZ\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tTIERRA DE BUEYES (TIERRA DE JUÁREZ)\n\t\t2\n\t\t11\n\t\t3\n\t\t8\n\t\t2\n\t\n\t\n\t\tTUMBISCATÍO DE RUIZ\n\t\t5\n\t\t559\n\t\t279\n\t\t280\n\t\t50\n\t\n\t\n\t\tTOTAL\n\t\t39\n\t\t1,277\n\t\t651\n\t\t626\n\t\t138\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TUMBISCATÍO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARUCHITA",
+          "1",
+          "9",
+          "1",
+          "8",
+          "2",
+          "EL FRESNAL",
+          "1",
+          "14",
+          "4",
+          "10",
+          "2",
+          "EL HUJE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EL NOPAL (LA NOPALERA)",
+          "1",
+          "7",
+          "6",
+          "1",
+          "2",
+          "EL PEDREGOSO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL PLATANAL",
+          "3",
+          "43",
+          "22",
+          "21",
+          "7",
+          "GENERAL FRANCISCO VILLA (LAS CRUCES)",
+          "5",
+          "312",
+          "162",
+          "150",
+          "30",
+          "GRACIANO SÁNCHEZ (EL SOCORRO)",
+          "4",
+          "99",
+          "51",
+          "48",
+          "8",
+          "LA CRUZ",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1",
+          "LAS NUEVAS CARAMICUAS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "6",
+          "LAS PLAYITAS",
+          "4",
+          "84",
+          "50",
+          "34",
+          "14",
+          "LOS CHIVOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "2",
+          "MATA DE PLÁTANO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "POTRERILLOS DE CORIA (LA LOMA)",
+          "3",
+          "56",
+          "32",
+          "24",
+          "7",
+          "SAN ANTONIO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "SÁNCHEZ",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "TIERRA DE BUEYES (TIERRA DE JUÁREZ)",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2",
+          "TUMBISCATÍO DE RUIZ",
+          "5",
+          "559",
+          "279",
+          "280",
+          "50",
+          "TOTAL",
+          "39",
+          "1,277",
+          "651",
+          "626",
+          "138",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TUMBISCATÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARUCHITA",
+          "1",
+          "9",
+          "1",
+          "8",
+          "2"
+        ],
+        [
+          "EL FRESNAL",
+          "1",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "EL HUJE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL NOPAL (LA NOPALERA)",
+          "1",
+          "7",
+          "6",
+          "1",
+          "2"
+        ],
+        [
+          "EL PEDREGOSO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PLATANAL",
+          "3",
+          "43",
+          "22",
+          "21",
+          "7"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA (LAS CRUCES)",
+          "5",
+          "312",
+          "162",
+          "150",
+          "30"
+        ],
+        [
+          "GRACIANO SÁNCHEZ (EL SOCORRO)",
+          "4",
+          "99",
+          "51",
+          "48",
+          "8"
+        ],
+        [
+          "LA CRUZ",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "LAS NUEVAS CARAMICUAS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "6"
+        ],
+        [
+          "LAS PLAYITAS",
+          "4",
+          "84",
+          "50",
+          "34",
+          "14"
+        ],
+        [
+          "LOS CHIVOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "MATA DE PLÁTANO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "POTRERILLOS DE CORIA (LA LOMA)",
+          "3",
+          "56",
+          "32",
+          "24",
+          "7"
+        ],
+        [
+          "SAN ANTONIO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SÁNCHEZ",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TIERRA DE BUEYES (TIERRA DE JUÁREZ)",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "TUMBISCATÍO DE RUIZ",
+          "5",
+          "559",
+          "279",
+          "280",
+          "50"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "1,277",
+          "651",
+          "626",
+          "138"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TUMBISCATÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARUCHITA",
+          "1",
+          "9",
+          "1",
+          "8",
+          "2"
+        ],
+        [
+          "EL FRESNAL",
+          "1",
+          "14",
+          "4",
+          "10",
+          "2"
+        ],
+        [
+          "EL HUJE",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL NOPAL (LA NOPALERA)",
+          "1",
+          "7",
+          "6",
+          "1",
+          "2"
+        ],
+        [
+          "EL PEDREGOSO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PLATANAL",
+          "3",
+          "43",
+          "22",
+          "21",
+          "7"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA (LAS CRUCES)",
+          "5",
+          "312",
+          "162",
+          "150",
+          "30"
+        ],
+        [
+          "GRACIANO SÁNCHEZ (EL SOCORRO)",
+          "4",
+          "99",
+          "51",
+          "48",
+          "8"
+        ],
+        [
+          "LA CRUZ",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "LAS NUEVAS CARAMICUAS",
+          "3",
+          "40",
+          "22",
+          "18",
+          "6"
+        ],
+        [
+          "LAS PLAYITAS",
+          "4",
+          "84",
+          "50",
+          "34",
+          "14"
+        ],
+        [
+          "LOS CHIVOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "MATA DE PLÁTANO",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "POTRERILLOS DE CORIA (LA LOMA)",
+          "3",
+          "56",
+          "32",
+          "24",
+          "7"
+        ],
+        [
+          "SAN ANTONIO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SÁNCHEZ",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TIERRA DE BUEYES (TIERRA DE JUÁREZ)",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "TUMBISCATÍO DE RUIZ",
+          "5",
+          "559",
+          "279",
+          "280",
+          "50"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "1,277",
+          "651",
+          "626",
+          "138"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:23.237Z"
+}

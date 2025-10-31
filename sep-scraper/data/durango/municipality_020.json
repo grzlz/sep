@@ -1,0 +1,450 @@
+{
+  "municipality": "PÁNUCO DE CORONADO",
+  "municipalityCode": "020",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: PÁNUCO DE CORONADO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS (AGUINALDO)\n\t\t3\n\t\t133\n\t\t66\n\t\t67\n\t\t9\n\t\n\t\n\t\tDOCTOR FRANCISCO CASTILLO NÁJERA\n\t\t3\n\t\t56\n\t\t24\n\t\t32\n\t\t4\n\t\n\t\n\t\tENRIQUE CALDERÓN RODRÍGUEZ\n\t\t3\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t10\n\t\t1,245\n\t\t636\n\t\t609\n\t\t75\n\t\n\t\n\t\tFRANCISCO JAVIER MINA (CORRALEJO)\n\t\t4\n\t\t197\n\t\t103\n\t\t94\n\t\t18\n\t\n\t\n\t\tFRANCISCO RUEDA SERRANO\n\t\t3\n\t\t54\n\t\t23\n\t\t31\n\t\t6\n\t\n\t\n\t\tGENERAL ARTURO BERNAL\n\t\t4\n\t\t113\n\t\t59\n\t\t54\n\t\t9\n\t\n\t\n\t\tGENERAL IGNACIO ZARAGOZA\n\t\t3\n\t\t148\n\t\t80\n\t\t68\n\t\t12\n\t\n\t\n\t\tGENERAL LÁZARO CÁRDENAS\n\t\t3\n\t\t73\n\t\t35\n\t\t38\n\t\t7\n\t\n\t\n\t\tHERMENEGILDO GALEANA\n\t\t3\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tJOSÉ JERÓNIMO HERNÁNDEZ (PORFÍAS)\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tJOSÉ LIBRADO RIVERA\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t3\n\t\n\t\n\t\tLOS LOBOS\n\t\t3\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tPÁNUCO DE CORONADO\n\t\t4\n\t\t352\n\t\t172\n\t\t180\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ DE AVINO\n\t\t3\n\t\t201\n\t\t92\n\t\t109\n\t\t11\n\t\n\t\n\t\tVEINTIOCHO DE MAYO (SANTA RITA)\n\t\t4\n\t\t103\n\t\t46\n\t\t57\n\t\t9\n\t\n\t\n\t\tTOTAL\n\t\t57\n\t\t2,828\n\t\t1,409\n\t\t1,419\n\t\t198\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: PÁNUCO DE CORONADO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS (AGUINALDO)",
+          "3",
+          "133",
+          "66",
+          "67",
+          "9",
+          "DOCTOR FRANCISCO CASTILLO NÁJERA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4",
+          "ENRIQUE CALDERÓN RODRÍGUEZ",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3",
+          "FRANCISCO I. MADERO",
+          "10",
+          "1,245",
+          "636",
+          "609",
+          "75",
+          "FRANCISCO JAVIER MINA (CORRALEJO)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "18",
+          "FRANCISCO RUEDA SERRANO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "6",
+          "GENERAL ARTURO BERNAL",
+          "4",
+          "113",
+          "59",
+          "54",
+          "9",
+          "GENERAL IGNACIO ZARAGOZA",
+          "3",
+          "148",
+          "80",
+          "68",
+          "12",
+          "GENERAL LÁZARO CÁRDENAS",
+          "3",
+          "73",
+          "35",
+          "38",
+          "7",
+          "HERMENEGILDO GALEANA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3",
+          "JOSÉ JERÓNIMO HERNÁNDEZ (PORFÍAS)",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "JOSÉ LIBRADO RIVERA",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3",
+          "LOS LOBOS",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3",
+          "PÁNUCO DE CORONADO",
+          "4",
+          "352",
+          "172",
+          "180",
+          "24",
+          "SAN JOSÉ DE AVINO",
+          "3",
+          "201",
+          "92",
+          "109",
+          "11",
+          "VEINTIOCHO DE MAYO (SANTA RITA)",
+          "4",
+          "103",
+          "46",
+          "57",
+          "9",
+          "TOTAL",
+          "57",
+          "2,828",
+          "1,409",
+          "1,419",
+          "198",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: PÁNUCO DE CORONADO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (AGUINALDO)",
+          "3",
+          "133",
+          "66",
+          "67",
+          "9"
+        ],
+        [
+          "DOCTOR FRANCISCO CASTILLO NÁJERA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4"
+        ],
+        [
+          "ENRIQUE CALDERÓN RODRÍGUEZ",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "10",
+          "1,245",
+          "636",
+          "609",
+          "75"
+        ],
+        [
+          "FRANCISCO JAVIER MINA (CORRALEJO)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "18"
+        ],
+        [
+          "FRANCISCO RUEDA SERRANO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "6"
+        ],
+        [
+          "GENERAL ARTURO BERNAL",
+          "4",
+          "113",
+          "59",
+          "54",
+          "9"
+        ],
+        [
+          "GENERAL IGNACIO ZARAGOZA",
+          "3",
+          "148",
+          "80",
+          "68",
+          "12"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS",
+          "3",
+          "73",
+          "35",
+          "38",
+          "7"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "JOSÉ JERÓNIMO HERNÁNDEZ (PORFÍAS)",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "JOSÉ LIBRADO RIVERA",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "LOS LOBOS",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "PÁNUCO DE CORONADO",
+          "4",
+          "352",
+          "172",
+          "180",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE AVINO",
+          "3",
+          "201",
+          "92",
+          "109",
+          "11"
+        ],
+        [
+          "VEINTIOCHO DE MAYO (SANTA RITA)",
+          "4",
+          "103",
+          "46",
+          "57",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "2,828",
+          "1,409",
+          "1,419",
+          "198"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: PÁNUCO DE CORONADO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (AGUINALDO)",
+          "3",
+          "133",
+          "66",
+          "67",
+          "9"
+        ],
+        [
+          "DOCTOR FRANCISCO CASTILLO NÁJERA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4"
+        ],
+        [
+          "ENRIQUE CALDERÓN RODRÍGUEZ",
+          "3",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "10",
+          "1,245",
+          "636",
+          "609",
+          "75"
+        ],
+        [
+          "FRANCISCO JAVIER MINA (CORRALEJO)",
+          "4",
+          "197",
+          "103",
+          "94",
+          "18"
+        ],
+        [
+          "FRANCISCO RUEDA SERRANO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "6"
+        ],
+        [
+          "GENERAL ARTURO BERNAL",
+          "4",
+          "113",
+          "59",
+          "54",
+          "9"
+        ],
+        [
+          "GENERAL IGNACIO ZARAGOZA",
+          "3",
+          "148",
+          "80",
+          "68",
+          "12"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS",
+          "3",
+          "73",
+          "35",
+          "38",
+          "7"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "JOSÉ JERÓNIMO HERNÁNDEZ (PORFÍAS)",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "JOSÉ LIBRADO RIVERA",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "LOS LOBOS",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "PÁNUCO DE CORONADO",
+          "4",
+          "352",
+          "172",
+          "180",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE AVINO",
+          "3",
+          "201",
+          "92",
+          "109",
+          "11"
+        ],
+        [
+          "VEINTIOCHO DE MAYO (SANTA RITA)",
+          "4",
+          "103",
+          "46",
+          "57",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "2,828",
+          "1,409",
+          "1,419",
+          "198"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:04.688Z"
+}

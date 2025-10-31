@@ -1,0 +1,1110 @@
+{
+  "municipality": "MULEGÉ",
+  "municipalityCode": "002",
+  "state": "BAJA CALIFORNIA SUR",
+  "stateCode": "3",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCOMONDÚ\n\tLA PAZ\n\tLORETO\n\tLOS CABOS\n\tMULEGÉ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: MULEGÉ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁNGEL CÉSAR MENDOZA ARÁMBURO\n\t\t1\n\t\t181\n\t\t83\n\t\t98\n\t\t7\n\t\n\t\n\t\tBAHÍA ASUNCIÓN\n\t\t4\n\t\t359\n\t\t183\n\t\t176\n\t\t22\n\t\n\t\n\t\tBAHÍA TORTUGAS\n\t\t6\n\t\t613\n\t\t314\n\t\t299\n\t\t35\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t4\n\t\t114\n\t\t50\n\t\t64\n\t\t10\n\t\n\t\n\t\tCAMPO DELGADITO\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOLONIA NUEVA ESPERANZA\n\t\t3\n\t\t35\n\t\t13\n\t\t22\n\t\t5\n\t\n\t\n\t\tDON JUANITO\n\t\t1\n\t\t30\n\t\t17\n\t\t13\n\t\t2\n\t\n\t\n\t\tEJIDO LICENCIADO ALFREDO VLADIMIR BONFIL\n\t\t4\n\t\t74\n\t\t38\n\t\t36\n\t\t8\n\t\n\t\n\t\tEJIDO LUIS ECHEVERRÍA\n\t\t4\n\t\t177\n\t\t91\n\t\t86\n\t\t11\n\t\n\t\n\t\tEJIDO SAN LUCAS\n\t\t4\n\t\t196\n\t\t106\n\t\t90\n\t\t13\n\t\n\t\n\t\tEL CARDÓN\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL DÁTIL\n\t\t4\n\t\t62\n\t\t24\n\t\t38\n\t\t8\n\t\n\t\n\t\tEL PARAÍSO II\n\t\t2\n\t\t120\n\t\t48\n\t\t72\n\t\t8\n\t\n\t\n\t\tEL PATROCINIO\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL SILENCIO\n\t\t4\n\t\t249\n\t\t114\n\t\t135\n\t\t15\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t57\n\t\t26\n\t\t31\n\t\t5\n\t\n\t\n\t\tESTERO DE LA BOCANA\n\t\t2\n\t\t130\n\t\t68\n\t\t62\n\t\t8\n\t\n\t\n\t\tFRANCISCO J. MÚJICA\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tGUAMÚCHIL\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tGUERRERO NEGRO\n\t\t20\n\t\t2,990\n\t\t1,538\n\t\t1,452\n\t\t233\n\t\n\t\n\t\tGUSTAVO DÍAZ ORDAZ\n\t\t14\n\t\t1,057\n\t\t538\n\t\t519\n\t\t69\n\t\n\t\n\t\tHEROICA MULEGÉ\n\t\t12\n\t\t817\n\t\t393\n\t\t424\n\t\t58\n\t\n\t\n\t\tISLA NATIVIDAD\n\t\t3\n\t\t82\n\t\t42\n\t\t40\n\t\t5\n\t\n\t\n\t\tISLA SAN MARCOS\n\t\t4\n\t\t97\n\t\t51\n\t\t46\n\t\t6\n\t\n\t\n\t\tLA BANDERA\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA BOCANITA\n\t\t2\n\t\t138\n\t\t70\n\t\t68\n\t\t9\n\t\n\t\n\t\tLA NORIA\n\t\t1\n\t\t44\n\t\t26\n\t\t18\n\t\t3\n\t\n\t\n\t\tLAS TINAJITAS\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS PATOS\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tPALO VERDE\n\t\t3\n\t\t42\n\t\t23\n\t\t19\n\t\t4\n\t\n\t\n\t\tPUNTA ABREOJOS\n\t\t4\n\t\t202\n\t\t97\n\t\t105\n\t\t19\n\t\n\t\n\t\tPUNTA PRIETA\n\t\t3\n\t\t27\n\t\t12\n\t\t15\n\t\t4\n\t\n\t\n\t\tSAN BRUNO\n\t\t4\n\t\t152\n\t\t81\n\t\t71\n\t\t13\n\t\n\t\n\t\tSAN FRANCISCO DE LA SIERRA\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN GREGORIO\n\t\t2\n\t\t2\n\t\t2\n\t\t0\n\t\t1\n\t\n\t\n\t\tSAN GREGORITO\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN HIPÓLITO\n\t\t2\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN IGNACIO\n\t\t6\n\t\t240\n\t\t112\n\t\t128\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ DE MAGDALENA\n\t\t3\n\t\t22\n\t\t12\n\t\t10\n\t\t3\n\t\n\t\n\t\tSAN LINO\n\t\t1\n\t\t19\n\t\t9\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN PABLO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA ÁGUEDA\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tSANTA MARTHA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tSANTA ROSALÍA\n\t\t20\n\t\t3,514\n\t\t1,726\n\t\t1,788\n\t\t290\n\t\n\t\n\t\tSANTO TOMÁS\n\t\t2\n\t\t114\n\t\t60\n\t\t54\n\t\t8\n\t\n\t\n\t\tVILLA ALBERTO ANDRÉS ALVARADO ARÁMBURO\n\t\t17\n\t\t3,166\n\t\t1,578\n\t\t1,588\n\t\t166\n\t\n\t\n\t\tTOTAL\n\t\t187\n\t\t15,231\n\t\t7,597\n\t\t7,634\n\t\t1,090\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: MULEGÉ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁNGEL CÉSAR MENDOZA ARÁMBURO",
+          "1",
+          "181",
+          "83",
+          "98",
+          "7",
+          "BAHÍA ASUNCIÓN",
+          "4",
+          "359",
+          "183",
+          "176",
+          "22",
+          "BAHÍA TORTUGAS",
+          "6",
+          "613",
+          "314",
+          "299",
+          "35",
+          "BENITO JUÁREZ",
+          "4",
+          "114",
+          "50",
+          "64",
+          "10",
+          "CAMPO DELGADITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "COLONIA NUEVA ESPERANZA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "5",
+          "DON JUANITO",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2",
+          "EJIDO LICENCIADO ALFREDO VLADIMIR BONFIL",
+          "4",
+          "74",
+          "38",
+          "36",
+          "8",
+          "EJIDO LUIS ECHEVERRÍA",
+          "4",
+          "177",
+          "91",
+          "86",
+          "11",
+          "EJIDO SAN LUCAS",
+          "4",
+          "196",
+          "106",
+          "90",
+          "13",
+          "EL CARDÓN",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL DÁTIL",
+          "4",
+          "62",
+          "24",
+          "38",
+          "8",
+          "EL PARAÍSO II",
+          "2",
+          "120",
+          "48",
+          "72",
+          "8",
+          "EL PATROCINIO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL SILENCIO",
+          "4",
+          "249",
+          "114",
+          "135",
+          "15",
+          "EMILIANO ZAPATA",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5",
+          "ESTERO DE LA BOCANA",
+          "2",
+          "130",
+          "68",
+          "62",
+          "8",
+          "FRANCISCO J. MÚJICA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "GUAMÚCHIL",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "GUERRERO NEGRO",
+          "20",
+          "2,990",
+          "1,538",
+          "1,452",
+          "233",
+          "GUSTAVO DÍAZ ORDAZ",
+          "14",
+          "1,057",
+          "538",
+          "519",
+          "69",
+          "HEROICA MULEGÉ",
+          "12",
+          "817",
+          "393",
+          "424",
+          "58",
+          "ISLA NATIVIDAD",
+          "3",
+          "82",
+          "42",
+          "40",
+          "5",
+          "ISLA SAN MARCOS",
+          "4",
+          "97",
+          "51",
+          "46",
+          "6",
+          "LA BANDERA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "LA BOCANITA",
+          "2",
+          "138",
+          "70",
+          "68",
+          "9",
+          "LA NORIA",
+          "1",
+          "44",
+          "26",
+          "18",
+          "3",
+          "LAS TINAJITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LOS PATOS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "PALO VERDE",
+          "3",
+          "42",
+          "23",
+          "19",
+          "4",
+          "PUNTA ABREOJOS",
+          "4",
+          "202",
+          "97",
+          "105",
+          "19",
+          "PUNTA PRIETA",
+          "3",
+          "27",
+          "12",
+          "15",
+          "4",
+          "SAN BRUNO",
+          "4",
+          "152",
+          "81",
+          "71",
+          "13",
+          "SAN FRANCISCO DE LA SIERRA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "SAN GREGORIO",
+          "2",
+          "2",
+          "2",
+          "0",
+          "1",
+          "SAN GREGORITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "SAN HIPÓLITO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2",
+          "SAN IGNACIO",
+          "6",
+          "240",
+          "112",
+          "128",
+          "24",
+          "SAN JOSÉ DE MAGDALENA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3",
+          "SAN LINO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1",
+          "SAN PABLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "SANTA ÁGUEDA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "SANTA MARTHA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "SANTA ROSALÍA",
+          "20",
+          "3,514",
+          "1,726",
+          "1,788",
+          "290",
+          "SANTO TOMÁS",
+          "2",
+          "114",
+          "60",
+          "54",
+          "8",
+          "VILLA ALBERTO ANDRÉS ALVARADO ARÁMBURO",
+          "17",
+          "3,166",
+          "1,578",
+          "1,588",
+          "166",
+          "TOTAL",
+          "187",
+          "15,231",
+          "7,597",
+          "7,634",
+          "1,090",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: MULEGÉ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁNGEL CÉSAR MENDOZA ARÁMBURO",
+          "1",
+          "181",
+          "83",
+          "98",
+          "7"
+        ],
+        [
+          "BAHÍA ASUNCIÓN",
+          "4",
+          "359",
+          "183",
+          "176",
+          "22"
+        ],
+        [
+          "BAHÍA TORTUGAS",
+          "6",
+          "613",
+          "314",
+          "299",
+          "35"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "114",
+          "50",
+          "64",
+          "10"
+        ],
+        [
+          "CAMPO DELGADITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA NUEVA ESPERANZA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "5"
+        ],
+        [
+          "DON JUANITO",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "EJIDO LICENCIADO ALFREDO VLADIMIR BONFIL",
+          "4",
+          "74",
+          "38",
+          "36",
+          "8"
+        ],
+        [
+          "EJIDO LUIS ECHEVERRÍA",
+          "4",
+          "177",
+          "91",
+          "86",
+          "11"
+        ],
+        [
+          "EJIDO SAN LUCAS",
+          "4",
+          "196",
+          "106",
+          "90",
+          "13"
+        ],
+        [
+          "EL CARDÓN",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL DÁTIL",
+          "4",
+          "62",
+          "24",
+          "38",
+          "8"
+        ],
+        [
+          "EL PARAÍSO II",
+          "2",
+          "120",
+          "48",
+          "72",
+          "8"
+        ],
+        [
+          "EL PATROCINIO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL SILENCIO",
+          "4",
+          "249",
+          "114",
+          "135",
+          "15"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5"
+        ],
+        [
+          "ESTERO DE LA BOCANA",
+          "2",
+          "130",
+          "68",
+          "62",
+          "8"
+        ],
+        [
+          "FRANCISCO J. MÚJICA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "GUAMÚCHIL",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "GUERRERO NEGRO",
+          "20",
+          "2,990",
+          "1,538",
+          "1,452",
+          "233"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "14",
+          "1,057",
+          "538",
+          "519",
+          "69"
+        ],
+        [
+          "HEROICA MULEGÉ",
+          "12",
+          "817",
+          "393",
+          "424",
+          "58"
+        ],
+        [
+          "ISLA NATIVIDAD",
+          "3",
+          "82",
+          "42",
+          "40",
+          "5"
+        ],
+        [
+          "ISLA SAN MARCOS",
+          "4",
+          "97",
+          "51",
+          "46",
+          "6"
+        ],
+        [
+          "LA BANDERA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA BOCANITA",
+          "2",
+          "138",
+          "70",
+          "68",
+          "9"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "LAS TINAJITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS PATOS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "PALO VERDE",
+          "3",
+          "42",
+          "23",
+          "19",
+          "4"
+        ],
+        [
+          "PUNTA ABREOJOS",
+          "4",
+          "202",
+          "97",
+          "105",
+          "19"
+        ],
+        [
+          "PUNTA PRIETA",
+          "3",
+          "27",
+          "12",
+          "15",
+          "4"
+        ],
+        [
+          "SAN BRUNO",
+          "4",
+          "152",
+          "81",
+          "71",
+          "13"
+        ],
+        [
+          "SAN FRANCISCO DE LA SIERRA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "SAN GREGORITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "SAN HIPÓLITO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "SAN IGNACIO",
+          "6",
+          "240",
+          "112",
+          "128",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE MAGDALENA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "SAN LINO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "SAN PABLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA ÁGUEDA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SANTA MARTHA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA ROSALÍA",
+          "20",
+          "3,514",
+          "1,726",
+          "1,788",
+          "290"
+        ],
+        [
+          "SANTO TOMÁS",
+          "2",
+          "114",
+          "60",
+          "54",
+          "8"
+        ],
+        [
+          "VILLA ALBERTO ANDRÉS ALVARADO ARÁMBURO",
+          "17",
+          "3,166",
+          "1,578",
+          "1,588",
+          "166"
+        ],
+        [
+          "TOTAL",
+          "187",
+          "15,231",
+          "7,597",
+          "7,634",
+          "1,090"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: MULEGÉ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁNGEL CÉSAR MENDOZA ARÁMBURO",
+          "1",
+          "181",
+          "83",
+          "98",
+          "7"
+        ],
+        [
+          "BAHÍA ASUNCIÓN",
+          "4",
+          "359",
+          "183",
+          "176",
+          "22"
+        ],
+        [
+          "BAHÍA TORTUGAS",
+          "6",
+          "613",
+          "314",
+          "299",
+          "35"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "114",
+          "50",
+          "64",
+          "10"
+        ],
+        [
+          "CAMPO DELGADITO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA NUEVA ESPERANZA",
+          "3",
+          "35",
+          "13",
+          "22",
+          "5"
+        ],
+        [
+          "DON JUANITO",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "EJIDO LICENCIADO ALFREDO VLADIMIR BONFIL",
+          "4",
+          "74",
+          "38",
+          "36",
+          "8"
+        ],
+        [
+          "EJIDO LUIS ECHEVERRÍA",
+          "4",
+          "177",
+          "91",
+          "86",
+          "11"
+        ],
+        [
+          "EJIDO SAN LUCAS",
+          "4",
+          "196",
+          "106",
+          "90",
+          "13"
+        ],
+        [
+          "EL CARDÓN",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL DÁTIL",
+          "4",
+          "62",
+          "24",
+          "38",
+          "8"
+        ],
+        [
+          "EL PARAÍSO II",
+          "2",
+          "120",
+          "48",
+          "72",
+          "8"
+        ],
+        [
+          "EL PATROCINIO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL SILENCIO",
+          "4",
+          "249",
+          "114",
+          "135",
+          "15"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5"
+        ],
+        [
+          "ESTERO DE LA BOCANA",
+          "2",
+          "130",
+          "68",
+          "62",
+          "8"
+        ],
+        [
+          "FRANCISCO J. MÚJICA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "GUAMÚCHIL",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "GUERRERO NEGRO",
+          "20",
+          "2,990",
+          "1,538",
+          "1,452",
+          "233"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "14",
+          "1,057",
+          "538",
+          "519",
+          "69"
+        ],
+        [
+          "HEROICA MULEGÉ",
+          "12",
+          "817",
+          "393",
+          "424",
+          "58"
+        ],
+        [
+          "ISLA NATIVIDAD",
+          "3",
+          "82",
+          "42",
+          "40",
+          "5"
+        ],
+        [
+          "ISLA SAN MARCOS",
+          "4",
+          "97",
+          "51",
+          "46",
+          "6"
+        ],
+        [
+          "LA BANDERA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA BOCANITA",
+          "2",
+          "138",
+          "70",
+          "68",
+          "9"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "LAS TINAJITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LOS PATOS",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "PALO VERDE",
+          "3",
+          "42",
+          "23",
+          "19",
+          "4"
+        ],
+        [
+          "PUNTA ABREOJOS",
+          "4",
+          "202",
+          "97",
+          "105",
+          "19"
+        ],
+        [
+          "PUNTA PRIETA",
+          "3",
+          "27",
+          "12",
+          "15",
+          "4"
+        ],
+        [
+          "SAN BRUNO",
+          "4",
+          "152",
+          "81",
+          "71",
+          "13"
+        ],
+        [
+          "SAN FRANCISCO DE LA SIERRA",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "SAN GREGORITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "SAN HIPÓLITO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "SAN IGNACIO",
+          "6",
+          "240",
+          "112",
+          "128",
+          "24"
+        ],
+        [
+          "SAN JOSÉ DE MAGDALENA",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "SAN LINO",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "SAN PABLO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA ÁGUEDA",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SANTA MARTHA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SANTA ROSALÍA",
+          "20",
+          "3,514",
+          "1,726",
+          "1,788",
+          "290"
+        ],
+        [
+          "SANTO TOMÁS",
+          "2",
+          "114",
+          "60",
+          "54",
+          "8"
+        ],
+        [
+          "VILLA ALBERTO ANDRÉS ALVARADO ARÁMBURO",
+          "17",
+          "3,166",
+          "1,578",
+          "1,588",
+          "166"
+        ],
+        [
+          "TOTAL",
+          "187",
+          "15,231",
+          "7,597",
+          "7,634",
+          "1,090"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:58.654Z"
+}

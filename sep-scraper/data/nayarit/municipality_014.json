@@ -1,0 +1,736 @@
+{
+  "municipality": "SANTA MARÍA DEL ORO",
+  "municipalityCode": "014",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SANTA MARÍA DEL ORO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBUCKINGHAM\n\t\t3\n\t\t117\n\t\t51\n\t\t66\n\t\t7\n\t\n\t\n\t\tCERRO BLANCO\n\t\t7\n\t\t191\n\t\t89\n\t\t102\n\t\t12\n\t\n\t\n\t\tCHAPALILLA\n\t\t4\n\t\t251\n\t\t116\n\t\t135\n\t\t14\n\t\n\t\n\t\tCOFRADÍA DE ACUITAPILCO\n\t\t3\n\t\t99\n\t\t48\n\t\t51\n\t\t6\n\t\n\t\n\t\tCOLONIA EL AHUALAMO\n\t\t3\n\t\t305\n\t\t162\n\t\t143\n\t\t16\n\t\n\t\n\t\tCOLONIA MODERNA\n\t\t5\n\t\t295\n\t\t156\n\t\t139\n\t\t20\n\t\n\t\n\t\tEL BURUATO\n\t\t4\n\t\t135\n\t\t65\n\t\t70\n\t\t8\n\t\n\t\n\t\tEL CARACOL\n\t\t3\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL ERMITAÑO\n\t\t3\n\t\t59\n\t\t29\n\t\t30\n\t\t5\n\t\n\t\n\t\tEL GUANACASTE\n\t\t3\n\t\t49\n\t\t22\n\t\t27\n\t\t4\n\t\n\t\n\t\tEL LIMÓN\n\t\t3\n\t\t130\n\t\t55\n\t\t75\n\t\t8\n\t\n\t\n\t\tEL OCOTILLO\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA ESTANZUELA\n\t\t3\n\t\t28\n\t\t13\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA GALINDA\n\t\t3\n\t\t32\n\t\t11\n\t\t21\n\t\t3\n\t\n\t\n\t\tLA LABOR\n\t\t6\n\t\t692\n\t\t327\n\t\t365\n\t\t66\n\t\n\t\n\t\tLA LAGUNA\n\t\t3\n\t\t46\n\t\t21\n\t\t25\n\t\t5\n\t\n\t\n\t\tLA MESA DE LAS YEGUAS\n\t\t3\n\t\t48\n\t\t20\n\t\t28\n\t\t3\n\t\n\t\n\t\tLAS CUEVAS\n\t\t3\n\t\t105\n\t\t49\n\t\t56\n\t\t7\n\t\n\t\n\t\tLAS MESITAS\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tLOS GUAJES\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tMIGUEL HIDALGO\n\t\t1\n\t\t23\n\t\t13\n\t\t10\n\t\t1\n\t\n\t\n\t\tPLATANITOS\n\t\t1\n\t\t22\n\t\t11\n\t\t11\n\t\t1\n\t\n\t\n\t\tREAL DE ACUITAPILCO (ESTEBAN BACA CALDERÓN)\n\t\t4\n\t\t141\n\t\t70\n\t\t71\n\t\t11\n\t\n\t\n\t\tRINCÓN DE CALIMAYO\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE MOJARRAS\n\t\t4\n\t\t385\n\t\t212\n\t\t173\n\t\t37\n\t\n\t\n\t\tSAN LEONEL\n\t\t3\n\t\t132\n\t\t70\n\t\t62\n\t\t8\n\t\n\t\n\t\tSANTA MARÍA DEL ORO\n\t\t11\n\t\t1,602\n\t\t812\n\t\t790\n\t\t119\n\t\n\t\n\t\tTEQUEPEXPAN\n\t\t4\n\t\t345\n\t\t178\n\t\t167\n\t\t18\n\t\n\t\n\t\tZAPOTANITO\n\t\t3\n\t\t191\n\t\t94\n\t\t97\n\t\t13\n\t\n\t\n\t\tTOTAL\n\t\t100\n\t\t5,497\n\t\t2,729\n\t\t2,768\n\t\t404\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SANTA MARÍA DEL ORO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BUCKINGHAM",
+          "3",
+          "117",
+          "51",
+          "66",
+          "7",
+          "CERRO BLANCO",
+          "7",
+          "191",
+          "89",
+          "102",
+          "12",
+          "CHAPALILLA",
+          "4",
+          "251",
+          "116",
+          "135",
+          "14",
+          "COFRADÍA DE ACUITAPILCO",
+          "3",
+          "99",
+          "48",
+          "51",
+          "6",
+          "COLONIA EL AHUALAMO",
+          "3",
+          "305",
+          "162",
+          "143",
+          "16",
+          "COLONIA MODERNA",
+          "5",
+          "295",
+          "156",
+          "139",
+          "20",
+          "EL BURUATO",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8",
+          "EL CARACOL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3",
+          "EL ERMITAÑO",
+          "3",
+          "59",
+          "29",
+          "30",
+          "5",
+          "EL GUANACASTE",
+          "3",
+          "49",
+          "22",
+          "27",
+          "4",
+          "EL LIMÓN",
+          "3",
+          "130",
+          "55",
+          "75",
+          "8",
+          "EL OCOTILLO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "LA ESTANZUELA",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3",
+          "LA GALINDA",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3",
+          "LA LABOR",
+          "6",
+          "692",
+          "327",
+          "365",
+          "66",
+          "LA LAGUNA",
+          "3",
+          "46",
+          "21",
+          "25",
+          "5",
+          "LA MESA DE LAS YEGUAS",
+          "3",
+          "48",
+          "20",
+          "28",
+          "3",
+          "LAS CUEVAS",
+          "3",
+          "105",
+          "49",
+          "56",
+          "7",
+          "LAS MESITAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "LOS GUAJES",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1",
+          "MIGUEL HIDALGO",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1",
+          "PLATANITOS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1",
+          "REAL DE ACUITAPILCO (ESTEBAN BACA CALDERÓN)",
+          "4",
+          "141",
+          "70",
+          "71",
+          "11",
+          "RINCÓN DE CALIMAYO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "SAN JOSÉ DE MOJARRAS",
+          "4",
+          "385",
+          "212",
+          "173",
+          "37",
+          "SAN LEONEL",
+          "3",
+          "132",
+          "70",
+          "62",
+          "8",
+          "SANTA MARÍA DEL ORO",
+          "11",
+          "1,602",
+          "812",
+          "790",
+          "119",
+          "TEQUEPEXPAN",
+          "4",
+          "345",
+          "178",
+          "167",
+          "18",
+          "ZAPOTANITO",
+          "3",
+          "191",
+          "94",
+          "97",
+          "13",
+          "TOTAL",
+          "100",
+          "5,497",
+          "2,729",
+          "2,768",
+          "404",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SANTA MARÍA DEL ORO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUCKINGHAM",
+          "3",
+          "117",
+          "51",
+          "66",
+          "7"
+        ],
+        [
+          "CERRO BLANCO",
+          "7",
+          "191",
+          "89",
+          "102",
+          "12"
+        ],
+        [
+          "CHAPALILLA",
+          "4",
+          "251",
+          "116",
+          "135",
+          "14"
+        ],
+        [
+          "COFRADÍA DE ACUITAPILCO",
+          "3",
+          "99",
+          "48",
+          "51",
+          "6"
+        ],
+        [
+          "COLONIA EL AHUALAMO",
+          "3",
+          "305",
+          "162",
+          "143",
+          "16"
+        ],
+        [
+          "COLONIA MODERNA",
+          "5",
+          "295",
+          "156",
+          "139",
+          "20"
+        ],
+        [
+          "EL BURUATO",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8"
+        ],
+        [
+          "EL CARACOL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "EL ERMITAÑO",
+          "3",
+          "59",
+          "29",
+          "30",
+          "5"
+        ],
+        [
+          "EL GUANACASTE",
+          "3",
+          "49",
+          "22",
+          "27",
+          "4"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "130",
+          "55",
+          "75",
+          "8"
+        ],
+        [
+          "EL OCOTILLO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LA ESTANZUELA",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "LA GALINDA",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "LA LABOR",
+          "6",
+          "692",
+          "327",
+          "365",
+          "66"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "46",
+          "21",
+          "25",
+          "5"
+        ],
+        [
+          "LA MESA DE LAS YEGUAS",
+          "3",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "LAS CUEVAS",
+          "3",
+          "105",
+          "49",
+          "56",
+          "7"
+        ],
+        [
+          "LAS MESITAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LOS GUAJES",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1"
+        ],
+        [
+          "PLATANITOS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "REAL DE ACUITAPILCO (ESTEBAN BACA CALDERÓN)",
+          "4",
+          "141",
+          "70",
+          "71",
+          "11"
+        ],
+        [
+          "RINCÓN DE CALIMAYO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE MOJARRAS",
+          "4",
+          "385",
+          "212",
+          "173",
+          "37"
+        ],
+        [
+          "SAN LEONEL",
+          "3",
+          "132",
+          "70",
+          "62",
+          "8"
+        ],
+        [
+          "SANTA MARÍA DEL ORO",
+          "11",
+          "1,602",
+          "812",
+          "790",
+          "119"
+        ],
+        [
+          "TEQUEPEXPAN",
+          "4",
+          "345",
+          "178",
+          "167",
+          "18"
+        ],
+        [
+          "ZAPOTANITO",
+          "3",
+          "191",
+          "94",
+          "97",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "5,497",
+          "2,729",
+          "2,768",
+          "404"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SANTA MARÍA DEL ORO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUCKINGHAM",
+          "3",
+          "117",
+          "51",
+          "66",
+          "7"
+        ],
+        [
+          "CERRO BLANCO",
+          "7",
+          "191",
+          "89",
+          "102",
+          "12"
+        ],
+        [
+          "CHAPALILLA",
+          "4",
+          "251",
+          "116",
+          "135",
+          "14"
+        ],
+        [
+          "COFRADÍA DE ACUITAPILCO",
+          "3",
+          "99",
+          "48",
+          "51",
+          "6"
+        ],
+        [
+          "COLONIA EL AHUALAMO",
+          "3",
+          "305",
+          "162",
+          "143",
+          "16"
+        ],
+        [
+          "COLONIA MODERNA",
+          "5",
+          "295",
+          "156",
+          "139",
+          "20"
+        ],
+        [
+          "EL BURUATO",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8"
+        ],
+        [
+          "EL CARACOL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "EL ERMITAÑO",
+          "3",
+          "59",
+          "29",
+          "30",
+          "5"
+        ],
+        [
+          "EL GUANACASTE",
+          "3",
+          "49",
+          "22",
+          "27",
+          "4"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "130",
+          "55",
+          "75",
+          "8"
+        ],
+        [
+          "EL OCOTILLO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "LA ESTANZUELA",
+          "3",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "LA GALINDA",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "LA LABOR",
+          "6",
+          "692",
+          "327",
+          "365",
+          "66"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "46",
+          "21",
+          "25",
+          "5"
+        ],
+        [
+          "LA MESA DE LAS YEGUAS",
+          "3",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "LAS CUEVAS",
+          "3",
+          "105",
+          "49",
+          "56",
+          "7"
+        ],
+        [
+          "LAS MESITAS",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LOS GUAJES",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "1",
+          "23",
+          "13",
+          "10",
+          "1"
+        ],
+        [
+          "PLATANITOS",
+          "1",
+          "22",
+          "11",
+          "11",
+          "1"
+        ],
+        [
+          "REAL DE ACUITAPILCO (ESTEBAN BACA CALDERÓN)",
+          "4",
+          "141",
+          "70",
+          "71",
+          "11"
+        ],
+        [
+          "RINCÓN DE CALIMAYO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE MOJARRAS",
+          "4",
+          "385",
+          "212",
+          "173",
+          "37"
+        ],
+        [
+          "SAN LEONEL",
+          "3",
+          "132",
+          "70",
+          "62",
+          "8"
+        ],
+        [
+          "SANTA MARÍA DEL ORO",
+          "11",
+          "1,602",
+          "812",
+          "790",
+          "119"
+        ],
+        [
+          "TEQUEPEXPAN",
+          "4",
+          "345",
+          "178",
+          "167",
+          "18"
+        ],
+        [
+          "ZAPOTANITO",
+          "3",
+          "191",
+          "94",
+          "97",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "5,497",
+          "2,729",
+          "2,768",
+          "404"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:22.589Z"
+}

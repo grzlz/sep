@@ -1,0 +1,428 @@
+{
+  "municipality": "MEOQUI",
+  "municipalityCode": "045",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MEOQUI\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA FELIPE ÁNGELES\n\t\t5\n\t\t367\n\t\t188\n\t\t179\n\t\t21\n\t\n\t\n\t\tCOLONIA FRANCISCO PORTILLO (LOS JÁQUEZ)\n\t\t2\n\t\t57\n\t\t28\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL TORREÓN\n\t\t2\n\t\t100\n\t\t50\n\t\t50\n\t\t5\n\t\n\t\n\t\tESTACIÓN CONSUELO\n\t\t5\n\t\t527\n\t\t257\n\t\t270\n\t\t26\n\t\n\t\n\t\tGRAN MORELOS (LOS CISNEROS)\n\t\t1\n\t\t30\n\t\t17\n\t\t13\n\t\t2\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t4\n\t\t406\n\t\t196\n\t\t210\n\t\t20\n\t\n\t\n\t\tLAS PUENTES\n\t\t2\n\t\t152\n\t\t78\n\t\t74\n\t\t8\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t14\n\t\t2,380\n\t\t1,214\n\t\t1,166\n\t\t107\n\t\n\t\n\t\tLOMAS DEL CONSUELO\n\t\t1\n\t\t16\n\t\t6\n\t\t10\n\t\t1\n\t\n\t\n\t\tLORETO\n\t\t2\n\t\t124\n\t\t57\n\t\t67\n\t\t7\n\t\n\t\n\t\tLOS GARCÍA\n\t\t2\n\t\t120\n\t\t65\n\t\t55\n\t\t7\n\t\n\t\n\t\tNUEVO LORETO\n\t\t1\n\t\t62\n\t\t29\n\t\t33\n\t\t4\n\t\n\t\n\t\tNUEVO SAN LUCAS\n\t\t2\n\t\t192\n\t\t100\n\t\t92\n\t\t8\n\t\n\t\n\t\tPEDRO MEOQUI\n\t\t32\n\t\t5,358\n\t\t2,707\n\t\t2,651\n\t\t317\n\t\n\t\n\t\tPOTRERO DEL LLANO\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t77\n\t\t9,920\n\t\t5,008\n\t\t4,912\n\t\t539\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MEOQUI",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA FELIPE ÁNGELES",
+          "5",
+          "367",
+          "188",
+          "179",
+          "21",
+          "COLONIA FRANCISCO PORTILLO (LOS JÁQUEZ)",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3",
+          "EL TORREÓN",
+          "2",
+          "100",
+          "50",
+          "50",
+          "5",
+          "ESTACIÓN CONSUELO",
+          "5",
+          "527",
+          "257",
+          "270",
+          "26",
+          "GRAN MORELOS (LOS CISNEROS)",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2",
+          "GUADALUPE VICTORIA",
+          "4",
+          "406",
+          "196",
+          "210",
+          "20",
+          "LAS PUENTES",
+          "2",
+          "152",
+          "78",
+          "74",
+          "8",
+          "LÁZARO CÁRDENAS",
+          "14",
+          "2,380",
+          "1,214",
+          "1,166",
+          "107",
+          "LOMAS DEL CONSUELO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1",
+          "LORETO",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7",
+          "LOS GARCÍA",
+          "2",
+          "120",
+          "65",
+          "55",
+          "7",
+          "NUEVO LORETO",
+          "1",
+          "62",
+          "29",
+          "33",
+          "4",
+          "NUEVO SAN LUCAS",
+          "2",
+          "192",
+          "100",
+          "92",
+          "8",
+          "PEDRO MEOQUI",
+          "32",
+          "5,358",
+          "2,707",
+          "2,651",
+          "317",
+          "POTRERO DEL LLANO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3",
+          "TOTAL",
+          "77",
+          "9,920",
+          "5,008",
+          "4,912",
+          "539",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MEOQUI"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA FELIPE ÁNGELES",
+          "5",
+          "367",
+          "188",
+          "179",
+          "21"
+        ],
+        [
+          "COLONIA FRANCISCO PORTILLO (LOS JÁQUEZ)",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3"
+        ],
+        [
+          "EL TORREÓN",
+          "2",
+          "100",
+          "50",
+          "50",
+          "5"
+        ],
+        [
+          "ESTACIÓN CONSUELO",
+          "5",
+          "527",
+          "257",
+          "270",
+          "26"
+        ],
+        [
+          "GRAN MORELOS (LOS CISNEROS)",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "4",
+          "406",
+          "196",
+          "210",
+          "20"
+        ],
+        [
+          "LAS PUENTES",
+          "2",
+          "152",
+          "78",
+          "74",
+          "8"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "14",
+          "2,380",
+          "1,214",
+          "1,166",
+          "107"
+        ],
+        [
+          "LOMAS DEL CONSUELO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "LORETO",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7"
+        ],
+        [
+          "LOS GARCÍA",
+          "2",
+          "120",
+          "65",
+          "55",
+          "7"
+        ],
+        [
+          "NUEVO LORETO",
+          "1",
+          "62",
+          "29",
+          "33",
+          "4"
+        ],
+        [
+          "NUEVO SAN LUCAS",
+          "2",
+          "192",
+          "100",
+          "92",
+          "8"
+        ],
+        [
+          "PEDRO MEOQUI",
+          "32",
+          "5,358",
+          "2,707",
+          "2,651",
+          "317"
+        ],
+        [
+          "POTRERO DEL LLANO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "9,920",
+          "5,008",
+          "4,912",
+          "539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: MEOQUI"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA FELIPE ÁNGELES",
+          "5",
+          "367",
+          "188",
+          "179",
+          "21"
+        ],
+        [
+          "COLONIA FRANCISCO PORTILLO (LOS JÁQUEZ)",
+          "2",
+          "57",
+          "28",
+          "29",
+          "3"
+        ],
+        [
+          "EL TORREÓN",
+          "2",
+          "100",
+          "50",
+          "50",
+          "5"
+        ],
+        [
+          "ESTACIÓN CONSUELO",
+          "5",
+          "527",
+          "257",
+          "270",
+          "26"
+        ],
+        [
+          "GRAN MORELOS (LOS CISNEROS)",
+          "1",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "4",
+          "406",
+          "196",
+          "210",
+          "20"
+        ],
+        [
+          "LAS PUENTES",
+          "2",
+          "152",
+          "78",
+          "74",
+          "8"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "14",
+          "2,380",
+          "1,214",
+          "1,166",
+          "107"
+        ],
+        [
+          "LOMAS DEL CONSUELO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "LORETO",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7"
+        ],
+        [
+          "LOS GARCÍA",
+          "2",
+          "120",
+          "65",
+          "55",
+          "7"
+        ],
+        [
+          "NUEVO LORETO",
+          "1",
+          "62",
+          "29",
+          "33",
+          "4"
+        ],
+        [
+          "NUEVO SAN LUCAS",
+          "2",
+          "192",
+          "100",
+          "92",
+          "8"
+        ],
+        [
+          "PEDRO MEOQUI",
+          "32",
+          "5,358",
+          "2,707",
+          "2,651",
+          "317"
+        ],
+        [
+          "POTRERO DEL LLANO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "9,920",
+          "5,008",
+          "4,912",
+          "539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:12.945Z"
+}

@@ -1,0 +1,604 @@
+{
+  "municipality": "METEPEC",
+  "municipalityCode": "035",
+  "state": "HIDALGO",
+  "stateCode": "13",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATLÁN\n\tACAXOCHITLÁN\n\tACTOPAN\n\tAGUA BLANCA DE ITURBIDE\n\tAJACUBA\n\tALFAJAYUCAN\n\tALMOLOYA\n\tAPAN\n\tATITALAQUIA\n\tATLAPEXCO\n\tATOTONILCO DE TULA\n\tATOTONILCO EL GRANDE\n\tCALNALI\n\tCARDONAL\n\tCHAPANTONGO\n\tCHAPULHUACÁN\n\tCHILCUAUTLA\n\tCUAUTEPEC DE HINOJOSA\n\tEL ARENAL\n\tELOXOCHITLÁN\n\tEMILIANO ZAPATA\n\tEPAZOYUCAN\n\tFRANCISCO I. MADERO\n\tHUASCA DE OCAMPO\n\tHUAUTLA\n\tHUAZALINGO\n\tHUEHUETLA\n\tHUEJUTLA DE REYES\n\tHUICHAPAN\n\tIXMIQUILPAN\n\tJACALA DE LEDEZMA\n\tJALTOCÁN\n\tJUÁREZ HIDALGO\n\tLA MISIÓN\n\tLOLOTLA\n\tMETEPEC\n\tMETZTITLÁN\n\tMINERAL DE LA REFORMA\n\tMINERAL DEL CHICO\n\tMINERAL DEL MONTE\n\tMIXQUIAHUALA DE JUÁREZ\n\tMOLANGO DE ESCAMILLA\n\tNICOLÁS FLORES\n\tNOPALA DE VILLAGRÁN\n\tOMITLÁN DE JUÁREZ\n\tPACHUCA DE SOTO\n\tPACULA\n\tPISAFLORES\n\tPROGRESO DE OBREGÓN\n\tSAN AGUSTÍN METZQUITITLÁN\n\tSAN AGUSTÍN TLAXIACA\n\tSAN BARTOLO TUTOTEPEC\n\tSAN FELIPE ORIZATLÁN\n\tSAN SALVADOR\n\tSANTIAGO DE ANAYA\n\tSANTIAGO TULANTEPEC DE LUGO GUERRERO\n\tSINGUILUCAN\n\tTASQUILLO\n\tTECOZAUTLA\n\tTENANGO DE DORIA\n\tTEPEAPULCO\n\tTEPEHUACÁN DE GUERRERO\n\tTEPEJI DEL RÍO DE OCAMPO\n\tTEPETITLÁN\n\tTETEPANGO\n\tTEZONTEPEC DE ALDAMA\n\tTIANGUISTENGO\n\tTIZAYUCA\n\tTLAHUELILPAN\n\tTLAHUILTEPA\n\tTLANALAPA\n\tTLANCHINOL\n\tTLAXCOAPAN\n\tTOLCAYUCA\n\tTULA DE ALLENDE\n\tTULANCINGO DE BRAVO\n\tVILLA DE TEZONTEPEC\n\tXOCHIATIPAN\n\tXOCHICOATLÁN\n\tYAHUALICA\n\tZACUALTIPÁN DE ÁNGELES\n\tZAPOTLÁN DE JUÁREZ\n\tZEMPOALA\n\tZIMAPÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: METEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACOCUL CEBOLLETAS\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tATLIXTACA\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tCAÑADA DE FLORES\n\t\t3\n\t\t70\n\t\t29\n\t\t41\n\t\t6\n\t\n\t\n\t\tCOLONIA NUEVA EX-HACIENDA DE APULCO\n\t\t1\n\t\t23\n\t\t9\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL ACOCUL\n\t\t3\n\t\t164\n\t\t89\n\t\t75\n\t\t11\n\t\n\t\n\t\tEL CASCO\n\t\t2\n\t\t156\n\t\t72\n\t\t84\n\t\t8\n\t\n\t\n\t\tEL SABINO\n\t\t1\n\t\t11\n\t\t2\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL SABINO PARTE ALTA\n\t\t1\n\t\t38\n\t\t25\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL VESUBIO\n\t\t2\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tESTACIÓN DE APULCO\n\t\t4\n\t\t1,135\n\t\t602\n\t\t533\n\t\t76\n\t\n\t\n\t\tFERRERÍA DE APULCO\n\t\t2\n\t\t58\n\t\t37\n\t\t21\n\t\t4\n\t\n\t\n\t\tIGNACIO ZARAGOZA [COLONIA]\n\t\t2\n\t\t75\n\t\t31\n\t\t44\n\t\t3\n\t\n\t\n\t\tLA BOMBA\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA LOMA DE METEPEC\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA VICTORIA\n\t\t3\n\t\t179\n\t\t97\n\t\t82\n\t\t10\n\t\n\t\n\t\tMAJADILLAS (LOMA BONITA)\n\t\t4\n\t\t166\n\t\t90\n\t\t76\n\t\t13\n\t\n\t\n\t\tMETEPEC\n\t\t5\n\t\t788\n\t\t392\n\t\t396\n\t\t36\n\t\n\t\n\t\tNOPALILLO\n\t\t2\n\t\t58\n\t\t30\n\t\t28\n\t\t3\n\t\n\t\n\t\tPALO GACHO\n\t\t2\n\t\t123\n\t\t66\n\t\t57\n\t\t8\n\t\n\t\n\t\tPALO GORDO (EJIDO NOPALILLO)\n\t\t6\n\t\t222\n\t\t109\n\t\t113\n\t\t13\n\t\n\t\n\t\tPEÑA COLORADA\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tTEMAXCALILLOS\n\t\t2\n\t\t52\n\t\t21\n\t\t31\n\t\t4\n\t\n\t\n\t\tTORTUGAS\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t54\n\t\t3,486\n\t\t1,782\n\t\t1,704\n\t\t217\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: METEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACOCUL CEBOLLETAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "ATLIXTACA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3",
+          "CAÑADA DE FLORES",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6",
+          "COLONIA NUEVA EX-HACIENDA DE APULCO",
+          "1",
+          "23",
+          "9",
+          "14",
+          "2",
+          "EL ACOCUL",
+          "3",
+          "164",
+          "89",
+          "75",
+          "11",
+          "EL CASCO",
+          "2",
+          "156",
+          "72",
+          "84",
+          "8",
+          "EL SABINO",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1",
+          "EL SABINO PARTE ALTA",
+          "1",
+          "38",
+          "25",
+          "13",
+          "2",
+          "EL VESUBIO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3",
+          "ESTACIÓN DE APULCO",
+          "4",
+          "1,135",
+          "602",
+          "533",
+          "76",
+          "FERRERÍA DE APULCO",
+          "2",
+          "58",
+          "37",
+          "21",
+          "4",
+          "IGNACIO ZARAGOZA [COLONIA]",
+          "2",
+          "75",
+          "31",
+          "44",
+          "3",
+          "LA BOMBA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "2",
+          "LA LOMA DE METEPEC",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "LA VICTORIA",
+          "3",
+          "179",
+          "97",
+          "82",
+          "10",
+          "MAJADILLAS (LOMA BONITA)",
+          "4",
+          "166",
+          "90",
+          "76",
+          "13",
+          "METEPEC",
+          "5",
+          "788",
+          "392",
+          "396",
+          "36",
+          "NOPALILLO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3",
+          "PALO GACHO",
+          "2",
+          "123",
+          "66",
+          "57",
+          "8",
+          "PALO GORDO (EJIDO NOPALILLO)",
+          "6",
+          "222",
+          "109",
+          "113",
+          "13",
+          "PEÑA COLORADA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "2",
+          "TEMAXCALILLOS",
+          "2",
+          "52",
+          "21",
+          "31",
+          "4",
+          "TORTUGAS",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3",
+          "TOTAL",
+          "54",
+          "3,486",
+          "1,782",
+          "1,704",
+          "217",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: METEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACOCUL CEBOLLETAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "ATLIXTACA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "CAÑADA DE FLORES",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6"
+        ],
+        [
+          "COLONIA NUEVA EX-HACIENDA DE APULCO",
+          "1",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "EL ACOCUL",
+          "3",
+          "164",
+          "89",
+          "75",
+          "11"
+        ],
+        [
+          "EL CASCO",
+          "2",
+          "156",
+          "72",
+          "84",
+          "8"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "EL SABINO PARTE ALTA",
+          "1",
+          "38",
+          "25",
+          "13",
+          "2"
+        ],
+        [
+          "EL VESUBIO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "ESTACIÓN DE APULCO",
+          "4",
+          "1,135",
+          "602",
+          "533",
+          "76"
+        ],
+        [
+          "FERRERÍA DE APULCO",
+          "2",
+          "58",
+          "37",
+          "21",
+          "4"
+        ],
+        [
+          "IGNACIO ZARAGOZA [COLONIA]",
+          "2",
+          "75",
+          "31",
+          "44",
+          "3"
+        ],
+        [
+          "LA BOMBA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LA LOMA DE METEPEC",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "179",
+          "97",
+          "82",
+          "10"
+        ],
+        [
+          "MAJADILLAS (LOMA BONITA)",
+          "4",
+          "166",
+          "90",
+          "76",
+          "13"
+        ],
+        [
+          "METEPEC",
+          "5",
+          "788",
+          "392",
+          "396",
+          "36"
+        ],
+        [
+          "NOPALILLO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "PALO GACHO",
+          "2",
+          "123",
+          "66",
+          "57",
+          "8"
+        ],
+        [
+          "PALO GORDO (EJIDO NOPALILLO)",
+          "6",
+          "222",
+          "109",
+          "113",
+          "13"
+        ],
+        [
+          "PEÑA COLORADA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "TEMAXCALILLOS",
+          "2",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "TORTUGAS",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "3,486",
+          "1,782",
+          "1,704",
+          "217"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: METEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACOCUL CEBOLLETAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "ATLIXTACA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "CAÑADA DE FLORES",
+          "3",
+          "70",
+          "29",
+          "41",
+          "6"
+        ],
+        [
+          "COLONIA NUEVA EX-HACIENDA DE APULCO",
+          "1",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "EL ACOCUL",
+          "3",
+          "164",
+          "89",
+          "75",
+          "11"
+        ],
+        [
+          "EL CASCO",
+          "2",
+          "156",
+          "72",
+          "84",
+          "8"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "11",
+          "2",
+          "9",
+          "1"
+        ],
+        [
+          "EL SABINO PARTE ALTA",
+          "1",
+          "38",
+          "25",
+          "13",
+          "2"
+        ],
+        [
+          "EL VESUBIO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "ESTACIÓN DE APULCO",
+          "4",
+          "1,135",
+          "602",
+          "533",
+          "76"
+        ],
+        [
+          "FERRERÍA DE APULCO",
+          "2",
+          "58",
+          "37",
+          "21",
+          "4"
+        ],
+        [
+          "IGNACIO ZARAGOZA [COLONIA]",
+          "2",
+          "75",
+          "31",
+          "44",
+          "3"
+        ],
+        [
+          "LA BOMBA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LA LOMA DE METEPEC",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "179",
+          "97",
+          "82",
+          "10"
+        ],
+        [
+          "MAJADILLAS (LOMA BONITA)",
+          "4",
+          "166",
+          "90",
+          "76",
+          "13"
+        ],
+        [
+          "METEPEC",
+          "5",
+          "788",
+          "392",
+          "396",
+          "36"
+        ],
+        [
+          "NOPALILLO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "PALO GACHO",
+          "2",
+          "123",
+          "66",
+          "57",
+          "8"
+        ],
+        [
+          "PALO GORDO (EJIDO NOPALILLO)",
+          "6",
+          "222",
+          "109",
+          "113",
+          "13"
+        ],
+        [
+          "PEÑA COLORADA",
+          "1",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "TEMAXCALILLOS",
+          "2",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "TORTUGAS",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "3,486",
+          "1,782",
+          "1,704",
+          "217"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:00.329Z"
+}

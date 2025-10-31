@@ -1,0 +1,1264 @@
+{
+  "municipality": "MATAMOROS",
+  "municipalityCode": "017",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MATAMOROS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANDALUCÍA\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tATALAYA\n\t\t2\n\t\t102\n\t\t51\n\t\t51\n\t\t5\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t37\n\t\t23\n\t\t14\n\t\t3\n\t\n\t\n\t\tCOMPUERTAS\n\t\t2\n\t\t98\n\t\t50\n\t\t48\n\t\t4\n\t\n\t\n\t\tCOREA\n\t\t2\n\t\t48\n\t\t22\n\t\t26\n\t\t3\n\t\n\t\n\t\tCORONA\n\t\t4\n\t\t531\n\t\t277\n\t\t254\n\t\t36\n\t\n\t\n\t\tEL CAMBIO\n\t\t6\n\t\t771\n\t\t380\n\t\t391\n\t\t39\n\t\n\t\n\t\tEL CAMPANARIO\n\t\t1\n\t\t49\n\t\t21\n\t\t28\n\t\t3\n\t\n\t\n\t\tEL CONSUELO\n\t\t2\n\t\t129\n\t\t50\n\t\t79\n\t\t7\n\t\n\t\n\t\tEL COYOTE\n\t\t7\n\t\t1,368\n\t\t707\n\t\t661\n\t\t83\n\t\n\t\n\t\tEL CUIJE\n\t\t4\n\t\t502\n\t\t221\n\t\t281\n\t\t34\n\t\n\t\n\t\tEL DÓLAR\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL OLIVO\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t5\n\t\n\t\n\t\tEL PACÍFICO\n\t\t2\n\t\t73\n\t\t41\n\t\t32\n\t\t5\n\t\n\t\n\t\tEL PILAR\n\t\t6\n\t\t326\n\t\t155\n\t\t171\n\t\t8\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t130\n\t\t53\n\t\t77\n\t\t7\n\t\n\t\n\t\tEL SACRIFICIO\n\t\t2\n\t\t80\n\t\t42\n\t\t38\n\t\t5\n\t\n\t\n\t\tESCUADRÓN DOSCIENTOS UNO\n\t\t2\n\t\t173\n\t\t78\n\t\t95\n\t\t8\n\t\n\t\n\t\tFILIPINAS (LAMPACITOS)\n\t\t2\n\t\t31\n\t\t12\n\t\t19\n\t\t2\n\t\n\t\n\t\tFRESNO DEL SUR (EL FRESNO)\n\t\t2\n\t\t44\n\t\t23\n\t\t21\n\t\t3\n\t\n\t\n\t\tGRANADA\n\t\t5\n\t\t467\n\t\t244\n\t\t223\n\t\t31\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t3\n\t\t131\n\t\t60\n\t\t71\n\t\t6\n\t\n\t\n\t\tHIDALGO\n\t\t7\n\t\t1,272\n\t\t653\n\t\t619\n\t\t92\n\t\n\t\n\t\tHORMIGUERO\n\t\t3\n\t\t401\n\t\t190\n\t\t211\n\t\t16\n\t\n\t\n\t\tIRLANDA\n\t\t2\n\t\t57\n\t\t30\n\t\t27\n\t\t4\n\t\n\t\n\t\tLA ESPERANZA\n\t\t3\n\t\t199\n\t\t104\n\t\t95\n\t\t9\n\t\n\t\n\t\tLA FLOR DE MAYO Y LA BARCA\n\t\t4\n\t\t398\n\t\t203\n\t\t195\n\t\t18\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t91\n\t\t38\n\t\t53\n\t\t5\n\t\n\t\n\t\tLA LUZ\n\t\t6\n\t\t398\n\t\t176\n\t\t222\n\t\t37\n\t\n\t\n\t\tLAS PALOMAS\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tMANANTIAL\n\t\t5\n\t\t794\n\t\t432\n\t\t362\n\t\t80\n\t\n\t\n\t\tMARAVILLAS\n\t\t2\n\t\t183\n\t\t90\n\t\t93\n\t\t8\n\t\n\t\n\t\tMATAMOROS\n\t\t87\n\t\t15,777\n\t\t8,066\n\t\t7,711\n\t\t1,436\n\t\n\t\n\t\tMONTE ALEGRE\n\t\t2\n\t\t70\n\t\t30\n\t\t40\n\t\t4\n\t\n\t\n\t\tMORELOS DOS (BILBAO)\n\t\t1\n\t\t1\n\t\t1\n\t\t0\n\t\t1\n\t\n\t\n\t\tNOACAN\n\t\t2\n\t\t32\n\t\t13\n\t\t19\n\t\t2\n\t\n\t\n\t\tNUEVO MIELERAS (LA TRES)\n\t\t1\n\t\t9\n\t\t2\n\t\t7\n\t\t1\n\t\n\t\n\t\tPETRONILAS\n\t\t3\n\t\t102\n\t\t55\n\t\t47\n\t\t6\n\t\n\t\n\t\tPURÍSIMA\n\t\t2\n\t\t217\n\t\t101\n\t\t116\n\t\t9\n\t\n\t\n\t\tRANCHO DE AFUERA\n\t\t2\n\t\t75\n\t\t36\n\t\t39\n\t\t5\n\t\n\t\n\t\tSAN ANTONIO DEL ALTO\n\t\t2\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO DEL COYOTE\n\t\t5\n\t\t787\n\t\t392\n\t\t395\n\t\t32\n\t\n\t\n\t\tSAN FELIPE AGUANAVAL\n\t\t3\n\t\t127\n\t\t56\n\t\t71\n\t\t9\n\t\n\t\n\t\tSAN ISIDRO\n\t\t1\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN JULIÁN\n\t\t2\n\t\t67\n\t\t39\n\t\t28\n\t\t4\n\t\n\t\n\t\tSANTA ANA DEL PILAR\n\t\t4\n\t\t321\n\t\t153\n\t\t168\n\t\t28\n\t\n\t\n\t\tSANTO NIÑO AGUANAVAL\n\t\t2\n\t\t346\n\t\t178\n\t\t168\n\t\t15\n\t\n\t\n\t\tSOLIMA\n\t\t3\n\t\t211\n\t\t100\n\t\t111\n\t\t8\n\t\n\t\n\t\tSOLÍS\n\t\t2\n\t\t39\n\t\t16\n\t\t23\n\t\t3\n\t\n\t\n\t\tUNIÓN DEL BARREAL\n\t\t2\n\t\t53\n\t\t26\n\t\t27\n\t\t3\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t4\n\t\t283\n\t\t130\n\t\t153\n\t\t12\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t2\n\t\t48\n\t\t16\n\t\t32\n\t\t3\n\t\n\t\n\t\tVIZCAYA\n\t\t1\n\t\t20\n\t\t12\n\t\t8\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t231\n\t\t27,623\n\t\t13,928\n\t\t13,695\n\t\t2,156\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MATAMOROS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANDALUCÍA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3",
+          "ATALAYA",
+          "2",
+          "102",
+          "51",
+          "51",
+          "5",
+          "BENITO JUÁREZ",
+          "2",
+          "37",
+          "23",
+          "14",
+          "3",
+          "COMPUERTAS",
+          "2",
+          "98",
+          "50",
+          "48",
+          "4",
+          "COREA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3",
+          "CORONA",
+          "4",
+          "531",
+          "277",
+          "254",
+          "36",
+          "EL CAMBIO",
+          "6",
+          "771",
+          "380",
+          "391",
+          "39",
+          "EL CAMPANARIO",
+          "1",
+          "49",
+          "21",
+          "28",
+          "3",
+          "EL CONSUELO",
+          "2",
+          "129",
+          "50",
+          "79",
+          "7",
+          "EL COYOTE",
+          "7",
+          "1,368",
+          "707",
+          "661",
+          "83",
+          "EL CUIJE",
+          "4",
+          "502",
+          "221",
+          "281",
+          "34",
+          "EL DÓLAR",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "EL OLIVO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5",
+          "EL PACÍFICO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "5",
+          "EL PILAR",
+          "6",
+          "326",
+          "155",
+          "171",
+          "8",
+          "EL REFUGIO",
+          "2",
+          "130",
+          "53",
+          "77",
+          "7",
+          "EL SACRIFICIO",
+          "2",
+          "80",
+          "42",
+          "38",
+          "5",
+          "ESCUADRÓN DOSCIENTOS UNO",
+          "2",
+          "173",
+          "78",
+          "95",
+          "8",
+          "FILIPINAS (LAMPACITOS)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2",
+          "FRESNO DEL SUR (EL FRESNO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3",
+          "GRANADA",
+          "5",
+          "467",
+          "244",
+          "223",
+          "31",
+          "GUADALUPE VICTORIA",
+          "3",
+          "131",
+          "60",
+          "71",
+          "6",
+          "HIDALGO",
+          "7",
+          "1,272",
+          "653",
+          "619",
+          "92",
+          "HORMIGUERO",
+          "3",
+          "401",
+          "190",
+          "211",
+          "16",
+          "IRLANDA",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4",
+          "LA ESPERANZA",
+          "3",
+          "199",
+          "104",
+          "95",
+          "9",
+          "LA FLOR DE MAYO Y LA BARCA",
+          "4",
+          "398",
+          "203",
+          "195",
+          "18",
+          "LA LIBERTAD",
+          "2",
+          "91",
+          "38",
+          "53",
+          "5",
+          "LA LUZ",
+          "6",
+          "398",
+          "176",
+          "222",
+          "37",
+          "LAS PALOMAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "MANANTIAL",
+          "5",
+          "794",
+          "432",
+          "362",
+          "80",
+          "MARAVILLAS",
+          "2",
+          "183",
+          "90",
+          "93",
+          "8",
+          "MATAMOROS",
+          "87",
+          "15,777",
+          "8,066",
+          "7,711",
+          "1,436",
+          "MONTE ALEGRE",
+          "2",
+          "70",
+          "30",
+          "40",
+          "4",
+          "MORELOS DOS (BILBAO)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1",
+          "NOACAN",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2",
+          "NUEVO MIELERAS (LA TRES)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1",
+          "PETRONILAS",
+          "3",
+          "102",
+          "55",
+          "47",
+          "6",
+          "PURÍSIMA",
+          "2",
+          "217",
+          "101",
+          "116",
+          "9",
+          "RANCHO DE AFUERA",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5",
+          "SAN ANTONIO DEL ALTO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2",
+          "SAN ANTONIO DEL COYOTE",
+          "5",
+          "787",
+          "392",
+          "395",
+          "32",
+          "SAN FELIPE AGUANAVAL",
+          "3",
+          "127",
+          "56",
+          "71",
+          "9",
+          "SAN ISIDRO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1",
+          "SAN JULIÁN",
+          "2",
+          "67",
+          "39",
+          "28",
+          "4",
+          "SANTA ANA DEL PILAR",
+          "4",
+          "321",
+          "153",
+          "168",
+          "28",
+          "SANTO NIÑO AGUANAVAL",
+          "2",
+          "346",
+          "178",
+          "168",
+          "15",
+          "SOLIMA",
+          "3",
+          "211",
+          "100",
+          "111",
+          "8",
+          "SOLÍS",
+          "2",
+          "39",
+          "16",
+          "23",
+          "3",
+          "UNIÓN DEL BARREAL",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3",
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "283",
+          "130",
+          "153",
+          "12",
+          "VICENTE GUERRERO",
+          "2",
+          "48",
+          "16",
+          "32",
+          "3",
+          "VIZCAYA",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1",
+          "TOTAL",
+          "231",
+          "27,623",
+          "13,928",
+          "13,695",
+          "2,156",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANDALUCÍA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "ATALAYA",
+          "2",
+          "102",
+          "51",
+          "51",
+          "5"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "COMPUERTAS",
+          "2",
+          "98",
+          "50",
+          "48",
+          "4"
+        ],
+        [
+          "COREA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3"
+        ],
+        [
+          "CORONA",
+          "4",
+          "531",
+          "277",
+          "254",
+          "36"
+        ],
+        [
+          "EL CAMBIO",
+          "6",
+          "771",
+          "380",
+          "391",
+          "39"
+        ],
+        [
+          "EL CAMPANARIO",
+          "1",
+          "49",
+          "21",
+          "28",
+          "3"
+        ],
+        [
+          "EL CONSUELO",
+          "2",
+          "129",
+          "50",
+          "79",
+          "7"
+        ],
+        [
+          "EL COYOTE",
+          "7",
+          "1,368",
+          "707",
+          "661",
+          "83"
+        ],
+        [
+          "EL CUIJE",
+          "4",
+          "502",
+          "221",
+          "281",
+          "34"
+        ],
+        [
+          "EL DÓLAR",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "EL OLIVO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "EL PACÍFICO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "5"
+        ],
+        [
+          "EL PILAR",
+          "6",
+          "326",
+          "155",
+          "171",
+          "8"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "130",
+          "53",
+          "77",
+          "7"
+        ],
+        [
+          "EL SACRIFICIO",
+          "2",
+          "80",
+          "42",
+          "38",
+          "5"
+        ],
+        [
+          "ESCUADRÓN DOSCIENTOS UNO",
+          "2",
+          "173",
+          "78",
+          "95",
+          "8"
+        ],
+        [
+          "FILIPINAS (LAMPACITOS)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2"
+        ],
+        [
+          "FRESNO DEL SUR (EL FRESNO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3"
+        ],
+        [
+          "GRANADA",
+          "5",
+          "467",
+          "244",
+          "223",
+          "31"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "3",
+          "131",
+          "60",
+          "71",
+          "6"
+        ],
+        [
+          "HIDALGO",
+          "7",
+          "1,272",
+          "653",
+          "619",
+          "92"
+        ],
+        [
+          "HORMIGUERO",
+          "3",
+          "401",
+          "190",
+          "211",
+          "16"
+        ],
+        [
+          "IRLANDA",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "199",
+          "104",
+          "95",
+          "9"
+        ],
+        [
+          "LA FLOR DE MAYO Y LA BARCA",
+          "4",
+          "398",
+          "203",
+          "195",
+          "18"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "91",
+          "38",
+          "53",
+          "5"
+        ],
+        [
+          "LA LUZ",
+          "6",
+          "398",
+          "176",
+          "222",
+          "37"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "MANANTIAL",
+          "5",
+          "794",
+          "432",
+          "362",
+          "80"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "183",
+          "90",
+          "93",
+          "8"
+        ],
+        [
+          "MATAMOROS",
+          "87",
+          "15,777",
+          "8,066",
+          "7,711",
+          "1,436"
+        ],
+        [
+          "MONTE ALEGRE",
+          "2",
+          "70",
+          "30",
+          "40",
+          "4"
+        ],
+        [
+          "MORELOS DOS (BILBAO)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "NOACAN",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2"
+        ],
+        [
+          "NUEVO MIELERAS (LA TRES)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "PETRONILAS",
+          "3",
+          "102",
+          "55",
+          "47",
+          "6"
+        ],
+        [
+          "PURÍSIMA",
+          "2",
+          "217",
+          "101",
+          "116",
+          "9"
+        ],
+        [
+          "RANCHO DE AFUERA",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "SAN ANTONIO DEL ALTO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DEL COYOTE",
+          "5",
+          "787",
+          "392",
+          "395",
+          "32"
+        ],
+        [
+          "SAN FELIPE AGUANAVAL",
+          "3",
+          "127",
+          "56",
+          "71",
+          "9"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JULIÁN",
+          "2",
+          "67",
+          "39",
+          "28",
+          "4"
+        ],
+        [
+          "SANTA ANA DEL PILAR",
+          "4",
+          "321",
+          "153",
+          "168",
+          "28"
+        ],
+        [
+          "SANTO NIÑO AGUANAVAL",
+          "2",
+          "346",
+          "178",
+          "168",
+          "15"
+        ],
+        [
+          "SOLIMA",
+          "3",
+          "211",
+          "100",
+          "111",
+          "8"
+        ],
+        [
+          "SOLÍS",
+          "2",
+          "39",
+          "16",
+          "23",
+          "3"
+        ],
+        [
+          "UNIÓN DEL BARREAL",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "283",
+          "130",
+          "153",
+          "12"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "48",
+          "16",
+          "32",
+          "3"
+        ],
+        [
+          "VIZCAYA",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "231",
+          "27,623",
+          "13,928",
+          "13,695",
+          "2,156"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANDALUCÍA",
+          "2",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "ATALAYA",
+          "2",
+          "102",
+          "51",
+          "51",
+          "5"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "37",
+          "23",
+          "14",
+          "3"
+        ],
+        [
+          "COMPUERTAS",
+          "2",
+          "98",
+          "50",
+          "48",
+          "4"
+        ],
+        [
+          "COREA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3"
+        ],
+        [
+          "CORONA",
+          "4",
+          "531",
+          "277",
+          "254",
+          "36"
+        ],
+        [
+          "EL CAMBIO",
+          "6",
+          "771",
+          "380",
+          "391",
+          "39"
+        ],
+        [
+          "EL CAMPANARIO",
+          "1",
+          "49",
+          "21",
+          "28",
+          "3"
+        ],
+        [
+          "EL CONSUELO",
+          "2",
+          "129",
+          "50",
+          "79",
+          "7"
+        ],
+        [
+          "EL COYOTE",
+          "7",
+          "1,368",
+          "707",
+          "661",
+          "83"
+        ],
+        [
+          "EL CUIJE",
+          "4",
+          "502",
+          "221",
+          "281",
+          "34"
+        ],
+        [
+          "EL DÓLAR",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "EL OLIVO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "EL PACÍFICO",
+          "2",
+          "73",
+          "41",
+          "32",
+          "5"
+        ],
+        [
+          "EL PILAR",
+          "6",
+          "326",
+          "155",
+          "171",
+          "8"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "130",
+          "53",
+          "77",
+          "7"
+        ],
+        [
+          "EL SACRIFICIO",
+          "2",
+          "80",
+          "42",
+          "38",
+          "5"
+        ],
+        [
+          "ESCUADRÓN DOSCIENTOS UNO",
+          "2",
+          "173",
+          "78",
+          "95",
+          "8"
+        ],
+        [
+          "FILIPINAS (LAMPACITOS)",
+          "2",
+          "31",
+          "12",
+          "19",
+          "2"
+        ],
+        [
+          "FRESNO DEL SUR (EL FRESNO)",
+          "2",
+          "44",
+          "23",
+          "21",
+          "3"
+        ],
+        [
+          "GRANADA",
+          "5",
+          "467",
+          "244",
+          "223",
+          "31"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "3",
+          "131",
+          "60",
+          "71",
+          "6"
+        ],
+        [
+          "HIDALGO",
+          "7",
+          "1,272",
+          "653",
+          "619",
+          "92"
+        ],
+        [
+          "HORMIGUERO",
+          "3",
+          "401",
+          "190",
+          "211",
+          "16"
+        ],
+        [
+          "IRLANDA",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "199",
+          "104",
+          "95",
+          "9"
+        ],
+        [
+          "LA FLOR DE MAYO Y LA BARCA",
+          "4",
+          "398",
+          "203",
+          "195",
+          "18"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "91",
+          "38",
+          "53",
+          "5"
+        ],
+        [
+          "LA LUZ",
+          "6",
+          "398",
+          "176",
+          "222",
+          "37"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "MANANTIAL",
+          "5",
+          "794",
+          "432",
+          "362",
+          "80"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "183",
+          "90",
+          "93",
+          "8"
+        ],
+        [
+          "MATAMOROS",
+          "87",
+          "15,777",
+          "8,066",
+          "7,711",
+          "1,436"
+        ],
+        [
+          "MONTE ALEGRE",
+          "2",
+          "70",
+          "30",
+          "40",
+          "4"
+        ],
+        [
+          "MORELOS DOS (BILBAO)",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "NOACAN",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2"
+        ],
+        [
+          "NUEVO MIELERAS (LA TRES)",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "PETRONILAS",
+          "3",
+          "102",
+          "55",
+          "47",
+          "6"
+        ],
+        [
+          "PURÍSIMA",
+          "2",
+          "217",
+          "101",
+          "116",
+          "9"
+        ],
+        [
+          "RANCHO DE AFUERA",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "SAN ANTONIO DEL ALTO",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DEL COYOTE",
+          "5",
+          "787",
+          "392",
+          "395",
+          "32"
+        ],
+        [
+          "SAN FELIPE AGUANAVAL",
+          "3",
+          "127",
+          "56",
+          "71",
+          "9"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JULIÁN",
+          "2",
+          "67",
+          "39",
+          "28",
+          "4"
+        ],
+        [
+          "SANTA ANA DEL PILAR",
+          "4",
+          "321",
+          "153",
+          "168",
+          "28"
+        ],
+        [
+          "SANTO NIÑO AGUANAVAL",
+          "2",
+          "346",
+          "178",
+          "168",
+          "15"
+        ],
+        [
+          "SOLIMA",
+          "3",
+          "211",
+          "100",
+          "111",
+          "8"
+        ],
+        [
+          "SOLÍS",
+          "2",
+          "39",
+          "16",
+          "23",
+          "3"
+        ],
+        [
+          "UNIÓN DEL BARREAL",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "283",
+          "130",
+          "153",
+          "12"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "48",
+          "16",
+          "32",
+          "3"
+        ],
+        [
+          "VIZCAYA",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "231",
+          "27,623",
+          "13,928",
+          "13,695",
+          "2,156"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:15.313Z"
+}

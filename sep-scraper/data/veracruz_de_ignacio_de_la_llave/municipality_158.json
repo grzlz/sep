@@ -1,0 +1,956 @@
+{
+  "municipality": "TECOLUTLA",
+  "municipalityCode": "158",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: TECOLUTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBOCA DE LIMA\n\t\t5\n\t\t250\n\t\t125\n\t\t125\n\t\t19\n\t\n\t\n\t\tCAÑADA RICA\n\t\t4\n\t\t301\n\t\t149\n\t\t152\n\t\t19\n\t\n\t\n\t\tCASITAS\n\t\t5\n\t\t390\n\t\t190\n\t\t200\n\t\t31\n\t\n\t\n\t\tCERRO DE HUEYTEPEC\n\t\t3\n\t\t54\n\t\t29\n\t\t25\n\t\t4\n\t\n\t\n\t\tCHICHICATZAPAN MÉNDEZ\n\t\t3\n\t\t48\n\t\t19\n\t\t29\n\t\t6\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t4\n\t\t120\n\t\t55\n\t\t65\n\t\t9\n\t\n\t\n\t\tCOLONIA GENERAL MAXIMINO ÁVILA CAMACHO\n\t\t2\n\t\t46\n\t\t24\n\t\t22\n\t\t4\n\t\n\t\n\t\tCRUZ DE LOS ESTEROS\n\t\t4\n\t\t181\n\t\t89\n\t\t92\n\t\t15\n\t\n\t\n\t\tDOS DE OCTUBRE\n\t\t2\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tEJIDO LA PERLA\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL EMBARCADERO\n\t\t3\n\t\t9\n\t\t5\n\t\t4\n\t\t3\n\t\n\t\n\t\tEL FUERTE DE ANAYA\n\t\t4\n\t\t175\n\t\t82\n\t\t93\n\t\t14\n\t\n\t\n\t\tEL PARAÍSO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tHUEYTEPEC\n\t\t7\n\t\t470\n\t\t230\n\t\t240\n\t\t35\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA PINO SUÁREZ\n\t\t1\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tLA CURVA\n\t\t1\n\t\t9\n\t\t2\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA FLORIDA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t33\n\t\t18\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA GUADALUPE\n\t\t4\n\t\t309\n\t\t156\n\t\t153\n\t\t20\n\t\n\t\n\t\tLA LIBERTAD\n\t\t3\n\t\t69\n\t\t35\n\t\t34\n\t\t5\n\t\n\t\n\t\tLA NUEVA GUADALUPE\n\t\t3\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA VICTORIA\n\t\t3\n\t\t58\n\t\t34\n\t\t24\n\t\t5\n\t\n\t\n\t\tLA VIGUETA\n\t\t2\n\t\t48\n\t\t22\n\t\t26\n\t\t5\n\t\n\t\n\t\tLÁZARO CÁRDENAS (RIACHUELOS)\n\t\t3\n\t\t32\n\t\t16\n\t\t16\n\t\t5\n\t\n\t\n\t\tMESA DEL TIGRE\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tMONTE GORDO\n\t\t4\n\t\t181\n\t\t97\n\t\t84\n\t\t14\n\t\n\t\n\t\tPASO DEL PROGRESO\n\t\t4\n\t\t195\n\t\t90\n\t\t105\n\t\t14\n\t\n\t\n\t\tPASO DEL RÍO\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tPASO REAL\n\t\t3\n\t\t122\n\t\t58\n\t\t64\n\t\t9\n\t\n\t\n\t\tPINO SUÁREZ\n\t\t3\n\t\t63\n\t\t39\n\t\t24\n\t\t8\n\t\n\t\n\t\tPLAN DE VILLA CUAUHTÉMOC (EL NEGRO)\n\t\t2\n\t\t49\n\t\t28\n\t\t21\n\t\t4\n\t\n\t\n\t\tPLAN DEL CARRIZO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t3\n\t\t206\n\t\t108\n\t\t98\n\t\t17\n\t\n\t\n\t\tRÍO BLANCO\n\t\t2\n\t\t43\n\t\t25\n\t\t18\n\t\t4\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t1\n\t\t49\n\t\t26\n\t\t23\n\t\t3\n\t\n\t\n\t\tTECOLUTLA\n\t\t6\n\t\t714\n\t\t367\n\t\t347\n\t\t46\n\t\n\t\n\t\tVISTA HERMOSA (EL AGUACATE)\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t3\n\t\n\t\n\t\tVISTA HERMOSA CALICHAL\n\t\t2\n\t\t35\n\t\t16\n\t\t19\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t109\n\t\t4,394\n\t\t2,187\n\t\t2,207\n\t\t343\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: TECOLUTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BOCA DE LIMA",
+          "5",
+          "250",
+          "125",
+          "125",
+          "19",
+          "CAÑADA RICA",
+          "4",
+          "301",
+          "149",
+          "152",
+          "19",
+          "CASITAS",
+          "5",
+          "390",
+          "190",
+          "200",
+          "31",
+          "CERRO DE HUEYTEPEC",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4",
+          "CHICHICATZAPAN MÉNDEZ",
+          "3",
+          "48",
+          "19",
+          "29",
+          "6",
+          "CINCO DE MAYO",
+          "4",
+          "120",
+          "55",
+          "65",
+          "9",
+          "COLONIA GENERAL MAXIMINO ÁVILA CAMACHO",
+          "2",
+          "46",
+          "24",
+          "22",
+          "4",
+          "CRUZ DE LOS ESTEROS",
+          "4",
+          "181",
+          "89",
+          "92",
+          "15",
+          "DOS DE OCTUBRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2",
+          "EJIDO LA PERLA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "EL EMBARCADERO",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3",
+          "EL FUERTE DE ANAYA",
+          "4",
+          "175",
+          "82",
+          "93",
+          "14",
+          "EL PARAÍSO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "HUEYTEPEC",
+          "7",
+          "470",
+          "230",
+          "240",
+          "35",
+          "IGNACIO ZARAGOZA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2",
+          "LA CURVA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1",
+          "LA FLORIDA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA GLORIA",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3",
+          "LA GUADALUPE",
+          "4",
+          "309",
+          "156",
+          "153",
+          "20",
+          "LA LIBERTAD",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5",
+          "LA NUEVA GUADALUPE",
+          "3",
+          "11",
+          "6",
+          "5",
+          "2",
+          "LA VICTORIA",
+          "3",
+          "58",
+          "34",
+          "24",
+          "5",
+          "LA VIGUETA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "5",
+          "LÁZARO CÁRDENAS (RIACHUELOS)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "5",
+          "MESA DEL TIGRE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "MONTE GORDO",
+          "4",
+          "181",
+          "97",
+          "84",
+          "14",
+          "PASO DEL PROGRESO",
+          "4",
+          "195",
+          "90",
+          "105",
+          "14",
+          "PASO DEL RÍO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "PASO REAL",
+          "3",
+          "122",
+          "58",
+          "64",
+          "9",
+          "PINO SUÁREZ",
+          "3",
+          "63",
+          "39",
+          "24",
+          "8",
+          "PLAN DE VILLA CUAUHTÉMOC (EL NEGRO)",
+          "2",
+          "49",
+          "28",
+          "21",
+          "4",
+          "PLAN DEL CARRIZO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "RICARDO FLORES MAGÓN",
+          "3",
+          "206",
+          "108",
+          "98",
+          "17",
+          "RÍO BLANCO",
+          "2",
+          "43",
+          "25",
+          "18",
+          "4",
+          "SAN FRANCISCO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "3",
+          "TECOLUTLA",
+          "6",
+          "714",
+          "367",
+          "347",
+          "46",
+          "VISTA HERMOSA (EL AGUACATE)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3",
+          "VISTA HERMOSA CALICHAL",
+          "2",
+          "35",
+          "16",
+          "19",
+          "4",
+          "TOTAL",
+          "109",
+          "4,394",
+          "2,187",
+          "2,207",
+          "343",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: TECOLUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCA DE LIMA",
+          "5",
+          "250",
+          "125",
+          "125",
+          "19"
+        ],
+        [
+          "CAÑADA RICA",
+          "4",
+          "301",
+          "149",
+          "152",
+          "19"
+        ],
+        [
+          "CASITAS",
+          "5",
+          "390",
+          "190",
+          "200",
+          "31"
+        ],
+        [
+          "CERRO DE HUEYTEPEC",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4"
+        ],
+        [
+          "CHICHICATZAPAN MÉNDEZ",
+          "3",
+          "48",
+          "19",
+          "29",
+          "6"
+        ],
+        [
+          "CINCO DE MAYO",
+          "4",
+          "120",
+          "55",
+          "65",
+          "9"
+        ],
+        [
+          "COLONIA GENERAL MAXIMINO ÁVILA CAMACHO",
+          "2",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "CRUZ DE LOS ESTEROS",
+          "4",
+          "181",
+          "89",
+          "92",
+          "15"
+        ],
+        [
+          "DOS DE OCTUBRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EJIDO LA PERLA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL EMBARCADERO",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3"
+        ],
+        [
+          "EL FUERTE DE ANAYA",
+          "4",
+          "175",
+          "82",
+          "93",
+          "14"
+        ],
+        [
+          "EL PARAÍSO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "HUEYTEPEC",
+          "7",
+          "470",
+          "230",
+          "240",
+          "35"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "LA CURVA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "4",
+          "309",
+          "156",
+          "153",
+          "20"
+        ],
+        [
+          "LA LIBERTAD",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5"
+        ],
+        [
+          "LA NUEVA GUADALUPE",
+          "3",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "58",
+          "34",
+          "24",
+          "5"
+        ],
+        [
+          "LA VIGUETA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "5"
+        ],
+        [
+          "LÁZARO CÁRDENAS (RIACHUELOS)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "5"
+        ],
+        [
+          "MESA DEL TIGRE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "MONTE GORDO",
+          "4",
+          "181",
+          "97",
+          "84",
+          "14"
+        ],
+        [
+          "PASO DEL PROGRESO",
+          "4",
+          "195",
+          "90",
+          "105",
+          "14"
+        ],
+        [
+          "PASO DEL RÍO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "PASO REAL",
+          "3",
+          "122",
+          "58",
+          "64",
+          "9"
+        ],
+        [
+          "PINO SUÁREZ",
+          "3",
+          "63",
+          "39",
+          "24",
+          "8"
+        ],
+        [
+          "PLAN DE VILLA CUAUHTÉMOC (EL NEGRO)",
+          "2",
+          "49",
+          "28",
+          "21",
+          "4"
+        ],
+        [
+          "PLAN DEL CARRIZO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "3",
+          "206",
+          "108",
+          "98",
+          "17"
+        ],
+        [
+          "RÍO BLANCO",
+          "2",
+          "43",
+          "25",
+          "18",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "TECOLUTLA",
+          "6",
+          "714",
+          "367",
+          "347",
+          "46"
+        ],
+        [
+          "VISTA HERMOSA (EL AGUACATE)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA CALICHAL",
+          "2",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "4,394",
+          "2,187",
+          "2,207",
+          "343"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: TECOLUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCA DE LIMA",
+          "5",
+          "250",
+          "125",
+          "125",
+          "19"
+        ],
+        [
+          "CAÑADA RICA",
+          "4",
+          "301",
+          "149",
+          "152",
+          "19"
+        ],
+        [
+          "CASITAS",
+          "5",
+          "390",
+          "190",
+          "200",
+          "31"
+        ],
+        [
+          "CERRO DE HUEYTEPEC",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4"
+        ],
+        [
+          "CHICHICATZAPAN MÉNDEZ",
+          "3",
+          "48",
+          "19",
+          "29",
+          "6"
+        ],
+        [
+          "CINCO DE MAYO",
+          "4",
+          "120",
+          "55",
+          "65",
+          "9"
+        ],
+        [
+          "COLONIA GENERAL MAXIMINO ÁVILA CAMACHO",
+          "2",
+          "46",
+          "24",
+          "22",
+          "4"
+        ],
+        [
+          "CRUZ DE LOS ESTEROS",
+          "4",
+          "181",
+          "89",
+          "92",
+          "15"
+        ],
+        [
+          "DOS DE OCTUBRE",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EJIDO LA PERLA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL EMBARCADERO",
+          "3",
+          "9",
+          "5",
+          "4",
+          "3"
+        ],
+        [
+          "EL FUERTE DE ANAYA",
+          "4",
+          "175",
+          "82",
+          "93",
+          "14"
+        ],
+        [
+          "EL PARAÍSO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "HUEYTEPEC",
+          "7",
+          "470",
+          "230",
+          "240",
+          "35"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "1",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "LA CURVA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "LA GUADALUPE",
+          "4",
+          "309",
+          "156",
+          "153",
+          "20"
+        ],
+        [
+          "LA LIBERTAD",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5"
+        ],
+        [
+          "LA NUEVA GUADALUPE",
+          "3",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "58",
+          "34",
+          "24",
+          "5"
+        ],
+        [
+          "LA VIGUETA",
+          "2",
+          "48",
+          "22",
+          "26",
+          "5"
+        ],
+        [
+          "LÁZARO CÁRDENAS (RIACHUELOS)",
+          "3",
+          "32",
+          "16",
+          "16",
+          "5"
+        ],
+        [
+          "MESA DEL TIGRE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "MONTE GORDO",
+          "4",
+          "181",
+          "97",
+          "84",
+          "14"
+        ],
+        [
+          "PASO DEL PROGRESO",
+          "4",
+          "195",
+          "90",
+          "105",
+          "14"
+        ],
+        [
+          "PASO DEL RÍO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "PASO REAL",
+          "3",
+          "122",
+          "58",
+          "64",
+          "9"
+        ],
+        [
+          "PINO SUÁREZ",
+          "3",
+          "63",
+          "39",
+          "24",
+          "8"
+        ],
+        [
+          "PLAN DE VILLA CUAUHTÉMOC (EL NEGRO)",
+          "2",
+          "49",
+          "28",
+          "21",
+          "4"
+        ],
+        [
+          "PLAN DEL CARRIZO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "3",
+          "206",
+          "108",
+          "98",
+          "17"
+        ],
+        [
+          "RÍO BLANCO",
+          "2",
+          "43",
+          "25",
+          "18",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "1",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "TECOLUTLA",
+          "6",
+          "714",
+          "367",
+          "347",
+          "46"
+        ],
+        [
+          "VISTA HERMOSA (EL AGUACATE)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA CALICHAL",
+          "2",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "4,394",
+          "2,187",
+          "2,207",
+          "343"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:52:01.979Z"
+}

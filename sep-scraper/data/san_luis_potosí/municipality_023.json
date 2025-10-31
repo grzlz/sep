@@ -1,0 +1,802 @@
+{
+  "municipality": "RAYÓN",
+  "municipalityCode": "023",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: RAYÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DE GAMOTES\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tAGUACATILLOS\n\t\t3\n\t\t62\n\t\t32\n\t\t30\n\t\t4\n\t\n\t\n\t\tAMOLADERAS\n\t\t3\n\t\t74\n\t\t37\n\t\t37\n\t\t4\n\t\n\t\n\t\tCERRITO DE LA CRUZ\n\t\t3\n\t\t104\n\t\t50\n\t\t54\n\t\t6\n\t\n\t\n\t\tCRUCERO DE RAYÓN\n\t\t2\n\t\t134\n\t\t66\n\t\t68\n\t\t9\n\t\n\t\n\t\tEL AGUACATE\n\t\t3\n\t\t58\n\t\t31\n\t\t27\n\t\t4\n\t\n\t\n\t\tEL EPAZOTE\n\t\t3\n\t\t90\n\t\t42\n\t\t48\n\t\t8\n\t\n\t\n\t\tEL NOGALITO\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL PAJARITO\n\t\t3\n\t\t68\n\t\t34\n\t\t34\n\t\t5\n\t\n\t\n\t\tEL PIRUCHE\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL RANCHITO\n\t\t3\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL SABINITO\n\t\t3\n\t\t119\n\t\t65\n\t\t54\n\t\t8\n\t\n\t\n\t\tLA LUZ\n\t\t3\n\t\t36\n\t\t21\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA NUEVA REFORMA\n\t\t3\n\t\t37\n\t\t15\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA VIEJA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS CANOAS\n\t\t5\n\t\t273\n\t\t123\n\t\t150\n\t\t15\n\t\n\t\n\t\tLAS GUAPAS\n\t\t4\n\t\t200\n\t\t91\n\t\t109\n\t\t12\n\t\n\t\n\t\tMORELOS\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tNOGALES\n\t\t3\n\t\t51\n\t\t24\n\t\t27\n\t\t4\n\t\n\t\n\t\tOBREGÓN (ESTANCITAS)\n\t\t3\n\t\t125\n\t\t63\n\t\t62\n\t\t7\n\t\n\t\n\t\tPOTRERO DEL CARNERO\n\t\t3\n\t\t38\n\t\t21\n\t\t17\n\t\t3\n\t\n\t\n\t\tPOZO BENDITO\n\t\t3\n\t\t22\n\t\t9\n\t\t13\n\t\t3\n\t\n\t\n\t\tPOZO DE MOSCAS\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tPUERTECITOS\n\t\t1\n\t\t2\n\t\t2\n\t\t0\n\t\t1\n\t\n\t\n\t\tRAYÓN\n\t\t9\n\t\t1,445\n\t\t756\n\t\t689\n\t\t67\n\t\n\t\n\t\tSAN FELIPE DE JESÚS GAMOTES\n\t\t3\n\t\t65\n\t\t31\n\t\t34\n\t\t4\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t35\n\t\t16\n\t\t19\n\t\t4\n\t\n\t\n\t\tTIERRAS COLORADAS\n\t\t3\n\t\t108\n\t\t53\n\t\t55\n\t\t8\n\t\n\t\n\t\tTORTUGAS\n\t\t3\n\t\t61\n\t\t23\n\t\t38\n\t\t4\n\t\n\t\n\t\tVALLECITOS\n\t\t2\n\t\t5\n\t\t5\n\t\t0\n\t\t1\n\t\n\t\n\t\tVAQUEROS\n\t\t3\n\t\t53\n\t\t20\n\t\t33\n\t\t5\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t5\n\t\t194\n\t\t98\n\t\t96\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t94\n\t\t3,532\n\t\t1,764\n\t\t1,768\n\t\t223\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: RAYÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA DE GAMOTES",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "AGUACATILLOS",
+          "3",
+          "62",
+          "32",
+          "30",
+          "4",
+          "AMOLADERAS",
+          "3",
+          "74",
+          "37",
+          "37",
+          "4",
+          "CERRITO DE LA CRUZ",
+          "3",
+          "104",
+          "50",
+          "54",
+          "6",
+          "CRUCERO DE RAYÓN",
+          "2",
+          "134",
+          "66",
+          "68",
+          "9",
+          "EL AGUACATE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4",
+          "EL EPAZOTE",
+          "3",
+          "90",
+          "42",
+          "48",
+          "8",
+          "EL NOGALITO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "EL PAJARITO",
+          "3",
+          "68",
+          "34",
+          "34",
+          "5",
+          "EL PIRUCHE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "EL RANCHITO",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3",
+          "EL SABINITO",
+          "3",
+          "119",
+          "65",
+          "54",
+          "8",
+          "LA LUZ",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3",
+          "LA NUEVA REFORMA",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3",
+          "LA VIEJA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LAS CANOAS",
+          "5",
+          "273",
+          "123",
+          "150",
+          "15",
+          "LAS GUAPAS",
+          "4",
+          "200",
+          "91",
+          "109",
+          "12",
+          "MORELOS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "NOGALES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4",
+          "OBREGÓN (ESTANCITAS)",
+          "3",
+          "125",
+          "63",
+          "62",
+          "7",
+          "POTRERO DEL CARNERO",
+          "3",
+          "38",
+          "21",
+          "17",
+          "3",
+          "POZO BENDITO",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3",
+          "POZO DE MOSCAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "PUERTECITOS",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1",
+          "RAYÓN",
+          "9",
+          "1,445",
+          "756",
+          "689",
+          "67",
+          "SAN FELIPE DE JESÚS GAMOTES",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4",
+          "SAN FRANCISCO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4",
+          "TIERRAS COLORADAS",
+          "3",
+          "108",
+          "53",
+          "55",
+          "8",
+          "TORTUGAS",
+          "3",
+          "61",
+          "23",
+          "38",
+          "4",
+          "VALLECITOS",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1",
+          "VAQUEROS",
+          "3",
+          "53",
+          "20",
+          "33",
+          "5",
+          "VICENTE GUERRERO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "20",
+          "TOTAL",
+          "94",
+          "3,532",
+          "1,764",
+          "1,768",
+          "223",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: RAYÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE GAMOTES",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "AGUACATILLOS",
+          "3",
+          "62",
+          "32",
+          "30",
+          "4"
+        ],
+        [
+          "AMOLADERAS",
+          "3",
+          "74",
+          "37",
+          "37",
+          "4"
+        ],
+        [
+          "CERRITO DE LA CRUZ",
+          "3",
+          "104",
+          "50",
+          "54",
+          "6"
+        ],
+        [
+          "CRUCERO DE RAYÓN",
+          "2",
+          "134",
+          "66",
+          "68",
+          "9"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "EL EPAZOTE",
+          "3",
+          "90",
+          "42",
+          "48",
+          "8"
+        ],
+        [
+          "EL NOGALITO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL PAJARITO",
+          "3",
+          "68",
+          "34",
+          "34",
+          "5"
+        ],
+        [
+          "EL PIRUCHE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "EL RANCHITO",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "EL SABINITO",
+          "3",
+          "119",
+          "65",
+          "54",
+          "8"
+        ],
+        [
+          "LA LUZ",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "LA NUEVA REFORMA",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LA VIEJA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LAS CANOAS",
+          "5",
+          "273",
+          "123",
+          "150",
+          "15"
+        ],
+        [
+          "LAS GUAPAS",
+          "4",
+          "200",
+          "91",
+          "109",
+          "12"
+        ],
+        [
+          "MORELOS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "OBREGÓN (ESTANCITAS)",
+          "3",
+          "125",
+          "63",
+          "62",
+          "7"
+        ],
+        [
+          "POTRERO DEL CARNERO",
+          "3",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "POZO BENDITO",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "POZO DE MOSCAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PUERTECITOS",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "RAYÓN",
+          "9",
+          "1,445",
+          "756",
+          "689",
+          "67"
+        ],
+        [
+          "SAN FELIPE DE JESÚS GAMOTES",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "3",
+          "108",
+          "53",
+          "55",
+          "8"
+        ],
+        [
+          "TORTUGAS",
+          "3",
+          "61",
+          "23",
+          "38",
+          "4"
+        ],
+        [
+          "VALLECITOS",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "VAQUEROS",
+          "3",
+          "53",
+          "20",
+          "33",
+          "5"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "3,532",
+          "1,764",
+          "1,768",
+          "223"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: RAYÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE GAMOTES",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "AGUACATILLOS",
+          "3",
+          "62",
+          "32",
+          "30",
+          "4"
+        ],
+        [
+          "AMOLADERAS",
+          "3",
+          "74",
+          "37",
+          "37",
+          "4"
+        ],
+        [
+          "CERRITO DE LA CRUZ",
+          "3",
+          "104",
+          "50",
+          "54",
+          "6"
+        ],
+        [
+          "CRUCERO DE RAYÓN",
+          "2",
+          "134",
+          "66",
+          "68",
+          "9"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "EL EPAZOTE",
+          "3",
+          "90",
+          "42",
+          "48",
+          "8"
+        ],
+        [
+          "EL NOGALITO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL PAJARITO",
+          "3",
+          "68",
+          "34",
+          "34",
+          "5"
+        ],
+        [
+          "EL PIRUCHE",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "EL RANCHITO",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "EL SABINITO",
+          "3",
+          "119",
+          "65",
+          "54",
+          "8"
+        ],
+        [
+          "LA LUZ",
+          "3",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "LA NUEVA REFORMA",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LA VIEJA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LAS CANOAS",
+          "5",
+          "273",
+          "123",
+          "150",
+          "15"
+        ],
+        [
+          "LAS GUAPAS",
+          "4",
+          "200",
+          "91",
+          "109",
+          "12"
+        ],
+        [
+          "MORELOS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "OBREGÓN (ESTANCITAS)",
+          "3",
+          "125",
+          "63",
+          "62",
+          "7"
+        ],
+        [
+          "POTRERO DEL CARNERO",
+          "3",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "POZO BENDITO",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "POZO DE MOSCAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PUERTECITOS",
+          "1",
+          "2",
+          "2",
+          "0",
+          "1"
+        ],
+        [
+          "RAYÓN",
+          "9",
+          "1,445",
+          "756",
+          "689",
+          "67"
+        ],
+        [
+          "SAN FELIPE DE JESÚS GAMOTES",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "35",
+          "16",
+          "19",
+          "4"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "3",
+          "108",
+          "53",
+          "55",
+          "8"
+        ],
+        [
+          "TORTUGAS",
+          "3",
+          "61",
+          "23",
+          "38",
+          "4"
+        ],
+        [
+          "VALLECITOS",
+          "2",
+          "5",
+          "5",
+          "0",
+          "1"
+        ],
+        [
+          "VAQUEROS",
+          "3",
+          "53",
+          "20",
+          "33",
+          "5"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "5",
+          "194",
+          "98",
+          "96",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "3,532",
+          "1,764",
+          "1,768",
+          "223"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:50.988Z"
+}

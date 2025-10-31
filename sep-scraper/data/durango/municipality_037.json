@@ -1,0 +1,1154 @@
+{
+  "municipality": "TOPIA",
+  "municipalityCode": "037",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TOPIA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA BLANCA DE LOS ROCHA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tAGUA ESCONDIDA\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL BARRANCO (SAN JOSÉ DE LOS BARRANCOS)\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL CARMEN\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL COMEDERO\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL DESTIERRO\n\t\t2\n\t\t28\n\t\t16\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL LAUREL\n\t\t1\n\t\t9\n\t\t2\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL NURITO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL PALMAREJITO\n\t\t3\n\t\t64\n\t\t34\n\t\t30\n\t\t4\n\t\n\t\n\t\tEL PINO\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL PLATANAR DE SIANORI\n\t\t4\n\t\t171\n\t\t94\n\t\t77\n\t\t8\n\t\n\t\n\t\tEL PUEBLO NUEVO\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL RINCÓN DE GALANCITA (EL RINCÓN DE LOS ALISOS)\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL VENTOSO\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tGALANCITA\n\t\t3\n\t\t123\n\t\t67\n\t\t56\n\t\t8\n\t\n\t\n\t\tHACIENDA DE RUEDA\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA CIENEGUITA\n\t\t2\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA COCHA\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA ESTANZUELA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA HUERTA\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA JOYA\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA JUNTA DE LOS HERNÁNDEZ (LA JUNTA)\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA MESA ROSADA\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA OJEDA\n\t\t3\n\t\t59\n\t\t31\n\t\t28\n\t\t4\n\t\n\t\n\t\tLA SIERRITA DE SANTA BÁRBARA\n\t\t1\n\t\t13\n\t\t2\n\t\t11\n\t\t1\n\t\n\t\n\t\tLA TINAJA\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA VEGA DEL OSO\n\t\t3\n\t\t23\n\t\t8\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t2\n\t\t59\n\t\t32\n\t\t27\n\t\t4\n\t\n\t\n\t\tLAS PAPAS\n\t\t3\n\t\t21\n\t\t12\n\t\t9\n\t\t3\n\t\n\t\n\t\tLAS TRANCAS\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS DE DIARTE\n\t\t2\n\t\t37\n\t\t15\n\t\t22\n\t\t3\n\t\n\t\n\t\tLOS LAURELES\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t2\n\t\n\t\n\t\tLOS PINOS\n\t\t3\n\t\t57\n\t\t29\n\t\t28\n\t\t4\n\t\n\t\n\t\tMANZANILLA\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tMOLINOS\n\t\t2\n\t\t15\n\t\t7\n\t\t8\n\t\t2\n\t\n\t\n\t\tPIE DE LA CUESTA\n\t\t3\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tRANCHO DE ABAJO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tRANCHO DE TÍO JUAN\n\t\t3\n\t\t44\n\t\t22\n\t\t22\n\t\t4\n\t\n\t\n\t\tRANCHO VIEJO I\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tRENTERÍA\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tRINCÓN DE CRUCES\n\t\t1\n\t\t16\n\t\t2\n\t\t14\n\t\t1\n\t\n\t\n\t\tRINCÓN DE SIANORI (RINCÓN VIEJO)\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN BERNABÉ\n\t\t3\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tSIANORI\n\t\t1\n\t\t18\n\t\t12\n\t\t6\n\t\t1\n\t\n\t\n\t\tTOPIA\n\t\t4\n\t\t777\n\t\t417\n\t\t360\n\t\t41\n\t\n\t\n\t\tTORANCE\n\t\t3\n\t\t41\n\t\t20\n\t\t21\n\t\t3\n\t\n\t\n\t\tVALLE DE TOPIA\n\t\t4\n\t\t188\n\t\t109\n\t\t79\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t96\n\t\t2,037\n\t\t1,064\n\t\t973\n\t\t150\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TOPIA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA BLANCA DE LOS ROCHA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "AGUA ESCONDIDA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "EL BARRANCO (SAN JOSÉ DE LOS BARRANCOS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "EL CARMEN",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "EL COMEDERO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "EL DESTIERRO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "2",
+          "EL LAUREL",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1",
+          "EL NURITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "EL PALMAREJITO",
+          "3",
+          "64",
+          "34",
+          "30",
+          "4",
+          "EL PINO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "EL PLATANAR DE SIANORI",
+          "4",
+          "171",
+          "94",
+          "77",
+          "8",
+          "EL PUEBLO NUEVO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "EL RINCÓN DE GALANCITA (EL RINCÓN DE LOS ALISOS)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "EL VENTOSO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "GALANCITA",
+          "3",
+          "123",
+          "67",
+          "56",
+          "8",
+          "HACIENDA DE RUEDA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1",
+          "LA CIENEGUITA",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1",
+          "LA COCHA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "LA ESTANZUELA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA HUERTA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3",
+          "LA JOYA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "LA JUNTA DE LOS HERNÁNDEZ (LA JUNTA)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "LA MESA ROSADA",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1",
+          "LA OJEDA",
+          "3",
+          "59",
+          "31",
+          "28",
+          "4",
+          "LA SIERRITA DE SANTA BÁRBARA",
+          "1",
+          "13",
+          "2",
+          "11",
+          "1",
+          "LA TINAJA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LA VEGA DEL OSO",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3",
+          "LAS ADJUNTAS",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4",
+          "LAS PAPAS",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3",
+          "LAS TRANCAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LOS DE DIARTE",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3",
+          "LOS LAURELES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2",
+          "LOS PINOS",
+          "3",
+          "57",
+          "29",
+          "28",
+          "4",
+          "MANZANILLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "MOLINOS",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2",
+          "PIE DE LA CUESTA",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2",
+          "RANCHO DE ABAJO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "RANCHO DE TÍO JUAN",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4",
+          "RANCHO VIEJO I",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "RENTERÍA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1",
+          "RINCÓN DE CRUCES",
+          "1",
+          "16",
+          "2",
+          "14",
+          "1",
+          "RINCÓN DE SIANORI (RINCÓN VIEJO)",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2",
+          "SAN ANTONIO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2",
+          "SAN BERNABÉ",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3",
+          "SIANORI",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1",
+          "TOPIA",
+          "4",
+          "777",
+          "417",
+          "360",
+          "41",
+          "TORANCE",
+          "3",
+          "41",
+          "20",
+          "21",
+          "3",
+          "VALLE DE TOPIA",
+          "4",
+          "188",
+          "109",
+          "79",
+          "11",
+          "TOTAL",
+          "96",
+          "2,037",
+          "1,064",
+          "973",
+          "150",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TOPIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BLANCA DE LOS ROCHA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "AGUA ESCONDIDA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "EL BARRANCO (SAN JOSÉ DE LOS BARRANCOS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL CARMEN",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL COMEDERO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL DESTIERRO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "2"
+        ],
+        [
+          "EL LAUREL",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "EL NURITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL PALMAREJITO",
+          "3",
+          "64",
+          "34",
+          "30",
+          "4"
+        ],
+        [
+          "EL PINO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "EL PLATANAR DE SIANORI",
+          "4",
+          "171",
+          "94",
+          "77",
+          "8"
+        ],
+        [
+          "EL PUEBLO NUEVO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL RINCÓN DE GALANCITA (EL RINCÓN DE LOS ALISOS)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL VENTOSO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "GALANCITA",
+          "3",
+          "123",
+          "67",
+          "56",
+          "8"
+        ],
+        [
+          "HACIENDA DE RUEDA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA CIENEGUITA",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LA COCHA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LA ESTANZUELA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA HUERTA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LA JUNTA DE LOS HERNÁNDEZ (LA JUNTA)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA ROSADA",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LA OJEDA",
+          "3",
+          "59",
+          "31",
+          "28",
+          "4"
+        ],
+        [
+          "LA SIERRITA DE SANTA BÁRBARA",
+          "1",
+          "13",
+          "2",
+          "11",
+          "1"
+        ],
+        [
+          "LA TINAJA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA VEGA DEL OSO",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4"
+        ],
+        [
+          "LAS PAPAS",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "LAS TRANCAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LOS DE DIARTE",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LOS LAURELES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "LOS PINOS",
+          "3",
+          "57",
+          "29",
+          "28",
+          "4"
+        ],
+        [
+          "MANZANILLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "MOLINOS",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "RANCHO DE ABAJO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RANCHO DE TÍO JUAN",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "RANCHO VIEJO I",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "RENTERÍA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "RINCÓN DE CRUCES",
+          "1",
+          "16",
+          "2",
+          "14",
+          "1"
+        ],
+        [
+          "RINCÓN DE SIANORI (RINCÓN VIEJO)",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "SAN BERNABÉ",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SIANORI",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "TOPIA",
+          "4",
+          "777",
+          "417",
+          "360",
+          "41"
+        ],
+        [
+          "TORANCE",
+          "3",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "VALLE DE TOPIA",
+          "4",
+          "188",
+          "109",
+          "79",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "2,037",
+          "1,064",
+          "973",
+          "150"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: TOPIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BLANCA DE LOS ROCHA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "AGUA ESCONDIDA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "EL BARRANCO (SAN JOSÉ DE LOS BARRANCOS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL CARMEN",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL COMEDERO",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "EL DESTIERRO",
+          "2",
+          "28",
+          "16",
+          "12",
+          "2"
+        ],
+        [
+          "EL LAUREL",
+          "1",
+          "9",
+          "2",
+          "7",
+          "1"
+        ],
+        [
+          "EL NURITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL PALMAREJITO",
+          "3",
+          "64",
+          "34",
+          "30",
+          "4"
+        ],
+        [
+          "EL PINO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "EL PLATANAR DE SIANORI",
+          "4",
+          "171",
+          "94",
+          "77",
+          "8"
+        ],
+        [
+          "EL PUEBLO NUEVO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "EL RINCÓN DE GALANCITA (EL RINCÓN DE LOS ALISOS)",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL VENTOSO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "GALANCITA",
+          "3",
+          "123",
+          "67",
+          "56",
+          "8"
+        ],
+        [
+          "HACIENDA DE RUEDA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA CIENEGUITA",
+          "2",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LA COCHA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LA ESTANZUELA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA HUERTA",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "LA JUNTA DE LOS HERNÁNDEZ (LA JUNTA)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "LA MESA ROSADA",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LA OJEDA",
+          "3",
+          "59",
+          "31",
+          "28",
+          "4"
+        ],
+        [
+          "LA SIERRITA DE SANTA BÁRBARA",
+          "1",
+          "13",
+          "2",
+          "11",
+          "1"
+        ],
+        [
+          "LA TINAJA",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA VEGA DEL OSO",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4"
+        ],
+        [
+          "LAS PAPAS",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "LAS TRANCAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LOS DE DIARTE",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LOS LAURELES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "2"
+        ],
+        [
+          "LOS PINOS",
+          "3",
+          "57",
+          "29",
+          "28",
+          "4"
+        ],
+        [
+          "MANZANILLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "MOLINOS",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "PIE DE LA CUESTA",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "RANCHO DE ABAJO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RANCHO DE TÍO JUAN",
+          "3",
+          "44",
+          "22",
+          "22",
+          "4"
+        ],
+        [
+          "RANCHO VIEJO I",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "RENTERÍA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "RINCÓN DE CRUCES",
+          "1",
+          "16",
+          "2",
+          "14",
+          "1"
+        ],
+        [
+          "RINCÓN DE SIANORI (RINCÓN VIEJO)",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "SAN BERNABÉ",
+          "3",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SIANORI",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "TOPIA",
+          "4",
+          "777",
+          "417",
+          "360",
+          "41"
+        ],
+        [
+          "TORANCE",
+          "3",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "VALLE DE TOPIA",
+          "4",
+          "188",
+          "109",
+          "79",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "2,037",
+          "1,064",
+          "973",
+          "150"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:10.505Z"
+}

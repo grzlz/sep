@@ -1,0 +1,626 @@
+{
+  "municipality": "TECOMÁN",
+  "municipalityCode": "009",
+  "state": "COLIMA",
+  "stateCode": "6",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARTURO NORIEGA PIZANO\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tBOCA DE PASCUALES\n\t\t3\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tCALERAS\n\t\t4\n\t\t425\n\t\t230\n\t\t195\n\t\t25\n\t\n\t\n\t\tCALLEJONES\n\t\t3\n\t\t73\n\t\t37\n\t\t36\n\t\t5\n\t\n\t\n\t\tCERRITO DE AGUILAR\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t2\n\t\n\t\n\t\tCERRO DE ORTEGA\n\t\t14\n\t\t2,182\n\t\t1,138\n\t\t1,044\n\t\t120\n\t\n\t\n\t\tCHANCHOPA\n\t\t2\n\t\t46\n\t\t25\n\t\t21\n\t\t5\n\t\n\t\n\t\tCOFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)\n\t\t1\n\t\t73\n\t\t36\n\t\t37\n\t\t3\n\t\n\t\n\t\tCOFRADÍA DE MORELOS\n\t\t5\n\t\t672\n\t\t358\n\t\t314\n\t\t32\n\t\n\t\n\t\tCOLONIA BAYARDO\n\t\t10\n\t\t1,092\n\t\t569\n\t\t523\n\t\t74\n\t\n\t\n\t\tEL HORMIGUERO UNO\n\t\t2\n\t\t149\n\t\t75\n\t\t74\n\t\t8\n\t\n\t\n\t\tEL SAUCITO\n\t\t2\n\t\t45\n\t\t28\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA CARIMACHA [LUCIO LEÓN]\n\t\t1\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA CUARTA\n\t\t3\n\t\t26\n\t\t13\n\t\t13\n\t\t4\n\t\n\t\n\t\tLA SALADA\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAGUNA DE ALCUZAHUE\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t4\n\t\n\t\n\t\tLAS DOS ROSITAS\n\t\t3\n\t\t19\n\t\t11\n\t\t8\n\t\t3\n\t\n\t\n\t\tMADRID\n\t\t6\n\t\t709\n\t\t357\n\t\t352\n\t\t47\n\t\n\t\n\t\tSAN ÁNGEL\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL DEL OJO DE AGUA\n\t\t4\n\t\t116\n\t\t66\n\t\t50\n\t\t9\n\t\n\t\n\t\tTECOLAPA\n\t\t4\n\t\t170\n\t\t83\n\t\t87\n\t\t12\n\t\n\t\n\t\tTECOMÁN\n\t\t137\n\t\t22,216\n\t\t11,476\n\t\t10,740\n\t\t1,620\n\t\n\t\n\t\tTECUANILLO [BALNEARIO]\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t217\n\t\t28,170\n\t\t14,582\n\t\t13,588\n\t\t1,989\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARTURO NORIEGA PIZANO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3",
+          "BOCA DE PASCUALES",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2",
+          "CALERAS",
+          "4",
+          "425",
+          "230",
+          "195",
+          "25",
+          "CALLEJONES",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5",
+          "CERRITO DE AGUILAR",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2",
+          "CERRO DE ORTEGA",
+          "14",
+          "2,182",
+          "1,138",
+          "1,044",
+          "120",
+          "CHANCHOPA",
+          "2",
+          "46",
+          "25",
+          "21",
+          "5",
+          "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+          "1",
+          "73",
+          "36",
+          "37",
+          "3",
+          "COFRADÍA DE MORELOS",
+          "5",
+          "672",
+          "358",
+          "314",
+          "32",
+          "COLONIA BAYARDO",
+          "10",
+          "1,092",
+          "569",
+          "523",
+          "74",
+          "EL HORMIGUERO UNO",
+          "2",
+          "149",
+          "75",
+          "74",
+          "8",
+          "EL SAUCITO",
+          "2",
+          "45",
+          "28",
+          "17",
+          "3",
+          "LA CARIMACHA [LUCIO LEÓN]",
+          "1",
+          "20",
+          "12",
+          "8",
+          "2",
+          "LA CUARTA",
+          "3",
+          "26",
+          "13",
+          "13",
+          "4",
+          "LA SALADA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "LAGUNA DE ALCUZAHUE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4",
+          "LAS DOS ROSITAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3",
+          "MADRID",
+          "6",
+          "709",
+          "357",
+          "352",
+          "47",
+          "SAN ÁNGEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "SAN JOSÉ",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2",
+          "SAN MIGUEL DEL OJO DE AGUA",
+          "4",
+          "116",
+          "66",
+          "50",
+          "9",
+          "TECOLAPA",
+          "4",
+          "170",
+          "83",
+          "87",
+          "12",
+          "TECOMÁN",
+          "137",
+          "22,216",
+          "11,476",
+          "10,740",
+          "1,620",
+          "TECUANILLO [BALNEARIO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "TOTAL",
+          "217",
+          "28,170",
+          "14,582",
+          "13,588",
+          "1,989",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARTURO NORIEGA PIZANO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "BOCA DE PASCUALES",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "CALERAS",
+          "4",
+          "425",
+          "230",
+          "195",
+          "25"
+        ],
+        [
+          "CALLEJONES",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5"
+        ],
+        [
+          "CERRITO DE AGUILAR",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "CERRO DE ORTEGA",
+          "14",
+          "2,182",
+          "1,138",
+          "1,044",
+          "120"
+        ],
+        [
+          "CHANCHOPA",
+          "2",
+          "46",
+          "25",
+          "21",
+          "5"
+        ],
+        [
+          "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+          "1",
+          "73",
+          "36",
+          "37",
+          "3"
+        ],
+        [
+          "COFRADÍA DE MORELOS",
+          "5",
+          "672",
+          "358",
+          "314",
+          "32"
+        ],
+        [
+          "COLONIA BAYARDO",
+          "10",
+          "1,092",
+          "569",
+          "523",
+          "74"
+        ],
+        [
+          "EL HORMIGUERO UNO",
+          "2",
+          "149",
+          "75",
+          "74",
+          "8"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "45",
+          "28",
+          "17",
+          "3"
+        ],
+        [
+          "LA CARIMACHA [LUCIO LEÓN]",
+          "1",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "LA CUARTA",
+          "3",
+          "26",
+          "13",
+          "13",
+          "4"
+        ],
+        [
+          "LA SALADA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LAGUNA DE ALCUZAHUE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "LAS DOS ROSITAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "MADRID",
+          "6",
+          "709",
+          "357",
+          "352",
+          "47"
+        ],
+        [
+          "SAN ÁNGEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DEL OJO DE AGUA",
+          "4",
+          "116",
+          "66",
+          "50",
+          "9"
+        ],
+        [
+          "TECOLAPA",
+          "4",
+          "170",
+          "83",
+          "87",
+          "12"
+        ],
+        [
+          "TECOMÁN",
+          "137",
+          "22,216",
+          "11,476",
+          "10,740",
+          "1,620"
+        ],
+        [
+          "TECUANILLO [BALNEARIO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "217",
+          "28,170",
+          "14,582",
+          "13,588",
+          "1,989"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: TECOMÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARTURO NORIEGA PIZANO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "BOCA DE PASCUALES",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "CALERAS",
+          "4",
+          "425",
+          "230",
+          "195",
+          "25"
+        ],
+        [
+          "CALLEJONES",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5"
+        ],
+        [
+          "CERRITO DE AGUILAR",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "CERRO DE ORTEGA",
+          "14",
+          "2,182",
+          "1,138",
+          "1,044",
+          "120"
+        ],
+        [
+          "CHANCHOPA",
+          "2",
+          "46",
+          "25",
+          "21",
+          "5"
+        ],
+        [
+          "COFRADÍA DE HIDALGO (LAGUNA DE ALCUZAHUE)",
+          "1",
+          "73",
+          "36",
+          "37",
+          "3"
+        ],
+        [
+          "COFRADÍA DE MORELOS",
+          "5",
+          "672",
+          "358",
+          "314",
+          "32"
+        ],
+        [
+          "COLONIA BAYARDO",
+          "10",
+          "1,092",
+          "569",
+          "523",
+          "74"
+        ],
+        [
+          "EL HORMIGUERO UNO",
+          "2",
+          "149",
+          "75",
+          "74",
+          "8"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "45",
+          "28",
+          "17",
+          "3"
+        ],
+        [
+          "LA CARIMACHA [LUCIO LEÓN]",
+          "1",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "LA CUARTA",
+          "3",
+          "26",
+          "13",
+          "13",
+          "4"
+        ],
+        [
+          "LA SALADA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LAGUNA DE ALCUZAHUE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "LAS DOS ROSITAS",
+          "3",
+          "19",
+          "11",
+          "8",
+          "3"
+        ],
+        [
+          "MADRID",
+          "6",
+          "709",
+          "357",
+          "352",
+          "47"
+        ],
+        [
+          "SAN ÁNGEL",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "5",
+          "4",
+          "1",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DEL OJO DE AGUA",
+          "4",
+          "116",
+          "66",
+          "50",
+          "9"
+        ],
+        [
+          "TECOLAPA",
+          "4",
+          "170",
+          "83",
+          "87",
+          "12"
+        ],
+        [
+          "TECOMÁN",
+          "137",
+          "22,216",
+          "11,476",
+          "10,740",
+          "1,620"
+        ],
+        [
+          "TECUANILLO [BALNEARIO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "217",
+          "28,170",
+          "14,582",
+          "13,588",
+          "1,989"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:11.403Z"
+}

@@ -1,0 +1,428 @@
+{
+  "municipality": "APODACA",
+  "municipalityCode": "006",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: APODACA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t2\n\t\t251\n\t\t132\n\t\t119\n\t\t10\n\t\n\t\n\t\tARTEMIO TREVIÑO\n\t\t5\n\t\t1,056\n\t\t531\n\t\t525\n\t\t49\n\t\n\t\n\t\tCIUDAD APODACA\n\t\t502\n\t\t116,118\n\t\t56,483\n\t\t59,635\n\t\t5,625\n\t\n\t\n\t\tCIUDAD NATURA\n\t\t4\n\t\t1,272\n\t\t607\n\t\t665\n\t\t41\n\t\n\t\n\t\tEL CORRIENTÓN\n\t\t3\n\t\t382\n\t\t193\n\t\t189\n\t\t23\n\t\n\t\n\t\tEX-HACIENDA DE SANTA ROSA\n\t\t5\n\t\t259\n\t\t126\n\t\t133\n\t\t25\n\t\n\t\n\t\tEX-HACIENDA SANTA ROSA\n\t\t4\n\t\t691\n\t\t315\n\t\t376\n\t\t25\n\t\n\t\n\t\tFRACCIONAMIENTO COSMÓPOLIS OCTAVO SECTOR\n\t\t4\n\t\t557\n\t\t282\n\t\t275\n\t\t24\n\t\n\t\n\t\tFRACCIONAMIENTO MISIÓN DE SAN JAVIER\n\t\t4\n\t\t1,072\n\t\t541\n\t\t531\n\t\t34\n\t\n\t\n\t\tLOMA LA PAZ\n\t\t5\n\t\t1,428\n\t\t710\n\t\t718\n\t\t54\n\t\n\t\n\t\tLOS ÉBANOS\n\t\t7\n\t\t1,601\n\t\t799\n\t\t802\n\t\t102\n\t\n\t\n\t\tMISIÓN SAN PABLO\n\t\t6\n\t\t2,086\n\t\t1,036\n\t\t1,050\n\t\t93\n\t\n\t\n\t\tPRADOS DE SANTA ROSA\n\t\t11\n\t\t2,188\n\t\t1,120\n\t\t1,068\n\t\t133\n\t\n\t\n\t\tSANTA ROSA\n\t\t15\n\t\t3,260\n\t\t1,615\n\t\t1,645\n\t\t134\n\t\n\t\n\t\tTRIANA\n\t\t2\n\t\t218\n\t\t111\n\t\t107\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t579\n\t\t132,439\n\t\t64,601\n\t\t67,838\n\t\t6,382\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: APODACA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "2",
+          "251",
+          "132",
+          "119",
+          "10",
+          "ARTEMIO TREVIÑO",
+          "5",
+          "1,056",
+          "531",
+          "525",
+          "49",
+          "CIUDAD APODACA",
+          "502",
+          "116,118",
+          "56,483",
+          "59,635",
+          "5,625",
+          "CIUDAD NATURA",
+          "4",
+          "1,272",
+          "607",
+          "665",
+          "41",
+          "EL CORRIENTÓN",
+          "3",
+          "382",
+          "193",
+          "189",
+          "23",
+          "EX-HACIENDA DE SANTA ROSA",
+          "5",
+          "259",
+          "126",
+          "133",
+          "25",
+          "EX-HACIENDA SANTA ROSA",
+          "4",
+          "691",
+          "315",
+          "376",
+          "25",
+          "FRACCIONAMIENTO COSMÓPOLIS OCTAVO SECTOR",
+          "4",
+          "557",
+          "282",
+          "275",
+          "24",
+          "FRACCIONAMIENTO MISIÓN DE SAN JAVIER",
+          "4",
+          "1,072",
+          "541",
+          "531",
+          "34",
+          "LOMA LA PAZ",
+          "5",
+          "1,428",
+          "710",
+          "718",
+          "54",
+          "LOS ÉBANOS",
+          "7",
+          "1,601",
+          "799",
+          "802",
+          "102",
+          "MISIÓN SAN PABLO",
+          "6",
+          "2,086",
+          "1,036",
+          "1,050",
+          "93",
+          "PRADOS DE SANTA ROSA",
+          "11",
+          "2,188",
+          "1,120",
+          "1,068",
+          "133",
+          "SANTA ROSA",
+          "15",
+          "3,260",
+          "1,615",
+          "1,645",
+          "134",
+          "TRIANA",
+          "2",
+          "218",
+          "111",
+          "107",
+          "10",
+          "TOTAL",
+          "579",
+          "132,439",
+          "64,601",
+          "67,838",
+          "6,382",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: APODACA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "2",
+          "251",
+          "132",
+          "119",
+          "10"
+        ],
+        [
+          "ARTEMIO TREVIÑO",
+          "5",
+          "1,056",
+          "531",
+          "525",
+          "49"
+        ],
+        [
+          "CIUDAD APODACA",
+          "502",
+          "116,118",
+          "56,483",
+          "59,635",
+          "5,625"
+        ],
+        [
+          "CIUDAD NATURA",
+          "4",
+          "1,272",
+          "607",
+          "665",
+          "41"
+        ],
+        [
+          "EL CORRIENTÓN",
+          "3",
+          "382",
+          "193",
+          "189",
+          "23"
+        ],
+        [
+          "EX-HACIENDA DE SANTA ROSA",
+          "5",
+          "259",
+          "126",
+          "133",
+          "25"
+        ],
+        [
+          "EX-HACIENDA SANTA ROSA",
+          "4",
+          "691",
+          "315",
+          "376",
+          "25"
+        ],
+        [
+          "FRACCIONAMIENTO COSMÓPOLIS OCTAVO SECTOR",
+          "4",
+          "557",
+          "282",
+          "275",
+          "24"
+        ],
+        [
+          "FRACCIONAMIENTO MISIÓN DE SAN JAVIER",
+          "4",
+          "1,072",
+          "541",
+          "531",
+          "34"
+        ],
+        [
+          "LOMA LA PAZ",
+          "5",
+          "1,428",
+          "710",
+          "718",
+          "54"
+        ],
+        [
+          "LOS ÉBANOS",
+          "7",
+          "1,601",
+          "799",
+          "802",
+          "102"
+        ],
+        [
+          "MISIÓN SAN PABLO",
+          "6",
+          "2,086",
+          "1,036",
+          "1,050",
+          "93"
+        ],
+        [
+          "PRADOS DE SANTA ROSA",
+          "11",
+          "2,188",
+          "1,120",
+          "1,068",
+          "133"
+        ],
+        [
+          "SANTA ROSA",
+          "15",
+          "3,260",
+          "1,615",
+          "1,645",
+          "134"
+        ],
+        [
+          "TRIANA",
+          "2",
+          "218",
+          "111",
+          "107",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "579",
+          "132,439",
+          "64,601",
+          "67,838",
+          "6,382"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: APODACA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "2",
+          "251",
+          "132",
+          "119",
+          "10"
+        ],
+        [
+          "ARTEMIO TREVIÑO",
+          "5",
+          "1,056",
+          "531",
+          "525",
+          "49"
+        ],
+        [
+          "CIUDAD APODACA",
+          "502",
+          "116,118",
+          "56,483",
+          "59,635",
+          "5,625"
+        ],
+        [
+          "CIUDAD NATURA",
+          "4",
+          "1,272",
+          "607",
+          "665",
+          "41"
+        ],
+        [
+          "EL CORRIENTÓN",
+          "3",
+          "382",
+          "193",
+          "189",
+          "23"
+        ],
+        [
+          "EX-HACIENDA DE SANTA ROSA",
+          "5",
+          "259",
+          "126",
+          "133",
+          "25"
+        ],
+        [
+          "EX-HACIENDA SANTA ROSA",
+          "4",
+          "691",
+          "315",
+          "376",
+          "25"
+        ],
+        [
+          "FRACCIONAMIENTO COSMÓPOLIS OCTAVO SECTOR",
+          "4",
+          "557",
+          "282",
+          "275",
+          "24"
+        ],
+        [
+          "FRACCIONAMIENTO MISIÓN DE SAN JAVIER",
+          "4",
+          "1,072",
+          "541",
+          "531",
+          "34"
+        ],
+        [
+          "LOMA LA PAZ",
+          "5",
+          "1,428",
+          "710",
+          "718",
+          "54"
+        ],
+        [
+          "LOS ÉBANOS",
+          "7",
+          "1,601",
+          "799",
+          "802",
+          "102"
+        ],
+        [
+          "MISIÓN SAN PABLO",
+          "6",
+          "2,086",
+          "1,036",
+          "1,050",
+          "93"
+        ],
+        [
+          "PRADOS DE SANTA ROSA",
+          "11",
+          "2,188",
+          "1,120",
+          "1,068",
+          "133"
+        ],
+        [
+          "SANTA ROSA",
+          "15",
+          "3,260",
+          "1,615",
+          "1,645",
+          "134"
+        ],
+        [
+          "TRIANA",
+          "2",
+          "218",
+          "111",
+          "107",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "579",
+          "132,439",
+          "64,601",
+          "67,838",
+          "6,382"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:13.395Z"
+}

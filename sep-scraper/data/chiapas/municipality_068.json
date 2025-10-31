@@ -1,0 +1,1088 @@
+{
+  "municipality": "PICHUCALCO",
+  "municipalityCode": "068",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: PICHUCALCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBLANQUILLO 1RA. SECCIÓN\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tBLANQUILLO 2DA. SECCIÓN\n\t\t4\n\t\t71\n\t\t35\n\t\t36\n\t\t6\n\t\n\t\n\t\tCAIMBA\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tCAMOAPA 1RA. SECCIÓN A (LA CLÍNICA)\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tCAMOAPA 1RA. SECCIÓN A (PORTACELI)\n\t\t6\n\t\t65\n\t\t31\n\t\t34\n\t\t6\n\t\n\t\n\t\tCAMOAPA 2DA. SECCIÓN A CENTRO\n\t\t3\n\t\t49\n\t\t30\n\t\t19\n\t\t4\n\t\n\t\n\t\tCAMOAPA 2DA. SECCIÓN B (EL MIGUEL)\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tCAMOAPITA 1RA. SECCIÓN A (SAN ISIDRO)\n\t\t7\n\t\t150\n\t\t72\n\t\t78\n\t\t11\n\t\n\t\n\t\tCAMOAPITA 1RA. SECCIÓN B (LA CLÍNICA)\n\t\t1\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tCAMOAPITA 2DA. SECCIÓN (EL SINAÍ)\n\t\t2\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tCAMOAPITA 2DA. SECCIÓN A (CENTRO)\n\t\t3\n\t\t45\n\t\t20\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL AZUFRE 1RA. SECCIÓN\n\t\t9\n\t\t70\n\t\t36\n\t\t34\n\t\t9\n\t\n\t\n\t\tEL AZUFRE 2DA. SECCIÓN\n\t\t10\n\t\t162\n\t\t75\n\t\t87\n\t\t11\n\t\n\t\n\t\tEL CERRO 1RA. SECCIÓN\n\t\t2\n\t\t36\n\t\t19\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL CERRO 2DA. SECCIÓN\n\t\t3\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL CHORRO\n\t\t2\n\t\t27\n\t\t9\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL CUCAYO\n\t\t5\n\t\t51\n\t\t28\n\t\t23\n\t\t6\n\t\n\t\n\t\tEL SACRIFICIO\n\t\t1\n\t\t12\n\t\t9\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tIGNACIO ZARAGOZA ALTO\n\t\t5\n\t\t51\n\t\t32\n\t\t19\n\t\t6\n\t\n\t\n\t\tIGNACIO ZARAGOZA BAJO\n\t\t7\n\t\t305\n\t\t129\n\t\t176\n\t\t16\n\t\n\t\n\t\tLOS CASCABELES\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLUIS DONALDO COLOSIO MURRIETA\n\t\t1\n\t\t43\n\t\t19\n\t\t24\n\t\t2\n\t\n\t\n\t\tMARIANO MATAMOROS 1RA. SECCIÓN A\n\t\t5\n\t\t75\n\t\t37\n\t\t38\n\t\t7\n\t\n\t\n\t\tMARIANO MATAMOROS SEGUNDA SECCIÓN\n\t\t4\n\t\t72\n\t\t40\n\t\t32\n\t\t5\n\t\n\t\n\t\tMIGUEL HIDALGO\n\t\t7\n\t\t67\n\t\t28\n\t\t39\n\t\t7\n\t\n\t\n\t\tNAPANA\n\t\t2\n\t\t238\n\t\t116\n\t\t122\n\t\t9\n\t\n\t\n\t\tNICOLÁS BRAVO 1RA. SECCIÓN\n\t\t2\n\t\t31\n\t\t21\n\t\t10\n\t\t3\n\t\n\t\n\t\tNICOLÁS BRAVO 2DA. SECCIÓN\n\t\t3\n\t\t29\n\t\t18\n\t\t11\n\t\t3\n\t\n\t\n\t\tNUEVO NICAPA\n\t\t4\n\t\t516\n\t\t248\n\t\t268\n\t\t18\n\t\n\t\n\t\tNUEVO SAN CARLOS\n\t\t1\n\t\t13\n\t\t3\n\t\t10\n\t\t1\n\t\n\t\n\t\tPICHUCALCO\n\t\t37\n\t\t6,333\n\t\t3,315\n\t\t3,018\n\t\t433\n\t\n\t\n\t\tPLATANAR ABAJO 1RA. SECCIÓN (LA CRIMEA)\n\t\t4\n\t\t216\n\t\t97\n\t\t119\n\t\t14\n\t\n\t\n\t\tPLATANAR ABAJO 2DA. SECCIÓN (UNIDAD CHIAPANECA)\n\t\t2\n\t\t44\n\t\t27\n\t\t17\n\t\t4\n\t\n\t\n\t\tPLATANAR ABAJO 2DA. SECCIÓN A (EL PORVENIR)\n\t\t1\n\t\t37\n\t\t21\n\t\t16\n\t\t2\n\t\n\t\n\t\tPLATANAR ABAJO 2DA. SECCIÓN B (BATERÍA CHIAPAS)\n\t\t3\n\t\t18\n\t\t4\n\t\t14\n\t\t3\n\t\n\t\n\t\tPLATANAR ARRIBA 1RA. SECCIÓN A (LOS TOPES)\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tPLATANAR ARRIBA 1RA. SECCIÓN B (LA FLORIDA)\n\t\t11\n\t\t194\n\t\t99\n\t\t95\n\t\t15\n\t\n\t\n\t\tPLAYAS\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tPLUTARCO ELÍAS CALLES\n\t\t3\n\t\t98\n\t\t41\n\t\t57\n\t\t6\n\t\n\t\n\t\tSAN CARLOS\n\t\t3\n\t\t34\n\t\t15\n\t\t19\n\t\t4\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t1\n\t\t19\n\t\t8\n\t\t11\n\t\t1\n\t\n\t\n\t\tTECTUAPAN\n\t\t4\n\t\t323\n\t\t153\n\t\t170\n\t\t15\n\t\n\t\n\t\tVIEJO NICAPA\n\t\t4\n\t\t169\n\t\t81\n\t\t88\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t186\n\t\t9,844\n\t\t4,997\n\t\t4,847\n\t\t671\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: PICHUCALCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BLANQUILLO 1RA. SECCIÓN",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "BLANQUILLO 2DA. SECCIÓN",
+          "4",
+          "71",
+          "35",
+          "36",
+          "6",
+          "CAIMBA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2",
+          "CAMOAPA 1RA. SECCIÓN A (LA CLÍNICA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "CAMOAPA 1RA. SECCIÓN A (PORTACELI)",
+          "6",
+          "65",
+          "31",
+          "34",
+          "6",
+          "CAMOAPA 2DA. SECCIÓN A CENTRO",
+          "3",
+          "49",
+          "30",
+          "19",
+          "4",
+          "CAMOAPA 2DA. SECCIÓN B (EL MIGUEL)",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "CAMOAPITA 1RA. SECCIÓN A (SAN ISIDRO)",
+          "7",
+          "150",
+          "72",
+          "78",
+          "11",
+          "CAMOAPITA 1RA. SECCIÓN B (LA CLÍNICA)",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2",
+          "CAMOAPITA 2DA. SECCIÓN (EL SINAÍ)",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2",
+          "CAMOAPITA 2DA. SECCIÓN A (CENTRO)",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3",
+          "EL AZUFRE 1RA. SECCIÓN",
+          "9",
+          "70",
+          "36",
+          "34",
+          "9",
+          "EL AZUFRE 2DA. SECCIÓN",
+          "10",
+          "162",
+          "75",
+          "87",
+          "11",
+          "EL CERRO 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3",
+          "EL CERRO 2DA. SECCIÓN",
+          "3",
+          "27",
+          "13",
+          "14",
+          "3",
+          "EL CHORRO",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3",
+          "EL CUCAYO",
+          "5",
+          "51",
+          "28",
+          "23",
+          "6",
+          "EL SACRIFICIO",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1",
+          "EL ZAPOTE",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3",
+          "FRANCISCO VILLA",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "IGNACIO ZARAGOZA ALTO",
+          "5",
+          "51",
+          "32",
+          "19",
+          "6",
+          "IGNACIO ZARAGOZA BAJO",
+          "7",
+          "305",
+          "129",
+          "176",
+          "16",
+          "LOS CASCABELES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "43",
+          "19",
+          "24",
+          "2",
+          "MARIANO MATAMOROS 1RA. SECCIÓN A",
+          "5",
+          "75",
+          "37",
+          "38",
+          "7",
+          "MARIANO MATAMOROS SEGUNDA SECCIÓN",
+          "4",
+          "72",
+          "40",
+          "32",
+          "5",
+          "MIGUEL HIDALGO",
+          "7",
+          "67",
+          "28",
+          "39",
+          "7",
+          "NAPANA",
+          "2",
+          "238",
+          "116",
+          "122",
+          "9",
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3",
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "29",
+          "18",
+          "11",
+          "3",
+          "NUEVO NICAPA",
+          "4",
+          "516",
+          "248",
+          "268",
+          "18",
+          "NUEVO SAN CARLOS",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1",
+          "PICHUCALCO",
+          "37",
+          "6,333",
+          "3,315",
+          "3,018",
+          "433",
+          "PLATANAR ABAJO 1RA. SECCIÓN (LA CRIMEA)",
+          "4",
+          "216",
+          "97",
+          "119",
+          "14",
+          "PLATANAR ABAJO 2DA. SECCIÓN (UNIDAD CHIAPANECA)",
+          "2",
+          "44",
+          "27",
+          "17",
+          "4",
+          "PLATANAR ABAJO 2DA. SECCIÓN A (EL PORVENIR)",
+          "1",
+          "37",
+          "21",
+          "16",
+          "2",
+          "PLATANAR ABAJO 2DA. SECCIÓN B (BATERÍA CHIAPAS)",
+          "3",
+          "18",
+          "4",
+          "14",
+          "3",
+          "PLATANAR ARRIBA 1RA. SECCIÓN A (LOS TOPES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "PLATANAR ARRIBA 1RA. SECCIÓN B (LA FLORIDA)",
+          "11",
+          "194",
+          "99",
+          "95",
+          "15",
+          "PLAYAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "98",
+          "41",
+          "57",
+          "6",
+          "SAN CARLOS",
+          "3",
+          "34",
+          "15",
+          "19",
+          "4",
+          "SAN JOAQUÍN",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1",
+          "TECTUAPAN",
+          "4",
+          "323",
+          "153",
+          "170",
+          "15",
+          "VIEJO NICAPA",
+          "4",
+          "169",
+          "81",
+          "88",
+          "12",
+          "TOTAL",
+          "186",
+          "9,844",
+          "4,997",
+          "4,847",
+          "671",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: PICHUCALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BLANQUILLO 1RA. SECCIÓN",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "BLANQUILLO 2DA. SECCIÓN",
+          "4",
+          "71",
+          "35",
+          "36",
+          "6"
+        ],
+        [
+          "CAIMBA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "CAMOAPA 1RA. SECCIÓN A (LA CLÍNICA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "CAMOAPA 1RA. SECCIÓN A (PORTACELI)",
+          "6",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "CAMOAPA 2DA. SECCIÓN A CENTRO",
+          "3",
+          "49",
+          "30",
+          "19",
+          "4"
+        ],
+        [
+          "CAMOAPA 2DA. SECCIÓN B (EL MIGUEL)",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "CAMOAPITA 1RA. SECCIÓN A (SAN ISIDRO)",
+          "7",
+          "150",
+          "72",
+          "78",
+          "11"
+        ],
+        [
+          "CAMOAPITA 1RA. SECCIÓN B (LA CLÍNICA)",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "CAMOAPITA 2DA. SECCIÓN (EL SINAÍ)",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "CAMOAPITA 2DA. SECCIÓN A (CENTRO)",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "EL AZUFRE 1RA. SECCIÓN",
+          "9",
+          "70",
+          "36",
+          "34",
+          "9"
+        ],
+        [
+          "EL AZUFRE 2DA. SECCIÓN",
+          "10",
+          "162",
+          "75",
+          "87",
+          "11"
+        ],
+        [
+          "EL CERRO 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "EL CERRO 2DA. SECCIÓN",
+          "3",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "EL CHORRO",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "EL CUCAYO",
+          "5",
+          "51",
+          "28",
+          "23",
+          "6"
+        ],
+        [
+          "EL SACRIFICIO",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "IGNACIO ZARAGOZA ALTO",
+          "5",
+          "51",
+          "32",
+          "19",
+          "6"
+        ],
+        [
+          "IGNACIO ZARAGOZA BAJO",
+          "7",
+          "305",
+          "129",
+          "176",
+          "16"
+        ],
+        [
+          "LOS CASCABELES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "43",
+          "19",
+          "24",
+          "2"
+        ],
+        [
+          "MARIANO MATAMOROS 1RA. SECCIÓN A",
+          "5",
+          "75",
+          "37",
+          "38",
+          "7"
+        ],
+        [
+          "MARIANO MATAMOROS SEGUNDA SECCIÓN",
+          "4",
+          "72",
+          "40",
+          "32",
+          "5"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "7",
+          "67",
+          "28",
+          "39",
+          "7"
+        ],
+        [
+          "NAPANA",
+          "2",
+          "238",
+          "116",
+          "122",
+          "9"
+        ],
+        [
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3"
+        ],
+        [
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "29",
+          "18",
+          "11",
+          "3"
+        ],
+        [
+          "NUEVO NICAPA",
+          "4",
+          "516",
+          "248",
+          "268",
+          "18"
+        ],
+        [
+          "NUEVO SAN CARLOS",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "PICHUCALCO",
+          "37",
+          "6,333",
+          "3,315",
+          "3,018",
+          "433"
+        ],
+        [
+          "PLATANAR ABAJO 1RA. SECCIÓN (LA CRIMEA)",
+          "4",
+          "216",
+          "97",
+          "119",
+          "14"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN (UNIDAD CHIAPANECA)",
+          "2",
+          "44",
+          "27",
+          "17",
+          "4"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN A (EL PORVENIR)",
+          "1",
+          "37",
+          "21",
+          "16",
+          "2"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN B (BATERÍA CHIAPAS)",
+          "3",
+          "18",
+          "4",
+          "14",
+          "3"
+        ],
+        [
+          "PLATANAR ARRIBA 1RA. SECCIÓN A (LOS TOPES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PLATANAR ARRIBA 1RA. SECCIÓN B (LA FLORIDA)",
+          "11",
+          "194",
+          "99",
+          "95",
+          "15"
+        ],
+        [
+          "PLAYAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "98",
+          "41",
+          "57",
+          "6"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "34",
+          "15",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "TECTUAPAN",
+          "4",
+          "323",
+          "153",
+          "170",
+          "15"
+        ],
+        [
+          "VIEJO NICAPA",
+          "4",
+          "169",
+          "81",
+          "88",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "186",
+          "9,844",
+          "4,997",
+          "4,847",
+          "671"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: PICHUCALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BLANQUILLO 1RA. SECCIÓN",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "BLANQUILLO 2DA. SECCIÓN",
+          "4",
+          "71",
+          "35",
+          "36",
+          "6"
+        ],
+        [
+          "CAIMBA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "CAMOAPA 1RA. SECCIÓN A (LA CLÍNICA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "CAMOAPA 1RA. SECCIÓN A (PORTACELI)",
+          "6",
+          "65",
+          "31",
+          "34",
+          "6"
+        ],
+        [
+          "CAMOAPA 2DA. SECCIÓN A CENTRO",
+          "3",
+          "49",
+          "30",
+          "19",
+          "4"
+        ],
+        [
+          "CAMOAPA 2DA. SECCIÓN B (EL MIGUEL)",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "CAMOAPITA 1RA. SECCIÓN A (SAN ISIDRO)",
+          "7",
+          "150",
+          "72",
+          "78",
+          "11"
+        ],
+        [
+          "CAMOAPITA 1RA. SECCIÓN B (LA CLÍNICA)",
+          "1",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "CAMOAPITA 2DA. SECCIÓN (EL SINAÍ)",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "CAMOAPITA 2DA. SECCIÓN A (CENTRO)",
+          "3",
+          "45",
+          "20",
+          "25",
+          "3"
+        ],
+        [
+          "EL AZUFRE 1RA. SECCIÓN",
+          "9",
+          "70",
+          "36",
+          "34",
+          "9"
+        ],
+        [
+          "EL AZUFRE 2DA. SECCIÓN",
+          "10",
+          "162",
+          "75",
+          "87",
+          "11"
+        ],
+        [
+          "EL CERRO 1RA. SECCIÓN",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "EL CERRO 2DA. SECCIÓN",
+          "3",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "EL CHORRO",
+          "2",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "EL CUCAYO",
+          "5",
+          "51",
+          "28",
+          "23",
+          "6"
+        ],
+        [
+          "EL SACRIFICIO",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "IGNACIO ZARAGOZA ALTO",
+          "5",
+          "51",
+          "32",
+          "19",
+          "6"
+        ],
+        [
+          "IGNACIO ZARAGOZA BAJO",
+          "7",
+          "305",
+          "129",
+          "176",
+          "16"
+        ],
+        [
+          "LOS CASCABELES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "43",
+          "19",
+          "24",
+          "2"
+        ],
+        [
+          "MARIANO MATAMOROS 1RA. SECCIÓN A",
+          "5",
+          "75",
+          "37",
+          "38",
+          "7"
+        ],
+        [
+          "MARIANO MATAMOROS SEGUNDA SECCIÓN",
+          "4",
+          "72",
+          "40",
+          "32",
+          "5"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "7",
+          "67",
+          "28",
+          "39",
+          "7"
+        ],
+        [
+          "NAPANA",
+          "2",
+          "238",
+          "116",
+          "122",
+          "9"
+        ],
+        [
+          "NICOLÁS BRAVO 1RA. SECCIÓN",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3"
+        ],
+        [
+          "NICOLÁS BRAVO 2DA. SECCIÓN",
+          "3",
+          "29",
+          "18",
+          "11",
+          "3"
+        ],
+        [
+          "NUEVO NICAPA",
+          "4",
+          "516",
+          "248",
+          "268",
+          "18"
+        ],
+        [
+          "NUEVO SAN CARLOS",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "PICHUCALCO",
+          "37",
+          "6,333",
+          "3,315",
+          "3,018",
+          "433"
+        ],
+        [
+          "PLATANAR ABAJO 1RA. SECCIÓN (LA CRIMEA)",
+          "4",
+          "216",
+          "97",
+          "119",
+          "14"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN (UNIDAD CHIAPANECA)",
+          "2",
+          "44",
+          "27",
+          "17",
+          "4"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN A (EL PORVENIR)",
+          "1",
+          "37",
+          "21",
+          "16",
+          "2"
+        ],
+        [
+          "PLATANAR ABAJO 2DA. SECCIÓN B (BATERÍA CHIAPAS)",
+          "3",
+          "18",
+          "4",
+          "14",
+          "3"
+        ],
+        [
+          "PLATANAR ARRIBA 1RA. SECCIÓN A (LOS TOPES)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PLATANAR ARRIBA 1RA. SECCIÓN B (LA FLORIDA)",
+          "11",
+          "194",
+          "99",
+          "95",
+          "15"
+        ],
+        [
+          "PLAYAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "98",
+          "41",
+          "57",
+          "6"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "34",
+          "15",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "TECTUAPAN",
+          "4",
+          "323",
+          "153",
+          "170",
+          "15"
+        ],
+        [
+          "VIEJO NICAPA",
+          "4",
+          "169",
+          "81",
+          "88",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "186",
+          "9,844",
+          "4,997",
+          "4,847",
+          "671"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:09.400Z"
+}

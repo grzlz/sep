@@ -1,0 +1,450 @@
+{
+  "municipality": "TEQUISQUIAPAN",
+  "municipalityCode": "017",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: TEQUISQUIAPAN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBORDO BLANCO\n\t\t3\n\t\t445\n\t\t204\n\t\t241\n\t\t16\n\t\n\t\n\t\tEL CERRITO\n\t\t2\n\t\t98\n\t\t51\n\t\t47\n\t\t5\n\t\n\t\n\t\tEL TEJOCOTE\n\t\t4\n\t\t532\n\t\t248\n\t\t284\n\t\t22\n\t\n\t\n\t\tFÁTIMA (EJIDO DE FUENTEZUELAS)\n\t\t1\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tFUENTEZUELAS\n\t\t4\n\t\t574\n\t\t289\n\t\t285\n\t\t23\n\t\n\t\n\t\tHACIENDA GRANDE\n\t\t2\n\t\t245\n\t\t125\n\t\t120\n\t\t16\n\t\n\t\n\t\tLA CHARRETERA\n\t\t1\n\t\t9\n\t\t2\n\t\t7\n\t\t3\n\t\n\t\n\t\tLA FUENTE\n\t\t5\n\t\t1,224\n\t\t643\n\t\t581\n\t\t40\n\t\n\t\n\t\tLA LAJA\n\t\t2\n\t\t238\n\t\t120\n\t\t118\n\t\t8\n\t\n\t\n\t\tLA TORTUGA\n\t\t3\n\t\t313\n\t\t154\n\t\t159\n\t\t15\n\t\n\t\n\t\tLA TRINIDAD\n\t\t3\n\t\t478\n\t\t214\n\t\t264\n\t\t19\n\t\n\t\n\t\tLOS CERRITOS\n\t\t4\n\t\t645\n\t\t320\n\t\t325\n\t\t22\n\t\n\t\n\t\tSAN JOSÉ DE LA LAJA\n\t\t4\n\t\t364\n\t\t168\n\t\t196\n\t\t18\n\t\n\t\n\t\tSAN NICOLÁS\n\t\t4\n\t\t1,490\n\t\t723\n\t\t767\n\t\t46\n\t\n\t\n\t\tSANTILLÁN\n\t\t3\n\t\t443\n\t\t225\n\t\t218\n\t\t17\n\t\n\t\n\t\tTEQUISQUIAPAN\n\t\t64\n\t\t12,139\n\t\t6,185\n\t\t5,954\n\t\t858\n\t\n\t\n\t\tTOTAL\n\t\t109\n\t\t19,256\n\t\t9,679\n\t\t9,577\n\t\t1,130\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: TEQUISQUIAPAN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BORDO BLANCO",
+          "3",
+          "445",
+          "204",
+          "241",
+          "16",
+          "EL CERRITO",
+          "2",
+          "98",
+          "51",
+          "47",
+          "5",
+          "EL TEJOCOTE",
+          "4",
+          "532",
+          "248",
+          "284",
+          "22",
+          "FÁTIMA (EJIDO DE FUENTEZUELAS)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "2",
+          "FUENTEZUELAS",
+          "4",
+          "574",
+          "289",
+          "285",
+          "23",
+          "HACIENDA GRANDE",
+          "2",
+          "245",
+          "125",
+          "120",
+          "16",
+          "LA CHARRETERA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "3",
+          "LA FUENTE",
+          "5",
+          "1,224",
+          "643",
+          "581",
+          "40",
+          "LA LAJA",
+          "2",
+          "238",
+          "120",
+          "118",
+          "8",
+          "LA TORTUGA",
+          "3",
+          "313",
+          "154",
+          "159",
+          "15",
+          "LA TRINIDAD",
+          "3",
+          "478",
+          "214",
+          "264",
+          "19",
+          "LOS CERRITOS",
+          "4",
+          "645",
+          "320",
+          "325",
+          "22",
+          "SAN JOSÉ DE LA LAJA",
+          "4",
+          "364",
+          "168",
+          "196",
+          "18",
+          "SAN NICOLÁS",
+          "4",
+          "1,490",
+          "723",
+          "767",
+          "46",
+          "SANTILLÁN",
+          "3",
+          "443",
+          "225",
+          "218",
+          "17",
+          "TEQUISQUIAPAN",
+          "64",
+          "12,139",
+          "6,185",
+          "5,954",
+          "858",
+          "TOTAL",
+          "109",
+          "19,256",
+          "9,679",
+          "9,577",
+          "1,130",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: TEQUISQUIAPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BORDO BLANCO",
+          "3",
+          "445",
+          "204",
+          "241",
+          "16"
+        ],
+        [
+          "EL CERRITO",
+          "2",
+          "98",
+          "51",
+          "47",
+          "5"
+        ],
+        [
+          "EL TEJOCOTE",
+          "4",
+          "532",
+          "248",
+          "284",
+          "22"
+        ],
+        [
+          "FÁTIMA (EJIDO DE FUENTEZUELAS)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "FUENTEZUELAS",
+          "4",
+          "574",
+          "289",
+          "285",
+          "23"
+        ],
+        [
+          "HACIENDA GRANDE",
+          "2",
+          "245",
+          "125",
+          "120",
+          "16"
+        ],
+        [
+          "LA CHARRETERA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "3"
+        ],
+        [
+          "LA FUENTE",
+          "5",
+          "1,224",
+          "643",
+          "581",
+          "40"
+        ],
+        [
+          "LA LAJA",
+          "2",
+          "238",
+          "120",
+          "118",
+          "8"
+        ],
+        [
+          "LA TORTUGA",
+          "3",
+          "313",
+          "154",
+          "159",
+          "15"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "478",
+          "214",
+          "264",
+          "19"
+        ],
+        [
+          "LOS CERRITOS",
+          "4",
+          "645",
+          "320",
+          "325",
+          "22"
+        ],
+        [
+          "SAN JOSÉ DE LA LAJA",
+          "4",
+          "364",
+          "168",
+          "196",
+          "18"
+        ],
+        [
+          "SAN NICOLÁS",
+          "4",
+          "1,490",
+          "723",
+          "767",
+          "46"
+        ],
+        [
+          "SANTILLÁN",
+          "3",
+          "443",
+          "225",
+          "218",
+          "17"
+        ],
+        [
+          "TEQUISQUIAPAN",
+          "64",
+          "12,139",
+          "6,185",
+          "5,954",
+          "858"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "19,256",
+          "9,679",
+          "9,577",
+          "1,130"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: TEQUISQUIAPAN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BORDO BLANCO",
+          "3",
+          "445",
+          "204",
+          "241",
+          "16"
+        ],
+        [
+          "EL CERRITO",
+          "2",
+          "98",
+          "51",
+          "47",
+          "5"
+        ],
+        [
+          "EL TEJOCOTE",
+          "4",
+          "532",
+          "248",
+          "284",
+          "22"
+        ],
+        [
+          "FÁTIMA (EJIDO DE FUENTEZUELAS)",
+          "1",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "FUENTEZUELAS",
+          "4",
+          "574",
+          "289",
+          "285",
+          "23"
+        ],
+        [
+          "HACIENDA GRANDE",
+          "2",
+          "245",
+          "125",
+          "120",
+          "16"
+        ],
+        [
+          "LA CHARRETERA",
+          "1",
+          "9",
+          "2",
+          "7",
+          "3"
+        ],
+        [
+          "LA FUENTE",
+          "5",
+          "1,224",
+          "643",
+          "581",
+          "40"
+        ],
+        [
+          "LA LAJA",
+          "2",
+          "238",
+          "120",
+          "118",
+          "8"
+        ],
+        [
+          "LA TORTUGA",
+          "3",
+          "313",
+          "154",
+          "159",
+          "15"
+        ],
+        [
+          "LA TRINIDAD",
+          "3",
+          "478",
+          "214",
+          "264",
+          "19"
+        ],
+        [
+          "LOS CERRITOS",
+          "4",
+          "645",
+          "320",
+          "325",
+          "22"
+        ],
+        [
+          "SAN JOSÉ DE LA LAJA",
+          "4",
+          "364",
+          "168",
+          "196",
+          "18"
+        ],
+        [
+          "SAN NICOLÁS",
+          "4",
+          "1,490",
+          "723",
+          "767",
+          "46"
+        ],
+        [
+          "SANTILLÁN",
+          "3",
+          "443",
+          "225",
+          "218",
+          "17"
+        ],
+        [
+          "TEQUISQUIAPAN",
+          "64",
+          "12,139",
+          "6,185",
+          "5,954",
+          "858"
+        ],
+        [
+          "TOTAL",
+          "109",
+          "19,256",
+          "9,679",
+          "9,577",
+          "1,130"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:27:21.369Z"
+}

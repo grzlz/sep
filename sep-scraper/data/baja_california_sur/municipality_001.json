@@ -1,0 +1,868 @@
+{
+  "municipality": "COMONDÚ",
+  "municipalityCode": "001",
+  "state": "BAJA CALIFORNIA SUR",
+  "stateCode": "3",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCOMONDÚ\n\tLA PAZ\n\tLORETO\n\tLOS CABOS\n\tMULEGÉ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: COMONDÚ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t4\n\t\t236\n\t\t133\n\t\t103\n\t\t20\n\t\n\t\n\t\tCARAMBUCHE\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tCIUDAD CONSTITUCIÓN\n\t\t51\n\t\t11,696\n\t\t5,893\n\t\t5,803\n\t\t801\n\t\n\t\n\t\tCIUDAD INSURGENTES\n\t\t12\n\t\t2,391\n\t\t1,156\n\t\t1,235\n\t\t170\n\t\n\t\n\t\tEL CHICHARRÓN\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL CINCUENTAIDÓS\n\t\t3\n\t\t18\n\t\t5\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL RANCHITO (ESTERO TLAQUEPAQUE)\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tJOSEFA ORTIZ DE DOMÍNGUEZ\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA POZA GRANDE\n\t\t4\n\t\t105\n\t\t49\n\t\t56\n\t\t11\n\t\n\t\n\t\tLA PRESA DEL HIGUAJIL\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t2\n\t\t41\n\t\t24\n\t\t17\n\t\t3\n\t\n\t\n\t\tLAS BARRANCAS\n\t\t4\n\t\t132\n\t\t66\n\t\t66\n\t\t10\n\t\n\t\n\t\tLEY FEDERAL DE AGUAS NÚMERO CINCO\n\t\t3\n\t\t33\n\t\t12\n\t\t21\n\t\t4\n\t\n\t\n\t\tLEY FEDERAL DE AGUAS NÚMERO CUATRO\n\t\t4\n\t\t114\n\t\t52\n\t\t62\n\t\t17\n\t\n\t\n\t\tLEY FEDERAL DE AGUAS NÚMERO DOS\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t2\n\t\n\t\n\t\tLEY FEDERAL DE AGUAS NÚMERO TRES\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tLEY FEDERAL DE AGUAS NÚMERO UNO\n\t\t4\n\t\t118\n\t\t55\n\t\t63\n\t\t13\n\t\n\t\n\t\tMARÍA AUXILIADORA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tPALO BOLA\n\t\t4\n\t\t196\n\t\t93\n\t\t103\n\t\t14\n\t\n\t\n\t\tPUERTO ADOLFO LÓPEZ MATEOS\n\t\t6\n\t\t472\n\t\t243\n\t\t229\n\t\t31\n\t\n\t\n\t\tPUERTO ALCATRAZ\n\t\t4\n\t\t28\n\t\t17\n\t\t11\n\t\t6\n\t\n\t\n\t\tPUERTO MAGDALENA\n\t\t3\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tPUERTO SAN CARLOS\n\t\t7\n\t\t1,188\n\t\t617\n\t\t571\n\t\t88\n\t\n\t\n\t\tRAMADITAS\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO\n\t\t4\n\t\t112\n\t\t51\n\t\t61\n\t\t13\n\t\n\t\n\t\tSAN JOSÉ DE COMONDÚ\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE LA NORIA\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN JUANICO\n\t\t4\n\t\t178\n\t\t95\n\t\t83\n\t\t13\n\t\n\t\n\t\tSAN LUIS GONZAGA\n\t\t3\n\t\t17\n\t\t6\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL DE COMONDÚ\n\t\t3\n\t\t38\n\t\t15\n\t\t23\n\t\t5\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t4\n\t\t124\n\t\t59\n\t\t65\n\t\t10\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t3\n\t\n\t\n\t\tVILLA IGNACIO ZARAGOZA\n\t\t4\n\t\t230\n\t\t103\n\t\t127\n\t\t17\n\t\n\t\n\t\tVILLA MORELOS\n\t\t4\n\t\t225\n\t\t117\n\t\t108\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t163\n\t\t17,903\n\t\t8,966\n\t\t8,937\n\t\t1,296\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: COMONDÚ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENITO JUÁREZ",
+          "4",
+          "236",
+          "133",
+          "103",
+          "20",
+          "CARAMBUCHE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "CIUDAD CONSTITUCIÓN",
+          "51",
+          "11,696",
+          "5,893",
+          "5,803",
+          "801",
+          "CIUDAD INSURGENTES",
+          "12",
+          "2,391",
+          "1,156",
+          "1,235",
+          "170",
+          "EL CHICHARRÓN",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL CINCUENTAIDÓS",
+          "3",
+          "18",
+          "5",
+          "13",
+          "3",
+          "EL MEZQUITAL",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "EL RANCHITO (ESTERO TLAQUEPAQUE)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2",
+          "LA POZA GRANDE",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11",
+          "LA PRESA DEL HIGUAJIL",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LA PURÍSIMA",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3",
+          "LAS BARRANCAS",
+          "4",
+          "132",
+          "66",
+          "66",
+          "10",
+          "LEY FEDERAL DE AGUAS NÚMERO CINCO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "4",
+          "LEY FEDERAL DE AGUAS NÚMERO CUATRO",
+          "4",
+          "114",
+          "52",
+          "62",
+          "17",
+          "LEY FEDERAL DE AGUAS NÚMERO DOS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2",
+          "LEY FEDERAL DE AGUAS NÚMERO TRES",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2",
+          "LEY FEDERAL DE AGUAS NÚMERO UNO",
+          "4",
+          "118",
+          "55",
+          "63",
+          "13",
+          "MARÍA AUXILIADORA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "PALO BOLA",
+          "4",
+          "196",
+          "93",
+          "103",
+          "14",
+          "PUERTO ADOLFO LÓPEZ MATEOS",
+          "6",
+          "472",
+          "243",
+          "229",
+          "31",
+          "PUERTO ALCATRAZ",
+          "4",
+          "28",
+          "17",
+          "11",
+          "6",
+          "PUERTO MAGDALENA",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2",
+          "PUERTO SAN CARLOS",
+          "7",
+          "1,188",
+          "617",
+          "571",
+          "88",
+          "RAMADITAS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "SAN ISIDRO",
+          "4",
+          "112",
+          "51",
+          "61",
+          "13",
+          "SAN JOSÉ DE COMONDÚ",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SAN JOSÉ DE LA NORIA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "SAN JUANICO",
+          "4",
+          "178",
+          "95",
+          "83",
+          "13",
+          "SAN LUIS GONZAGA",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3",
+          "SAN MIGUEL DE COMONDÚ",
+          "3",
+          "38",
+          "15",
+          "23",
+          "5",
+          "SANTO DOMINGO",
+          "4",
+          "124",
+          "59",
+          "65",
+          "10",
+          "VILLA HIDALGO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3",
+          "VILLA IGNACIO ZARAGOZA",
+          "4",
+          "230",
+          "103",
+          "127",
+          "17",
+          "VILLA MORELOS",
+          "4",
+          "225",
+          "117",
+          "108",
+          "20",
+          "TOTAL",
+          "163",
+          "17,903",
+          "8,966",
+          "8,937",
+          "1,296",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: COMONDÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "236",
+          "133",
+          "103",
+          "20"
+        ],
+        [
+          "CARAMBUCHE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "CIUDAD CONSTITUCIÓN",
+          "51",
+          "11,696",
+          "5,893",
+          "5,803",
+          "801"
+        ],
+        [
+          "CIUDAD INSURGENTES",
+          "12",
+          "2,391",
+          "1,156",
+          "1,235",
+          "170"
+        ],
+        [
+          "EL CHICHARRÓN",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL CINCUENTAIDÓS",
+          "3",
+          "18",
+          "5",
+          "13",
+          "3"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL RANCHITO (ESTERO TLAQUEPAQUE)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "LA POZA GRANDE",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11"
+        ],
+        [
+          "LA PRESA DEL HIGUAJIL",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "LAS BARRANCAS",
+          "4",
+          "132",
+          "66",
+          "66",
+          "10"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO CINCO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "4"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO CUATRO",
+          "4",
+          "114",
+          "52",
+          "62",
+          "17"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO DOS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO TRES",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO UNO",
+          "4",
+          "118",
+          "55",
+          "63",
+          "13"
+        ],
+        [
+          "MARÍA AUXILIADORA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "PALO BOLA",
+          "4",
+          "196",
+          "93",
+          "103",
+          "14"
+        ],
+        [
+          "PUERTO ADOLFO LÓPEZ MATEOS",
+          "6",
+          "472",
+          "243",
+          "229",
+          "31"
+        ],
+        [
+          "PUERTO ALCATRAZ",
+          "4",
+          "28",
+          "17",
+          "11",
+          "6"
+        ],
+        [
+          "PUERTO MAGDALENA",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "PUERTO SAN CARLOS",
+          "7",
+          "1,188",
+          "617",
+          "571",
+          "88"
+        ],
+        [
+          "RAMADITAS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "4",
+          "112",
+          "51",
+          "61",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE COMONDÚ",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA NORIA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JUANICO",
+          "4",
+          "178",
+          "95",
+          "83",
+          "13"
+        ],
+        [
+          "SAN LUIS GONZAGA",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL DE COMONDÚ",
+          "3",
+          "38",
+          "15",
+          "23",
+          "5"
+        ],
+        [
+          "SANTO DOMINGO",
+          "4",
+          "124",
+          "59",
+          "65",
+          "10"
+        ],
+        [
+          "VILLA HIDALGO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "VILLA IGNACIO ZARAGOZA",
+          "4",
+          "230",
+          "103",
+          "127",
+          "17"
+        ],
+        [
+          "VILLA MORELOS",
+          "4",
+          "225",
+          "117",
+          "108",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "163",
+          "17,903",
+          "8,966",
+          "8,937",
+          "1,296"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA SUR;    MUNICIPIO: COMONDÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "4",
+          "236",
+          "133",
+          "103",
+          "20"
+        ],
+        [
+          "CARAMBUCHE",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "CIUDAD CONSTITUCIÓN",
+          "51",
+          "11,696",
+          "5,893",
+          "5,803",
+          "801"
+        ],
+        [
+          "CIUDAD INSURGENTES",
+          "12",
+          "2,391",
+          "1,156",
+          "1,235",
+          "170"
+        ],
+        [
+          "EL CHICHARRÓN",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL CINCUENTAIDÓS",
+          "3",
+          "18",
+          "5",
+          "13",
+          "3"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "EL RANCHITO (ESTERO TLAQUEPAQUE)",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "JOSEFA ORTIZ DE DOMÍNGUEZ",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "LA POZA GRANDE",
+          "4",
+          "105",
+          "49",
+          "56",
+          "11"
+        ],
+        [
+          "LA PRESA DEL HIGUAJIL",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "LAS BARRANCAS",
+          "4",
+          "132",
+          "66",
+          "66",
+          "10"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO CINCO",
+          "3",
+          "33",
+          "12",
+          "21",
+          "4"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO CUATRO",
+          "4",
+          "114",
+          "52",
+          "62",
+          "17"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO DOS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO TRES",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "LEY FEDERAL DE AGUAS NÚMERO UNO",
+          "4",
+          "118",
+          "55",
+          "63",
+          "13"
+        ],
+        [
+          "MARÍA AUXILIADORA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "PALO BOLA",
+          "4",
+          "196",
+          "93",
+          "103",
+          "14"
+        ],
+        [
+          "PUERTO ADOLFO LÓPEZ MATEOS",
+          "6",
+          "472",
+          "243",
+          "229",
+          "31"
+        ],
+        [
+          "PUERTO ALCATRAZ",
+          "4",
+          "28",
+          "17",
+          "11",
+          "6"
+        ],
+        [
+          "PUERTO MAGDALENA",
+          "3",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "PUERTO SAN CARLOS",
+          "7",
+          "1,188",
+          "617",
+          "571",
+          "88"
+        ],
+        [
+          "RAMADITAS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SAN ISIDRO",
+          "4",
+          "112",
+          "51",
+          "61",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE COMONDÚ",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA NORIA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JUANICO",
+          "4",
+          "178",
+          "95",
+          "83",
+          "13"
+        ],
+        [
+          "SAN LUIS GONZAGA",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "SAN MIGUEL DE COMONDÚ",
+          "3",
+          "38",
+          "15",
+          "23",
+          "5"
+        ],
+        [
+          "SANTO DOMINGO",
+          "4",
+          "124",
+          "59",
+          "65",
+          "10"
+        ],
+        [
+          "VILLA HIDALGO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "VILLA IGNACIO ZARAGOZA",
+          "4",
+          "230",
+          "103",
+          "127",
+          "17"
+        ],
+        [
+          "VILLA MORELOS",
+          "4",
+          "225",
+          "117",
+          "108",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "163",
+          "17,903",
+          "8,966",
+          "8,937",
+          "1,296"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:42.860Z"
+}

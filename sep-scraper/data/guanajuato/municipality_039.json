@@ -1,0 +1,736 @@
+{
+  "municipality": "TARIMORO",
+  "municipalityCode": "039",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TARIMORO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBUENAVISTA\n\t\t2\n\t\t54\n\t\t27\n\t\t27\n\t\t3\n\t\n\t\n\t\tCAÑADA DE TIRADOS DE ABAJO\n\t\t1\n\t\t10\n\t\t3\n\t\t7\n\t\t1\n\t\n\t\n\t\tCAÑADA DE TIRADOS DE ARRIBA\n\t\t2\n\t\t60\n\t\t33\n\t\t27\n\t\t3\n\t\n\t\n\t\tCERRO PRIETO\n\t\t3\n\t\t138\n\t\t58\n\t\t80\n\t\t7\n\t\n\t\n\t\tCHARCO LARGO\n\t\t3\n\t\t416\n\t\t215\n\t\t201\n\t\t30\n\t\n\t\n\t\tCUADRILLA DE CACALOTE (LA CUADRILLA)\n\t\t2\n\t\t73\n\t\t36\n\t\t37\n\t\t4\n\t\n\t\n\t\tEL ACEBUCHE\n\t\t4\n\t\t454\n\t\t238\n\t\t216\n\t\t17\n\t\n\t\n\t\tEL ROJO (EL COLORADO)\n\t\t1\n\t\t194\n\t\t110\n\t\t84\n\t\t12\n\t\n\t\n\t\tEL TERRERO\n\t\t2\n\t\t22\n\t\t14\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL TORO\n\t\t2\n\t\t30\n\t\t19\n\t\t11\n\t\t2\n\t\n\t\n\t\tGALERA DE PANALES\n\t\t3\n\t\t267\n\t\t121\n\t\t146\n\t\t13\n\t\n\t\n\t\tGUADALUPE\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tHUAPANGO\n\t\t4\n\t\t196\n\t\t97\n\t\t99\n\t\t10\n\t\n\t\n\t\tLA BÓVEDA\n\t\t1\n\t\t7\n\t\t6\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA CUESTA\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t89\n\t\t43\n\t\t46\n\t\t4\n\t\n\t\n\t\tLA MONCADA\n\t\t6\n\t\t570\n\t\t292\n\t\t278\n\t\t27\n\t\n\t\n\t\tLA NOPALERA\n\t\t2\n\t\t33\n\t\t21\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA NORIA DE GALLEGOS\n\t\t3\n\t\t307\n\t\t143\n\t\t164\n\t\t11\n\t\n\t\n\t\tLLANO GRANDE\n\t\t3\n\t\t35\n\t\t20\n\t\t15\n\t\t3\n\t\n\t\n\t\tLOS FIERROS\n\t\t4\n\t\t328\n\t\t165\n\t\t163\n\t\t14\n\t\n\t\n\t\tMINILLAS\n\t\t3\n\t\t80\n\t\t43\n\t\t37\n\t\t5\n\t\n\t\n\t\tNORIA DE SAN ISIDRO (PROVIDENCIA DE LA NORIA)\n\t\t1\n\t\t40\n\t\t12\n\t\t28\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA DE NIETO\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tPANALES JAMAICA (CAÑONES)\n\t\t4\n\t\t407\n\t\t194\n\t\t213\n\t\t20\n\t\n\t\n\t\tSAN JUAN BAUTISTA CACALOTE\n\t\t4\n\t\t426\n\t\t222\n\t\t204\n\t\t19\n\t\n\t\n\t\tSAN NICOLÁS DE LA CONDESA\n\t\t3\n\t\t211\n\t\t99\n\t\t112\n\t\t11\n\t\n\t\n\t\tTARIMORO\n\t\t16\n\t\t3,062\n\t\t1,572\n\t\t1,490\n\t\t184\n\t\n\t\n\t\tTLALIXCOYA\n\t\t3\n\t\t15\n\t\t7\n\t\t8\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t90\n\t\t7,582\n\t\t3,841\n\t\t3,741\n\t\t415\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TARIMORO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BUENAVISTA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "3",
+          "CAÑADA DE TIRADOS DE ABAJO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1",
+          "CAÑADA DE TIRADOS DE ARRIBA",
+          "2",
+          "60",
+          "33",
+          "27",
+          "3",
+          "CERRO PRIETO",
+          "3",
+          "138",
+          "58",
+          "80",
+          "7",
+          "CHARCO LARGO",
+          "3",
+          "416",
+          "215",
+          "201",
+          "30",
+          "CUADRILLA DE CACALOTE (LA CUADRILLA)",
+          "2",
+          "73",
+          "36",
+          "37",
+          "4",
+          "EL ACEBUCHE",
+          "4",
+          "454",
+          "238",
+          "216",
+          "17",
+          "EL ROJO (EL COLORADO)",
+          "1",
+          "194",
+          "110",
+          "84",
+          "12",
+          "EL TERRERO",
+          "2",
+          "22",
+          "14",
+          "8",
+          "2",
+          "EL TORO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2",
+          "GALERA DE PANALES",
+          "3",
+          "267",
+          "121",
+          "146",
+          "13",
+          "GUADALUPE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "HUAPANGO",
+          "4",
+          "196",
+          "97",
+          "99",
+          "10",
+          "LA BÓVEDA",
+          "1",
+          "7",
+          "6",
+          "1",
+          "1",
+          "LA CUESTA",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2",
+          "LA ESPERANZA",
+          "2",
+          "89",
+          "43",
+          "46",
+          "4",
+          "LA MONCADA",
+          "6",
+          "570",
+          "292",
+          "278",
+          "27",
+          "LA NOPALERA",
+          "2",
+          "33",
+          "21",
+          "12",
+          "2",
+          "LA NORIA DE GALLEGOS",
+          "3",
+          "307",
+          "143",
+          "164",
+          "11",
+          "LLANO GRANDE",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3",
+          "LOS FIERROS",
+          "4",
+          "328",
+          "165",
+          "163",
+          "14",
+          "MINILLAS",
+          "3",
+          "80",
+          "43",
+          "37",
+          "5",
+          "NORIA DE SAN ISIDRO (PROVIDENCIA DE LA NORIA)",
+          "1",
+          "40",
+          "12",
+          "28",
+          "2",
+          "OJO DE AGUA DE NIETO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "PANALES JAMAICA (CAÑONES)",
+          "4",
+          "407",
+          "194",
+          "213",
+          "20",
+          "SAN JUAN BAUTISTA CACALOTE",
+          "4",
+          "426",
+          "222",
+          "204",
+          "19",
+          "SAN NICOLÁS DE LA CONDESA",
+          "3",
+          "211",
+          "99",
+          "112",
+          "11",
+          "TARIMORO",
+          "16",
+          "3,062",
+          "1,572",
+          "1,490",
+          "184",
+          "TLALIXCOYA",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3",
+          "TOTAL",
+          "90",
+          "7,582",
+          "3,841",
+          "3,741",
+          "415",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TARIMORO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "3"
+        ],
+        [
+          "CAÑADA DE TIRADOS DE ABAJO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "CAÑADA DE TIRADOS DE ARRIBA",
+          "2",
+          "60",
+          "33",
+          "27",
+          "3"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "138",
+          "58",
+          "80",
+          "7"
+        ],
+        [
+          "CHARCO LARGO",
+          "3",
+          "416",
+          "215",
+          "201",
+          "30"
+        ],
+        [
+          "CUADRILLA DE CACALOTE (LA CUADRILLA)",
+          "2",
+          "73",
+          "36",
+          "37",
+          "4"
+        ],
+        [
+          "EL ACEBUCHE",
+          "4",
+          "454",
+          "238",
+          "216",
+          "17"
+        ],
+        [
+          "EL ROJO (EL COLORADO)",
+          "1",
+          "194",
+          "110",
+          "84",
+          "12"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "22",
+          "14",
+          "8",
+          "2"
+        ],
+        [
+          "EL TORO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "GALERA DE PANALES",
+          "3",
+          "267",
+          "121",
+          "146",
+          "13"
+        ],
+        [
+          "GUADALUPE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "HUAPANGO",
+          "4",
+          "196",
+          "97",
+          "99",
+          "10"
+        ],
+        [
+          "LA BÓVEDA",
+          "1",
+          "7",
+          "6",
+          "1",
+          "1"
+        ],
+        [
+          "LA CUESTA",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "89",
+          "43",
+          "46",
+          "4"
+        ],
+        [
+          "LA MONCADA",
+          "6",
+          "570",
+          "292",
+          "278",
+          "27"
+        ],
+        [
+          "LA NOPALERA",
+          "2",
+          "33",
+          "21",
+          "12",
+          "2"
+        ],
+        [
+          "LA NORIA DE GALLEGOS",
+          "3",
+          "307",
+          "143",
+          "164",
+          "11"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "LOS FIERROS",
+          "4",
+          "328",
+          "165",
+          "163",
+          "14"
+        ],
+        [
+          "MINILLAS",
+          "3",
+          "80",
+          "43",
+          "37",
+          "5"
+        ],
+        [
+          "NORIA DE SAN ISIDRO (PROVIDENCIA DE LA NORIA)",
+          "1",
+          "40",
+          "12",
+          "28",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE NIETO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "PANALES JAMAICA (CAÑONES)",
+          "4",
+          "407",
+          "194",
+          "213",
+          "20"
+        ],
+        [
+          "SAN JUAN BAUTISTA CACALOTE",
+          "4",
+          "426",
+          "222",
+          "204",
+          "19"
+        ],
+        [
+          "SAN NICOLÁS DE LA CONDESA",
+          "3",
+          "211",
+          "99",
+          "112",
+          "11"
+        ],
+        [
+          "TARIMORO",
+          "16",
+          "3,062",
+          "1,572",
+          "1,490",
+          "184"
+        ],
+        [
+          "TLALIXCOYA",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "7,582",
+          "3,841",
+          "3,741",
+          "415"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: TARIMORO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENAVISTA",
+          "2",
+          "54",
+          "27",
+          "27",
+          "3"
+        ],
+        [
+          "CAÑADA DE TIRADOS DE ABAJO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "CAÑADA DE TIRADOS DE ARRIBA",
+          "2",
+          "60",
+          "33",
+          "27",
+          "3"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "138",
+          "58",
+          "80",
+          "7"
+        ],
+        [
+          "CHARCO LARGO",
+          "3",
+          "416",
+          "215",
+          "201",
+          "30"
+        ],
+        [
+          "CUADRILLA DE CACALOTE (LA CUADRILLA)",
+          "2",
+          "73",
+          "36",
+          "37",
+          "4"
+        ],
+        [
+          "EL ACEBUCHE",
+          "4",
+          "454",
+          "238",
+          "216",
+          "17"
+        ],
+        [
+          "EL ROJO (EL COLORADO)",
+          "1",
+          "194",
+          "110",
+          "84",
+          "12"
+        ],
+        [
+          "EL TERRERO",
+          "2",
+          "22",
+          "14",
+          "8",
+          "2"
+        ],
+        [
+          "EL TORO",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "GALERA DE PANALES",
+          "3",
+          "267",
+          "121",
+          "146",
+          "13"
+        ],
+        [
+          "GUADALUPE",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "HUAPANGO",
+          "4",
+          "196",
+          "97",
+          "99",
+          "10"
+        ],
+        [
+          "LA BÓVEDA",
+          "1",
+          "7",
+          "6",
+          "1",
+          "1"
+        ],
+        [
+          "LA CUESTA",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "89",
+          "43",
+          "46",
+          "4"
+        ],
+        [
+          "LA MONCADA",
+          "6",
+          "570",
+          "292",
+          "278",
+          "27"
+        ],
+        [
+          "LA NOPALERA",
+          "2",
+          "33",
+          "21",
+          "12",
+          "2"
+        ],
+        [
+          "LA NORIA DE GALLEGOS",
+          "3",
+          "307",
+          "143",
+          "164",
+          "11"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "LOS FIERROS",
+          "4",
+          "328",
+          "165",
+          "163",
+          "14"
+        ],
+        [
+          "MINILLAS",
+          "3",
+          "80",
+          "43",
+          "37",
+          "5"
+        ],
+        [
+          "NORIA DE SAN ISIDRO (PROVIDENCIA DE LA NORIA)",
+          "1",
+          "40",
+          "12",
+          "28",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE NIETO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "PANALES JAMAICA (CAÑONES)",
+          "4",
+          "407",
+          "194",
+          "213",
+          "20"
+        ],
+        [
+          "SAN JUAN BAUTISTA CACALOTE",
+          "4",
+          "426",
+          "222",
+          "204",
+          "19"
+        ],
+        [
+          "SAN NICOLÁS DE LA CONDESA",
+          "3",
+          "211",
+          "99",
+          "112",
+          "11"
+        ],
+        [
+          "TARIMORO",
+          "16",
+          "3,062",
+          "1,572",
+          "1,490",
+          "184"
+        ],
+        [
+          "TLALIXCOYA",
+          "3",
+          "15",
+          "7",
+          "8",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "7,582",
+          "3,841",
+          "3,741",
+          "415"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:11.888Z"
+}

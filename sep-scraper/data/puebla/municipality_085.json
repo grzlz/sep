@@ -1,0 +1,890 @@
+{
+  "municipality": "IZÚCAR DE MATAMOROS",
+  "municipalityCode": "085",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: IZÚCAR DE MATAMOROS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tABELARDO L. RODRÍGUEZ\n\t\t2\n\t\t42\n\t\t21\n\t\t21\n\t\t2\n\t\n\t\n\t\tAGUA ESCONDIDA (SANTA CRUZ AGUA ESCONDIDA)\n\t\t3\n\t\t168\n\t\t80\n\t\t88\n\t\t9\n\t\n\t\n\t\tAYUTLA (SAN FELIPE AYUTLA)\n\t\t8\n\t\t1,361\n\t\t688\n\t\t673\n\t\t72\n\t\n\t\n\t\tEL AGUACATE\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL CALVARIO\n\t\t2\n\t\t454\n\t\t229\n\t\t225\n\t\t19\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL MIRADOR\n\t\t3\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL SAUCE\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t2\n\t\n\t\n\t\tGUADALUPE LAS CHICHIHUAS\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t3\n\t\n\t\n\t\tHUAXTEPEC\n\t\t3\n\t\t31\n\t\t17\n\t\t14\n\t\t4\n\t\n\t\n\t\tIZÚCAR DE MATAMOROS\n\t\t92\n\t\t15,409\n\t\t8,080\n\t\t7,329\n\t\t974\n\t\n\t\n\t\tLA GALARZA\n\t\t9\n\t\t1,066\n\t\t558\n\t\t508\n\t\t50\n\t\n\t\n\t\tLA SOLEDAD PIZOTLA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS CASITAS\n\t\t3\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAS PILETAS\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOMAS DE ALCHICHICA\n\t\t6\n\t\t606\n\t\t334\n\t\t272\n\t\t37\n\t\n\t\n\t\tLOS AMATES\n\t\t3\n\t\t80\n\t\t37\n\t\t43\n\t\t6\n\t\n\t\n\t\tLOS LIMONES\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tMATZACO\n\t\t5\n\t\t583\n\t\t279\n\t\t304\n\t\t27\n\t\n\t\n\t\tMEXQUITEPEC\n\t\t3\n\t\t49\n\t\t24\n\t\t25\n\t\t4\n\t\n\t\n\t\tSAN CARLOS BUENAVISTA\n\t\t4\n\t\t201\n\t\t103\n\t\t98\n\t\t14\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t49\n\t\t28\n\t\t21\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ LAS BOCAS\n\t\t2\n\t\t108\n\t\t60\n\t\t48\n\t\t5\n\t\n\t\n\t\tSAN JUAN COLÓN\n\t\t4\n\t\t451\n\t\t219\n\t\t232\n\t\t36\n\t\n\t\n\t\tSAN JUAN RABOSO\n\t\t5\n\t\t1,161\n\t\t551\n\t\t610\n\t\t52\n\t\n\t\n\t\tSAN LUCAS COLUCAN\n\t\t5\n\t\t580\n\t\t278\n\t\t302\n\t\t32\n\t\n\t\n\t\tSAN MANUEL LA PAROTA\n\t\t4\n\t\t166\n\t\t80\n\t\t86\n\t\t7\n\t\n\t\n\t\tSAN MARTÍN LA FLOR (LA FLOR COLORADA)\n\t\t3\n\t\t33\n\t\t19\n\t\t14\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL LAS MINAS\n\t\t4\n\t\t295\n\t\t148\n\t\t147\n\t\t16\n\t\n\t\n\t\tSAN NICOLÁS TOLENTINO\n\t\t2\n\t\t208\n\t\t107\n\t\t101\n\t\t10\n\t\n\t\n\t\tSAN PEDRO CALANTLA\n\t\t4\n\t\t152\n\t\t67\n\t\t85\n\t\t11\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN SEBASTIÁN PUCTLA\n\t\t3\n\t\t209\n\t\t108\n\t\t101\n\t\t12\n\t\n\t\n\t\tSANTA MARÍA XUCHAPA\n\t\t4\n\t\t279\n\t\t144\n\t\t135\n\t\t14\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t5\n\t\t133\n\t\t69\n\t\t64\n\t\t11\n\t\n\t\n\t\tXALTIANGUIS\n\t\t3\n\t\t81\n\t\t41\n\t\t40\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t211\n\t\t24,076\n\t\t12,423\n\t\t11,653\n\t\t1,456\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: IZÚCAR DE MATAMOROS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ABELARDO L. RODRÍGUEZ",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2",
+          "AGUA ESCONDIDA (SANTA CRUZ AGUA ESCONDIDA)",
+          "3",
+          "168",
+          "80",
+          "88",
+          "9",
+          "AYUTLA (SAN FELIPE AYUTLA)",
+          "8",
+          "1,361",
+          "688",
+          "673",
+          "72",
+          "EL AGUACATE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2",
+          "EL CALVARIO",
+          "2",
+          "454",
+          "229",
+          "225",
+          "19",
+          "EL CARMEN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2",
+          "EL MIRADOR",
+          "3",
+          "10",
+          "3",
+          "7",
+          "2",
+          "EL SAUCE",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2",
+          "GUADALUPE LAS CHICHIHUAS",
+          "2",
+          "22",
+          "8",
+          "14",
+          "3",
+          "HUAXTEPEC",
+          "3",
+          "31",
+          "17",
+          "14",
+          "4",
+          "IZÚCAR DE MATAMOROS",
+          "92",
+          "15,409",
+          "8,080",
+          "7,329",
+          "974",
+          "LA GALARZA",
+          "9",
+          "1,066",
+          "558",
+          "508",
+          "50",
+          "LA SOLEDAD PIZOTLA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LAS CASITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3",
+          "LAS PILETAS",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1",
+          "LOMAS DE ALCHICHICA",
+          "6",
+          "606",
+          "334",
+          "272",
+          "37",
+          "LOS AMATES",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6",
+          "LOS LIMONES",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2",
+          "MATZACO",
+          "5",
+          "583",
+          "279",
+          "304",
+          "27",
+          "MEXQUITEPEC",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4",
+          "SAN CARLOS BUENAVISTA",
+          "4",
+          "201",
+          "103",
+          "98",
+          "14",
+          "SAN ISIDRO",
+          "2",
+          "49",
+          "28",
+          "21",
+          "3",
+          "SAN JOSÉ LAS BOCAS",
+          "2",
+          "108",
+          "60",
+          "48",
+          "5",
+          "SAN JUAN COLÓN",
+          "4",
+          "451",
+          "219",
+          "232",
+          "36",
+          "SAN JUAN RABOSO",
+          "5",
+          "1,161",
+          "551",
+          "610",
+          "52",
+          "SAN LUCAS COLUCAN",
+          "5",
+          "580",
+          "278",
+          "302",
+          "32",
+          "SAN MANUEL LA PAROTA",
+          "4",
+          "166",
+          "80",
+          "86",
+          "7",
+          "SAN MARTÍN LA FLOR (LA FLOR COLORADA)",
+          "3",
+          "33",
+          "19",
+          "14",
+          "4",
+          "SAN MIGUEL LAS MINAS",
+          "4",
+          "295",
+          "148",
+          "147",
+          "16",
+          "SAN NICOLÁS TOLENTINO",
+          "2",
+          "208",
+          "107",
+          "101",
+          "10",
+          "SAN PEDRO CALANTLA",
+          "4",
+          "152",
+          "67",
+          "85",
+          "11",
+          "SAN RAFAEL",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1",
+          "SAN SEBASTIÁN PUCTLA",
+          "3",
+          "209",
+          "108",
+          "101",
+          "12",
+          "SANTA MARÍA XUCHAPA",
+          "4",
+          "279",
+          "144",
+          "135",
+          "14",
+          "VISTA HERMOSA",
+          "5",
+          "133",
+          "69",
+          "64",
+          "11",
+          "XALTIANGUIS",
+          "3",
+          "81",
+          "41",
+          "40",
+          "6",
+          "TOTAL",
+          "211",
+          "24,076",
+          "12,423",
+          "11,653",
+          "1,456",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: IZÚCAR DE MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2"
+        ],
+        [
+          "AGUA ESCONDIDA (SANTA CRUZ AGUA ESCONDIDA)",
+          "3",
+          "168",
+          "80",
+          "88",
+          "9"
+        ],
+        [
+          "AYUTLA (SAN FELIPE AYUTLA)",
+          "8",
+          "1,361",
+          "688",
+          "673",
+          "72"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "454",
+          "229",
+          "225",
+          "19"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "3",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "EL SAUCE",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "GUADALUPE LAS CHICHIHUAS",
+          "2",
+          "22",
+          "8",
+          "14",
+          "3"
+        ],
+        [
+          "HUAXTEPEC",
+          "3",
+          "31",
+          "17",
+          "14",
+          "4"
+        ],
+        [
+          "IZÚCAR DE MATAMOROS",
+          "92",
+          "15,409",
+          "8,080",
+          "7,329",
+          "974"
+        ],
+        [
+          "LA GALARZA",
+          "9",
+          "1,066",
+          "558",
+          "508",
+          "50"
+        ],
+        [
+          "LA SOLEDAD PIZOTLA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LAS CASITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LAS PILETAS",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LOMAS DE ALCHICHICA",
+          "6",
+          "606",
+          "334",
+          "272",
+          "37"
+        ],
+        [
+          "LOS AMATES",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6"
+        ],
+        [
+          "LOS LIMONES",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "MATZACO",
+          "5",
+          "583",
+          "279",
+          "304",
+          "27"
+        ],
+        [
+          "MEXQUITEPEC",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "SAN CARLOS BUENAVISTA",
+          "4",
+          "201",
+          "103",
+          "98",
+          "14"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "49",
+          "28",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOSÉ LAS BOCAS",
+          "2",
+          "108",
+          "60",
+          "48",
+          "5"
+        ],
+        [
+          "SAN JUAN COLÓN",
+          "4",
+          "451",
+          "219",
+          "232",
+          "36"
+        ],
+        [
+          "SAN JUAN RABOSO",
+          "5",
+          "1,161",
+          "551",
+          "610",
+          "52"
+        ],
+        [
+          "SAN LUCAS COLUCAN",
+          "5",
+          "580",
+          "278",
+          "302",
+          "32"
+        ],
+        [
+          "SAN MANUEL LA PAROTA",
+          "4",
+          "166",
+          "80",
+          "86",
+          "7"
+        ],
+        [
+          "SAN MARTÍN LA FLOR (LA FLOR COLORADA)",
+          "3",
+          "33",
+          "19",
+          "14",
+          "4"
+        ],
+        [
+          "SAN MIGUEL LAS MINAS",
+          "4",
+          "295",
+          "148",
+          "147",
+          "16"
+        ],
+        [
+          "SAN NICOLÁS TOLENTINO",
+          "2",
+          "208",
+          "107",
+          "101",
+          "10"
+        ],
+        [
+          "SAN PEDRO CALANTLA",
+          "4",
+          "152",
+          "67",
+          "85",
+          "11"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN SEBASTIÁN PUCTLA",
+          "3",
+          "209",
+          "108",
+          "101",
+          "12"
+        ],
+        [
+          "SANTA MARÍA XUCHAPA",
+          "4",
+          "279",
+          "144",
+          "135",
+          "14"
+        ],
+        [
+          "VISTA HERMOSA",
+          "5",
+          "133",
+          "69",
+          "64",
+          "11"
+        ],
+        [
+          "XALTIANGUIS",
+          "3",
+          "81",
+          "41",
+          "40",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "211",
+          "24,076",
+          "12,423",
+          "11,653",
+          "1,456"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: IZÚCAR DE MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ",
+          "2",
+          "42",
+          "21",
+          "21",
+          "2"
+        ],
+        [
+          "AGUA ESCONDIDA (SANTA CRUZ AGUA ESCONDIDA)",
+          "3",
+          "168",
+          "80",
+          "88",
+          "9"
+        ],
+        [
+          "AYUTLA (SAN FELIPE AYUTLA)",
+          "8",
+          "1,361",
+          "688",
+          "673",
+          "72"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "2"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "454",
+          "229",
+          "225",
+          "19"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "3",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "EL SAUCE",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "GUADALUPE LAS CHICHIHUAS",
+          "2",
+          "22",
+          "8",
+          "14",
+          "3"
+        ],
+        [
+          "HUAXTEPEC",
+          "3",
+          "31",
+          "17",
+          "14",
+          "4"
+        ],
+        [
+          "IZÚCAR DE MATAMOROS",
+          "92",
+          "15,409",
+          "8,080",
+          "7,329",
+          "974"
+        ],
+        [
+          "LA GALARZA",
+          "9",
+          "1,066",
+          "558",
+          "508",
+          "50"
+        ],
+        [
+          "LA SOLEDAD PIZOTLA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LAS CASITAS",
+          "3",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "LAS PILETAS",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LOMAS DE ALCHICHICA",
+          "6",
+          "606",
+          "334",
+          "272",
+          "37"
+        ],
+        [
+          "LOS AMATES",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6"
+        ],
+        [
+          "LOS LIMONES",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "MATZACO",
+          "5",
+          "583",
+          "279",
+          "304",
+          "27"
+        ],
+        [
+          "MEXQUITEPEC",
+          "3",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "SAN CARLOS BUENAVISTA",
+          "4",
+          "201",
+          "103",
+          "98",
+          "14"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "49",
+          "28",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOSÉ LAS BOCAS",
+          "2",
+          "108",
+          "60",
+          "48",
+          "5"
+        ],
+        [
+          "SAN JUAN COLÓN",
+          "4",
+          "451",
+          "219",
+          "232",
+          "36"
+        ],
+        [
+          "SAN JUAN RABOSO",
+          "5",
+          "1,161",
+          "551",
+          "610",
+          "52"
+        ],
+        [
+          "SAN LUCAS COLUCAN",
+          "5",
+          "580",
+          "278",
+          "302",
+          "32"
+        ],
+        [
+          "SAN MANUEL LA PAROTA",
+          "4",
+          "166",
+          "80",
+          "86",
+          "7"
+        ],
+        [
+          "SAN MARTÍN LA FLOR (LA FLOR COLORADA)",
+          "3",
+          "33",
+          "19",
+          "14",
+          "4"
+        ],
+        [
+          "SAN MIGUEL LAS MINAS",
+          "4",
+          "295",
+          "148",
+          "147",
+          "16"
+        ],
+        [
+          "SAN NICOLÁS TOLENTINO",
+          "2",
+          "208",
+          "107",
+          "101",
+          "10"
+        ],
+        [
+          "SAN PEDRO CALANTLA",
+          "4",
+          "152",
+          "67",
+          "85",
+          "11"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN SEBASTIÁN PUCTLA",
+          "3",
+          "209",
+          "108",
+          "101",
+          "12"
+        ],
+        [
+          "SANTA MARÍA XUCHAPA",
+          "4",
+          "279",
+          "144",
+          "135",
+          "14"
+        ],
+        [
+          "VISTA HERMOSA",
+          "5",
+          "133",
+          "69",
+          "64",
+          "11"
+        ],
+        [
+          "XALTIANGUIS",
+          "3",
+          "81",
+          "41",
+          "40",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "211",
+          "24,076",
+          "12,423",
+          "11,653",
+          "1,456"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:30:05.668Z"
+}

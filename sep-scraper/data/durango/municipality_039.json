@@ -1,0 +1,692 @@
+{
+  "municipality": "NUEVO IDEAL",
+  "municipalityCode": "039",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NUEVO IDEAL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tASTILLEROS DE ABAJO\n\t\t2\n\t\t18\n\t\t13\n\t\t5\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ (JUÁREZ DE ABAJO)\n\t\t3\n\t\t53\n\t\t27\n\t\t26\n\t\t4\n\t\n\t\n\t\tBUENA UNIÓN\n\t\t3\n\t\t80\n\t\t39\n\t\t41\n\t\t5\n\t\n\t\n\t\tCAMPO HERMOSO\n\t\t2\n\t\t49\n\t\t22\n\t\t27\n\t\t3\n\t\n\t\n\t\tCARTAGENA\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t1\n\t\n\t\n\t\tCHAPALA\n\t\t1\n\t\t8\n\t\t7\n\t\t1\n\t\t1\n\t\n\t\n\t\tDOCTOR CASTILLO DEL VALLE (LAS HUERTAS)\n\t\t4\n\t\t150\n\t\t78\n\t\t72\n\t\t20\n\t\n\t\n\t\tEL MOLINO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL NUEVO PORVENIR\n\t\t3\n\t\t79\n\t\t42\n\t\t37\n\t\t5\n\t\n\t\n\t\tESFUERZOS UNIDOS\n\t\t3\n\t\t225\n\t\t119\n\t\t106\n\t\t13\n\t\n\t\n\t\tFUENTE DEL LLANO (SANTIAGUILLO)\n\t\t3\n\t\t85\n\t\t43\n\t\t42\n\t\t5\n\t\n\t\n\t\tGUATIMAPÉ\n\t\t4\n\t\t458\n\t\t222\n\t\t236\n\t\t31\n\t\n\t\n\t\tGUILLERMO PRIETO\n\t\t3\n\t\t78\n\t\t39\n\t\t39\n\t\t5\n\t\n\t\n\t\tLA ESCONDIDA\n\t\t3\n\t\t48\n\t\t27\n\t\t21\n\t\t4\n\t\n\t\n\t\tLIBERTADORES DEL LLANO (SANTA SOFÍA)\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t3\n\t\n\t\n\t\tMELCHOR OCAMPO (EL TRÉBOL)\n\t\t3\n\t\t56\n\t\t24\n\t\t32\n\t\t4\n\t\n\t\n\t\tMIGUEL NEGRETE (EL TOBOSO)\n\t\t3\n\t\t182\n\t\t87\n\t\t95\n\t\t11\n\t\n\t\n\t\tMODESTO QUEZADA (JUÁREZ DE ARRIBA)\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tNUEVO IDEAL\n\t\t18\n\t\t3,795\n\t\t1,910\n\t\t1,885\n\t\t206\n\t\n\t\n\t\tONCE DE MARZO (TRINCHERAS)\n\t\t3\n\t\t32\n\t\t18\n\t\t14\n\t\t4\n\t\n\t\n\t\tPINOS ALTOS\n\t\t3\n\t\t93\n\t\t49\n\t\t44\n\t\t6\n\t\n\t\n\t\tRAÚL MADERO\n\t\t3\n\t\t68\n\t\t31\n\t\t37\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DE MORILLITOS (LA PERLA)\n\t\t3\n\t\t123\n\t\t69\n\t\t54\n\t\t9\n\t\n\t\n\t\tSAN MIGUEL DE ALLENDE\n\t\t2\n\t\t68\n\t\t26\n\t\t42\n\t\t4\n\t\n\t\n\t\tTEJAMEN\n\t\t3\n\t\t83\n\t\t41\n\t\t42\n\t\t7\n\t\n\t\n\t\tVALLE FLORIDO (EL REFUGIO)\n\t\t3\n\t\t24\n\t\t12\n\t\t12\n\t\t4\n\t\n\t\n\t\tVILLA HERMOSA\n\t\t4\n\t\t131\n\t\t62\n\t\t69\n\t\t9\n\t\n\t\n\t\tTOTAL\n\t\t88\n\t\t6,050\n\t\t3,043\n\t\t3,007\n\t\t374\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NUEVO IDEAL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ASTILLEROS DE ABAJO",
+          "2",
+          "18",
+          "13",
+          "5",
+          "2",
+          "BENITO JUÁREZ (JUÁREZ DE ABAJO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4",
+          "BUENA UNIÓN",
+          "3",
+          "80",
+          "39",
+          "41",
+          "5",
+          "CAMPO HERMOSO",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3",
+          "CARTAGENA",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1",
+          "CHAPALA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1",
+          "DOCTOR CASTILLO DEL VALLE (LAS HUERTAS)",
+          "4",
+          "150",
+          "78",
+          "72",
+          "20",
+          "EL MOLINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "EL NUEVO PORVENIR",
+          "3",
+          "79",
+          "42",
+          "37",
+          "5",
+          "ESFUERZOS UNIDOS",
+          "3",
+          "225",
+          "119",
+          "106",
+          "13",
+          "FUENTE DEL LLANO (SANTIAGUILLO)",
+          "3",
+          "85",
+          "43",
+          "42",
+          "5",
+          "GUATIMAPÉ",
+          "4",
+          "458",
+          "222",
+          "236",
+          "31",
+          "GUILLERMO PRIETO",
+          "3",
+          "78",
+          "39",
+          "39",
+          "5",
+          "LA ESCONDIDA",
+          "3",
+          "48",
+          "27",
+          "21",
+          "4",
+          "LIBERTADORES DEL LLANO (SANTA SOFÍA)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3",
+          "MELCHOR OCAMPO (EL TRÉBOL)",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4",
+          "MIGUEL NEGRETE (EL TOBOSO)",
+          "3",
+          "182",
+          "87",
+          "95",
+          "11",
+          "MODESTO QUEZADA (JUÁREZ DE ARRIBA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "NUEVO IDEAL",
+          "18",
+          "3,795",
+          "1,910",
+          "1,885",
+          "206",
+          "ONCE DE MARZO (TRINCHERAS)",
+          "3",
+          "32",
+          "18",
+          "14",
+          "4",
+          "PINOS ALTOS",
+          "3",
+          "93",
+          "49",
+          "44",
+          "6",
+          "RAÚL MADERO",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5",
+          "SAN JOSÉ DE MORILLITOS (LA PERLA)",
+          "3",
+          "123",
+          "69",
+          "54",
+          "9",
+          "SAN MIGUEL DE ALLENDE",
+          "2",
+          "68",
+          "26",
+          "42",
+          "4",
+          "TEJAMEN",
+          "3",
+          "83",
+          "41",
+          "42",
+          "7",
+          "VALLE FLORIDO (EL REFUGIO)",
+          "3",
+          "24",
+          "12",
+          "12",
+          "4",
+          "VILLA HERMOSA",
+          "4",
+          "131",
+          "62",
+          "69",
+          "9",
+          "TOTAL",
+          "88",
+          "6,050",
+          "3,043",
+          "3,007",
+          "374",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NUEVO IDEAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ASTILLEROS DE ABAJO",
+          "2",
+          "18",
+          "13",
+          "5",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ (JUÁREZ DE ABAJO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA UNIÓN",
+          "3",
+          "80",
+          "39",
+          "41",
+          "5"
+        ],
+        [
+          "CAMPO HERMOSO",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "CARTAGENA",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "CHAPALA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "DOCTOR CASTILLO DEL VALLE (LAS HUERTAS)",
+          "4",
+          "150",
+          "78",
+          "72",
+          "20"
+        ],
+        [
+          "EL MOLINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL NUEVO PORVENIR",
+          "3",
+          "79",
+          "42",
+          "37",
+          "5"
+        ],
+        [
+          "ESFUERZOS UNIDOS",
+          "3",
+          "225",
+          "119",
+          "106",
+          "13"
+        ],
+        [
+          "FUENTE DEL LLANO (SANTIAGUILLO)",
+          "3",
+          "85",
+          "43",
+          "42",
+          "5"
+        ],
+        [
+          "GUATIMAPÉ",
+          "4",
+          "458",
+          "222",
+          "236",
+          "31"
+        ],
+        [
+          "GUILLERMO PRIETO",
+          "3",
+          "78",
+          "39",
+          "39",
+          "5"
+        ],
+        [
+          "LA ESCONDIDA",
+          "3",
+          "48",
+          "27",
+          "21",
+          "4"
+        ],
+        [
+          "LIBERTADORES DEL LLANO (SANTA SOFÍA)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "MELCHOR OCAMPO (EL TRÉBOL)",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4"
+        ],
+        [
+          "MIGUEL NEGRETE (EL TOBOSO)",
+          "3",
+          "182",
+          "87",
+          "95",
+          "11"
+        ],
+        [
+          "MODESTO QUEZADA (JUÁREZ DE ARRIBA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO IDEAL",
+          "18",
+          "3,795",
+          "1,910",
+          "1,885",
+          "206"
+        ],
+        [
+          "ONCE DE MARZO (TRINCHERAS)",
+          "3",
+          "32",
+          "18",
+          "14",
+          "4"
+        ],
+        [
+          "PINOS ALTOS",
+          "3",
+          "93",
+          "49",
+          "44",
+          "6"
+        ],
+        [
+          "RAÚL MADERO",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE MORILLITOS (LA PERLA)",
+          "3",
+          "123",
+          "69",
+          "54",
+          "9"
+        ],
+        [
+          "SAN MIGUEL DE ALLENDE",
+          "2",
+          "68",
+          "26",
+          "42",
+          "4"
+        ],
+        [
+          "TEJAMEN",
+          "3",
+          "83",
+          "41",
+          "42",
+          "7"
+        ],
+        [
+          "VALLE FLORIDO (EL REFUGIO)",
+          "3",
+          "24",
+          "12",
+          "12",
+          "4"
+        ],
+        [
+          "VILLA HERMOSA",
+          "4",
+          "131",
+          "62",
+          "69",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "6,050",
+          "3,043",
+          "3,007",
+          "374"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NUEVO IDEAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ASTILLEROS DE ABAJO",
+          "2",
+          "18",
+          "13",
+          "5",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ (JUÁREZ DE ABAJO)",
+          "3",
+          "53",
+          "27",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA UNIÓN",
+          "3",
+          "80",
+          "39",
+          "41",
+          "5"
+        ],
+        [
+          "CAMPO HERMOSO",
+          "2",
+          "49",
+          "22",
+          "27",
+          "3"
+        ],
+        [
+          "CARTAGENA",
+          "1",
+          "13",
+          "9",
+          "4",
+          "1"
+        ],
+        [
+          "CHAPALA",
+          "1",
+          "8",
+          "7",
+          "1",
+          "1"
+        ],
+        [
+          "DOCTOR CASTILLO DEL VALLE (LAS HUERTAS)",
+          "4",
+          "150",
+          "78",
+          "72",
+          "20"
+        ],
+        [
+          "EL MOLINO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL NUEVO PORVENIR",
+          "3",
+          "79",
+          "42",
+          "37",
+          "5"
+        ],
+        [
+          "ESFUERZOS UNIDOS",
+          "3",
+          "225",
+          "119",
+          "106",
+          "13"
+        ],
+        [
+          "FUENTE DEL LLANO (SANTIAGUILLO)",
+          "3",
+          "85",
+          "43",
+          "42",
+          "5"
+        ],
+        [
+          "GUATIMAPÉ",
+          "4",
+          "458",
+          "222",
+          "236",
+          "31"
+        ],
+        [
+          "GUILLERMO PRIETO",
+          "3",
+          "78",
+          "39",
+          "39",
+          "5"
+        ],
+        [
+          "LA ESCONDIDA",
+          "3",
+          "48",
+          "27",
+          "21",
+          "4"
+        ],
+        [
+          "LIBERTADORES DEL LLANO (SANTA SOFÍA)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "3"
+        ],
+        [
+          "MELCHOR OCAMPO (EL TRÉBOL)",
+          "3",
+          "56",
+          "24",
+          "32",
+          "4"
+        ],
+        [
+          "MIGUEL NEGRETE (EL TOBOSO)",
+          "3",
+          "182",
+          "87",
+          "95",
+          "11"
+        ],
+        [
+          "MODESTO QUEZADA (JUÁREZ DE ARRIBA)",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO IDEAL",
+          "18",
+          "3,795",
+          "1,910",
+          "1,885",
+          "206"
+        ],
+        [
+          "ONCE DE MARZO (TRINCHERAS)",
+          "3",
+          "32",
+          "18",
+          "14",
+          "4"
+        ],
+        [
+          "PINOS ALTOS",
+          "3",
+          "93",
+          "49",
+          "44",
+          "6"
+        ],
+        [
+          "RAÚL MADERO",
+          "3",
+          "68",
+          "31",
+          "37",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DE MORILLITOS (LA PERLA)",
+          "3",
+          "123",
+          "69",
+          "54",
+          "9"
+        ],
+        [
+          "SAN MIGUEL DE ALLENDE",
+          "2",
+          "68",
+          "26",
+          "42",
+          "4"
+        ],
+        [
+          "TEJAMEN",
+          "3",
+          "83",
+          "41",
+          "42",
+          "7"
+        ],
+        [
+          "VALLE FLORIDO (EL REFUGIO)",
+          "3",
+          "24",
+          "12",
+          "12",
+          "4"
+        ],
+        [
+          "VILLA HERMOSA",
+          "4",
+          "131",
+          "62",
+          "69",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "6,050",
+          "3,043",
+          "3,007",
+          "374"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:53.193Z"
+}

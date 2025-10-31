@@ -1,0 +1,604 @@
+{
+  "municipality": "VILLAMAR",
+  "municipalityCode": "104",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: VILLAMAR\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENITO JUÁREZ (SAN BENITO)\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tCERRITO COLORADO\n\t\t3\n\t\t90\n\t\t40\n\t\t50\n\t\t7\n\t\n\t\n\t\tCERRITO DE COTIJARÁN\n\t\t2\n\t\t74\n\t\t25\n\t\t49\n\t\t7\n\t\n\t\n\t\tCOAMEO CHICO\n\t\t2\n\t\t12\n\t\t10\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL FRESNO\n\t\t3\n\t\t67\n\t\t29\n\t\t38\n\t\t5\n\t\n\t\n\t\tEL PLATANAL\n\t\t4\n\t\t494\n\t\t256\n\t\t238\n\t\t25\n\t\n\t\n\t\tEL SALITRE\n\t\t2\n\t\t42\n\t\t25\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL VARAL\n\t\t2\n\t\t51\n\t\t27\n\t\t24\n\t\t4\n\t\n\t\n\t\tEL ZAPOTITO\n\t\t2\n\t\t49\n\t\t27\n\t\t22\n\t\t4\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t6\n\t\t884\n\t\t445\n\t\t439\n\t\t71\n\t\n\t\n\t\tJARIPO\n\t\t3\n\t\t70\n\t\t34\n\t\t36\n\t\t10\n\t\n\t\n\t\tLA ORTIGA DE SAN ANTONIO GUARACHA\n\t\t2\n\t\t39\n\t\t15\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA PALMITA (LA PALMA)\n\t\t2\n\t\t48\n\t\t20\n\t\t28\n\t\t4\n\t\n\t\n\t\tLA PRESA NUEVA\n\t\t3\n\t\t67\n\t\t36\n\t\t31\n\t\t4\n\t\n\t\n\t\tLAS ESTACAS\n\t\t3\n\t\t90\n\t\t43\n\t\t47\n\t\t8\n\t\n\t\n\t\tLAS ZARQUILLAS\n\t\t3\n\t\t106\n\t\t49\n\t\t57\n\t\t8\n\t\n\t\n\t\tLOS GRANADOS\n\t\t3\n\t\t36\n\t\t16\n\t\t20\n\t\t3\n\t\n\t\n\t\tNICOLÁS ROMERO\n\t\t2\n\t\t53\n\t\t18\n\t\t35\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO GUARACHA\n\t\t4\n\t\t340\n\t\t163\n\t\t177\n\t\t22\n\t\n\t\n\t\tSAN MIGUEL\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tTARIMORO\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t2\n\t\n\t\n\t\tTUMBISCATO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tVILLAMAR\n\t\t5\n\t\t605\n\t\t316\n\t\t289\n\t\t57\n\t\n\t\n\t\tTOTAL\n\t\t61\n\t\t3,276\n\t\t1,624\n\t\t1,652\n\t\t255\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: VILLAMAR",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENITO JUÁREZ (SAN BENITO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "CERRITO COLORADO",
+          "3",
+          "90",
+          "40",
+          "50",
+          "7",
+          "CERRITO DE COTIJARÁN",
+          "2",
+          "74",
+          "25",
+          "49",
+          "7",
+          "COAMEO CHICO",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2",
+          "EL FRESNO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "5",
+          "EL PLATANAL",
+          "4",
+          "494",
+          "256",
+          "238",
+          "25",
+          "EL SALITRE",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3",
+          "EL VARAL",
+          "2",
+          "51",
+          "27",
+          "24",
+          "4",
+          "EL ZAPOTITO",
+          "2",
+          "49",
+          "27",
+          "22",
+          "4",
+          "EMILIANO ZAPATA",
+          "6",
+          "884",
+          "445",
+          "439",
+          "71",
+          "JARIPO",
+          "3",
+          "70",
+          "34",
+          "36",
+          "10",
+          "LA ORTIGA DE SAN ANTONIO GUARACHA",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3",
+          "LA PALMITA (LA PALMA)",
+          "2",
+          "48",
+          "20",
+          "28",
+          "4",
+          "LA PRESA NUEVA",
+          "3",
+          "67",
+          "36",
+          "31",
+          "4",
+          "LAS ESTACAS",
+          "3",
+          "90",
+          "43",
+          "47",
+          "8",
+          "LAS ZARQUILLAS",
+          "3",
+          "106",
+          "49",
+          "57",
+          "8",
+          "LOS GRANADOS",
+          "3",
+          "36",
+          "16",
+          "20",
+          "3",
+          "NICOLÁS ROMERO",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3",
+          "SAN ANTONIO GUARACHA",
+          "4",
+          "340",
+          "163",
+          "177",
+          "22",
+          "SAN MIGUEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "TARIMORO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "2",
+          "TUMBISCATO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "VILLAMAR",
+          "5",
+          "605",
+          "316",
+          "289",
+          "57",
+          "TOTAL",
+          "61",
+          "3,276",
+          "1,624",
+          "1,652",
+          "255",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: VILLAMAR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ (SAN BENITO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "CERRITO COLORADO",
+          "3",
+          "90",
+          "40",
+          "50",
+          "7"
+        ],
+        [
+          "CERRITO DE COTIJARÁN",
+          "2",
+          "74",
+          "25",
+          "49",
+          "7"
+        ],
+        [
+          "COAMEO CHICO",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2"
+        ],
+        [
+          "EL FRESNO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "5"
+        ],
+        [
+          "EL PLATANAL",
+          "4",
+          "494",
+          "256",
+          "238",
+          "25"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "EL VARAL",
+          "2",
+          "51",
+          "27",
+          "24",
+          "4"
+        ],
+        [
+          "EL ZAPOTITO",
+          "2",
+          "49",
+          "27",
+          "22",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "884",
+          "445",
+          "439",
+          "71"
+        ],
+        [
+          "JARIPO",
+          "3",
+          "70",
+          "34",
+          "36",
+          "10"
+        ],
+        [
+          "LA ORTIGA DE SAN ANTONIO GUARACHA",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "LA PALMITA (LA PALMA)",
+          "2",
+          "48",
+          "20",
+          "28",
+          "4"
+        ],
+        [
+          "LA PRESA NUEVA",
+          "3",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "LAS ESTACAS",
+          "3",
+          "90",
+          "43",
+          "47",
+          "8"
+        ],
+        [
+          "LAS ZARQUILLAS",
+          "3",
+          "106",
+          "49",
+          "57",
+          "8"
+        ],
+        [
+          "LOS GRANADOS",
+          "3",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "NICOLÁS ROMERO",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3"
+        ],
+        [
+          "SAN ANTONIO GUARACHA",
+          "4",
+          "340",
+          "163",
+          "177",
+          "22"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "TARIMORO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "2"
+        ],
+        [
+          "TUMBISCATO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "VILLAMAR",
+          "5",
+          "605",
+          "316",
+          "289",
+          "57"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "3,276",
+          "1,624",
+          "1,652",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: VILLAMAR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENITO JUÁREZ (SAN BENITO)",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "CERRITO COLORADO",
+          "3",
+          "90",
+          "40",
+          "50",
+          "7"
+        ],
+        [
+          "CERRITO DE COTIJARÁN",
+          "2",
+          "74",
+          "25",
+          "49",
+          "7"
+        ],
+        [
+          "COAMEO CHICO",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2"
+        ],
+        [
+          "EL FRESNO",
+          "3",
+          "67",
+          "29",
+          "38",
+          "5"
+        ],
+        [
+          "EL PLATANAL",
+          "4",
+          "494",
+          "256",
+          "238",
+          "25"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "EL VARAL",
+          "2",
+          "51",
+          "27",
+          "24",
+          "4"
+        ],
+        [
+          "EL ZAPOTITO",
+          "2",
+          "49",
+          "27",
+          "22",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "6",
+          "884",
+          "445",
+          "439",
+          "71"
+        ],
+        [
+          "JARIPO",
+          "3",
+          "70",
+          "34",
+          "36",
+          "10"
+        ],
+        [
+          "LA ORTIGA DE SAN ANTONIO GUARACHA",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "LA PALMITA (LA PALMA)",
+          "2",
+          "48",
+          "20",
+          "28",
+          "4"
+        ],
+        [
+          "LA PRESA NUEVA",
+          "3",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "LAS ESTACAS",
+          "3",
+          "90",
+          "43",
+          "47",
+          "8"
+        ],
+        [
+          "LAS ZARQUILLAS",
+          "3",
+          "106",
+          "49",
+          "57",
+          "8"
+        ],
+        [
+          "LOS GRANADOS",
+          "3",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "NICOLÁS ROMERO",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3"
+        ],
+        [
+          "SAN ANTONIO GUARACHA",
+          "4",
+          "340",
+          "163",
+          "177",
+          "22"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "TARIMORO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "2"
+        ],
+        [
+          "TUMBISCATO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "VILLAMAR",
+          "5",
+          "605",
+          "316",
+          "289",
+          "57"
+        ],
+        [
+          "TOTAL",
+          "61",
+          "3,276",
+          "1,624",
+          "1,652",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:54.151Z"
+}

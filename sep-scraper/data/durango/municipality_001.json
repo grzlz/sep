@@ -1,0 +1,1000 @@
+{
+  "municipality": "CANATLÁN",
+  "municipalityCode": "001",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: CANATLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARNULFO R. GÓMEZ (LOS SAUCES)\n\t\t3\n\t\t121\n\t\t53\n\t\t68\n\t\t8\n\t\n\t\n\t\tBENJAMÍN ARANDA (SAN RAFAEL)\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t3\n\t\n\t\n\t\tBRUNO MARTÍNEZ (SAN BARTOLO)\n\t\t3\n\t\t181\n\t\t98\n\t\t83\n\t\t11\n\t\n\t\n\t\tCANATLÁN\n\t\t23\n\t\t3,656\n\t\t1,864\n\t\t1,792\n\t\t267\n\t\n\t\n\t\tCERRO GORDO\n\t\t3\n\t\t86\n\t\t43\n\t\t43\n\t\t7\n\t\n\t\n\t\tCIENEGUITAS\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOLONIA ANÁHUAC (PALO BLANCO)\n\t\t4\n\t\t214\n\t\t109\n\t\t105\n\t\t15\n\t\n\t\n\t\tDOLORES HIDALGO (GOGOGITO)\n\t\t2\n\t\t23\n\t\t10\n\t\t13\n\t\t2\n\t\n\t\n\t\tDONATO GUERRA\n\t\t3\n\t\t156\n\t\t73\n\t\t83\n\t\t15\n\t\n\t\n\t\tEL POZOLE\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PROGRESO (LOS PINOS)\n\t\t3\n\t\t126\n\t\t59\n\t\t67\n\t\t10\n\t\n\t\n\t\tEL TULE\n\t\t3\n\t\t37\n\t\t18\n\t\t19\n\t\t3\n\t\n\t\n\t\tGENERAL MARTÍN LÓPEZ\n\t\t3\n\t\t153\n\t\t80\n\t\t73\n\t\t10\n\t\n\t\n\t\tGOMELIA\n\t\t4\n\t\t49\n\t\t28\n\t\t21\n\t\t6\n\t\n\t\n\t\tHERMENEGILDO GALEANA\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tIGNACIO M. ALTAMIRANO (LA LUZ)\n\t\t3\n\t\t93\n\t\t43\n\t\t50\n\t\t6\n\t\n\t\n\t\tJOSÉ CRUZ GÁLVEZ (CAÑAS)\n\t\t3\n\t\t37\n\t\t19\n\t\t18\n\t\t4\n\t\n\t\n\t\tJOSÉ GUADALUPE AGUILERA (SANTA LUCÍA)\n\t\t5\n\t\t1,300\n\t\t462\n\t\t838\n\t\t128\n\t\n\t\n\t\tLA CAÑADA\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PLAZUELA (EL RAYO)\n\t\t4\n\t\t108\n\t\t53\n\t\t55\n\t\t8\n\t\n\t\n\t\tLA SAUCEDA\n\t\t2\n\t\t87\n\t\t29\n\t\t58\n\t\t8\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t170\n\t\t86\n\t\t84\n\t\t10\n\t\n\t\n\t\tLIRIOS DE LA SIERRA\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS LIRIOS\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tMARQUESOTES DE GUADALUPE (CANELAS)\n\t\t4\n\t\t38\n\t\t20\n\t\t18\n\t\t4\n\t\n\t\n\t\tMARQUEZOTES DE GUADALUPE (LOS OJITOS)\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tMAYMORITA\n\t\t3\n\t\t39\n\t\t15\n\t\t24\n\t\t4\n\t\n\t\n\t\tMEDINA\n\t\t3\n\t\t37\n\t\t18\n\t\t19\n\t\t4\n\t\n\t\n\t\tMIGUEL HIDALGO (VIBORILLAS)\n\t\t2\n\t\t16\n\t\t4\n\t\t12\n\t\t2\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t4\n\t\t266\n\t\t138\n\t\t128\n\t\t24\n\t\n\t\n\t\tNOGALES\n\t\t3\n\t\t81\n\t\t43\n\t\t38\n\t\t6\n\t\n\t\n\t\tPREDIO SANTA CRUZ DE LAS HUERTAS\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tRICARDO FLORES MAGÓN\n\t\t4\n\t\t286\n\t\t144\n\t\t142\n\t\t17\n\t\n\t\n\t\tSAN DIEGO DE ALCALÁ\n\t\t3\n\t\t37\n\t\t21\n\t\t16\n\t\t4\n\t\n\t\n\t\tSAN JERÓNIMO DE JACALES\n\t\t2\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE GRACIA\n\t\t3\n\t\t243\n\t\t114\n\t\t129\n\t\t15\n\t\n\t\n\t\tSAN LORENZO\n\t\t2\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA ROSA DE ESCAMILLAS\n\t\t3\n\t\t30\n\t\t17\n\t\t13\n\t\t3\n\t\n\t\n\t\tSANTA TERESA DE LOS PINOS\n\t\t2\n\t\t4\n\t\t1\n\t\t3\n\t\t2\n\t\n\t\n\t\tVEINTIDÓS DE MAYO\n\t\t4\n\t\t141\n\t\t70\n\t\t71\n\t\t9\n\t\n\t\n\t\tVENUSTIANO CARRANZA (OCOTÁN)\n\t\t4\n\t\t285\n\t\t135\n\t\t150\n\t\t21\n\t\n\t\n\t\tTOTAL\n\t\t131\n\t\t8,216\n\t\t3,923\n\t\t4,293\n\t\t648\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: CANATLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARNULFO R. GÓMEZ (LOS SAUCES)",
+          "3",
+          "121",
+          "53",
+          "68",
+          "8",
+          "BENJAMÍN ARANDA (SAN RAFAEL)",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3",
+          "BRUNO MARTÍNEZ (SAN BARTOLO)",
+          "3",
+          "181",
+          "98",
+          "83",
+          "11",
+          "CANATLÁN",
+          "23",
+          "3,656",
+          "1,864",
+          "1,792",
+          "267",
+          "CERRO GORDO",
+          "3",
+          "86",
+          "43",
+          "43",
+          "7",
+          "CIENEGUITAS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "COLONIA ANÁHUAC (PALO BLANCO)",
+          "4",
+          "214",
+          "109",
+          "105",
+          "15",
+          "DOLORES HIDALGO (GOGOGITO)",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2",
+          "DONATO GUERRA",
+          "3",
+          "156",
+          "73",
+          "83",
+          "15",
+          "EL POZOLE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "EL PROGRESO (LOS PINOS)",
+          "3",
+          "126",
+          "59",
+          "67",
+          "10",
+          "EL TULE",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3",
+          "GENERAL MARTÍN LÓPEZ",
+          "3",
+          "153",
+          "80",
+          "73",
+          "10",
+          "GOMELIA",
+          "4",
+          "49",
+          "28",
+          "21",
+          "6",
+          "HERMENEGILDO GALEANA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2",
+          "IGNACIO M. ALTAMIRANO (LA LUZ)",
+          "3",
+          "93",
+          "43",
+          "50",
+          "6",
+          "JOSÉ CRUZ GÁLVEZ (CAÑAS)",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4",
+          "JOSÉ GUADALUPE AGUILERA (SANTA LUCÍA)",
+          "5",
+          "1,300",
+          "462",
+          "838",
+          "128",
+          "LA CAÑADA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "LA PLAZUELA (EL RAYO)",
+          "4",
+          "108",
+          "53",
+          "55",
+          "8",
+          "LA SAUCEDA",
+          "2",
+          "87",
+          "29",
+          "58",
+          "8",
+          "LA SOLEDAD",
+          "3",
+          "170",
+          "86",
+          "84",
+          "10",
+          "LIRIOS DE LA SIERRA",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "LOS LIRIOS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "MARQUESOTES DE GUADALUPE (CANELAS)",
+          "4",
+          "38",
+          "20",
+          "18",
+          "4",
+          "MARQUEZOTES DE GUADALUPE (LOS OJITOS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "MAYMORITA",
+          "3",
+          "39",
+          "15",
+          "24",
+          "4",
+          "MEDINA",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4",
+          "MIGUEL HIDALGO (VIBORILLAS)",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2",
+          "NICOLÁS BRAVO",
+          "4",
+          "266",
+          "138",
+          "128",
+          "24",
+          "NOGALES",
+          "3",
+          "81",
+          "43",
+          "38",
+          "6",
+          "PREDIO SANTA CRUZ DE LAS HUERTAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "286",
+          "144",
+          "142",
+          "17",
+          "SAN DIEGO DE ALCALÁ",
+          "3",
+          "37",
+          "21",
+          "16",
+          "4",
+          "SAN JERÓNIMO DE JACALES",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2",
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "243",
+          "114",
+          "129",
+          "15",
+          "SAN LORENZO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SANTA ROSA DE ESCAMILLAS",
+          "3",
+          "30",
+          "17",
+          "13",
+          "3",
+          "SANTA TERESA DE LOS PINOS",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2",
+          "VEINTIDÓS DE MAYO",
+          "4",
+          "141",
+          "70",
+          "71",
+          "9",
+          "VENUSTIANO CARRANZA (OCOTÁN)",
+          "4",
+          "285",
+          "135",
+          "150",
+          "21",
+          "TOTAL",
+          "131",
+          "8,216",
+          "3,923",
+          "4,293",
+          "648",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: CANATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARNULFO R. GÓMEZ (LOS SAUCES)",
+          "3",
+          "121",
+          "53",
+          "68",
+          "8"
+        ],
+        [
+          "BENJAMÍN ARANDA (SAN RAFAEL)",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "BRUNO MARTÍNEZ (SAN BARTOLO)",
+          "3",
+          "181",
+          "98",
+          "83",
+          "11"
+        ],
+        [
+          "CANATLÁN",
+          "23",
+          "3,656",
+          "1,864",
+          "1,792",
+          "267"
+        ],
+        [
+          "CERRO GORDO",
+          "3",
+          "86",
+          "43",
+          "43",
+          "7"
+        ],
+        [
+          "CIENEGUITAS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA ANÁHUAC (PALO BLANCO)",
+          "4",
+          "214",
+          "109",
+          "105",
+          "15"
+        ],
+        [
+          "DOLORES HIDALGO (GOGOGITO)",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "DONATO GUERRA",
+          "3",
+          "156",
+          "73",
+          "83",
+          "15"
+        ],
+        [
+          "EL POZOLE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO (LOS PINOS)",
+          "3",
+          "126",
+          "59",
+          "67",
+          "10"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "GENERAL MARTÍN LÓPEZ",
+          "3",
+          "153",
+          "80",
+          "73",
+          "10"
+        ],
+        [
+          "GOMELIA",
+          "4",
+          "49",
+          "28",
+          "21",
+          "6"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "IGNACIO M. ALTAMIRANO (LA LUZ)",
+          "3",
+          "93",
+          "43",
+          "50",
+          "6"
+        ],
+        [
+          "JOSÉ CRUZ GÁLVEZ (CAÑAS)",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4"
+        ],
+        [
+          "JOSÉ GUADALUPE AGUILERA (SANTA LUCÍA)",
+          "5",
+          "1,300",
+          "462",
+          "838",
+          "128"
+        ],
+        [
+          "LA CAÑADA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA PLAZUELA (EL RAYO)",
+          "4",
+          "108",
+          "53",
+          "55",
+          "8"
+        ],
+        [
+          "LA SAUCEDA",
+          "2",
+          "87",
+          "29",
+          "58",
+          "8"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "170",
+          "86",
+          "84",
+          "10"
+        ],
+        [
+          "LIRIOS DE LA SIERRA",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "LOS LIRIOS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "MARQUESOTES DE GUADALUPE (CANELAS)",
+          "4",
+          "38",
+          "20",
+          "18",
+          "4"
+        ],
+        [
+          "MARQUEZOTES DE GUADALUPE (LOS OJITOS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "MAYMORITA",
+          "3",
+          "39",
+          "15",
+          "24",
+          "4"
+        ],
+        [
+          "MEDINA",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4"
+        ],
+        [
+          "MIGUEL HIDALGO (VIBORILLAS)",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "4",
+          "266",
+          "138",
+          "128",
+          "24"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "81",
+          "43",
+          "38",
+          "6"
+        ],
+        [
+          "PREDIO SANTA CRUZ DE LAS HUERTAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "286",
+          "144",
+          "142",
+          "17"
+        ],
+        [
+          "SAN DIEGO DE ALCALÁ",
+          "3",
+          "37",
+          "21",
+          "16",
+          "4"
+        ],
+        [
+          "SAN JERÓNIMO DE JACALES",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "243",
+          "114",
+          "129",
+          "15"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA DE ESCAMILLAS",
+          "3",
+          "30",
+          "17",
+          "13",
+          "3"
+        ],
+        [
+          "SANTA TERESA DE LOS PINOS",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "VEINTIDÓS DE MAYO",
+          "4",
+          "141",
+          "70",
+          "71",
+          "9"
+        ],
+        [
+          "VENUSTIANO CARRANZA (OCOTÁN)",
+          "4",
+          "285",
+          "135",
+          "150",
+          "21"
+        ],
+        [
+          "TOTAL",
+          "131",
+          "8,216",
+          "3,923",
+          "4,293",
+          "648"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: CANATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARNULFO R. GÓMEZ (LOS SAUCES)",
+          "3",
+          "121",
+          "53",
+          "68",
+          "8"
+        ],
+        [
+          "BENJAMÍN ARANDA (SAN RAFAEL)",
+          "2",
+          "36",
+          "15",
+          "21",
+          "3"
+        ],
+        [
+          "BRUNO MARTÍNEZ (SAN BARTOLO)",
+          "3",
+          "181",
+          "98",
+          "83",
+          "11"
+        ],
+        [
+          "CANATLÁN",
+          "23",
+          "3,656",
+          "1,864",
+          "1,792",
+          "267"
+        ],
+        [
+          "CERRO GORDO",
+          "3",
+          "86",
+          "43",
+          "43",
+          "7"
+        ],
+        [
+          "CIENEGUITAS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "COLONIA ANÁHUAC (PALO BLANCO)",
+          "4",
+          "214",
+          "109",
+          "105",
+          "15"
+        ],
+        [
+          "DOLORES HIDALGO (GOGOGITO)",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "DONATO GUERRA",
+          "3",
+          "156",
+          "73",
+          "83",
+          "15"
+        ],
+        [
+          "EL POZOLE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO (LOS PINOS)",
+          "3",
+          "126",
+          "59",
+          "67",
+          "10"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "37",
+          "18",
+          "19",
+          "3"
+        ],
+        [
+          "GENERAL MARTÍN LÓPEZ",
+          "3",
+          "153",
+          "80",
+          "73",
+          "10"
+        ],
+        [
+          "GOMELIA",
+          "4",
+          "49",
+          "28",
+          "21",
+          "6"
+        ],
+        [
+          "HERMENEGILDO GALEANA",
+          "2",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "IGNACIO M. ALTAMIRANO (LA LUZ)",
+          "3",
+          "93",
+          "43",
+          "50",
+          "6"
+        ],
+        [
+          "JOSÉ CRUZ GÁLVEZ (CAÑAS)",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4"
+        ],
+        [
+          "JOSÉ GUADALUPE AGUILERA (SANTA LUCÍA)",
+          "5",
+          "1,300",
+          "462",
+          "838",
+          "128"
+        ],
+        [
+          "LA CAÑADA",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA PLAZUELA (EL RAYO)",
+          "4",
+          "108",
+          "53",
+          "55",
+          "8"
+        ],
+        [
+          "LA SAUCEDA",
+          "2",
+          "87",
+          "29",
+          "58",
+          "8"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "170",
+          "86",
+          "84",
+          "10"
+        ],
+        [
+          "LIRIOS DE LA SIERRA",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "LOS LIRIOS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "MARQUESOTES DE GUADALUPE (CANELAS)",
+          "4",
+          "38",
+          "20",
+          "18",
+          "4"
+        ],
+        [
+          "MARQUEZOTES DE GUADALUPE (LOS OJITOS)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "MAYMORITA",
+          "3",
+          "39",
+          "15",
+          "24",
+          "4"
+        ],
+        [
+          "MEDINA",
+          "3",
+          "37",
+          "18",
+          "19",
+          "4"
+        ],
+        [
+          "MIGUEL HIDALGO (VIBORILLAS)",
+          "2",
+          "16",
+          "4",
+          "12",
+          "2"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "4",
+          "266",
+          "138",
+          "128",
+          "24"
+        ],
+        [
+          "NOGALES",
+          "3",
+          "81",
+          "43",
+          "38",
+          "6"
+        ],
+        [
+          "PREDIO SANTA CRUZ DE LAS HUERTAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "RICARDO FLORES MAGÓN",
+          "4",
+          "286",
+          "144",
+          "142",
+          "17"
+        ],
+        [
+          "SAN DIEGO DE ALCALÁ",
+          "3",
+          "37",
+          "21",
+          "16",
+          "4"
+        ],
+        [
+          "SAN JERÓNIMO DE JACALES",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE GRACIA",
+          "3",
+          "243",
+          "114",
+          "129",
+          "15"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA DE ESCAMILLAS",
+          "3",
+          "30",
+          "17",
+          "13",
+          "3"
+        ],
+        [
+          "SANTA TERESA DE LOS PINOS",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "VEINTIDÓS DE MAYO",
+          "4",
+          "141",
+          "70",
+          "71",
+          "9"
+        ],
+        [
+          "VENUSTIANO CARRANZA (OCOTÁN)",
+          "4",
+          "285",
+          "135",
+          "150",
+          "21"
+        ],
+        [
+          "TOTAL",
+          "131",
+          "8,216",
+          "3,923",
+          "4,293",
+          "648"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:47.757Z"
+}

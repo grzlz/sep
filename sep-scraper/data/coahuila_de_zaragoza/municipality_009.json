@@ -1,0 +1,890 @@
+{
+  "municipality": "FRANCISCO I. MADERO",
+  "municipalityCode": "009",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: FRANCISCO I. MADERO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALAMITO\n\t\t2\n\t\t136\n\t\t57\n\t\t79\n\t\t7\n\t\n\t\n\t\tBATOPILAS\n\t\t4\n\t\t162\n\t\t83\n\t\t79\n\t\t11\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t131\n\t\t59\n\t\t72\n\t\t8\n\t\n\t\n\t\tBUENAVISTA DE ARRIBA\n\t\t2\n\t\t163\n\t\t75\n\t\t88\n\t\t8\n\t\n\t\n\t\tCHARCOS DE RISA\n\t\t4\n\t\t81\n\t\t42\n\t\t39\n\t\t6\n\t\n\t\n\t\tCOLÓN\n\t\t1\n\t\t90\n\t\t40\n\t\t50\n\t\t6\n\t\n\t\n\t\tCOVADONGA\n\t\t2\n\t\t86\n\t\t41\n\t\t45\n\t\t5\n\t\n\t\n\t\tDIECIOCHO DE MARZO\n\t\t2\n\t\t59\n\t\t26\n\t\t33\n\t\t3\n\t\n\t\n\t\tEL CÁNTABRO\n\t\t2\n\t\t57\n\t\t30\n\t\t27\n\t\t4\n\t\n\t\n\t\tEL PORVENIR (EL PORVENIR DE ARRIBA)\n\t\t3\n\t\t362\n\t\t160\n\t\t202\n\t\t27\n\t\n\t\n\t\tEL VENADO\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tFELIPE ÁNGELES\n\t\t3\n\t\t20\n\t\t11\n\t\t9\n\t\t3\n\t\n\t\n\t\tFINISTERRE\n\t\t4\n\t\t164\n\t\t76\n\t\t88\n\t\t9\n\t\n\t\n\t\tFLORENCIA\n\t\t2\n\t\t129\n\t\t66\n\t\t63\n\t\t6\n\t\n\t\n\t\tFRANCISCO I. MADERO (BANCO DE LONDRES)\n\t\t2\n\t\t23\n\t\t13\n\t\t10\n\t\t3\n\t\n\t\n\t\tFRANCISCO I. MADERO  \n\t\t63\n\t\t10,357\n\t\t5,348\n\t\t5,009\n\t\t631\n\t\n\t\n\t\tJABONCILLO\n\t\t1\n\t\t163\n\t\t72\n\t\t91\n\t\t6\n\t\n\t\n\t\tLA CORUÑA\n\t\t2\n\t\t157\n\t\t73\n\t\t84\n\t\t8\n\t\n\t\n\t\tLA FLORIDA\n\t\t3\n\t\t449\n\t\t226\n\t\t223\n\t\t21\n\t\n\t\n\t\tLA PINTA\n\t\t4\n\t\t278\n\t\t142\n\t\t136\n\t\t24\n\t\n\t\n\t\tLA TRINIDAD\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS MERCEDES\n\t\t3\n\t\t136\n\t\t74\n\t\t62\n\t\t6\n\t\n\t\n\t\tLEQUEITIO\n\t\t6\n\t\t1,004\n\t\t511\n\t\t493\n\t\t63\n\t\n\t\n\t\tLINDA VISTA\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tNUEVO LEÓN\n\t\t2\n\t\t196\n\t\t93\n\t\t103\n\t\t9\n\t\n\t\n\t\tSALOÑA (TRES NORIAS)\n\t\t2\n\t\t30\n\t\t22\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN AGUSTÍN DE ULÚA\n\t\t2\n\t\t52\n\t\t28\n\t\t24\n\t\t3\n\t\n\t\n\t\tSAN ESTEBAN DE EGIPTO\n\t\t2\n\t\t90\n\t\t53\n\t\t37\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE LA NIÑA\n\t\t4\n\t\t301\n\t\t147\n\t\t154\n\t\t28\n\t\n\t\n\t\tSAN JUAN DE ULÚA\n\t\t2\n\t\t66\n\t\t36\n\t\t30\n\t\t3\n\t\n\t\n\t\tSAN SALVADOR DE ARRIBA\n\t\t3\n\t\t111\n\t\t62\n\t\t49\n\t\t6\n\t\n\t\n\t\tSANTA MARÍA (SANTA MARÍA DE ARRIBA)\n\t\t2\n\t\t79\n\t\t34\n\t\t45\n\t\t4\n\t\n\t\n\t\tSEIS DE OCTUBRE (SANTO NIÑO)\n\t\t2\n\t\t287\n\t\t148\n\t\t139\n\t\t12\n\t\n\t\n\t\tTRES MANANTIALES (LA PARRITA)\n\t\t3\n\t\t15\n\t\t5\n\t\t10\n\t\t3\n\t\n\t\n\t\tYUCATÁN\n\t\t2\n\t\t57\n\t\t25\n\t\t32\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t149\n\t\t15,536\n\t\t7,899\n\t\t7,637\n\t\t948\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: FRANCISCO I. MADERO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALAMITO",
+          "2",
+          "136",
+          "57",
+          "79",
+          "7",
+          "BATOPILAS",
+          "4",
+          "162",
+          "83",
+          "79",
+          "11",
+          "BENITO JUÁREZ",
+          "2",
+          "131",
+          "59",
+          "72",
+          "8",
+          "BUENAVISTA DE ARRIBA",
+          "2",
+          "163",
+          "75",
+          "88",
+          "8",
+          "CHARCOS DE RISA",
+          "4",
+          "81",
+          "42",
+          "39",
+          "6",
+          "COLÓN",
+          "1",
+          "90",
+          "40",
+          "50",
+          "6",
+          "COVADONGA",
+          "2",
+          "86",
+          "41",
+          "45",
+          "5",
+          "DIECIOCHO DE MARZO",
+          "2",
+          "59",
+          "26",
+          "33",
+          "3",
+          "EL CÁNTABRO",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4",
+          "EL PORVENIR (EL PORVENIR DE ARRIBA)",
+          "3",
+          "362",
+          "160",
+          "202",
+          "27",
+          "EL VENADO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "FELIPE ÁNGELES",
+          "3",
+          "20",
+          "11",
+          "9",
+          "3",
+          "FINISTERRE",
+          "4",
+          "164",
+          "76",
+          "88",
+          "9",
+          "FLORENCIA",
+          "2",
+          "129",
+          "66",
+          "63",
+          "6",
+          "FRANCISCO I. MADERO (BANCO DE LONDRES)",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3",
+          "FRANCISCO I. MADERO",
+          "63",
+          "10,357",
+          "5,348",
+          "5,009",
+          "631",
+          "JABONCILLO",
+          "1",
+          "163",
+          "72",
+          "91",
+          "6",
+          "LA CORUÑA",
+          "2",
+          "157",
+          "73",
+          "84",
+          "8",
+          "LA FLORIDA",
+          "3",
+          "449",
+          "226",
+          "223",
+          "21",
+          "LA PINTA",
+          "4",
+          "278",
+          "142",
+          "136",
+          "24",
+          "LA TRINIDAD",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LAS MERCEDES",
+          "3",
+          "136",
+          "74",
+          "62",
+          "6",
+          "LEQUEITIO",
+          "6",
+          "1,004",
+          "511",
+          "493",
+          "63",
+          "LINDA VISTA",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "NUEVO LEÓN",
+          "2",
+          "196",
+          "93",
+          "103",
+          "9",
+          "SALOÑA (TRES NORIAS)",
+          "2",
+          "30",
+          "22",
+          "8",
+          "2",
+          "SAN AGUSTÍN DE ULÚA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3",
+          "SAN ESTEBAN DE EGIPTO",
+          "2",
+          "90",
+          "53",
+          "37",
+          "4",
+          "SAN ISIDRO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "SAN JOSÉ DE LA NIÑA",
+          "4",
+          "301",
+          "147",
+          "154",
+          "28",
+          "SAN JUAN DE ULÚA",
+          "2",
+          "66",
+          "36",
+          "30",
+          "3",
+          "SAN SALVADOR DE ARRIBA",
+          "3",
+          "111",
+          "62",
+          "49",
+          "6",
+          "SANTA MARÍA (SANTA MARÍA DE ARRIBA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4",
+          "SEIS DE OCTUBRE (SANTO NIÑO)",
+          "2",
+          "287",
+          "148",
+          "139",
+          "12",
+          "TRES MANANTIALES (LA PARRITA)",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3",
+          "YUCATÁN",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3",
+          "TOTAL",
+          "149",
+          "15,536",
+          "7,899",
+          "7,637",
+          "948",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: FRANCISCO I. MADERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMITO",
+          "2",
+          "136",
+          "57",
+          "79",
+          "7"
+        ],
+        [
+          "BATOPILAS",
+          "4",
+          "162",
+          "83",
+          "79",
+          "11"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "131",
+          "59",
+          "72",
+          "8"
+        ],
+        [
+          "BUENAVISTA DE ARRIBA",
+          "2",
+          "163",
+          "75",
+          "88",
+          "8"
+        ],
+        [
+          "CHARCOS DE RISA",
+          "4",
+          "81",
+          "42",
+          "39",
+          "6"
+        ],
+        [
+          "COLÓN",
+          "1",
+          "90",
+          "40",
+          "50",
+          "6"
+        ],
+        [
+          "COVADONGA",
+          "2",
+          "86",
+          "41",
+          "45",
+          "5"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "2",
+          "59",
+          "26",
+          "33",
+          "3"
+        ],
+        [
+          "EL CÁNTABRO",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "EL PORVENIR (EL PORVENIR DE ARRIBA)",
+          "3",
+          "362",
+          "160",
+          "202",
+          "27"
+        ],
+        [
+          "EL VENADO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "3",
+          "20",
+          "11",
+          "9",
+          "3"
+        ],
+        [
+          "FINISTERRE",
+          "4",
+          "164",
+          "76",
+          "88",
+          "9"
+        ],
+        [
+          "FLORENCIA",
+          "2",
+          "129",
+          "66",
+          "63",
+          "6"
+        ],
+        [
+          "FRANCISCO I. MADERO (BANCO DE LONDRES)",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "63",
+          "10,357",
+          "5,348",
+          "5,009",
+          "631"
+        ],
+        [
+          "JABONCILLO",
+          "1",
+          "163",
+          "72",
+          "91",
+          "6"
+        ],
+        [
+          "LA CORUÑA",
+          "2",
+          "157",
+          "73",
+          "84",
+          "8"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "449",
+          "226",
+          "223",
+          "21"
+        ],
+        [
+          "LA PINTA",
+          "4",
+          "278",
+          "142",
+          "136",
+          "24"
+        ],
+        [
+          "LA TRINIDAD",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MERCEDES",
+          "3",
+          "136",
+          "74",
+          "62",
+          "6"
+        ],
+        [
+          "LEQUEITIO",
+          "6",
+          "1,004",
+          "511",
+          "493",
+          "63"
+        ],
+        [
+          "LINDA VISTA",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "NUEVO LEÓN",
+          "2",
+          "196",
+          "93",
+          "103",
+          "9"
+        ],
+        [
+          "SALOÑA (TRES NORIAS)",
+          "2",
+          "30",
+          "22",
+          "8",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN DE ULÚA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3"
+        ],
+        [
+          "SAN ESTEBAN DE EGIPTO",
+          "2",
+          "90",
+          "53",
+          "37",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LA NIÑA",
+          "4",
+          "301",
+          "147",
+          "154",
+          "28"
+        ],
+        [
+          "SAN JUAN DE ULÚA",
+          "2",
+          "66",
+          "36",
+          "30",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE ARRIBA",
+          "3",
+          "111",
+          "62",
+          "49",
+          "6"
+        ],
+        [
+          "SANTA MARÍA (SANTA MARÍA DE ARRIBA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4"
+        ],
+        [
+          "SEIS DE OCTUBRE (SANTO NIÑO)",
+          "2",
+          "287",
+          "148",
+          "139",
+          "12"
+        ],
+        [
+          "TRES MANANTIALES (LA PARRITA)",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "YUCATÁN",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "149",
+          "15,536",
+          "7,899",
+          "7,637",
+          "948"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: FRANCISCO I. MADERO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALAMITO",
+          "2",
+          "136",
+          "57",
+          "79",
+          "7"
+        ],
+        [
+          "BATOPILAS",
+          "4",
+          "162",
+          "83",
+          "79",
+          "11"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "131",
+          "59",
+          "72",
+          "8"
+        ],
+        [
+          "BUENAVISTA DE ARRIBA",
+          "2",
+          "163",
+          "75",
+          "88",
+          "8"
+        ],
+        [
+          "CHARCOS DE RISA",
+          "4",
+          "81",
+          "42",
+          "39",
+          "6"
+        ],
+        [
+          "COLÓN",
+          "1",
+          "90",
+          "40",
+          "50",
+          "6"
+        ],
+        [
+          "COVADONGA",
+          "2",
+          "86",
+          "41",
+          "45",
+          "5"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "2",
+          "59",
+          "26",
+          "33",
+          "3"
+        ],
+        [
+          "EL CÁNTABRO",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "EL PORVENIR (EL PORVENIR DE ARRIBA)",
+          "3",
+          "362",
+          "160",
+          "202",
+          "27"
+        ],
+        [
+          "EL VENADO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "3",
+          "20",
+          "11",
+          "9",
+          "3"
+        ],
+        [
+          "FINISTERRE",
+          "4",
+          "164",
+          "76",
+          "88",
+          "9"
+        ],
+        [
+          "FLORENCIA",
+          "2",
+          "129",
+          "66",
+          "63",
+          "6"
+        ],
+        [
+          "FRANCISCO I. MADERO (BANCO DE LONDRES)",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "63",
+          "10,357",
+          "5,348",
+          "5,009",
+          "631"
+        ],
+        [
+          "JABONCILLO",
+          "1",
+          "163",
+          "72",
+          "91",
+          "6"
+        ],
+        [
+          "LA CORUÑA",
+          "2",
+          "157",
+          "73",
+          "84",
+          "8"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "449",
+          "226",
+          "223",
+          "21"
+        ],
+        [
+          "LA PINTA",
+          "4",
+          "278",
+          "142",
+          "136",
+          "24"
+        ],
+        [
+          "LA TRINIDAD",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MERCEDES",
+          "3",
+          "136",
+          "74",
+          "62",
+          "6"
+        ],
+        [
+          "LEQUEITIO",
+          "6",
+          "1,004",
+          "511",
+          "493",
+          "63"
+        ],
+        [
+          "LINDA VISTA",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "NUEVO LEÓN",
+          "2",
+          "196",
+          "93",
+          "103",
+          "9"
+        ],
+        [
+          "SALOÑA (TRES NORIAS)",
+          "2",
+          "30",
+          "22",
+          "8",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN DE ULÚA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "3"
+        ],
+        [
+          "SAN ESTEBAN DE EGIPTO",
+          "2",
+          "90",
+          "53",
+          "37",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LA NIÑA",
+          "4",
+          "301",
+          "147",
+          "154",
+          "28"
+        ],
+        [
+          "SAN JUAN DE ULÚA",
+          "2",
+          "66",
+          "36",
+          "30",
+          "3"
+        ],
+        [
+          "SAN SALVADOR DE ARRIBA",
+          "3",
+          "111",
+          "62",
+          "49",
+          "6"
+        ],
+        [
+          "SANTA MARÍA (SANTA MARÍA DE ARRIBA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4"
+        ],
+        [
+          "SEIS DE OCTUBRE (SANTO NIÑO)",
+          "2",
+          "287",
+          "148",
+          "139",
+          "12"
+        ],
+        [
+          "TRES MANANTIALES (LA PARRITA)",
+          "3",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "YUCATÁN",
+          "2",
+          "57",
+          "25",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "149",
+          "15,536",
+          "7,899",
+          "7,637",
+          "948"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:44.074Z"
+}

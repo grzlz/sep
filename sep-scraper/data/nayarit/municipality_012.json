@@ -1,0 +1,978 @@
+{
+  "municipality": "SAN BLAS",
+  "municipalityCode": "012",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SAN BLAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tATICAMA\n\t\t4\n\t\t374\n\t\t184\n\t\t190\n\t\t20\n\t\n\t\n\t\tAUTÁN\n\t\t4\n\t\t291\n\t\t147\n\t\t144\n\t\t22\n\t\n\t\n\t\tBOCA DEL ASADERO\n\t\t1\n\t\t17\n\t\t11\n\t\t6\n\t\t1\n\t\n\t\n\t\tCHACALILLA\n\t\t3\n\t\t127\n\t\t61\n\t\t66\n\t\t9\n\t\n\t\n\t\tEL CAPOMO\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL CARLEÑO\n\t\t3\n\t\t66\n\t\t30\n\t\t36\n\t\t4\n\t\n\t\n\t\tEL CORA\n\t\t3\n\t\t81\n\t\t30\n\t\t51\n\t\t5\n\t\n\t\n\t\tEL ESPINO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL LLANO\n\t\t3\n\t\t206\n\t\t102\n\t\t104\n\t\t11\n\t\n\t\n\t\tEL MADRIGALEÑO\n\t\t2\n\t\t59\n\t\t28\n\t\t31\n\t\t3\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t8\n\t\t1,037\n\t\t523\n\t\t514\n\t\t101\n\t\n\t\n\t\tHUARISTEMBA\n\t\t4\n\t\t165\n\t\t73\n\t\t92\n\t\t11\n\t\n\t\n\t\tHUAYNAMOTA\n\t\t2\n\t\t28\n\t\t11\n\t\t17\n\t\t2\n\t\n\t\n\t\tISLA DEL CONDE\n\t\t3\n\t\t81\n\t\t39\n\t\t42\n\t\t6\n\t\n\t\n\t\tJALCOCOTÁN\n\t\t7\n\t\t1,076\n\t\t547\n\t\t529\n\t\t69\n\t\n\t\n\t\tJOLOTEMBA\n\t\t3\n\t\t62\n\t\t25\n\t\t37\n\t\t5\n\t\n\t\n\t\tJOSÉ MARÍA MERCADO\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t2\n\t\n\t\n\t\tLA BAJADA\n\t\t3\n\t\t64\n\t\t33\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA CHILTERA\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA CHIRIPA\n\t\t3\n\t\t106\n\t\t50\n\t\t56\n\t\t6\n\t\n\t\n\t\tLA CULEBRA\n\t\t2\n\t\t30\n\t\t17\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA GOMA\n\t\t3\n\t\t97\n\t\t54\n\t\t43\n\t\t7\n\t\n\t\n\t\tLA LIBERTAD\n\t\t4\n\t\t413\n\t\t196\n\t\t217\n\t\t19\n\t\n\t\n\t\tLA PALMA\n\t\t4\n\t\t269\n\t\t118\n\t\t151\n\t\t14\n\t\n\t\n\t\tLAS PALMAS\n\t\t3\n\t\t33\n\t\t18\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAURELES Y GÓNGORA (EL CIRUELO)\n\t\t3\n\t\t85\n\t\t45\n\t\t40\n\t\t6\n\t\n\t\n\t\tLAURELES Y GÓNGORA (EL LIMÓN)\n\t\t3\n\t\t80\n\t\t45\n\t\t35\n\t\t5\n\t\n\t\n\t\tMATANCHÉN (LA AGUADA)\n\t\t1\n\t\t82\n\t\t29\n\t\t53\n\t\t28\n\t\n\t\n\t\tMECATÁN\n\t\t5\n\t\t653\n\t\t313\n\t\t340\n\t\t51\n\t\n\t\n\t\tNAVARRETE\n\t\t3\n\t\t303\n\t\t153\n\t\t150\n\t\t21\n\t\n\t\n\t\tPIMIENTILLO\n\t\t3\n\t\t68\n\t\t28\n\t\t40\n\t\t5\n\t\n\t\n\t\tPINTADEÑO\n\t\t3\n\t\t84\n\t\t39\n\t\t45\n\t\t6\n\t\n\t\n\t\tPLAYA DE LOS COCOS\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tPLAYA DE RAMÍREZ\n\t\t1\n\t\t15\n\t\t10\n\t\t5\n\t\t1\n\t\n\t\n\t\tPUERTO DE LINDAVISTA\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tREFORMA AGRARIA (LA COLORADA)\n\t\t5\n\t\t262\n\t\t111\n\t\t151\n\t\t8\n\t\n\t\n\t\tSAN BLAS\n\t\t18\n\t\t2,895\n\t\t1,442\n\t\t1,453\n\t\t187\n\t\n\t\n\t\tSANTA CRUZ DE MIRAMAR\n\t\t4\n\t\t517\n\t\t262\n\t\t255\n\t\t32\n\t\n\t\n\t\tSINGAITA\n\t\t2\n\t\t18\n\t\t10\n\t\t8\n\t\t2\n\t\n\t\n\t\tTECUITATA\n\t\t3\n\t\t80\n\t\t32\n\t\t48\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t136\n\t\t9,939\n\t\t4,873\n\t\t5,066\n\t\t692\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SAN BLAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ATICAMA",
+          "4",
+          "374",
+          "184",
+          "190",
+          "20",
+          "AUTÁN",
+          "4",
+          "291",
+          "147",
+          "144",
+          "22",
+          "BOCA DEL ASADERO",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1",
+          "CHACALILLA",
+          "3",
+          "127",
+          "61",
+          "66",
+          "9",
+          "EL CAPOMO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2",
+          "EL CARLEÑO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4",
+          "EL CORA",
+          "3",
+          "81",
+          "30",
+          "51",
+          "5",
+          "EL ESPINO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL LLANO",
+          "3",
+          "206",
+          "102",
+          "104",
+          "11",
+          "EL MADRIGALEÑO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "3",
+          "GUADALUPE VICTORIA",
+          "8",
+          "1,037",
+          "523",
+          "514",
+          "101",
+          "HUARISTEMBA",
+          "4",
+          "165",
+          "73",
+          "92",
+          "11",
+          "HUAYNAMOTA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2",
+          "ISLA DEL CONDE",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6",
+          "JALCOCOTÁN",
+          "7",
+          "1,076",
+          "547",
+          "529",
+          "69",
+          "JOLOTEMBA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5",
+          "JOSÉ MARÍA MERCADO",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2",
+          "LA BAJADA",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4",
+          "LA CHILTERA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "LA CHIRIPA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6",
+          "LA CULEBRA",
+          "2",
+          "30",
+          "17",
+          "13",
+          "3",
+          "LA GOMA",
+          "3",
+          "97",
+          "54",
+          "43",
+          "7",
+          "LA LIBERTAD",
+          "4",
+          "413",
+          "196",
+          "217",
+          "19",
+          "LA PALMA",
+          "4",
+          "269",
+          "118",
+          "151",
+          "14",
+          "LAS PALMAS",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3",
+          "LAURELES Y GÓNGORA (EL CIRUELO)",
+          "3",
+          "85",
+          "45",
+          "40",
+          "6",
+          "LAURELES Y GÓNGORA (EL LIMÓN)",
+          "3",
+          "80",
+          "45",
+          "35",
+          "5",
+          "MATANCHÉN (LA AGUADA)",
+          "1",
+          "82",
+          "29",
+          "53",
+          "28",
+          "MECATÁN",
+          "5",
+          "653",
+          "313",
+          "340",
+          "51",
+          "NAVARRETE",
+          "3",
+          "303",
+          "153",
+          "150",
+          "21",
+          "PIMIENTILLO",
+          "3",
+          "68",
+          "28",
+          "40",
+          "5",
+          "PINTADEÑO",
+          "3",
+          "84",
+          "39",
+          "45",
+          "6",
+          "PLAYA DE LOS COCOS",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "PLAYA DE RAMÍREZ",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1",
+          "PUERTO DE LINDAVISTA",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1",
+          "REFORMA AGRARIA (LA COLORADA)",
+          "5",
+          "262",
+          "111",
+          "151",
+          "8",
+          "SAN BLAS",
+          "18",
+          "2,895",
+          "1,442",
+          "1,453",
+          "187",
+          "SANTA CRUZ DE MIRAMAR",
+          "4",
+          "517",
+          "262",
+          "255",
+          "32",
+          "SINGAITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2",
+          "TECUITATA",
+          "3",
+          "80",
+          "32",
+          "48",
+          "6",
+          "TOTAL",
+          "136",
+          "9,939",
+          "4,873",
+          "5,066",
+          "692",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SAN BLAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATICAMA",
+          "4",
+          "374",
+          "184",
+          "190",
+          "20"
+        ],
+        [
+          "AUTÁN",
+          "4",
+          "291",
+          "147",
+          "144",
+          "22"
+        ],
+        [
+          "BOCA DEL ASADERO",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "CHACALILLA",
+          "3",
+          "127",
+          "61",
+          "66",
+          "9"
+        ],
+        [
+          "EL CAPOMO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "EL CARLEÑO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4"
+        ],
+        [
+          "EL CORA",
+          "3",
+          "81",
+          "30",
+          "51",
+          "5"
+        ],
+        [
+          "EL ESPINO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL LLANO",
+          "3",
+          "206",
+          "102",
+          "104",
+          "11"
+        ],
+        [
+          "EL MADRIGALEÑO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "3"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "8",
+          "1,037",
+          "523",
+          "514",
+          "101"
+        ],
+        [
+          "HUARISTEMBA",
+          "4",
+          "165",
+          "73",
+          "92",
+          "11"
+        ],
+        [
+          "HUAYNAMOTA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "ISLA DEL CONDE",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "JALCOCOTÁN",
+          "7",
+          "1,076",
+          "547",
+          "529",
+          "69"
+        ],
+        [
+          "JOLOTEMBA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5"
+        ],
+        [
+          "JOSÉ MARÍA MERCADO",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2"
+        ],
+        [
+          "LA BAJADA",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "LA CHILTERA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LA CHIRIPA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6"
+        ],
+        [
+          "LA CULEBRA",
+          "2",
+          "30",
+          "17",
+          "13",
+          "3"
+        ],
+        [
+          "LA GOMA",
+          "3",
+          "97",
+          "54",
+          "43",
+          "7"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "413",
+          "196",
+          "217",
+          "19"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "269",
+          "118",
+          "151",
+          "14"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "LAURELES Y GÓNGORA (EL CIRUELO)",
+          "3",
+          "85",
+          "45",
+          "40",
+          "6"
+        ],
+        [
+          "LAURELES Y GÓNGORA (EL LIMÓN)",
+          "3",
+          "80",
+          "45",
+          "35",
+          "5"
+        ],
+        [
+          "MATANCHÉN (LA AGUADA)",
+          "1",
+          "82",
+          "29",
+          "53",
+          "28"
+        ],
+        [
+          "MECATÁN",
+          "5",
+          "653",
+          "313",
+          "340",
+          "51"
+        ],
+        [
+          "NAVARRETE",
+          "3",
+          "303",
+          "153",
+          "150",
+          "21"
+        ],
+        [
+          "PIMIENTILLO",
+          "3",
+          "68",
+          "28",
+          "40",
+          "5"
+        ],
+        [
+          "PINTADEÑO",
+          "3",
+          "84",
+          "39",
+          "45",
+          "6"
+        ],
+        [
+          "PLAYA DE LOS COCOS",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "PLAYA DE RAMÍREZ",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1"
+        ],
+        [
+          "PUERTO DE LINDAVISTA",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "REFORMA AGRARIA (LA COLORADA)",
+          "5",
+          "262",
+          "111",
+          "151",
+          "8"
+        ],
+        [
+          "SAN BLAS",
+          "18",
+          "2,895",
+          "1,442",
+          "1,453",
+          "187"
+        ],
+        [
+          "SANTA CRUZ DE MIRAMAR",
+          "4",
+          "517",
+          "262",
+          "255",
+          "32"
+        ],
+        [
+          "SINGAITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "TECUITATA",
+          "3",
+          "80",
+          "32",
+          "48",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "136",
+          "9,939",
+          "4,873",
+          "5,066",
+          "692"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: SAN BLAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATICAMA",
+          "4",
+          "374",
+          "184",
+          "190",
+          "20"
+        ],
+        [
+          "AUTÁN",
+          "4",
+          "291",
+          "147",
+          "144",
+          "22"
+        ],
+        [
+          "BOCA DEL ASADERO",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "CHACALILLA",
+          "3",
+          "127",
+          "61",
+          "66",
+          "9"
+        ],
+        [
+          "EL CAPOMO",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "EL CARLEÑO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4"
+        ],
+        [
+          "EL CORA",
+          "3",
+          "81",
+          "30",
+          "51",
+          "5"
+        ],
+        [
+          "EL ESPINO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL LLANO",
+          "3",
+          "206",
+          "102",
+          "104",
+          "11"
+        ],
+        [
+          "EL MADRIGALEÑO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "3"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "8",
+          "1,037",
+          "523",
+          "514",
+          "101"
+        ],
+        [
+          "HUARISTEMBA",
+          "4",
+          "165",
+          "73",
+          "92",
+          "11"
+        ],
+        [
+          "HUAYNAMOTA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "ISLA DEL CONDE",
+          "3",
+          "81",
+          "39",
+          "42",
+          "6"
+        ],
+        [
+          "JALCOCOTÁN",
+          "7",
+          "1,076",
+          "547",
+          "529",
+          "69"
+        ],
+        [
+          "JOLOTEMBA",
+          "3",
+          "62",
+          "25",
+          "37",
+          "5"
+        ],
+        [
+          "JOSÉ MARÍA MERCADO",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2"
+        ],
+        [
+          "LA BAJADA",
+          "3",
+          "64",
+          "33",
+          "31",
+          "4"
+        ],
+        [
+          "LA CHILTERA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LA CHIRIPA",
+          "3",
+          "106",
+          "50",
+          "56",
+          "6"
+        ],
+        [
+          "LA CULEBRA",
+          "2",
+          "30",
+          "17",
+          "13",
+          "3"
+        ],
+        [
+          "LA GOMA",
+          "3",
+          "97",
+          "54",
+          "43",
+          "7"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "413",
+          "196",
+          "217",
+          "19"
+        ],
+        [
+          "LA PALMA",
+          "4",
+          "269",
+          "118",
+          "151",
+          "14"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "33",
+          "18",
+          "15",
+          "3"
+        ],
+        [
+          "LAURELES Y GÓNGORA (EL CIRUELO)",
+          "3",
+          "85",
+          "45",
+          "40",
+          "6"
+        ],
+        [
+          "LAURELES Y GÓNGORA (EL LIMÓN)",
+          "3",
+          "80",
+          "45",
+          "35",
+          "5"
+        ],
+        [
+          "MATANCHÉN (LA AGUADA)",
+          "1",
+          "82",
+          "29",
+          "53",
+          "28"
+        ],
+        [
+          "MECATÁN",
+          "5",
+          "653",
+          "313",
+          "340",
+          "51"
+        ],
+        [
+          "NAVARRETE",
+          "3",
+          "303",
+          "153",
+          "150",
+          "21"
+        ],
+        [
+          "PIMIENTILLO",
+          "3",
+          "68",
+          "28",
+          "40",
+          "5"
+        ],
+        [
+          "PINTADEÑO",
+          "3",
+          "84",
+          "39",
+          "45",
+          "6"
+        ],
+        [
+          "PLAYA DE LOS COCOS",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "PLAYA DE RAMÍREZ",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1"
+        ],
+        [
+          "PUERTO DE LINDAVISTA",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "REFORMA AGRARIA (LA COLORADA)",
+          "5",
+          "262",
+          "111",
+          "151",
+          "8"
+        ],
+        [
+          "SAN BLAS",
+          "18",
+          "2,895",
+          "1,442",
+          "1,453",
+          "187"
+        ],
+        [
+          "SANTA CRUZ DE MIRAMAR",
+          "4",
+          "517",
+          "262",
+          "255",
+          "32"
+        ],
+        [
+          "SINGAITA",
+          "2",
+          "18",
+          "10",
+          "8",
+          "2"
+        ],
+        [
+          "TECUITATA",
+          "3",
+          "80",
+          "32",
+          "48",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "136",
+          "9,939",
+          "4,873",
+          "5,066",
+          "692"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:14.852Z"
+}

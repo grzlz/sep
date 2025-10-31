@@ -1,0 +1,186 @@
+{
+  "municipality": "PUERTO MORELOS",
+  "municipalityCode": "011",
+  "state": "QUINTANA ROO",
+  "stateCode": "23",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBACALAR\n\tBENITO JUÁREZ\n\tCOZUMEL\n\tFELIPE CARRILLO PUERTO\n\tISLA MUJERES\n\tJOSÉ MARÍA MORELOS\n\tLÁZARO CÁRDENAS\n\tOTHÓN P. BLANCO\n\tPUERTO MORELOS\n\tSOLIDARIDAD\n\tTULUM"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: PUERTO MORELOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCENTRAL VALLARTA\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL RETOÑO\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tLEONA VICARIO\n\t\t10\n\t\t2,210\n\t\t1,098\n\t\t1,112\n\t\t141\n\t\n\t\n\t\tPUERTO MORELOS\n\t\t20\n\t\t3,769\n\t\t1,937\n\t\t1,832\n\t\t164\n\t\n\t\n\t\tTOTAL\n\t\t34\n\t\t6,006\n\t\t3,049\n\t\t2,957\n\t\t309\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: PUERTO MORELOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CENTRAL VALLARTA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "EL RETOÑO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "LEONA VICARIO",
+          "10",
+          "2,210",
+          "1,098",
+          "1,112",
+          "141",
+          "PUERTO MORELOS",
+          "20",
+          "3,769",
+          "1,937",
+          "1,832",
+          "164",
+          "TOTAL",
+          "34",
+          "6,006",
+          "3,049",
+          "2,957",
+          "309",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: PUERTO MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CENTRAL VALLARTA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL RETOÑO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LEONA VICARIO",
+          "10",
+          "2,210",
+          "1,098",
+          "1,112",
+          "141"
+        ],
+        [
+          "PUERTO MORELOS",
+          "20",
+          "3,769",
+          "1,937",
+          "1,832",
+          "164"
+        ],
+        [
+          "TOTAL",
+          "34",
+          "6,006",
+          "3,049",
+          "2,957",
+          "309"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: PUERTO MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CENTRAL VALLARTA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL RETOÑO",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LEONA VICARIO",
+          "10",
+          "2,210",
+          "1,098",
+          "1,112",
+          "141"
+        ],
+        [
+          "PUERTO MORELOS",
+          "20",
+          "3,769",
+          "1,937",
+          "1,832",
+          "164"
+        ],
+        [
+          "TOTAL",
+          "34",
+          "6,006",
+          "3,049",
+          "2,957",
+          "309"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:28:02.956Z"
+}

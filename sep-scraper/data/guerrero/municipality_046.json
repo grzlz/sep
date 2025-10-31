@@ -1,0 +1,1176 @@
+{
+  "municipality": "OMETEPEC",
+  "municipalityCode": "046",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: OMETEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATEPEC\n\t\t8\n\t\t1,157\n\t\t572\n\t\t585\n\t\t65\n\t\n\t\n\t\tARROYO BARRANCA HONDA\n\t\t3\n\t\t314\n\t\t148\n\t\t166\n\t\t18\n\t\n\t\n\t\tARROYO ZAPOTE\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tCERRO GRANDE\n\t\t2\n\t\t82\n\t\t47\n\t\t35\n\t\t5\n\t\n\t\n\t\tCERRO PÁJARO\n\t\t2\n\t\t45\n\t\t25\n\t\t20\n\t\t4\n\t\n\t\n\t\tCOCHOAPA\n\t\t10\n\t\t1,483\n\t\t720\n\t\t763\n\t\t88\n\t\n\t\n\t\tCRUZ DE CORAZÓN\n\t\t3\n\t\t157\n\t\t80\n\t\t77\n\t\t12\n\t\n\t\n\t\tCRUZ VERDE I\n\t\t1\n\t\t96\n\t\t48\n\t\t48\n\t\t7\n\t\n\t\n\t\tCRUZ VERDE II\n\t\t2\n\t\t95\n\t\t45\n\t\t50\n\t\t5\n\t\n\t\n\t\tCUADRILLA NUEVA (CHILPANCINGUITO)\n\t\t2\n\t\t19\n\t\t4\n\t\t15\n\t\t3\n\t\n\t\n\t\tCUMBRE DE BARRANCA HONDA\n\t\t5\n\t\t512\n\t\t259\n\t\t253\n\t\t28\n\t\n\t\n\t\tEL CAPRICHO (LA POZA)\n\t\t3\n\t\t79\n\t\t39\n\t\t40\n\t\t5\n\t\n\t\n\t\tEL CHARCO DE LA PUERTA\n\t\t3\n\t\t121\n\t\t64\n\t\t57\n\t\t8\n\t\n\t\n\t\tEL LIMÓN\n\t\t2\n\t\t42\n\t\t25\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL MANGO (EL MANGO SOLO SUR)\n\t\t3\n\t\t17\n\t\t10\n\t\t7\n\t\t3\n\t\n\t\n\t\tEL TAMARINDO\n\t\t3\n\t\t76\n\t\t38\n\t\t38\n\t\t7\n\t\n\t\n\t\tHUAJINTEPEC\n\t\t7\n\t\t794\n\t\t409\n\t\t385\n\t\t55\n\t\n\t\n\t\tHUIXTEPEC\n\t\t8\n\t\t973\n\t\t474\n\t\t499\n\t\t53\n\t\n\t\n\t\tLA CATALINA\n\t\t2\n\t\t31\n\t\t19\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t3\n\t\t225\n\t\t106\n\t\t119\n\t\t12\n\t\n\t\n\t\tLA GUADALUPE\n\t\t5\n\t\t361\n\t\t171\n\t\t190\n\t\t23\n\t\n\t\n\t\tLA LADRILLERA\n\t\t3\n\t\t81\n\t\t38\n\t\t43\n\t\t6\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t37\n\t\t24\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t206\n\t\t91\n\t\t115\n\t\t13\n\t\n\t\n\t\tLAS IGUANAS\n\t\t4\n\t\t168\n\t\t91\n\t\t77\n\t\t9\n\t\n\t\n\t\tLAS PALMAS\n\t\t5\n\t\t24\n\t\t10\n\t\t14\n\t\t5\n\t\n\t\n\t\tLAS VIGAS\n\t\t3\n\t\t188\n\t\t100\n\t\t88\n\t\t11\n\t\n\t\n\t\tMANGO NORTE (EL MANGO SOLO NORTE)\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tMAZAPA\n\t\t1\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tMILPILLAS\n\t\t2\n\t\t95\n\t\t45\n\t\t50\n\t\t8\n\t\n\t\n\t\tOMETEPEC\n\t\t74\n\t\t12,940\n\t\t7,015\n\t\t5,925\n\t\t864\n\t\n\t\n\t\tPASO CUAHULOTE\n\t\t1\n\t\t21\n\t\t6\n\t\t15\n\t\t1\n\t\n\t\n\t\tPASO CUAHULOTE DOS\n\t\t1\n\t\t37\n\t\t15\n\t\t22\n\t\t4\n\t\n\t\n\t\tPASO DEL TABACO\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tPIEDRA ANCHA\n\t\t4\n\t\t159\n\t\t84\n\t\t75\n\t\t11\n\t\n\t\n\t\tPIEDRA BOLUDA\n\t\t3\n\t\t93\n\t\t47\n\t\t46\n\t\t9\n\t\n\t\n\t\tPIEDRA DEL TIGRE\n\t\t4\n\t\t50\n\t\t28\n\t\t22\n\t\t6\n\t\n\t\n\t\tPIEDRA LABRADA\n\t\t3\n\t\t44\n\t\t26\n\t\t18\n\t\t4\n\t\n\t\n\t\tPLAN JUSTE\n\t\t2\n\t\t99\n\t\t43\n\t\t56\n\t\t8\n\t\n\t\n\t\tRANCHO SAN FRANCISCO\n\t\t3\n\t\t22\n\t\t14\n\t\t8\n\t\t3\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t50\n\t\t22\n\t\t28\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ EJIDO (SAN JOSÉ)\n\t\t2\n\t\t103\n\t\t48\n\t\t55\n\t\t9\n\t\n\t\n\t\tSANTA CRUZ TECONTE (EL TECONTE)\n\t\t2\n\t\t53\n\t\t23\n\t\t30\n\t\t4\n\t\n\t\n\t\tSANTA MARÍA (SANTA MARÍA ASUNCIÓN)\n\t\t6\n\t\t666\n\t\t323\n\t\t343\n\t\t41\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t4\n\t\t239\n\t\t121\n\t\t118\n\t\t15\n\t\n\t\n\t\tTIERRA COLORADA\n\t\t3\n\t\t54\n\t\t21\n\t\t33\n\t\t5\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t3\n\t\t143\n\t\t69\n\t\t74\n\t\t10\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t4\n\t\t161\n\t\t88\n\t\t73\n\t\t12\n\t\n\t\n\t\tZACOALPAN\n\t\t10\n\t\t1,840\n\t\t895\n\t\t945\n\t\t86\n\t\n\t\n\t\tTOTAL\n\t\t235\n\t\t24,300\n\t\t12,615\n\t\t11,685\n\t\t1,564\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: OMETEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATEPEC",
+          "8",
+          "1,157",
+          "572",
+          "585",
+          "65",
+          "ARROYO BARRANCA HONDA",
+          "3",
+          "314",
+          "148",
+          "166",
+          "18",
+          "ARROYO ZAPOTE",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2",
+          "CERRO GRANDE",
+          "2",
+          "82",
+          "47",
+          "35",
+          "5",
+          "CERRO PÁJARO",
+          "2",
+          "45",
+          "25",
+          "20",
+          "4",
+          "COCHOAPA",
+          "10",
+          "1,483",
+          "720",
+          "763",
+          "88",
+          "CRUZ DE CORAZÓN",
+          "3",
+          "157",
+          "80",
+          "77",
+          "12",
+          "CRUZ VERDE I",
+          "1",
+          "96",
+          "48",
+          "48",
+          "7",
+          "CRUZ VERDE II",
+          "2",
+          "95",
+          "45",
+          "50",
+          "5",
+          "CUADRILLA NUEVA (CHILPANCINGUITO)",
+          "2",
+          "19",
+          "4",
+          "15",
+          "3",
+          "CUMBRE DE BARRANCA HONDA",
+          "5",
+          "512",
+          "259",
+          "253",
+          "28",
+          "EL CAPRICHO (LA POZA)",
+          "3",
+          "79",
+          "39",
+          "40",
+          "5",
+          "EL CHARCO DE LA PUERTA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "8",
+          "EL LIMÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3",
+          "EL MANGO (EL MANGO SOLO SUR)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3",
+          "EL TAMARINDO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "7",
+          "HUAJINTEPEC",
+          "7",
+          "794",
+          "409",
+          "385",
+          "55",
+          "HUIXTEPEC",
+          "8",
+          "973",
+          "474",
+          "499",
+          "53",
+          "LA CATALINA",
+          "2",
+          "31",
+          "19",
+          "12",
+          "2",
+          "LA CONCEPCIÓN",
+          "3",
+          "225",
+          "106",
+          "119",
+          "12",
+          "LA GUADALUPE",
+          "5",
+          "361",
+          "171",
+          "190",
+          "23",
+          "LA LADRILLERA",
+          "3",
+          "81",
+          "38",
+          "43",
+          "6",
+          "LA LIBERTAD",
+          "2",
+          "37",
+          "24",
+          "13",
+          "3",
+          "LA SOLEDAD",
+          "3",
+          "206",
+          "91",
+          "115",
+          "13",
+          "LAS IGUANAS",
+          "4",
+          "168",
+          "91",
+          "77",
+          "9",
+          "LAS PALMAS",
+          "5",
+          "24",
+          "10",
+          "14",
+          "5",
+          "LAS VIGAS",
+          "3",
+          "188",
+          "100",
+          "88",
+          "11",
+          "MANGO NORTE (EL MANGO SOLO NORTE)",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2",
+          "MAZAPA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "2",
+          "MILPILLAS",
+          "2",
+          "95",
+          "45",
+          "50",
+          "8",
+          "OMETEPEC",
+          "74",
+          "12,940",
+          "7,015",
+          "5,925",
+          "864",
+          "PASO CUAHULOTE",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1",
+          "PASO CUAHULOTE DOS",
+          "1",
+          "37",
+          "15",
+          "22",
+          "4",
+          "PASO DEL TABACO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "PIEDRA ANCHA",
+          "4",
+          "159",
+          "84",
+          "75",
+          "11",
+          "PIEDRA BOLUDA",
+          "3",
+          "93",
+          "47",
+          "46",
+          "9",
+          "PIEDRA DEL TIGRE",
+          "4",
+          "50",
+          "28",
+          "22",
+          "6",
+          "PIEDRA LABRADA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4",
+          "PLAN JUSTE",
+          "2",
+          "99",
+          "43",
+          "56",
+          "8",
+          "RANCHO SAN FRANCISCO",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3",
+          "SAN ISIDRO",
+          "2",
+          "50",
+          "22",
+          "28",
+          "4",
+          "SAN JOSÉ EJIDO (SAN JOSÉ)",
+          "2",
+          "103",
+          "48",
+          "55",
+          "9",
+          "SANTA CRUZ TECONTE (EL TECONTE)",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4",
+          "SANTA MARÍA (SANTA MARÍA ASUNCIÓN)",
+          "6",
+          "666",
+          "323",
+          "343",
+          "41",
+          "TIERRA BLANCA",
+          "4",
+          "239",
+          "121",
+          "118",
+          "15",
+          "TIERRA COLORADA",
+          "3",
+          "54",
+          "21",
+          "33",
+          "5",
+          "VILLA HIDALGO",
+          "3",
+          "143",
+          "69",
+          "74",
+          "10",
+          "VISTA HERMOSA",
+          "4",
+          "161",
+          "88",
+          "73",
+          "12",
+          "ZACOALPAN",
+          "10",
+          "1,840",
+          "895",
+          "945",
+          "86",
+          "TOTAL",
+          "235",
+          "24,300",
+          "12,615",
+          "11,685",
+          "1,564",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: OMETEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATEPEC",
+          "8",
+          "1,157",
+          "572",
+          "585",
+          "65"
+        ],
+        [
+          "ARROYO BARRANCA HONDA",
+          "3",
+          "314",
+          "148",
+          "166",
+          "18"
+        ],
+        [
+          "ARROYO ZAPOTE",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "CERRO GRANDE",
+          "2",
+          "82",
+          "47",
+          "35",
+          "5"
+        ],
+        [
+          "CERRO PÁJARO",
+          "2",
+          "45",
+          "25",
+          "20",
+          "4"
+        ],
+        [
+          "COCHOAPA",
+          "10",
+          "1,483",
+          "720",
+          "763",
+          "88"
+        ],
+        [
+          "CRUZ DE CORAZÓN",
+          "3",
+          "157",
+          "80",
+          "77",
+          "12"
+        ],
+        [
+          "CRUZ VERDE I",
+          "1",
+          "96",
+          "48",
+          "48",
+          "7"
+        ],
+        [
+          "CRUZ VERDE II",
+          "2",
+          "95",
+          "45",
+          "50",
+          "5"
+        ],
+        [
+          "CUADRILLA NUEVA (CHILPANCINGUITO)",
+          "2",
+          "19",
+          "4",
+          "15",
+          "3"
+        ],
+        [
+          "CUMBRE DE BARRANCA HONDA",
+          "5",
+          "512",
+          "259",
+          "253",
+          "28"
+        ],
+        [
+          "EL CAPRICHO (LA POZA)",
+          "3",
+          "79",
+          "39",
+          "40",
+          "5"
+        ],
+        [
+          "EL CHARCO DE LA PUERTA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "8"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "EL MANGO (EL MANGO SOLO SUR)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "EL TAMARINDO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "7"
+        ],
+        [
+          "HUAJINTEPEC",
+          "7",
+          "794",
+          "409",
+          "385",
+          "55"
+        ],
+        [
+          "HUIXTEPEC",
+          "8",
+          "973",
+          "474",
+          "499",
+          "53"
+        ],
+        [
+          "LA CATALINA",
+          "2",
+          "31",
+          "19",
+          "12",
+          "2"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "3",
+          "225",
+          "106",
+          "119",
+          "12"
+        ],
+        [
+          "LA GUADALUPE",
+          "5",
+          "361",
+          "171",
+          "190",
+          "23"
+        ],
+        [
+          "LA LADRILLERA",
+          "3",
+          "81",
+          "38",
+          "43",
+          "6"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "37",
+          "24",
+          "13",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "206",
+          "91",
+          "115",
+          "13"
+        ],
+        [
+          "LAS IGUANAS",
+          "4",
+          "168",
+          "91",
+          "77",
+          "9"
+        ],
+        [
+          "LAS PALMAS",
+          "5",
+          "24",
+          "10",
+          "14",
+          "5"
+        ],
+        [
+          "LAS VIGAS",
+          "3",
+          "188",
+          "100",
+          "88",
+          "11"
+        ],
+        [
+          "MANGO NORTE (EL MANGO SOLO NORTE)",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "MAZAPA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "MILPILLAS",
+          "2",
+          "95",
+          "45",
+          "50",
+          "8"
+        ],
+        [
+          "OMETEPEC",
+          "74",
+          "12,940",
+          "7,015",
+          "5,925",
+          "864"
+        ],
+        [
+          "PASO CUAHULOTE",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1"
+        ],
+        [
+          "PASO CUAHULOTE DOS",
+          "1",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "PASO DEL TABACO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PIEDRA ANCHA",
+          "4",
+          "159",
+          "84",
+          "75",
+          "11"
+        ],
+        [
+          "PIEDRA BOLUDA",
+          "3",
+          "93",
+          "47",
+          "46",
+          "9"
+        ],
+        [
+          "PIEDRA DEL TIGRE",
+          "4",
+          "50",
+          "28",
+          "22",
+          "6"
+        ],
+        [
+          "PIEDRA LABRADA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4"
+        ],
+        [
+          "PLAN JUSTE",
+          "2",
+          "99",
+          "43",
+          "56",
+          "8"
+        ],
+        [
+          "RANCHO SAN FRANCISCO",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "50",
+          "22",
+          "28",
+          "4"
+        ],
+        [
+          "SAN JOSÉ EJIDO (SAN JOSÉ)",
+          "2",
+          "103",
+          "48",
+          "55",
+          "9"
+        ],
+        [
+          "SANTA CRUZ TECONTE (EL TECONTE)",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "SANTA MARÍA (SANTA MARÍA ASUNCIÓN)",
+          "6",
+          "666",
+          "323",
+          "343",
+          "41"
+        ],
+        [
+          "TIERRA BLANCA",
+          "4",
+          "239",
+          "121",
+          "118",
+          "15"
+        ],
+        [
+          "TIERRA COLORADA",
+          "3",
+          "54",
+          "21",
+          "33",
+          "5"
+        ],
+        [
+          "VILLA HIDALGO",
+          "3",
+          "143",
+          "69",
+          "74",
+          "10"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "161",
+          "88",
+          "73",
+          "12"
+        ],
+        [
+          "ZACOALPAN",
+          "10",
+          "1,840",
+          "895",
+          "945",
+          "86"
+        ],
+        [
+          "TOTAL",
+          "235",
+          "24,300",
+          "12,615",
+          "11,685",
+          "1,564"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: OMETEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATEPEC",
+          "8",
+          "1,157",
+          "572",
+          "585",
+          "65"
+        ],
+        [
+          "ARROYO BARRANCA HONDA",
+          "3",
+          "314",
+          "148",
+          "166",
+          "18"
+        ],
+        [
+          "ARROYO ZAPOTE",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "CERRO GRANDE",
+          "2",
+          "82",
+          "47",
+          "35",
+          "5"
+        ],
+        [
+          "CERRO PÁJARO",
+          "2",
+          "45",
+          "25",
+          "20",
+          "4"
+        ],
+        [
+          "COCHOAPA",
+          "10",
+          "1,483",
+          "720",
+          "763",
+          "88"
+        ],
+        [
+          "CRUZ DE CORAZÓN",
+          "3",
+          "157",
+          "80",
+          "77",
+          "12"
+        ],
+        [
+          "CRUZ VERDE I",
+          "1",
+          "96",
+          "48",
+          "48",
+          "7"
+        ],
+        [
+          "CRUZ VERDE II",
+          "2",
+          "95",
+          "45",
+          "50",
+          "5"
+        ],
+        [
+          "CUADRILLA NUEVA (CHILPANCINGUITO)",
+          "2",
+          "19",
+          "4",
+          "15",
+          "3"
+        ],
+        [
+          "CUMBRE DE BARRANCA HONDA",
+          "5",
+          "512",
+          "259",
+          "253",
+          "28"
+        ],
+        [
+          "EL CAPRICHO (LA POZA)",
+          "3",
+          "79",
+          "39",
+          "40",
+          "5"
+        ],
+        [
+          "EL CHARCO DE LA PUERTA",
+          "3",
+          "121",
+          "64",
+          "57",
+          "8"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "EL MANGO (EL MANGO SOLO SUR)",
+          "3",
+          "17",
+          "10",
+          "7",
+          "3"
+        ],
+        [
+          "EL TAMARINDO",
+          "3",
+          "76",
+          "38",
+          "38",
+          "7"
+        ],
+        [
+          "HUAJINTEPEC",
+          "7",
+          "794",
+          "409",
+          "385",
+          "55"
+        ],
+        [
+          "HUIXTEPEC",
+          "8",
+          "973",
+          "474",
+          "499",
+          "53"
+        ],
+        [
+          "LA CATALINA",
+          "2",
+          "31",
+          "19",
+          "12",
+          "2"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "3",
+          "225",
+          "106",
+          "119",
+          "12"
+        ],
+        [
+          "LA GUADALUPE",
+          "5",
+          "361",
+          "171",
+          "190",
+          "23"
+        ],
+        [
+          "LA LADRILLERA",
+          "3",
+          "81",
+          "38",
+          "43",
+          "6"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "37",
+          "24",
+          "13",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "206",
+          "91",
+          "115",
+          "13"
+        ],
+        [
+          "LAS IGUANAS",
+          "4",
+          "168",
+          "91",
+          "77",
+          "9"
+        ],
+        [
+          "LAS PALMAS",
+          "5",
+          "24",
+          "10",
+          "14",
+          "5"
+        ],
+        [
+          "LAS VIGAS",
+          "3",
+          "188",
+          "100",
+          "88",
+          "11"
+        ],
+        [
+          "MANGO NORTE (EL MANGO SOLO NORTE)",
+          "1",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "MAZAPA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "MILPILLAS",
+          "2",
+          "95",
+          "45",
+          "50",
+          "8"
+        ],
+        [
+          "OMETEPEC",
+          "74",
+          "12,940",
+          "7,015",
+          "5,925",
+          "864"
+        ],
+        [
+          "PASO CUAHULOTE",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1"
+        ],
+        [
+          "PASO CUAHULOTE DOS",
+          "1",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "PASO DEL TABACO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PIEDRA ANCHA",
+          "4",
+          "159",
+          "84",
+          "75",
+          "11"
+        ],
+        [
+          "PIEDRA BOLUDA",
+          "3",
+          "93",
+          "47",
+          "46",
+          "9"
+        ],
+        [
+          "PIEDRA DEL TIGRE",
+          "4",
+          "50",
+          "28",
+          "22",
+          "6"
+        ],
+        [
+          "PIEDRA LABRADA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "4"
+        ],
+        [
+          "PLAN JUSTE",
+          "2",
+          "99",
+          "43",
+          "56",
+          "8"
+        ],
+        [
+          "RANCHO SAN FRANCISCO",
+          "3",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "50",
+          "22",
+          "28",
+          "4"
+        ],
+        [
+          "SAN JOSÉ EJIDO (SAN JOSÉ)",
+          "2",
+          "103",
+          "48",
+          "55",
+          "9"
+        ],
+        [
+          "SANTA CRUZ TECONTE (EL TECONTE)",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "SANTA MARÍA (SANTA MARÍA ASUNCIÓN)",
+          "6",
+          "666",
+          "323",
+          "343",
+          "41"
+        ],
+        [
+          "TIERRA BLANCA",
+          "4",
+          "239",
+          "121",
+          "118",
+          "15"
+        ],
+        [
+          "TIERRA COLORADA",
+          "3",
+          "54",
+          "21",
+          "33",
+          "5"
+        ],
+        [
+          "VILLA HIDALGO",
+          "3",
+          "143",
+          "69",
+          "74",
+          "10"
+        ],
+        [
+          "VISTA HERMOSA",
+          "4",
+          "161",
+          "88",
+          "73",
+          "12"
+        ],
+        [
+          "ZACOALPAN",
+          "10",
+          "1,840",
+          "895",
+          "945",
+          "86"
+        ],
+        [
+          "TOTAL",
+          "235",
+          "24,300",
+          "12,615",
+          "11,685",
+          "1,564"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:49.431Z"
+}

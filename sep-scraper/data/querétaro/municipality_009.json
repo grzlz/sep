@@ -1,0 +1,1308 @@
+{
+  "municipality": "JALPAN DE SERRA",
+  "municipalityCode": "009",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: JALPAN DE SERRA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACATITLÁN DEL RÍO\n\t\t2\n\t\t38\n\t\t17\n\t\t21\n\t\t2\n\t\n\t\n\t\tAGUA AMARGA\n\t\t1\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tAGUA FRÍA\n\t\t4\n\t\t87\n\t\t50\n\t\t37\n\t\t9\n\t\n\t\n\t\tBARREALES\n\t\t2\n\t\t65\n\t\t34\n\t\t31\n\t\t3\n\t\n\t\n\t\tCAPULINES\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tCARRIZAL DE LOS DURÁN\n\t\t2\n\t\t16\n\t\t12\n\t\t4\n\t\t2\n\t\n\t\n\t\tCARRIZAL DE LOS SÁNCHEZ\n\t\t3\n\t\t70\n\t\t32\n\t\t38\n\t\t6\n\t\n\t\n\t\tCARRIZALITO\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL ÁLAMO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL CAÑÓN\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL EMBOCADERO\n\t\t2\n\t\t23\n\t\t9\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL LINDERO\n\t\t3\n\t\t249\n\t\t121\n\t\t128\n\t\t11\n\t\n\t\n\t\tEL POCITO\n\t\t2\n\t\t25\n\t\t6\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL RAYO\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL RINCÓN\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL SAUCITO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t39\n\t\t13\n\t\t26\n\t\t3\n\t\n\t\n\t\tESPADAÑUELA\n\t\t1\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tGUAYABOS\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tJAGÜEY (JAGÜEY GRANDE)\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tJAGÜEY NUEVO\n\t\t1\n\t\t19\n\t\t8\n\t\t11\n\t\t1\n\t\n\t\n\t\tJALPAN DE SERRA\n\t\t27\n\t\t5,281\n\t\t2,837\n\t\t2,444\n\t\t347\n\t\n\t\n\t\tLA ARENA\n\t\t2\n\t\t17\n\t\t6\n\t\t11\n\t\t2\n\t\n\t\n\t\tLA CEIBA\n\t\t1\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA ESPERANZA\n\t\t3\n\t\t58\n\t\t28\n\t\t30\n\t\t4\n\t\n\t\n\t\tLA MESA DEL PINO\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tLAGUNA DE PITZQUINTLA\n\t\t3\n\t\t86\n\t\t40\n\t\t46\n\t\t6\n\t\n\t\n\t\tLAS NUEVAS FLORES\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLIMÓN DE LA PEÑA\n\t\t2\n\t\t8\n\t\t1\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOMA DELGADA\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t2\n\t\n\t\n\t\tLOS CHARCOS\n\t\t2\n\t\t19\n\t\t12\n\t\t7\n\t\t2\n\t\n\t\n\t\tMADROÑO\n\t\t3\n\t\t127\n\t\t70\n\t\t57\n\t\t6\n\t\n\t\n\t\tMANZANILLOS\n\t\t2\n\t\t26\n\t\t17\n\t\t9\n\t\t2\n\t\n\t\n\t\tMOCTEZUMAS\n\t\t2\n\t\t53\n\t\t18\n\t\t35\n\t\t3\n\t\n\t\n\t\tOJO DE AGUA DEL LINDERO\n\t\t2\n\t\t72\n\t\t24\n\t\t48\n\t\t4\n\t\n\t\n\t\tPETZCOLA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tPIEDRAS ANCHAS\n\t\t2\n\t\t108\n\t\t53\n\t\t55\n\t\t4\n\t\n\t\n\t\tPUERTO DE ÁNIMAS\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t2\n\t\n\t\n\t\tPUERTO HONDO\n\t\t2\n\t\t48\n\t\t21\n\t\t27\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t15\n\t\t7\n\t\t8\n\t\t2\n\t\n\t\n\t\tRINCÓN DE PITZQUINTLA\n\t\t2\n\t\t43\n\t\t15\n\t\t28\n\t\t3\n\t\n\t\n\t\tSABINO CHICO\n\t\t2\n\t\t32\n\t\t22\n\t\t10\n\t\t2\n\t\n\t\n\t\tSABINO GRANDE\n\t\t2\n\t\t41\n\t\t17\n\t\t24\n\t\t4\n\t\n\t\n\t\tSALDIVEÑA\n\t\t3\n\t\t231\n\t\t110\n\t\t121\n\t\t11\n\t\n\t\n\t\tSAN ANTONIO TANCOYOL\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tSAN JUAN DE LOS DURÁN\n\t\t3\n\t\t51\n\t\t29\n\t\t22\n\t\t4\n\t\n\t\n\t\tSAN VICENTE\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t2\n\t\n\t\n\t\tSAUCILLO\n\t\t3\n\t\t64\n\t\t31\n\t\t33\n\t\t6\n\t\n\t\n\t\tSOLEDAD DE GUADALUPE\n\t\t2\n\t\t29\n\t\t14\n\t\t15\n\t\t2\n\t\n\t\n\t\tTANCÁMA\n\t\t3\n\t\t130\n\t\t73\n\t\t57\n\t\t7\n\t\n\t\n\t\tTANCOYOL\n\t\t4\n\t\t219\n\t\t108\n\t\t111\n\t\t16\n\t\n\t\n\t\tVALLE VERDE\n\t\t4\n\t\t216\n\t\t112\n\t\t104\n\t\t13\n\t\n\t\n\t\tYERBABUENA\n\t\t4\n\t\t165\n\t\t80\n\t\t85\n\t\t8\n\t\n\t\n\t\tZOYAPILCA\n\t\t3\n\t\t85\n\t\t42\n\t\t43\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t145\n\t\t8,103\n\t\t4,202\n\t\t3,901\n\t\t542\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: JALPAN DE SERRA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACATITLÁN DEL RÍO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2",
+          "AGUA AMARGA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1",
+          "AGUA FRÍA",
+          "4",
+          "87",
+          "50",
+          "37",
+          "9",
+          "BARREALES",
+          "2",
+          "65",
+          "34",
+          "31",
+          "3",
+          "CAPULINES",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "CARRIZAL DE LOS DURÁN",
+          "2",
+          "16",
+          "12",
+          "4",
+          "2",
+          "CARRIZAL DE LOS SÁNCHEZ",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6",
+          "CARRIZALITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2",
+          "EL ÁLAMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "EL CAÑÓN",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL EMBOCADERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2",
+          "EL LINDERO",
+          "3",
+          "249",
+          "121",
+          "128",
+          "11",
+          "EL POCITO",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2",
+          "EL RAYO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2",
+          "EL RINCÓN",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "EL SAUCITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "EL ZAPOTE",
+          "2",
+          "39",
+          "13",
+          "26",
+          "3",
+          "ESPADAÑUELA",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1",
+          "GUAYABOS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "JAGÜEY (JAGÜEY GRANDE)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "JAGÜEY NUEVO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1",
+          "JALPAN DE SERRA",
+          "27",
+          "5,281",
+          "2,837",
+          "2,444",
+          "347",
+          "LA ARENA",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2",
+          "LA CEIBA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1",
+          "LA ESPERANZA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "4",
+          "LA MESA DEL PINO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "LAGUNA DE PITZQUINTLA",
+          "3",
+          "86",
+          "40",
+          "46",
+          "6",
+          "LAS NUEVAS FLORES",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LIMÓN DE LA PEÑA",
+          "2",
+          "8",
+          "1",
+          "7",
+          "2",
+          "LOMA DELGADA",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2",
+          "LOS CHARCOS",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2",
+          "MADROÑO",
+          "3",
+          "127",
+          "70",
+          "57",
+          "6",
+          "MANZANILLOS",
+          "2",
+          "26",
+          "17",
+          "9",
+          "2",
+          "MOCTEZUMAS",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3",
+          "OJO DE AGUA DEL LINDERO",
+          "2",
+          "72",
+          "24",
+          "48",
+          "4",
+          "PETZCOLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "PIEDRAS ANCHAS",
+          "2",
+          "108",
+          "53",
+          "55",
+          "4",
+          "PUERTO DE ÁNIMAS",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2",
+          "PUERTO HONDO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3",
+          "RANCHO NUEVO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2",
+          "RINCÓN DE PITZQUINTLA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3",
+          "SABINO CHICO",
+          "2",
+          "32",
+          "22",
+          "10",
+          "2",
+          "SABINO GRANDE",
+          "2",
+          "41",
+          "17",
+          "24",
+          "4",
+          "SALDIVEÑA",
+          "3",
+          "231",
+          "110",
+          "121",
+          "11",
+          "SAN ANTONIO TANCOYOL",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "SAN ISIDRO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "SAN JUAN DE LOS DURÁN",
+          "3",
+          "51",
+          "29",
+          "22",
+          "4",
+          "SAN VICENTE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2",
+          "SAUCILLO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "6",
+          "SOLEDAD DE GUADALUPE",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2",
+          "TANCÁMA",
+          "3",
+          "130",
+          "73",
+          "57",
+          "7",
+          "TANCOYOL",
+          "4",
+          "219",
+          "108",
+          "111",
+          "16",
+          "VALLE VERDE",
+          "4",
+          "216",
+          "112",
+          "104",
+          "13",
+          "YERBABUENA",
+          "4",
+          "165",
+          "80",
+          "85",
+          "8",
+          "ZOYAPILCA",
+          "3",
+          "85",
+          "42",
+          "43",
+          "6",
+          "TOTAL",
+          "145",
+          "8,103",
+          "4,202",
+          "3,901",
+          "542",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: JALPAN DE SERRA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATITLÁN DEL RÍO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2"
+        ],
+        [
+          "AGUA AMARGA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "AGUA FRÍA",
+          "4",
+          "87",
+          "50",
+          "37",
+          "9"
+        ],
+        [
+          "BARREALES",
+          "2",
+          "65",
+          "34",
+          "31",
+          "3"
+        ],
+        [
+          "CAPULINES",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "CARRIZAL DE LOS DURÁN",
+          "2",
+          "16",
+          "12",
+          "4",
+          "2"
+        ],
+        [
+          "CARRIZAL DE LOS SÁNCHEZ",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "CARRIZALITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "EL ÁLAMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "EL CAÑÓN",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL EMBOCADERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "EL LINDERO",
+          "3",
+          "249",
+          "121",
+          "128",
+          "11"
+        ],
+        [
+          "EL POCITO",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2"
+        ],
+        [
+          "EL RAYO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "39",
+          "13",
+          "26",
+          "3"
+        ],
+        [
+          "ESPADAÑUELA",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "GUAYABOS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "JAGÜEY (JAGÜEY GRANDE)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "JAGÜEY NUEVO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "JALPAN DE SERRA",
+          "27",
+          "5,281",
+          "2,837",
+          "2,444",
+          "347"
+        ],
+        [
+          "LA ARENA",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "LA CEIBA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "4"
+        ],
+        [
+          "LA MESA DEL PINO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "LAGUNA DE PITZQUINTLA",
+          "3",
+          "86",
+          "40",
+          "46",
+          "6"
+        ],
+        [
+          "LAS NUEVAS FLORES",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LIMÓN DE LA PEÑA",
+          "2",
+          "8",
+          "1",
+          "7",
+          "2"
+        ],
+        [
+          "LOMA DELGADA",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "MADROÑO",
+          "3",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "MANZANILLOS",
+          "2",
+          "26",
+          "17",
+          "9",
+          "2"
+        ],
+        [
+          "MOCTEZUMAS",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DEL LINDERO",
+          "2",
+          "72",
+          "24",
+          "48",
+          "4"
+        ],
+        [
+          "PETZCOLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PIEDRAS ANCHAS",
+          "2",
+          "108",
+          "53",
+          "55",
+          "4"
+        ],
+        [
+          "PUERTO DE ÁNIMAS",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "PUERTO HONDO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "RINCÓN DE PITZQUINTLA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3"
+        ],
+        [
+          "SABINO CHICO",
+          "2",
+          "32",
+          "22",
+          "10",
+          "2"
+        ],
+        [
+          "SABINO GRANDE",
+          "2",
+          "41",
+          "17",
+          "24",
+          "4"
+        ],
+        [
+          "SALDIVEÑA",
+          "3",
+          "231",
+          "110",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ANTONIO TANCOYOL",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "SAN JUAN DE LOS DURÁN",
+          "3",
+          "51",
+          "29",
+          "22",
+          "4"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2"
+        ],
+        [
+          "SAUCILLO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "6"
+        ],
+        [
+          "SOLEDAD DE GUADALUPE",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "TANCÁMA",
+          "3",
+          "130",
+          "73",
+          "57",
+          "7"
+        ],
+        [
+          "TANCOYOL",
+          "4",
+          "219",
+          "108",
+          "111",
+          "16"
+        ],
+        [
+          "VALLE VERDE",
+          "4",
+          "216",
+          "112",
+          "104",
+          "13"
+        ],
+        [
+          "YERBABUENA",
+          "4",
+          "165",
+          "80",
+          "85",
+          "8"
+        ],
+        [
+          "ZOYAPILCA",
+          "3",
+          "85",
+          "42",
+          "43",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "145",
+          "8,103",
+          "4,202",
+          "3,901",
+          "542"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: JALPAN DE SERRA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACATITLÁN DEL RÍO",
+          "2",
+          "38",
+          "17",
+          "21",
+          "2"
+        ],
+        [
+          "AGUA AMARGA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "AGUA FRÍA",
+          "4",
+          "87",
+          "50",
+          "37",
+          "9"
+        ],
+        [
+          "BARREALES",
+          "2",
+          "65",
+          "34",
+          "31",
+          "3"
+        ],
+        [
+          "CAPULINES",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "CARRIZAL DE LOS DURÁN",
+          "2",
+          "16",
+          "12",
+          "4",
+          "2"
+        ],
+        [
+          "CARRIZAL DE LOS SÁNCHEZ",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "CARRIZALITO",
+          "2",
+          "6",
+          "4",
+          "2",
+          "2"
+        ],
+        [
+          "EL ÁLAMO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "EL CAÑÓN",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL EMBOCADERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "EL LINDERO",
+          "3",
+          "249",
+          "121",
+          "128",
+          "11"
+        ],
+        [
+          "EL POCITO",
+          "2",
+          "25",
+          "6",
+          "19",
+          "2"
+        ],
+        [
+          "EL RAYO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "EL SAUCITO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "39",
+          "13",
+          "26",
+          "3"
+        ],
+        [
+          "ESPADAÑUELA",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "GUAYABOS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "JAGÜEY (JAGÜEY GRANDE)",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "JAGÜEY NUEVO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "JALPAN DE SERRA",
+          "27",
+          "5,281",
+          "2,837",
+          "2,444",
+          "347"
+        ],
+        [
+          "LA ARENA",
+          "2",
+          "17",
+          "6",
+          "11",
+          "2"
+        ],
+        [
+          "LA CEIBA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "58",
+          "28",
+          "30",
+          "4"
+        ],
+        [
+          "LA MESA DEL PINO",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "LAGUNA DE PITZQUINTLA",
+          "3",
+          "86",
+          "40",
+          "46",
+          "6"
+        ],
+        [
+          "LAS NUEVAS FLORES",
+          "2",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LIMÓN DE LA PEÑA",
+          "2",
+          "8",
+          "1",
+          "7",
+          "2"
+        ],
+        [
+          "LOMA DELGADA",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "LOS CHARCOS",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "MADROÑO",
+          "3",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "MANZANILLOS",
+          "2",
+          "26",
+          "17",
+          "9",
+          "2"
+        ],
+        [
+          "MOCTEZUMAS",
+          "2",
+          "53",
+          "18",
+          "35",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DEL LINDERO",
+          "2",
+          "72",
+          "24",
+          "48",
+          "4"
+        ],
+        [
+          "PETZCOLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "PIEDRAS ANCHAS",
+          "2",
+          "108",
+          "53",
+          "55",
+          "4"
+        ],
+        [
+          "PUERTO DE ÁNIMAS",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "PUERTO HONDO",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "15",
+          "7",
+          "8",
+          "2"
+        ],
+        [
+          "RINCÓN DE PITZQUINTLA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3"
+        ],
+        [
+          "SABINO CHICO",
+          "2",
+          "32",
+          "22",
+          "10",
+          "2"
+        ],
+        [
+          "SABINO GRANDE",
+          "2",
+          "41",
+          "17",
+          "24",
+          "4"
+        ],
+        [
+          "SALDIVEÑA",
+          "3",
+          "231",
+          "110",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ANTONIO TANCOYOL",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "SAN JUAN DE LOS DURÁN",
+          "3",
+          "51",
+          "29",
+          "22",
+          "4"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "2"
+        ],
+        [
+          "SAUCILLO",
+          "3",
+          "64",
+          "31",
+          "33",
+          "6"
+        ],
+        [
+          "SOLEDAD DE GUADALUPE",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "TANCÁMA",
+          "3",
+          "130",
+          "73",
+          "57",
+          "7"
+        ],
+        [
+          "TANCOYOL",
+          "4",
+          "219",
+          "108",
+          "111",
+          "16"
+        ],
+        [
+          "VALLE VERDE",
+          "4",
+          "216",
+          "112",
+          "104",
+          "13"
+        ],
+        [
+          "YERBABUENA",
+          "4",
+          "165",
+          "80",
+          "85",
+          "8"
+        ],
+        [
+          "ZOYAPILCA",
+          "3",
+          "85",
+          "42",
+          "43",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "145",
+          "8,103",
+          "4,202",
+          "3,901",
+          "542"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:49.967Z"
+}

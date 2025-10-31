@@ -1,0 +1,1418 @@
+{
+  "municipality": "CHAMPOTÓN",
+  "municipalityCode": "004",
+  "state": "CAMPECHE",
+  "stateCode": "4",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCALAKMUL\n\tCALKINÍ\n\tCAMPECHE\n\tCANDELARIA\n\tCARMEN\n\tCHAMPOTÓN\n\tDZITBALCHÉ\n\tESCÁRCEGA\n\tHECELCHAKÁN\n\tHOPELCHÉN\n\tPALIZADA\n\tSEYBAPLAYA\n\tTENABO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: CHAMPOTÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAH-KIM-PECH\n\t\t1\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tAQUILES SERDÁN (CHUINÁ)\n\t\t2\n\t\t183\n\t\t91\n\t\t92\n\t\t9\n\t\n\t\n\t\tARELLANO\n\t\t2\n\t\t99\n\t\t48\n\t\t51\n\t\t4\n\t\n\t\n\t\tBUENAVENTURA\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tCANASAYAB\n\t\t3\n\t\t40\n\t\t25\n\t\t15\n\t\t4\n\t\n\t\n\t\tCAÑAVERAL\n\t\t3\n\t\t72\n\t\t39\n\t\t33\n\t\t5\n\t\n\t\n\t\tCARLOS SALINAS DE GORTARI\n\t\t4\n\t\t178\n\t\t84\n\t\t94\n\t\t12\n\t\n\t\n\t\tCARRILLO PUERTO\n\t\t7\n\t\t1,229\n\t\t603\n\t\t626\n\t\t125\n\t\n\t\n\t\tCHAC CHAITO\n\t\t3\n\t\t90\n\t\t47\n\t\t43\n\t\t4\n\t\n\t\n\t\tCHAMPOTÓN\n\t\t54\n\t\t9,913\n\t\t4,870\n\t\t5,043\n\t\t651\n\t\n\t\n\t\tCHILAM BALAM\n\t\t4\n\t\t225\n\t\t107\n\t\t118\n\t\t12\n\t\n\t\n\t\tCINCO DE FEBRERO\n\t\t3\n\t\t229\n\t\t120\n\t\t109\n\t\t11\n\t\n\t\n\t\tCIUDAD DEL SOL\n\t\t3\n\t\t218\n\t\t98\n\t\t120\n\t\t25\n\t\n\t\n\t\tCORONEL ORTIZ ÁVILA\n\t\t3\n\t\t17\n\t\t7\n\t\t10\n\t\t3\n\t\n\t\n\t\tDZACABUCHÉN\n\t\t2\n\t\t56\n\t\t27\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL PORVENIR\n\t\t3\n\t\t87\n\t\t49\n\t\t38\n\t\t4\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tGENERAL ORTIZ ÁVILA\n\t\t3\n\t\t156\n\t\t90\n\t\t66\n\t\t9\n\t\n\t\n\t\tHOOL\n\t\t3\n\t\t205\n\t\t108\n\t\t97\n\t\t13\n\t\n\t\n\t\tIGNACIO LÓPEZ RAYÓN\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN\n\t\t4\n\t\t209\n\t\t107\n\t\t102\n\t\t13\n\t\n\t\n\t\tKILÓMETRO SESENTA Y SIETE (VENUSTIANO CARRANZA)\n\t\t2\n\t\t68\n\t\t35\n\t\t33\n\t\t4\n\t\n\t\n\t\tLA JOYA\n\t\t2\n\t\t217\n\t\t109\n\t\t108\n\t\t10\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t2\n\t\t50\n\t\t23\n\t\t27\n\t\t4\n\t\n\t\n\t\tLEY FEDERAL DE REFORMA AGRARIA\n\t\t5\n\t\t865\n\t\t409\n\t\t456\n\t\t43\n\t\n\t\n\t\tLÓPEZ MATEOS (LA DESCONFIANZA)\n\t\t2\n\t\t75\n\t\t43\n\t\t32\n\t\t4\n\t\n\t\n\t\tLÓPEZ PORTILLO NÚMERO 2\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tMAYA TECÚN I\n\t\t4\n\t\t318\n\t\t153\n\t\t165\n\t\t18\n\t\n\t\n\t\tMAYA TECÚN II\n\t\t3\n\t\t274\n\t\t136\n\t\t138\n\t\t14\n\t\n\t\n\t\tMIGUEL ALLENDE\n\t\t1\n\t\t15\n\t\t9\n\t\t6\n\t\t1\n\t\n\t\n\t\tMIGUEL COLORADO\n\t\t4\n\t\t296\n\t\t151\n\t\t145\n\t\t15\n\t\n\t\n\t\tMOQUEL\n\t\t3\n\t\t157\n\t\t83\n\t\t74\n\t\t7\n\t\n\t\n\t\tNAYARIT CASTELLOT\n\t\t4\n\t\t137\n\t\t65\n\t\t72\n\t\t10\n\t\n\t\n\t\tNUEVA ESPERANZA NÚMERO 2 (SANTO DOMINGO)\n\t\t3\n\t\t57\n\t\t32\n\t\t25\n\t\t4\n\t\n\t\n\t\tNUEVO MICHOACÁN\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tNUEVO PARAÍSO [MÓDULO]\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tPIXOYAL\n\t\t3\n\t\t130\n\t\t59\n\t\t71\n\t\t8\n\t\n\t\n\t\tPROFESOR GRACIANO SÁNCHEZ\n\t\t3\n\t\t147\n\t\t77\n\t\t70\n\t\t7\n\t\n\t\n\t\tPUNTA XEN\n\t\t3\n\t\t53\n\t\t27\n\t\t26\n\t\t3\n\t\n\t\n\t\tPUSTUNICH\n\t\t3\n\t\t179\n\t\t91\n\t\t88\n\t\t8\n\t\n\t\n\t\tREVOLUCIÓN\n\t\t3\n\t\t161\n\t\t78\n\t\t83\n\t\t7\n\t\n\t\n\t\tSAN ANTONIO DEL RÍO\n\t\t2\n\t\t35\n\t\t9\n\t\t26\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO YACASAY\n\t\t3\n\t\t106\n\t\t47\n\t\t59\n\t\t7\n\t\n\t\n\t\tSAN JOSÉ CARPIZO DOS\n\t\t2\n\t\t50\n\t\t23\n\t\t27\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ CARPIZO UNO (SAN FERNANDO)\n\t\t3\n\t\t115\n\t\t51\n\t\t64\n\t\t7\n\t\n\t\n\t\tSAN JUAN CARPIZO\n\t\t2\n\t\t60\n\t\t24\n\t\t36\n\t\t3\n\t\n\t\n\t\tSAN MIGUEL\n\t\t3\n\t\t50\n\t\t26\n\t\t24\n\t\t4\n\t\n\t\n\t\tSAN PABLO PIXTÚN\n\t\t4\n\t\t384\n\t\t193\n\t\t191\n\t\t20\n\t\n\t\n\t\tSANTA CRUZ DE ROVIRA\n\t\t1\n\t\t15\n\t\t12\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTO DOMINGO KESTÉ\n\t\t5\n\t\t1,022\n\t\t521\n\t\t501\n\t\t62\n\t\n\t\n\t\tSIHOCHAC\n\t\t7\n\t\t740\n\t\t362\n\t\t378\n\t\t58\n\t\n\t\n\t\tTRES DE MAYO\n\t\t3\n\t\t45\n\t\t20\n\t\t25\n\t\t5\n\t\n\t\n\t\tULUMAL\n\t\t3\n\t\t164\n\t\t79\n\t\t85\n\t\t10\n\t\n\t\n\t\tVALLE DE QUETZALCÓATL\n\t\t2\n\t\t42\n\t\t23\n\t\t19\n\t\t3\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t2\n\t\t50\n\t\t28\n\t\t22\n\t\t3\n\t\n\t\n\t\tVILLA DE GUADALUPE\n\t\t3\n\t\t148\n\t\t79\n\t\t69\n\t\t8\n\t\n\t\n\t\tVILLA DE LAS FLORES\n\t\t3\n\t\t61\n\t\t27\n\t\t34\n\t\t5\n\t\n\t\n\t\tVILLAMAR\n\t\t3\n\t\t119\n\t\t60\n\t\t59\n\t\t7\n\t\n\t\n\t\tXBACAB\n\t\t4\n\t\t945\n\t\t475\n\t\t470\n\t\t47\n\t\n\t\n\t\tYOHALTÚN\n\t\t5\n\t\t252\n\t\t125\n\t\t127\n\t\t15\n\t\n\t\n\t\tTOTAL\n\t\t226\n\t\t20,914\n\t\t10,339\n\t\t10,575\n\t\t1,355\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: CHAMPOTÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AH-KIM-PECH",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1",
+          "AQUILES SERDÁN (CHUINÁ)",
+          "2",
+          "183",
+          "91",
+          "92",
+          "9",
+          "ARELLANO",
+          "2",
+          "99",
+          "48",
+          "51",
+          "4",
+          "BUENAVENTURA",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2",
+          "CANASAYAB",
+          "3",
+          "40",
+          "25",
+          "15",
+          "4",
+          "CAÑAVERAL",
+          "3",
+          "72",
+          "39",
+          "33",
+          "5",
+          "CARLOS SALINAS DE GORTARI",
+          "4",
+          "178",
+          "84",
+          "94",
+          "12",
+          "CARRILLO PUERTO",
+          "7",
+          "1,229",
+          "603",
+          "626",
+          "125",
+          "CHAC CHAITO",
+          "3",
+          "90",
+          "47",
+          "43",
+          "4",
+          "CHAMPOTÓN",
+          "54",
+          "9,913",
+          "4,870",
+          "5,043",
+          "651",
+          "CHILAM BALAM",
+          "4",
+          "225",
+          "107",
+          "118",
+          "12",
+          "CINCO DE FEBRERO",
+          "3",
+          "229",
+          "120",
+          "109",
+          "11",
+          "CIUDAD DEL SOL",
+          "3",
+          "218",
+          "98",
+          "120",
+          "25",
+          "CORONEL ORTIZ ÁVILA",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3",
+          "DZACABUCHÉN",
+          "2",
+          "56",
+          "27",
+          "29",
+          "3",
+          "EL PORVENIR",
+          "3",
+          "87",
+          "49",
+          "38",
+          "4",
+          "EL ZAPOTE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "GENERAL ORTIZ ÁVILA",
+          "3",
+          "156",
+          "90",
+          "66",
+          "9",
+          "HOOL",
+          "3",
+          "205",
+          "108",
+          "97",
+          "13",
+          "IGNACIO LÓPEZ RAYÓN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "209",
+          "107",
+          "102",
+          "13",
+          "KILÓMETRO SESENTA Y SIETE (VENUSTIANO CARRANZA)",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4",
+          "LA JOYA",
+          "2",
+          "217",
+          "109",
+          "108",
+          "10",
+          "LÁZARO CÁRDENAS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "4",
+          "LEY FEDERAL DE REFORMA AGRARIA",
+          "5",
+          "865",
+          "409",
+          "456",
+          "43",
+          "LÓPEZ MATEOS (LA DESCONFIANZA)",
+          "2",
+          "75",
+          "43",
+          "32",
+          "4",
+          "LÓPEZ PORTILLO NÚMERO 2",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "MAYA TECÚN I",
+          "4",
+          "318",
+          "153",
+          "165",
+          "18",
+          "MAYA TECÚN II",
+          "3",
+          "274",
+          "136",
+          "138",
+          "14",
+          "MIGUEL ALLENDE",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1",
+          "MIGUEL COLORADO",
+          "4",
+          "296",
+          "151",
+          "145",
+          "15",
+          "MOQUEL",
+          "3",
+          "157",
+          "83",
+          "74",
+          "7",
+          "NAYARIT CASTELLOT",
+          "4",
+          "137",
+          "65",
+          "72",
+          "10",
+          "NUEVA ESPERANZA NÚMERO 2 (SANTO DOMINGO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4",
+          "NUEVO MICHOACÁN",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "NUEVO PARAÍSO [MÓDULO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "PIXOYAL",
+          "3",
+          "130",
+          "59",
+          "71",
+          "8",
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "147",
+          "77",
+          "70",
+          "7",
+          "PUNTA XEN",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3",
+          "PUSTUNICH",
+          "3",
+          "179",
+          "91",
+          "88",
+          "8",
+          "REVOLUCIÓN",
+          "3",
+          "161",
+          "78",
+          "83",
+          "7",
+          "SAN ANTONIO DEL RÍO",
+          "2",
+          "35",
+          "9",
+          "26",
+          "3",
+          "SAN ANTONIO YACASAY",
+          "3",
+          "106",
+          "47",
+          "59",
+          "7",
+          "SAN JOSÉ CARPIZO DOS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3",
+          "SAN JOSÉ CARPIZO UNO (SAN FERNANDO)",
+          "3",
+          "115",
+          "51",
+          "64",
+          "7",
+          "SAN JUAN CARPIZO",
+          "2",
+          "60",
+          "24",
+          "36",
+          "3",
+          "SAN MIGUEL",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4",
+          "SAN PABLO PIXTÚN",
+          "4",
+          "384",
+          "193",
+          "191",
+          "20",
+          "SANTA CRUZ DE ROVIRA",
+          "1",
+          "15",
+          "12",
+          "3",
+          "1",
+          "SANTO DOMINGO KESTÉ",
+          "5",
+          "1,022",
+          "521",
+          "501",
+          "62",
+          "SIHOCHAC",
+          "7",
+          "740",
+          "362",
+          "378",
+          "58",
+          "TRES DE MAYO",
+          "3",
+          "45",
+          "20",
+          "25",
+          "5",
+          "ULUMAL",
+          "3",
+          "164",
+          "79",
+          "85",
+          "10",
+          "VALLE DE QUETZALCÓATL",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3",
+          "VICENTE GUERRERO",
+          "2",
+          "50",
+          "28",
+          "22",
+          "3",
+          "VILLA DE GUADALUPE",
+          "3",
+          "148",
+          "79",
+          "69",
+          "8",
+          "VILLA DE LAS FLORES",
+          "3",
+          "61",
+          "27",
+          "34",
+          "5",
+          "VILLAMAR",
+          "3",
+          "119",
+          "60",
+          "59",
+          "7",
+          "XBACAB",
+          "4",
+          "945",
+          "475",
+          "470",
+          "47",
+          "YOHALTÚN",
+          "5",
+          "252",
+          "125",
+          "127",
+          "15",
+          "TOTAL",
+          "226",
+          "20,914",
+          "10,339",
+          "10,575",
+          "1,355",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: CHAMPOTÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AH-KIM-PECH",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "AQUILES SERDÁN (CHUINÁ)",
+          "2",
+          "183",
+          "91",
+          "92",
+          "9"
+        ],
+        [
+          "ARELLANO",
+          "2",
+          "99",
+          "48",
+          "51",
+          "4"
+        ],
+        [
+          "BUENAVENTURA",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "CANASAYAB",
+          "3",
+          "40",
+          "25",
+          "15",
+          "4"
+        ],
+        [
+          "CAÑAVERAL",
+          "3",
+          "72",
+          "39",
+          "33",
+          "5"
+        ],
+        [
+          "CARLOS SALINAS DE GORTARI",
+          "4",
+          "178",
+          "84",
+          "94",
+          "12"
+        ],
+        [
+          "CARRILLO PUERTO",
+          "7",
+          "1,229",
+          "603",
+          "626",
+          "125"
+        ],
+        [
+          "CHAC CHAITO",
+          "3",
+          "90",
+          "47",
+          "43",
+          "4"
+        ],
+        [
+          "CHAMPOTÓN",
+          "54",
+          "9,913",
+          "4,870",
+          "5,043",
+          "651"
+        ],
+        [
+          "CHILAM BALAM",
+          "4",
+          "225",
+          "107",
+          "118",
+          "12"
+        ],
+        [
+          "CINCO DE FEBRERO",
+          "3",
+          "229",
+          "120",
+          "109",
+          "11"
+        ],
+        [
+          "CIUDAD DEL SOL",
+          "3",
+          "218",
+          "98",
+          "120",
+          "25"
+        ],
+        [
+          "CORONEL ORTIZ ÁVILA",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "DZACABUCHÉN",
+          "2",
+          "56",
+          "27",
+          "29",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "87",
+          "49",
+          "38",
+          "4"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "GENERAL ORTIZ ÁVILA",
+          "3",
+          "156",
+          "90",
+          "66",
+          "9"
+        ],
+        [
+          "HOOL",
+          "3",
+          "205",
+          "108",
+          "97",
+          "13"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "209",
+          "107",
+          "102",
+          "13"
+        ],
+        [
+          "KILÓMETRO SESENTA Y SIETE (VENUSTIANO CARRANZA)",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "217",
+          "109",
+          "108",
+          "10"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "4"
+        ],
+        [
+          "LEY FEDERAL DE REFORMA AGRARIA",
+          "5",
+          "865",
+          "409",
+          "456",
+          "43"
+        ],
+        [
+          "LÓPEZ MATEOS (LA DESCONFIANZA)",
+          "2",
+          "75",
+          "43",
+          "32",
+          "4"
+        ],
+        [
+          "LÓPEZ PORTILLO NÚMERO 2",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "MAYA TECÚN I",
+          "4",
+          "318",
+          "153",
+          "165",
+          "18"
+        ],
+        [
+          "MAYA TECÚN II",
+          "3",
+          "274",
+          "136",
+          "138",
+          "14"
+        ],
+        [
+          "MIGUEL ALLENDE",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "MIGUEL COLORADO",
+          "4",
+          "296",
+          "151",
+          "145",
+          "15"
+        ],
+        [
+          "MOQUEL",
+          "3",
+          "157",
+          "83",
+          "74",
+          "7"
+        ],
+        [
+          "NAYARIT CASTELLOT",
+          "4",
+          "137",
+          "65",
+          "72",
+          "10"
+        ],
+        [
+          "NUEVA ESPERANZA NÚMERO 2 (SANTO DOMINGO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4"
+        ],
+        [
+          "NUEVO MICHOACÁN",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO PARAÍSO [MÓDULO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "PIXOYAL",
+          "3",
+          "130",
+          "59",
+          "71",
+          "8"
+        ],
+        [
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "147",
+          "77",
+          "70",
+          "7"
+        ],
+        [
+          "PUNTA XEN",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "PUSTUNICH",
+          "3",
+          "179",
+          "91",
+          "88",
+          "8"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "161",
+          "78",
+          "83",
+          "7"
+        ],
+        [
+          "SAN ANTONIO DEL RÍO",
+          "2",
+          "35",
+          "9",
+          "26",
+          "3"
+        ],
+        [
+          "SAN ANTONIO YACASAY",
+          "3",
+          "106",
+          "47",
+          "59",
+          "7"
+        ],
+        [
+          "SAN JOSÉ CARPIZO DOS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "SAN JOSÉ CARPIZO UNO (SAN FERNANDO)",
+          "3",
+          "115",
+          "51",
+          "64",
+          "7"
+        ],
+        [
+          "SAN JUAN CARPIZO",
+          "2",
+          "60",
+          "24",
+          "36",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4"
+        ],
+        [
+          "SAN PABLO PIXTÚN",
+          "4",
+          "384",
+          "193",
+          "191",
+          "20"
+        ],
+        [
+          "SANTA CRUZ DE ROVIRA",
+          "1",
+          "15",
+          "12",
+          "3",
+          "1"
+        ],
+        [
+          "SANTO DOMINGO KESTÉ",
+          "5",
+          "1,022",
+          "521",
+          "501",
+          "62"
+        ],
+        [
+          "SIHOCHAC",
+          "7",
+          "740",
+          "362",
+          "378",
+          "58"
+        ],
+        [
+          "TRES DE MAYO",
+          "3",
+          "45",
+          "20",
+          "25",
+          "5"
+        ],
+        [
+          "ULUMAL",
+          "3",
+          "164",
+          "79",
+          "85",
+          "10"
+        ],
+        [
+          "VALLE DE QUETZALCÓATL",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "50",
+          "28",
+          "22",
+          "3"
+        ],
+        [
+          "VILLA DE GUADALUPE",
+          "3",
+          "148",
+          "79",
+          "69",
+          "8"
+        ],
+        [
+          "VILLA DE LAS FLORES",
+          "3",
+          "61",
+          "27",
+          "34",
+          "5"
+        ],
+        [
+          "VILLAMAR",
+          "3",
+          "119",
+          "60",
+          "59",
+          "7"
+        ],
+        [
+          "XBACAB",
+          "4",
+          "945",
+          "475",
+          "470",
+          "47"
+        ],
+        [
+          "YOHALTÚN",
+          "5",
+          "252",
+          "125",
+          "127",
+          "15"
+        ],
+        [
+          "TOTAL",
+          "226",
+          "20,914",
+          "10,339",
+          "10,575",
+          "1,355"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: CHAMPOTÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AH-KIM-PECH",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "AQUILES SERDÁN (CHUINÁ)",
+          "2",
+          "183",
+          "91",
+          "92",
+          "9"
+        ],
+        [
+          "ARELLANO",
+          "2",
+          "99",
+          "48",
+          "51",
+          "4"
+        ],
+        [
+          "BUENAVENTURA",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "CANASAYAB",
+          "3",
+          "40",
+          "25",
+          "15",
+          "4"
+        ],
+        [
+          "CAÑAVERAL",
+          "3",
+          "72",
+          "39",
+          "33",
+          "5"
+        ],
+        [
+          "CARLOS SALINAS DE GORTARI",
+          "4",
+          "178",
+          "84",
+          "94",
+          "12"
+        ],
+        [
+          "CARRILLO PUERTO",
+          "7",
+          "1,229",
+          "603",
+          "626",
+          "125"
+        ],
+        [
+          "CHAC CHAITO",
+          "3",
+          "90",
+          "47",
+          "43",
+          "4"
+        ],
+        [
+          "CHAMPOTÓN",
+          "54",
+          "9,913",
+          "4,870",
+          "5,043",
+          "651"
+        ],
+        [
+          "CHILAM BALAM",
+          "4",
+          "225",
+          "107",
+          "118",
+          "12"
+        ],
+        [
+          "CINCO DE FEBRERO",
+          "3",
+          "229",
+          "120",
+          "109",
+          "11"
+        ],
+        [
+          "CIUDAD DEL SOL",
+          "3",
+          "218",
+          "98",
+          "120",
+          "25"
+        ],
+        [
+          "CORONEL ORTIZ ÁVILA",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "DZACABUCHÉN",
+          "2",
+          "56",
+          "27",
+          "29",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "87",
+          "49",
+          "38",
+          "4"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "GENERAL ORTIZ ÁVILA",
+          "3",
+          "156",
+          "90",
+          "66",
+          "9"
+        ],
+        [
+          "HOOL",
+          "3",
+          "205",
+          "108",
+          "97",
+          "13"
+        ],
+        [
+          "IGNACIO LÓPEZ RAYÓN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "209",
+          "107",
+          "102",
+          "13"
+        ],
+        [
+          "KILÓMETRO SESENTA Y SIETE (VENUSTIANO CARRANZA)",
+          "2",
+          "68",
+          "35",
+          "33",
+          "4"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "217",
+          "109",
+          "108",
+          "10"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "4"
+        ],
+        [
+          "LEY FEDERAL DE REFORMA AGRARIA",
+          "5",
+          "865",
+          "409",
+          "456",
+          "43"
+        ],
+        [
+          "LÓPEZ MATEOS (LA DESCONFIANZA)",
+          "2",
+          "75",
+          "43",
+          "32",
+          "4"
+        ],
+        [
+          "LÓPEZ PORTILLO NÚMERO 2",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "MAYA TECÚN I",
+          "4",
+          "318",
+          "153",
+          "165",
+          "18"
+        ],
+        [
+          "MAYA TECÚN II",
+          "3",
+          "274",
+          "136",
+          "138",
+          "14"
+        ],
+        [
+          "MIGUEL ALLENDE",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "MIGUEL COLORADO",
+          "4",
+          "296",
+          "151",
+          "145",
+          "15"
+        ],
+        [
+          "MOQUEL",
+          "3",
+          "157",
+          "83",
+          "74",
+          "7"
+        ],
+        [
+          "NAYARIT CASTELLOT",
+          "4",
+          "137",
+          "65",
+          "72",
+          "10"
+        ],
+        [
+          "NUEVA ESPERANZA NÚMERO 2 (SANTO DOMINGO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "4"
+        ],
+        [
+          "NUEVO MICHOACÁN",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO PARAÍSO [MÓDULO]",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "PIXOYAL",
+          "3",
+          "130",
+          "59",
+          "71",
+          "8"
+        ],
+        [
+          "PROFESOR GRACIANO SÁNCHEZ",
+          "3",
+          "147",
+          "77",
+          "70",
+          "7"
+        ],
+        [
+          "PUNTA XEN",
+          "3",
+          "53",
+          "27",
+          "26",
+          "3"
+        ],
+        [
+          "PUSTUNICH",
+          "3",
+          "179",
+          "91",
+          "88",
+          "8"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "161",
+          "78",
+          "83",
+          "7"
+        ],
+        [
+          "SAN ANTONIO DEL RÍO",
+          "2",
+          "35",
+          "9",
+          "26",
+          "3"
+        ],
+        [
+          "SAN ANTONIO YACASAY",
+          "3",
+          "106",
+          "47",
+          "59",
+          "7"
+        ],
+        [
+          "SAN JOSÉ CARPIZO DOS",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "SAN JOSÉ CARPIZO UNO (SAN FERNANDO)",
+          "3",
+          "115",
+          "51",
+          "64",
+          "7"
+        ],
+        [
+          "SAN JUAN CARPIZO",
+          "2",
+          "60",
+          "24",
+          "36",
+          "3"
+        ],
+        [
+          "SAN MIGUEL",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4"
+        ],
+        [
+          "SAN PABLO PIXTÚN",
+          "4",
+          "384",
+          "193",
+          "191",
+          "20"
+        ],
+        [
+          "SANTA CRUZ DE ROVIRA",
+          "1",
+          "15",
+          "12",
+          "3",
+          "1"
+        ],
+        [
+          "SANTO DOMINGO KESTÉ",
+          "5",
+          "1,022",
+          "521",
+          "501",
+          "62"
+        ],
+        [
+          "SIHOCHAC",
+          "7",
+          "740",
+          "362",
+          "378",
+          "58"
+        ],
+        [
+          "TRES DE MAYO",
+          "3",
+          "45",
+          "20",
+          "25",
+          "5"
+        ],
+        [
+          "ULUMAL",
+          "3",
+          "164",
+          "79",
+          "85",
+          "10"
+        ],
+        [
+          "VALLE DE QUETZALCÓATL",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "50",
+          "28",
+          "22",
+          "3"
+        ],
+        [
+          "VILLA DE GUADALUPE",
+          "3",
+          "148",
+          "79",
+          "69",
+          "8"
+        ],
+        [
+          "VILLA DE LAS FLORES",
+          "3",
+          "61",
+          "27",
+          "34",
+          "5"
+        ],
+        [
+          "VILLAMAR",
+          "3",
+          "119",
+          "60",
+          "59",
+          "7"
+        ],
+        [
+          "XBACAB",
+          "4",
+          "945",
+          "475",
+          "470",
+          "47"
+        ],
+        [
+          "YOHALTÚN",
+          "5",
+          "252",
+          "125",
+          "127",
+          "15"
+        ],
+        [
+          "TOTAL",
+          "226",
+          "20,914",
+          "10,339",
+          "10,575",
+          "1,355"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:24.620Z"
+}

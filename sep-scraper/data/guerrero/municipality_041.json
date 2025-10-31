@@ -1,0 +1,1374 @@
+{
+  "municipality": "MALINALTEPEC",
+  "municipalityCode": "041",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MALINALTEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUEJUYO VIEJO\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tALACATLATZALA\n\t\t7\n\t\t253\n\t\t130\n\t\t123\n\t\t19\n\t\n\t\n\t\tCERRO DEL GUAYABO\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tCERRO ZACATÓN (ZACATÓN)\n\t\t2\n\t\t33\n\t\t20\n\t\t13\n\t\t2\n\t\n\t\n\t\tCHAPULTEPEC\n\t\t1\n\t\t13\n\t\t3\n\t\t10\n\t\t1\n\t\n\t\n\t\tCOLOMBIA DE GUADALUPE\n\t\t5\n\t\t467\n\t\t231\n\t\t236\n\t\t29\n\t\n\t\n\t\tCOLONIA DEL OBISPO (LOMA DEL OBISPO)\n\t\t1\n\t\t44\n\t\t14\n\t\t30\n\t\t3\n\t\n\t\n\t\tCOLONIA ENCINO ROBLE\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tCOLONIA LAGUNA CHALMA\n\t\t1\n\t\t16\n\t\t9\n\t\t7\n\t\t1\n\t\n\t\n\t\tCOLONIA SAN MATEO\n\t\t2\n\t\t125\n\t\t67\n\t\t58\n\t\t9\n\t\n\t\n\t\tCUATZOQUITENGO\n\t\t7\n\t\t537\n\t\t258\n\t\t279\n\t\t27\n\t\n\t\n\t\tEL HUAMÚCHIL\n\t\t2\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL MANGO (XABO NIKIL)\n\t\t2\n\t\t35\n\t\t18\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL PORTEZUELO DE SANTA CRUZ (CRUZAMIENTO)\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL SALTO\n\t\t2\n\t\t29\n\t\t12\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL TEJOCOTE\n\t\t4\n\t\t453\n\t\t218\n\t\t235\n\t\t23\n\t\n\t\n\t\tEL TEPEYAC\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t4\n\t\n\t\n\t\tESPINO BLANCO\n\t\t2\n\t\t69\n\t\t38\n\t\t31\n\t\t4\n\t\n\t\n\t\tFILO DE ACATEPEC\n\t\t2\n\t\t30\n\t\t14\n\t\t16\n\t\t2\n\t\n\t\n\t\tHOMBRO DEL CERRO ARDILLA (CERRO ARDILLA)\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tHONDURA VERDE\n\t\t1\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA CANOA\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t1\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t3\n\t\t325\n\t\t207\n\t\t118\n\t\t39\n\t\n\t\n\t\tLA LUCERNA\n\t\t2\n\t\t74\n\t\t30\n\t\t44\n\t\t9\n\t\n\t\n\t\tLA MAGUEYERA\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t74\n\t\t30\n\t\t44\n\t\t5\n\t\n\t\n\t\tLA TABERNA\n\t\t1\n\t\t15\n\t\t9\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAGUNA SECA\n\t\t2\n\t\t116\n\t\t63\n\t\t53\n\t\t7\n\t\n\t\n\t\tLAGUNA TRES MARÍAS\n\t\t2\n\t\t56\n\t\t33\n\t\t23\n\t\t3\n\t\n\t\n\t\tLINDA VISTA\n\t\t1\n\t\t36\n\t\t19\n\t\t17\n\t\t3\n\t\n\t\n\t\tLLANO DE HENO\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tLLANO DE MANZANO\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLLANO GRANDE\n\t\t2\n\t\t73\n\t\t34\n\t\t39\n\t\t6\n\t\n\t\n\t\tLLANO MAJAHUA\n\t\t2\n\t\t61\n\t\t35\n\t\t26\n\t\t4\n\t\n\t\n\t\tLLANO PANTANOSO\n\t\t2\n\t\t81\n\t\t45\n\t\t36\n\t\t5\n\t\n\t\n\t\tLOMA CONCHA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tLOMA DEL FAISÁN\n\t\t3\n\t\t78\n\t\t41\n\t\t37\n\t\t4\n\t\n\t\n\t\tLOMA MAMEY\n\t\t2\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tMALINALTEPEC\n\t\t8\n\t\t755\n\t\t369\n\t\t386\n\t\t49\n\t\n\t\n\t\tMESÓN DE IXTLÁHUAC\n\t\t3\n\t\t325\n\t\t136\n\t\t189\n\t\t16\n\t\n\t\n\t\tMONTE ALEGRE\n\t\t3\n\t\t142\n\t\t72\n\t\t70\n\t\t9\n\t\n\t\n\t\tMONTE DE OLIVO\n\t\t2\n\t\t33\n\t\t15\n\t\t18\n\t\t3\n\t\n\t\n\t\tMOYOTEPEC (MOYOTEPEC DE JUÁREZ)\n\t\t4\n\t\t407\n\t\t197\n\t\t210\n\t\t33\n\t\n\t\n\t\tOJO DE AGUA DE CUAUHTÉMOC\n\t\t3\n\t\t189\n\t\t83\n\t\t106\n\t\t11\n\t\n\t\n\t\tPARAJE MONTERO (PARAJE MONTERO DE ZARAGOZA)\n\t\t5\n\t\t735\n\t\t386\n\t\t349\n\t\t47\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t42\n\t\t19\n\t\t23\n\t\t3\n\t\n\t\n\t\tRAYO ALTO\n\t\t2\n\t\t18\n\t\t5\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN DIEGO VISTA HERMOSA\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN JUAN DE LAS NIEVES\n\t\t2\n\t\t35\n\t\t12\n\t\t23\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL EL PROGRESO\n\t\t4\n\t\t308\n\t\t151\n\t\t157\n\t\t20\n\t\n\t\n\t\tSAN MIGUEL EL RINCÓN\n\t\t1\n\t\t70\n\t\t39\n\t\t31\n\t\t4\n\t\n\t\n\t\tSANTA CRUZ\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tTAPAYOLTEPEC\n\t\t4\n\t\t201\n\t\t96\n\t\t105\n\t\t10\n\t\n\t\n\t\tTILAPA\n\t\t6\n\t\t599\n\t\t321\n\t\t278\n\t\t38\n\t\n\t\n\t\tUNIÓN DE LAS PERAS\n\t\t2\n\t\t37\n\t\t14\n\t\t23\n\t\t4\n\t\n\t\n\t\tXKUA XTUTI\n\t\t2\n\t\t53\n\t\t29\n\t\t24\n\t\t4\n\t\n\t\n\t\tXOCHIATENCO\n\t\t2\n\t\t79\n\t\t44\n\t\t35\n\t\t5\n\t\n\t\n\t\tYAUTEPEC\n\t\t2\n\t\t86\n\t\t45\n\t\t41\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t141\n\t\t7,473\n\t\t3,740\n\t\t3,733\n\t\t507\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MALINALTEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUEJUYO VIEJO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2",
+          "ALACATLATZALA",
+          "7",
+          "253",
+          "130",
+          "123",
+          "19",
+          "CERRO DEL GUAYABO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "CERRO ZACATÓN (ZACATÓN)",
+          "2",
+          "33",
+          "20",
+          "13",
+          "2",
+          "CHAPULTEPEC",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1",
+          "COLOMBIA DE GUADALUPE",
+          "5",
+          "467",
+          "231",
+          "236",
+          "29",
+          "COLONIA DEL OBISPO (LOMA DEL OBISPO)",
+          "1",
+          "44",
+          "14",
+          "30",
+          "3",
+          "COLONIA ENCINO ROBLE",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "COLONIA LAGUNA CHALMA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1",
+          "COLONIA SAN MATEO",
+          "2",
+          "125",
+          "67",
+          "58",
+          "9",
+          "CUATZOQUITENGO",
+          "7",
+          "537",
+          "258",
+          "279",
+          "27",
+          "EL HUAMÚCHIL",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1",
+          "EL MANGO (XABO NIKIL)",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3",
+          "EL PORTEZUELO DE SANTA CRUZ (CRUZAMIENTO)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "EL SALTO",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3",
+          "EL TEJOCOTE",
+          "4",
+          "453",
+          "218",
+          "235",
+          "23",
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4",
+          "ESPINO BLANCO",
+          "2",
+          "69",
+          "38",
+          "31",
+          "4",
+          "FILO DE ACATEPEC",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2",
+          "HOMBRO DEL CERRO ARDILLA (CERRO ARDILLA)",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "HONDURA VERDE",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2",
+          "LA CANOA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1",
+          "LA CIÉNEGA",
+          "3",
+          "325",
+          "207",
+          "118",
+          "39",
+          "LA LUCERNA",
+          "2",
+          "74",
+          "30",
+          "44",
+          "9",
+          "LA MAGUEYERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LA SOLEDAD",
+          "2",
+          "74",
+          "30",
+          "44",
+          "5",
+          "LA TABERNA",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1",
+          "LAGUNA SECA",
+          "2",
+          "116",
+          "63",
+          "53",
+          "7",
+          "LAGUNA TRES MARÍAS",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3",
+          "LINDA VISTA",
+          "1",
+          "36",
+          "19",
+          "17",
+          "3",
+          "LLANO DE HENO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "LLANO DE MANZANO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LLANO GRANDE",
+          "2",
+          "73",
+          "34",
+          "39",
+          "6",
+          "LLANO MAJAHUA",
+          "2",
+          "61",
+          "35",
+          "26",
+          "4",
+          "LLANO PANTANOSO",
+          "2",
+          "81",
+          "45",
+          "36",
+          "5",
+          "LOMA CONCHA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "LOMA DEL FAISÁN",
+          "3",
+          "78",
+          "41",
+          "37",
+          "4",
+          "LOMA MAMEY",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3",
+          "MALINALTEPEC",
+          "8",
+          "755",
+          "369",
+          "386",
+          "49",
+          "MESÓN DE IXTLÁHUAC",
+          "3",
+          "325",
+          "136",
+          "189",
+          "16",
+          "MONTE ALEGRE",
+          "3",
+          "142",
+          "72",
+          "70",
+          "9",
+          "MONTE DE OLIVO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3",
+          "MOYOTEPEC (MOYOTEPEC DE JUÁREZ)",
+          "4",
+          "407",
+          "197",
+          "210",
+          "33",
+          "OJO DE AGUA DE CUAUHTÉMOC",
+          "3",
+          "189",
+          "83",
+          "106",
+          "11",
+          "PARAJE MONTERO (PARAJE MONTERO DE ZARAGOZA)",
+          "5",
+          "735",
+          "386",
+          "349",
+          "47",
+          "RANCHO NUEVO",
+          "2",
+          "42",
+          "19",
+          "23",
+          "3",
+          "RAYO ALTO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2",
+          "SAN DIEGO VISTA HERMOSA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3",
+          "SAN JUAN DE LAS NIEVES",
+          "2",
+          "35",
+          "12",
+          "23",
+          "4",
+          "SAN MIGUEL EL PROGRESO",
+          "4",
+          "308",
+          "151",
+          "157",
+          "20",
+          "SAN MIGUEL EL RINCÓN",
+          "1",
+          "70",
+          "39",
+          "31",
+          "4",
+          "SANTA CRUZ",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "TAPAYOLTEPEC",
+          "4",
+          "201",
+          "96",
+          "105",
+          "10",
+          "TILAPA",
+          "6",
+          "599",
+          "321",
+          "278",
+          "38",
+          "UNIÓN DE LAS PERAS",
+          "2",
+          "37",
+          "14",
+          "23",
+          "4",
+          "XKUA XTUTI",
+          "2",
+          "53",
+          "29",
+          "24",
+          "4",
+          "XOCHIATENCO",
+          "2",
+          "79",
+          "44",
+          "35",
+          "5",
+          "YAUTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "6",
+          "TOTAL",
+          "141",
+          "7,473",
+          "3,740",
+          "3,733",
+          "507",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MALINALTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEJUYO VIEJO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "ALACATLATZALA",
+          "7",
+          "253",
+          "130",
+          "123",
+          "19"
+        ],
+        [
+          "CERRO DEL GUAYABO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "CERRO ZACATÓN (ZACATÓN)",
+          "2",
+          "33",
+          "20",
+          "13",
+          "2"
+        ],
+        [
+          "CHAPULTEPEC",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "COLOMBIA DE GUADALUPE",
+          "5",
+          "467",
+          "231",
+          "236",
+          "29"
+        ],
+        [
+          "COLONIA DEL OBISPO (LOMA DEL OBISPO)",
+          "1",
+          "44",
+          "14",
+          "30",
+          "3"
+        ],
+        [
+          "COLONIA ENCINO ROBLE",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "COLONIA LAGUNA CHALMA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "COLONIA SAN MATEO",
+          "2",
+          "125",
+          "67",
+          "58",
+          "9"
+        ],
+        [
+          "CUATZOQUITENGO",
+          "7",
+          "537",
+          "258",
+          "279",
+          "27"
+        ],
+        [
+          "EL HUAMÚCHIL",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL MANGO (XABO NIKIL)",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "EL PORTEZUELO DE SANTA CRUZ (CRUZAMIENTO)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "EL TEJOCOTE",
+          "4",
+          "453",
+          "218",
+          "235",
+          "23"
+        ],
+        [
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "ESPINO BLANCO",
+          "2",
+          "69",
+          "38",
+          "31",
+          "4"
+        ],
+        [
+          "FILO DE ACATEPEC",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "HOMBRO DEL CERRO ARDILLA (CERRO ARDILLA)",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "HONDURA VERDE",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LA CANOA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "LA CIÉNEGA",
+          "3",
+          "325",
+          "207",
+          "118",
+          "39"
+        ],
+        [
+          "LA LUCERNA",
+          "2",
+          "74",
+          "30",
+          "44",
+          "9"
+        ],
+        [
+          "LA MAGUEYERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "74",
+          "30",
+          "44",
+          "5"
+        ],
+        [
+          "LA TABERNA",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "LAGUNA SECA",
+          "2",
+          "116",
+          "63",
+          "53",
+          "7"
+        ],
+        [
+          "LAGUNA TRES MARÍAS",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "LINDA VISTA",
+          "1",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "LLANO DE HENO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LLANO DE MANZANO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO GRANDE",
+          "2",
+          "73",
+          "34",
+          "39",
+          "6"
+        ],
+        [
+          "LLANO MAJAHUA",
+          "2",
+          "61",
+          "35",
+          "26",
+          "4"
+        ],
+        [
+          "LLANO PANTANOSO",
+          "2",
+          "81",
+          "45",
+          "36",
+          "5"
+        ],
+        [
+          "LOMA CONCHA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "LOMA DEL FAISÁN",
+          "3",
+          "78",
+          "41",
+          "37",
+          "4"
+        ],
+        [
+          "LOMA MAMEY",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "MALINALTEPEC",
+          "8",
+          "755",
+          "369",
+          "386",
+          "49"
+        ],
+        [
+          "MESÓN DE IXTLÁHUAC",
+          "3",
+          "325",
+          "136",
+          "189",
+          "16"
+        ],
+        [
+          "MONTE ALEGRE",
+          "3",
+          "142",
+          "72",
+          "70",
+          "9"
+        ],
+        [
+          "MONTE DE OLIVO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "MOYOTEPEC (MOYOTEPEC DE JUÁREZ)",
+          "4",
+          "407",
+          "197",
+          "210",
+          "33"
+        ],
+        [
+          "OJO DE AGUA DE CUAUHTÉMOC",
+          "3",
+          "189",
+          "83",
+          "106",
+          "11"
+        ],
+        [
+          "PARAJE MONTERO (PARAJE MONTERO DE ZARAGOZA)",
+          "5",
+          "735",
+          "386",
+          "349",
+          "47"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "42",
+          "19",
+          "23",
+          "3"
+        ],
+        [
+          "RAYO ALTO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "SAN DIEGO VISTA HERMOSA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "SAN JUAN DE LAS NIEVES",
+          "2",
+          "35",
+          "12",
+          "23",
+          "4"
+        ],
+        [
+          "SAN MIGUEL EL PROGRESO",
+          "4",
+          "308",
+          "151",
+          "157",
+          "20"
+        ],
+        [
+          "SAN MIGUEL EL RINCÓN",
+          "1",
+          "70",
+          "39",
+          "31",
+          "4"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "TAPAYOLTEPEC",
+          "4",
+          "201",
+          "96",
+          "105",
+          "10"
+        ],
+        [
+          "TILAPA",
+          "6",
+          "599",
+          "321",
+          "278",
+          "38"
+        ],
+        [
+          "UNIÓN DE LAS PERAS",
+          "2",
+          "37",
+          "14",
+          "23",
+          "4"
+        ],
+        [
+          "XKUA XTUTI",
+          "2",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "XOCHIATENCO",
+          "2",
+          "79",
+          "44",
+          "35",
+          "5"
+        ],
+        [
+          "YAUTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "141",
+          "7,473",
+          "3,740",
+          "3,733",
+          "507"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: MALINALTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEJUYO VIEJO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "ALACATLATZALA",
+          "7",
+          "253",
+          "130",
+          "123",
+          "19"
+        ],
+        [
+          "CERRO DEL GUAYABO",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "CERRO ZACATÓN (ZACATÓN)",
+          "2",
+          "33",
+          "20",
+          "13",
+          "2"
+        ],
+        [
+          "CHAPULTEPEC",
+          "1",
+          "13",
+          "3",
+          "10",
+          "1"
+        ],
+        [
+          "COLOMBIA DE GUADALUPE",
+          "5",
+          "467",
+          "231",
+          "236",
+          "29"
+        ],
+        [
+          "COLONIA DEL OBISPO (LOMA DEL OBISPO)",
+          "1",
+          "44",
+          "14",
+          "30",
+          "3"
+        ],
+        [
+          "COLONIA ENCINO ROBLE",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "COLONIA LAGUNA CHALMA",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "COLONIA SAN MATEO",
+          "2",
+          "125",
+          "67",
+          "58",
+          "9"
+        ],
+        [
+          "CUATZOQUITENGO",
+          "7",
+          "537",
+          "258",
+          "279",
+          "27"
+        ],
+        [
+          "EL HUAMÚCHIL",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL MANGO (XABO NIKIL)",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "EL PORTEZUELO DE SANTA CRUZ (CRUZAMIENTO)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "EL TEJOCOTE",
+          "4",
+          "453",
+          "218",
+          "235",
+          "23"
+        ],
+        [
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "ESPINO BLANCO",
+          "2",
+          "69",
+          "38",
+          "31",
+          "4"
+        ],
+        [
+          "FILO DE ACATEPEC",
+          "2",
+          "30",
+          "14",
+          "16",
+          "2"
+        ],
+        [
+          "HOMBRO DEL CERRO ARDILLA (CERRO ARDILLA)",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "HONDURA VERDE",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LA CANOA",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "LA CIÉNEGA",
+          "3",
+          "325",
+          "207",
+          "118",
+          "39"
+        ],
+        [
+          "LA LUCERNA",
+          "2",
+          "74",
+          "30",
+          "44",
+          "9"
+        ],
+        [
+          "LA MAGUEYERA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "74",
+          "30",
+          "44",
+          "5"
+        ],
+        [
+          "LA TABERNA",
+          "1",
+          "15",
+          "9",
+          "6",
+          "1"
+        ],
+        [
+          "LAGUNA SECA",
+          "2",
+          "116",
+          "63",
+          "53",
+          "7"
+        ],
+        [
+          "LAGUNA TRES MARÍAS",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "LINDA VISTA",
+          "1",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "LLANO DE HENO",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "LLANO DE MANZANO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LLANO GRANDE",
+          "2",
+          "73",
+          "34",
+          "39",
+          "6"
+        ],
+        [
+          "LLANO MAJAHUA",
+          "2",
+          "61",
+          "35",
+          "26",
+          "4"
+        ],
+        [
+          "LLANO PANTANOSO",
+          "2",
+          "81",
+          "45",
+          "36",
+          "5"
+        ],
+        [
+          "LOMA CONCHA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "LOMA DEL FAISÁN",
+          "3",
+          "78",
+          "41",
+          "37",
+          "4"
+        ],
+        [
+          "LOMA MAMEY",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "MALINALTEPEC",
+          "8",
+          "755",
+          "369",
+          "386",
+          "49"
+        ],
+        [
+          "MESÓN DE IXTLÁHUAC",
+          "3",
+          "325",
+          "136",
+          "189",
+          "16"
+        ],
+        [
+          "MONTE ALEGRE",
+          "3",
+          "142",
+          "72",
+          "70",
+          "9"
+        ],
+        [
+          "MONTE DE OLIVO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "MOYOTEPEC (MOYOTEPEC DE JUÁREZ)",
+          "4",
+          "407",
+          "197",
+          "210",
+          "33"
+        ],
+        [
+          "OJO DE AGUA DE CUAUHTÉMOC",
+          "3",
+          "189",
+          "83",
+          "106",
+          "11"
+        ],
+        [
+          "PARAJE MONTERO (PARAJE MONTERO DE ZARAGOZA)",
+          "5",
+          "735",
+          "386",
+          "349",
+          "47"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "42",
+          "19",
+          "23",
+          "3"
+        ],
+        [
+          "RAYO ALTO",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "SAN DIEGO VISTA HERMOSA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "SAN JUAN DE LAS NIEVES",
+          "2",
+          "35",
+          "12",
+          "23",
+          "4"
+        ],
+        [
+          "SAN MIGUEL EL PROGRESO",
+          "4",
+          "308",
+          "151",
+          "157",
+          "20"
+        ],
+        [
+          "SAN MIGUEL EL RINCÓN",
+          "1",
+          "70",
+          "39",
+          "31",
+          "4"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "TAPAYOLTEPEC",
+          "4",
+          "201",
+          "96",
+          "105",
+          "10"
+        ],
+        [
+          "TILAPA",
+          "6",
+          "599",
+          "321",
+          "278",
+          "38"
+        ],
+        [
+          "UNIÓN DE LAS PERAS",
+          "2",
+          "37",
+          "14",
+          "23",
+          "4"
+        ],
+        [
+          "XKUA XTUTI",
+          "2",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "XOCHIATENCO",
+          "2",
+          "79",
+          "44",
+          "35",
+          "5"
+        ],
+        [
+          "YAUTEPEC",
+          "2",
+          "86",
+          "45",
+          "41",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "141",
+          "7,473",
+          "3,740",
+          "3,733",
+          "507"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:22.434Z"
+}

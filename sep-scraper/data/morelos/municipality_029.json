@@ -1,0 +1,670 @@
+{
+  "municipality": "YAUTEPEC",
+  "municipalityCode": "029",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YAUTEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN ÁLVARO LEONEL (REVOLUCIÓN DEL SUR)\n\t\t1\n\t\t105\n\t\t50\n\t\t55\n\t\t4\n\t\n\t\n\t\tAMPLIACIÓN ATLIHUAYAN\n\t\t3\n\t\t811\n\t\t425\n\t\t386\n\t\t30\n\t\n\t\n\t\tCAMPO LA TEHUIXTLERA\n\t\t3\n\t\t44\n\t\t20\n\t\t24\n\t\t4\n\t\n\t\n\t\tCOCOYOC\n\t\t10\n\t\t1,353\n\t\t669\n\t\t684\n\t\t61\n\t\n\t\n\t\tCOLONIA MIGUEL HIDALGO (LOS CUARTOS)\n\t\t4\n\t\t241\n\t\t125\n\t\t116\n\t\t13\n\t\n\t\n\t\tCOLONIA SANTA LUCÍA (AMPLIACIÓN ITZAMATITLÁN)\n\t\t2\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tCORRAL GRANDE\n\t\t1\n\t\t27\n\t\t17\n\t\t10\n\t\t1\n\t\n\t\n\t\tDIEGO RUIZ\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL CARACOL (CAMPO CHIQUITO)\n\t\t2\n\t\t60\n\t\t23\n\t\t37\n\t\t4\n\t\n\t\n\t\tEL CAUDILLO DEL SUR\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL ROCÍO\n\t\t2\n\t\t60\n\t\t17\n\t\t43\n\t\t5\n\t\n\t\n\t\tEL ZARCO\n\t\t2\n\t\t95\n\t\t52\n\t\t43\n\t\t6\n\t\n\t\n\t\tEMILIANO ZAPATA (CASAHUATES)\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA (PALO MOCHO)\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tIGNACIO BASTIDA (SANTA CATARINA TLAYCA)\n\t\t3\n\t\t194\n\t\t98\n\t\t96\n\t\t11\n\t\n\t\n\t\tITZAMATITLÁN\n\t\t1\n\t\t70\n\t\t38\n\t\t32\n\t\t3\n\t\n\t\n\t\tJOSÉ ORTIZ (SAN MARTÍN)\n\t\t2\n\t\t112\n\t\t54\n\t\t58\n\t\t7\n\t\n\t\n\t\tLA JOYA\n\t\t12\n\t\t1,765\n\t\t842\n\t\t923\n\t\t110\n\t\n\t\n\t\tLA NOPALERA\n\t\t3\n\t\t234\n\t\t125\n\t\t109\n\t\t11\n\t\n\t\n\t\tLÁZARO CÁRDENAS (EL EMPALME)\n\t\t2\n\t\t145\n\t\t74\n\t\t71\n\t\t7\n\t\n\t\n\t\tLOS ARCOS\n\t\t9\n\t\t1,251\n\t\t673\n\t\t578\n\t\t55\n\t\n\t\n\t\tLUCIO MORENO\n\t\t1\n\t\t28\n\t\t19\n\t\t9\n\t\t11\n\t\n\t\n\t\tOACALCO\n\t\t10\n\t\t1,554\n\t\t810\n\t\t744\n\t\t95\n\t\n\t\n\t\tOAXTEPEC\n\t\t17\n\t\t1,821\n\t\t881\n\t\t940\n\t\t165\n\t\n\t\n\t\tSAN ISIDRO\n\t\t1\n\t\t90\n\t\t56\n\t\t34\n\t\t29\n\t\n\t\n\t\tYAUTEPEC DE ZARAGOZA\n\t\t127\n\t\t14,265\n\t\t7,189\n\t\t7,076\n\t\t856\n\t\n\t\n\t\tTOTAL\n\t\t224\n\t\t24,409\n\t\t12,302\n\t\t12,107\n\t\t1,496\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YAUTEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN ÁLVARO LEONEL (REVOLUCIÓN DEL SUR)",
+          "1",
+          "105",
+          "50",
+          "55",
+          "4",
+          "AMPLIACIÓN ATLIHUAYAN",
+          "3",
+          "811",
+          "425",
+          "386",
+          "30",
+          "CAMPO LA TEHUIXTLERA",
+          "3",
+          "44",
+          "20",
+          "24",
+          "4",
+          "COCOYOC",
+          "10",
+          "1,353",
+          "669",
+          "684",
+          "61",
+          "COLONIA MIGUEL HIDALGO (LOS CUARTOS)",
+          "4",
+          "241",
+          "125",
+          "116",
+          "13",
+          "COLONIA SANTA LUCÍA (AMPLIACIÓN ITZAMATITLÁN)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1",
+          "CORRAL GRANDE",
+          "1",
+          "27",
+          "17",
+          "10",
+          "1",
+          "DIEGO RUIZ",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "EL CARACOL (CAMPO CHIQUITO)",
+          "2",
+          "60",
+          "23",
+          "37",
+          "4",
+          "EL CAUDILLO DEL SUR",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "EL ROCÍO",
+          "2",
+          "60",
+          "17",
+          "43",
+          "5",
+          "EL ZARCO",
+          "2",
+          "95",
+          "52",
+          "43",
+          "6",
+          "EMILIANO ZAPATA (CASAHUATES)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "EMILIANO ZAPATA (PALO MOCHO)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3",
+          "IGNACIO BASTIDA (SANTA CATARINA TLAYCA)",
+          "3",
+          "194",
+          "98",
+          "96",
+          "11",
+          "ITZAMATITLÁN",
+          "1",
+          "70",
+          "38",
+          "32",
+          "3",
+          "JOSÉ ORTIZ (SAN MARTÍN)",
+          "2",
+          "112",
+          "54",
+          "58",
+          "7",
+          "LA JOYA",
+          "12",
+          "1,765",
+          "842",
+          "923",
+          "110",
+          "LA NOPALERA",
+          "3",
+          "234",
+          "125",
+          "109",
+          "11",
+          "LÁZARO CÁRDENAS (EL EMPALME)",
+          "2",
+          "145",
+          "74",
+          "71",
+          "7",
+          "LOS ARCOS",
+          "9",
+          "1,251",
+          "673",
+          "578",
+          "55",
+          "LUCIO MORENO",
+          "1",
+          "28",
+          "19",
+          "9",
+          "11",
+          "OACALCO",
+          "10",
+          "1,554",
+          "810",
+          "744",
+          "95",
+          "OAXTEPEC",
+          "17",
+          "1,821",
+          "881",
+          "940",
+          "165",
+          "SAN ISIDRO",
+          "1",
+          "90",
+          "56",
+          "34",
+          "29",
+          "YAUTEPEC DE ZARAGOZA",
+          "127",
+          "14,265",
+          "7,189",
+          "7,076",
+          "856",
+          "TOTAL",
+          "224",
+          "24,409",
+          "12,302",
+          "12,107",
+          "1,496",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YAUTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN ÁLVARO LEONEL (REVOLUCIÓN DEL SUR)",
+          "1",
+          "105",
+          "50",
+          "55",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN ATLIHUAYAN",
+          "3",
+          "811",
+          "425",
+          "386",
+          "30"
+        ],
+        [
+          "CAMPO LA TEHUIXTLERA",
+          "3",
+          "44",
+          "20",
+          "24",
+          "4"
+        ],
+        [
+          "COCOYOC",
+          "10",
+          "1,353",
+          "669",
+          "684",
+          "61"
+        ],
+        [
+          "COLONIA MIGUEL HIDALGO (LOS CUARTOS)",
+          "4",
+          "241",
+          "125",
+          "116",
+          "13"
+        ],
+        [
+          "COLONIA SANTA LUCÍA (AMPLIACIÓN ITZAMATITLÁN)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "CORRAL GRANDE",
+          "1",
+          "27",
+          "17",
+          "10",
+          "1"
+        ],
+        [
+          "DIEGO RUIZ",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL CARACOL (CAMPO CHIQUITO)",
+          "2",
+          "60",
+          "23",
+          "37",
+          "4"
+        ],
+        [
+          "EL CAUDILLO DEL SUR",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL ROCÍO",
+          "2",
+          "60",
+          "17",
+          "43",
+          "5"
+        ],
+        [
+          "EL ZARCO",
+          "2",
+          "95",
+          "52",
+          "43",
+          "6"
+        ],
+        [
+          "EMILIANO ZAPATA (CASAHUATES)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (PALO MOCHO)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "IGNACIO BASTIDA (SANTA CATARINA TLAYCA)",
+          "3",
+          "194",
+          "98",
+          "96",
+          "11"
+        ],
+        [
+          "ITZAMATITLÁN",
+          "1",
+          "70",
+          "38",
+          "32",
+          "3"
+        ],
+        [
+          "JOSÉ ORTIZ (SAN MARTÍN)",
+          "2",
+          "112",
+          "54",
+          "58",
+          "7"
+        ],
+        [
+          "LA JOYA",
+          "12",
+          "1,765",
+          "842",
+          "923",
+          "110"
+        ],
+        [
+          "LA NOPALERA",
+          "3",
+          "234",
+          "125",
+          "109",
+          "11"
+        ],
+        [
+          "LÁZARO CÁRDENAS (EL EMPALME)",
+          "2",
+          "145",
+          "74",
+          "71",
+          "7"
+        ],
+        [
+          "LOS ARCOS",
+          "9",
+          "1,251",
+          "673",
+          "578",
+          "55"
+        ],
+        [
+          "LUCIO MORENO",
+          "1",
+          "28",
+          "19",
+          "9",
+          "11"
+        ],
+        [
+          "OACALCO",
+          "10",
+          "1,554",
+          "810",
+          "744",
+          "95"
+        ],
+        [
+          "OAXTEPEC",
+          "17",
+          "1,821",
+          "881",
+          "940",
+          "165"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "90",
+          "56",
+          "34",
+          "29"
+        ],
+        [
+          "YAUTEPEC DE ZARAGOZA",
+          "127",
+          "14,265",
+          "7,189",
+          "7,076",
+          "856"
+        ],
+        [
+          "TOTAL",
+          "224",
+          "24,409",
+          "12,302",
+          "12,107",
+          "1,496"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: YAUTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN ÁLVARO LEONEL (REVOLUCIÓN DEL SUR)",
+          "1",
+          "105",
+          "50",
+          "55",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN ATLIHUAYAN",
+          "3",
+          "811",
+          "425",
+          "386",
+          "30"
+        ],
+        [
+          "CAMPO LA TEHUIXTLERA",
+          "3",
+          "44",
+          "20",
+          "24",
+          "4"
+        ],
+        [
+          "COCOYOC",
+          "10",
+          "1,353",
+          "669",
+          "684",
+          "61"
+        ],
+        [
+          "COLONIA MIGUEL HIDALGO (LOS CUARTOS)",
+          "4",
+          "241",
+          "125",
+          "116",
+          "13"
+        ],
+        [
+          "COLONIA SANTA LUCÍA (AMPLIACIÓN ITZAMATITLÁN)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "CORRAL GRANDE",
+          "1",
+          "27",
+          "17",
+          "10",
+          "1"
+        ],
+        [
+          "DIEGO RUIZ",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "EL CARACOL (CAMPO CHIQUITO)",
+          "2",
+          "60",
+          "23",
+          "37",
+          "4"
+        ],
+        [
+          "EL CAUDILLO DEL SUR",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "EL ROCÍO",
+          "2",
+          "60",
+          "17",
+          "43",
+          "5"
+        ],
+        [
+          "EL ZARCO",
+          "2",
+          "95",
+          "52",
+          "43",
+          "6"
+        ],
+        [
+          "EMILIANO ZAPATA (CASAHUATES)",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA (PALO MOCHO)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "IGNACIO BASTIDA (SANTA CATARINA TLAYCA)",
+          "3",
+          "194",
+          "98",
+          "96",
+          "11"
+        ],
+        [
+          "ITZAMATITLÁN",
+          "1",
+          "70",
+          "38",
+          "32",
+          "3"
+        ],
+        [
+          "JOSÉ ORTIZ (SAN MARTÍN)",
+          "2",
+          "112",
+          "54",
+          "58",
+          "7"
+        ],
+        [
+          "LA JOYA",
+          "12",
+          "1,765",
+          "842",
+          "923",
+          "110"
+        ],
+        [
+          "LA NOPALERA",
+          "3",
+          "234",
+          "125",
+          "109",
+          "11"
+        ],
+        [
+          "LÁZARO CÁRDENAS (EL EMPALME)",
+          "2",
+          "145",
+          "74",
+          "71",
+          "7"
+        ],
+        [
+          "LOS ARCOS",
+          "9",
+          "1,251",
+          "673",
+          "578",
+          "55"
+        ],
+        [
+          "LUCIO MORENO",
+          "1",
+          "28",
+          "19",
+          "9",
+          "11"
+        ],
+        [
+          "OACALCO",
+          "10",
+          "1,554",
+          "810",
+          "744",
+          "95"
+        ],
+        [
+          "OAXTEPEC",
+          "17",
+          "1,821",
+          "881",
+          "940",
+          "165"
+        ],
+        [
+          "SAN ISIDRO",
+          "1",
+          "90",
+          "56",
+          "34",
+          "29"
+        ],
+        [
+          "YAUTEPEC DE ZARAGOZA",
+          "127",
+          "14,265",
+          "7,189",
+          "7,076",
+          "856"
+        ],
+        [
+          "TOTAL",
+          "224",
+          "24,409",
+          "12,302",
+          "12,107",
+          "1,496"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:09.552Z"
+}

@@ -1,0 +1,824 @@
+{
+  "municipality": "OTÁEZ",
+  "municipalityCode": "019",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OTÁEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARRANCA BARBAS (NUEVO PORVENIR)\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tBAJÍO DE VACAS (BAJÍO DE ATOCHA)\n\t\t2\n\t\t54\n\t\t31\n\t\t23\n\t\t4\n\t\n\t\n\t\tBANOME\n\t\t3\n\t\t71\n\t\t28\n\t\t43\n\t\t4\n\t\n\t\n\t\tCAMPANILLAS\n\t\t1\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tCIÉNEGA DE OLIVOS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tCOANAS\n\t\t2\n\t\t18\n\t\t5\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MANZANILLO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PUERTO DE SAN RAFAEL\n\t\t3\n\t\t40\n\t\t15\n\t\t25\n\t\t4\n\t\n\t\n\t\tEL RINCÓN\n\t\t1\n\t\t41\n\t\t16\n\t\t25\n\t\t2\n\t\n\t\n\t\tHUAJUPA\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA CIENEGUITA\n\t\t2\n\t\t29\n\t\t10\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA HACIENDITA\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA MESA DE SANTA CRUZ\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA SIERRITA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOS ARROYOS\n\t\t3\n\t\t20\n\t\t8\n\t\t12\n\t\t3\n\t\n\t\n\t\tLOS CARDOS\n\t\t3\n\t\t52\n\t\t21\n\t\t31\n\t\t4\n\t\n\t\n\t\tLOS SAUCES\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tMACHO BAYO\n\t\t3\n\t\t38\n\t\t15\n\t\t23\n\t\t4\n\t\n\t\n\t\tOTÁEZ\n\t\t4\n\t\t298\n\t\t151\n\t\t147\n\t\t14\n\t\n\t\n\t\tRANCHITO DE LOS OROZCO\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t2\n\t\t5\n\t\t5\n\t\t0\n\t\t2\n\t\n\t\n\t\tSAN IGNACIO DE HUAPIPUJE\n\t\t3\n\t\t38\n\t\t19\n\t\t19\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE BACIS\n\t\t3\n\t\t52\n\t\t24\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LA CRUZ\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE LA LAGUNA\n\t\t3\n\t\t39\n\t\t16\n\t\t23\n\t\t4\n\t\n\t\n\t\tSAN MARCOS\n\t\t1\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL DE PIÉLAGOS\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN PEDRO DE AZAFRANES\n\t\t3\n\t\t34\n\t\t13\n\t\t21\n\t\t4\n\t\n\t\n\t\tSANTA ELENA\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tSANTIAGO DE BOZOS (BOZOS)\n\t\t3\n\t\t30\n\t\t10\n\t\t20\n\t\t3\n\t\n\t\n\t\tSIERRA SANTA\n\t\t3\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tTEPOCATITA\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tZAPOTES\n\t\t3\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t69\n\t\t1,091\n\t\t495\n\t\t596\n\t\t87\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OTÁEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARRANCA BARBAS (NUEVO PORVENIR)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "BAJÍO DE VACAS (BAJÍO DE ATOCHA)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4",
+          "BANOME",
+          "3",
+          "71",
+          "28",
+          "43",
+          "4",
+          "CAMPANILLAS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1",
+          "CIÉNEGA DE OLIVOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "COANAS",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2",
+          "EL MANZANILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL PUERTO DE SAN RAFAEL",
+          "3",
+          "40",
+          "15",
+          "25",
+          "4",
+          "EL RINCÓN",
+          "1",
+          "41",
+          "16",
+          "25",
+          "2",
+          "HUAJUPA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "LA CIENEGUITA",
+          "2",
+          "29",
+          "10",
+          "19",
+          "3",
+          "LA HACIENDITA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1",
+          "LA MESA DE SANTA CRUZ",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LA SIERRITA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LOS ARROYOS",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3",
+          "LOS CARDOS",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4",
+          "LOS SAUCES",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "MACHO BAYO",
+          "3",
+          "38",
+          "15",
+          "23",
+          "4",
+          "OTÁEZ",
+          "4",
+          "298",
+          "151",
+          "147",
+          "14",
+          "RANCHITO DE LOS OROZCO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2",
+          "SAN FRANCISCO",
+          "2",
+          "5",
+          "5",
+          "0",
+          "2",
+          "SAN IGNACIO DE HUAPIPUJE",
+          "3",
+          "38",
+          "19",
+          "19",
+          "3",
+          "SAN JOSÉ DE BACIS",
+          "3",
+          "52",
+          "24",
+          "28",
+          "3",
+          "SAN JOSÉ DE LA CRUZ",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "SAN JOSÉ DE LA LAGUNA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "4",
+          "SAN MARCOS",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1",
+          "SAN MIGUEL DE PIÉLAGOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "SAN PEDRO DE AZAFRANES",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4",
+          "SANTA ELENA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1",
+          "SANTIAGO DE BOZOS (BOZOS)",
+          "3",
+          "30",
+          "10",
+          "20",
+          "3",
+          "SIERRA SANTA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3",
+          "TEPOCATITA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "ZAPOTES",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3",
+          "TOTAL",
+          "69",
+          "1,091",
+          "495",
+          "596",
+          "87",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OTÁEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRANCA BARBAS (NUEVO PORVENIR)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "BAJÍO DE VACAS (BAJÍO DE ATOCHA)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "BANOME",
+          "3",
+          "71",
+          "28",
+          "43",
+          "4"
+        ],
+        [
+          "CAMPANILLAS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE OLIVOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "COANAS",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANZANILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL PUERTO DE SAN RAFAEL",
+          "3",
+          "40",
+          "15",
+          "25",
+          "4"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "41",
+          "16",
+          "25",
+          "2"
+        ],
+        [
+          "HUAJUPA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "LA CIENEGUITA",
+          "2",
+          "29",
+          "10",
+          "19",
+          "3"
+        ],
+        [
+          "LA HACIENDITA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "LA MESA DE SANTA CRUZ",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA SIERRITA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LOS ARROYOS",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3"
+        ],
+        [
+          "LOS CARDOS",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "LOS SAUCES",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "MACHO BAYO",
+          "3",
+          "38",
+          "15",
+          "23",
+          "4"
+        ],
+        [
+          "OTÁEZ",
+          "4",
+          "298",
+          "151",
+          "147",
+          "14"
+        ],
+        [
+          "RANCHITO DE LOS OROZCO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "5",
+          "5",
+          "0",
+          "2"
+        ],
+        [
+          "SAN IGNACIO DE HUAPIPUJE",
+          "3",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE BACIS",
+          "3",
+          "52",
+          "24",
+          "28",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA CRUZ",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA LAGUNA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "4"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "SAN MIGUEL DE PIÉLAGOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "SAN PEDRO DE AZAFRANES",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "SANTIAGO DE BOZOS (BOZOS)",
+          "3",
+          "30",
+          "10",
+          "20",
+          "3"
+        ],
+        [
+          "SIERRA SANTA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "TEPOCATITA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "ZAPOTES",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "1,091",
+          "495",
+          "596",
+          "87"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: OTÁEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRANCA BARBAS (NUEVO PORVENIR)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "BAJÍO DE VACAS (BAJÍO DE ATOCHA)",
+          "2",
+          "54",
+          "31",
+          "23",
+          "4"
+        ],
+        [
+          "BANOME",
+          "3",
+          "71",
+          "28",
+          "43",
+          "4"
+        ],
+        [
+          "CAMPANILLAS",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE OLIVOS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "COANAS",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANZANILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL PUERTO DE SAN RAFAEL",
+          "3",
+          "40",
+          "15",
+          "25",
+          "4"
+        ],
+        [
+          "EL RINCÓN",
+          "1",
+          "41",
+          "16",
+          "25",
+          "2"
+        ],
+        [
+          "HUAJUPA",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "LA CIENEGUITA",
+          "2",
+          "29",
+          "10",
+          "19",
+          "3"
+        ],
+        [
+          "LA HACIENDITA",
+          "1",
+          "16",
+          "8",
+          "8",
+          "1"
+        ],
+        [
+          "LA MESA DE SANTA CRUZ",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LA SIERRITA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LOS ARROYOS",
+          "3",
+          "20",
+          "8",
+          "12",
+          "3"
+        ],
+        [
+          "LOS CARDOS",
+          "3",
+          "52",
+          "21",
+          "31",
+          "4"
+        ],
+        [
+          "LOS SAUCES",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "MACHO BAYO",
+          "3",
+          "38",
+          "15",
+          "23",
+          "4"
+        ],
+        [
+          "OTÁEZ",
+          "4",
+          "298",
+          "151",
+          "147",
+          "14"
+        ],
+        [
+          "RANCHITO DE LOS OROZCO",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "2",
+          "5",
+          "5",
+          "0",
+          "2"
+        ],
+        [
+          "SAN IGNACIO DE HUAPIPUJE",
+          "3",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE BACIS",
+          "3",
+          "52",
+          "24",
+          "28",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA CRUZ",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA LAGUNA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "4"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "SAN MIGUEL DE PIÉLAGOS",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "SAN PEDRO DE AZAFRANES",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "SANTIAGO DE BOZOS (BOZOS)",
+          "3",
+          "30",
+          "10",
+          "20",
+          "3"
+        ],
+        [
+          "SIERRA SANTA",
+          "3",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "TEPOCATITA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "ZAPOTES",
+          "3",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "1,091",
+          "495",
+          "596",
+          "87"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:00.840Z"
+}

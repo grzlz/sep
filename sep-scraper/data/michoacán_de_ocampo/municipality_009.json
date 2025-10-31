@@ -1,0 +1,1462 @@
+{
+  "municipality": "ARIO",
+  "municipalityCode": "009",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ARIO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁFRICA\n\t\t2\n\t\t11\n\t\t2\n\t\t9\n\t\t2\n\t\n\t\n\t\tAGUA ZARCA DE ORIENTE (EL CAZO)\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tARAPARÍCUARO\n\t\t3\n\t\t113\n\t\t59\n\t\t54\n\t\t8\n\t\n\t\n\t\tARIO DE ROSALES\n\t\t23\n\t\t5,204\n\t\t2,728\n\t\t2,476\n\t\t241\n\t\n\t\n\t\tBUEN SUCESO\n\t\t3\n\t\t40\n\t\t14\n\t\t26\n\t\t4\n\t\n\t\n\t\tBUENA VISTA DEL SUR\n\t\t1\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tCHUÉN\n\t\t2\n\t\t175\n\t\t80\n\t\t95\n\t\t7\n\t\n\t\n\t\tCUARAYO\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tDOCTOR MIGUEL SILVA MACÍAS\n\t\t4\n\t\t759\n\t\t374\n\t\t385\n\t\t36\n\t\n\t\n\t\tEL AGOSTADERO\n\t\t3\n\t\t49\n\t\t20\n\t\t29\n\t\t4\n\t\n\t\n\t\tEL ARENAL\n\t\t3\n\t\t70\n\t\t32\n\t\t38\n\t\t6\n\t\n\t\n\t\tEL CALABOZO\n\t\t3\n\t\t97\n\t\t55\n\t\t42\n\t\t6\n\t\n\t\n\t\tEL CANGREJO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL CARRIZALILLO DE URAPA\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CHUPADERO\n\t\t3\n\t\t202\n\t\t103\n\t\t99\n\t\t12\n\t\n\t\n\t\tEL LIMÓN DEL TEJAMANIL\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL MORAL\n\t\t2\n\t\t75\n\t\t40\n\t\t35\n\t\t5\n\t\n\t\n\t\tEL MORTERO\n\t\t2\n\t\t4\n\t\t1\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL ORTIGALITO\n\t\t3\n\t\t73\n\t\t32\n\t\t41\n\t\t4\n\t\n\t\n\t\tEL POTRERO DE PABLO CUIN (ALTITO DE PABLO CUIN)\n\t\t2\n\t\t25\n\t\t10\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL PUENTE ALTO\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL SAUCITO (POTRERO DE LOS BUEYES)\n\t\t3\n\t\t29\n\t\t15\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL TEJAMANIL\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL TEPAMAL\n\t\t4\n\t\t341\n\t\t183\n\t\t158\n\t\t16\n\t\n\t\n\t\tEL VALLE (VALLE NUEVO)\n\t\t2\n\t\t7\n\t\t5\n\t\t2\n\t\t2\n\t\n\t\n\t\tLA BARRA (LA BARRA GRANDE)\n\t\t3\n\t\t40\n\t\t22\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA BARRITA (LA BARRA CHICA)\n\t\t2\n\t\t19\n\t\t11\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA CANTERA\n\t\t2\n\t\t31\n\t\t21\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA CEBADILLA (LA HACIENDA)\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA PAROTA\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PLAYA DE GUADALUPE\n\t\t4\n\t\t104\n\t\t47\n\t\t57\n\t\t11\n\t\n\t\n\t\tLA SANDÍA\n\t\t3\n\t\t40\n\t\t24\n\t\t16\n\t\t4\n\t\n\t\n\t\tLAS CANALEJAS\n\t\t3\n\t\t37\n\t\t14\n\t\t23\n\t\t3\n\t\n\t\n\t\tLAS CARÁMICUAS\n\t\t2\n\t\t57\n\t\t34\n\t\t23\n\t\t5\n\t\n\t\n\t\tLAS ESCOBILLAS\n\t\t2\n\t\t86\n\t\t44\n\t\t42\n\t\t5\n\t\n\t\n\t\tLAS PUENTES\n\t\t3\n\t\t156\n\t\t71\n\t\t85\n\t\t10\n\t\n\t\n\t\tLOS ATES [HACIENDA]\n\t\t2\n\t\t161\n\t\t76\n\t\t85\n\t\t9\n\t\n\t\n\t\tLOS MORALES\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS NEGROS\n\t\t2\n\t\t66\n\t\t31\n\t\t35\n\t\t4\n\t\n\t\n\t\tLOS PAREOS\n\t\t2\n\t\t60\n\t\t34\n\t\t26\n\t\t3\n\t\n\t\n\t\tMANZANILLO CHICO\n\t\t2\n\t\t13\n\t\t3\n\t\t10\n\t\t2\n\t\n\t\n\t\tMESA DEL MANZANILLO\n\t\t2\n\t\t71\n\t\t27\n\t\t44\n\t\t2\n\t\n\t\n\t\tOJO ZARCO\n\t\t2\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tPABLO CUIN\n\t\t3\n\t\t308\n\t\t144\n\t\t164\n\t\t13\n\t\n\t\n\t\tPALMA CUATA\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tPALMA DE ALTAMIRA (PALMA DE JUÁREZ)\n\t\t4\n\t\t299\n\t\t143\n\t\t156\n\t\t17\n\t\n\t\n\t\tPASO REAL\n\t\t2\n\t\t78\n\t\t37\n\t\t41\n\t\t4\n\t\n\t\n\t\tPLANILLAS\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tPUENTECILLAS\n\t\t2\n\t\t46\n\t\t28\n\t\t18\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO (COLIMILLA)\n\t\t3\n\t\t25\n\t\t14\n\t\t11\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO DE CHUÉN\n\t\t1\n\t\t46\n\t\t26\n\t\t20\n\t\t3\n\t\n\t\n\t\tRINCÓN DE LA YERBABUENA (RINCÓN DEL BURRO)\n\t\t1\n\t\t12\n\t\t8\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN CAYETANO\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE CHUÉN\n\t\t3\n\t\t208\n\t\t107\n\t\t101\n\t\t12\n\t\n\t\n\t\tSAN JOSÉ DE LAS CAÑAS\n\t\t3\n\t\t66\n\t\t33\n\t\t33\n\t\t6\n\t\n\t\n\t\tTAHUENAMBO (TABUENAMBO)\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tTIPITARILLO\n\t\t3\n\t\t159\n\t\t75\n\t\t84\n\t\t10\n\t\n\t\n\t\tTIRINDIRITZIO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tTRES PALOS\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tTUNÁCUARO\n\t\t2\n\t\t93\n\t\t50\n\t\t43\n\t\t8\n\t\n\t\n\t\tURAPA\n\t\t4\n\t\t352\n\t\t167\n\t\t185\n\t\t18\n\t\n\t\n\t\tZATZIO\n\t\t4\n\t\t330\n\t\t176\n\t\t154\n\t\t18\n\t\n\t\n\t\tTOTAL\n\t\t163\n\t\t10,447\n\t\t5,316\n\t\t5,131\n\t\t567\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ARIO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁFRICA",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2",
+          "AGUA ZARCA DE ORIENTE (EL CAZO)",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "ARAPARÍCUARO",
+          "3",
+          "113",
+          "59",
+          "54",
+          "8",
+          "ARIO DE ROSALES",
+          "23",
+          "5,204",
+          "2,728",
+          "2,476",
+          "241",
+          "BUEN SUCESO",
+          "3",
+          "40",
+          "14",
+          "26",
+          "4",
+          "BUENA VISTA DEL SUR",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1",
+          "CHUÉN",
+          "2",
+          "175",
+          "80",
+          "95",
+          "7",
+          "CUARAYO",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "DOCTOR MIGUEL SILVA MACÍAS",
+          "4",
+          "759",
+          "374",
+          "385",
+          "36",
+          "EL AGOSTADERO",
+          "3",
+          "49",
+          "20",
+          "29",
+          "4",
+          "EL ARENAL",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6",
+          "EL CALABOZO",
+          "3",
+          "97",
+          "55",
+          "42",
+          "6",
+          "EL CANGREJO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL CARRIZALILLO DE URAPA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "EL CHUPADERO",
+          "3",
+          "202",
+          "103",
+          "99",
+          "12",
+          "EL LIMÓN DEL TEJAMANIL",
+          "1",
+          "3",
+          "1",
+          "2",
+          "2",
+          "EL MORAL",
+          "2",
+          "75",
+          "40",
+          "35",
+          "5",
+          "EL MORTERO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2",
+          "EL ORTIGALITO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "4",
+          "EL POTRERO DE PABLO CUIN (ALTITO DE PABLO CUIN)",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2",
+          "EL PUENTE ALTO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2",
+          "EL SAUCITO (POTRERO DE LOS BUEYES)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3",
+          "EL TEJAMANIL",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "EL TEPAMAL",
+          "4",
+          "341",
+          "183",
+          "158",
+          "16",
+          "EL VALLE (VALLE NUEVO)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2",
+          "LA BARRA (LA BARRA GRANDE)",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3",
+          "LA BARRITA (LA BARRA CHICA)",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2",
+          "LA CANTERA",
+          "2",
+          "31",
+          "21",
+          "10",
+          "2",
+          "LA CEBADILLA (LA HACIENDA)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "LA PAROTA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "LA PLAYA DE GUADALUPE",
+          "4",
+          "104",
+          "47",
+          "57",
+          "11",
+          "LA SANDÍA",
+          "3",
+          "40",
+          "24",
+          "16",
+          "4",
+          "LAS CANALEJAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3",
+          "LAS CARÁMICUAS",
+          "2",
+          "57",
+          "34",
+          "23",
+          "5",
+          "LAS ESCOBILLAS",
+          "2",
+          "86",
+          "44",
+          "42",
+          "5",
+          "LAS PUENTES",
+          "3",
+          "156",
+          "71",
+          "85",
+          "10",
+          "LOS ATES [HACIENDA]",
+          "2",
+          "161",
+          "76",
+          "85",
+          "9",
+          "LOS MORALES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1",
+          "LOS NEGROS",
+          "2",
+          "66",
+          "31",
+          "35",
+          "4",
+          "LOS PAREOS",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3",
+          "MANZANILLO CHICO",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2",
+          "MESA DEL MANZANILLO",
+          "2",
+          "71",
+          "27",
+          "44",
+          "2",
+          "OJO ZARCO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2",
+          "PABLO CUIN",
+          "3",
+          "308",
+          "144",
+          "164",
+          "13",
+          "PALMA CUATA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "PALMA DE ALTAMIRA (PALMA DE JUÁREZ)",
+          "4",
+          "299",
+          "143",
+          "156",
+          "17",
+          "PASO REAL",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4",
+          "PLANILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "PUENTECILLAS",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3",
+          "RANCHO NUEVO (COLIMILLA)",
+          "3",
+          "25",
+          "14",
+          "11",
+          "3",
+          "RANCHO NUEVO DE CHUÉN",
+          "1",
+          "46",
+          "26",
+          "20",
+          "3",
+          "RINCÓN DE LA YERBABUENA (RINCÓN DEL BURRO)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1",
+          "SAN CAYETANO",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2",
+          "SAN JOSÉ DE CHUÉN",
+          "3",
+          "208",
+          "107",
+          "101",
+          "12",
+          "SAN JOSÉ DE LAS CAÑAS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6",
+          "TAHUENAMBO (TABUENAMBO)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "TIPITARILLO",
+          "3",
+          "159",
+          "75",
+          "84",
+          "10",
+          "TIRINDIRITZIO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "TRES PALOS",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "TUNÁCUARO",
+          "2",
+          "93",
+          "50",
+          "43",
+          "8",
+          "URAPA",
+          "4",
+          "352",
+          "167",
+          "185",
+          "18",
+          "ZATZIO",
+          "4",
+          "330",
+          "176",
+          "154",
+          "18",
+          "TOTAL",
+          "163",
+          "10,447",
+          "5,316",
+          "5,131",
+          "567",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ARIO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁFRICA",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DE ORIENTE (EL CAZO)",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "ARAPARÍCUARO",
+          "3",
+          "113",
+          "59",
+          "54",
+          "8"
+        ],
+        [
+          "ARIO DE ROSALES",
+          "23",
+          "5,204",
+          "2,728",
+          "2,476",
+          "241"
+        ],
+        [
+          "BUEN SUCESO",
+          "3",
+          "40",
+          "14",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA VISTA DEL SUR",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "CHUÉN",
+          "2",
+          "175",
+          "80",
+          "95",
+          "7"
+        ],
+        [
+          "CUARAYO",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "DOCTOR MIGUEL SILVA MACÍAS",
+          "4",
+          "759",
+          "374",
+          "385",
+          "36"
+        ],
+        [
+          "EL AGOSTADERO",
+          "3",
+          "49",
+          "20",
+          "29",
+          "4"
+        ],
+        [
+          "EL ARENAL",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "EL CALABOZO",
+          "3",
+          "97",
+          "55",
+          "42",
+          "6"
+        ],
+        [
+          "EL CANGREJO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL CARRIZALILLO DE URAPA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL CHUPADERO",
+          "3",
+          "202",
+          "103",
+          "99",
+          "12"
+        ],
+        [
+          "EL LIMÓN DEL TEJAMANIL",
+          "1",
+          "3",
+          "1",
+          "2",
+          "2"
+        ],
+        [
+          "EL MORAL",
+          "2",
+          "75",
+          "40",
+          "35",
+          "5"
+        ],
+        [
+          "EL MORTERO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "EL ORTIGALITO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "4"
+        ],
+        [
+          "EL POTRERO DE PABLO CUIN (ALTITO DE PABLO CUIN)",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL PUENTE ALTO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "EL SAUCITO (POTRERO DE LOS BUEYES)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "EL TEJAMANIL",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "EL TEPAMAL",
+          "4",
+          "341",
+          "183",
+          "158",
+          "16"
+        ],
+        [
+          "EL VALLE (VALLE NUEVO)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "LA BARRA (LA BARRA GRANDE)",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "LA BARRITA (LA BARRA CHICA)",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "LA CANTERA",
+          "2",
+          "31",
+          "21",
+          "10",
+          "2"
+        ],
+        [
+          "LA CEBADILLA (LA HACIENDA)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA PLAYA DE GUADALUPE",
+          "4",
+          "104",
+          "47",
+          "57",
+          "11"
+        ],
+        [
+          "LA SANDÍA",
+          "3",
+          "40",
+          "24",
+          "16",
+          "4"
+        ],
+        [
+          "LAS CANALEJAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3"
+        ],
+        [
+          "LAS CARÁMICUAS",
+          "2",
+          "57",
+          "34",
+          "23",
+          "5"
+        ],
+        [
+          "LAS ESCOBILLAS",
+          "2",
+          "86",
+          "44",
+          "42",
+          "5"
+        ],
+        [
+          "LAS PUENTES",
+          "3",
+          "156",
+          "71",
+          "85",
+          "10"
+        ],
+        [
+          "LOS ATES [HACIENDA]",
+          "2",
+          "161",
+          "76",
+          "85",
+          "9"
+        ],
+        [
+          "LOS MORALES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LOS NEGROS",
+          "2",
+          "66",
+          "31",
+          "35",
+          "4"
+        ],
+        [
+          "LOS PAREOS",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3"
+        ],
+        [
+          "MANZANILLO CHICO",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "MESA DEL MANZANILLO",
+          "2",
+          "71",
+          "27",
+          "44",
+          "2"
+        ],
+        [
+          "OJO ZARCO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "PABLO CUIN",
+          "3",
+          "308",
+          "144",
+          "164",
+          "13"
+        ],
+        [
+          "PALMA CUATA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "PALMA DE ALTAMIRA (PALMA DE JUÁREZ)",
+          "4",
+          "299",
+          "143",
+          "156",
+          "17"
+        ],
+        [
+          "PASO REAL",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4"
+        ],
+        [
+          "PLANILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PUENTECILLAS",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO (COLIMILLA)",
+          "3",
+          "25",
+          "14",
+          "11",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO DE CHUÉN",
+          "1",
+          "46",
+          "26",
+          "20",
+          "3"
+        ],
+        [
+          "RINCÓN DE LA YERBABUENA (RINCÓN DEL BURRO)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "SAN CAYETANO",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CHUÉN",
+          "3",
+          "208",
+          "107",
+          "101",
+          "12"
+        ],
+        [
+          "SAN JOSÉ DE LAS CAÑAS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6"
+        ],
+        [
+          "TAHUENAMBO (TABUENAMBO)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "TIPITARILLO",
+          "3",
+          "159",
+          "75",
+          "84",
+          "10"
+        ],
+        [
+          "TIRINDIRITZIO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "TRES PALOS",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "TUNÁCUARO",
+          "2",
+          "93",
+          "50",
+          "43",
+          "8"
+        ],
+        [
+          "URAPA",
+          "4",
+          "352",
+          "167",
+          "185",
+          "18"
+        ],
+        [
+          "ZATZIO",
+          "4",
+          "330",
+          "176",
+          "154",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "163",
+          "10,447",
+          "5,316",
+          "5,131",
+          "567"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ARIO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁFRICA",
+          "2",
+          "11",
+          "2",
+          "9",
+          "2"
+        ],
+        [
+          "AGUA ZARCA DE ORIENTE (EL CAZO)",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "ARAPARÍCUARO",
+          "3",
+          "113",
+          "59",
+          "54",
+          "8"
+        ],
+        [
+          "ARIO DE ROSALES",
+          "23",
+          "5,204",
+          "2,728",
+          "2,476",
+          "241"
+        ],
+        [
+          "BUEN SUCESO",
+          "3",
+          "40",
+          "14",
+          "26",
+          "4"
+        ],
+        [
+          "BUENA VISTA DEL SUR",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "CHUÉN",
+          "2",
+          "175",
+          "80",
+          "95",
+          "7"
+        ],
+        [
+          "CUARAYO",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "DOCTOR MIGUEL SILVA MACÍAS",
+          "4",
+          "759",
+          "374",
+          "385",
+          "36"
+        ],
+        [
+          "EL AGOSTADERO",
+          "3",
+          "49",
+          "20",
+          "29",
+          "4"
+        ],
+        [
+          "EL ARENAL",
+          "3",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "EL CALABOZO",
+          "3",
+          "97",
+          "55",
+          "42",
+          "6"
+        ],
+        [
+          "EL CANGREJO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL CARRIZALILLO DE URAPA",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "EL CHUPADERO",
+          "3",
+          "202",
+          "103",
+          "99",
+          "12"
+        ],
+        [
+          "EL LIMÓN DEL TEJAMANIL",
+          "1",
+          "3",
+          "1",
+          "2",
+          "2"
+        ],
+        [
+          "EL MORAL",
+          "2",
+          "75",
+          "40",
+          "35",
+          "5"
+        ],
+        [
+          "EL MORTERO",
+          "2",
+          "4",
+          "1",
+          "3",
+          "2"
+        ],
+        [
+          "EL ORTIGALITO",
+          "3",
+          "73",
+          "32",
+          "41",
+          "4"
+        ],
+        [
+          "EL POTRERO DE PABLO CUIN (ALTITO DE PABLO CUIN)",
+          "2",
+          "25",
+          "10",
+          "15",
+          "2"
+        ],
+        [
+          "EL PUENTE ALTO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "EL SAUCITO (POTRERO DE LOS BUEYES)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "EL TEJAMANIL",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "EL TEPAMAL",
+          "4",
+          "341",
+          "183",
+          "158",
+          "16"
+        ],
+        [
+          "EL VALLE (VALLE NUEVO)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "LA BARRA (LA BARRA GRANDE)",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "LA BARRITA (LA BARRA CHICA)",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "LA CANTERA",
+          "2",
+          "31",
+          "21",
+          "10",
+          "2"
+        ],
+        [
+          "LA CEBADILLA (LA HACIENDA)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LA PAROTA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA PLAYA DE GUADALUPE",
+          "4",
+          "104",
+          "47",
+          "57",
+          "11"
+        ],
+        [
+          "LA SANDÍA",
+          "3",
+          "40",
+          "24",
+          "16",
+          "4"
+        ],
+        [
+          "LAS CANALEJAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3"
+        ],
+        [
+          "LAS CARÁMICUAS",
+          "2",
+          "57",
+          "34",
+          "23",
+          "5"
+        ],
+        [
+          "LAS ESCOBILLAS",
+          "2",
+          "86",
+          "44",
+          "42",
+          "5"
+        ],
+        [
+          "LAS PUENTES",
+          "3",
+          "156",
+          "71",
+          "85",
+          "10"
+        ],
+        [
+          "LOS ATES [HACIENDA]",
+          "2",
+          "161",
+          "76",
+          "85",
+          "9"
+        ],
+        [
+          "LOS MORALES",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LOS NEGROS",
+          "2",
+          "66",
+          "31",
+          "35",
+          "4"
+        ],
+        [
+          "LOS PAREOS",
+          "2",
+          "60",
+          "34",
+          "26",
+          "3"
+        ],
+        [
+          "MANZANILLO CHICO",
+          "2",
+          "13",
+          "3",
+          "10",
+          "2"
+        ],
+        [
+          "MESA DEL MANZANILLO",
+          "2",
+          "71",
+          "27",
+          "44",
+          "2"
+        ],
+        [
+          "OJO ZARCO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "PABLO CUIN",
+          "3",
+          "308",
+          "144",
+          "164",
+          "13"
+        ],
+        [
+          "PALMA CUATA",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "PALMA DE ALTAMIRA (PALMA DE JUÁREZ)",
+          "4",
+          "299",
+          "143",
+          "156",
+          "17"
+        ],
+        [
+          "PASO REAL",
+          "2",
+          "78",
+          "37",
+          "41",
+          "4"
+        ],
+        [
+          "PLANILLAS",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PUENTECILLAS",
+          "2",
+          "46",
+          "28",
+          "18",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO (COLIMILLA)",
+          "3",
+          "25",
+          "14",
+          "11",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO DE CHUÉN",
+          "1",
+          "46",
+          "26",
+          "20",
+          "3"
+        ],
+        [
+          "RINCÓN DE LA YERBABUENA (RINCÓN DEL BURRO)",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "SAN CAYETANO",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE CHUÉN",
+          "3",
+          "208",
+          "107",
+          "101",
+          "12"
+        ],
+        [
+          "SAN JOSÉ DE LAS CAÑAS",
+          "3",
+          "66",
+          "33",
+          "33",
+          "6"
+        ],
+        [
+          "TAHUENAMBO (TABUENAMBO)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "TIPITARILLO",
+          "3",
+          "159",
+          "75",
+          "84",
+          "10"
+        ],
+        [
+          "TIRINDIRITZIO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "TRES PALOS",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "TUNÁCUARO",
+          "2",
+          "93",
+          "50",
+          "43",
+          "8"
+        ],
+        [
+          "URAPA",
+          "4",
+          "352",
+          "167",
+          "185",
+          "18"
+        ],
+        [
+          "ZATZIO",
+          "4",
+          "330",
+          "176",
+          "154",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "163",
+          "10,447",
+          "5,316",
+          "5,131",
+          "567"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:17:42.400Z"
+}

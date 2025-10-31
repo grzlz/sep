@@ -1,0 +1,736 @@
+{
+  "municipality": "CHIETLA",
+  "municipalityCode": "051",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CHIETLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUEHUETZINGO\n\t\t4\n\t\t241\n\t\t134\n\t\t107\n\t\t17\n\t\n\t\n\t\tATENCINGO\n\t\t14\n\t\t2,479\n\t\t1,271\n\t\t1,208\n\t\t197\n\t\n\t\n\t\tBUENAVISTA DE BENITO JUÁREZ\n\t\t4\n\t\t423\n\t\t217\n\t\t206\n\t\t22\n\t\n\t\n\t\tCHIETLA\n\t\t11\n\t\t2,038\n\t\t1,014\n\t\t1,024\n\t\t147\n\t\n\t\n\t\tCOFRADÍA\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t2\n\t\n\t\n\t\tDON ROQUE\n\t\t3\n\t\t75\n\t\t38\n\t\t37\n\t\t5\n\t\n\t\n\t\tEL CAPIRE\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL CASCALOTE (LÁZARO CÁRDENAS)\n\t\t2\n\t\t53\n\t\t24\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL ÓRGANO\n\t\t1\n\t\t72\n\t\t40\n\t\t32\n\t\t3\n\t\n\t\n\t\tESCAPE DE LAGUNILLAS\n\t\t7\n\t\t1,076\n\t\t532\n\t\t544\n\t\t57\n\t\n\t\n\t\tEX-HACIENDA DE JALTEPEC\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PALMA (EL TRINQUETE)\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t4\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t74\n\t\t39\n\t\t35\n\t\t4\n\t\n\t\n\t\tLAGUNILLAS DE RAYÓN (ALCHICHICA)\n\t\t4\n\t\t231\n\t\t105\n\t\t126\n\t\t17\n\t\n\t\n\t\tPUEBLO NUEVO DE PORFIRIO DÍAZ\n\t\t3\n\t\t185\n\t\t99\n\t\t86\n\t\t9\n\t\n\t\n\t\tSAN ANTONIO COAYUCA\n\t\t4\n\t\t269\n\t\t131\n\t\t138\n\t\t16\n\t\n\t\n\t\tSAN ISIDRO EL ORGANAL\n\t\t2\n\t\t66\n\t\t33\n\t\t33\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO LA SÁBILA\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ CHIETLA\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t0\n\t\n\t\n\t\tSAN JOSÉ LOS LAURELES\n\t\t3\n\t\t54\n\t\t22\n\t\t32\n\t\t4\n\t\n\t\n\t\tSAN LUCAS HUAJOTITLÁN\n\t\t3\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL LA TOMA\n\t\t2\n\t\t105\n\t\t54\n\t\t51\n\t\t6\n\t\n\t\n\t\tSAN MIGUEL TECOLACIO\n\t\t3\n\t\t168\n\t\t95\n\t\t73\n\t\t9\n\t\n\t\n\t\tSAN NICOLÁS TENEXCALCO\n\t\t4\n\t\t245\n\t\t122\n\t\t123\n\t\t13\n\t\n\t\n\t\tSAN VICENTE DE PAUL\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA CRUZ EL MIRADOR\n\t\t2\n\t\t70\n\t\t35\n\t\t35\n\t\t3\n\t\n\t\n\t\tTEMAXCALAPA DE GABINO BARREDA\n\t\t4\n\t\t142\n\t\t70\n\t\t72\n\t\t10\n\t\n\t\n\t\tTZOMPAHUACÁN\n\t\t4\n\t\t127\n\t\t60\n\t\t67\n\t\t8\n\t\n\t\n\t\tVIBORILLAS DE HIDALGO\n\t\t4\n\t\t221\n\t\t109\n\t\t112\n\t\t14\n\t\n\t\n\t\tTOTAL\n\t\t103\n\t\t8,532\n\t\t4,308\n\t\t4,224\n\t\t582\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CHIETLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUEHUETZINGO",
+          "4",
+          "241",
+          "134",
+          "107",
+          "17",
+          "ATENCINGO",
+          "14",
+          "2,479",
+          "1,271",
+          "1,208",
+          "197",
+          "BUENAVISTA DE BENITO JUÁREZ",
+          "4",
+          "423",
+          "217",
+          "206",
+          "22",
+          "CHIETLA",
+          "11",
+          "2,038",
+          "1,014",
+          "1,024",
+          "147",
+          "COFRADÍA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2",
+          "DON ROQUE",
+          "3",
+          "75",
+          "38",
+          "37",
+          "5",
+          "EL CAPIRE",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL CASCALOTE (LÁZARO CÁRDENAS)",
+          "2",
+          "53",
+          "24",
+          "29",
+          "3",
+          "EL ÓRGANO",
+          "1",
+          "72",
+          "40",
+          "32",
+          "3",
+          "ESCAPE DE LAGUNILLAS",
+          "7",
+          "1,076",
+          "532",
+          "544",
+          "57",
+          "EX-HACIENDA DE JALTEPEC",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "LA PALMA (EL TRINQUETE)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "4",
+          "LA SOLEDAD",
+          "3",
+          "74",
+          "39",
+          "35",
+          "4",
+          "LAGUNILLAS DE RAYÓN (ALCHICHICA)",
+          "4",
+          "231",
+          "105",
+          "126",
+          "17",
+          "PUEBLO NUEVO DE PORFIRIO DÍAZ",
+          "3",
+          "185",
+          "99",
+          "86",
+          "9",
+          "SAN ANTONIO COAYUCA",
+          "4",
+          "269",
+          "131",
+          "138",
+          "16",
+          "SAN ISIDRO EL ORGANAL",
+          "2",
+          "66",
+          "33",
+          "33",
+          "4",
+          "SAN ISIDRO LA SÁBILA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2",
+          "SAN JOSÉ CHIETLA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "0",
+          "SAN JOSÉ LOS LAURELES",
+          "3",
+          "54",
+          "22",
+          "32",
+          "4",
+          "SAN LUCAS HUAJOTITLÁN",
+          "3",
+          "14",
+          "9",
+          "5",
+          "2",
+          "SAN MIGUEL LA TOMA",
+          "2",
+          "105",
+          "54",
+          "51",
+          "6",
+          "SAN MIGUEL TECOLACIO",
+          "3",
+          "168",
+          "95",
+          "73",
+          "9",
+          "SAN NICOLÁS TENEXCALCO",
+          "4",
+          "245",
+          "122",
+          "123",
+          "13",
+          "SAN VICENTE DE PAUL",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SANTA CRUZ EL MIRADOR",
+          "2",
+          "70",
+          "35",
+          "35",
+          "3",
+          "TEMAXCALAPA DE GABINO BARREDA",
+          "4",
+          "142",
+          "70",
+          "72",
+          "10",
+          "TZOMPAHUACÁN",
+          "4",
+          "127",
+          "60",
+          "67",
+          "8",
+          "VIBORILLAS DE HIDALGO",
+          "4",
+          "221",
+          "109",
+          "112",
+          "14",
+          "TOTAL",
+          "103",
+          "8,532",
+          "4,308",
+          "4,224",
+          "582",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CHIETLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEHUETZINGO",
+          "4",
+          "241",
+          "134",
+          "107",
+          "17"
+        ],
+        [
+          "ATENCINGO",
+          "14",
+          "2,479",
+          "1,271",
+          "1,208",
+          "197"
+        ],
+        [
+          "BUENAVISTA DE BENITO JUÁREZ",
+          "4",
+          "423",
+          "217",
+          "206",
+          "22"
+        ],
+        [
+          "CHIETLA",
+          "11",
+          "2,038",
+          "1,014",
+          "1,024",
+          "147"
+        ],
+        [
+          "COFRADÍA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "DON ROQUE",
+          "3",
+          "75",
+          "38",
+          "37",
+          "5"
+        ],
+        [
+          "EL CAPIRE",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL CASCALOTE (LÁZARO CÁRDENAS)",
+          "2",
+          "53",
+          "24",
+          "29",
+          "3"
+        ],
+        [
+          "EL ÓRGANO",
+          "1",
+          "72",
+          "40",
+          "32",
+          "3"
+        ],
+        [
+          "ESCAPE DE LAGUNILLAS",
+          "7",
+          "1,076",
+          "532",
+          "544",
+          "57"
+        ],
+        [
+          "EX-HACIENDA DE JALTEPEC",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA PALMA (EL TRINQUETE)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "4"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "74",
+          "39",
+          "35",
+          "4"
+        ],
+        [
+          "LAGUNILLAS DE RAYÓN (ALCHICHICA)",
+          "4",
+          "231",
+          "105",
+          "126",
+          "17"
+        ],
+        [
+          "PUEBLO NUEVO DE PORFIRIO DÍAZ",
+          "3",
+          "185",
+          "99",
+          "86",
+          "9"
+        ],
+        [
+          "SAN ANTONIO COAYUCA",
+          "4",
+          "269",
+          "131",
+          "138",
+          "16"
+        ],
+        [
+          "SAN ISIDRO EL ORGANAL",
+          "2",
+          "66",
+          "33",
+          "33",
+          "4"
+        ],
+        [
+          "SAN ISIDRO LA SÁBILA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "SAN JOSÉ CHIETLA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "0"
+        ],
+        [
+          "SAN JOSÉ LOS LAURELES",
+          "3",
+          "54",
+          "22",
+          "32",
+          "4"
+        ],
+        [
+          "SAN LUCAS HUAJOTITLÁN",
+          "3",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "SAN MIGUEL LA TOMA",
+          "2",
+          "105",
+          "54",
+          "51",
+          "6"
+        ],
+        [
+          "SAN MIGUEL TECOLACIO",
+          "3",
+          "168",
+          "95",
+          "73",
+          "9"
+        ],
+        [
+          "SAN NICOLÁS TENEXCALCO",
+          "4",
+          "245",
+          "122",
+          "123",
+          "13"
+        ],
+        [
+          "SAN VICENTE DE PAUL",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA CRUZ EL MIRADOR",
+          "2",
+          "70",
+          "35",
+          "35",
+          "3"
+        ],
+        [
+          "TEMAXCALAPA DE GABINO BARREDA",
+          "4",
+          "142",
+          "70",
+          "72",
+          "10"
+        ],
+        [
+          "TZOMPAHUACÁN",
+          "4",
+          "127",
+          "60",
+          "67",
+          "8"
+        ],
+        [
+          "VIBORILLAS DE HIDALGO",
+          "4",
+          "221",
+          "109",
+          "112",
+          "14"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "8,532",
+          "4,308",
+          "4,224",
+          "582"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: CHIETLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUEHUETZINGO",
+          "4",
+          "241",
+          "134",
+          "107",
+          "17"
+        ],
+        [
+          "ATENCINGO",
+          "14",
+          "2,479",
+          "1,271",
+          "1,208",
+          "197"
+        ],
+        [
+          "BUENAVISTA DE BENITO JUÁREZ",
+          "4",
+          "423",
+          "217",
+          "206",
+          "22"
+        ],
+        [
+          "CHIETLA",
+          "11",
+          "2,038",
+          "1,014",
+          "1,024",
+          "147"
+        ],
+        [
+          "COFRADÍA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "DON ROQUE",
+          "3",
+          "75",
+          "38",
+          "37",
+          "5"
+        ],
+        [
+          "EL CAPIRE",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL CASCALOTE (LÁZARO CÁRDENAS)",
+          "2",
+          "53",
+          "24",
+          "29",
+          "3"
+        ],
+        [
+          "EL ÓRGANO",
+          "1",
+          "72",
+          "40",
+          "32",
+          "3"
+        ],
+        [
+          "ESCAPE DE LAGUNILLAS",
+          "7",
+          "1,076",
+          "532",
+          "544",
+          "57"
+        ],
+        [
+          "EX-HACIENDA DE JALTEPEC",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LA PALMA (EL TRINQUETE)",
+          "2",
+          "24",
+          "13",
+          "11",
+          "4"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "74",
+          "39",
+          "35",
+          "4"
+        ],
+        [
+          "LAGUNILLAS DE RAYÓN (ALCHICHICA)",
+          "4",
+          "231",
+          "105",
+          "126",
+          "17"
+        ],
+        [
+          "PUEBLO NUEVO DE PORFIRIO DÍAZ",
+          "3",
+          "185",
+          "99",
+          "86",
+          "9"
+        ],
+        [
+          "SAN ANTONIO COAYUCA",
+          "4",
+          "269",
+          "131",
+          "138",
+          "16"
+        ],
+        [
+          "SAN ISIDRO EL ORGANAL",
+          "2",
+          "66",
+          "33",
+          "33",
+          "4"
+        ],
+        [
+          "SAN ISIDRO LA SÁBILA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "2"
+        ],
+        [
+          "SAN JOSÉ CHIETLA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "0"
+        ],
+        [
+          "SAN JOSÉ LOS LAURELES",
+          "3",
+          "54",
+          "22",
+          "32",
+          "4"
+        ],
+        [
+          "SAN LUCAS HUAJOTITLÁN",
+          "3",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "SAN MIGUEL LA TOMA",
+          "2",
+          "105",
+          "54",
+          "51",
+          "6"
+        ],
+        [
+          "SAN MIGUEL TECOLACIO",
+          "3",
+          "168",
+          "95",
+          "73",
+          "9"
+        ],
+        [
+          "SAN NICOLÁS TENEXCALCO",
+          "4",
+          "245",
+          "122",
+          "123",
+          "13"
+        ],
+        [
+          "SAN VICENTE DE PAUL",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA CRUZ EL MIRADOR",
+          "2",
+          "70",
+          "35",
+          "35",
+          "3"
+        ],
+        [
+          "TEMAXCALAPA DE GABINO BARREDA",
+          "4",
+          "142",
+          "70",
+          "72",
+          "10"
+        ],
+        [
+          "TZOMPAHUACÁN",
+          "4",
+          "127",
+          "60",
+          "67",
+          "8"
+        ],
+        [
+          "VIBORILLAS DE HIDALGO",
+          "4",
+          "221",
+          "109",
+          "112",
+          "14"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "8,532",
+          "4,308",
+          "4,224",
+          "582"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:55.358Z"
+}

@@ -1,0 +1,1374 @@
+{
+  "municipality": "SAN FRANCISCO DEL RINCÓN",
+  "municipalityCode": "031",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SAN FRANCISCO DEL RINCÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO SECO\n\t\t2\n\t\t76\n\t\t42\n\t\t34\n\t\t3\n\t\n\t\n\t\tBARRIO DE GUADALUPE DEL MEZQUITILLO\n\t\t4\n\t\t615\n\t\t330\n\t\t285\n\t\t23\n\t\n\t\n\t\tCALIFORNIA\n\t\t2\n\t\t54\n\t\t25\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL CENTRO\n\t\t2\n\t\t73\n\t\t38\n\t\t35\n\t\t5\n\t\n\t\n\t\tEL DESAGÜE\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL GUAJE\n\t\t2\n\t\t53\n\t\t26\n\t\t27\n\t\t3\n\t\n\t\n\t\tEL JUNCO\n\t\t3\n\t\t88\n\t\t41\n\t\t47\n\t\t5\n\t\n\t\n\t\tEL LIEBRERO\n\t\t2\n\t\t59\n\t\t29\n\t\t30\n\t\t3\n\t\n\t\n\t\tEL LINDERO (EL LINDERO VIEJO)\n\t\t2\n\t\t110\n\t\t55\n\t\t55\n\t\t5\n\t\n\t\n\t\tEL MAGUEY\n\t\t3\n\t\t466\n\t\t225\n\t\t241\n\t\t17\n\t\n\t\n\t\tEL MEZQUITILLO\n\t\t2\n\t\t397\n\t\t198\n\t\t199\n\t\t16\n\t\n\t\n\t\tEL MOGOTE\n\t\t2\n\t\t94\n\t\t42\n\t\t52\n\t\t5\n\t\n\t\n\t\tEL MONTE DE LA CRUZ\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL NACIMIENTO\n\t\t4\n\t\t237\n\t\t126\n\t\t111\n\t\t14\n\t\n\t\n\t\tEL PANAL\n\t\t1\n\t\t84\n\t\t40\n\t\t44\n\t\t4\n\t\n\t\n\t\tEL PEDREGOSO\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t89\n\t\t45\n\t\t44\n\t\t4\n\t\n\t\n\t\tEL REPARO\n\t\t2\n\t\t36\n\t\t16\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL SALTO DE ABAJO\n\t\t2\n\t\t67\n\t\t31\n\t\t36\n\t\t4\n\t\n\t\n\t\tEL SALTO DE ARRIBA\n\t\t1\n\t\t74\n\t\t34\n\t\t40\n\t\t4\n\t\n\t\n\t\tEL SAUZ VIEJO\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL TEJOCOTE\n\t\t2\n\t\t49\n\t\t15\n\t\t34\n\t\t3\n\t\n\t\n\t\tEL TOMATE\n\t\t2\n\t\t80\n\t\t39\n\t\t41\n\t\t4\n\t\n\t\n\t\tESTACIÓN DE SAN FRANCISCO\n\t\t1\n\t\t79\n\t\t37\n\t\t42\n\t\t3\n\t\n\t\n\t\tFRACCIONAMIENTO EL REFUGIO\n\t\t1\n\t\t189\n\t\t87\n\t\t102\n\t\t6\n\t\n\t\n\t\tJALAPA\n\t\t2\n\t\t30\n\t\t13\n\t\t17\n\t\t2\n\t\n\t\n\t\tJARALILLO (EL GALLO)\n\t\t2\n\t\t122\n\t\t54\n\t\t68\n\t\t5\n\t\n\t\n\t\tJESÚS DEL MONTE (EL TALAYOTE)\n\t\t4\n\t\t502\n\t\t244\n\t\t258\n\t\t19\n\t\n\t\n\t\tLA GLORIA\n\t\t3\n\t\t191\n\t\t90\n\t\t101\n\t\t11\n\t\n\t\n\t\tLA MURALLA DEL CADILLAL\n\t\t4\n\t\t168\n\t\t85\n\t\t83\n\t\t10\n\t\n\t\n\t\tLOMA DE SAN RAFAEL\n\t\t3\n\t\t232\n\t\t110\n\t\t122\n\t\t11\n\t\n\t\n\t\tLOMA DEL LIEBRERO\n\t\t1\n\t\t18\n\t\t11\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS TANQUES DEL MEZQUITILLO\n\t\t2\n\t\t117\n\t\t42\n\t\t75\n\t\t5\n\t\n\t\n\t\tMARAVILLAS\n\t\t2\n\t\t76\n\t\t44\n\t\t32\n\t\t4\n\t\n\t\n\t\tMEXIQUITO\n\t\t3\n\t\t259\n\t\t118\n\t\t141\n\t\t12\n\t\n\t\n\t\tMONTERREY\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tNUEVO JESÚS DEL MONTE (LA GORDA ATORADA)\n\t\t2\n\t\t96\n\t\t49\n\t\t47\n\t\t5\n\t\n\t\n\t\tNUEVO MEXIQUITO (LA LOMA)\n\t\t3\n\t\t69\n\t\t40\n\t\t29\n\t\t4\n\t\n\t\n\t\tPEÑUELAS\n\t\t3\n\t\t266\n\t\t128\n\t\t138\n\t\t11\n\t\n\t\n\t\tPLAN LIBERTADOR (EL QUEMADO)\n\t\t2\n\t\t141\n\t\t72\n\t\t69\n\t\t6\n\t\n\t\n\t\tRANCHO GRANDE\n\t\t1\n\t\t57\n\t\t29\n\t\t28\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO DE LA PAZ\n\t\t1\n\t\t16\n\t\t4\n\t\t12\n\t\t1\n\t\n\t\n\t\tSAN CRISTÓBAL (EL CERRITO)\n\t\t6\n\t\t1,439\n\t\t754\n\t\t685\n\t\t53\n\t\n\t\n\t\tSAN FRANCISCO BUENAVISTA (EL CERRITO)\n\t\t2\n\t\t81\n\t\t40\n\t\t41\n\t\t5\n\t\n\t\n\t\tSAN FRANCISCO DEL RINCÓN\n\t\t109\n\t\t25,031\n\t\t13,471\n\t\t11,560\n\t\t1,597\n\t\n\t\n\t\tSAN IGNACIO DE HIDALGO\n\t\t6\n\t\t644\n\t\t311\n\t\t333\n\t\t26\n\t\n\t\n\t\tSAN ISIDRO DE LOS PALOMINOS\n\t\t4\n\t\t218\n\t\t104\n\t\t114\n\t\t13\n\t\n\t\n\t\tSAN JOSÉ DE LA BARRANCA (EL RANCHITO)\n\t\t4\n\t\t152\n\t\t73\n\t\t79\n\t\t9\n\t\n\t\n\t\tSAN JOSÉ DE LA CALERA\n\t\t2\n\t\t106\n\t\t53\n\t\t53\n\t\t5\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t99\n\t\t50\n\t\t49\n\t\t4\n\t\n\t\n\t\tSAN RAFAEL DE ESTALA\n\t\t2\n\t\t59\n\t\t25\n\t\t34\n\t\t3\n\t\n\t\n\t\tSAN ROQUE DE MONTES\n\t\t4\n\t\t669\n\t\t362\n\t\t307\n\t\t24\n\t\n\t\n\t\tSAN ROQUE DE TORRES\n\t\t3\n\t\t334\n\t\t174\n\t\t160\n\t\t11\n\t\n\t\n\t\tSAUZ DE ARMENTA\n\t\t4\n\t\t382\n\t\t198\n\t\t184\n\t\t17\n\t\n\t\n\t\tSILVA\n\t\t3\n\t\t257\n\t\t121\n\t\t136\n\t\t11\n\t\n\t\n\t\tTECOLOTE\n\t\t2\n\t\t71\n\t\t31\n\t\t40\n\t\t4\n\t\n\t\n\t\tTORTUGAS (LAS CONCHAS)\n\t\t3\n\t\t238\n\t\t120\n\t\t118\n\t\t11\n\t\n\t\n\t\tVISTA HERMOSA (EL TUZO)\n\t\t2\n\t\t75\n\t\t32\n\t\t43\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t248\n\t\t35,409\n\t\t18,636\n\t\t16,773\n\t\t2,054\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SAN FRANCISCO DEL RINCÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO SECO",
+          "2",
+          "76",
+          "42",
+          "34",
+          "3",
+          "BARRIO DE GUADALUPE DEL MEZQUITILLO",
+          "4",
+          "615",
+          "330",
+          "285",
+          "23",
+          "CALIFORNIA",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3",
+          "EL CENTRO",
+          "2",
+          "73",
+          "38",
+          "35",
+          "5",
+          "EL DESAGÜE",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3",
+          "EL GUAJE",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3",
+          "EL JUNCO",
+          "3",
+          "88",
+          "41",
+          "47",
+          "5",
+          "EL LIEBRERO",
+          "2",
+          "59",
+          "29",
+          "30",
+          "3",
+          "EL LINDERO (EL LINDERO VIEJO)",
+          "2",
+          "110",
+          "55",
+          "55",
+          "5",
+          "EL MAGUEY",
+          "3",
+          "466",
+          "225",
+          "241",
+          "17",
+          "EL MEZQUITILLO",
+          "2",
+          "397",
+          "198",
+          "199",
+          "16",
+          "EL MOGOTE",
+          "2",
+          "94",
+          "42",
+          "52",
+          "5",
+          "EL MONTE DE LA CRUZ",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "EL NACIMIENTO",
+          "4",
+          "237",
+          "126",
+          "111",
+          "14",
+          "EL PANAL",
+          "1",
+          "84",
+          "40",
+          "44",
+          "4",
+          "EL PEDREGOSO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "EL REFUGIO",
+          "2",
+          "89",
+          "45",
+          "44",
+          "4",
+          "EL REPARO",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3",
+          "EL SALTO DE ABAJO",
+          "2",
+          "67",
+          "31",
+          "36",
+          "4",
+          "EL SALTO DE ARRIBA",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4",
+          "EL SAUZ VIEJO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "EL TEJOCOTE",
+          "2",
+          "49",
+          "15",
+          "34",
+          "3",
+          "EL TOMATE",
+          "2",
+          "80",
+          "39",
+          "41",
+          "4",
+          "ESTACIÓN DE SAN FRANCISCO",
+          "1",
+          "79",
+          "37",
+          "42",
+          "3",
+          "FRACCIONAMIENTO EL REFUGIO",
+          "1",
+          "189",
+          "87",
+          "102",
+          "6",
+          "JALAPA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2",
+          "JARALILLO (EL GALLO)",
+          "2",
+          "122",
+          "54",
+          "68",
+          "5",
+          "JESÚS DEL MONTE (EL TALAYOTE)",
+          "4",
+          "502",
+          "244",
+          "258",
+          "19",
+          "LA GLORIA",
+          "3",
+          "191",
+          "90",
+          "101",
+          "11",
+          "LA MURALLA DEL CADILLAL",
+          "4",
+          "168",
+          "85",
+          "83",
+          "10",
+          "LOMA DE SAN RAFAEL",
+          "3",
+          "232",
+          "110",
+          "122",
+          "11",
+          "LOMA DEL LIEBRERO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1",
+          "LOS TANQUES DEL MEZQUITILLO",
+          "2",
+          "117",
+          "42",
+          "75",
+          "5",
+          "MARAVILLAS",
+          "2",
+          "76",
+          "44",
+          "32",
+          "4",
+          "MEXIQUITO",
+          "3",
+          "259",
+          "118",
+          "141",
+          "12",
+          "MONTERREY",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "NUEVO JESÚS DEL MONTE (LA GORDA ATORADA)",
+          "2",
+          "96",
+          "49",
+          "47",
+          "5",
+          "NUEVO MEXIQUITO (LA LOMA)",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4",
+          "PEÑUELAS",
+          "3",
+          "266",
+          "128",
+          "138",
+          "11",
+          "PLAN LIBERTADOR (EL QUEMADO)",
+          "2",
+          "141",
+          "72",
+          "69",
+          "6",
+          "RANCHO GRANDE",
+          "1",
+          "57",
+          "29",
+          "28",
+          "2",
+          "SAN ANTONIO DE LA PAZ",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1",
+          "SAN CRISTÓBAL (EL CERRITO)",
+          "6",
+          "1,439",
+          "754",
+          "685",
+          "53",
+          "SAN FRANCISCO BUENAVISTA (EL CERRITO)",
+          "2",
+          "81",
+          "40",
+          "41",
+          "5",
+          "SAN FRANCISCO DEL RINCÓN",
+          "109",
+          "25,031",
+          "13,471",
+          "11,560",
+          "1,597",
+          "SAN IGNACIO DE HIDALGO",
+          "6",
+          "644",
+          "311",
+          "333",
+          "26",
+          "SAN ISIDRO DE LOS PALOMINOS",
+          "4",
+          "218",
+          "104",
+          "114",
+          "13",
+          "SAN JOSÉ DE LA BARRANCA (EL RANCHITO)",
+          "4",
+          "152",
+          "73",
+          "79",
+          "9",
+          "SAN JOSÉ DE LA CALERA",
+          "2",
+          "106",
+          "53",
+          "53",
+          "5",
+          "SAN RAFAEL",
+          "2",
+          "99",
+          "50",
+          "49",
+          "4",
+          "SAN RAFAEL DE ESTALA",
+          "2",
+          "59",
+          "25",
+          "34",
+          "3",
+          "SAN ROQUE DE MONTES",
+          "4",
+          "669",
+          "362",
+          "307",
+          "24",
+          "SAN ROQUE DE TORRES",
+          "3",
+          "334",
+          "174",
+          "160",
+          "11",
+          "SAUZ DE ARMENTA",
+          "4",
+          "382",
+          "198",
+          "184",
+          "17",
+          "SILVA",
+          "3",
+          "257",
+          "121",
+          "136",
+          "11",
+          "TECOLOTE",
+          "2",
+          "71",
+          "31",
+          "40",
+          "4",
+          "TORTUGAS (LAS CONCHAS)",
+          "3",
+          "238",
+          "120",
+          "118",
+          "11",
+          "VISTA HERMOSA (EL TUZO)",
+          "2",
+          "75",
+          "32",
+          "43",
+          "5",
+          "TOTAL",
+          "248",
+          "35,409",
+          "18,636",
+          "16,773",
+          "2,054",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SAN FRANCISCO DEL RINCÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "76",
+          "42",
+          "34",
+          "3"
+        ],
+        [
+          "BARRIO DE GUADALUPE DEL MEZQUITILLO",
+          "4",
+          "615",
+          "330",
+          "285",
+          "23"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3"
+        ],
+        [
+          "EL CENTRO",
+          "2",
+          "73",
+          "38",
+          "35",
+          "5"
+        ],
+        [
+          "EL DESAGÜE",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "EL GUAJE",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "EL JUNCO",
+          "3",
+          "88",
+          "41",
+          "47",
+          "5"
+        ],
+        [
+          "EL LIEBRERO",
+          "2",
+          "59",
+          "29",
+          "30",
+          "3"
+        ],
+        [
+          "EL LINDERO (EL LINDERO VIEJO)",
+          "2",
+          "110",
+          "55",
+          "55",
+          "5"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "466",
+          "225",
+          "241",
+          "17"
+        ],
+        [
+          "EL MEZQUITILLO",
+          "2",
+          "397",
+          "198",
+          "199",
+          "16"
+        ],
+        [
+          "EL MOGOTE",
+          "2",
+          "94",
+          "42",
+          "52",
+          "5"
+        ],
+        [
+          "EL MONTE DE LA CRUZ",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL NACIMIENTO",
+          "4",
+          "237",
+          "126",
+          "111",
+          "14"
+        ],
+        [
+          "EL PANAL",
+          "1",
+          "84",
+          "40",
+          "44",
+          "4"
+        ],
+        [
+          "EL PEDREGOSO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "89",
+          "45",
+          "44",
+          "4"
+        ],
+        [
+          "EL REPARO",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "EL SALTO DE ABAJO",
+          "2",
+          "67",
+          "31",
+          "36",
+          "4"
+        ],
+        [
+          "EL SALTO DE ARRIBA",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4"
+        ],
+        [
+          "EL SAUZ VIEJO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL TEJOCOTE",
+          "2",
+          "49",
+          "15",
+          "34",
+          "3"
+        ],
+        [
+          "EL TOMATE",
+          "2",
+          "80",
+          "39",
+          "41",
+          "4"
+        ],
+        [
+          "ESTACIÓN DE SAN FRANCISCO",
+          "1",
+          "79",
+          "37",
+          "42",
+          "3"
+        ],
+        [
+          "FRACCIONAMIENTO EL REFUGIO",
+          "1",
+          "189",
+          "87",
+          "102",
+          "6"
+        ],
+        [
+          "JALAPA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "JARALILLO (EL GALLO)",
+          "2",
+          "122",
+          "54",
+          "68",
+          "5"
+        ],
+        [
+          "JESÚS DEL MONTE (EL TALAYOTE)",
+          "4",
+          "502",
+          "244",
+          "258",
+          "19"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "191",
+          "90",
+          "101",
+          "11"
+        ],
+        [
+          "LA MURALLA DEL CADILLAL",
+          "4",
+          "168",
+          "85",
+          "83",
+          "10"
+        ],
+        [
+          "LOMA DE SAN RAFAEL",
+          "3",
+          "232",
+          "110",
+          "122",
+          "11"
+        ],
+        [
+          "LOMA DEL LIEBRERO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LOS TANQUES DEL MEZQUITILLO",
+          "2",
+          "117",
+          "42",
+          "75",
+          "5"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "76",
+          "44",
+          "32",
+          "4"
+        ],
+        [
+          "MEXIQUITO",
+          "3",
+          "259",
+          "118",
+          "141",
+          "12"
+        ],
+        [
+          "MONTERREY",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO JESÚS DEL MONTE (LA GORDA ATORADA)",
+          "2",
+          "96",
+          "49",
+          "47",
+          "5"
+        ],
+        [
+          "NUEVO MEXIQUITO (LA LOMA)",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4"
+        ],
+        [
+          "PEÑUELAS",
+          "3",
+          "266",
+          "128",
+          "138",
+          "11"
+        ],
+        [
+          "PLAN LIBERTADOR (EL QUEMADO)",
+          "2",
+          "141",
+          "72",
+          "69",
+          "6"
+        ],
+        [
+          "RANCHO GRANDE",
+          "1",
+          "57",
+          "29",
+          "28",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE LA PAZ",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1"
+        ],
+        [
+          "SAN CRISTÓBAL (EL CERRITO)",
+          "6",
+          "1,439",
+          "754",
+          "685",
+          "53"
+        ],
+        [
+          "SAN FRANCISCO BUENAVISTA (EL CERRITO)",
+          "2",
+          "81",
+          "40",
+          "41",
+          "5"
+        ],
+        [
+          "SAN FRANCISCO DEL RINCÓN",
+          "109",
+          "25,031",
+          "13,471",
+          "11,560",
+          "1,597"
+        ],
+        [
+          "SAN IGNACIO DE HIDALGO",
+          "6",
+          "644",
+          "311",
+          "333",
+          "26"
+        ],
+        [
+          "SAN ISIDRO DE LOS PALOMINOS",
+          "4",
+          "218",
+          "104",
+          "114",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE LA BARRANCA (EL RANCHITO)",
+          "4",
+          "152",
+          "73",
+          "79",
+          "9"
+        ],
+        [
+          "SAN JOSÉ DE LA CALERA",
+          "2",
+          "106",
+          "53",
+          "53",
+          "5"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "99",
+          "50",
+          "49",
+          "4"
+        ],
+        [
+          "SAN RAFAEL DE ESTALA",
+          "2",
+          "59",
+          "25",
+          "34",
+          "3"
+        ],
+        [
+          "SAN ROQUE DE MONTES",
+          "4",
+          "669",
+          "362",
+          "307",
+          "24"
+        ],
+        [
+          "SAN ROQUE DE TORRES",
+          "3",
+          "334",
+          "174",
+          "160",
+          "11"
+        ],
+        [
+          "SAUZ DE ARMENTA",
+          "4",
+          "382",
+          "198",
+          "184",
+          "17"
+        ],
+        [
+          "SILVA",
+          "3",
+          "257",
+          "121",
+          "136",
+          "11"
+        ],
+        [
+          "TECOLOTE",
+          "2",
+          "71",
+          "31",
+          "40",
+          "4"
+        ],
+        [
+          "TORTUGAS (LAS CONCHAS)",
+          "3",
+          "238",
+          "120",
+          "118",
+          "11"
+        ],
+        [
+          "VISTA HERMOSA (EL TUZO)",
+          "2",
+          "75",
+          "32",
+          "43",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "248",
+          "35,409",
+          "18,636",
+          "16,773",
+          "2,054"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: SAN FRANCISCO DEL RINCÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO SECO",
+          "2",
+          "76",
+          "42",
+          "34",
+          "3"
+        ],
+        [
+          "BARRIO DE GUADALUPE DEL MEZQUITILLO",
+          "4",
+          "615",
+          "330",
+          "285",
+          "23"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3"
+        ],
+        [
+          "EL CENTRO",
+          "2",
+          "73",
+          "38",
+          "35",
+          "5"
+        ],
+        [
+          "EL DESAGÜE",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "EL GUAJE",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "EL JUNCO",
+          "3",
+          "88",
+          "41",
+          "47",
+          "5"
+        ],
+        [
+          "EL LIEBRERO",
+          "2",
+          "59",
+          "29",
+          "30",
+          "3"
+        ],
+        [
+          "EL LINDERO (EL LINDERO VIEJO)",
+          "2",
+          "110",
+          "55",
+          "55",
+          "5"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "466",
+          "225",
+          "241",
+          "17"
+        ],
+        [
+          "EL MEZQUITILLO",
+          "2",
+          "397",
+          "198",
+          "199",
+          "16"
+        ],
+        [
+          "EL MOGOTE",
+          "2",
+          "94",
+          "42",
+          "52",
+          "5"
+        ],
+        [
+          "EL MONTE DE LA CRUZ",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL NACIMIENTO",
+          "4",
+          "237",
+          "126",
+          "111",
+          "14"
+        ],
+        [
+          "EL PANAL",
+          "1",
+          "84",
+          "40",
+          "44",
+          "4"
+        ],
+        [
+          "EL PEDREGOSO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "89",
+          "45",
+          "44",
+          "4"
+        ],
+        [
+          "EL REPARO",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "EL SALTO DE ABAJO",
+          "2",
+          "67",
+          "31",
+          "36",
+          "4"
+        ],
+        [
+          "EL SALTO DE ARRIBA",
+          "1",
+          "74",
+          "34",
+          "40",
+          "4"
+        ],
+        [
+          "EL SAUZ VIEJO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL TEJOCOTE",
+          "2",
+          "49",
+          "15",
+          "34",
+          "3"
+        ],
+        [
+          "EL TOMATE",
+          "2",
+          "80",
+          "39",
+          "41",
+          "4"
+        ],
+        [
+          "ESTACIÓN DE SAN FRANCISCO",
+          "1",
+          "79",
+          "37",
+          "42",
+          "3"
+        ],
+        [
+          "FRACCIONAMIENTO EL REFUGIO",
+          "1",
+          "189",
+          "87",
+          "102",
+          "6"
+        ],
+        [
+          "JALAPA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "JARALILLO (EL GALLO)",
+          "2",
+          "122",
+          "54",
+          "68",
+          "5"
+        ],
+        [
+          "JESÚS DEL MONTE (EL TALAYOTE)",
+          "4",
+          "502",
+          "244",
+          "258",
+          "19"
+        ],
+        [
+          "LA GLORIA",
+          "3",
+          "191",
+          "90",
+          "101",
+          "11"
+        ],
+        [
+          "LA MURALLA DEL CADILLAL",
+          "4",
+          "168",
+          "85",
+          "83",
+          "10"
+        ],
+        [
+          "LOMA DE SAN RAFAEL",
+          "3",
+          "232",
+          "110",
+          "122",
+          "11"
+        ],
+        [
+          "LOMA DEL LIEBRERO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "LOS TANQUES DEL MEZQUITILLO",
+          "2",
+          "117",
+          "42",
+          "75",
+          "5"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "76",
+          "44",
+          "32",
+          "4"
+        ],
+        [
+          "MEXIQUITO",
+          "3",
+          "259",
+          "118",
+          "141",
+          "12"
+        ],
+        [
+          "MONTERREY",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVO JESÚS DEL MONTE (LA GORDA ATORADA)",
+          "2",
+          "96",
+          "49",
+          "47",
+          "5"
+        ],
+        [
+          "NUEVO MEXIQUITO (LA LOMA)",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4"
+        ],
+        [
+          "PEÑUELAS",
+          "3",
+          "266",
+          "128",
+          "138",
+          "11"
+        ],
+        [
+          "PLAN LIBERTADOR (EL QUEMADO)",
+          "2",
+          "141",
+          "72",
+          "69",
+          "6"
+        ],
+        [
+          "RANCHO GRANDE",
+          "1",
+          "57",
+          "29",
+          "28",
+          "2"
+        ],
+        [
+          "SAN ANTONIO DE LA PAZ",
+          "1",
+          "16",
+          "4",
+          "12",
+          "1"
+        ],
+        [
+          "SAN CRISTÓBAL (EL CERRITO)",
+          "6",
+          "1,439",
+          "754",
+          "685",
+          "53"
+        ],
+        [
+          "SAN FRANCISCO BUENAVISTA (EL CERRITO)",
+          "2",
+          "81",
+          "40",
+          "41",
+          "5"
+        ],
+        [
+          "SAN FRANCISCO DEL RINCÓN",
+          "109",
+          "25,031",
+          "13,471",
+          "11,560",
+          "1,597"
+        ],
+        [
+          "SAN IGNACIO DE HIDALGO",
+          "6",
+          "644",
+          "311",
+          "333",
+          "26"
+        ],
+        [
+          "SAN ISIDRO DE LOS PALOMINOS",
+          "4",
+          "218",
+          "104",
+          "114",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE LA BARRANCA (EL RANCHITO)",
+          "4",
+          "152",
+          "73",
+          "79",
+          "9"
+        ],
+        [
+          "SAN JOSÉ DE LA CALERA",
+          "2",
+          "106",
+          "53",
+          "53",
+          "5"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "99",
+          "50",
+          "49",
+          "4"
+        ],
+        [
+          "SAN RAFAEL DE ESTALA",
+          "2",
+          "59",
+          "25",
+          "34",
+          "3"
+        ],
+        [
+          "SAN ROQUE DE MONTES",
+          "4",
+          "669",
+          "362",
+          "307",
+          "24"
+        ],
+        [
+          "SAN ROQUE DE TORRES",
+          "3",
+          "334",
+          "174",
+          "160",
+          "11"
+        ],
+        [
+          "SAUZ DE ARMENTA",
+          "4",
+          "382",
+          "198",
+          "184",
+          "17"
+        ],
+        [
+          "SILVA",
+          "3",
+          "257",
+          "121",
+          "136",
+          "11"
+        ],
+        [
+          "TECOLOTE",
+          "2",
+          "71",
+          "31",
+          "40",
+          "4"
+        ],
+        [
+          "TORTUGAS (LAS CONCHAS)",
+          "3",
+          "238",
+          "120",
+          "118",
+          "11"
+        ],
+        [
+          "VISTA HERMOSA (EL TUZO)",
+          "2",
+          "75",
+          "32",
+          "43",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "248",
+          "35,409",
+          "18,636",
+          "16,773",
+          "2,054"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:36.874Z"
+}

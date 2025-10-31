@@ -1,0 +1,824 @@
+{
+  "municipality": "ZUMPANGO",
+  "municipalityCode": "120",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ZUMPANGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE ESPAÑA\n\t\t3\n\t\t274\n\t\t120\n\t\t154\n\t\t12\n\t\n\t\n\t\tBARRIO SAN MIGUEL (CAMINO A BATA)\n\t\t5\n\t\t351\n\t\t170\n\t\t181\n\t\t19\n\t\n\t\n\t\tBUENAVISTA\n\t\t17\n\t\t4,835\n\t\t2,418\n\t\t2,417\n\t\t160\n\t\n\t\n\t\tCOLONIA LÁZARO CÁRDENAS DEL RÍO\n\t\t3\n\t\t567\n\t\t289\n\t\t278\n\t\t22\n\t\n\t\n\t\tCOLONIA LOS HORNOS\n\t\t2\n\t\t339\n\t\t165\n\t\t174\n\t\t14\n\t\n\t\n\t\tCONJUNTO URBANO SANTA FE\n\t\t1\n\t\t395\n\t\t193\n\t\t202\n\t\t23\n\t\n\t\n\t\tEL RINCÓN\n\t\t2\n\t\t141\n\t\t63\n\t\t78\n\t\t5\n\t\n\t\n\t\tEX-HACIENDA DE GUADALUPE\n\t\t1\n\t\t103\n\t\t48\n\t\t55\n\t\t4\n\t\n\t\n\t\tHACIENDA LOS ENCINOS\n\t\t3\n\t\t1,319\n\t\t684\n\t\t635\n\t\t57\n\t\n\t\n\t\tLA TRINIDAD [FRACCIONAMIENTO]\n\t\t4\n\t\t906\n\t\t457\n\t\t449\n\t\t32\n\t\n\t\n\t\tLAS PLAZAS\n\t\t3\n\t\t1,335\n\t\t654\n\t\t681\n\t\t46\n\t\n\t\n\t\tLOMA LARGA\n\t\t2\n\t\t206\n\t\t96\n\t\t110\n\t\t9\n\t\n\t\n\t\tLOS ALCANFORES\n\t\t1\n\t\t170\n\t\t75\n\t\t95\n\t\t6\n\t\n\t\n\t\tLOS ROMEROS\n\t\t1\n\t\t199\n\t\t99\n\t\t100\n\t\t6\n\t\n\t\n\t\tNUEVO PASEOS DE SAN JUAN [CONJUNTO URBANO]\n\t\t1\n\t\t124\n\t\t58\n\t\t66\n\t\t6\n\t\n\t\n\t\tPASEOS DE SAN JUAN\n\t\t2\n\t\t212\n\t\t99\n\t\t113\n\t\t8\n\t\n\t\n\t\tPASEOS DEL LAGO [FRACCIONAMIENTO]\n\t\t4\n\t\t554\n\t\t292\n\t\t262\n\t\t32\n\t\n\t\n\t\tPASEOS DEL LAGO II\n\t\t3\n\t\t1,062\n\t\t531\n\t\t531\n\t\t49\n\t\n\t\n\t\tPUEBLO NUEVO DE MORELOS\n\t\t4\n\t\t523\n\t\t263\n\t\t260\n\t\t18\n\t\n\t\n\t\tSAN BARTOLO CUAUTLALPAN\n\t\t29\n\t\t7,236\n\t\t3,618\n\t\t3,618\n\t\t284\n\t\n\t\n\t\tSAN JOSÉ DE LA LOMA\n\t\t4\n\t\t716\n\t\t348\n\t\t368\n\t\t28\n\t\n\t\n\t\tSAN JUAN ZITLALTEPEC\n\t\t20\n\t\t6,295\n\t\t3,197\n\t\t3,098\n\t\t337\n\t\n\t\n\t\tSAN MARCOS DEL LLANO\n\t\t5\n\t\t358\n\t\t171\n\t\t187\n\t\t20\n\t\n\t\n\t\tSAN MIGUEL BOCANEGRA\n\t\t2\n\t\t189\n\t\t89\n\t\t100\n\t\t8\n\t\n\t\n\t\tSAN SEBASTIÁN\n\t\t13\n\t\t3,212\n\t\t1,663\n\t\t1,549\n\t\t147\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t10\n\t\t2,474\n\t\t1,173\n\t\t1,301\n\t\t131\n\t\n\t\n\t\tSANTA MARÍA [UNIDAD HABITACIONAL CTC]\n\t\t4\n\t\t329\n\t\t164\n\t\t165\n\t\t22\n\t\n\t\n\t\tSANTA MARÍA CUEVAS\n\t\t6\n\t\t907\n\t\t412\n\t\t495\n\t\t55\n\t\n\t\n\t\tSANTA MARÍA DE GUADALUPE\n\t\t2\n\t\t254\n\t\t152\n\t\t102\n\t\t9\n\t\n\t\n\t\tSANTA MARÍA I Y II\n\t\t4\n\t\t1,259\n\t\t671\n\t\t588\n\t\t55\n\t\n\t\n\t\tVILLAS DE LA LAGUNA\n\t\t10\n\t\t3,079\n\t\t1,531\n\t\t1,548\n\t\t140\n\t\n\t\n\t\tVILLAS DE ZUMPANGO [CONJUNTO URBANO]\n\t\t2\n\t\t755\n\t\t400\n\t\t355\n\t\t30\n\t\n\t\n\t\tZUMPANGO DE OCAMPO\n\t\t129\n\t\t28,219\n\t\t14,993\n\t\t13,226\n\t\t1,833\n\t\n\t\n\t\tTOTAL\n\t\t302\n\t\t68,897\n\t\t35,356\n\t\t33,541\n\t\t3,627\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ZUMPANGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE ESPAÑA",
+          "3",
+          "274",
+          "120",
+          "154",
+          "12",
+          "BARRIO SAN MIGUEL (CAMINO A BATA)",
+          "5",
+          "351",
+          "170",
+          "181",
+          "19",
+          "BUENAVISTA",
+          "17",
+          "4,835",
+          "2,418",
+          "2,417",
+          "160",
+          "COLONIA LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "567",
+          "289",
+          "278",
+          "22",
+          "COLONIA LOS HORNOS",
+          "2",
+          "339",
+          "165",
+          "174",
+          "14",
+          "CONJUNTO URBANO SANTA FE",
+          "1",
+          "395",
+          "193",
+          "202",
+          "23",
+          "EL RINCÓN",
+          "2",
+          "141",
+          "63",
+          "78",
+          "5",
+          "EX-HACIENDA DE GUADALUPE",
+          "1",
+          "103",
+          "48",
+          "55",
+          "4",
+          "HACIENDA LOS ENCINOS",
+          "3",
+          "1,319",
+          "684",
+          "635",
+          "57",
+          "LA TRINIDAD [FRACCIONAMIENTO]",
+          "4",
+          "906",
+          "457",
+          "449",
+          "32",
+          "LAS PLAZAS",
+          "3",
+          "1,335",
+          "654",
+          "681",
+          "46",
+          "LOMA LARGA",
+          "2",
+          "206",
+          "96",
+          "110",
+          "9",
+          "LOS ALCANFORES",
+          "1",
+          "170",
+          "75",
+          "95",
+          "6",
+          "LOS ROMEROS",
+          "1",
+          "199",
+          "99",
+          "100",
+          "6",
+          "NUEVO PASEOS DE SAN JUAN [CONJUNTO URBANO]",
+          "1",
+          "124",
+          "58",
+          "66",
+          "6",
+          "PASEOS DE SAN JUAN",
+          "2",
+          "212",
+          "99",
+          "113",
+          "8",
+          "PASEOS DEL LAGO [FRACCIONAMIENTO]",
+          "4",
+          "554",
+          "292",
+          "262",
+          "32",
+          "PASEOS DEL LAGO II",
+          "3",
+          "1,062",
+          "531",
+          "531",
+          "49",
+          "PUEBLO NUEVO DE MORELOS",
+          "4",
+          "523",
+          "263",
+          "260",
+          "18",
+          "SAN BARTOLO CUAUTLALPAN",
+          "29",
+          "7,236",
+          "3,618",
+          "3,618",
+          "284",
+          "SAN JOSÉ DE LA LOMA",
+          "4",
+          "716",
+          "348",
+          "368",
+          "28",
+          "SAN JUAN ZITLALTEPEC",
+          "20",
+          "6,295",
+          "3,197",
+          "3,098",
+          "337",
+          "SAN MARCOS DEL LLANO",
+          "5",
+          "358",
+          "171",
+          "187",
+          "20",
+          "SAN MIGUEL BOCANEGRA",
+          "2",
+          "189",
+          "89",
+          "100",
+          "8",
+          "SAN SEBASTIÁN",
+          "13",
+          "3,212",
+          "1,663",
+          "1,549",
+          "147",
+          "SANTA LUCÍA",
+          "10",
+          "2,474",
+          "1,173",
+          "1,301",
+          "131",
+          "SANTA MARÍA [UNIDAD HABITACIONAL CTC]",
+          "4",
+          "329",
+          "164",
+          "165",
+          "22",
+          "SANTA MARÍA CUEVAS",
+          "6",
+          "907",
+          "412",
+          "495",
+          "55",
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "254",
+          "152",
+          "102",
+          "9",
+          "SANTA MARÍA I Y II",
+          "4",
+          "1,259",
+          "671",
+          "588",
+          "55",
+          "VILLAS DE LA LAGUNA",
+          "10",
+          "3,079",
+          "1,531",
+          "1,548",
+          "140",
+          "VILLAS DE ZUMPANGO [CONJUNTO URBANO]",
+          "2",
+          "755",
+          "400",
+          "355",
+          "30",
+          "ZUMPANGO DE OCAMPO",
+          "129",
+          "28,219",
+          "14,993",
+          "13,226",
+          "1,833",
+          "TOTAL",
+          "302",
+          "68,897",
+          "35,356",
+          "33,541",
+          "3,627",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ZUMPANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE ESPAÑA",
+          "3",
+          "274",
+          "120",
+          "154",
+          "12"
+        ],
+        [
+          "BARRIO SAN MIGUEL (CAMINO A BATA)",
+          "5",
+          "351",
+          "170",
+          "181",
+          "19"
+        ],
+        [
+          "BUENAVISTA",
+          "17",
+          "4,835",
+          "2,418",
+          "2,417",
+          "160"
+        ],
+        [
+          "COLONIA LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "567",
+          "289",
+          "278",
+          "22"
+        ],
+        [
+          "COLONIA LOS HORNOS",
+          "2",
+          "339",
+          "165",
+          "174",
+          "14"
+        ],
+        [
+          "CONJUNTO URBANO SANTA FE",
+          "1",
+          "395",
+          "193",
+          "202",
+          "23"
+        ],
+        [
+          "EL RINCÓN",
+          "2",
+          "141",
+          "63",
+          "78",
+          "5"
+        ],
+        [
+          "EX-HACIENDA DE GUADALUPE",
+          "1",
+          "103",
+          "48",
+          "55",
+          "4"
+        ],
+        [
+          "HACIENDA LOS ENCINOS",
+          "3",
+          "1,319",
+          "684",
+          "635",
+          "57"
+        ],
+        [
+          "LA TRINIDAD [FRACCIONAMIENTO]",
+          "4",
+          "906",
+          "457",
+          "449",
+          "32"
+        ],
+        [
+          "LAS PLAZAS",
+          "3",
+          "1,335",
+          "654",
+          "681",
+          "46"
+        ],
+        [
+          "LOMA LARGA",
+          "2",
+          "206",
+          "96",
+          "110",
+          "9"
+        ],
+        [
+          "LOS ALCANFORES",
+          "1",
+          "170",
+          "75",
+          "95",
+          "6"
+        ],
+        [
+          "LOS ROMEROS",
+          "1",
+          "199",
+          "99",
+          "100",
+          "6"
+        ],
+        [
+          "NUEVO PASEOS DE SAN JUAN [CONJUNTO URBANO]",
+          "1",
+          "124",
+          "58",
+          "66",
+          "6"
+        ],
+        [
+          "PASEOS DE SAN JUAN",
+          "2",
+          "212",
+          "99",
+          "113",
+          "8"
+        ],
+        [
+          "PASEOS DEL LAGO [FRACCIONAMIENTO]",
+          "4",
+          "554",
+          "292",
+          "262",
+          "32"
+        ],
+        [
+          "PASEOS DEL LAGO II",
+          "3",
+          "1,062",
+          "531",
+          "531",
+          "49"
+        ],
+        [
+          "PUEBLO NUEVO DE MORELOS",
+          "4",
+          "523",
+          "263",
+          "260",
+          "18"
+        ],
+        [
+          "SAN BARTOLO CUAUTLALPAN",
+          "29",
+          "7,236",
+          "3,618",
+          "3,618",
+          "284"
+        ],
+        [
+          "SAN JOSÉ DE LA LOMA",
+          "4",
+          "716",
+          "348",
+          "368",
+          "28"
+        ],
+        [
+          "SAN JUAN ZITLALTEPEC",
+          "20",
+          "6,295",
+          "3,197",
+          "3,098",
+          "337"
+        ],
+        [
+          "SAN MARCOS DEL LLANO",
+          "5",
+          "358",
+          "171",
+          "187",
+          "20"
+        ],
+        [
+          "SAN MIGUEL BOCANEGRA",
+          "2",
+          "189",
+          "89",
+          "100",
+          "8"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "13",
+          "3,212",
+          "1,663",
+          "1,549",
+          "147"
+        ],
+        [
+          "SANTA LUCÍA",
+          "10",
+          "2,474",
+          "1,173",
+          "1,301",
+          "131"
+        ],
+        [
+          "SANTA MARÍA [UNIDAD HABITACIONAL CTC]",
+          "4",
+          "329",
+          "164",
+          "165",
+          "22"
+        ],
+        [
+          "SANTA MARÍA CUEVAS",
+          "6",
+          "907",
+          "412",
+          "495",
+          "55"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "254",
+          "152",
+          "102",
+          "9"
+        ],
+        [
+          "SANTA MARÍA I Y II",
+          "4",
+          "1,259",
+          "671",
+          "588",
+          "55"
+        ],
+        [
+          "VILLAS DE LA LAGUNA",
+          "10",
+          "3,079",
+          "1,531",
+          "1,548",
+          "140"
+        ],
+        [
+          "VILLAS DE ZUMPANGO [CONJUNTO URBANO]",
+          "2",
+          "755",
+          "400",
+          "355",
+          "30"
+        ],
+        [
+          "ZUMPANGO DE OCAMPO",
+          "129",
+          "28,219",
+          "14,993",
+          "13,226",
+          "1,833"
+        ],
+        [
+          "TOTAL",
+          "302",
+          "68,897",
+          "35,356",
+          "33,541",
+          "3,627"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ZUMPANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE ESPAÑA",
+          "3",
+          "274",
+          "120",
+          "154",
+          "12"
+        ],
+        [
+          "BARRIO SAN MIGUEL (CAMINO A BATA)",
+          "5",
+          "351",
+          "170",
+          "181",
+          "19"
+        ],
+        [
+          "BUENAVISTA",
+          "17",
+          "4,835",
+          "2,418",
+          "2,417",
+          "160"
+        ],
+        [
+          "COLONIA LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "567",
+          "289",
+          "278",
+          "22"
+        ],
+        [
+          "COLONIA LOS HORNOS",
+          "2",
+          "339",
+          "165",
+          "174",
+          "14"
+        ],
+        [
+          "CONJUNTO URBANO SANTA FE",
+          "1",
+          "395",
+          "193",
+          "202",
+          "23"
+        ],
+        [
+          "EL RINCÓN",
+          "2",
+          "141",
+          "63",
+          "78",
+          "5"
+        ],
+        [
+          "EX-HACIENDA DE GUADALUPE",
+          "1",
+          "103",
+          "48",
+          "55",
+          "4"
+        ],
+        [
+          "HACIENDA LOS ENCINOS",
+          "3",
+          "1,319",
+          "684",
+          "635",
+          "57"
+        ],
+        [
+          "LA TRINIDAD [FRACCIONAMIENTO]",
+          "4",
+          "906",
+          "457",
+          "449",
+          "32"
+        ],
+        [
+          "LAS PLAZAS",
+          "3",
+          "1,335",
+          "654",
+          "681",
+          "46"
+        ],
+        [
+          "LOMA LARGA",
+          "2",
+          "206",
+          "96",
+          "110",
+          "9"
+        ],
+        [
+          "LOS ALCANFORES",
+          "1",
+          "170",
+          "75",
+          "95",
+          "6"
+        ],
+        [
+          "LOS ROMEROS",
+          "1",
+          "199",
+          "99",
+          "100",
+          "6"
+        ],
+        [
+          "NUEVO PASEOS DE SAN JUAN [CONJUNTO URBANO]",
+          "1",
+          "124",
+          "58",
+          "66",
+          "6"
+        ],
+        [
+          "PASEOS DE SAN JUAN",
+          "2",
+          "212",
+          "99",
+          "113",
+          "8"
+        ],
+        [
+          "PASEOS DEL LAGO [FRACCIONAMIENTO]",
+          "4",
+          "554",
+          "292",
+          "262",
+          "32"
+        ],
+        [
+          "PASEOS DEL LAGO II",
+          "3",
+          "1,062",
+          "531",
+          "531",
+          "49"
+        ],
+        [
+          "PUEBLO NUEVO DE MORELOS",
+          "4",
+          "523",
+          "263",
+          "260",
+          "18"
+        ],
+        [
+          "SAN BARTOLO CUAUTLALPAN",
+          "29",
+          "7,236",
+          "3,618",
+          "3,618",
+          "284"
+        ],
+        [
+          "SAN JOSÉ DE LA LOMA",
+          "4",
+          "716",
+          "348",
+          "368",
+          "28"
+        ],
+        [
+          "SAN JUAN ZITLALTEPEC",
+          "20",
+          "6,295",
+          "3,197",
+          "3,098",
+          "337"
+        ],
+        [
+          "SAN MARCOS DEL LLANO",
+          "5",
+          "358",
+          "171",
+          "187",
+          "20"
+        ],
+        [
+          "SAN MIGUEL BOCANEGRA",
+          "2",
+          "189",
+          "89",
+          "100",
+          "8"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "13",
+          "3,212",
+          "1,663",
+          "1,549",
+          "147"
+        ],
+        [
+          "SANTA LUCÍA",
+          "10",
+          "2,474",
+          "1,173",
+          "1,301",
+          "131"
+        ],
+        [
+          "SANTA MARÍA [UNIDAD HABITACIONAL CTC]",
+          "4",
+          "329",
+          "164",
+          "165",
+          "22"
+        ],
+        [
+          "SANTA MARÍA CUEVAS",
+          "6",
+          "907",
+          "412",
+          "495",
+          "55"
+        ],
+        [
+          "SANTA MARÍA DE GUADALUPE",
+          "2",
+          "254",
+          "152",
+          "102",
+          "9"
+        ],
+        [
+          "SANTA MARÍA I Y II",
+          "4",
+          "1,259",
+          "671",
+          "588",
+          "55"
+        ],
+        [
+          "VILLAS DE LA LAGUNA",
+          "10",
+          "3,079",
+          "1,531",
+          "1,548",
+          "140"
+        ],
+        [
+          "VILLAS DE ZUMPANGO [CONJUNTO URBANO]",
+          "2",
+          "755",
+          "400",
+          "355",
+          "30"
+        ],
+        [
+          "ZUMPANGO DE OCAMPO",
+          "129",
+          "28,219",
+          "14,993",
+          "13,226",
+          "1,833"
+        ],
+        [
+          "TOTAL",
+          "302",
+          "68,897",
+          "35,356",
+          "33,541",
+          "3,627"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:51.248Z"
+}

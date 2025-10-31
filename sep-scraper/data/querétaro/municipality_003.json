@@ -1,0 +1,758 @@
+{
+  "municipality": "ARROYO SECO",
+  "municipalityCode": "003",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: ARROYO SECO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALPUJARRAS\n\t\t1\n\t\t10\n\t\t8\n\t\t2\n\t\t1\n\t\n\t\n\t\tARROYO SECO\n\t\t4\n\t\t604\n\t\t305\n\t\t299\n\t\t35\n\t\n\t\n\t\tAYUTLA\n\t\t2\n\t\t34\n\t\t12\n\t\t22\n\t\t3\n\t\n\t\n\t\tCONCÁ\n\t\t6\n\t\t749\n\t\t369\n\t\t380\n\t\t60\n\t\n\t\n\t\tEL AGUACATE\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL CRUCERO DEL SABINITO\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL JARDÍN\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL POCITO\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL QUIRINO\n\t\t2\n\t\t50\n\t\t31\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL REFUGIO\n\t\t3\n\t\t184\n\t\t86\n\t\t98\n\t\t10\n\t\n\t\n\t\tEL SABINITO\n\t\t1\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL SABINO\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL SALITRILLO\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL TEPOZÁN\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL TRAPICHE\n\t\t1\n\t\t21\n\t\t11\n\t\t10\n\t\t1\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA FLORIDA\n\t\t4\n\t\t125\n\t\t64\n\t\t61\n\t\t9\n\t\n\t\n\t\tLA LAGUNITA\n\t\t1\n\t\t14\n\t\t5\n\t\t9\n\t\t1\n\t\n\t\n\t\tLA MOHONERA\n\t\t2\n\t\t28\n\t\t18\n\t\t10\n\t\t2\n\t\n\t\n\t\tLAGUNA DE LA CRUZ\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tLAS TRANCAS\n\t\t3\n\t\t210\n\t\t113\n\t\t97\n\t\t9\n\t\n\t\n\t\tMESA DE PALO BLANCO\n\t\t2\n\t\t16\n\t\t11\n\t\t5\n\t\t2\n\t\n\t\n\t\tMESAS DE AGUA FRÍA\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tPURÍSIMA DE ARISTA\n\t\t5\n\t\t834\n\t\t408\n\t\t426\n\t\t43\n\t\n\t\n\t\tRÍO DEL CARRIZAL\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE LAS FLORES\n\t\t2\n\t\t32\n\t\t12\n\t\t20\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL TEPAME\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN JUAN BUENAVENTURA\n\t\t3\n\t\t78\n\t\t35\n\t\t43\n\t\t6\n\t\n\t\n\t\tSANGUIJUELA\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tSANTA MARÍA DE LOS COCOS\n\t\t5\n\t\t119\n\t\t62\n\t\t57\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t69\n\t\t3,332\n\t\t1,661\n\t\t1,671\n\t\t221\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: ARROYO SECO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALPUJARRAS",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1",
+          "ARROYO SECO",
+          "4",
+          "604",
+          "305",
+          "299",
+          "35",
+          "AYUTLA",
+          "2",
+          "34",
+          "12",
+          "22",
+          "3",
+          "CONCÁ",
+          "6",
+          "749",
+          "369",
+          "380",
+          "60",
+          "EL AGUACATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2",
+          "EL CRUCERO DEL SABINITO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1",
+          "EL JARDÍN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "EL POCITO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2",
+          "EL QUIRINO",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3",
+          "EL REFUGIO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "10",
+          "EL SABINITO",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1",
+          "EL SABINO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "EL SALITRILLO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "EL TEPOZÁN",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2",
+          "EL TRAPICHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1",
+          "LA CIÉNEGA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LA FLORIDA",
+          "4",
+          "125",
+          "64",
+          "61",
+          "9",
+          "LA LAGUNITA",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1",
+          "LA MOHONERA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "2",
+          "LAGUNA DE LA CRUZ",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "LAS TRANCAS",
+          "3",
+          "210",
+          "113",
+          "97",
+          "9",
+          "MESA DE PALO BLANCO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2",
+          "MESAS DE AGUA FRÍA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "PURÍSIMA DE ARISTA",
+          "5",
+          "834",
+          "408",
+          "426",
+          "43",
+          "RÍO DEL CARRIZAL",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2",
+          "SAN JOSÉ DE LAS FLORES",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2",
+          "SAN JOSÉ DEL TEPAME",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "SAN JUAN BUENAVENTURA",
+          "3",
+          "78",
+          "35",
+          "43",
+          "6",
+          "SANGUIJUELA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "SANTA MARÍA DE LOS COCOS",
+          "5",
+          "119",
+          "62",
+          "57",
+          "11",
+          "TOTAL",
+          "69",
+          "3,332",
+          "1,661",
+          "1,671",
+          "221",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: ARROYO SECO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALPUJARRAS",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1"
+        ],
+        [
+          "ARROYO SECO",
+          "4",
+          "604",
+          "305",
+          "299",
+          "35"
+        ],
+        [
+          "AYUTLA",
+          "2",
+          "34",
+          "12",
+          "22",
+          "3"
+        ],
+        [
+          "CONCÁ",
+          "6",
+          "749",
+          "369",
+          "380",
+          "60"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "EL CRUCERO DEL SABINITO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL POCITO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "EL QUIRINO",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "10"
+        ],
+        [
+          "EL SABINITO",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL SALITRILLO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "EL TEPOZÁN",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "EL TRAPICHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "4",
+          "125",
+          "64",
+          "61",
+          "9"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "LA MOHONERA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "2"
+        ],
+        [
+          "LAGUNA DE LA CRUZ",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "LAS TRANCAS",
+          "3",
+          "210",
+          "113",
+          "97",
+          "9"
+        ],
+        [
+          "MESA DE PALO BLANCO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "MESAS DE AGUA FRÍA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "PURÍSIMA DE ARISTA",
+          "5",
+          "834",
+          "408",
+          "426",
+          "43"
+        ],
+        [
+          "RÍO DEL CARRIZAL",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL TEPAME",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JUAN BUENAVENTURA",
+          "3",
+          "78",
+          "35",
+          "43",
+          "6"
+        ],
+        [
+          "SANGUIJUELA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "SANTA MARÍA DE LOS COCOS",
+          "5",
+          "119",
+          "62",
+          "57",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "3,332",
+          "1,661",
+          "1,671",
+          "221"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: ARROYO SECO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALPUJARRAS",
+          "1",
+          "10",
+          "8",
+          "2",
+          "1"
+        ],
+        [
+          "ARROYO SECO",
+          "4",
+          "604",
+          "305",
+          "299",
+          "35"
+        ],
+        [
+          "AYUTLA",
+          "2",
+          "34",
+          "12",
+          "22",
+          "3"
+        ],
+        [
+          "CONCÁ",
+          "6",
+          "749",
+          "369",
+          "380",
+          "60"
+        ],
+        [
+          "EL AGUACATE",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "EL CRUCERO DEL SABINITO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL POCITO",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "EL QUIRINO",
+          "2",
+          "50",
+          "31",
+          "19",
+          "3"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "10"
+        ],
+        [
+          "EL SABINITO",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "EL SALITRILLO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "EL TEPOZÁN",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "EL TRAPICHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "4",
+          "125",
+          "64",
+          "61",
+          "9"
+        ],
+        [
+          "LA LAGUNITA",
+          "1",
+          "14",
+          "5",
+          "9",
+          "1"
+        ],
+        [
+          "LA MOHONERA",
+          "2",
+          "28",
+          "18",
+          "10",
+          "2"
+        ],
+        [
+          "LAGUNA DE LA CRUZ",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "LAS TRANCAS",
+          "3",
+          "210",
+          "113",
+          "97",
+          "9"
+        ],
+        [
+          "MESA DE PALO BLANCO",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "MESAS DE AGUA FRÍA",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "PURÍSIMA DE ARISTA",
+          "5",
+          "834",
+          "408",
+          "426",
+          "43"
+        ],
+        [
+          "RÍO DEL CARRIZAL",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "2",
+          "32",
+          "12",
+          "20",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL TEPAME",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SAN JUAN BUENAVENTURA",
+          "3",
+          "78",
+          "35",
+          "43",
+          "6"
+        ],
+        [
+          "SANGUIJUELA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "SANTA MARÍA DE LOS COCOS",
+          "5",
+          "119",
+          "62",
+          "57",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "3,332",
+          "1,661",
+          "1,671",
+          "221"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:22.724Z"
+}

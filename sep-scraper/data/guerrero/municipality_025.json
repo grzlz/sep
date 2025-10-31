@@ -1,0 +1,648 @@
+{
+  "municipality": "CUAUTEPEC",
+  "municipalityCode": "025",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: CUAUTEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBOCACHAHUE\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tCOACOYULICHÁN\n\t\t4\n\t\t547\n\t\t280\n\t\t267\n\t\t29\n\t\n\t\n\t\tCUAUTEPEC\n\t\t6\n\t\t1,307\n\t\t645\n\t\t662\n\t\t66\n\t\n\t\n\t\tEL COQUILLO\n\t\t4\n\t\t227\n\t\t110\n\t\t117\n\t\t10\n\t\n\t\n\t\tEL LÍBANO\n\t\t2\n\t\t58\n\t\t31\n\t\t27\n\t\t4\n\t\n\t\n\t\tEL LIMONCITO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL LLANO\n\t\t4\n\t\t191\n\t\t104\n\t\t87\n\t\t9\n\t\n\t\n\t\tEL MAGUEY\n\t\t3\n\t\t41\n\t\t23\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL PABELLÓN\n\t\t4\n\t\t325\n\t\t152\n\t\t173\n\t\t21\n\t\n\t\n\t\tEL SALTO\n\t\t3\n\t\t178\n\t\t90\n\t\t88\n\t\t11\n\t\n\t\n\t\tESTERO DEL MARQUEZ (CACHUMBO)\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t4\n\t\n\t\n\t\tHUAMUCHITITÁN (EL HUAMUCHITO)\n\t\t3\n\t\t168\n\t\t85\n\t\t83\n\t\t12\n\t\n\t\n\t\tJALAPA\n\t\t4\n\t\t449\n\t\t231\n\t\t218\n\t\t33\n\t\n\t\n\t\tLA BOCANA\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA BOCANITA\n\t\t3\n\t\t23\n\t\t15\n\t\t8\n\t\t3\n\t\n\t\n\t\tLA DICHA\n\t\t3\n\t\t366\n\t\t184\n\t\t182\n\t\t21\n\t\n\t\n\t\tLAS PAROTAS\n\t\t2\n\t\t33\n\t\t21\n\t\t12\n\t\t3\n\t\n\t\n\t\tLIMÓN GRANDE\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tPASO SALINAS\n\t\t3\n\t\t54\n\t\t21\n\t\t33\n\t\t4\n\t\n\t\n\t\tSAN AGUSTÍN CUILUTLA (CUILUTLA)\n\t\t3\n\t\t276\n\t\t130\n\t\t146\n\t\t20\n\t\n\t\n\t\tSAN ANTONIO (EL CRUCERO)\n\t\t2\n\t\t38\n\t\t19\n\t\t19\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ LAS PALMAS (SAN JOSÉ)\n\t\t3\n\t\t79\n\t\t42\n\t\t37\n\t\t7\n\t\n\t\n\t\tSANTA CLARA\n\t\t2\n\t\t61\n\t\t33\n\t\t28\n\t\t3\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tZIHUAPOLOYA\n\t\t4\n\t\t98\n\t\t49\n\t\t49\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t73\n\t\t4,642\n\t\t2,325\n\t\t2,317\n\t\t283\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: CUAUTEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BOCACHAHUE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "COACOYULICHÁN",
+          "4",
+          "547",
+          "280",
+          "267",
+          "29",
+          "CUAUTEPEC",
+          "6",
+          "1,307",
+          "645",
+          "662",
+          "66",
+          "EL COQUILLO",
+          "4",
+          "227",
+          "110",
+          "117",
+          "10",
+          "EL LÍBANO",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4",
+          "EL LIMONCITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3",
+          "EL LLANO",
+          "4",
+          "191",
+          "104",
+          "87",
+          "9",
+          "EL MAGUEY",
+          "3",
+          "41",
+          "23",
+          "18",
+          "4",
+          "EL PABELLÓN",
+          "4",
+          "325",
+          "152",
+          "173",
+          "21",
+          "EL SALTO",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11",
+          "ESTERO DEL MARQUEZ (CACHUMBO)",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4",
+          "HUAMUCHITITÁN (EL HUAMUCHITO)",
+          "3",
+          "168",
+          "85",
+          "83",
+          "12",
+          "JALAPA",
+          "4",
+          "449",
+          "231",
+          "218",
+          "33",
+          "LA BOCANA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "LA BOCANITA",
+          "3",
+          "23",
+          "15",
+          "8",
+          "3",
+          "LA DICHA",
+          "3",
+          "366",
+          "184",
+          "182",
+          "21",
+          "LAS PAROTAS",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3",
+          "LIMÓN GRANDE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "PASO SALINAS",
+          "3",
+          "54",
+          "21",
+          "33",
+          "4",
+          "SAN AGUSTÍN CUILUTLA (CUILUTLA)",
+          "3",
+          "276",
+          "130",
+          "146",
+          "20",
+          "SAN ANTONIO (EL CRUCERO)",
+          "2",
+          "38",
+          "19",
+          "19",
+          "4",
+          "SAN JOSÉ LAS PALMAS (SAN JOSÉ)",
+          "3",
+          "79",
+          "42",
+          "37",
+          "7",
+          "SANTA CLARA",
+          "2",
+          "61",
+          "33",
+          "28",
+          "3",
+          "VISTA HERMOSA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1",
+          "ZIHUAPOLOYA",
+          "4",
+          "98",
+          "49",
+          "49",
+          "6",
+          "TOTAL",
+          "73",
+          "4,642",
+          "2,325",
+          "2,317",
+          "283",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: CUAUTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCACHAHUE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "COACOYULICHÁN",
+          "4",
+          "547",
+          "280",
+          "267",
+          "29"
+        ],
+        [
+          "CUAUTEPEC",
+          "6",
+          "1,307",
+          "645",
+          "662",
+          "66"
+        ],
+        [
+          "EL COQUILLO",
+          "4",
+          "227",
+          "110",
+          "117",
+          "10"
+        ],
+        [
+          "EL LÍBANO",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "EL LIMONCITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "EL LLANO",
+          "4",
+          "191",
+          "104",
+          "87",
+          "9"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "41",
+          "23",
+          "18",
+          "4"
+        ],
+        [
+          "EL PABELLÓN",
+          "4",
+          "325",
+          "152",
+          "173",
+          "21"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11"
+        ],
+        [
+          "ESTERO DEL MARQUEZ (CACHUMBO)",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "HUAMUCHITITÁN (EL HUAMUCHITO)",
+          "3",
+          "168",
+          "85",
+          "83",
+          "12"
+        ],
+        [
+          "JALAPA",
+          "4",
+          "449",
+          "231",
+          "218",
+          "33"
+        ],
+        [
+          "LA BOCANA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA BOCANITA",
+          "3",
+          "23",
+          "15",
+          "8",
+          "3"
+        ],
+        [
+          "LA DICHA",
+          "3",
+          "366",
+          "184",
+          "182",
+          "21"
+        ],
+        [
+          "LAS PAROTAS",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "LIMÓN GRANDE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "PASO SALINAS",
+          "3",
+          "54",
+          "21",
+          "33",
+          "4"
+        ],
+        [
+          "SAN AGUSTÍN CUILUTLA (CUILUTLA)",
+          "3",
+          "276",
+          "130",
+          "146",
+          "20"
+        ],
+        [
+          "SAN ANTONIO (EL CRUCERO)",
+          "2",
+          "38",
+          "19",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LAS PALMAS (SAN JOSÉ)",
+          "3",
+          "79",
+          "42",
+          "37",
+          "7"
+        ],
+        [
+          "SANTA CLARA",
+          "2",
+          "61",
+          "33",
+          "28",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "ZIHUAPOLOYA",
+          "4",
+          "98",
+          "49",
+          "49",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "4,642",
+          "2,325",
+          "2,317",
+          "283"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: CUAUTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCACHAHUE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "COACOYULICHÁN",
+          "4",
+          "547",
+          "280",
+          "267",
+          "29"
+        ],
+        [
+          "CUAUTEPEC",
+          "6",
+          "1,307",
+          "645",
+          "662",
+          "66"
+        ],
+        [
+          "EL COQUILLO",
+          "4",
+          "227",
+          "110",
+          "117",
+          "10"
+        ],
+        [
+          "EL LÍBANO",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "EL LIMONCITO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "EL LLANO",
+          "4",
+          "191",
+          "104",
+          "87",
+          "9"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "41",
+          "23",
+          "18",
+          "4"
+        ],
+        [
+          "EL PABELLÓN",
+          "4",
+          "325",
+          "152",
+          "173",
+          "21"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "178",
+          "90",
+          "88",
+          "11"
+        ],
+        [
+          "ESTERO DEL MARQUEZ (CACHUMBO)",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "HUAMUCHITITÁN (EL HUAMUCHITO)",
+          "3",
+          "168",
+          "85",
+          "83",
+          "12"
+        ],
+        [
+          "JALAPA",
+          "4",
+          "449",
+          "231",
+          "218",
+          "33"
+        ],
+        [
+          "LA BOCANA",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "LA BOCANITA",
+          "3",
+          "23",
+          "15",
+          "8",
+          "3"
+        ],
+        [
+          "LA DICHA",
+          "3",
+          "366",
+          "184",
+          "182",
+          "21"
+        ],
+        [
+          "LAS PAROTAS",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "LIMÓN GRANDE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "PASO SALINAS",
+          "3",
+          "54",
+          "21",
+          "33",
+          "4"
+        ],
+        [
+          "SAN AGUSTÍN CUILUTLA (CUILUTLA)",
+          "3",
+          "276",
+          "130",
+          "146",
+          "20"
+        ],
+        [
+          "SAN ANTONIO (EL CRUCERO)",
+          "2",
+          "38",
+          "19",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOSÉ LAS PALMAS (SAN JOSÉ)",
+          "3",
+          "79",
+          "42",
+          "37",
+          "7"
+        ],
+        [
+          "SANTA CLARA",
+          "2",
+          "61",
+          "33",
+          "28",
+          "3"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "ZIHUAPOLOYA",
+          "4",
+          "98",
+          "49",
+          "49",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "73",
+          "4,642",
+          "2,325",
+          "2,317",
+          "283"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:09.518Z"
+}

@@ -1,0 +1,846 @@
+{
+  "municipality": "REYNOSA",
+  "municipalityCode": "032",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: REYNOSA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALFREDO V. BONFIL (PERIQUITOS)\n\t\t4\n\t\t637\n\t\t293\n\t\t344\n\t\t32\n\t\n\t\n\t\tANZALDÚAS (ESTACIÓN ANZALDÚAS)\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tARGÜELLES\n\t\t2\n\t\t152\n\t\t80\n\t\t72\n\t\t8\n\t\n\t\n\t\tCONGREGACIÓN GARZA (CHARCO ESCONDIDO)\n\t\t1\n\t\t3\n\t\t3\n\t\t0\n\t\t1\n\t\n\t\n\t\tCORRALES\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tDIECISÉIS DE SEPTIEMBRE NÚMERO UNO\n\t\t3\n\t\t24\n\t\t12\n\t\t12\n\t\t3\n\t\n\t\n\t\tDIVISIÓN DEL NORTE\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tDOROTEO ARANGO\n\t\t3\n\t\t120\n\t\t62\n\t\t58\n\t\t8\n\t\n\t\n\t\tEL GRULLO\n\t\t3\n\t\t41\n\t\t19\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL GUERREÑO\n\t\t2\n\t\t93\n\t\t28\n\t\t65\n\t\t7\n\t\n\t\n\t\tEL GUERREÑO (BRECHA 100 Y 102 CON KILÓMETRO 23 Y 26 NORTE)\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t3\n\t\n\t\n\t\tEL SIFÓN\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tFRANCISCO GONZÁLEZ VILLARREAL\n\t\t2\n\t\t28\n\t\t19\n\t\t9\n\t\t2\n\t\n\t\n\t\tGENERAL PEDRO MARÍA ANAYA\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA AZUFROSA\n\t\t2\n\t\t11\n\t\t9\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA RETAMA\n\t\t4\n\t\t766\n\t\t393\n\t\t373\n\t\t29\n\t\n\t\n\t\tLAS ANACUAS\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tLICENCIADO GALO ÁLVAREZ\n\t\t3\n\t\t21\n\t\t11\n\t\t10\n\t\t3\n\t\n\t\n\t\tLLORONA NUEVA\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tLOS ALTOS (EL ALTO)\n\t\t3\n\t\t88\n\t\t44\n\t\t44\n\t\t5\n\t\n\t\n\t\tLOS CAVAZOS\n\t\t5\n\t\t795\n\t\t386\n\t\t409\n\t\t36\n\t\n\t\n\t\tMANUEL CAVAZOS LERMA\n\t\t2\n\t\t12\n\t\t3\n\t\t9\n\t\t2\n\t\n\t\n\t\tNUEVA LIBERTAD CAMPESINA DOS\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tPALO BLANCO\n\t\t1\n\t\t13\n\t\t9\n\t\t4\n\t\t2\n\t\n\t\n\t\tPANCHO VILLA (FRANCISCO VILLA)\n\t\t2\n\t\t43\n\t\t22\n\t\t21\n\t\t3\n\t\n\t\n\t\tREFORMA AGRARIA\n\t\t2\n\t\t77\n\t\t42\n\t\t35\n\t\t5\n\t\n\t\n\t\tREYNOSA\n\t\t859\n\t\t193,304\n\t\t97,750\n\t\t95,554\n\t\t10,047\n\t\n\t\n\t\tREYNOSA DÍAZ\n\t\t4\n\t\t135\n\t\t65\n\t\t70\n\t\t8\n\t\n\t\n\t\tRODOLFO MARTÍN ROCHA (MARTÍN ROCHA)\n\t\t3\n\t\t108\n\t\t54\n\t\t54\n\t\t7\n\t\n\t\n\t\tSANTA ANA [EJIDO]\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t3\n\t\n\t\n\t\tSANTA ROSA\n\t\t1\n\t\t21\n\t\t6\n\t\t15\n\t\t1\n\t\n\t\n\t\tSANTO NIÑO\n\t\t3\n\t\t84\n\t\t48\n\t\t36\n\t\t4\n\t\n\t\n\t\tTLAXCALA DE XICOTÉNCATL\n\t\t3\n\t\t13\n\t\t9\n\t\t4\n\t\t2\n\t\n\t\n\t\tVAMOS TAMAULIPAS\n\t\t2\n\t\t417\n\t\t208\n\t\t209\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t935\n\t\t197,123\n\t\t99,631\n\t\t97,492\n\t\t10,259\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: REYNOSA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALFREDO V. BONFIL (PERIQUITOS)",
+          "4",
+          "637",
+          "293",
+          "344",
+          "32",
+          "ANZALDÚAS (ESTACIÓN ANZALDÚAS)",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "ARGÜELLES",
+          "2",
+          "152",
+          "80",
+          "72",
+          "8",
+          "CONGREGACIÓN GARZA (CHARCO ESCONDIDO)",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1",
+          "CORRALES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "DIECISÉIS DE SEPTIEMBRE NÚMERO UNO",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3",
+          "DIVISIÓN DEL NORTE",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "DOROTEO ARANGO",
+          "3",
+          "120",
+          "62",
+          "58",
+          "8",
+          "EL GRULLO",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4",
+          "EL GUERREÑO",
+          "2",
+          "93",
+          "28",
+          "65",
+          "7",
+          "EL GUERREÑO (BRECHA 100 Y 102 CON KILÓMETRO 23 Y 26 NORTE)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3",
+          "EL SIFÓN",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "FRANCISCO GONZÁLEZ VILLARREAL",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2",
+          "GENERAL PEDRO MARÍA ANAYA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "LA AZUFROSA",
+          "2",
+          "11",
+          "9",
+          "2",
+          "1",
+          "LA RETAMA",
+          "4",
+          "766",
+          "393",
+          "373",
+          "29",
+          "LAS ANACUAS",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "LICENCIADO GALO ÁLVAREZ",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3",
+          "LLORONA NUEVA",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "LOS ALTOS (EL ALTO)",
+          "3",
+          "88",
+          "44",
+          "44",
+          "5",
+          "LOS CAVAZOS",
+          "5",
+          "795",
+          "386",
+          "409",
+          "36",
+          "MANUEL CAVAZOS LERMA",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2",
+          "NUEVA LIBERTAD CAMPESINA DOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "PALO BLANCO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "2",
+          "PANCHO VILLA (FRANCISCO VILLA)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3",
+          "REFORMA AGRARIA",
+          "2",
+          "77",
+          "42",
+          "35",
+          "5",
+          "REYNOSA",
+          "859",
+          "193,304",
+          "97,750",
+          "95,554",
+          "10,047",
+          "REYNOSA DÍAZ",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8",
+          "RODOLFO MARTÍN ROCHA (MARTÍN ROCHA)",
+          "3",
+          "108",
+          "54",
+          "54",
+          "7",
+          "SANTA ANA [EJIDO]",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3",
+          "SANTA ROSA",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1",
+          "SANTO NIÑO",
+          "3",
+          "84",
+          "48",
+          "36",
+          "4",
+          "TLAXCALA DE XICOTÉNCATL",
+          "3",
+          "13",
+          "9",
+          "4",
+          "2",
+          "VAMOS TAMAULIPAS",
+          "2",
+          "417",
+          "208",
+          "209",
+          "20",
+          "TOTAL",
+          "935",
+          "197,123",
+          "99,631",
+          "97,492",
+          "10,259",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: REYNOSA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL (PERIQUITOS)",
+          "4",
+          "637",
+          "293",
+          "344",
+          "32"
+        ],
+        [
+          "ANZALDÚAS (ESTACIÓN ANZALDÚAS)",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "ARGÜELLES",
+          "2",
+          "152",
+          "80",
+          "72",
+          "8"
+        ],
+        [
+          "CONGREGACIÓN GARZA (CHARCO ESCONDIDO)",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "CORRALES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "DIECISÉIS DE SEPTIEMBRE NÚMERO UNO",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "DIVISIÓN DEL NORTE",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "DOROTEO ARANGO",
+          "3",
+          "120",
+          "62",
+          "58",
+          "8"
+        ],
+        [
+          "EL GRULLO",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4"
+        ],
+        [
+          "EL GUERREÑO",
+          "2",
+          "93",
+          "28",
+          "65",
+          "7"
+        ],
+        [
+          "EL GUERREÑO (BRECHA 100 Y 102 CON KILÓMETRO 23 Y 26 NORTE)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "EL SIFÓN",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO GONZÁLEZ VILLARREAL",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2"
+        ],
+        [
+          "GENERAL PEDRO MARÍA ANAYA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LA AZUFROSA",
+          "2",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "LA RETAMA",
+          "4",
+          "766",
+          "393",
+          "373",
+          "29"
+        ],
+        [
+          "LAS ANACUAS",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LICENCIADO GALO ÁLVAREZ",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LLORONA NUEVA",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LOS ALTOS (EL ALTO)",
+          "3",
+          "88",
+          "44",
+          "44",
+          "5"
+        ],
+        [
+          "LOS CAVAZOS",
+          "5",
+          "795",
+          "386",
+          "409",
+          "36"
+        ],
+        [
+          "MANUEL CAVAZOS LERMA",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVA LIBERTAD CAMPESINA DOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "PANCHO VILLA (FRANCISCO VILLA)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "REFORMA AGRARIA",
+          "2",
+          "77",
+          "42",
+          "35",
+          "5"
+        ],
+        [
+          "REYNOSA",
+          "859",
+          "193,304",
+          "97,750",
+          "95,554",
+          "10,047"
+        ],
+        [
+          "REYNOSA DÍAZ",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8"
+        ],
+        [
+          "RODOLFO MARTÍN ROCHA (MARTÍN ROCHA)",
+          "3",
+          "108",
+          "54",
+          "54",
+          "7"
+        ],
+        [
+          "SANTA ANA [EJIDO]",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1"
+        ],
+        [
+          "SANTO NIÑO",
+          "3",
+          "84",
+          "48",
+          "36",
+          "4"
+        ],
+        [
+          "TLAXCALA DE XICOTÉNCATL",
+          "3",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "VAMOS TAMAULIPAS",
+          "2",
+          "417",
+          "208",
+          "209",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "935",
+          "197,123",
+          "99,631",
+          "97,492",
+          "10,259"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: REYNOSA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALFREDO V. BONFIL (PERIQUITOS)",
+          "4",
+          "637",
+          "293",
+          "344",
+          "32"
+        ],
+        [
+          "ANZALDÚAS (ESTACIÓN ANZALDÚAS)",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "ARGÜELLES",
+          "2",
+          "152",
+          "80",
+          "72",
+          "8"
+        ],
+        [
+          "CONGREGACIÓN GARZA (CHARCO ESCONDIDO)",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "CORRALES",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "DIECISÉIS DE SEPTIEMBRE NÚMERO UNO",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "DIVISIÓN DEL NORTE",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "DOROTEO ARANGO",
+          "3",
+          "120",
+          "62",
+          "58",
+          "8"
+        ],
+        [
+          "EL GRULLO",
+          "3",
+          "41",
+          "19",
+          "22",
+          "4"
+        ],
+        [
+          "EL GUERREÑO",
+          "2",
+          "93",
+          "28",
+          "65",
+          "7"
+        ],
+        [
+          "EL GUERREÑO (BRECHA 100 Y 102 CON KILÓMETRO 23 Y 26 NORTE)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        [
+          "EL SIFÓN",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO GONZÁLEZ VILLARREAL",
+          "2",
+          "28",
+          "19",
+          "9",
+          "2"
+        ],
+        [
+          "GENERAL PEDRO MARÍA ANAYA",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "LA AZUFROSA",
+          "2",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "LA RETAMA",
+          "4",
+          "766",
+          "393",
+          "373",
+          "29"
+        ],
+        [
+          "LAS ANACUAS",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "LICENCIADO GALO ÁLVAREZ",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LLORONA NUEVA",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LOS ALTOS (EL ALTO)",
+          "3",
+          "88",
+          "44",
+          "44",
+          "5"
+        ],
+        [
+          "LOS CAVAZOS",
+          "5",
+          "795",
+          "386",
+          "409",
+          "36"
+        ],
+        [
+          "MANUEL CAVAZOS LERMA",
+          "2",
+          "12",
+          "3",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVA LIBERTAD CAMPESINA DOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "PANCHO VILLA (FRANCISCO VILLA)",
+          "2",
+          "43",
+          "22",
+          "21",
+          "3"
+        ],
+        [
+          "REFORMA AGRARIA",
+          "2",
+          "77",
+          "42",
+          "35",
+          "5"
+        ],
+        [
+          "REYNOSA",
+          "859",
+          "193,304",
+          "97,750",
+          "95,554",
+          "10,047"
+        ],
+        [
+          "REYNOSA DÍAZ",
+          "4",
+          "135",
+          "65",
+          "70",
+          "8"
+        ],
+        [
+          "RODOLFO MARTÍN ROCHA (MARTÍN ROCHA)",
+          "3",
+          "108",
+          "54",
+          "54",
+          "7"
+        ],
+        [
+          "SANTA ANA [EJIDO]",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "21",
+          "6",
+          "15",
+          "1"
+        ],
+        [
+          "SANTO NIÑO",
+          "3",
+          "84",
+          "48",
+          "36",
+          "4"
+        ],
+        [
+          "TLAXCALA DE XICOTÉNCATL",
+          "3",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "VAMOS TAMAULIPAS",
+          "2",
+          "417",
+          "208",
+          "209",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "935",
+          "197,123",
+          "99,631",
+          "97,492",
+          "10,259"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:41.415Z"
+}

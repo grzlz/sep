@@ -1,0 +1,934 @@
+{
+  "municipality": "BOLAÑOS",
+  "municipalityCode": "019",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: BOLAÑOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA MILPA DE ARRIBA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tAMOLERA\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t2\n\t\n\t\n\t\tBAJÍO DEL TULE\n\t\t4\n\t\t99\n\t\t49\n\t\t50\n\t\t8\n\t\n\t\n\t\tBARRANCA DEL TULE\n\t\t3\n\t\t65\n\t\t27\n\t\t38\n\t\t4\n\t\n\t\n\t\tBARRANQUILLA\n\t\t3\n\t\t124\n\t\t70\n\t\t54\n\t\t11\n\t\n\t\n\t\tBOLAÑOS\n\t\t5\n\t\t614\n\t\t315\n\t\t299\n\t\t33\n\t\n\t\n\t\tBORROTES (BARROTES DE ABAJO)\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t2\n\t\n\t\n\t\tCAÑÓN DE TLAXCALA\n\t\t2\n\t\t36\n\t\t22\n\t\t14\n\t\t2\n\t\n\t\n\t\tCOAMOSTITA\n\t\t3\n\t\t68\n\t\t39\n\t\t29\n\t\t4\n\t\n\t\n\t\tCRUCERO BANDERITAS\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tCRUCERO DE OCOTA\n\t\t2\n\t\t38\n\t\t19\n\t\t19\n\t\t3\n\t\n\t\n\t\tEL BANCO DEL VENADO\n\t\t2\n\t\t49\n\t\t26\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL CARRIZO (LOS ARADOS)\n\t\t3\n\t\t63\n\t\t31\n\t\t32\n\t\t4\n\t\n\t\n\t\tEL CONEJO (AGUA BENDITA)\n\t\t1\n\t\t22\n\t\t13\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL JOMATE\n\t\t4\n\t\t92\n\t\t43\n\t\t49\n\t\t7\n\t\n\t\n\t\tEL MANGUITO\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t11\n\t\t8\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL REFUGIO (EL GALLINERO)\n\t\t2\n\t\t4\n\t\t4\n\t\t0\n\t\t2\n\t\n\t\n\t\tEL SAUCILLO\n\t\t2\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL TEPEC\n\t\t2\n\t\t151\n\t\t75\n\t\t76\n\t\t8\n\t\n\t\n\t\tEL VALLECITO\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t4\n\t\n\t\n\t\tHUILACATITLÁN (HUILA)\n\t\t2\n\t\t91\n\t\t41\n\t\t50\n\t\t7\n\t\n\t\n\t\tHUIZAISTA\n\t\t2\n\t\t39\n\t\t18\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA BERENJENA\n\t\t3\n\t\t28\n\t\t20\n\t\t8\n\t\t3\n\t\n\t\n\t\tLA CALERA\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA CHICHILA (EL COYOTE)\n\t\t3\n\t\t41\n\t\t17\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA MESA\n\t\t1\n\t\t32\n\t\t16\n\t\t16\n\t\t2\n\t\n\t\n\t\tLA MESA DEL PINO\n\t\t3\n\t\t62\n\t\t30\n\t\t32\n\t\t6\n\t\n\t\n\t\tLA PLAYA\n\t\t2\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tLAS PALOMAS\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tLOS CERRITOS\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tLOS CORRALES (MESA DEL TIRADOR)\n\t\t5\n\t\t581\n\t\t298\n\t\t283\n\t\t29\n\t\n\t\n\t\tMESA DE LOS SABINOS (RANCHO EL PUERTECITO)\n\t\t3\n\t\t92\n\t\t48\n\t\t44\n\t\t8\n\t\n\t\n\t\tMESA DE PAJARITOS\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tMEZQUITIC\n\t\t2\n\t\t6\n\t\t1\n\t\t5\n\t\t2\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tTUXPAN DE BOLAÑOS\n\t\t5\n\t\t770\n\t\t394\n\t\t376\n\t\t37\n\t\n\t\n\t\tTOTAL\n\t\t86\n\t\t3,424\n\t\t1,745\n\t\t1,679\n\t\t215\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: BOLAÑOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA MILPA DE ARRIBA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "AMOLERA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2",
+          "BAJÍO DEL TULE",
+          "4",
+          "99",
+          "49",
+          "50",
+          "8",
+          "BARRANCA DEL TULE",
+          "3",
+          "65",
+          "27",
+          "38",
+          "4",
+          "BARRANQUILLA",
+          "3",
+          "124",
+          "70",
+          "54",
+          "11",
+          "BOLAÑOS",
+          "5",
+          "614",
+          "315",
+          "299",
+          "33",
+          "BORROTES (BARROTES DE ABAJO)",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2",
+          "CAÑÓN DE TLAXCALA",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2",
+          "COAMOSTITA",
+          "3",
+          "68",
+          "39",
+          "29",
+          "4",
+          "CRUCERO BANDERITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "CRUCERO DE OCOTA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3",
+          "EL BANCO DEL VENADO",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3",
+          "EL CARRIZO (LOS ARADOS)",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4",
+          "EL CONEJO (AGUA BENDITA)",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1",
+          "EL JOMATE",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7",
+          "EL MANGUITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL MIRADOR",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1",
+          "EL REFUGIO (EL GALLINERO)",
+          "2",
+          "4",
+          "4",
+          "0",
+          "2",
+          "EL SAUCILLO",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2",
+          "EL TEPEC",
+          "2",
+          "151",
+          "75",
+          "76",
+          "8",
+          "EL VALLECITO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4",
+          "HUILACATITLÁN (HUILA)",
+          "2",
+          "91",
+          "41",
+          "50",
+          "7",
+          "HUIZAISTA",
+          "2",
+          "39",
+          "18",
+          "21",
+          "4",
+          "LA BERENJENA",
+          "3",
+          "28",
+          "20",
+          "8",
+          "3",
+          "LA CALERA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "LA CHICHILA (EL COYOTE)",
+          "3",
+          "41",
+          "17",
+          "24",
+          "3",
+          "LA CIÉNEGA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "LA MESA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2",
+          "LA MESA DEL PINO",
+          "3",
+          "62",
+          "30",
+          "32",
+          "6",
+          "LA PLAYA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3",
+          "LAS PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "LOS CERRITOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "LOS CORRALES (MESA DEL TIRADOR)",
+          "5",
+          "581",
+          "298",
+          "283",
+          "29",
+          "MESA DE LOS SABINOS (RANCHO EL PUERTECITO)",
+          "3",
+          "92",
+          "48",
+          "44",
+          "8",
+          "MESA DE PAJARITOS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "MEZQUITIC",
+          "2",
+          "6",
+          "1",
+          "5",
+          "2",
+          "TIERRA BLANCA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "TUXPAN DE BOLAÑOS",
+          "5",
+          "770",
+          "394",
+          "376",
+          "37",
+          "TOTAL",
+          "86",
+          "3,424",
+          "1,745",
+          "1,679",
+          "215",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: BOLAÑOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA MILPA DE ARRIBA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "AMOLERA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "BAJÍO DEL TULE",
+          "4",
+          "99",
+          "49",
+          "50",
+          "8"
+        ],
+        [
+          "BARRANCA DEL TULE",
+          "3",
+          "65",
+          "27",
+          "38",
+          "4"
+        ],
+        [
+          "BARRANQUILLA",
+          "3",
+          "124",
+          "70",
+          "54",
+          "11"
+        ],
+        [
+          "BOLAÑOS",
+          "5",
+          "614",
+          "315",
+          "299",
+          "33"
+        ],
+        [
+          "BORROTES (BARROTES DE ABAJO)",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "CAÑÓN DE TLAXCALA",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2"
+        ],
+        [
+          "COAMOSTITA",
+          "3",
+          "68",
+          "39",
+          "29",
+          "4"
+        ],
+        [
+          "CRUCERO BANDERITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CRUCERO DE OCOTA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "EL BANCO DEL VENADO",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "EL CARRIZO (LOS ARADOS)",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "EL CONEJO (AGUA BENDITA)",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1"
+        ],
+        [
+          "EL JOMATE",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7"
+        ],
+        [
+          "EL MANGUITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL GALLINERO)",
+          "2",
+          "4",
+          "4",
+          "0",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EL TEPEC",
+          "2",
+          "151",
+          "75",
+          "76",
+          "8"
+        ],
+        [
+          "EL VALLECITO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "HUILACATITLÁN (HUILA)",
+          "2",
+          "91",
+          "41",
+          "50",
+          "7"
+        ],
+        [
+          "HUIZAISTA",
+          "2",
+          "39",
+          "18",
+          "21",
+          "4"
+        ],
+        [
+          "LA BERENJENA",
+          "3",
+          "28",
+          "20",
+          "8",
+          "3"
+        ],
+        [
+          "LA CALERA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA CHICHILA (EL COYOTE)",
+          "3",
+          "41",
+          "17",
+          "24",
+          "3"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LA MESA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "LA MESA DEL PINO",
+          "3",
+          "62",
+          "30",
+          "32",
+          "6"
+        ],
+        [
+          "LA PLAYA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LOS CORRALES (MESA DEL TIRADOR)",
+          "5",
+          "581",
+          "298",
+          "283",
+          "29"
+        ],
+        [
+          "MESA DE LOS SABINOS (RANCHO EL PUERTECITO)",
+          "3",
+          "92",
+          "48",
+          "44",
+          "8"
+        ],
+        [
+          "MESA DE PAJARITOS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "MEZQUITIC",
+          "2",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "TUXPAN DE BOLAÑOS",
+          "5",
+          "770",
+          "394",
+          "376",
+          "37"
+        ],
+        [
+          "TOTAL",
+          "86",
+          "3,424",
+          "1,745",
+          "1,679",
+          "215"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: BOLAÑOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA MILPA DE ARRIBA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "AMOLERA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "BAJÍO DEL TULE",
+          "4",
+          "99",
+          "49",
+          "50",
+          "8"
+        ],
+        [
+          "BARRANCA DEL TULE",
+          "3",
+          "65",
+          "27",
+          "38",
+          "4"
+        ],
+        [
+          "BARRANQUILLA",
+          "3",
+          "124",
+          "70",
+          "54",
+          "11"
+        ],
+        [
+          "BOLAÑOS",
+          "5",
+          "614",
+          "315",
+          "299",
+          "33"
+        ],
+        [
+          "BORROTES (BARROTES DE ABAJO)",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "CAÑÓN DE TLAXCALA",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2"
+        ],
+        [
+          "COAMOSTITA",
+          "3",
+          "68",
+          "39",
+          "29",
+          "4"
+        ],
+        [
+          "CRUCERO BANDERITAS",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CRUCERO DE OCOTA",
+          "2",
+          "38",
+          "19",
+          "19",
+          "3"
+        ],
+        [
+          "EL BANCO DEL VENADO",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "EL CARRIZO (LOS ARADOS)",
+          "3",
+          "63",
+          "31",
+          "32",
+          "4"
+        ],
+        [
+          "EL CONEJO (AGUA BENDITA)",
+          "1",
+          "22",
+          "13",
+          "9",
+          "1"
+        ],
+        [
+          "EL JOMATE",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7"
+        ],
+        [
+          "EL MANGUITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "11",
+          "8",
+          "3",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL GALLINERO)",
+          "2",
+          "4",
+          "4",
+          "0",
+          "2"
+        ],
+        [
+          "EL SAUCILLO",
+          "2",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "EL TEPEC",
+          "2",
+          "151",
+          "75",
+          "76",
+          "8"
+        ],
+        [
+          "EL VALLECITO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "HUILACATITLÁN (HUILA)",
+          "2",
+          "91",
+          "41",
+          "50",
+          "7"
+        ],
+        [
+          "HUIZAISTA",
+          "2",
+          "39",
+          "18",
+          "21",
+          "4"
+        ],
+        [
+          "LA BERENJENA",
+          "3",
+          "28",
+          "20",
+          "8",
+          "3"
+        ],
+        [
+          "LA CALERA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA CHICHILA (EL COYOTE)",
+          "3",
+          "41",
+          "17",
+          "24",
+          "3"
+        ],
+        [
+          "LA CIÉNEGA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LA MESA",
+          "1",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "LA MESA DEL PINO",
+          "3",
+          "62",
+          "30",
+          "32",
+          "6"
+        ],
+        [
+          "LA PLAYA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "LOS CORRALES (MESA DEL TIRADOR)",
+          "5",
+          "581",
+          "298",
+          "283",
+          "29"
+        ],
+        [
+          "MESA DE LOS SABINOS (RANCHO EL PUERTECITO)",
+          "3",
+          "92",
+          "48",
+          "44",
+          "8"
+        ],
+        [
+          "MESA DE PAJARITOS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "MEZQUITIC",
+          "2",
+          "6",
+          "1",
+          "5",
+          "2"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "TUXPAN DE BOLAÑOS",
+          "5",
+          "770",
+          "394",
+          "376",
+          "37"
+        ],
+        [
+          "TOTAL",
+          "86",
+          "3,424",
+          "1,745",
+          "1,679",
+          "215"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:12:59.303Z"
+}

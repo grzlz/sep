@@ -1,0 +1,890 @@
+{
+  "municipality": "PUEBLA",
+  "municipalityCode": "114",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PUEBLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁFRICAM SAFARI\n\t\t1\n\t\t16\n\t\t8\n\t\t8\n\t\t3\n\t\n\t\n\t\tARTÍCULO PRIMERO CONSTITUCIONAL\n\t\t3\n\t\t605\n\t\t302\n\t\t303\n\t\t20\n\t\n\t\n\t\tBUENAVISTA TETELA\n\t\t2\n\t\t226\n\t\t107\n\t\t119\n\t\t10\n\t\n\t\n\t\tEL OASIS VALSEQUILLO\n\t\t1\n\t\t41\n\t\t20\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL ROSARIO LA HUERTA\n\t\t3\n\t\t35\n\t\t24\n\t\t11\n\t\t3\n\t\n\t\n\t\tGUADALUPE\n\t\t1\n\t\t321\n\t\t164\n\t\t157\n\t\t13\n\t\n\t\n\t\tGUADALUPE TLATELPA\n\t\t3\n\t\t208\n\t\t105\n\t\t103\n\t\t15\n\t\n\t\n\t\tHEROICA PUEBLA DE ZARAGOZA\n\t\t2,171\n\t\t560,777\n\t\t290,104\n\t\t270,673\n\t\t32,087\n\t\n\t\n\t\tLA ASUNCIÓN\n\t\t1\n\t\t39\n\t\t21\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA LIBERTAD TECOLA\n\t\t2\n\t\t184\n\t\t104\n\t\t80\n\t\t7\n\t\n\t\n\t\tLA PAZ TLAXCOLPAN\n\t\t2\n\t\t183\n\t\t88\n\t\t95\n\t\t8\n\t\n\t\n\t\tLA RESURRECCIÓN\n\t\t13\n\t\t7,768\n\t\t3,907\n\t\t3,861\n\t\t295\n\t\n\t\n\t\tLOS ÁNGELES TETELA\n\t\t5\n\t\t788\n\t\t426\n\t\t362\n\t\t40\n\t\n\t\n\t\tRESURGIMIENTO ATOTONILCO\n\t\t2\n\t\t144\n\t\t82\n\t\t62\n\t\t7\n\t\n\t\n\t\tSAN ANDRÉS AZUMIATLA\n\t\t16\n\t\t3,555\n\t\t1,762\n\t\t1,793\n\t\t118\n\t\n\t\n\t\tSAN BALTAZAR TETELA\n\t\t3\n\t\t571\n\t\t293\n\t\t278\n\t\t23\n\t\n\t\n\t\tSAN ISIDRO TLALCOSTÉPETL\n\t\t3\n\t\t38\n\t\t16\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ EL AGUACATE\n\t\t4\n\t\t144\n\t\t77\n\t\t67\n\t\t11\n\t\n\t\n\t\tSAN JOSÉ EL RINCÓN\n\t\t3\n\t\t450\n\t\t209\n\t\t241\n\t\t22\n\t\n\t\n\t\tSAN JOSÉ XACXAMAYO\n\t\t4\n\t\t227\n\t\t123\n\t\t104\n\t\t11\n\t\n\t\n\t\tSAN JOSÉ ZETINA\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL\n\t\t1\n\t\t32\n\t\t18\n\t\t14\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL CANOA\n\t\t21\n\t\t6,000\n\t\t2,999\n\t\t3,001\n\t\t240\n\t\n\t\n\t\tSAN MIGUEL ESPEJO\n\t\t4\n\t\t1,023\n\t\t490\n\t\t533\n\t\t30\n\t\n\t\n\t\tSAN NICOLÁS COATEPEC\n\t\t2\n\t\t595\n\t\t279\n\t\t316\n\t\t19\n\t\n\t\n\t\tSAN PEDRO ZACACHIMALPA\n\t\t4\n\t\t1,273\n\t\t645\n\t\t628\n\t\t54\n\t\n\t\n\t\tSAN SEBASTIÁN DE APARICIO\n\t\t12\n\t\t3,632\n\t\t1,900\n\t\t1,732\n\t\t138\n\t\n\t\n\t\tSANTA CATARINA\n\t\t5\n\t\t1,341\n\t\t640\n\t\t701\n\t\t52\n\t\n\t\n\t\tSANTA CATARINA (TERCERA SECCIÓN)\n\t\t2\n\t\t74\n\t\t43\n\t\t31\n\t\t3\n\t\n\t\n\t\tSANTA CLARA LA VENTA\n\t\t3\n\t\t513\n\t\t251\n\t\t262\n\t\t21\n\t\n\t\n\t\tSANTA CRUZ LA IXTLA\n\t\t2\n\t\t86\n\t\t39\n\t\t47\n\t\t4\n\t\n\t\n\t\tSANTA LUCÍA ALTAMIRANO\n\t\t2\n\t\t825\n\t\t414\n\t\t411\n\t\t22\n\t\n\t\n\t\tSANTA MARÍA GUADALUPE TECOLA\n\t\t5\n\t\t445\n\t\t212\n\t\t233\n\t\t19\n\t\n\t\n\t\tSANTA MARÍA TZOCUILAC LA CANTERA\n\t\t3\n\t\t72\n\t\t39\n\t\t33\n\t\t13\n\t\n\t\n\t\tSANTA MARÍA XONACATEPEC\n\t\t12\n\t\t3,620\n\t\t1,846\n\t\t1,774\n\t\t141\n\t\n\t\n\t\tSANTO TOMÁS CHAUTLA\n\t\t10\n\t\t2,200\n\t\t1,140\n\t\t1,060\n\t\t78\n\t\n\t\n\t\tTOTAL\n\t\t2,333\n\t\t598,076\n\t\t308,912\n\t\t289,164\n\t\t33,539\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PUEBLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁFRICAM SAFARI",
+          "1",
+          "16",
+          "8",
+          "8",
+          "3",
+          "ARTÍCULO PRIMERO CONSTITUCIONAL",
+          "3",
+          "605",
+          "302",
+          "303",
+          "20",
+          "BUENAVISTA TETELA",
+          "2",
+          "226",
+          "107",
+          "119",
+          "10",
+          "EL OASIS VALSEQUILLO",
+          "1",
+          "41",
+          "20",
+          "21",
+          "3",
+          "EL ROSARIO LA HUERTA",
+          "3",
+          "35",
+          "24",
+          "11",
+          "3",
+          "GUADALUPE",
+          "1",
+          "321",
+          "164",
+          "157",
+          "13",
+          "GUADALUPE TLATELPA",
+          "3",
+          "208",
+          "105",
+          "103",
+          "15",
+          "HEROICA PUEBLA DE ZARAGOZA",
+          "2,171",
+          "560,777",
+          "290,104",
+          "270,673",
+          "32,087",
+          "LA ASUNCIÓN",
+          "1",
+          "39",
+          "21",
+          "18",
+          "3",
+          "LA LIBERTAD TECOLA",
+          "2",
+          "184",
+          "104",
+          "80",
+          "7",
+          "LA PAZ TLAXCOLPAN",
+          "2",
+          "183",
+          "88",
+          "95",
+          "8",
+          "LA RESURRECCIÓN",
+          "13",
+          "7,768",
+          "3,907",
+          "3,861",
+          "295",
+          "LOS ÁNGELES TETELA",
+          "5",
+          "788",
+          "426",
+          "362",
+          "40",
+          "RESURGIMIENTO ATOTONILCO",
+          "2",
+          "144",
+          "82",
+          "62",
+          "7",
+          "SAN ANDRÉS AZUMIATLA",
+          "16",
+          "3,555",
+          "1,762",
+          "1,793",
+          "118",
+          "SAN BALTAZAR TETELA",
+          "3",
+          "571",
+          "293",
+          "278",
+          "23",
+          "SAN ISIDRO TLALCOSTÉPETL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3",
+          "SAN JOSÉ EL AGUACATE",
+          "4",
+          "144",
+          "77",
+          "67",
+          "11",
+          "SAN JOSÉ EL RINCÓN",
+          "3",
+          "450",
+          "209",
+          "241",
+          "22",
+          "SAN JOSÉ XACXAMAYO",
+          "4",
+          "227",
+          "123",
+          "104",
+          "11",
+          "SAN JOSÉ ZETINA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2",
+          "SAN MIGUEL",
+          "1",
+          "32",
+          "18",
+          "14",
+          "1",
+          "SAN MIGUEL CANOA",
+          "21",
+          "6,000",
+          "2,999",
+          "3,001",
+          "240",
+          "SAN MIGUEL ESPEJO",
+          "4",
+          "1,023",
+          "490",
+          "533",
+          "30",
+          "SAN NICOLÁS COATEPEC",
+          "2",
+          "595",
+          "279",
+          "316",
+          "19",
+          "SAN PEDRO ZACACHIMALPA",
+          "4",
+          "1,273",
+          "645",
+          "628",
+          "54",
+          "SAN SEBASTIÁN DE APARICIO",
+          "12",
+          "3,632",
+          "1,900",
+          "1,732",
+          "138",
+          "SANTA CATARINA",
+          "5",
+          "1,341",
+          "640",
+          "701",
+          "52",
+          "SANTA CATARINA (TERCERA SECCIÓN)",
+          "2",
+          "74",
+          "43",
+          "31",
+          "3",
+          "SANTA CLARA LA VENTA",
+          "3",
+          "513",
+          "251",
+          "262",
+          "21",
+          "SANTA CRUZ LA IXTLA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "4",
+          "SANTA LUCÍA ALTAMIRANO",
+          "2",
+          "825",
+          "414",
+          "411",
+          "22",
+          "SANTA MARÍA GUADALUPE TECOLA",
+          "5",
+          "445",
+          "212",
+          "233",
+          "19",
+          "SANTA MARÍA TZOCUILAC LA CANTERA",
+          "3",
+          "72",
+          "39",
+          "33",
+          "13",
+          "SANTA MARÍA XONACATEPEC",
+          "12",
+          "3,620",
+          "1,846",
+          "1,774",
+          "141",
+          "SANTO TOMÁS CHAUTLA",
+          "10",
+          "2,200",
+          "1,140",
+          "1,060",
+          "78",
+          "TOTAL",
+          "2,333",
+          "598,076",
+          "308,912",
+          "289,164",
+          "33,539",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PUEBLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁFRICAM SAFARI",
+          "1",
+          "16",
+          "8",
+          "8",
+          "3"
+        ],
+        [
+          "ARTÍCULO PRIMERO CONSTITUCIONAL",
+          "3",
+          "605",
+          "302",
+          "303",
+          "20"
+        ],
+        [
+          "BUENAVISTA TETELA",
+          "2",
+          "226",
+          "107",
+          "119",
+          "10"
+        ],
+        [
+          "EL OASIS VALSEQUILLO",
+          "1",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "EL ROSARIO LA HUERTA",
+          "3",
+          "35",
+          "24",
+          "11",
+          "3"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "321",
+          "164",
+          "157",
+          "13"
+        ],
+        [
+          "GUADALUPE TLATELPA",
+          "3",
+          "208",
+          "105",
+          "103",
+          "15"
+        ],
+        [
+          "HEROICA PUEBLA DE ZARAGOZA",
+          "2,171",
+          "560,777",
+          "290,104",
+          "270,673",
+          "32,087"
+        ],
+        [
+          "LA ASUNCIÓN",
+          "1",
+          "39",
+          "21",
+          "18",
+          "3"
+        ],
+        [
+          "LA LIBERTAD TECOLA",
+          "2",
+          "184",
+          "104",
+          "80",
+          "7"
+        ],
+        [
+          "LA PAZ TLAXCOLPAN",
+          "2",
+          "183",
+          "88",
+          "95",
+          "8"
+        ],
+        [
+          "LA RESURRECCIÓN",
+          "13",
+          "7,768",
+          "3,907",
+          "3,861",
+          "295"
+        ],
+        [
+          "LOS ÁNGELES TETELA",
+          "5",
+          "788",
+          "426",
+          "362",
+          "40"
+        ],
+        [
+          "RESURGIMIENTO ATOTONILCO",
+          "2",
+          "144",
+          "82",
+          "62",
+          "7"
+        ],
+        [
+          "SAN ANDRÉS AZUMIATLA",
+          "16",
+          "3,555",
+          "1,762",
+          "1,793",
+          "118"
+        ],
+        [
+          "SAN BALTAZAR TETELA",
+          "3",
+          "571",
+          "293",
+          "278",
+          "23"
+        ],
+        [
+          "SAN ISIDRO TLALCOSTÉPETL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ EL AGUACATE",
+          "4",
+          "144",
+          "77",
+          "67",
+          "11"
+        ],
+        [
+          "SAN JOSÉ EL RINCÓN",
+          "3",
+          "450",
+          "209",
+          "241",
+          "22"
+        ],
+        [
+          "SAN JOSÉ XACXAMAYO",
+          "4",
+          "227",
+          "123",
+          "104",
+          "11"
+        ],
+        [
+          "SAN JOSÉ ZETINA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "32",
+          "18",
+          "14",
+          "1"
+        ],
+        [
+          "SAN MIGUEL CANOA",
+          "21",
+          "6,000",
+          "2,999",
+          "3,001",
+          "240"
+        ],
+        [
+          "SAN MIGUEL ESPEJO",
+          "4",
+          "1,023",
+          "490",
+          "533",
+          "30"
+        ],
+        [
+          "SAN NICOLÁS COATEPEC",
+          "2",
+          "595",
+          "279",
+          "316",
+          "19"
+        ],
+        [
+          "SAN PEDRO ZACACHIMALPA",
+          "4",
+          "1,273",
+          "645",
+          "628",
+          "54"
+        ],
+        [
+          "SAN SEBASTIÁN DE APARICIO",
+          "12",
+          "3,632",
+          "1,900",
+          "1,732",
+          "138"
+        ],
+        [
+          "SANTA CATARINA",
+          "5",
+          "1,341",
+          "640",
+          "701",
+          "52"
+        ],
+        [
+          "SANTA CATARINA (TERCERA SECCIÓN)",
+          "2",
+          "74",
+          "43",
+          "31",
+          "3"
+        ],
+        [
+          "SANTA CLARA LA VENTA",
+          "3",
+          "513",
+          "251",
+          "262",
+          "21"
+        ],
+        [
+          "SANTA CRUZ LA IXTLA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "4"
+        ],
+        [
+          "SANTA LUCÍA ALTAMIRANO",
+          "2",
+          "825",
+          "414",
+          "411",
+          "22"
+        ],
+        [
+          "SANTA MARÍA GUADALUPE TECOLA",
+          "5",
+          "445",
+          "212",
+          "233",
+          "19"
+        ],
+        [
+          "SANTA MARÍA TZOCUILAC LA CANTERA",
+          "3",
+          "72",
+          "39",
+          "33",
+          "13"
+        ],
+        [
+          "SANTA MARÍA XONACATEPEC",
+          "12",
+          "3,620",
+          "1,846",
+          "1,774",
+          "141"
+        ],
+        [
+          "SANTO TOMÁS CHAUTLA",
+          "10",
+          "2,200",
+          "1,140",
+          "1,060",
+          "78"
+        ],
+        [
+          "TOTAL",
+          "2,333",
+          "598,076",
+          "308,912",
+          "289,164",
+          "33,539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PUEBLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁFRICAM SAFARI",
+          "1",
+          "16",
+          "8",
+          "8",
+          "3"
+        ],
+        [
+          "ARTÍCULO PRIMERO CONSTITUCIONAL",
+          "3",
+          "605",
+          "302",
+          "303",
+          "20"
+        ],
+        [
+          "BUENAVISTA TETELA",
+          "2",
+          "226",
+          "107",
+          "119",
+          "10"
+        ],
+        [
+          "EL OASIS VALSEQUILLO",
+          "1",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "EL ROSARIO LA HUERTA",
+          "3",
+          "35",
+          "24",
+          "11",
+          "3"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "321",
+          "164",
+          "157",
+          "13"
+        ],
+        [
+          "GUADALUPE TLATELPA",
+          "3",
+          "208",
+          "105",
+          "103",
+          "15"
+        ],
+        [
+          "HEROICA PUEBLA DE ZARAGOZA",
+          "2,171",
+          "560,777",
+          "290,104",
+          "270,673",
+          "32,087"
+        ],
+        [
+          "LA ASUNCIÓN",
+          "1",
+          "39",
+          "21",
+          "18",
+          "3"
+        ],
+        [
+          "LA LIBERTAD TECOLA",
+          "2",
+          "184",
+          "104",
+          "80",
+          "7"
+        ],
+        [
+          "LA PAZ TLAXCOLPAN",
+          "2",
+          "183",
+          "88",
+          "95",
+          "8"
+        ],
+        [
+          "LA RESURRECCIÓN",
+          "13",
+          "7,768",
+          "3,907",
+          "3,861",
+          "295"
+        ],
+        [
+          "LOS ÁNGELES TETELA",
+          "5",
+          "788",
+          "426",
+          "362",
+          "40"
+        ],
+        [
+          "RESURGIMIENTO ATOTONILCO",
+          "2",
+          "144",
+          "82",
+          "62",
+          "7"
+        ],
+        [
+          "SAN ANDRÉS AZUMIATLA",
+          "16",
+          "3,555",
+          "1,762",
+          "1,793",
+          "118"
+        ],
+        [
+          "SAN BALTAZAR TETELA",
+          "3",
+          "571",
+          "293",
+          "278",
+          "23"
+        ],
+        [
+          "SAN ISIDRO TLALCOSTÉPETL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ EL AGUACATE",
+          "4",
+          "144",
+          "77",
+          "67",
+          "11"
+        ],
+        [
+          "SAN JOSÉ EL RINCÓN",
+          "3",
+          "450",
+          "209",
+          "241",
+          "22"
+        ],
+        [
+          "SAN JOSÉ XACXAMAYO",
+          "4",
+          "227",
+          "123",
+          "104",
+          "11"
+        ],
+        [
+          "SAN JOSÉ ZETINA",
+          "2",
+          "25",
+          "15",
+          "10",
+          "2"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "32",
+          "18",
+          "14",
+          "1"
+        ],
+        [
+          "SAN MIGUEL CANOA",
+          "21",
+          "6,000",
+          "2,999",
+          "3,001",
+          "240"
+        ],
+        [
+          "SAN MIGUEL ESPEJO",
+          "4",
+          "1,023",
+          "490",
+          "533",
+          "30"
+        ],
+        [
+          "SAN NICOLÁS COATEPEC",
+          "2",
+          "595",
+          "279",
+          "316",
+          "19"
+        ],
+        [
+          "SAN PEDRO ZACACHIMALPA",
+          "4",
+          "1,273",
+          "645",
+          "628",
+          "54"
+        ],
+        [
+          "SAN SEBASTIÁN DE APARICIO",
+          "12",
+          "3,632",
+          "1,900",
+          "1,732",
+          "138"
+        ],
+        [
+          "SANTA CATARINA",
+          "5",
+          "1,341",
+          "640",
+          "701",
+          "52"
+        ],
+        [
+          "SANTA CATARINA (TERCERA SECCIÓN)",
+          "2",
+          "74",
+          "43",
+          "31",
+          "3"
+        ],
+        [
+          "SANTA CLARA LA VENTA",
+          "3",
+          "513",
+          "251",
+          "262",
+          "21"
+        ],
+        [
+          "SANTA CRUZ LA IXTLA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "4"
+        ],
+        [
+          "SANTA LUCÍA ALTAMIRANO",
+          "2",
+          "825",
+          "414",
+          "411",
+          "22"
+        ],
+        [
+          "SANTA MARÍA GUADALUPE TECOLA",
+          "5",
+          "445",
+          "212",
+          "233",
+          "19"
+        ],
+        [
+          "SANTA MARÍA TZOCUILAC LA CANTERA",
+          "3",
+          "72",
+          "39",
+          "33",
+          "13"
+        ],
+        [
+          "SANTA MARÍA XONACATEPEC",
+          "12",
+          "3,620",
+          "1,846",
+          "1,774",
+          "141"
+        ],
+        [
+          "SANTO TOMÁS CHAUTLA",
+          "10",
+          "2,200",
+          "1,140",
+          "1,060",
+          "78"
+        ],
+        [
+          "TOTAL",
+          "2,333",
+          "598,076",
+          "308,912",
+          "289,164",
+          "33,539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:31:59.821Z"
+}

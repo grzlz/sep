@@ -1,0 +1,604 @@
+{
+  "municipality": "TZIMOL",
+  "municipalityCode": "104",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TZIMOL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tDOCTOR MANUEL VELASCO SUÁREZ\n\t\t4\n\t\t184\n\t\t91\n\t\t93\n\t\t9\n\t\n\t\n\t\tFELIPE ÁNGELES\n\t\t3\n\t\t114\n\t\t56\n\t\t58\n\t\t7\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t3\n\t\t293\n\t\t149\n\t\t144\n\t\t19\n\t\n\t\n\t\tGUADALUPE\n\t\t1\n\t\t21\n\t\t15\n\t\t6\n\t\t1\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t1\n\t\t20\n\t\t9\n\t\t11\n\t\t1\n\t\n\t\n\t\tHÉROES DE CHAPULTEPEC (EL LIMÓN)\n\t\t4\n\t\t351\n\t\t171\n\t\t180\n\t\t17\n\t\n\t\n\t\tLAGUNA ESQUEL\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tLAS GRANJAS\n\t\t1\n\t\t6\n\t\t6\n\t\t0\n\t\t1\n\t\n\t\n\t\tLENINGRADO\n\t\t2\n\t\t42\n\t\t22\n\t\t20\n\t\t2\n\t\n\t\n\t\tLINDA FLOR\n\t\t2\n\t\t40\n\t\t13\n\t\t27\n\t\t3\n\t\n\t\n\t\tMAMANTIC\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tNUEVA LIBERTAD\n\t\t2\n\t\t121\n\t\t61\n\t\t60\n\t\t5\n\t\n\t\n\t\tOCHUSJOB\n\t\t3\n\t\t242\n\t\t112\n\t\t130\n\t\t11\n\t\n\t\n\t\tPASO HONDO (GRACIAS A DIOS)\n\t\t2\n\t\t81\n\t\t34\n\t\t47\n\t\t4\n\t\n\t\n\t\tREFORMA AGRARIA DOS\n\t\t2\n\t\t32\n\t\t13\n\t\t19\n\t\t2\n\t\n\t\n\t\tREFORMA AGRARIA UNO\n\t\t2\n\t\t58\n\t\t30\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN CRISTOBALITO\n\t\t2\n\t\t24\n\t\t7\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN VICENTE LA MESILLA\n\t\t4\n\t\t719\n\t\t353\n\t\t366\n\t\t26\n\t\n\t\n\t\tSANTA CECILIA LA REJOYA\n\t\t1\n\t\t134\n\t\t62\n\t\t72\n\t\t5\n\t\n\t\n\t\tSANTA CECILIA UNO\n\t\t1\n\t\t45\n\t\t22\n\t\t23\n\t\t2\n\t\n\t\n\t\tSANTIAGO LA MESILLA\n\t\t2\n\t\t58\n\t\t31\n\t\t27\n\t\t4\n\t\n\t\n\t\tTZIMOL\n\t\t9\n\t\t1,482\n\t\t709\n\t\t773\n\t\t57\n\t\n\t\n\t\tVERAPAZ\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t54\n\t\t4,090\n\t\t1,979\n\t\t2,111\n\t\t185\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TZIMOL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "4",
+          "184",
+          "91",
+          "93",
+          "9",
+          "FELIPE ÁNGELES",
+          "3",
+          "114",
+          "56",
+          "58",
+          "7",
+          "FRANCISCO VILLA",
+          "3",
+          "293",
+          "149",
+          "144",
+          "19",
+          "GUADALUPE",
+          "1",
+          "21",
+          "15",
+          "6",
+          "1",
+          "GUADALUPE VICTORIA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1",
+          "HÉROES DE CHAPULTEPEC (EL LIMÓN)",
+          "4",
+          "351",
+          "171",
+          "180",
+          "17",
+          "LAGUNA ESQUEL",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "LAS GRANJAS",
+          "1",
+          "6",
+          "6",
+          "0",
+          "1",
+          "LENINGRADO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2",
+          "LINDA FLOR",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3",
+          "MAMANTIC",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "NUEVA LIBERTAD",
+          "2",
+          "121",
+          "61",
+          "60",
+          "5",
+          "OCHUSJOB",
+          "3",
+          "242",
+          "112",
+          "130",
+          "11",
+          "PASO HONDO (GRACIAS A DIOS)",
+          "2",
+          "81",
+          "34",
+          "47",
+          "4",
+          "REFORMA AGRARIA DOS",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2",
+          "REFORMA AGRARIA UNO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3",
+          "SAN CRISTOBALITO",
+          "2",
+          "24",
+          "7",
+          "17",
+          "3",
+          "SAN VICENTE LA MESILLA",
+          "4",
+          "719",
+          "353",
+          "366",
+          "26",
+          "SANTA CECILIA LA REJOYA",
+          "1",
+          "134",
+          "62",
+          "72",
+          "5",
+          "SANTA CECILIA UNO",
+          "1",
+          "45",
+          "22",
+          "23",
+          "2",
+          "SANTIAGO LA MESILLA",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4",
+          "TZIMOL",
+          "9",
+          "1,482",
+          "709",
+          "773",
+          "57",
+          "VERAPAZ",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "TOTAL",
+          "54",
+          "4,090",
+          "1,979",
+          "2,111",
+          "185",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TZIMOL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "4",
+          "184",
+          "91",
+          "93",
+          "9"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "3",
+          "114",
+          "56",
+          "58",
+          "7"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "293",
+          "149",
+          "144",
+          "19"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "21",
+          "15",
+          "6",
+          "1"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "HÉROES DE CHAPULTEPEC (EL LIMÓN)",
+          "4",
+          "351",
+          "171",
+          "180",
+          "17"
+        ],
+        [
+          "LAGUNA ESQUEL",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LAS GRANJAS",
+          "1",
+          "6",
+          "6",
+          "0",
+          "1"
+        ],
+        [
+          "LENINGRADO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "LINDA FLOR",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3"
+        ],
+        [
+          "MAMANTIC",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "121",
+          "61",
+          "60",
+          "5"
+        ],
+        [
+          "OCHUSJOB",
+          "3",
+          "242",
+          "112",
+          "130",
+          "11"
+        ],
+        [
+          "PASO HONDO (GRACIAS A DIOS)",
+          "2",
+          "81",
+          "34",
+          "47",
+          "4"
+        ],
+        [
+          "REFORMA AGRARIA DOS",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2"
+        ],
+        [
+          "REFORMA AGRARIA UNO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CRISTOBALITO",
+          "2",
+          "24",
+          "7",
+          "17",
+          "3"
+        ],
+        [
+          "SAN VICENTE LA MESILLA",
+          "4",
+          "719",
+          "353",
+          "366",
+          "26"
+        ],
+        [
+          "SANTA CECILIA LA REJOYA",
+          "1",
+          "134",
+          "62",
+          "72",
+          "5"
+        ],
+        [
+          "SANTA CECILIA UNO",
+          "1",
+          "45",
+          "22",
+          "23",
+          "2"
+        ],
+        [
+          "SANTIAGO LA MESILLA",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "TZIMOL",
+          "9",
+          "1,482",
+          "709",
+          "773",
+          "57"
+        ],
+        [
+          "VERAPAZ",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "4,090",
+          "1,979",
+          "2,111",
+          "185"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: TZIMOL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "4",
+          "184",
+          "91",
+          "93",
+          "9"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "3",
+          "114",
+          "56",
+          "58",
+          "7"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "293",
+          "149",
+          "144",
+          "19"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "21",
+          "15",
+          "6",
+          "1"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "1",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "HÉROES DE CHAPULTEPEC (EL LIMÓN)",
+          "4",
+          "351",
+          "171",
+          "180",
+          "17"
+        ],
+        [
+          "LAGUNA ESQUEL",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LAS GRANJAS",
+          "1",
+          "6",
+          "6",
+          "0",
+          "1"
+        ],
+        [
+          "LENINGRADO",
+          "2",
+          "42",
+          "22",
+          "20",
+          "2"
+        ],
+        [
+          "LINDA FLOR",
+          "2",
+          "40",
+          "13",
+          "27",
+          "3"
+        ],
+        [
+          "MAMANTIC",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "2",
+          "121",
+          "61",
+          "60",
+          "5"
+        ],
+        [
+          "OCHUSJOB",
+          "3",
+          "242",
+          "112",
+          "130",
+          "11"
+        ],
+        [
+          "PASO HONDO (GRACIAS A DIOS)",
+          "2",
+          "81",
+          "34",
+          "47",
+          "4"
+        ],
+        [
+          "REFORMA AGRARIA DOS",
+          "2",
+          "32",
+          "13",
+          "19",
+          "2"
+        ],
+        [
+          "REFORMA AGRARIA UNO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CRISTOBALITO",
+          "2",
+          "24",
+          "7",
+          "17",
+          "3"
+        ],
+        [
+          "SAN VICENTE LA MESILLA",
+          "4",
+          "719",
+          "353",
+          "366",
+          "26"
+        ],
+        [
+          "SANTA CECILIA LA REJOYA",
+          "1",
+          "134",
+          "62",
+          "72",
+          "5"
+        ],
+        [
+          "SANTA CECILIA UNO",
+          "1",
+          "45",
+          "22",
+          "23",
+          "2"
+        ],
+        [
+          "SANTIAGO LA MESILLA",
+          "2",
+          "58",
+          "31",
+          "27",
+          "4"
+        ],
+        [
+          "TZIMOL",
+          "9",
+          "1,482",
+          "709",
+          "773",
+          "57"
+        ],
+        [
+          "VERAPAZ",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "54",
+          "4,090",
+          "1,979",
+          "2,111",
+          "185"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:11:27.932Z"
+}

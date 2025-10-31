@@ -1,0 +1,714 @@
+{
+  "municipality": "GENERAL CEPEDA",
+  "municipalityCode": "011",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: GENERAL CEPEDA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBENECIO LÓPEZ PADILLA (BENITO JUÁREZ)\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tDOS DE ABRIL\n\t\t2\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL GAVILLERO\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL JARALITO\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL NOGAL\n\t\t2\n\t\t36\n\t\t19\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL PILAR DE RICHARDSON\n\t\t4\n\t\t160\n\t\t84\n\t\t76\n\t\t13\n\t\n\t\n\t\tEL TANQUE SAN VICENTE\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL TEJOCOTE\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tGENERAL CEPEDA\n\t\t10\n\t\t2,226\n\t\t1,164\n\t\t1,062\n\t\t122\n\t\n\t\n\t\tGUELATAO\n\t\t2\n\t\t67\n\t\t36\n\t\t31\n\t\t4\n\t\n\t\n\t\tINDEPENDENCIA\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t2\n\t\n\t\n\t\tJALPA\n\t\t4\n\t\t74\n\t\t44\n\t\t30\n\t\t7\n\t\n\t\n\t\tLA HEDIONDA CHICA\n\t\t2\n\t\t36\n\t\t18\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA LUZ Y COLÓN\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA NORIA DE LA SABINA\n\t\t2\n\t\t26\n\t\t9\n\t\t17\n\t\t2\n\t\n\t\n\t\tLA PAZ\n\t\t2\n\t\t36\n\t\t21\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA PUERTA\n\t\t2\n\t\t37\n\t\t15\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA ROSA\n\t\t4\n\t\t227\n\t\t111\n\t\t116\n\t\t18\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t71\n\t\t44\n\t\t27\n\t\t4\n\t\n\t\n\t\tMACUYÚ\n\t\t3\n\t\t97\n\t\t47\n\t\t50\n\t\t4\n\t\n\t\n\t\tMARTE (ESTACIÓN MARTE)\n\t\t1\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tPORVENIR DE JALPA\n\t\t1\n\t\t12\n\t\t8\n\t\t4\n\t\t1\n\t\n\t\n\t\tPORVENIR DE TACUBAYA\n\t\t4\n\t\t167\n\t\t85\n\t\t82\n\t\t9\n\t\n\t\n\t\tPRESA DE GUADALUPE (GUADALUPE)\n\t\t4\n\t\t131\n\t\t64\n\t\t67\n\t\t8\n\t\n\t\n\t\tRINCÓN COLORADO\n\t\t1\n\t\t16\n\t\t6\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO DEL JARAL\n\t\t2\n\t\t67\n\t\t38\n\t\t29\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ DEL REFUGIO\n\t\t2\n\t\t50\n\t\t27\n\t\t23\n\t\t3\n\t\n\t\n\t\tSANTA INÉS (EL OJITO)\n\t\t1\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t68\n\t\t3,699\n\t\t1,920\n\t\t1,779\n\t\t228\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: GENERAL CEPEDA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BENECIO LÓPEZ PADILLA (BENITO JUÁREZ)",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "DOS DE ABRIL",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2",
+          "EL GAVILLERO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL JARALITO",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2",
+          "EL NOGAL",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3",
+          "EL PILAR DE RICHARDSON",
+          "4",
+          "160",
+          "84",
+          "76",
+          "13",
+          "EL TANQUE SAN VICENTE",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "EL TEJOCOTE",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "GENERAL CEPEDA",
+          "10",
+          "2,226",
+          "1,164",
+          "1,062",
+          "122",
+          "GUELATAO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4",
+          "INDEPENDENCIA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2",
+          "JALPA",
+          "4",
+          "74",
+          "44",
+          "30",
+          "7",
+          "LA HEDIONDA CHICA",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3",
+          "LA LUZ Y COLÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "LA NORIA DE LA SABINA",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2",
+          "LA PAZ",
+          "2",
+          "36",
+          "21",
+          "15",
+          "3",
+          "LA PUERTA",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3",
+          "LA ROSA",
+          "4",
+          "227",
+          "111",
+          "116",
+          "18",
+          "LA TRINIDAD",
+          "2",
+          "71",
+          "44",
+          "27",
+          "4",
+          "MACUYÚ",
+          "3",
+          "97",
+          "47",
+          "50",
+          "4",
+          "MARTE (ESTACIÓN MARTE)",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2",
+          "PORVENIR DE JALPA",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1",
+          "PORVENIR DE TACUBAYA",
+          "4",
+          "167",
+          "85",
+          "82",
+          "9",
+          "PRESA DE GUADALUPE (GUADALUPE)",
+          "4",
+          "131",
+          "64",
+          "67",
+          "8",
+          "RINCÓN COLORADO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1",
+          "SAN ANTONIO DEL JARAL",
+          "2",
+          "67",
+          "38",
+          "29",
+          "4",
+          "SAN JOSÉ DEL REFUGIO",
+          "2",
+          "50",
+          "27",
+          "23",
+          "3",
+          "SANTA INÉS (EL OJITO)",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1",
+          "TOTAL",
+          "68",
+          "3,699",
+          "1,920",
+          "1,779",
+          "228",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: GENERAL CEPEDA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENECIO LÓPEZ PADILLA (BENITO JUÁREZ)",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "DOS DE ABRIL",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "EL GAVILLERO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL JARALITO",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "EL NOGAL",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "EL PILAR DE RICHARDSON",
+          "4",
+          "160",
+          "84",
+          "76",
+          "13"
+        ],
+        [
+          "EL TANQUE SAN VICENTE",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL TEJOCOTE",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "GENERAL CEPEDA",
+          "10",
+          "2,226",
+          "1,164",
+          "1,062",
+          "122"
+        ],
+        [
+          "GUELATAO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "INDEPENDENCIA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "JALPA",
+          "4",
+          "74",
+          "44",
+          "30",
+          "7"
+        ],
+        [
+          "LA HEDIONDA CHICA",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "LA LUZ Y COLÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LA NORIA DE LA SABINA",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "LA PAZ",
+          "2",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "LA PUERTA",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LA ROSA",
+          "4",
+          "227",
+          "111",
+          "116",
+          "18"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "71",
+          "44",
+          "27",
+          "4"
+        ],
+        [
+          "MACUYÚ",
+          "3",
+          "97",
+          "47",
+          "50",
+          "4"
+        ],
+        [
+          "MARTE (ESTACIÓN MARTE)",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "PORVENIR DE JALPA",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "PORVENIR DE TACUBAYA",
+          "4",
+          "167",
+          "85",
+          "82",
+          "9"
+        ],
+        [
+          "PRESA DE GUADALUPE (GUADALUPE)",
+          "4",
+          "131",
+          "64",
+          "67",
+          "8"
+        ],
+        [
+          "RINCÓN COLORADO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DEL JARAL",
+          "2",
+          "67",
+          "38",
+          "29",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DEL REFUGIO",
+          "2",
+          "50",
+          "27",
+          "23",
+          "3"
+        ],
+        [
+          "SANTA INÉS (EL OJITO)",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "68",
+          "3,699",
+          "1,920",
+          "1,779",
+          "228"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: GENERAL CEPEDA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BENECIO LÓPEZ PADILLA (BENITO JUÁREZ)",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "DOS DE ABRIL",
+          "2",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "EL GAVILLERO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL JARALITO",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "EL NOGAL",
+          "2",
+          "36",
+          "19",
+          "17",
+          "3"
+        ],
+        [
+          "EL PILAR DE RICHARDSON",
+          "4",
+          "160",
+          "84",
+          "76",
+          "13"
+        ],
+        [
+          "EL TANQUE SAN VICENTE",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL TEJOCOTE",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "GENERAL CEPEDA",
+          "10",
+          "2,226",
+          "1,164",
+          "1,062",
+          "122"
+        ],
+        [
+          "GUELATAO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "INDEPENDENCIA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "2"
+        ],
+        [
+          "JALPA",
+          "4",
+          "74",
+          "44",
+          "30",
+          "7"
+        ],
+        [
+          "LA HEDIONDA CHICA",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "LA LUZ Y COLÓN",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "LA NORIA DE LA SABINA",
+          "2",
+          "26",
+          "9",
+          "17",
+          "2"
+        ],
+        [
+          "LA PAZ",
+          "2",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "LA PUERTA",
+          "2",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "LA ROSA",
+          "4",
+          "227",
+          "111",
+          "116",
+          "18"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "71",
+          "44",
+          "27",
+          "4"
+        ],
+        [
+          "MACUYÚ",
+          "3",
+          "97",
+          "47",
+          "50",
+          "4"
+        ],
+        [
+          "MARTE (ESTACIÓN MARTE)",
+          "1",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "PORVENIR DE JALPA",
+          "1",
+          "12",
+          "8",
+          "4",
+          "1"
+        ],
+        [
+          "PORVENIR DE TACUBAYA",
+          "4",
+          "167",
+          "85",
+          "82",
+          "9"
+        ],
+        [
+          "PRESA DE GUADALUPE (GUADALUPE)",
+          "4",
+          "131",
+          "64",
+          "67",
+          "8"
+        ],
+        [
+          "RINCÓN COLORADO",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DEL JARAL",
+          "2",
+          "67",
+          "38",
+          "29",
+          "4"
+        ],
+        [
+          "SAN JOSÉ DEL REFUGIO",
+          "2",
+          "50",
+          "27",
+          "23",
+          "3"
+        ],
+        [
+          "SANTA INÉS (EL OJITO)",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "68",
+          "3,699",
+          "1,920",
+          "1,779",
+          "228"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:51.965Z"
+}

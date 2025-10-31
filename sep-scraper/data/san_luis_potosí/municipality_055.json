@@ -1,0 +1,890 @@
+{
+  "municipality": "ZARAGOZA",
+  "municipalityCode": "055",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: ZARAGOZA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA ZARCA\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tALBERCA DE LA CRUZ\n\t\t3\n\t\t69\n\t\t32\n\t\t37\n\t\t4\n\t\n\t\n\t\tALTAMIRA\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tARREATES\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t2\n\t\n\t\n\t\tARROYO HONDO\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tCERRO GORDO\n\t\t5\n\t\t894\n\t\t438\n\t\t456\n\t\t44\n\t\n\t\n\t\tCOAHUILA\n\t\t3\n\t\t39\n\t\t22\n\t\t17\n\t\t5\n\t\n\t\n\t\tCOLONIA EL PEDREGAL\n\t\t2\n\t\t41\n\t\t16\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA (EL TEPOZÁN)\n\t\t2\n\t\t70\n\t\t38\n\t\t32\n\t\t3\n\t\n\t\n\t\tESTANCO DEL CARMEN\n\t\t3\n\t\t28\n\t\t12\n\t\t16\n\t\t3\n\t\n\t\n\t\tINDEPENDENCIA (PATOL)\n\t\t3\n\t\t54\n\t\t27\n\t\t27\n\t\t5\n\t\n\t\n\t\tJAMAY\n\t\t3\n\t\t137\n\t\t64\n\t\t73\n\t\t8\n\t\n\t\n\t\tKILÓMETRO 58\n\t\t3\n\t\t37\n\t\t19\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA CALERA\n\t\t3\n\t\t90\n\t\t43\n\t\t47\n\t\t5\n\t\n\t\n\t\tLA ESPERANZA\n\t\t4\n\t\t648\n\t\t338\n\t\t310\n\t\t28\n\t\n\t\n\t\tLA ESTANCIA\n\t\t3\n\t\t94\n\t\t47\n\t\t47\n\t\t5\n\t\n\t\n\t\tLA MORENA\n\t\t3\n\t\t23\n\t\t9\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA PARADA DEL ZARCIDO\n\t\t3\n\t\t115\n\t\t63\n\t\t52\n\t\t7\n\t\n\t\n\t\tLA SALITRERA\n\t\t3\n\t\t115\n\t\t55\n\t\t60\n\t\t6\n\t\n\t\n\t\tLAS RUSIAS\n\t\t1\n\t\t3\n\t\t3\n\t\t0\n\t\t1\n\t\n\t\n\t\tLOS MATÍAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS PILARES\n\t\t3\n\t\t97\n\t\t46\n\t\t51\n\t\t5\n\t\n\t\n\t\tLOS TERREROS\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tPARADA DE LOS MARTÍNEZ\n\t\t3\n\t\t120\n\t\t63\n\t\t57\n\t\t6\n\t\n\t\n\t\tPILAR DE GUADALUPE\n\t\t2\n\t\t26\n\t\t10\n\t\t16\n\t\t3\n\t\n\t\n\t\tPUERTA DE LAS ANDANAS\n\t\t3\n\t\t25\n\t\t12\n\t\t13\n\t\t4\n\t\n\t\n\t\tRANCHITO DE LOS RIVERA\n\t\t3\n\t\t62\n\t\t28\n\t\t34\n\t\t4\n\t\n\t\n\t\tRINCÓN DE SANTA EDUWIGES\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t151\n\t\t66\n\t\t85\n\t\t8\n\t\n\t\n\t\tSAN JOSÉ DE GÓMEZ\n\t\t3\n\t\t258\n\t\t124\n\t\t134\n\t\t13\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t3\n\t\t209\n\t\t105\n\t\t104\n\t\t11\n\t\n\t\n\t\tTEXAS\n\t\t3\n\t\t197\n\t\t94\n\t\t103\n\t\t11\n\t\n\t\n\t\tVALLE DE LOS FANTASMAS\n\t\t3\n\t\t53\n\t\t25\n\t\t28\n\t\t4\n\t\n\t\n\t\tVILLA DE ZARAGOZA\n\t\t14\n\t\t3,365\n\t\t1,700\n\t\t1,665\n\t\t167\n\t\n\t\n\t\tXOCONOXTLE\n\t\t3\n\t\t240\n\t\t120\n\t\t120\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t106\n\t\t7,379\n\t\t3,681\n\t\t3,698\n\t\t394\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: ZARAGOZA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA ZARCA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "ALBERCA DE LA CRUZ",
+          "3",
+          "69",
+          "32",
+          "37",
+          "4",
+          "ALTAMIRA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "ARREATES",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2",
+          "ARROYO HONDO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "CERRO GORDO",
+          "5",
+          "894",
+          "438",
+          "456",
+          "44",
+          "COAHUILA",
+          "3",
+          "39",
+          "22",
+          "17",
+          "5",
+          "COLONIA EL PEDREGAL",
+          "2",
+          "41",
+          "16",
+          "25",
+          "3",
+          "EL CARMEN",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2",
+          "EMILIANO ZAPATA (EL TEPOZÁN)",
+          "2",
+          "70",
+          "38",
+          "32",
+          "3",
+          "ESTANCO DEL CARMEN",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3",
+          "INDEPENDENCIA (PATOL)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "5",
+          "JAMAY",
+          "3",
+          "137",
+          "64",
+          "73",
+          "8",
+          "KILÓMETRO 58",
+          "3",
+          "37",
+          "19",
+          "18",
+          "3",
+          "LA CALERA",
+          "3",
+          "90",
+          "43",
+          "47",
+          "5",
+          "LA ESPERANZA",
+          "4",
+          "648",
+          "338",
+          "310",
+          "28",
+          "LA ESTANCIA",
+          "3",
+          "94",
+          "47",
+          "47",
+          "5",
+          "LA MORENA",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3",
+          "LA PARADA DEL ZARCIDO",
+          "3",
+          "115",
+          "63",
+          "52",
+          "7",
+          "LA SALITRERA",
+          "3",
+          "115",
+          "55",
+          "60",
+          "6",
+          "LAS RUSIAS",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1",
+          "LOS MATÍAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LOS PILARES",
+          "3",
+          "97",
+          "46",
+          "51",
+          "5",
+          "LOS TERREROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "PARADA DE LOS MARTÍNEZ",
+          "3",
+          "120",
+          "63",
+          "57",
+          "6",
+          "PILAR DE GUADALUPE",
+          "2",
+          "26",
+          "10",
+          "16",
+          "3",
+          "PUERTA DE LAS ANDANAS",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4",
+          "RANCHITO DE LOS RIVERA",
+          "3",
+          "62",
+          "28",
+          "34",
+          "4",
+          "RINCÓN DE SANTA EDUWIGES",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "SAN FRANCISCO",
+          "3",
+          "151",
+          "66",
+          "85",
+          "8",
+          "SAN JOSÉ DE GÓMEZ",
+          "3",
+          "258",
+          "124",
+          "134",
+          "13",
+          "SANTO DOMINGO",
+          "3",
+          "209",
+          "105",
+          "104",
+          "11",
+          "TEXAS",
+          "3",
+          "197",
+          "94",
+          "103",
+          "11",
+          "VALLE DE LOS FANTASMAS",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4",
+          "VILLA DE ZARAGOZA",
+          "14",
+          "3,365",
+          "1,700",
+          "1,665",
+          "167",
+          "XOCONOXTLE",
+          "3",
+          "240",
+          "120",
+          "120",
+          "12",
+          "TOTAL",
+          "106",
+          "7,379",
+          "3,681",
+          "3,698",
+          "394",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: ZARAGOZA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA ZARCA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "ALBERCA DE LA CRUZ",
+          "3",
+          "69",
+          "32",
+          "37",
+          "4"
+        ],
+        [
+          "ALTAMIRA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "ARREATES",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "CERRO GORDO",
+          "5",
+          "894",
+          "438",
+          "456",
+          "44"
+        ],
+        [
+          "COAHUILA",
+          "3",
+          "39",
+          "22",
+          "17",
+          "5"
+        ],
+        [
+          "COLONIA EL PEDREGAL",
+          "2",
+          "41",
+          "16",
+          "25",
+          "3"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (EL TEPOZÁN)",
+          "2",
+          "70",
+          "38",
+          "32",
+          "3"
+        ],
+        [
+          "ESTANCO DEL CARMEN",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "INDEPENDENCIA (PATOL)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "5"
+        ],
+        [
+          "JAMAY",
+          "3",
+          "137",
+          "64",
+          "73",
+          "8"
+        ],
+        [
+          "KILÓMETRO 58",
+          "3",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "LA CALERA",
+          "3",
+          "90",
+          "43",
+          "47",
+          "5"
+        ],
+        [
+          "LA ESPERANZA",
+          "4",
+          "648",
+          "338",
+          "310",
+          "28"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "94",
+          "47",
+          "47",
+          "5"
+        ],
+        [
+          "LA MORENA",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "LA PARADA DEL ZARCIDO",
+          "3",
+          "115",
+          "63",
+          "52",
+          "7"
+        ],
+        [
+          "LA SALITRERA",
+          "3",
+          "115",
+          "55",
+          "60",
+          "6"
+        ],
+        [
+          "LAS RUSIAS",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "LOS MATÍAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LOS PILARES",
+          "3",
+          "97",
+          "46",
+          "51",
+          "5"
+        ],
+        [
+          "LOS TERREROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "PARADA DE LOS MARTÍNEZ",
+          "3",
+          "120",
+          "63",
+          "57",
+          "6"
+        ],
+        [
+          "PILAR DE GUADALUPE",
+          "2",
+          "26",
+          "10",
+          "16",
+          "3"
+        ],
+        [
+          "PUERTA DE LAS ANDANAS",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4"
+        ],
+        [
+          "RANCHITO DE LOS RIVERA",
+          "3",
+          "62",
+          "28",
+          "34",
+          "4"
+        ],
+        [
+          "RINCÓN DE SANTA EDUWIGES",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "151",
+          "66",
+          "85",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DE GÓMEZ",
+          "3",
+          "258",
+          "124",
+          "134",
+          "13"
+        ],
+        [
+          "SANTO DOMINGO",
+          "3",
+          "209",
+          "105",
+          "104",
+          "11"
+        ],
+        [
+          "TEXAS",
+          "3",
+          "197",
+          "94",
+          "103",
+          "11"
+        ],
+        [
+          "VALLE DE LOS FANTASMAS",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4"
+        ],
+        [
+          "VILLA DE ZARAGOZA",
+          "14",
+          "3,365",
+          "1,700",
+          "1,665",
+          "167"
+        ],
+        [
+          "XOCONOXTLE",
+          "3",
+          "240",
+          "120",
+          "120",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "7,379",
+          "3,681",
+          "3,698",
+          "394"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: ZARAGOZA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA ZARCA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "ALBERCA DE LA CRUZ",
+          "3",
+          "69",
+          "32",
+          "37",
+          "4"
+        ],
+        [
+          "ALTAMIRA",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "ARREATES",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "ARROYO HONDO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "CERRO GORDO",
+          "5",
+          "894",
+          "438",
+          "456",
+          "44"
+        ],
+        [
+          "COAHUILA",
+          "3",
+          "39",
+          "22",
+          "17",
+          "5"
+        ],
+        [
+          "COLONIA EL PEDREGAL",
+          "2",
+          "41",
+          "16",
+          "25",
+          "3"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (EL TEPOZÁN)",
+          "2",
+          "70",
+          "38",
+          "32",
+          "3"
+        ],
+        [
+          "ESTANCO DEL CARMEN",
+          "3",
+          "28",
+          "12",
+          "16",
+          "3"
+        ],
+        [
+          "INDEPENDENCIA (PATOL)",
+          "3",
+          "54",
+          "27",
+          "27",
+          "5"
+        ],
+        [
+          "JAMAY",
+          "3",
+          "137",
+          "64",
+          "73",
+          "8"
+        ],
+        [
+          "KILÓMETRO 58",
+          "3",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "LA CALERA",
+          "3",
+          "90",
+          "43",
+          "47",
+          "5"
+        ],
+        [
+          "LA ESPERANZA",
+          "4",
+          "648",
+          "338",
+          "310",
+          "28"
+        ],
+        [
+          "LA ESTANCIA",
+          "3",
+          "94",
+          "47",
+          "47",
+          "5"
+        ],
+        [
+          "LA MORENA",
+          "3",
+          "23",
+          "9",
+          "14",
+          "3"
+        ],
+        [
+          "LA PARADA DEL ZARCIDO",
+          "3",
+          "115",
+          "63",
+          "52",
+          "7"
+        ],
+        [
+          "LA SALITRERA",
+          "3",
+          "115",
+          "55",
+          "60",
+          "6"
+        ],
+        [
+          "LAS RUSIAS",
+          "1",
+          "3",
+          "3",
+          "0",
+          "1"
+        ],
+        [
+          "LOS MATÍAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LOS PILARES",
+          "3",
+          "97",
+          "46",
+          "51",
+          "5"
+        ],
+        [
+          "LOS TERREROS",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "PARADA DE LOS MARTÍNEZ",
+          "3",
+          "120",
+          "63",
+          "57",
+          "6"
+        ],
+        [
+          "PILAR DE GUADALUPE",
+          "2",
+          "26",
+          "10",
+          "16",
+          "3"
+        ],
+        [
+          "PUERTA DE LAS ANDANAS",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4"
+        ],
+        [
+          "RANCHITO DE LOS RIVERA",
+          "3",
+          "62",
+          "28",
+          "34",
+          "4"
+        ],
+        [
+          "RINCÓN DE SANTA EDUWIGES",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "151",
+          "66",
+          "85",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DE GÓMEZ",
+          "3",
+          "258",
+          "124",
+          "134",
+          "13"
+        ],
+        [
+          "SANTO DOMINGO",
+          "3",
+          "209",
+          "105",
+          "104",
+          "11"
+        ],
+        [
+          "TEXAS",
+          "3",
+          "197",
+          "94",
+          "103",
+          "11"
+        ],
+        [
+          "VALLE DE LOS FANTASMAS",
+          "3",
+          "53",
+          "25",
+          "28",
+          "4"
+        ],
+        [
+          "VILLA DE ZARAGOZA",
+          "14",
+          "3,365",
+          "1,700",
+          "1,665",
+          "167"
+        ],
+        [
+          "XOCONOXTLE",
+          "3",
+          "240",
+          "120",
+          "120",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "106",
+          "7,379",
+          "3,681",
+          "3,698",
+          "394"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:32:03.742Z"
+}

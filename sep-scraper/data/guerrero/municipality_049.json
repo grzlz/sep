@@ -1,0 +1,494 @@
+{
+  "municipality": "PILCAYA",
+  "municipalityCode": "049",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: PILCAYA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMATITLÁN\n\t\t3\n\t\t30\n\t\t15\n\t\t15\n\t\t4\n\t\n\t\n\t\tCACAHUAMILPA\n\t\t3\n\t\t162\n\t\t77\n\t\t85\n\t\t9\n\t\n\t\n\t\tCHIMALTITLÁN\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tCRUCERO DE GRUTAS (GRUTAS DE CACAHUAMILPA)\n\t\t2\n\t\t45\n\t\t23\n\t\t22\n\t\t4\n\t\n\t\n\t\tCUITLAPA\n\t\t3\n\t\t34\n\t\t16\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL BOSQUE\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL MOGOTE\n\t\t4\n\t\t116\n\t\t56\n\t\t60\n\t\t10\n\t\n\t\n\t\tEL PLATANAR\n\t\t3\n\t\t54\n\t\t34\n\t\t20\n\t\t5\n\t\n\t\n\t\tEL SAUZ\n\t\t3\n\t\t59\n\t\t27\n\t\t32\n\t\t5\n\t\n\t\n\t\tEL TRANSFORMADOR\n\t\t1\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL UVALAR\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tJUCHIMILPA\n\t\t3\n\t\t53\n\t\t23\n\t\t30\n\t\t5\n\t\n\t\n\t\tLA CONCEPCIÓN (LA CONCHA)\n\t\t2\n\t\t191\n\t\t111\n\t\t80\n\t\t7\n\t\n\t\n\t\tLOS SAUCES\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t3\n\t\n\t\n\t\tPIEDRAS NEGRAS\n\t\t2\n\t\t50\n\t\t30\n\t\t20\n\t\t4\n\t\n\t\n\t\tPILCAYA\n\t\t7\n\t\t1,453\n\t\t727\n\t\t726\n\t\t61\n\t\n\t\n\t\tSANTA MARÍA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tSANTA TERESA\n\t\t2\n\t\t90\n\t\t35\n\t\t55\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t48\n\t\t2,430\n\t\t1,222\n\t\t1,208\n\t\t137\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: PILCAYA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMATITLÁN",
+          "3",
+          "30",
+          "15",
+          "15",
+          "4",
+          "CACAHUAMILPA",
+          "3",
+          "162",
+          "77",
+          "85",
+          "9",
+          "CHIMALTITLÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "CRUCERO DE GRUTAS (GRUTAS DE CACAHUAMILPA)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "4",
+          "CUITLAPA",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4",
+          "EL BOSQUE",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "EL MOGOTE",
+          "4",
+          "116",
+          "56",
+          "60",
+          "10",
+          "EL PLATANAR",
+          "3",
+          "54",
+          "34",
+          "20",
+          "5",
+          "EL SAUZ",
+          "3",
+          "59",
+          "27",
+          "32",
+          "5",
+          "EL TRANSFORMADOR",
+          "1",
+          "23",
+          "11",
+          "12",
+          "2",
+          "EL UVALAR",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "JUCHIMILPA",
+          "3",
+          "53",
+          "23",
+          "30",
+          "5",
+          "LA CONCEPCIÓN (LA CONCHA)",
+          "2",
+          "191",
+          "111",
+          "80",
+          "7",
+          "LOS SAUCES",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3",
+          "PIEDRAS NEGRAS",
+          "2",
+          "50",
+          "30",
+          "20",
+          "4",
+          "PILCAYA",
+          "7",
+          "1,453",
+          "727",
+          "726",
+          "61",
+          "SANTA MARÍA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "SANTA TERESA",
+          "2",
+          "90",
+          "35",
+          "55",
+          "6",
+          "TOTAL",
+          "48",
+          "2,430",
+          "1,222",
+          "1,208",
+          "137",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: PILCAYA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMATITLÁN",
+          "3",
+          "30",
+          "15",
+          "15",
+          "4"
+        ],
+        [
+          "CACAHUAMILPA",
+          "3",
+          "162",
+          "77",
+          "85",
+          "9"
+        ],
+        [
+          "CHIMALTITLÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "CRUCERO DE GRUTAS (GRUTAS DE CACAHUAMILPA)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "4"
+        ],
+        [
+          "CUITLAPA",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EL BOSQUE",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL MOGOTE",
+          "4",
+          "116",
+          "56",
+          "60",
+          "10"
+        ],
+        [
+          "EL PLATANAR",
+          "3",
+          "54",
+          "34",
+          "20",
+          "5"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "59",
+          "27",
+          "32",
+          "5"
+        ],
+        [
+          "EL TRANSFORMADOR",
+          "1",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "EL UVALAR",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "JUCHIMILPA",
+          "3",
+          "53",
+          "23",
+          "30",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN (LA CONCHA)",
+          "2",
+          "191",
+          "111",
+          "80",
+          "7"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "50",
+          "30",
+          "20",
+          "4"
+        ],
+        [
+          "PILCAYA",
+          "7",
+          "1,453",
+          "727",
+          "726",
+          "61"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "90",
+          "35",
+          "55",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "48",
+          "2,430",
+          "1,222",
+          "1,208",
+          "137"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: PILCAYA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMATITLÁN",
+          "3",
+          "30",
+          "15",
+          "15",
+          "4"
+        ],
+        [
+          "CACAHUAMILPA",
+          "3",
+          "162",
+          "77",
+          "85",
+          "9"
+        ],
+        [
+          "CHIMALTITLÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "CRUCERO DE GRUTAS (GRUTAS DE CACAHUAMILPA)",
+          "2",
+          "45",
+          "23",
+          "22",
+          "4"
+        ],
+        [
+          "CUITLAPA",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EL BOSQUE",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "EL MOGOTE",
+          "4",
+          "116",
+          "56",
+          "60",
+          "10"
+        ],
+        [
+          "EL PLATANAR",
+          "3",
+          "54",
+          "34",
+          "20",
+          "5"
+        ],
+        [
+          "EL SAUZ",
+          "3",
+          "59",
+          "27",
+          "32",
+          "5"
+        ],
+        [
+          "EL TRANSFORMADOR",
+          "1",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "EL UVALAR",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "JUCHIMILPA",
+          "3",
+          "53",
+          "23",
+          "30",
+          "5"
+        ],
+        [
+          "LA CONCEPCIÓN (LA CONCHA)",
+          "2",
+          "191",
+          "111",
+          "80",
+          "7"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "50",
+          "30",
+          "20",
+          "4"
+        ],
+        [
+          "PILCAYA",
+          "7",
+          "1,453",
+          "727",
+          "726",
+          "61"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SANTA TERESA",
+          "2",
+          "90",
+          "35",
+          "55",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "48",
+          "2,430",
+          "1,222",
+          "1,208",
+          "137"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:13:00.975Z"
+}

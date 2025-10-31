@@ -1,0 +1,802 @@
+{
+  "municipality": "REFORMA",
+  "municipalityCode": "074",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: REFORMA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCRISTO REY\n\t\t3\n\t\t117\n\t\t54\n\t\t63\n\t\t7\n\t\n\t\n\t\tEL CARACOL\n\t\t3\n\t\t38\n\t\t16\n\t\t22\n\t\t3\n\t\n\t\n\t\tEL CARMEN (EL LIMÓN)\n\t\t4\n\t\t844\n\t\t360\n\t\t484\n\t\t51\n\t\n\t\n\t\tEL LIMONCITO\n\t\t3\n\t\t99\n\t\t39\n\t\t60\n\t\t5\n\t\n\t\n\t\tEL ROSARIO\n\t\t3\n\t\t26\n\t\t10\n\t\t16\n\t\t3\n\t\n\t\n\t\tEL TRAPICHE\n\t\t3\n\t\t60\n\t\t25\n\t\t35\n\t\t5\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t4\n\t\t230\n\t\t115\n\t\t115\n\t\t12\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t1\n\t\t28\n\t\t13\n\t\t15\n\t\t1\n\t\n\t\n\t\tGUSTAVO AGUIRRE BENAVIDES 1RA. SECCIÓN\n\t\t1\n\t\t52\n\t\t20\n\t\t32\n\t\t2\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t2\n\t\t88\n\t\t40\n\t\t48\n\t\t4\n\t\n\t\n\t\tJUAN SABINES GUTIÉRREZ\n\t\t3\n\t\t30\n\t\t17\n\t\t13\n\t\t4\n\t\n\t\n\t\tLA CEIBA\n\t\t3\n\t\t91\n\t\t45\n\t\t46\n\t\t5\n\t\n\t\n\t\tLA UNIÓN\n\t\t1\n\t\t98\n\t\t47\n\t\t51\n\t\t3\n\t\n\t\n\t\tMACAYO 1RA. SECCIÓN (LAS MERCEDES)\n\t\t3\n\t\t59\n\t\t33\n\t\t26\n\t\t4\n\t\n\t\n\t\tMACAYO 2DA. SECCIÓN\n\t\t3\n\t\t199\n\t\t93\n\t\t106\n\t\t11\n\t\n\t\n\t\tMACAYO 3RA. SECCIÓN\n\t\t4\n\t\t159\n\t\t67\n\t\t92\n\t\t10\n\t\n\t\n\t\tMACAYO 5TA. SECCIÓN\n\t\t2\n\t\t18\n\t\t12\n\t\t6\n\t\t2\n\t\n\t\n\t\tMIGUEL ALDAMA\n\t\t2\n\t\t30\n\t\t16\n\t\t14\n\t\t2\n\t\n\t\n\t\tMIGUEL HIDALGO\n\t\t2\n\t\t45\n\t\t19\n\t\t26\n\t\t4\n\t\n\t\n\t\tMORELOS 1RA. SECCIÓN\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tMORELOS 2DA. SECCIÓN\n\t\t3\n\t\t100\n\t\t46\n\t\t54\n\t\t6\n\t\n\t\n\t\tPRESIDENTES\n\t\t1\n\t\t128\n\t\t65\n\t\t63\n\t\t6\n\t\n\t\n\t\tRAFAEL PASCACIO GAMBOA\n\t\t4\n\t\t503\n\t\t243\n\t\t260\n\t\t24\n\t\n\t\n\t\tREFORMA\n\t\t47\n\t\t8,724\n\t\t4,457\n\t\t4,267\n\t\t485\n\t\n\t\n\t\tSAN JOSÉ LIMONCITO\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL 1RA. SECCIÓN\n\t\t4\n\t\t379\n\t\t180\n\t\t199\n\t\t12\n\t\n\t\n\t\tSAN MIGUEL 2DA. SECCIÓN\n\t\t3\n\t\t155\n\t\t76\n\t\t79\n\t\t9\n\t\n\t\n\t\tSANTA CRUZ (SITIO GRANDE)\n\t\t3\n\t\t85\n\t\t29\n\t\t56\n\t\t12\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t2\n\t\t23\n\t\t9\n\t\t14\n\t\t2\n\t\n\t\n\t\tZAPOTAL 1RA. SECCIÓN\n\t\t2\n\t\t42\n\t\t25\n\t\t17\n\t\t3\n\t\n\t\n\t\tZAPOTAL 2DA. SECCIÓN\n\t\t3\n\t\t54\n\t\t25\n\t\t29\n\t\t4\n\t\n\t\n\t\tZAPOTAL 3RA. SECCIÓN\n\t\t2\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t127\n\t\t12,545\n\t\t6,216\n\t\t6,329\n\t\t705\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: REFORMA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CRISTO REY",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7",
+          "EL CARACOL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3",
+          "EL CARMEN (EL LIMÓN)",
+          "4",
+          "844",
+          "360",
+          "484",
+          "51",
+          "EL LIMONCITO",
+          "3",
+          "99",
+          "39",
+          "60",
+          "5",
+          "EL ROSARIO",
+          "3",
+          "26",
+          "10",
+          "16",
+          "3",
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "25",
+          "35",
+          "5",
+          "EMILIANO ZAPATA",
+          "4",
+          "230",
+          "115",
+          "115",
+          "12",
+          "FRANCISCO I. MADERO",
+          "1",
+          "28",
+          "13",
+          "15",
+          "1",
+          "GUSTAVO AGUIRRE BENAVIDES 1RA. SECCIÓN",
+          "1",
+          "52",
+          "20",
+          "32",
+          "2",
+          "IGNACIO ZARAGOZA",
+          "2",
+          "88",
+          "40",
+          "48",
+          "4",
+          "JUAN SABINES GUTIÉRREZ",
+          "3",
+          "30",
+          "17",
+          "13",
+          "4",
+          "LA CEIBA",
+          "3",
+          "91",
+          "45",
+          "46",
+          "5",
+          "LA UNIÓN",
+          "1",
+          "98",
+          "47",
+          "51",
+          "3",
+          "MACAYO 1RA. SECCIÓN (LAS MERCEDES)",
+          "3",
+          "59",
+          "33",
+          "26",
+          "4",
+          "MACAYO 2DA. SECCIÓN",
+          "3",
+          "199",
+          "93",
+          "106",
+          "11",
+          "MACAYO 3RA. SECCIÓN",
+          "4",
+          "159",
+          "67",
+          "92",
+          "10",
+          "MACAYO 5TA. SECCIÓN",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2",
+          "MIGUEL ALDAMA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2",
+          "MIGUEL HIDALGO",
+          "2",
+          "45",
+          "19",
+          "26",
+          "4",
+          "MORELOS 1RA. SECCIÓN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "MORELOS 2DA. SECCIÓN",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6",
+          "PRESIDENTES",
+          "1",
+          "128",
+          "65",
+          "63",
+          "6",
+          "RAFAEL PASCACIO GAMBOA",
+          "4",
+          "503",
+          "243",
+          "260",
+          "24",
+          "REFORMA",
+          "47",
+          "8,724",
+          "4,457",
+          "4,267",
+          "485",
+          "SAN JOSÉ LIMONCITO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SAN MIGUEL 1RA. SECCIÓN",
+          "4",
+          "379",
+          "180",
+          "199",
+          "12",
+          "SAN MIGUEL 2DA. SECCIÓN",
+          "3",
+          "155",
+          "76",
+          "79",
+          "9",
+          "SANTA CRUZ (SITIO GRANDE)",
+          "3",
+          "85",
+          "29",
+          "56",
+          "12",
+          "VICENTE GUERRERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2",
+          "ZAPOTAL 1RA. SECCIÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3",
+          "ZAPOTAL 2DA. SECCIÓN",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4",
+          "ZAPOTAL 3RA. SECCIÓN",
+          "2",
+          "15",
+          "7",
+          "8",
+          "1",
+          "TOTAL",
+          "127",
+          "12,545",
+          "6,216",
+          "6,329",
+          "705",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: REFORMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CRISTO REY",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7"
+        ],
+        [
+          "EL CARACOL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "EL CARMEN (EL LIMÓN)",
+          "4",
+          "844",
+          "360",
+          "484",
+          "51"
+        ],
+        [
+          "EL LIMONCITO",
+          "3",
+          "99",
+          "39",
+          "60",
+          "5"
+        ],
+        [
+          "EL ROSARIO",
+          "3",
+          "26",
+          "10",
+          "16",
+          "3"
+        ],
+        [
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "25",
+          "35",
+          "5"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "4",
+          "230",
+          "115",
+          "115",
+          "12"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "1",
+          "28",
+          "13",
+          "15",
+          "1"
+        ],
+        [
+          "GUSTAVO AGUIRRE BENAVIDES 1RA. SECCIÓN",
+          "1",
+          "52",
+          "20",
+          "32",
+          "2"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "2",
+          "88",
+          "40",
+          "48",
+          "4"
+        ],
+        [
+          "JUAN SABINES GUTIÉRREZ",
+          "3",
+          "30",
+          "17",
+          "13",
+          "4"
+        ],
+        [
+          "LA CEIBA",
+          "3",
+          "91",
+          "45",
+          "46",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "1",
+          "98",
+          "47",
+          "51",
+          "3"
+        ],
+        [
+          "MACAYO 1RA. SECCIÓN (LAS MERCEDES)",
+          "3",
+          "59",
+          "33",
+          "26",
+          "4"
+        ],
+        [
+          "MACAYO 2DA. SECCIÓN",
+          "3",
+          "199",
+          "93",
+          "106",
+          "11"
+        ],
+        [
+          "MACAYO 3RA. SECCIÓN",
+          "4",
+          "159",
+          "67",
+          "92",
+          "10"
+        ],
+        [
+          "MACAYO 5TA. SECCIÓN",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "MIGUEL ALDAMA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "2",
+          "45",
+          "19",
+          "26",
+          "4"
+        ],
+        [
+          "MORELOS 1RA. SECCIÓN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "MORELOS 2DA. SECCIÓN",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6"
+        ],
+        [
+          "PRESIDENTES",
+          "1",
+          "128",
+          "65",
+          "63",
+          "6"
+        ],
+        [
+          "RAFAEL PASCACIO GAMBOA",
+          "4",
+          "503",
+          "243",
+          "260",
+          "24"
+        ],
+        [
+          "REFORMA",
+          "47",
+          "8,724",
+          "4,457",
+          "4,267",
+          "485"
+        ],
+        [
+          "SAN JOSÉ LIMONCITO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN MIGUEL 1RA. SECCIÓN",
+          "4",
+          "379",
+          "180",
+          "199",
+          "12"
+        ],
+        [
+          "SAN MIGUEL 2DA. SECCIÓN",
+          "3",
+          "155",
+          "76",
+          "79",
+          "9"
+        ],
+        [
+          "SANTA CRUZ (SITIO GRANDE)",
+          "3",
+          "85",
+          "29",
+          "56",
+          "12"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "ZAPOTAL 1RA. SECCIÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "ZAPOTAL 2DA. SECCIÓN",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "ZAPOTAL 3RA. SECCIÓN",
+          "2",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "127",
+          "12,545",
+          "6,216",
+          "6,329",
+          "705"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: REFORMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CRISTO REY",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7"
+        ],
+        [
+          "EL CARACOL",
+          "3",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "EL CARMEN (EL LIMÓN)",
+          "4",
+          "844",
+          "360",
+          "484",
+          "51"
+        ],
+        [
+          "EL LIMONCITO",
+          "3",
+          "99",
+          "39",
+          "60",
+          "5"
+        ],
+        [
+          "EL ROSARIO",
+          "3",
+          "26",
+          "10",
+          "16",
+          "3"
+        ],
+        [
+          "EL TRAPICHE",
+          "3",
+          "60",
+          "25",
+          "35",
+          "5"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "4",
+          "230",
+          "115",
+          "115",
+          "12"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "1",
+          "28",
+          "13",
+          "15",
+          "1"
+        ],
+        [
+          "GUSTAVO AGUIRRE BENAVIDES 1RA. SECCIÓN",
+          "1",
+          "52",
+          "20",
+          "32",
+          "2"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "2",
+          "88",
+          "40",
+          "48",
+          "4"
+        ],
+        [
+          "JUAN SABINES GUTIÉRREZ",
+          "3",
+          "30",
+          "17",
+          "13",
+          "4"
+        ],
+        [
+          "LA CEIBA",
+          "3",
+          "91",
+          "45",
+          "46",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "1",
+          "98",
+          "47",
+          "51",
+          "3"
+        ],
+        [
+          "MACAYO 1RA. SECCIÓN (LAS MERCEDES)",
+          "3",
+          "59",
+          "33",
+          "26",
+          "4"
+        ],
+        [
+          "MACAYO 2DA. SECCIÓN",
+          "3",
+          "199",
+          "93",
+          "106",
+          "11"
+        ],
+        [
+          "MACAYO 3RA. SECCIÓN",
+          "4",
+          "159",
+          "67",
+          "92",
+          "10"
+        ],
+        [
+          "MACAYO 5TA. SECCIÓN",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "MIGUEL ALDAMA",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "MIGUEL HIDALGO",
+          "2",
+          "45",
+          "19",
+          "26",
+          "4"
+        ],
+        [
+          "MORELOS 1RA. SECCIÓN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "MORELOS 2DA. SECCIÓN",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6"
+        ],
+        [
+          "PRESIDENTES",
+          "1",
+          "128",
+          "65",
+          "63",
+          "6"
+        ],
+        [
+          "RAFAEL PASCACIO GAMBOA",
+          "4",
+          "503",
+          "243",
+          "260",
+          "24"
+        ],
+        [
+          "REFORMA",
+          "47",
+          "8,724",
+          "4,457",
+          "4,267",
+          "485"
+        ],
+        [
+          "SAN JOSÉ LIMONCITO",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN MIGUEL 1RA. SECCIÓN",
+          "4",
+          "379",
+          "180",
+          "199",
+          "12"
+        ],
+        [
+          "SAN MIGUEL 2DA. SECCIÓN",
+          "3",
+          "155",
+          "76",
+          "79",
+          "9"
+        ],
+        [
+          "SANTA CRUZ (SITIO GRANDE)",
+          "3",
+          "85",
+          "29",
+          "56",
+          "12"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "ZAPOTAL 1RA. SECCIÓN",
+          "2",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "ZAPOTAL 2DA. SECCIÓN",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "ZAPOTAL 3RA. SECCIÓN",
+          "2",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "127",
+          "12,545",
+          "6,216",
+          "6,329",
+          "705"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:24.750Z"
+}

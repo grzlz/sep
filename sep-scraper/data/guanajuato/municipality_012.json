@@ -1,0 +1,692 @@
+{
+  "municipality": "CUERÁMARO",
+  "municipalityCode": "012",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CUERÁMARO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t18 DE MARZO (EL TOPE)\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t2\n\t\n\t\n\t\tBUENAVISTA (LA LECHUZA)\n\t\t2\n\t\t48\n\t\t19\n\t\t29\n\t\t3\n\t\n\t\n\t\tCERRITO DE AGUA CALIENTE\n\t\t4\n\t\t236\n\t\t110\n\t\t126\n\t\t14\n\t\n\t\n\t\tCOLONIA LINDA VISTA\n\t\t1\n\t\t26\n\t\t7\n\t\t19\n\t\t1\n\t\n\t\n\t\tCOLONIA SAN MIGUEL\n\t\t1\n\t\t70\n\t\t33\n\t\t37\n\t\t3\n\t\n\t\n\t\tCUERÁMARO\n\t\t16\n\t\t4,247\n\t\t2,117\n\t\t2,130\n\t\t202\n\t\n\t\n\t\tEJIDO LUZ MAZAS\n\t\t2\n\t\t77\n\t\t37\n\t\t40\n\t\t4\n\t\n\t\n\t\tEL NOVILLERO\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL NUEVO EDÉN\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL SAUCILLO\n\t\t4\n\t\t178\n\t\t96\n\t\t82\n\t\t11\n\t\n\t\n\t\tGALERA DE LA GRULLA\n\t\t4\n\t\t225\n\t\t116\n\t\t109\n\t\t10\n\t\n\t\n\t\tLA NUEVA ESPERANZA\n\t\t2\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA PALMA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PRESA DE URIBE\n\t\t3\n\t\t212\n\t\t108\n\t\t104\n\t\t10\n\t\n\t\n\t\tLA REGALADA\n\t\t2\n\t\t115\n\t\t59\n\t\t56\n\t\t6\n\t\n\t\n\t\tLA SARTENEJA\n\t\t3\n\t\t118\n\t\t58\n\t\t60\n\t\t6\n\t\n\t\n\t\tLA SOLEDAD (LA PALANCA)\n\t\t2\n\t\t36\n\t\t18\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOS HORNOS\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t95\n\t\t42\n\t\t53\n\t\t5\n\t\n\t\n\t\tPLAN SEXENAL\n\t\t2\n\t\t39\n\t\t21\n\t\t18\n\t\t2\n\t\n\t\n\t\tPLATANAR\n\t\t4\n\t\t193\n\t\t89\n\t\t104\n\t\t10\n\t\n\t\n\t\tPUERTA DE LA RESERVA\n\t\t3\n\t\t278\n\t\t123\n\t\t155\n\t\t11\n\t\n\t\n\t\tSAN GREGORIO\n\t\t5\n\t\t272\n\t\t138\n\t\t134\n\t\t14\n\t\n\t\n\t\tSAN JOSÉ DE RAMALES\n\t\t2\n\t\t41\n\t\t18\n\t\t23\n\t\t3\n\t\n\t\n\t\tSANTA RITA (EJIDO REFUGIO DE AYALA)\n\t\t1\n\t\t33\n\t\t10\n\t\t23\n\t\t2\n\t\n\t\n\t\tTRES VILLAS\n\t\t3\n\t\t75\n\t\t39\n\t\t36\n\t\t4\n\t\n\t\n\t\tTUPÁTARO\n\t\t4\n\t\t757\n\t\t390\n\t\t367\n\t\t35\n\t\n\t\n\t\tTOTAL\n\t\t80\n\t\t7,510\n\t\t3,721\n\t\t3,789\n\t\t370\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CUERÁMARO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "18 DE MARZO (EL TOPE)",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2",
+          "BUENAVISTA (LA LECHUZA)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3",
+          "CERRITO DE AGUA CALIENTE",
+          "4",
+          "236",
+          "110",
+          "126",
+          "14",
+          "COLONIA LINDA VISTA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1",
+          "COLONIA SAN MIGUEL",
+          "1",
+          "70",
+          "33",
+          "37",
+          "3",
+          "CUERÁMARO",
+          "16",
+          "4,247",
+          "2,117",
+          "2,130",
+          "202",
+          "EJIDO LUZ MAZAS",
+          "2",
+          "77",
+          "37",
+          "40",
+          "4",
+          "EL NOVILLERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "EL NUEVO EDÉN",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "EL SAUCILLO",
+          "4",
+          "178",
+          "96",
+          "82",
+          "11",
+          "GALERA DE LA GRULLA",
+          "4",
+          "225",
+          "116",
+          "109",
+          "10",
+          "LA NUEVA ESPERANZA",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3",
+          "LA PALMA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LA PRESA DE URIBE",
+          "3",
+          "212",
+          "108",
+          "104",
+          "10",
+          "LA REGALADA",
+          "2",
+          "115",
+          "59",
+          "56",
+          "6",
+          "LA SARTENEJA",
+          "3",
+          "118",
+          "58",
+          "60",
+          "6",
+          "LA SOLEDAD (LA PALANCA)",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3",
+          "LOS HORNOS",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2",
+          "OJO DE AGUA",
+          "2",
+          "95",
+          "42",
+          "53",
+          "5",
+          "PLAN SEXENAL",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2",
+          "PLATANAR",
+          "4",
+          "193",
+          "89",
+          "104",
+          "10",
+          "PUERTA DE LA RESERVA",
+          "3",
+          "278",
+          "123",
+          "155",
+          "11",
+          "SAN GREGORIO",
+          "5",
+          "272",
+          "138",
+          "134",
+          "14",
+          "SAN JOSÉ DE RAMALES",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3",
+          "SANTA RITA (EJIDO REFUGIO DE AYALA)",
+          "1",
+          "33",
+          "10",
+          "23",
+          "2",
+          "TRES VILLAS",
+          "3",
+          "75",
+          "39",
+          "36",
+          "4",
+          "TUPÁTARO",
+          "4",
+          "757",
+          "390",
+          "367",
+          "35",
+          "TOTAL",
+          "80",
+          "7,510",
+          "3,721",
+          "3,789",
+          "370",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CUERÁMARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE MARZO (EL TOPE)",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2"
+        ],
+        [
+          "BUENAVISTA (LA LECHUZA)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3"
+        ],
+        [
+          "CERRITO DE AGUA CALIENTE",
+          "4",
+          "236",
+          "110",
+          "126",
+          "14"
+        ],
+        [
+          "COLONIA LINDA VISTA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1"
+        ],
+        [
+          "COLONIA SAN MIGUEL",
+          "1",
+          "70",
+          "33",
+          "37",
+          "3"
+        ],
+        [
+          "CUERÁMARO",
+          "16",
+          "4,247",
+          "2,117",
+          "2,130",
+          "202"
+        ],
+        [
+          "EJIDO LUZ MAZAS",
+          "2",
+          "77",
+          "37",
+          "40",
+          "4"
+        ],
+        [
+          "EL NOVILLERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL NUEVO EDÉN",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EL SAUCILLO",
+          "4",
+          "178",
+          "96",
+          "82",
+          "11"
+        ],
+        [
+          "GALERA DE LA GRULLA",
+          "4",
+          "225",
+          "116",
+          "109",
+          "10"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "LA PALMA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA PRESA DE URIBE",
+          "3",
+          "212",
+          "108",
+          "104",
+          "10"
+        ],
+        [
+          "LA REGALADA",
+          "2",
+          "115",
+          "59",
+          "56",
+          "6"
+        ],
+        [
+          "LA SARTENEJA",
+          "3",
+          "118",
+          "58",
+          "60",
+          "6"
+        ],
+        [
+          "LA SOLEDAD (LA PALANCA)",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "LOS HORNOS",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "95",
+          "42",
+          "53",
+          "5"
+        ],
+        [
+          "PLAN SEXENAL",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "PLATANAR",
+          "4",
+          "193",
+          "89",
+          "104",
+          "10"
+        ],
+        [
+          "PUERTA DE LA RESERVA",
+          "3",
+          "278",
+          "123",
+          "155",
+          "11"
+        ],
+        [
+          "SAN GREGORIO",
+          "5",
+          "272",
+          "138",
+          "134",
+          "14"
+        ],
+        [
+          "SAN JOSÉ DE RAMALES",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "SANTA RITA (EJIDO REFUGIO DE AYALA)",
+          "1",
+          "33",
+          "10",
+          "23",
+          "2"
+        ],
+        [
+          "TRES VILLAS",
+          "3",
+          "75",
+          "39",
+          "36",
+          "4"
+        ],
+        [
+          "TUPÁTARO",
+          "4",
+          "757",
+          "390",
+          "367",
+          "35"
+        ],
+        [
+          "TOTAL",
+          "80",
+          "7,510",
+          "3,721",
+          "3,789",
+          "370"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: CUERÁMARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "18 DE MARZO (EL TOPE)",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2"
+        ],
+        [
+          "BUENAVISTA (LA LECHUZA)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3"
+        ],
+        [
+          "CERRITO DE AGUA CALIENTE",
+          "4",
+          "236",
+          "110",
+          "126",
+          "14"
+        ],
+        [
+          "COLONIA LINDA VISTA",
+          "1",
+          "26",
+          "7",
+          "19",
+          "1"
+        ],
+        [
+          "COLONIA SAN MIGUEL",
+          "1",
+          "70",
+          "33",
+          "37",
+          "3"
+        ],
+        [
+          "CUERÁMARO",
+          "16",
+          "4,247",
+          "2,117",
+          "2,130",
+          "202"
+        ],
+        [
+          "EJIDO LUZ MAZAS",
+          "2",
+          "77",
+          "37",
+          "40",
+          "4"
+        ],
+        [
+          "EL NOVILLERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL NUEVO EDÉN",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "EL SAUCILLO",
+          "4",
+          "178",
+          "96",
+          "82",
+          "11"
+        ],
+        [
+          "GALERA DE LA GRULLA",
+          "4",
+          "225",
+          "116",
+          "109",
+          "10"
+        ],
+        [
+          "LA NUEVA ESPERANZA",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "LA PALMA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA PRESA DE URIBE",
+          "3",
+          "212",
+          "108",
+          "104",
+          "10"
+        ],
+        [
+          "LA REGALADA",
+          "2",
+          "115",
+          "59",
+          "56",
+          "6"
+        ],
+        [
+          "LA SARTENEJA",
+          "3",
+          "118",
+          "58",
+          "60",
+          "6"
+        ],
+        [
+          "LA SOLEDAD (LA PALANCA)",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "LOS HORNOS",
+          "2",
+          "24",
+          "10",
+          "14",
+          "2"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "95",
+          "42",
+          "53",
+          "5"
+        ],
+        [
+          "PLAN SEXENAL",
+          "2",
+          "39",
+          "21",
+          "18",
+          "2"
+        ],
+        [
+          "PLATANAR",
+          "4",
+          "193",
+          "89",
+          "104",
+          "10"
+        ],
+        [
+          "PUERTA DE LA RESERVA",
+          "3",
+          "278",
+          "123",
+          "155",
+          "11"
+        ],
+        [
+          "SAN GREGORIO",
+          "5",
+          "272",
+          "138",
+          "134",
+          "14"
+        ],
+        [
+          "SAN JOSÉ DE RAMALES",
+          "2",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "SANTA RITA (EJIDO REFUGIO DE AYALA)",
+          "1",
+          "33",
+          "10",
+          "23",
+          "2"
+        ],
+        [
+          "TRES VILLAS",
+          "3",
+          "75",
+          "39",
+          "36",
+          "4"
+        ],
+        [
+          "TUPÁTARO",
+          "4",
+          "757",
+          "390",
+          "367",
+          "35"
+        ],
+        [
+          "TOTAL",
+          "80",
+          "7,510",
+          "3,721",
+          "3,789",
+          "370"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:19.871Z"
+}

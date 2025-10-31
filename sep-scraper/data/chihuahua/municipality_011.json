@@ -1,0 +1,582 @@
+{
+  "municipality": "CAMARGO",
+  "municipalityCode": "011",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CAMARGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTA VISTA\n\t\t4\n\t\t165\n\t\t81\n\t\t84\n\t\t11\n\t\n\t\n\t\tCUATRO MILPAS\n\t\t1\n\t\t81\n\t\t41\n\t\t40\n\t\t3\n\t\n\t\n\t\tEJIDO LAS CUEVAS\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL MOLINO\n\t\t1\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL PORVENIR\n\t\t2\n\t\t33\n\t\t20\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL TECUÁN\n\t\t2\n\t\t75\n\t\t36\n\t\t39\n\t\t5\n\t\n\t\n\t\tESTACIÓN DÍAZ (EJIDO SAN LEONARDO)\n\t\t2\n\t\t20\n\t\t12\n\t\t8\n\t\t2\n\t\n\t\n\t\tFLOREÑO\n\t\t2\n\t\t33\n\t\t10\n\t\t23\n\t\t4\n\t\n\t\n\t\tLA ENRAMADA\n\t\t3\n\t\t48\n\t\t23\n\t\t25\n\t\t5\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA LAGUNA\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t4\n\t\n\t\n\t\tLA LAGUNA DE LAS VACAS (SAN ISIDRO)\n\t\t2\n\t\t43\n\t\t18\n\t\t25\n\t\t3\n\t\n\t\n\t\tLA PERLA\n\t\t4\n\t\t57\n\t\t27\n\t\t30\n\t\t10\n\t\n\t\n\t\tLAREÑO\n\t\t1\n\t\t54\n\t\t26\n\t\t28\n\t\t3\n\t\n\t\n\t\tLEYES DE REFORMA\n\t\t3\n\t\t82\n\t\t43\n\t\t39\n\t\t6\n\t\n\t\n\t\tLOS REYES\n\t\t1\n\t\t21\n\t\t8\n\t\t13\n\t\t1\n\t\n\t\n\t\tMARAVILLAS\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t2\n\t\n\t\n\t\tORTEGUEÑO\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tRÍO DEL PARRAL (LA NORIA)\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN IGNACIO\n\t\t3\n\t\t132\n\t\t57\n\t\t75\n\t\t8\n\t\n\t\n\t\tSAN JOSÉ DEL PARRALITO\n\t\t1\n\t\t17\n\t\t9\n\t\t8\n\t\t1\n\t\n\t\n\t\tSANTA ROSALÍA DE CAMARGO\n\t\t56\n\t\t12,031\n\t\t6,083\n\t\t5,948\n\t\t734\n\t\n\t\n\t\tTOTAL\n\t\t97\n\t\t13,029\n\t\t6,556\n\t\t6,473\n\t\t812\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CAMARGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTA VISTA",
+          "4",
+          "165",
+          "81",
+          "84",
+          "11",
+          "CUATRO MILPAS",
+          "1",
+          "81",
+          "41",
+          "40",
+          "3",
+          "EJIDO LAS CUEVAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "EL MOLINO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "2",
+          "EL PORVENIR",
+          "2",
+          "33",
+          "20",
+          "13",
+          "3",
+          "EL TECUÁN",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5",
+          "ESTACIÓN DÍAZ (EJIDO SAN LEONARDO)",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2",
+          "FLOREÑO",
+          "2",
+          "33",
+          "10",
+          "23",
+          "4",
+          "LA ENRAMADA",
+          "3",
+          "48",
+          "23",
+          "25",
+          "5",
+          "LA GLORIA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2",
+          "LA LAGUNA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4",
+          "LA LAGUNA DE LAS VACAS (SAN ISIDRO)",
+          "2",
+          "43",
+          "18",
+          "25",
+          "3",
+          "LA PERLA",
+          "4",
+          "57",
+          "27",
+          "30",
+          "10",
+          "LAREÑO",
+          "1",
+          "54",
+          "26",
+          "28",
+          "3",
+          "LEYES DE REFORMA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6",
+          "LOS REYES",
+          "1",
+          "21",
+          "8",
+          "13",
+          "1",
+          "MARAVILLAS",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2",
+          "ORTEGUEÑO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "RÍO DEL PARRAL (LA NORIA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "SAN IGNACIO",
+          "3",
+          "132",
+          "57",
+          "75",
+          "8",
+          "SAN JOSÉ DEL PARRALITO",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1",
+          "SANTA ROSALÍA DE CAMARGO",
+          "56",
+          "12,031",
+          "6,083",
+          "5,948",
+          "734",
+          "TOTAL",
+          "97",
+          "13,029",
+          "6,556",
+          "6,473",
+          "812",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CAMARGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTA VISTA",
+          "4",
+          "165",
+          "81",
+          "84",
+          "11"
+        ],
+        [
+          "CUATRO MILPAS",
+          "1",
+          "81",
+          "41",
+          "40",
+          "3"
+        ],
+        [
+          "EJIDO LAS CUEVAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL MOLINO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL PORVENIR",
+          "2",
+          "33",
+          "20",
+          "13",
+          "3"
+        ],
+        [
+          "EL TECUÁN",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "ESTACIÓN DÍAZ (EJIDO SAN LEONARDO)",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "FLOREÑO",
+          "2",
+          "33",
+          "10",
+          "23",
+          "4"
+        ],
+        [
+          "LA ENRAMADA",
+          "3",
+          "48",
+          "23",
+          "25",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "LA LAGUNA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "LA LAGUNA DE LAS VACAS (SAN ISIDRO)",
+          "2",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "LA PERLA",
+          "4",
+          "57",
+          "27",
+          "30",
+          "10"
+        ],
+        [
+          "LAREÑO",
+          "1",
+          "54",
+          "26",
+          "28",
+          "3"
+        ],
+        [
+          "LEYES DE REFORMA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6"
+        ],
+        [
+          "LOS REYES",
+          "1",
+          "21",
+          "8",
+          "13",
+          "1"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2"
+        ],
+        [
+          "ORTEGUEÑO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "RÍO DEL PARRAL (LA NORIA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "132",
+          "57",
+          "75",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DEL PARRALITO",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA ROSALÍA DE CAMARGO",
+          "56",
+          "12,031",
+          "6,083",
+          "5,948",
+          "734"
+        ],
+        [
+          "TOTAL",
+          "97",
+          "13,029",
+          "6,556",
+          "6,473",
+          "812"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CAMARGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTA VISTA",
+          "4",
+          "165",
+          "81",
+          "84",
+          "11"
+        ],
+        [
+          "CUATRO MILPAS",
+          "1",
+          "81",
+          "41",
+          "40",
+          "3"
+        ],
+        [
+          "EJIDO LAS CUEVAS",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "EL MOLINO",
+          "1",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "EL PORVENIR",
+          "2",
+          "33",
+          "20",
+          "13",
+          "3"
+        ],
+        [
+          "EL TECUÁN",
+          "2",
+          "75",
+          "36",
+          "39",
+          "5"
+        ],
+        [
+          "ESTACIÓN DÍAZ (EJIDO SAN LEONARDO)",
+          "2",
+          "20",
+          "12",
+          "8",
+          "2"
+        ],
+        [
+          "FLOREÑO",
+          "2",
+          "33",
+          "10",
+          "23",
+          "4"
+        ],
+        [
+          "LA ENRAMADA",
+          "3",
+          "48",
+          "23",
+          "25",
+          "5"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "LA LAGUNA",
+          "2",
+          "49",
+          "25",
+          "24",
+          "4"
+        ],
+        [
+          "LA LAGUNA DE LAS VACAS (SAN ISIDRO)",
+          "2",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "LA PERLA",
+          "4",
+          "57",
+          "27",
+          "30",
+          "10"
+        ],
+        [
+          "LAREÑO",
+          "1",
+          "54",
+          "26",
+          "28",
+          "3"
+        ],
+        [
+          "LEYES DE REFORMA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6"
+        ],
+        [
+          "LOS REYES",
+          "1",
+          "21",
+          "8",
+          "13",
+          "1"
+        ],
+        [
+          "MARAVILLAS",
+          "2",
+          "32",
+          "14",
+          "18",
+          "2"
+        ],
+        [
+          "ORTEGUEÑO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "RÍO DEL PARRAL (LA NORIA)",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "132",
+          "57",
+          "75",
+          "8"
+        ],
+        [
+          "SAN JOSÉ DEL PARRALITO",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA ROSALÍA DE CAMARGO",
+          "56",
+          "12,031",
+          "6,083",
+          "5,948",
+          "734"
+        ],
+        [
+          "TOTAL",
+          "97",
+          "13,029",
+          "6,556",
+          "6,473",
+          "812"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:00.811Z"
+}

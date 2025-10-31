@@ -1,0 +1,406 @@
+{
+  "municipality": "TEPALCINGO",
+  "municipalityCode": "019",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPALCINGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t2\n\t\t49\n\t\t23\n\t\t26\n\t\t3\n\t\n\t\n\t\tATOTONILCO\n\t\t3\n\t\t346\n\t\t170\n\t\t176\n\t\t16\n\t\n\t\n\t\tCOLONIA BUENOS AIRES\n\t\t1\n\t\t67\n\t\t35\n\t\t32\n\t\t3\n\t\n\t\n\t\tCRUZ DE JARAMALLA (COLONIA LAURO ORTEGA)\n\t\t2\n\t\t43\n\t\t17\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL LIMÓN DE CUAUCHICHINOLA\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t3\n\t\t28\n\t\t10\n\t\t18\n\t\t3\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t1\n\t\t71\n\t\t42\n\t\t29\n\t\t3\n\t\n\t\n\t\tHUITCHILA\n\t\t4\n\t\t446\n\t\t233\n\t\t213\n\t\t21\n\t\n\t\n\t\tIXTLILCO EL CHICO\n\t\t3\n\t\t275\n\t\t139\n\t\t136\n\t\t13\n\t\n\t\n\t\tIXTLILCO EL GRANDE\n\t\t6\n\t\t635\n\t\t314\n\t\t321\n\t\t31\n\t\n\t\n\t\tLOS SAUCES\n\t\t3\n\t\t71\n\t\t35\n\t\t36\n\t\t6\n\t\n\t\n\t\tLOS TULIPANES\n\t\t1\n\t\t282\n\t\t213\n\t\t69\n\t\t23\n\t\n\t\n\t\tTEPALCINGO\n\t\t18\n\t\t2,434\n\t\t1,274\n\t\t1,160\n\t\t167\n\t\n\t\n\t\tZACAPALCO\n\t\t4\n\t\t332\n\t\t172\n\t\t160\n\t\t18\n\t\n\t\n\t\tTOTAL\n\t\t53\n\t\t5,094\n\t\t2,683\n\t\t2,411\n\t\t312\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPALCINGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "49",
+          "23",
+          "26",
+          "3",
+          "ATOTONILCO",
+          "3",
+          "346",
+          "170",
+          "176",
+          "16",
+          "COLONIA BUENOS AIRES",
+          "1",
+          "67",
+          "35",
+          "32",
+          "3",
+          "CRUZ DE JARAMALLA (COLONIA LAURO ORTEGA)",
+          "2",
+          "43",
+          "17",
+          "26",
+          "3",
+          "EL LIMÓN DE CUAUCHICHINOLA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "EL TEPEHUAJE",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3",
+          "EMILIANO ZAPATA",
+          "1",
+          "71",
+          "42",
+          "29",
+          "3",
+          "HUITCHILA",
+          "4",
+          "446",
+          "233",
+          "213",
+          "21",
+          "IXTLILCO EL CHICO",
+          "3",
+          "275",
+          "139",
+          "136",
+          "13",
+          "IXTLILCO EL GRANDE",
+          "6",
+          "635",
+          "314",
+          "321",
+          "31",
+          "LOS SAUCES",
+          "3",
+          "71",
+          "35",
+          "36",
+          "6",
+          "LOS TULIPANES",
+          "1",
+          "282",
+          "213",
+          "69",
+          "23",
+          "TEPALCINGO",
+          "18",
+          "2,434",
+          "1,274",
+          "1,160",
+          "167",
+          "ZACAPALCO",
+          "4",
+          "332",
+          "172",
+          "160",
+          "18",
+          "TOTAL",
+          "53",
+          "5,094",
+          "2,683",
+          "2,411",
+          "312",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPALCINGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "49",
+          "23",
+          "26",
+          "3"
+        ],
+        [
+          "ATOTONILCO",
+          "3",
+          "346",
+          "170",
+          "176",
+          "16"
+        ],
+        [
+          "COLONIA BUENOS AIRES",
+          "1",
+          "67",
+          "35",
+          "32",
+          "3"
+        ],
+        [
+          "CRUZ DE JARAMALLA (COLONIA LAURO ORTEGA)",
+          "2",
+          "43",
+          "17",
+          "26",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE CUAUCHICHINOLA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "1",
+          "71",
+          "42",
+          "29",
+          "3"
+        ],
+        [
+          "HUITCHILA",
+          "4",
+          "446",
+          "233",
+          "213",
+          "21"
+        ],
+        [
+          "IXTLILCO EL CHICO",
+          "3",
+          "275",
+          "139",
+          "136",
+          "13"
+        ],
+        [
+          "IXTLILCO EL GRANDE",
+          "6",
+          "635",
+          "314",
+          "321",
+          "31"
+        ],
+        [
+          "LOS SAUCES",
+          "3",
+          "71",
+          "35",
+          "36",
+          "6"
+        ],
+        [
+          "LOS TULIPANES",
+          "1",
+          "282",
+          "213",
+          "69",
+          "23"
+        ],
+        [
+          "TEPALCINGO",
+          "18",
+          "2,434",
+          "1,274",
+          "1,160",
+          "167"
+        ],
+        [
+          "ZACAPALCO",
+          "4",
+          "332",
+          "172",
+          "160",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "53",
+          "5,094",
+          "2,683",
+          "2,411",
+          "312"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPALCINGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "49",
+          "23",
+          "26",
+          "3"
+        ],
+        [
+          "ATOTONILCO",
+          "3",
+          "346",
+          "170",
+          "176",
+          "16"
+        ],
+        [
+          "COLONIA BUENOS AIRES",
+          "1",
+          "67",
+          "35",
+          "32",
+          "3"
+        ],
+        [
+          "CRUZ DE JARAMALLA (COLONIA LAURO ORTEGA)",
+          "2",
+          "43",
+          "17",
+          "26",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE CUAUCHICHINOLA",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "1",
+          "71",
+          "42",
+          "29",
+          "3"
+        ],
+        [
+          "HUITCHILA",
+          "4",
+          "446",
+          "233",
+          "213",
+          "21"
+        ],
+        [
+          "IXTLILCO EL CHICO",
+          "3",
+          "275",
+          "139",
+          "136",
+          "13"
+        ],
+        [
+          "IXTLILCO EL GRANDE",
+          "6",
+          "635",
+          "314",
+          "321",
+          "31"
+        ],
+        [
+          "LOS SAUCES",
+          "3",
+          "71",
+          "35",
+          "36",
+          "6"
+        ],
+        [
+          "LOS TULIPANES",
+          "1",
+          "282",
+          "213",
+          "69",
+          "23"
+        ],
+        [
+          "TEPALCINGO",
+          "18",
+          "2,434",
+          "1,274",
+          "1,160",
+          "167"
+        ],
+        [
+          "ZACAPALCO",
+          "4",
+          "332",
+          "172",
+          "160",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "53",
+          "5,094",
+          "2,683",
+          "2,411",
+          "312"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:26.574Z"
+}

@@ -1,0 +1,252 @@
+{
+  "municipality": "JANTETELCO",
+  "municipalityCode": "010",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JANTETELCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMAYUCA\n\t\t12\n\t\t1,702\n\t\t874\n\t\t828\n\t\t82\n\t\n\t\n\t\tCHALCATZINGO\n\t\t4\n\t\t475\n\t\t234\n\t\t241\n\t\t23\n\t\n\t\n\t\tCOLONIA CUATRO CAMINOS\n\t\t1\n\t\t22\n\t\t13\n\t\t9\n\t\t2\n\t\n\t\n\t\tCOLONIA MANUEL ALARCÓN\n\t\t1\n\t\t179\n\t\t77\n\t\t102\n\t\t6\n\t\n\t\n\t\tJANTETELCO\n\t\t10\n\t\t1,407\n\t\t712\n\t\t695\n\t\t77\n\t\n\t\n\t\tSAN ANTONIO LA ESPERANZA\n\t\t2\n\t\t46\n\t\t16\n\t\t30\n\t\t3\n\t\n\t\n\t\tTENANGO (SANTA ANA)\n\t\t4\n\t\t326\n\t\t156\n\t\t170\n\t\t19\n\t\n\t\n\t\tTOTAL\n\t\t34\n\t\t4,157\n\t\t2,082\n\t\t2,075\n\t\t212\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JANTETELCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMAYUCA",
+          "12",
+          "1,702",
+          "874",
+          "828",
+          "82",
+          "CHALCATZINGO",
+          "4",
+          "475",
+          "234",
+          "241",
+          "23",
+          "COLONIA CUATRO CAMINOS",
+          "1",
+          "22",
+          "13",
+          "9",
+          "2",
+          "COLONIA MANUEL ALARCÓN",
+          "1",
+          "179",
+          "77",
+          "102",
+          "6",
+          "JANTETELCO",
+          "10",
+          "1,407",
+          "712",
+          "695",
+          "77",
+          "SAN ANTONIO LA ESPERANZA",
+          "2",
+          "46",
+          "16",
+          "30",
+          "3",
+          "TENANGO (SANTA ANA)",
+          "4",
+          "326",
+          "156",
+          "170",
+          "19",
+          "TOTAL",
+          "34",
+          "4,157",
+          "2,082",
+          "2,075",
+          "212",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JANTETELCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMAYUCA",
+          "12",
+          "1,702",
+          "874",
+          "828",
+          "82"
+        ],
+        [
+          "CHALCATZINGO",
+          "4",
+          "475",
+          "234",
+          "241",
+          "23"
+        ],
+        [
+          "COLONIA CUATRO CAMINOS",
+          "1",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "COLONIA MANUEL ALARCÓN",
+          "1",
+          "179",
+          "77",
+          "102",
+          "6"
+        ],
+        [
+          "JANTETELCO",
+          "10",
+          "1,407",
+          "712",
+          "695",
+          "77"
+        ],
+        [
+          "SAN ANTONIO LA ESPERANZA",
+          "2",
+          "46",
+          "16",
+          "30",
+          "3"
+        ],
+        [
+          "TENANGO (SANTA ANA)",
+          "4",
+          "326",
+          "156",
+          "170",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "34",
+          "4,157",
+          "2,082",
+          "2,075",
+          "212"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: JANTETELCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMAYUCA",
+          "12",
+          "1,702",
+          "874",
+          "828",
+          "82"
+        ],
+        [
+          "CHALCATZINGO",
+          "4",
+          "475",
+          "234",
+          "241",
+          "23"
+        ],
+        [
+          "COLONIA CUATRO CAMINOS",
+          "1",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "COLONIA MANUEL ALARCÓN",
+          "1",
+          "179",
+          "77",
+          "102",
+          "6"
+        ],
+        [
+          "JANTETELCO",
+          "10",
+          "1,407",
+          "712",
+          "695",
+          "77"
+        ],
+        [
+          "SAN ANTONIO LA ESPERANZA",
+          "2",
+          "46",
+          "16",
+          "30",
+          "3"
+        ],
+        [
+          "TENANGO (SANTA ANA)",
+          "4",
+          "326",
+          "156",
+          "170",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "34",
+          "4,157",
+          "2,082",
+          "2,075",
+          "212"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:47.507Z"
+}

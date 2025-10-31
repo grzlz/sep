@@ -1,0 +1,1132 @@
+{
+  "municipality": "LERMA",
+  "municipalityCode": "051",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: LERMA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMOMOLULCO\n\t\t2\n\t\t63\n\t\t33\n\t\t30\n\t\t4\n\t\n\t\n\t\tBARRANCA GRANDE\n\t\t2\n\t\t123\n\t\t58\n\t\t65\n\t\t6\n\t\n\t\n\t\tCAÑADA DE ALFERES\n\t\t2\n\t\t28\n\t\t13\n\t\t15\n\t\t2\n\t\n\t\n\t\tCASA BLANCA (TIERRAS NUEVAS)\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tCOLONIA 5 DE MAYO\n\t\t3\n\t\t378\n\t\t179\n\t\t199\n\t\t16\n\t\n\t\n\t\tCOLONIA ADOLFO LÓPEZ MATEOS HUITZIZILAPAN\n\t\t1\n\t\t309\n\t\t143\n\t\t166\n\t\t12\n\t\n\t\n\t\tCOLONIA AGRÍCOLA ANALCO\n\t\t2\n\t\t323\n\t\t149\n\t\t174\n\t\t13\n\t\n\t\n\t\tCOLONIA ÁLVARO OBREGÓN TLALMIMILOLPAN\n\t\t4\n\t\t1,012\n\t\t517\n\t\t495\n\t\t39\n\t\n\t\n\t\tCOLONIA EMILIANO ZAPATA\n\t\t1\n\t\t593\n\t\t291\n\t\t302\n\t\t18\n\t\n\t\n\t\tCOLONIA FRANCISCO I. MADERO\n\t\t2\n\t\t147\n\t\t73\n\t\t74\n\t\t8\n\t\n\t\n\t\tCOLONIA GUADALUPE VICTORIA HUITZIZILAPAN\n\t\t4\n\t\t879\n\t\t457\n\t\t422\n\t\t52\n\t\n\t\n\t\tCOLONIA LOS CEDROS\n\t\t1\n\t\t106\n\t\t58\n\t\t48\n\t\t5\n\t\n\t\n\t\tCOLONIA N'DEXI HUITZIZILAPAN\n\t\t3\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tCRISTO REY\n\t\t1\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tDOLORES (RANCHERÍA DOLORES)\n\t\t1\n\t\t43\n\t\t18\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL ESPINO\n\t\t2\n\t\t345\n\t\t176\n\t\t169\n\t\t14\n\t\n\t\n\t\tEL ESPINO PERALTA\n\t\t2\n\t\t93\n\t\t45\n\t\t48\n\t\t5\n\t\n\t\n\t\tFLOR DE GALLO HUITZIZILAPAN\n\t\t2\n\t\t61\n\t\t32\n\t\t29\n\t\t4\n\t\n\t\n\t\tLA CONCEPCIÓN XOCHICUAUTLA\n\t\t5\n\t\t476\n\t\t232\n\t\t244\n\t\t21\n\t\n\t\n\t\tLA LUPITA (CASAS VIEJAS)\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA PEDRERA\n\t\t1\n\t\t82\n\t\t44\n\t\t38\n\t\t15\n\t\n\t\n\t\tLA REFORMA TLALMIMILOLPAN\n\t\t2\n\t\t252\n\t\t119\n\t\t133\n\t\t12\n\t\n\t\n\t\tLAS MESAS HUITZIZILAPAN\n\t\t2\n\t\t83\n\t\t42\n\t\t41\n\t\t4\n\t\n\t\n\t\tLERMA DE VILLADA\n\t\t64\n\t\t16,796\n\t\t8,411\n\t\t8,385\n\t\t1,065\n\t\n\t\n\t\tMETATE VIEJO TLALMIMILOLPAN\n\t\t2\n\t\t198\n\t\t104\n\t\t94\n\t\t10\n\t\n\t\n\t\tNUEVA AMEYALCO\n\t\t1\n\t\t521\n\t\t262\n\t\t259\n\t\t13\n\t\n\t\n\t\tPUEBLO NUEVO TLALMIMILOLPAN\n\t\t4\n\t\t586\n\t\t264\n\t\t322\n\t\t22\n\t\n\t\n\t\tSALAZAR\n\t\t3\n\t\t258\n\t\t134\n\t\t124\n\t\t12\n\t\n\t\n\t\tSAN AGUSTÍN HUITZIZILAPAN\n\t\t3\n\t\t352\n\t\t170\n\t\t182\n\t\t17\n\t\n\t\n\t\tSAN FRANCISCO XOCHICUAUTLA\n\t\t6\n\t\t977\n\t\t459\n\t\t518\n\t\t49\n\t\n\t\n\t\tSAN JOSÉ EL LLANITO\n\t\t2\n\t\t187\n\t\t97\n\t\t90\n\t\t8\n\t\n\t\n\t\tSAN LORENZO HUITZIZILAPAN\n\t\t6\n\t\t738\n\t\t373\n\t\t365\n\t\t34\n\t\n\t\n\t\tSAN MARTÍN LAS RAJAS HUITZIZILAPAN\n\t\t5\n\t\t403\n\t\t204\n\t\t199\n\t\t20\n\t\n\t\n\t\tSAN MATEO ATARASQUILLO\n\t\t6\n\t\t1,400\n\t\t637\n\t\t763\n\t\t105\n\t\n\t\n\t\tSAN MIGUEL AMEYALCO\n\t\t5\n\t\t2,072\n\t\t1,059\n\t\t1,013\n\t\t101\n\t\n\t\n\t\tSAN NICOLÁS PERALTA\n\t\t6\n\t\t1,251\n\t\t629\n\t\t622\n\t\t65\n\t\n\t\n\t\tSAN PEDRO HUITZIZILAPAN\n\t\t4\n\t\t511\n\t\t260\n\t\t251\n\t\t24\n\t\n\t\n\t\tSAN PEDRO TULTEPEC\n\t\t10\n\t\t3,079\n\t\t1,493\n\t\t1,586\n\t\t145\n\t\n\t\n\t\tSANTA CATARINA\n\t\t3\n\t\t799\n\t\t387\n\t\t412\n\t\t39\n\t\n\t\n\t\tSANTA CRUZ CHIGNAHUAPAN\n\t\t5\n\t\t315\n\t\t148\n\t\t167\n\t\t26\n\t\n\t\n\t\tSANTA CRUZ HUITZIZILAPAN\n\t\t3\n\t\t225\n\t\t109\n\t\t116\n\t\t10\n\t\n\t\n\t\tSANTA CRUZ TULTEPEC\n\t\t2\n\t\t120\n\t\t62\n\t\t58\n\t\t6\n\t\n\t\n\t\tSANTA MARÍA ATARASQUILLO\n\t\t19\n\t\t10,559\n\t\t5,140\n\t\t5,419\n\t\t749\n\t\n\t\n\t\tSANTA MARÍA TLALMIMILOLPAN\n\t\t6\n\t\t2,307\n\t\t1,254\n\t\t1,053\n\t\t242\n\t\n\t\n\t\tSANTIAGO ANALCO\n\t\t4\n\t\t556\n\t\t284\n\t\t272\n\t\t31\n\t\n\t\n\t\tZACAMULPA HUITZIZILAPAN\n\t\t3\n\t\t632\n\t\t313\n\t\t319\n\t\t26\n\t\n\t\n\t\tZACAMULPA TLALMIMILOLPAN\n\t\t3\n\t\t289\n\t\t146\n\t\t143\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t223\n\t\t50,589\n\t\t25,105\n\t\t25,484\n\t\t3,092\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: LERMA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMOMOLULCO",
+          "2",
+          "63",
+          "33",
+          "30",
+          "4",
+          "BARRANCA GRANDE",
+          "2",
+          "123",
+          "58",
+          "65",
+          "6",
+          "CAÑADA DE ALFERES",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2",
+          "CASA BLANCA (TIERRAS NUEVAS)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "COLONIA 5 DE MAYO",
+          "3",
+          "378",
+          "179",
+          "199",
+          "16",
+          "COLONIA ADOLFO LÓPEZ MATEOS HUITZIZILAPAN",
+          "1",
+          "309",
+          "143",
+          "166",
+          "12",
+          "COLONIA AGRÍCOLA ANALCO",
+          "2",
+          "323",
+          "149",
+          "174",
+          "13",
+          "COLONIA ÁLVARO OBREGÓN TLALMIMILOLPAN",
+          "4",
+          "1,012",
+          "517",
+          "495",
+          "39",
+          "COLONIA EMILIANO ZAPATA",
+          "1",
+          "593",
+          "291",
+          "302",
+          "18",
+          "COLONIA FRANCISCO I. MADERO",
+          "2",
+          "147",
+          "73",
+          "74",
+          "8",
+          "COLONIA GUADALUPE VICTORIA HUITZIZILAPAN",
+          "4",
+          "879",
+          "457",
+          "422",
+          "52",
+          "COLONIA LOS CEDROS",
+          "1",
+          "106",
+          "58",
+          "48",
+          "5",
+          "COLONIA N'DEXI HUITZIZILAPAN",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3",
+          "CRISTO REY",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2",
+          "DOLORES (RANCHERÍA DOLORES)",
+          "1",
+          "43",
+          "18",
+          "25",
+          "3",
+          "EL ESPINO",
+          "2",
+          "345",
+          "176",
+          "169",
+          "14",
+          "EL ESPINO PERALTA",
+          "2",
+          "93",
+          "45",
+          "48",
+          "5",
+          "FLOR DE GALLO HUITZIZILAPAN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "4",
+          "LA CONCEPCIÓN XOCHICUAUTLA",
+          "5",
+          "476",
+          "232",
+          "244",
+          "21",
+          "LA LUPITA (CASAS VIEJAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2",
+          "LA PEDRERA",
+          "1",
+          "82",
+          "44",
+          "38",
+          "15",
+          "LA REFORMA TLALMIMILOLPAN",
+          "2",
+          "252",
+          "119",
+          "133",
+          "12",
+          "LAS MESAS HUITZIZILAPAN",
+          "2",
+          "83",
+          "42",
+          "41",
+          "4",
+          "LERMA DE VILLADA",
+          "64",
+          "16,796",
+          "8,411",
+          "8,385",
+          "1,065",
+          "METATE VIEJO TLALMIMILOLPAN",
+          "2",
+          "198",
+          "104",
+          "94",
+          "10",
+          "NUEVA AMEYALCO",
+          "1",
+          "521",
+          "262",
+          "259",
+          "13",
+          "PUEBLO NUEVO TLALMIMILOLPAN",
+          "4",
+          "586",
+          "264",
+          "322",
+          "22",
+          "SALAZAR",
+          "3",
+          "258",
+          "134",
+          "124",
+          "12",
+          "SAN AGUSTÍN HUITZIZILAPAN",
+          "3",
+          "352",
+          "170",
+          "182",
+          "17",
+          "SAN FRANCISCO XOCHICUAUTLA",
+          "6",
+          "977",
+          "459",
+          "518",
+          "49",
+          "SAN JOSÉ EL LLANITO",
+          "2",
+          "187",
+          "97",
+          "90",
+          "8",
+          "SAN LORENZO HUITZIZILAPAN",
+          "6",
+          "738",
+          "373",
+          "365",
+          "34",
+          "SAN MARTÍN LAS RAJAS HUITZIZILAPAN",
+          "5",
+          "403",
+          "204",
+          "199",
+          "20",
+          "SAN MATEO ATARASQUILLO",
+          "6",
+          "1,400",
+          "637",
+          "763",
+          "105",
+          "SAN MIGUEL AMEYALCO",
+          "5",
+          "2,072",
+          "1,059",
+          "1,013",
+          "101",
+          "SAN NICOLÁS PERALTA",
+          "6",
+          "1,251",
+          "629",
+          "622",
+          "65",
+          "SAN PEDRO HUITZIZILAPAN",
+          "4",
+          "511",
+          "260",
+          "251",
+          "24",
+          "SAN PEDRO TULTEPEC",
+          "10",
+          "3,079",
+          "1,493",
+          "1,586",
+          "145",
+          "SANTA CATARINA",
+          "3",
+          "799",
+          "387",
+          "412",
+          "39",
+          "SANTA CRUZ CHIGNAHUAPAN",
+          "5",
+          "315",
+          "148",
+          "167",
+          "26",
+          "SANTA CRUZ HUITZIZILAPAN",
+          "3",
+          "225",
+          "109",
+          "116",
+          "10",
+          "SANTA CRUZ TULTEPEC",
+          "2",
+          "120",
+          "62",
+          "58",
+          "6",
+          "SANTA MARÍA ATARASQUILLO",
+          "19",
+          "10,559",
+          "5,140",
+          "5,419",
+          "749",
+          "SANTA MARÍA TLALMIMILOLPAN",
+          "6",
+          "2,307",
+          "1,254",
+          "1,053",
+          "242",
+          "SANTIAGO ANALCO",
+          "4",
+          "556",
+          "284",
+          "272",
+          "31",
+          "ZACAMULPA HUITZIZILAPAN",
+          "3",
+          "632",
+          "313",
+          "319",
+          "26",
+          "ZACAMULPA TLALMIMILOLPAN",
+          "3",
+          "289",
+          "146",
+          "143",
+          "12",
+          "TOTAL",
+          "223",
+          "50,589",
+          "25,105",
+          "25,484",
+          "3,092",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: LERMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOMOLULCO",
+          "2",
+          "63",
+          "33",
+          "30",
+          "4"
+        ],
+        [
+          "BARRANCA GRANDE",
+          "2",
+          "123",
+          "58",
+          "65",
+          "6"
+        ],
+        [
+          "CAÑADA DE ALFERES",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "CASA BLANCA (TIERRAS NUEVAS)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "COLONIA 5 DE MAYO",
+          "3",
+          "378",
+          "179",
+          "199",
+          "16"
+        ],
+        [
+          "COLONIA ADOLFO LÓPEZ MATEOS HUITZIZILAPAN",
+          "1",
+          "309",
+          "143",
+          "166",
+          "12"
+        ],
+        [
+          "COLONIA AGRÍCOLA ANALCO",
+          "2",
+          "323",
+          "149",
+          "174",
+          "13"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN TLALMIMILOLPAN",
+          "4",
+          "1,012",
+          "517",
+          "495",
+          "39"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA",
+          "1",
+          "593",
+          "291",
+          "302",
+          "18"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO",
+          "2",
+          "147",
+          "73",
+          "74",
+          "8"
+        ],
+        [
+          "COLONIA GUADALUPE VICTORIA HUITZIZILAPAN",
+          "4",
+          "879",
+          "457",
+          "422",
+          "52"
+        ],
+        [
+          "COLONIA LOS CEDROS",
+          "1",
+          "106",
+          "58",
+          "48",
+          "5"
+        ],
+        [
+          "COLONIA N'DEXI HUITZIZILAPAN",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "CRISTO REY",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "DOLORES (RANCHERÍA DOLORES)",
+          "1",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "EL ESPINO",
+          "2",
+          "345",
+          "176",
+          "169",
+          "14"
+        ],
+        [
+          "EL ESPINO PERALTA",
+          "2",
+          "93",
+          "45",
+          "48",
+          "5"
+        ],
+        [
+          "FLOR DE GALLO HUITZIZILAPAN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN XOCHICUAUTLA",
+          "5",
+          "476",
+          "232",
+          "244",
+          "21"
+        ],
+        [
+          "LA LUPITA (CASAS VIEJAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "LA PEDRERA",
+          "1",
+          "82",
+          "44",
+          "38",
+          "15"
+        ],
+        [
+          "LA REFORMA TLALMIMILOLPAN",
+          "2",
+          "252",
+          "119",
+          "133",
+          "12"
+        ],
+        [
+          "LAS MESAS HUITZIZILAPAN",
+          "2",
+          "83",
+          "42",
+          "41",
+          "4"
+        ],
+        [
+          "LERMA DE VILLADA",
+          "64",
+          "16,796",
+          "8,411",
+          "8,385",
+          "1,065"
+        ],
+        [
+          "METATE VIEJO TLALMIMILOLPAN",
+          "2",
+          "198",
+          "104",
+          "94",
+          "10"
+        ],
+        [
+          "NUEVA AMEYALCO",
+          "1",
+          "521",
+          "262",
+          "259",
+          "13"
+        ],
+        [
+          "PUEBLO NUEVO TLALMIMILOLPAN",
+          "4",
+          "586",
+          "264",
+          "322",
+          "22"
+        ],
+        [
+          "SALAZAR",
+          "3",
+          "258",
+          "134",
+          "124",
+          "12"
+        ],
+        [
+          "SAN AGUSTÍN HUITZIZILAPAN",
+          "3",
+          "352",
+          "170",
+          "182",
+          "17"
+        ],
+        [
+          "SAN FRANCISCO XOCHICUAUTLA",
+          "6",
+          "977",
+          "459",
+          "518",
+          "49"
+        ],
+        [
+          "SAN JOSÉ EL LLANITO",
+          "2",
+          "187",
+          "97",
+          "90",
+          "8"
+        ],
+        [
+          "SAN LORENZO HUITZIZILAPAN",
+          "6",
+          "738",
+          "373",
+          "365",
+          "34"
+        ],
+        [
+          "SAN MARTÍN LAS RAJAS HUITZIZILAPAN",
+          "5",
+          "403",
+          "204",
+          "199",
+          "20"
+        ],
+        [
+          "SAN MATEO ATARASQUILLO",
+          "6",
+          "1,400",
+          "637",
+          "763",
+          "105"
+        ],
+        [
+          "SAN MIGUEL AMEYALCO",
+          "5",
+          "2,072",
+          "1,059",
+          "1,013",
+          "101"
+        ],
+        [
+          "SAN NICOLÁS PERALTA",
+          "6",
+          "1,251",
+          "629",
+          "622",
+          "65"
+        ],
+        [
+          "SAN PEDRO HUITZIZILAPAN",
+          "4",
+          "511",
+          "260",
+          "251",
+          "24"
+        ],
+        [
+          "SAN PEDRO TULTEPEC",
+          "10",
+          "3,079",
+          "1,493",
+          "1,586",
+          "145"
+        ],
+        [
+          "SANTA CATARINA",
+          "3",
+          "799",
+          "387",
+          "412",
+          "39"
+        ],
+        [
+          "SANTA CRUZ CHIGNAHUAPAN",
+          "5",
+          "315",
+          "148",
+          "167",
+          "26"
+        ],
+        [
+          "SANTA CRUZ HUITZIZILAPAN",
+          "3",
+          "225",
+          "109",
+          "116",
+          "10"
+        ],
+        [
+          "SANTA CRUZ TULTEPEC",
+          "2",
+          "120",
+          "62",
+          "58",
+          "6"
+        ],
+        [
+          "SANTA MARÍA ATARASQUILLO",
+          "19",
+          "10,559",
+          "5,140",
+          "5,419",
+          "749"
+        ],
+        [
+          "SANTA MARÍA TLALMIMILOLPAN",
+          "6",
+          "2,307",
+          "1,254",
+          "1,053",
+          "242"
+        ],
+        [
+          "SANTIAGO ANALCO",
+          "4",
+          "556",
+          "284",
+          "272",
+          "31"
+        ],
+        [
+          "ZACAMULPA HUITZIZILAPAN",
+          "3",
+          "632",
+          "313",
+          "319",
+          "26"
+        ],
+        [
+          "ZACAMULPA TLALMIMILOLPAN",
+          "3",
+          "289",
+          "146",
+          "143",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "223",
+          "50,589",
+          "25,105",
+          "25,484",
+          "3,092"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: LERMA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOMOLULCO",
+          "2",
+          "63",
+          "33",
+          "30",
+          "4"
+        ],
+        [
+          "BARRANCA GRANDE",
+          "2",
+          "123",
+          "58",
+          "65",
+          "6"
+        ],
+        [
+          "CAÑADA DE ALFERES",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "CASA BLANCA (TIERRAS NUEVAS)",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "COLONIA 5 DE MAYO",
+          "3",
+          "378",
+          "179",
+          "199",
+          "16"
+        ],
+        [
+          "COLONIA ADOLFO LÓPEZ MATEOS HUITZIZILAPAN",
+          "1",
+          "309",
+          "143",
+          "166",
+          "12"
+        ],
+        [
+          "COLONIA AGRÍCOLA ANALCO",
+          "2",
+          "323",
+          "149",
+          "174",
+          "13"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN TLALMIMILOLPAN",
+          "4",
+          "1,012",
+          "517",
+          "495",
+          "39"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA",
+          "1",
+          "593",
+          "291",
+          "302",
+          "18"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO",
+          "2",
+          "147",
+          "73",
+          "74",
+          "8"
+        ],
+        [
+          "COLONIA GUADALUPE VICTORIA HUITZIZILAPAN",
+          "4",
+          "879",
+          "457",
+          "422",
+          "52"
+        ],
+        [
+          "COLONIA LOS CEDROS",
+          "1",
+          "106",
+          "58",
+          "48",
+          "5"
+        ],
+        [
+          "COLONIA N'DEXI HUITZIZILAPAN",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "CRISTO REY",
+          "1",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "DOLORES (RANCHERÍA DOLORES)",
+          "1",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "EL ESPINO",
+          "2",
+          "345",
+          "176",
+          "169",
+          "14"
+        ],
+        [
+          "EL ESPINO PERALTA",
+          "2",
+          "93",
+          "45",
+          "48",
+          "5"
+        ],
+        [
+          "FLOR DE GALLO HUITZIZILAPAN",
+          "2",
+          "61",
+          "32",
+          "29",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN XOCHICUAUTLA",
+          "5",
+          "476",
+          "232",
+          "244",
+          "21"
+        ],
+        [
+          "LA LUPITA (CASAS VIEJAS)",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "LA PEDRERA",
+          "1",
+          "82",
+          "44",
+          "38",
+          "15"
+        ],
+        [
+          "LA REFORMA TLALMIMILOLPAN",
+          "2",
+          "252",
+          "119",
+          "133",
+          "12"
+        ],
+        [
+          "LAS MESAS HUITZIZILAPAN",
+          "2",
+          "83",
+          "42",
+          "41",
+          "4"
+        ],
+        [
+          "LERMA DE VILLADA",
+          "64",
+          "16,796",
+          "8,411",
+          "8,385",
+          "1,065"
+        ],
+        [
+          "METATE VIEJO TLALMIMILOLPAN",
+          "2",
+          "198",
+          "104",
+          "94",
+          "10"
+        ],
+        [
+          "NUEVA AMEYALCO",
+          "1",
+          "521",
+          "262",
+          "259",
+          "13"
+        ],
+        [
+          "PUEBLO NUEVO TLALMIMILOLPAN",
+          "4",
+          "586",
+          "264",
+          "322",
+          "22"
+        ],
+        [
+          "SALAZAR",
+          "3",
+          "258",
+          "134",
+          "124",
+          "12"
+        ],
+        [
+          "SAN AGUSTÍN HUITZIZILAPAN",
+          "3",
+          "352",
+          "170",
+          "182",
+          "17"
+        ],
+        [
+          "SAN FRANCISCO XOCHICUAUTLA",
+          "6",
+          "977",
+          "459",
+          "518",
+          "49"
+        ],
+        [
+          "SAN JOSÉ EL LLANITO",
+          "2",
+          "187",
+          "97",
+          "90",
+          "8"
+        ],
+        [
+          "SAN LORENZO HUITZIZILAPAN",
+          "6",
+          "738",
+          "373",
+          "365",
+          "34"
+        ],
+        [
+          "SAN MARTÍN LAS RAJAS HUITZIZILAPAN",
+          "5",
+          "403",
+          "204",
+          "199",
+          "20"
+        ],
+        [
+          "SAN MATEO ATARASQUILLO",
+          "6",
+          "1,400",
+          "637",
+          "763",
+          "105"
+        ],
+        [
+          "SAN MIGUEL AMEYALCO",
+          "5",
+          "2,072",
+          "1,059",
+          "1,013",
+          "101"
+        ],
+        [
+          "SAN NICOLÁS PERALTA",
+          "6",
+          "1,251",
+          "629",
+          "622",
+          "65"
+        ],
+        [
+          "SAN PEDRO HUITZIZILAPAN",
+          "4",
+          "511",
+          "260",
+          "251",
+          "24"
+        ],
+        [
+          "SAN PEDRO TULTEPEC",
+          "10",
+          "3,079",
+          "1,493",
+          "1,586",
+          "145"
+        ],
+        [
+          "SANTA CATARINA",
+          "3",
+          "799",
+          "387",
+          "412",
+          "39"
+        ],
+        [
+          "SANTA CRUZ CHIGNAHUAPAN",
+          "5",
+          "315",
+          "148",
+          "167",
+          "26"
+        ],
+        [
+          "SANTA CRUZ HUITZIZILAPAN",
+          "3",
+          "225",
+          "109",
+          "116",
+          "10"
+        ],
+        [
+          "SANTA CRUZ TULTEPEC",
+          "2",
+          "120",
+          "62",
+          "58",
+          "6"
+        ],
+        [
+          "SANTA MARÍA ATARASQUILLO",
+          "19",
+          "10,559",
+          "5,140",
+          "5,419",
+          "749"
+        ],
+        [
+          "SANTA MARÍA TLALMIMILOLPAN",
+          "6",
+          "2,307",
+          "1,254",
+          "1,053",
+          "242"
+        ],
+        [
+          "SANTIAGO ANALCO",
+          "4",
+          "556",
+          "284",
+          "272",
+          "31"
+        ],
+        [
+          "ZACAMULPA HUITZIZILAPAN",
+          "3",
+          "632",
+          "313",
+          "319",
+          "26"
+        ],
+        [
+          "ZACAMULPA TLALMIMILOLPAN",
+          "3",
+          "289",
+          "146",
+          "143",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "223",
+          "50,589",
+          "25,105",
+          "25,484",
+          "3,092"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:12.540Z"
+}

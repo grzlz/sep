@@ -1,0 +1,802 @@
+{
+  "municipality": "HUAMANTLA",
+  "municipalityCode": "013",
+  "state": "TLAXCALA",
+  "stateCode": "29",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUAMANALA DE MIGUEL HIDALGO\n\tAMAXAC DE GUERRERO\n\tAPETATITLÁN DE ANTONIO CARVAJAL\n\tAPIZACO\n\tATLANGATEPEC\n\tATLTZAYANCA\n\tBENITO JUÁREZ\n\tCALPULALPAN\n\tCHIAUTEMPAN\n\tCONTLA DE JUAN CUAMATZI\n\tCUAPIAXTLA\n\tCUAXOMULCO\n\tEL CARMEN TEQUEXQUITLA\n\tEMILIANO ZAPATA\n\tESPAÑITA\n\tHUAMANTLA\n\tHUEYOTLIPAN\n\tIXTACUIXTLA DE MARIANO MATAMOROS\n\tIXTENCO\n\tLA MAGDALENA TLALTELULCO\n\tLÁZARO CÁRDENAS\n\tMAZATECOCHCO DE JOSÉ MARÍA MORELOS\n\tMUÑOZ DE DOMINGO ARENAS\n\tNANACAMILPA DE MARIANO ARISTA\n\tNATÍVITAS\n\tPANOTLA\n\tPAPALOTLA DE XICOHTÉNCATL\n\tSAN DAMIÁN TEXÓLOC\n\tSAN FRANCISCO TETLANOHCAN\n\tSAN JERÓNIMO ZACUALPAN\n\tSAN JOSÉ TEACALCO\n\tSAN JUAN HUACTZINCO\n\tSAN LORENZO AXOCOMANITLA\n\tSAN LUCAS TECOPILCO\n\tSAN PABLO DEL MONTE\n\tSANCTÓRUM DE LÁZARO CÁRDENAS\n\tSANTA ANA NOPALUCAN\n\tSANTA APOLONIA TEACALCO\n\tSANTA CATARINA AYOMETLA\n\tSANTA CRUZ QUILEHTLA\n\tSANTA CRUZ TLAXCALA\n\tSANTA ISABEL XILOXOXTLA\n\tTENANCINGO\n\tTEOLOCHOLCO\n\tTEPETITLA DE LARDIZÁBAL\n\tTEPEYANCO\n\tTERRENATE\n\tTETLA DE LA SOLIDARIDAD\n\tTETLATLAHUCA\n\tTLAXCALA\n\tTLAXCO\n\tTOCATLÁN\n\tTOTOLAC\n\tTZOMPANTEPEC\n\tXALOZTOC\n\tXALTOCAN\n\tXICOHTZINCO\n\tYAUHQUEMEHCAN\n\tZACATELCO\n\tZILTLALTÉPEC DE TRINIDAD SÁNCHEZ SANTOS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TLAXCALA;    MUNICIPIO: HUAMANTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN FELIPE CARRILLO PUERTO\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t6\n\t\t1,389\n\t\t703\n\t\t686\n\t\t50\n\t\n\t\n\t\tCOLONIA ACASILLADOS SAN MARTÍN NOTARIO\n\t\t1\n\t\t51\n\t\t25\n\t\t26\n\t\t3\n\t\n\t\n\t\tCOLONIA AGRÍCOLA SAN MARTÍN NOTARIO\n\t\t1\n\t\t10\n\t\t3\n\t\t7\n\t\t1\n\t\n\t\n\t\tCOLONIA ALTAMIRA GUADALUPE\n\t\t2\n\t\t66\n\t\t27\n\t\t39\n\t\t6\n\t\n\t\n\t\tCOLONIA CHAPULTEPEC\n\t\t3\n\t\t217\n\t\t104\n\t\t113\n\t\t13\n\t\n\t\n\t\tCOLONIA CUAUHTÉMOC\n\t\t3\n\t\t199\n\t\t98\n\t\t101\n\t\t11\n\t\n\t\n\t\tCOLONIA EL VALLE\n\t\t3\n\t\t106\n\t\t51\n\t\t55\n\t\t7\n\t\n\t\n\t\tCOLONIA FRANCISCO I. MADERO LA MESA\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tCOLONIA FRANCISCO I. MADERO TECÓAC\n\t\t1\n\t\t40\n\t\t19\n\t\t21\n\t\t3\n\t\n\t\n\t\tCOLONIA FRANCISCO VILLA TECÓAC\n\t\t2\n\t\t188\n\t\t100\n\t\t88\n\t\t9\n\t\n\t\n\t\tCOLONIA HERMENEGILDO GALEANA\n\t\t3\n\t\t325\n\t\t163\n\t\t162\n\t\t13\n\t\n\t\n\t\tEL CARMEN XALPATLAHUAYA\n\t\t5\n\t\t2,711\n\t\t1,291\n\t\t1,420\n\t\t147\n\t\n\t\n\t\tEL MOLINO [RANCHERÍA]\n\t\t3\n\t\t34\n\t\t16\n\t\t18\n\t\t4\n\t\n\t\n\t\tEX-HACIENDA SANTO DOMINGO\n\t\t2\n\t\t27\n\t\t11\n\t\t16\n\t\t2\n\t\n\t\n\t\tFRACCIÓN LA NATIVIDAD\n\t\t1\n\t\t19\n\t\t9\n\t\t10\n\t\t1\n\t\n\t\n\t\tGENERAL FRANCISCO VILLA\n\t\t4\n\t\t330\n\t\t147\n\t\t183\n\t\t17\n\t\n\t\n\t\tHUAMANTLA\n\t\t78\n\t\t16,720\n\t\t8,402\n\t\t8,318\n\t\t953\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t7\n\t\t2,114\n\t\t1,046\n\t\t1,068\n\t\t100\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS\n\t\t3\n\t\t255\n\t\t124\n\t\t131\n\t\t12\n\t\n\t\n\t\tLA LIMA [RANCHERÍA]\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t3\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t369\n\t\t191\n\t\t178\n\t\t15\n\t\n\t\n\t\tLOS PILARES\n\t\t5\n\t\t411\n\t\t201\n\t\t210\n\t\t20\n\t\n\t\n\t\tNCP JOSÉ MARÍA MORELOS\n\t\t2\n\t\t55\n\t\t30\n\t\t25\n\t\t4\n\t\n\t\n\t\tNCP SAN JOSÉ TEACALCO\n\t\t2\n\t\t40\n\t\t15\n\t\t25\n\t\t3\n\t\n\t\n\t\tRANCHERÍA DE TORRES\n\t\t3\n\t\t68\n\t\t33\n\t\t35\n\t\t5\n\t\n\t\n\t\tSAN ANTONIO ATENCO\n\t\t1\n\t\t132\n\t\t73\n\t\t59\n\t\t5\n\t\n\t\n\t\tSAN DIEGO XALPATLAHUAYA\n\t\t2\n\t\t42\n\t\t20\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN FRANCISCO TECÓAC [COLONIA]\n\t\t2\n\t\t49\n\t\t19\n\t\t30\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ XICOHTÉNCATL\n\t\t8\n\t\t1,536\n\t\t758\n\t\t778\n\t\t58\n\t\n\t\n\t\tSAN MARTÍN NOTARIO\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t3\n\t\n\t\n\t\tSANTA ANA RÍOS\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t166\n\t\t27,619\n\t\t13,735\n\t\t13,884\n\t\t1,482\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TLAXCALA;    MUNICIPIO: HUAMANTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN FELIPE CARRILLO PUERTO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3",
+          "BENITO JUÁREZ",
+          "6",
+          "1,389",
+          "703",
+          "686",
+          "50",
+          "COLONIA ACASILLADOS SAN MARTÍN NOTARIO",
+          "1",
+          "51",
+          "25",
+          "26",
+          "3",
+          "COLONIA AGRÍCOLA SAN MARTÍN NOTARIO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1",
+          "COLONIA ALTAMIRA GUADALUPE",
+          "2",
+          "66",
+          "27",
+          "39",
+          "6",
+          "COLONIA CHAPULTEPEC",
+          "3",
+          "217",
+          "104",
+          "113",
+          "13",
+          "COLONIA CUAUHTÉMOC",
+          "3",
+          "199",
+          "98",
+          "101",
+          "11",
+          "COLONIA EL VALLE",
+          "3",
+          "106",
+          "51",
+          "55",
+          "7",
+          "COLONIA FRANCISCO I. MADERO LA MESA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3",
+          "COLONIA FRANCISCO I. MADERO TECÓAC",
+          "1",
+          "40",
+          "19",
+          "21",
+          "3",
+          "COLONIA FRANCISCO VILLA TECÓAC",
+          "2",
+          "188",
+          "100",
+          "88",
+          "9",
+          "COLONIA HERMENEGILDO GALEANA",
+          "3",
+          "325",
+          "163",
+          "162",
+          "13",
+          "EL CARMEN XALPATLAHUAYA",
+          "5",
+          "2,711",
+          "1,291",
+          "1,420",
+          "147",
+          "EL MOLINO [RANCHERÍA]",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4",
+          "EX-HACIENDA SANTO DOMINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2",
+          "FRACCIÓN LA NATIVIDAD",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1",
+          "GENERAL FRANCISCO VILLA",
+          "4",
+          "330",
+          "147",
+          "183",
+          "17",
+          "HUAMANTLA",
+          "78",
+          "16,720",
+          "8,402",
+          "8,318",
+          "953",
+          "IGNACIO ZARAGOZA",
+          "7",
+          "2,114",
+          "1,046",
+          "1,068",
+          "100",
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "255",
+          "124",
+          "131",
+          "12",
+          "LA LIMA [RANCHERÍA]",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "369",
+          "191",
+          "178",
+          "15",
+          "LOS PILARES",
+          "5",
+          "411",
+          "201",
+          "210",
+          "20",
+          "NCP JOSÉ MARÍA MORELOS",
+          "2",
+          "55",
+          "30",
+          "25",
+          "4",
+          "NCP SAN JOSÉ TEACALCO",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3",
+          "RANCHERÍA DE TORRES",
+          "3",
+          "68",
+          "33",
+          "35",
+          "5",
+          "SAN ANTONIO ATENCO",
+          "1",
+          "132",
+          "73",
+          "59",
+          "5",
+          "SAN DIEGO XALPATLAHUAYA",
+          "2",
+          "42",
+          "20",
+          "22",
+          "3",
+          "SAN FRANCISCO TECÓAC [COLONIA]",
+          "2",
+          "49",
+          "19",
+          "30",
+          "4",
+          "SAN JOSÉ XICOHTÉNCATL",
+          "8",
+          "1,536",
+          "758",
+          "778",
+          "58",
+          "SAN MARTÍN NOTARIO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "3",
+          "SANTA ANA RÍOS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "TOTAL",
+          "166",
+          "27,619",
+          "13,735",
+          "13,884",
+          "1,482",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TLAXCALA;    MUNICIPIO: HUAMANTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN FELIPE CARRILLO PUERTO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "6",
+          "1,389",
+          "703",
+          "686",
+          "50"
+        ],
+        [
+          "COLONIA ACASILLADOS SAN MARTÍN NOTARIO",
+          "1",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "COLONIA AGRÍCOLA SAN MARTÍN NOTARIO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "COLONIA ALTAMIRA GUADALUPE",
+          "2",
+          "66",
+          "27",
+          "39",
+          "6"
+        ],
+        [
+          "COLONIA CHAPULTEPEC",
+          "3",
+          "217",
+          "104",
+          "113",
+          "13"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "3",
+          "199",
+          "98",
+          "101",
+          "11"
+        ],
+        [
+          "COLONIA EL VALLE",
+          "3",
+          "106",
+          "51",
+          "55",
+          "7"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO LA MESA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO TECÓAC",
+          "1",
+          "40",
+          "19",
+          "21",
+          "3"
+        ],
+        [
+          "COLONIA FRANCISCO VILLA TECÓAC",
+          "2",
+          "188",
+          "100",
+          "88",
+          "9"
+        ],
+        [
+          "COLONIA HERMENEGILDO GALEANA",
+          "3",
+          "325",
+          "163",
+          "162",
+          "13"
+        ],
+        [
+          "EL CARMEN XALPATLAHUAYA",
+          "5",
+          "2,711",
+          "1,291",
+          "1,420",
+          "147"
+        ],
+        [
+          "EL MOLINO [RANCHERÍA]",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EX-HACIENDA SANTO DOMINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2"
+        ],
+        [
+          "FRACCIÓN LA NATIVIDAD",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA",
+          "4",
+          "330",
+          "147",
+          "183",
+          "17"
+        ],
+        [
+          "HUAMANTLA",
+          "78",
+          "16,720",
+          "8,402",
+          "8,318",
+          "953"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "7",
+          "2,114",
+          "1,046",
+          "1,068",
+          "100"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "255",
+          "124",
+          "131",
+          "12"
+        ],
+        [
+          "LA LIMA [RANCHERÍA]",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "369",
+          "191",
+          "178",
+          "15"
+        ],
+        [
+          "LOS PILARES",
+          "5",
+          "411",
+          "201",
+          "210",
+          "20"
+        ],
+        [
+          "NCP JOSÉ MARÍA MORELOS",
+          "2",
+          "55",
+          "30",
+          "25",
+          "4"
+        ],
+        [
+          "NCP SAN JOSÉ TEACALCO",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3"
+        ],
+        [
+          "RANCHERÍA DE TORRES",
+          "3",
+          "68",
+          "33",
+          "35",
+          "5"
+        ],
+        [
+          "SAN ANTONIO ATENCO",
+          "1",
+          "132",
+          "73",
+          "59",
+          "5"
+        ],
+        [
+          "SAN DIEGO XALPATLAHUAYA",
+          "2",
+          "42",
+          "20",
+          "22",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO TECÓAC [COLONIA]",
+          "2",
+          "49",
+          "19",
+          "30",
+          "4"
+        ],
+        [
+          "SAN JOSÉ XICOHTÉNCATL",
+          "8",
+          "1,536",
+          "758",
+          "778",
+          "58"
+        ],
+        [
+          "SAN MARTÍN NOTARIO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "3"
+        ],
+        [
+          "SANTA ANA RÍOS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "166",
+          "27,619",
+          "13,735",
+          "13,884",
+          "1,482"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TLAXCALA;    MUNICIPIO: HUAMANTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN FELIPE CARRILLO PUERTO",
+          "2",
+          "26",
+          "12",
+          "14",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "6",
+          "1,389",
+          "703",
+          "686",
+          "50"
+        ],
+        [
+          "COLONIA ACASILLADOS SAN MARTÍN NOTARIO",
+          "1",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "COLONIA AGRÍCOLA SAN MARTÍN NOTARIO",
+          "1",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "COLONIA ALTAMIRA GUADALUPE",
+          "2",
+          "66",
+          "27",
+          "39",
+          "6"
+        ],
+        [
+          "COLONIA CHAPULTEPEC",
+          "3",
+          "217",
+          "104",
+          "113",
+          "13"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "3",
+          "199",
+          "98",
+          "101",
+          "11"
+        ],
+        [
+          "COLONIA EL VALLE",
+          "3",
+          "106",
+          "51",
+          "55",
+          "7"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO LA MESA",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "COLONIA FRANCISCO I. MADERO TECÓAC",
+          "1",
+          "40",
+          "19",
+          "21",
+          "3"
+        ],
+        [
+          "COLONIA FRANCISCO VILLA TECÓAC",
+          "2",
+          "188",
+          "100",
+          "88",
+          "9"
+        ],
+        [
+          "COLONIA HERMENEGILDO GALEANA",
+          "3",
+          "325",
+          "163",
+          "162",
+          "13"
+        ],
+        [
+          "EL CARMEN XALPATLAHUAYA",
+          "5",
+          "2,711",
+          "1,291",
+          "1,420",
+          "147"
+        ],
+        [
+          "EL MOLINO [RANCHERÍA]",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EX-HACIENDA SANTO DOMINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2"
+        ],
+        [
+          "FRACCIÓN LA NATIVIDAD",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA",
+          "4",
+          "330",
+          "147",
+          "183",
+          "17"
+        ],
+        [
+          "HUAMANTLA",
+          "78",
+          "16,720",
+          "8,402",
+          "8,318",
+          "953"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "7",
+          "2,114",
+          "1,046",
+          "1,068",
+          "100"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "3",
+          "255",
+          "124",
+          "131",
+          "12"
+        ],
+        [
+          "LA LIMA [RANCHERÍA]",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "369",
+          "191",
+          "178",
+          "15"
+        ],
+        [
+          "LOS PILARES",
+          "5",
+          "411",
+          "201",
+          "210",
+          "20"
+        ],
+        [
+          "NCP JOSÉ MARÍA MORELOS",
+          "2",
+          "55",
+          "30",
+          "25",
+          "4"
+        ],
+        [
+          "NCP SAN JOSÉ TEACALCO",
+          "2",
+          "40",
+          "15",
+          "25",
+          "3"
+        ],
+        [
+          "RANCHERÍA DE TORRES",
+          "3",
+          "68",
+          "33",
+          "35",
+          "5"
+        ],
+        [
+          "SAN ANTONIO ATENCO",
+          "1",
+          "132",
+          "73",
+          "59",
+          "5"
+        ],
+        [
+          "SAN DIEGO XALPATLAHUAYA",
+          "2",
+          "42",
+          "20",
+          "22",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO TECÓAC [COLONIA]",
+          "2",
+          "49",
+          "19",
+          "30",
+          "4"
+        ],
+        [
+          "SAN JOSÉ XICOHTÉNCATL",
+          "8",
+          "1,536",
+          "758",
+          "778",
+          "58"
+        ],
+        [
+          "SAN MARTÍN NOTARIO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "3"
+        ],
+        [
+          "SANTA ANA RÍOS",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "166",
+          "27,619",
+          "13,735",
+          "13,884",
+          "1,482"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:21.043Z"
+}

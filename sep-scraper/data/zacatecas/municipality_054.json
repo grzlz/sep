@@ -1,0 +1,692 @@
+{
+  "municipality": "VILLA HIDALGO",
+  "municipalityCode": "054",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA HIDALGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCABALLERÍAS (CABALLERÍA VILLA HIDALGO)\n\t\t3\n\t\t227\n\t\t111\n\t\t116\n\t\t11\n\t\n\t\n\t\tCANOAS\n\t\t4\n\t\t149\n\t\t87\n\t\t62\n\t\t9\n\t\n\t\n\t\tCERRO PRIETO\n\t\t3\n\t\t66\n\t\t30\n\t\t36\n\t\t4\n\t\n\t\n\t\tCOLONIA JOSÉ MARÍA MORELOS\n\t\t3\n\t\t450\n\t\t247\n\t\t203\n\t\t22\n\t\n\t\n\t\tCOLONIA JUÁREZ\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL MAGUEY\n\t\t3\n\t\t179\n\t\t86\n\t\t93\n\t\t9\n\t\n\t\n\t\tEL REFUGIO\n\t\t4\n\t\t601\n\t\t302\n\t\t299\n\t\t27\n\t\n\t\n\t\tEL SALITRE\n\t\t3\n\t\t205\n\t\t100\n\t\t105\n\t\t11\n\t\n\t\n\t\tEL SOTOLILLO\n\t\t3\n\t\t76\n\t\t37\n\t\t39\n\t\t5\n\t\n\t\n\t\tEL TEPETATE\n\t\t3\n\t\t151\n\t\t73\n\t\t78\n\t\t8\n\t\n\t\n\t\tEL VERDE (EL SOCORRO)\n\t\t2\n\t\t30\n\t\t11\n\t\t19\n\t\t2\n\t\n\t\n\t\tFRACCIONAMIENTO VICTORIA (LA VICTORIA)\n\t\t3\n\t\t209\n\t\t106\n\t\t103\n\t\t9\n\t\n\t\n\t\tLA BALLENA\n\t\t4\n\t\t534\n\t\t275\n\t\t259\n\t\t26\n\t\n\t\n\t\tLA CERCA (CAN CAN)\n\t\t3\n\t\t112\n\t\t59\n\t\t53\n\t\t5\n\t\n\t\n\t\tLA LAGUNITA\n\t\t3\n\t\t147\n\t\t63\n\t\t84\n\t\t7\n\t\n\t\n\t\tLOS DÁVILA\n\t\t3\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tLOS REYES\n\t\t3\n\t\t114\n\t\t58\n\t\t56\n\t\t6\n\t\n\t\n\t\tMONTE GRANDE\n\t\t3\n\t\t71\n\t\t35\n\t\t36\n\t\t4\n\t\n\t\n\t\tPRESA DE VALENZUELA (LAGUNA DE VALENZUELA)\n\t\t3\n\t\t198\n\t\t102\n\t\t96\n\t\t11\n\t\n\t\n\t\tPROVIDENCIA\n\t\t3\n\t\t275\n\t\t144\n\t\t131\n\t\t13\n\t\n\t\n\t\tPURÍSIMA DEL RUCIO (EL RUCIO)\n\t\t4\n\t\t231\n\t\t126\n\t\t105\n\t\t11\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t3\n\t\t77\n\t\t41\n\t\t36\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO DE LA CRUZ\n\t\t3\n\t\t18\n\t\t13\n\t\t5\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DEL BAJÍO (PUERTO DE PALMAS)\n\t\t2\n\t\t46\n\t\t19\n\t\t27\n\t\t3\n\t\n\t\n\t\tVILLA HIDALGO\n\t\t7\n\t\t1,435\n\t\t756\n\t\t679\n\t\t112\n\t\n\t\n\t\tVILLANUEVA\n\t\t3\n\t\t78\n\t\t40\n\t\t38\n\t\t4\n\t\n\t\n\t\tZONA BENITO JUÁREZ (BENITO JUÁREZ)\n\t\t3\n\t\t54\n\t\t29\n\t\t25\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t85\n\t\t5,770\n\t\t2,968\n\t\t2,802\n\t\t334\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA HIDALGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CABALLERÍAS (CABALLERÍA VILLA HIDALGO)",
+          "3",
+          "227",
+          "111",
+          "116",
+          "11",
+          "CANOAS",
+          "4",
+          "149",
+          "87",
+          "62",
+          "9",
+          "CERRO PRIETO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4",
+          "COLONIA JOSÉ MARÍA MORELOS",
+          "3",
+          "450",
+          "247",
+          "203",
+          "22",
+          "COLONIA JUÁREZ",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "EL MAGUEY",
+          "3",
+          "179",
+          "86",
+          "93",
+          "9",
+          "EL REFUGIO",
+          "4",
+          "601",
+          "302",
+          "299",
+          "27",
+          "EL SALITRE",
+          "3",
+          "205",
+          "100",
+          "105",
+          "11",
+          "EL SOTOLILLO",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5",
+          "EL TEPETATE",
+          "3",
+          "151",
+          "73",
+          "78",
+          "8",
+          "EL VERDE (EL SOCORRO)",
+          "2",
+          "30",
+          "11",
+          "19",
+          "2",
+          "FRACCIONAMIENTO VICTORIA (LA VICTORIA)",
+          "3",
+          "209",
+          "106",
+          "103",
+          "9",
+          "LA BALLENA",
+          "4",
+          "534",
+          "275",
+          "259",
+          "26",
+          "LA CERCA (CAN CAN)",
+          "3",
+          "112",
+          "59",
+          "53",
+          "5",
+          "LA LAGUNITA",
+          "3",
+          "147",
+          "63",
+          "84",
+          "7",
+          "LOS DÁVILA",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3",
+          "LOS REYES",
+          "3",
+          "114",
+          "58",
+          "56",
+          "6",
+          "MONTE GRANDE",
+          "3",
+          "71",
+          "35",
+          "36",
+          "4",
+          "PRESA DE VALENZUELA (LAGUNA DE VALENZUELA)",
+          "3",
+          "198",
+          "102",
+          "96",
+          "11",
+          "PROVIDENCIA",
+          "3",
+          "275",
+          "144",
+          "131",
+          "13",
+          "PURÍSIMA DEL RUCIO (EL RUCIO)",
+          "4",
+          "231",
+          "126",
+          "105",
+          "11",
+          "SAN AGUSTÍN",
+          "3",
+          "77",
+          "41",
+          "36",
+          "4",
+          "SAN ANTONIO DE LA CRUZ",
+          "3",
+          "18",
+          "13",
+          "5",
+          "3",
+          "SAN ANTONIO DEL BAJÍO (PUERTO DE PALMAS)",
+          "2",
+          "46",
+          "19",
+          "27",
+          "3",
+          "VILLA HIDALGO",
+          "7",
+          "1,435",
+          "756",
+          "679",
+          "112",
+          "VILLANUEVA",
+          "3",
+          "78",
+          "40",
+          "38",
+          "4",
+          "ZONA BENITO JUÁREZ (BENITO JUÁREZ)",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4",
+          "TOTAL",
+          "85",
+          "5,770",
+          "2,968",
+          "2,802",
+          "334",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CABALLERÍAS (CABALLERÍA VILLA HIDALGO)",
+          "3",
+          "227",
+          "111",
+          "116",
+          "11"
+        ],
+        [
+          "CANOAS",
+          "4",
+          "149",
+          "87",
+          "62",
+          "9"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4"
+        ],
+        [
+          "COLONIA JOSÉ MARÍA MORELOS",
+          "3",
+          "450",
+          "247",
+          "203",
+          "22"
+        ],
+        [
+          "COLONIA JUÁREZ",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "179",
+          "86",
+          "93",
+          "9"
+        ],
+        [
+          "EL REFUGIO",
+          "4",
+          "601",
+          "302",
+          "299",
+          "27"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "205",
+          "100",
+          "105",
+          "11"
+        ],
+        [
+          "EL SOTOLILLO",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "151",
+          "73",
+          "78",
+          "8"
+        ],
+        [
+          "EL VERDE (EL SOCORRO)",
+          "2",
+          "30",
+          "11",
+          "19",
+          "2"
+        ],
+        [
+          "FRACCIONAMIENTO VICTORIA (LA VICTORIA)",
+          "3",
+          "209",
+          "106",
+          "103",
+          "9"
+        ],
+        [
+          "LA BALLENA",
+          "4",
+          "534",
+          "275",
+          "259",
+          "26"
+        ],
+        [
+          "LA CERCA (CAN CAN)",
+          "3",
+          "112",
+          "59",
+          "53",
+          "5"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "147",
+          "63",
+          "84",
+          "7"
+        ],
+        [
+          "LOS DÁVILA",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "LOS REYES",
+          "3",
+          "114",
+          "58",
+          "56",
+          "6"
+        ],
+        [
+          "MONTE GRANDE",
+          "3",
+          "71",
+          "35",
+          "36",
+          "4"
+        ],
+        [
+          "PRESA DE VALENZUELA (LAGUNA DE VALENZUELA)",
+          "3",
+          "198",
+          "102",
+          "96",
+          "11"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "275",
+          "144",
+          "131",
+          "13"
+        ],
+        [
+          "PURÍSIMA DEL RUCIO (EL RUCIO)",
+          "4",
+          "231",
+          "126",
+          "105",
+          "11"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "77",
+          "41",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LA CRUZ",
+          "3",
+          "18",
+          "13",
+          "5",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DEL BAJÍO (PUERTO DE PALMAS)",
+          "2",
+          "46",
+          "19",
+          "27",
+          "3"
+        ],
+        [
+          "VILLA HIDALGO",
+          "7",
+          "1,435",
+          "756",
+          "679",
+          "112"
+        ],
+        [
+          "VILLANUEVA",
+          "3",
+          "78",
+          "40",
+          "38",
+          "4"
+        ],
+        [
+          "ZONA BENITO JUÁREZ (BENITO JUÁREZ)",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "85",
+          "5,770",
+          "2,968",
+          "2,802",
+          "334"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: VILLA HIDALGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CABALLERÍAS (CABALLERÍA VILLA HIDALGO)",
+          "3",
+          "227",
+          "111",
+          "116",
+          "11"
+        ],
+        [
+          "CANOAS",
+          "4",
+          "149",
+          "87",
+          "62",
+          "9"
+        ],
+        [
+          "CERRO PRIETO",
+          "3",
+          "66",
+          "30",
+          "36",
+          "4"
+        ],
+        [
+          "COLONIA JOSÉ MARÍA MORELOS",
+          "3",
+          "450",
+          "247",
+          "203",
+          "22"
+        ],
+        [
+          "COLONIA JUÁREZ",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "179",
+          "86",
+          "93",
+          "9"
+        ],
+        [
+          "EL REFUGIO",
+          "4",
+          "601",
+          "302",
+          "299",
+          "27"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "205",
+          "100",
+          "105",
+          "11"
+        ],
+        [
+          "EL SOTOLILLO",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "151",
+          "73",
+          "78",
+          "8"
+        ],
+        [
+          "EL VERDE (EL SOCORRO)",
+          "2",
+          "30",
+          "11",
+          "19",
+          "2"
+        ],
+        [
+          "FRACCIONAMIENTO VICTORIA (LA VICTORIA)",
+          "3",
+          "209",
+          "106",
+          "103",
+          "9"
+        ],
+        [
+          "LA BALLENA",
+          "4",
+          "534",
+          "275",
+          "259",
+          "26"
+        ],
+        [
+          "LA CERCA (CAN CAN)",
+          "3",
+          "112",
+          "59",
+          "53",
+          "5"
+        ],
+        [
+          "LA LAGUNITA",
+          "3",
+          "147",
+          "63",
+          "84",
+          "7"
+        ],
+        [
+          "LOS DÁVILA",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "LOS REYES",
+          "3",
+          "114",
+          "58",
+          "56",
+          "6"
+        ],
+        [
+          "MONTE GRANDE",
+          "3",
+          "71",
+          "35",
+          "36",
+          "4"
+        ],
+        [
+          "PRESA DE VALENZUELA (LAGUNA DE VALENZUELA)",
+          "3",
+          "198",
+          "102",
+          "96",
+          "11"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "275",
+          "144",
+          "131",
+          "13"
+        ],
+        [
+          "PURÍSIMA DEL RUCIO (EL RUCIO)",
+          "4",
+          "231",
+          "126",
+          "105",
+          "11"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "77",
+          "41",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LA CRUZ",
+          "3",
+          "18",
+          "13",
+          "5",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DEL BAJÍO (PUERTO DE PALMAS)",
+          "2",
+          "46",
+          "19",
+          "27",
+          "3"
+        ],
+        [
+          "VILLA HIDALGO",
+          "7",
+          "1,435",
+          "756",
+          "679",
+          "112"
+        ],
+        [
+          "VILLANUEVA",
+          "3",
+          "78",
+          "40",
+          "38",
+          "4"
+        ],
+        [
+          "ZONA BENITO JUÁREZ (BENITO JUÁREZ)",
+          "3",
+          "54",
+          "29",
+          "25",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "85",
+          "5,770",
+          "2,968",
+          "2,802",
+          "334"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:53:44.120Z"
+}

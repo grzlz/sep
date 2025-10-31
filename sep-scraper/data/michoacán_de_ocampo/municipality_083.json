@@ -1,0 +1,1418 @@
+{
+  "municipality": "TANCÍTARO",
+  "municipalityCode": "083",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TANCÍTARO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACÚMBARO\n\t\t2\n\t\t27\n\t\t16\n\t\t11\n\t\t2\n\t\n\t\n\t\tAGUA DE CHEPE\n\t\t3\n\t\t51\n\t\t28\n\t\t23\n\t\t4\n\t\n\t\n\t\tAGUA NUEVA\n\t\t2\n\t\t56\n\t\t33\n\t\t23\n\t\t3\n\t\n\t\n\t\tAGUA ZARCA\n\t\t6\n\t\t313\n\t\t165\n\t\t148\n\t\t17\n\t\n\t\n\t\tAGUACATE DEL SUR\n\t\t2\n\t\t127\n\t\t70\n\t\t57\n\t\t6\n\t\n\t\n\t\tAPO\n\t\t3\n\t\t419\n\t\t231\n\t\t188\n\t\t19\n\t\n\t\n\t\tAPÚNDARO\n\t\t2\n\t\t114\n\t\t70\n\t\t44\n\t\t7\n\t\n\t\n\t\tARAPARÍCUARO (APARÍCUARO)\n\t\t2\n\t\t196\n\t\t95\n\t\t101\n\t\t9\n\t\n\t\n\t\tBARRANQUILLAS (RINCÓN DE BARRANQUILLAS)\n\t\t3\n\t\t223\n\t\t117\n\t\t106\n\t\t10\n\t\n\t\n\t\tCHIRIMOYO\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tCHORITIRO\n\t\t1\n\t\t109\n\t\t60\n\t\t49\n\t\t5\n\t\n\t\n\t\tCOLONIA SAN ANTONIO\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tCONDÉMBARO\n\t\t2\n\t\t511\n\t\t261\n\t\t250\n\t\t17\n\t\n\t\n\t\tEL AGUACATE PONIENTE\n\t\t1\n\t\t48\n\t\t25\n\t\t23\n\t\t2\n\t\n\t\n\t\tEL CAHULOTE\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL CAPULÍN\n\t\t1\n\t\t4\n\t\t4\n\t\t0\n\t\t1\n\t\n\t\n\t\tEL CARRIZAL\n\t\t2\n\t\t29\n\t\t18\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL CHILAR\n\t\t1\n\t\t25\n\t\t9\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL CHUPADERO\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL CORTIJO\n\t\t3\n\t\t55\n\t\t26\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL CUATE\n\t\t2\n\t\t112\n\t\t54\n\t\t58\n\t\t6\n\t\n\t\n\t\tEL JACAL\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL MORAL (LA MORA)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL PALMITO DEL SUR\n\t\t1\n\t\t18\n\t\t6\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL PINABETE\n\t\t1\n\t\t17\n\t\t9\n\t\t8\n\t\t1\n\t\n\t\n\t\tEL REPARO (LA PRESA EL REPARO)\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL TEPAMO\n\t\t2\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL TIZATE\n\t\t1\n\t\t43\n\t\t23\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL ZAPOTE\n\t\t2\n\t\t87\n\t\t43\n\t\t44\n\t\t3\n\t\n\t\n\t\tENÁNDIRO\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t3\n\t\n\t\n\t\tGARACHICO\n\t\t2\n\t\t35\n\t\t21\n\t\t14\n\t\t2\n\t\n\t\n\t\tHUARICHO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA ALBERCA\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA LAGUNILLA\n\t\t1\n\t\t49\n\t\t25\n\t\t24\n\t\t2\n\t\n\t\n\t\tLA MESA DEL DURAZNO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA PEÑITA\n\t\t2\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t28\n\t\t13\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA TINAJA\n\t\t3\n\t\t39\n\t\t16\n\t\t23\n\t\t5\n\t\n\t\n\t\tLAS CANOAS\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAS JUNTAS DE ENÁNDIRO\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\tLOS FRESNOS\n\t\t2\n\t\t141\n\t\t68\n\t\t73\n\t\t8\n\t\n\t\n\t\tLOS GRANADOS\n\t\t2\n\t\t45\n\t\t27\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOS LLANITOS\n\t\t2\n\t\t11\n\t\t9\n\t\t2\n\t\t2\n\t\n\t\n\t\tLOS OJOS DE AGUA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tOJO DE AGUA (EL OJO DE AGUA DEL PALMITO)\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tOJO ZARCO\n\t\t3\n\t\t69\n\t\t35\n\t\t34\n\t\t5\n\t\n\t\n\t\tPALO PICADO\n\t\t2\n\t\t11\n\t\t7\n\t\t4\n\t\t2\n\t\n\t\n\t\tPANZINDA\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tPAREO\n\t\t6\n\t\t767\n\t\t400\n\t\t367\n\t\t50\n\t\n\t\n\t\tPATÁMBURO\n\t\t2\n\t\t28\n\t\t13\n\t\t15\n\t\t2\n\t\n\t\n\t\tPÚCUARO\n\t\t2\n\t\t66\n\t\t36\n\t\t30\n\t\t4\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t3\n\t\t88\n\t\t47\n\t\t41\n\t\t5\n\t\n\t\n\t\tSANTA CATARINA\n\t\t2\n\t\t214\n\t\t106\n\t\t108\n\t\t11\n\t\n\t\n\t\tSOLEDAD DEL PONIENTE\n\t\t2\n\t\t87\n\t\t39\n\t\t48\n\t\t4\n\t\n\t\n\t\tTANCÍTARO\n\t\t18\n\t\t3,602\n\t\t1,832\n\t\t1,770\n\t\t222\n\t\n\t\n\t\tURINGÜITIRO\n\t\t3\n\t\t218\n\t\t123\n\t\t95\n\t\t9\n\t\n\t\n\t\tZIRIMBO\n\t\t1\n\t\t143\n\t\t72\n\t\t71\n\t\t5\n\t\n\t\n\t\tZIRIMONDIRO\n\t\t2\n\t\t268\n\t\t138\n\t\t130\n\t\t10\n\t\n\t\n\t\tZOROMÚTARO (PUERTO DE ZOROMÚTARO)\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t138\n\t\t8,908\n\t\t4,584\n\t\t4,324\n\t\t515\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TANCÍTARO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACÚMBARO",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2",
+          "AGUA DE CHEPE",
+          "3",
+          "51",
+          "28",
+          "23",
+          "4",
+          "AGUA NUEVA",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3",
+          "AGUA ZARCA",
+          "6",
+          "313",
+          "165",
+          "148",
+          "17",
+          "AGUACATE DEL SUR",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6",
+          "APO",
+          "3",
+          "419",
+          "231",
+          "188",
+          "19",
+          "APÚNDARO",
+          "2",
+          "114",
+          "70",
+          "44",
+          "7",
+          "ARAPARÍCUARO (APARÍCUARO)",
+          "2",
+          "196",
+          "95",
+          "101",
+          "9",
+          "BARRANQUILLAS (RINCÓN DE BARRANQUILLAS)",
+          "3",
+          "223",
+          "117",
+          "106",
+          "10",
+          "CHIRIMOYO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "CHORITIRO",
+          "1",
+          "109",
+          "60",
+          "49",
+          "5",
+          "COLONIA SAN ANTONIO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "CONDÉMBARO",
+          "2",
+          "511",
+          "261",
+          "250",
+          "17",
+          "EL AGUACATE PONIENTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "2",
+          "EL CAHULOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1",
+          "EL CAPULÍN",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1",
+          "EL CARRIZAL",
+          "2",
+          "29",
+          "18",
+          "11",
+          "2",
+          "EL CHILAR",
+          "1",
+          "25",
+          "9",
+          "16",
+          "2",
+          "EL CHUPADERO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "2",
+          "EL CORTIJO",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3",
+          "EL CUATE",
+          "2",
+          "112",
+          "54",
+          "58",
+          "6",
+          "EL JACAL",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3",
+          "EL MORAL (LA MORA)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "EL PALMITO DEL SUR",
+          "1",
+          "18",
+          "6",
+          "12",
+          "2",
+          "EL PINABETE",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1",
+          "EL REPARO (LA PRESA EL REPARO)",
+          "2",
+          "15",
+          "5",
+          "10",
+          "3",
+          "EL TEPAMO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "1",
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL TIZATE",
+          "1",
+          "43",
+          "23",
+          "20",
+          "2",
+          "EL ZAPOTE",
+          "2",
+          "87",
+          "43",
+          "44",
+          "3",
+          "ENÁNDIRO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3",
+          "GARACHICO",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2",
+          "HUARICHO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LA ALBERCA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "LA LAGUNILLA",
+          "1",
+          "49",
+          "25",
+          "24",
+          "2",
+          "LA MESA DEL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "LA PEÑITA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3",
+          "LA SOLEDAD",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2",
+          "LA TINAJA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "5",
+          "LAS CANOAS",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3",
+          "LAS JUNTAS DE ENÁNDIRO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "LOS FRESNOS",
+          "2",
+          "141",
+          "68",
+          "73",
+          "8",
+          "LOS GRANADOS",
+          "2",
+          "45",
+          "27",
+          "18",
+          "3",
+          "LOS LLANITOS",
+          "2",
+          "11",
+          "9",
+          "2",
+          "2",
+          "LOS OJOS DE AGUA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "OJO DE AGUA (EL OJO DE AGUA DEL PALMITO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "OJO ZARCO",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5",
+          "PALO PICADO",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2",
+          "PANZINDA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "PAREO",
+          "6",
+          "767",
+          "400",
+          "367",
+          "50",
+          "PATÁMBURO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2",
+          "PÚCUARO",
+          "2",
+          "66",
+          "36",
+          "30",
+          "4",
+          "RANCHO NUEVO",
+          "3",
+          "88",
+          "47",
+          "41",
+          "5",
+          "SANTA CATARINA",
+          "2",
+          "214",
+          "106",
+          "108",
+          "11",
+          "SOLEDAD DEL PONIENTE",
+          "2",
+          "87",
+          "39",
+          "48",
+          "4",
+          "TANCÍTARO",
+          "18",
+          "3,602",
+          "1,832",
+          "1,770",
+          "222",
+          "URINGÜITIRO",
+          "3",
+          "218",
+          "123",
+          "95",
+          "9",
+          "ZIRIMBO",
+          "1",
+          "143",
+          "72",
+          "71",
+          "5",
+          "ZIRIMONDIRO",
+          "2",
+          "268",
+          "138",
+          "130",
+          "10",
+          "ZOROMÚTARO (PUERTO DE ZOROMÚTARO)",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3",
+          "TOTAL",
+          "138",
+          "8,908",
+          "4,584",
+          "4,324",
+          "515",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TANCÍTARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACÚMBARO",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "AGUA DE CHEPE",
+          "3",
+          "51",
+          "28",
+          "23",
+          "4"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "AGUA ZARCA",
+          "6",
+          "313",
+          "165",
+          "148",
+          "17"
+        ],
+        [
+          "AGUACATE DEL SUR",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "APO",
+          "3",
+          "419",
+          "231",
+          "188",
+          "19"
+        ],
+        [
+          "APÚNDARO",
+          "2",
+          "114",
+          "70",
+          "44",
+          "7"
+        ],
+        [
+          "ARAPARÍCUARO (APARÍCUARO)",
+          "2",
+          "196",
+          "95",
+          "101",
+          "9"
+        ],
+        [
+          "BARRANQUILLAS (RINCÓN DE BARRANQUILLAS)",
+          "3",
+          "223",
+          "117",
+          "106",
+          "10"
+        ],
+        [
+          "CHIRIMOYO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "CHORITIRO",
+          "1",
+          "109",
+          "60",
+          "49",
+          "5"
+        ],
+        [
+          "COLONIA SAN ANTONIO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "CONDÉMBARO",
+          "2",
+          "511",
+          "261",
+          "250",
+          "17"
+        ],
+        [
+          "EL AGUACATE PONIENTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "2"
+        ],
+        [
+          "EL CAHULOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "EL CAPULÍN",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "29",
+          "18",
+          "11",
+          "2"
+        ],
+        [
+          "EL CHILAR",
+          "1",
+          "25",
+          "9",
+          "16",
+          "2"
+        ],
+        [
+          "EL CHUPADERO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "2"
+        ],
+        [
+          "EL CORTIJO",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EL CUATE",
+          "2",
+          "112",
+          "54",
+          "58",
+          "6"
+        ],
+        [
+          "EL JACAL",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "EL MORAL (LA MORA)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL PALMITO DEL SUR",
+          "1",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "EL PINABETE",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "EL REPARO (LA PRESA EL REPARO)",
+          "2",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "EL TEPAMO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL TIZATE",
+          "1",
+          "43",
+          "23",
+          "20",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "87",
+          "43",
+          "44",
+          "3"
+        ],
+        [
+          "ENÁNDIRO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3"
+        ],
+        [
+          "GARACHICO",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "HUARICHO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA ALBERCA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "LA LAGUNILLA",
+          "1",
+          "49",
+          "25",
+          "24",
+          "2"
+        ],
+        [
+          "LA MESA DEL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "LA PEÑITA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "5"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "LAS JUNTAS DE ENÁNDIRO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "LOS FRESNOS",
+          "2",
+          "141",
+          "68",
+          "73",
+          "8"
+        ],
+        [
+          "LOS GRANADOS",
+          "2",
+          "45",
+          "27",
+          "18",
+          "3"
+        ],
+        [
+          "LOS LLANITOS",
+          "2",
+          "11",
+          "9",
+          "2",
+          "2"
+        ],
+        [
+          "LOS OJOS DE AGUA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "OJO DE AGUA (EL OJO DE AGUA DEL PALMITO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "OJO ZARCO",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5"
+        ],
+        [
+          "PALO PICADO",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "PANZINDA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "PAREO",
+          "6",
+          "767",
+          "400",
+          "367",
+          "50"
+        ],
+        [
+          "PATÁMBURO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "PÚCUARO",
+          "2",
+          "66",
+          "36",
+          "30",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "88",
+          "47",
+          "41",
+          "5"
+        ],
+        [
+          "SANTA CATARINA",
+          "2",
+          "214",
+          "106",
+          "108",
+          "11"
+        ],
+        [
+          "SOLEDAD DEL PONIENTE",
+          "2",
+          "87",
+          "39",
+          "48",
+          "4"
+        ],
+        [
+          "TANCÍTARO",
+          "18",
+          "3,602",
+          "1,832",
+          "1,770",
+          "222"
+        ],
+        [
+          "URINGÜITIRO",
+          "3",
+          "218",
+          "123",
+          "95",
+          "9"
+        ],
+        [
+          "ZIRIMBO",
+          "1",
+          "143",
+          "72",
+          "71",
+          "5"
+        ],
+        [
+          "ZIRIMONDIRO",
+          "2",
+          "268",
+          "138",
+          "130",
+          "10"
+        ],
+        [
+          "ZOROMÚTARO (PUERTO DE ZOROMÚTARO)",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "138",
+          "8,908",
+          "4,584",
+          "4,324",
+          "515"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TANCÍTARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACÚMBARO",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "AGUA DE CHEPE",
+          "3",
+          "51",
+          "28",
+          "23",
+          "4"
+        ],
+        [
+          "AGUA NUEVA",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "AGUA ZARCA",
+          "6",
+          "313",
+          "165",
+          "148",
+          "17"
+        ],
+        [
+          "AGUACATE DEL SUR",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "APO",
+          "3",
+          "419",
+          "231",
+          "188",
+          "19"
+        ],
+        [
+          "APÚNDARO",
+          "2",
+          "114",
+          "70",
+          "44",
+          "7"
+        ],
+        [
+          "ARAPARÍCUARO (APARÍCUARO)",
+          "2",
+          "196",
+          "95",
+          "101",
+          "9"
+        ],
+        [
+          "BARRANQUILLAS (RINCÓN DE BARRANQUILLAS)",
+          "3",
+          "223",
+          "117",
+          "106",
+          "10"
+        ],
+        [
+          "CHIRIMOYO",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "CHORITIRO",
+          "1",
+          "109",
+          "60",
+          "49",
+          "5"
+        ],
+        [
+          "COLONIA SAN ANTONIO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "CONDÉMBARO",
+          "2",
+          "511",
+          "261",
+          "250",
+          "17"
+        ],
+        [
+          "EL AGUACATE PONIENTE",
+          "1",
+          "48",
+          "25",
+          "23",
+          "2"
+        ],
+        [
+          "EL CAHULOTE",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "EL CAPULÍN",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "EL CARRIZAL",
+          "2",
+          "29",
+          "18",
+          "11",
+          "2"
+        ],
+        [
+          "EL CHILAR",
+          "1",
+          "25",
+          "9",
+          "16",
+          "2"
+        ],
+        [
+          "EL CHUPADERO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "2"
+        ],
+        [
+          "EL CORTIJO",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EL CUATE",
+          "2",
+          "112",
+          "54",
+          "58",
+          "6"
+        ],
+        [
+          "EL JACAL",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "EL MORAL (LA MORA)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "EL PALMITO DEL SUR",
+          "1",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "EL PINABETE",
+          "1",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "EL REPARO (LA PRESA EL REPARO)",
+          "2",
+          "15",
+          "5",
+          "10",
+          "3"
+        ],
+        [
+          "EL TEPAMO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL TIZATE",
+          "1",
+          "43",
+          "23",
+          "20",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "2",
+          "87",
+          "43",
+          "44",
+          "3"
+        ],
+        [
+          "ENÁNDIRO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3"
+        ],
+        [
+          "GARACHICO",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "HUARICHO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA ALBERCA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "LA LAGUNILLA",
+          "1",
+          "49",
+          "25",
+          "24",
+          "2"
+        ],
+        [
+          "LA MESA DEL DURAZNO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "LA PEÑITA",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "39",
+          "16",
+          "23",
+          "5"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "LAS JUNTAS DE ENÁNDIRO",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "LOS FRESNOS",
+          "2",
+          "141",
+          "68",
+          "73",
+          "8"
+        ],
+        [
+          "LOS GRANADOS",
+          "2",
+          "45",
+          "27",
+          "18",
+          "3"
+        ],
+        [
+          "LOS LLANITOS",
+          "2",
+          "11",
+          "9",
+          "2",
+          "2"
+        ],
+        [
+          "LOS OJOS DE AGUA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "OJO DE AGUA (EL OJO DE AGUA DEL PALMITO)",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "OJO ZARCO",
+          "3",
+          "69",
+          "35",
+          "34",
+          "5"
+        ],
+        [
+          "PALO PICADO",
+          "2",
+          "11",
+          "7",
+          "4",
+          "2"
+        ],
+        [
+          "PANZINDA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "PAREO",
+          "6",
+          "767",
+          "400",
+          "367",
+          "50"
+        ],
+        [
+          "PATÁMBURO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "2"
+        ],
+        [
+          "PÚCUARO",
+          "2",
+          "66",
+          "36",
+          "30",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "3",
+          "88",
+          "47",
+          "41",
+          "5"
+        ],
+        [
+          "SANTA CATARINA",
+          "2",
+          "214",
+          "106",
+          "108",
+          "11"
+        ],
+        [
+          "SOLEDAD DEL PONIENTE",
+          "2",
+          "87",
+          "39",
+          "48",
+          "4"
+        ],
+        [
+          "TANCÍTARO",
+          "18",
+          "3,602",
+          "1,832",
+          "1,770",
+          "222"
+        ],
+        [
+          "URINGÜITIRO",
+          "3",
+          "218",
+          "123",
+          "95",
+          "9"
+        ],
+        [
+          "ZIRIMBO",
+          "1",
+          "143",
+          "72",
+          "71",
+          "5"
+        ],
+        [
+          "ZIRIMONDIRO",
+          "2",
+          "268",
+          "138",
+          "130",
+          "10"
+        ],
+        [
+          "ZOROMÚTARO (PUERTO DE ZOROMÚTARO)",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "138",
+          "8,908",
+          "4,584",
+          "4,324",
+          "515"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:32.786Z"
+}

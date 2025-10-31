@@ -1,0 +1,846 @@
+{
+  "municipality": "MASCOTA",
+  "municipalityCode": "058",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MASCOTA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHANREY\n\t\t3\n\t\t285\n\t\t158\n\t\t127\n\t\t39\n\t\n\t\n\t\tEL AGOSTADERO\n\t\t2\n\t\t10\n\t\t4\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL CIMARRÓN CHICO\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL EMPEDRADO\n\t\t1\n\t\t28\n\t\t11\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL GALOPE\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL JACAL\n\t\t1\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL RANCHITO\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tGUAYABITOS\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tJUANACATLÁN GRANDE (JUANACATLÁN)\n\t\t3\n\t\t62\n\t\t31\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA CRUZ DE IGNACIO\n\t\t3\n\t\t21\n\t\t11\n\t\t10\n\t\t3\n\t\n\t\n\t\tLA HUERTA DE MIRANDILLA (LA HUERTA)\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA MAJADA\n\t\t1\n\t\t56\n\t\t32\n\t\t24\n\t\t3\n\t\n\t\n\t\tLA PALAPA\n\t\t2\n\t\t7\n\t\t1\n\t\t6\n\t\t2\n\t\n\t\n\t\tLA PLATA\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tLAS ÁNIMAS\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS MESAS\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS MORAS\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS CORRALES (SAN JOSÉ DE LOS CORRALES)\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t2\n\t\n\t\n\t\tMALPASO\n\t\t2\n\t\t14\n\t\t3\n\t\t11\n\t\t3\n\t\n\t\n\t\tMASCOTA\n\t\t13\n\t\t2,466\n\t\t1,265\n\t\t1,201\n\t\t184\n\t\n\t\n\t\tMIRANDILLA\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tNAVIDAD\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t3\n\t\n\t\n\t\tPUERTA DE ENMEDIO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tRINCÓN DE MIRANDILLA\n\t\t3\n\t\t99\n\t\t44\n\t\t55\n\t\t6\n\t\n\t\n\t\tSAN IGNACIO\n\t\t2\n\t\t25\n\t\t15\n\t\t10\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DEL MOSCO (EL MOSCO)\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL DE TOVAR\n\t\t2\n\t\t48\n\t\t26\n\t\t22\n\t\t4\n\t\n\t\n\t\tSAN RAFAEL\n\t\t3\n\t\t16\n\t\t9\n\t\t7\n\t\t3\n\t\n\t\n\t\tSANTA BÁRBARA\n\t\t1\n\t\t18\n\t\t12\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA ROSA\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tTECOANY\n\t\t2\n\t\t44\n\t\t24\n\t\t20\n\t\t3\n\t\n\t\n\t\tTIERRAS COLORADAS\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tYERBABUENA\n\t\t3\n\t\t100\n\t\t45\n\t\t55\n\t\t7\n\t\n\t\n\t\tZACATONGO\n\t\t3\n\t\t64\n\t\t40\n\t\t24\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t76\n\t\t3,586\n\t\t1,837\n\t\t1,749\n\t\t302\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MASCOTA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHANREY",
+          "3",
+          "285",
+          "158",
+          "127",
+          "39",
+          "EL AGOSTADERO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2",
+          "EL CIMARRÓN CHICO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "EL EMPEDRADO",
+          "1",
+          "28",
+          "11",
+          "17",
+          "2",
+          "EL GALOPE",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "EL JACAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1",
+          "EL RANCHITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "GUAYABITOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "JUANACATLÁN GRANDE (JUANACATLÁN)",
+          "3",
+          "62",
+          "31",
+          "31",
+          "4",
+          "LA CRUZ DE IGNACIO",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3",
+          "LA HUERTA DE MIRANDILLA (LA HUERTA)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "LA MAJADA",
+          "1",
+          "56",
+          "32",
+          "24",
+          "3",
+          "LA PALAPA",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2",
+          "LA PLATA",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "LAS ÁNIMAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LAS MESAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LAS MORAS",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "LOS CORRALES (SAN JOSÉ DE LOS CORRALES)",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2",
+          "MALPASO",
+          "2",
+          "14",
+          "3",
+          "11",
+          "3",
+          "MASCOTA",
+          "13",
+          "2,466",
+          "1,265",
+          "1,201",
+          "184",
+          "MIRANDILLA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "NAVIDAD",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3",
+          "PUERTA DE ENMEDIO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "RINCÓN DE MIRANDILLA",
+          "3",
+          "99",
+          "44",
+          "55",
+          "6",
+          "SAN IGNACIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "3",
+          "SAN JOSÉ DEL MOSCO (EL MOSCO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2",
+          "SAN MIGUEL DE TOVAR",
+          "2",
+          "48",
+          "26",
+          "22",
+          "4",
+          "SAN RAFAEL",
+          "3",
+          "16",
+          "9",
+          "7",
+          "3",
+          "SANTA BÁRBARA",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1",
+          "SANTA ROSA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "TECOANY",
+          "2",
+          "44",
+          "24",
+          "20",
+          "3",
+          "TIERRAS COLORADAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "YERBABUENA",
+          "3",
+          "100",
+          "45",
+          "55",
+          "7",
+          "ZACATONGO",
+          "3",
+          "64",
+          "40",
+          "24",
+          "6",
+          "TOTAL",
+          "76",
+          "3,586",
+          "1,837",
+          "1,749",
+          "302",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MASCOTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHANREY",
+          "3",
+          "285",
+          "158",
+          "127",
+          "39"
+        ],
+        [
+          "EL AGOSTADERO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "EL CIMARRÓN CHICO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "EL EMPEDRADO",
+          "1",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "EL GALOPE",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL JACAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL RANCHITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "GUAYABITOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "JUANACATLÁN GRANDE (JUANACATLÁN)",
+          "3",
+          "62",
+          "31",
+          "31",
+          "4"
+        ],
+        [
+          "LA CRUZ DE IGNACIO",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LA HUERTA DE MIRANDILLA (LA HUERTA)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA MAJADA",
+          "1",
+          "56",
+          "32",
+          "24",
+          "3"
+        ],
+        [
+          "LA PALAPA",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2"
+        ],
+        [
+          "LA PLATA",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MESAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MORAS",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CORRALES (SAN JOSÉ DE LOS CORRALES)",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "MALPASO",
+          "2",
+          "14",
+          "3",
+          "11",
+          "3"
+        ],
+        [
+          "MASCOTA",
+          "13",
+          "2,466",
+          "1,265",
+          "1,201",
+          "184"
+        ],
+        [
+          "MIRANDILLA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "NAVIDAD",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3"
+        ],
+        [
+          "PUERTA DE ENMEDIO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "RINCÓN DE MIRANDILLA",
+          "3",
+          "99",
+          "44",
+          "55",
+          "6"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DEL MOSCO (EL MOSCO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE TOVAR",
+          "2",
+          "48",
+          "26",
+          "22",
+          "4"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "16",
+          "9",
+          "7",
+          "3"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "TECOANY",
+          "2",
+          "44",
+          "24",
+          "20",
+          "3"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "YERBABUENA",
+          "3",
+          "100",
+          "45",
+          "55",
+          "7"
+        ],
+        [
+          "ZACATONGO",
+          "3",
+          "64",
+          "40",
+          "24",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "3,586",
+          "1,837",
+          "1,749",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: MASCOTA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHANREY",
+          "3",
+          "285",
+          "158",
+          "127",
+          "39"
+        ],
+        [
+          "EL AGOSTADERO",
+          "2",
+          "10",
+          "4",
+          "6",
+          "2"
+        ],
+        [
+          "EL CIMARRÓN CHICO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "EL EMPEDRADO",
+          "1",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "EL GALOPE",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL JACAL",
+          "1",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL RANCHITO",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "GUAYABITOS",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "JUANACATLÁN GRANDE (JUANACATLÁN)",
+          "3",
+          "62",
+          "31",
+          "31",
+          "4"
+        ],
+        [
+          "LA CRUZ DE IGNACIO",
+          "3",
+          "21",
+          "11",
+          "10",
+          "3"
+        ],
+        [
+          "LA HUERTA DE MIRANDILLA (LA HUERTA)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA MAJADA",
+          "1",
+          "56",
+          "32",
+          "24",
+          "3"
+        ],
+        [
+          "LA PALAPA",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2"
+        ],
+        [
+          "LA PLATA",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MESAS",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LAS MORAS",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS CORRALES (SAN JOSÉ DE LOS CORRALES)",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "MALPASO",
+          "2",
+          "14",
+          "3",
+          "11",
+          "3"
+        ],
+        [
+          "MASCOTA",
+          "13",
+          "2,466",
+          "1,265",
+          "1,201",
+          "184"
+        ],
+        [
+          "MIRANDILLA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "NAVIDAD",
+          "2",
+          "19",
+          "9",
+          "10",
+          "3"
+        ],
+        [
+          "PUERTA DE ENMEDIO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "RINCÓN DE MIRANDILLA",
+          "3",
+          "99",
+          "44",
+          "55",
+          "6"
+        ],
+        [
+          "SAN IGNACIO",
+          "2",
+          "25",
+          "15",
+          "10",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DEL MOSCO (EL MOSCO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE TOVAR",
+          "2",
+          "48",
+          "26",
+          "22",
+          "4"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "16",
+          "9",
+          "7",
+          "3"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "TECOANY",
+          "2",
+          "44",
+          "24",
+          "20",
+          "3"
+        ],
+        [
+          "TIERRAS COLORADAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "YERBABUENA",
+          "3",
+          "100",
+          "45",
+          "55",
+          "7"
+        ],
+        [
+          "ZACATONGO",
+          "3",
+          "64",
+          "40",
+          "24",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "3,586",
+          "1,837",
+          "1,749",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:40.927Z"
+}

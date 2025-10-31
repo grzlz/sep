@@ -1,0 +1,516 @@
+{
+  "municipality": "PACULA",
+  "municipalityCode": "047",
+  "state": "HIDALGO",
+  "stateCode": "13",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATLÁN\n\tACAXOCHITLÁN\n\tACTOPAN\n\tAGUA BLANCA DE ITURBIDE\n\tAJACUBA\n\tALFAJAYUCAN\n\tALMOLOYA\n\tAPAN\n\tATITALAQUIA\n\tATLAPEXCO\n\tATOTONILCO DE TULA\n\tATOTONILCO EL GRANDE\n\tCALNALI\n\tCARDONAL\n\tCHAPANTONGO\n\tCHAPULHUACÁN\n\tCHILCUAUTLA\n\tCUAUTEPEC DE HINOJOSA\n\tEL ARENAL\n\tELOXOCHITLÁN\n\tEMILIANO ZAPATA\n\tEPAZOYUCAN\n\tFRANCISCO I. MADERO\n\tHUASCA DE OCAMPO\n\tHUAUTLA\n\tHUAZALINGO\n\tHUEHUETLA\n\tHUEJUTLA DE REYES\n\tHUICHAPAN\n\tIXMIQUILPAN\n\tJACALA DE LEDEZMA\n\tJALTOCÁN\n\tJUÁREZ HIDALGO\n\tLA MISIÓN\n\tLOLOTLA\n\tMETEPEC\n\tMETZTITLÁN\n\tMINERAL DE LA REFORMA\n\tMINERAL DEL CHICO\n\tMINERAL DEL MONTE\n\tMIXQUIAHUALA DE JUÁREZ\n\tMOLANGO DE ESCAMILLA\n\tNICOLÁS FLORES\n\tNOPALA DE VILLAGRÁN\n\tOMITLÁN DE JUÁREZ\n\tPACHUCA DE SOTO\n\tPACULA\n\tPISAFLORES\n\tPROGRESO DE OBREGÓN\n\tSAN AGUSTÍN METZQUITITLÁN\n\tSAN AGUSTÍN TLAXIACA\n\tSAN BARTOLO TUTOTEPEC\n\tSAN FELIPE ORIZATLÁN\n\tSAN SALVADOR\n\tSANTIAGO DE ANAYA\n\tSANTIAGO TULANTEPEC DE LUGO GUERRERO\n\tSINGUILUCAN\n\tTASQUILLO\n\tTECOZAUTLA\n\tTENANGO DE DORIA\n\tTEPEAPULCO\n\tTEPEHUACÁN DE GUERRERO\n\tTEPEJI DEL RÍO DE OCAMPO\n\tTEPETITLÁN\n\tTETEPANGO\n\tTEZONTEPEC DE ALDAMA\n\tTIANGUISTENGO\n\tTIZAYUCA\n\tTLAHUELILPAN\n\tTLAHUILTEPA\n\tTLANALAPA\n\tTLANCHINOL\n\tTLAXCOAPAN\n\tTOLCAYUCA\n\tTULA DE ALLENDE\n\tTULANCINGO DE BRAVO\n\tVILLA DE TEZONTEPEC\n\tXOCHIATIPAN\n\tXOCHICOATLÁN\n\tYAHUALICA\n\tZACUALTIPÁN DE ÁNGELES\n\tZAPOTLÁN DE JUÁREZ\n\tZEMPOALA\n\tZIMAPÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: PACULA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADJUNTAS\n\t\t1\n\t\t18\n\t\t7\n\t\t11\n\t\t1\n\t\n\t\n\t\tCANOAS\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL AGUACATITO\n\t\t3\n\t\t37\n\t\t15\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL BAILE\n\t\t3\n\t\t52\n\t\t20\n\t\t32\n\t\t5\n\t\n\t\n\t\tEL DEVISADERO\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL FRAILE\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tJAGÜEY COLORADO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tJILIAPAN\n\t\t4\n\t\t353\n\t\t183\n\t\t170\n\t\t17\n\t\n\t\n\t\tLA MOHONERA\n\t\t3\n\t\t70\n\t\t34\n\t\t36\n\t\t6\n\t\n\t\n\t\tMILPAS VIEJAS\n\t\t3\n\t\t39\n\t\t17\n\t\t22\n\t\t4\n\t\n\t\n\t\tMIXQUIAHUALES\n\t\t3\n\t\t27\n\t\t17\n\t\t10\n\t\t4\n\t\n\t\n\t\tPACULA\n\t\t4\n\t\t164\n\t\t81\n\t\t83\n\t\t12\n\t\n\t\n\t\tPOTRERILLOS\n\t\t2\n\t\t44\n\t\t23\n\t\t21\n\t\t4\n\t\n\t\n\t\tPUERTO GRANDE\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t28\n\t\t13\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t53\n\t\t28\n\t\t25\n\t\t5\n\t\n\t\n\t\tSANTA MARÍA MIRAFLORES\n\t\t3\n\t\t57\n\t\t26\n\t\t31\n\t\t5\n\t\n\t\n\t\tSAUCILLO\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tVICENTE GUERRERO (PRESIDIO)\n\t\t2\n\t\t73\n\t\t39\n\t\t34\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t47\n\t\t1,083\n\t\t541\n\t\t542\n\t\t84\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: PACULA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADJUNTAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1",
+          "CANOAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "EL AGUACATITO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4",
+          "EL BAILE",
+          "3",
+          "52",
+          "20",
+          "32",
+          "5",
+          "EL DEVISADERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "EL FRAILE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "JAGÜEY COLORADO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "JILIAPAN",
+          "4",
+          "353",
+          "183",
+          "170",
+          "17",
+          "LA MOHONERA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6",
+          "MILPAS VIEJAS",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4",
+          "MIXQUIAHUALES",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4",
+          "PACULA",
+          "4",
+          "164",
+          "81",
+          "83",
+          "12",
+          "POTRERILLOS",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4",
+          "PUERTO GRANDE",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2",
+          "RANCHO NUEVO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "3",
+          "SAN FRANCISCO",
+          "3",
+          "53",
+          "28",
+          "25",
+          "5",
+          "SANTA MARÍA MIRAFLORES",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5",
+          "SAUCILLO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1",
+          "VICENTE GUERRERO (PRESIDIO)",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5",
+          "TOTAL",
+          "47",
+          "1,083",
+          "541",
+          "542",
+          "84",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: PACULA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADJUNTAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "CANOAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL AGUACATITO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "EL BAILE",
+          "3",
+          "52",
+          "20",
+          "32",
+          "5"
+        ],
+        [
+          "EL DEVISADERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL FRAILE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "JAGÜEY COLORADO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "JILIAPAN",
+          "4",
+          "353",
+          "183",
+          "170",
+          "17"
+        ],
+        [
+          "LA MOHONERA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6"
+        ],
+        [
+          "MILPAS VIEJAS",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4"
+        ],
+        [
+          "MIXQUIAHUALES",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4"
+        ],
+        [
+          "PACULA",
+          "4",
+          "164",
+          "81",
+          "83",
+          "12"
+        ],
+        [
+          "POTRERILLOS",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4"
+        ],
+        [
+          "PUERTO GRANDE",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "53",
+          "28",
+          "25",
+          "5"
+        ],
+        [
+          "SANTA MARÍA MIRAFLORES",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5"
+        ],
+        [
+          "SAUCILLO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO (PRESIDIO)",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "47",
+          "1,083",
+          "541",
+          "542",
+          "84"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: PACULA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADJUNTAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "CANOAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL AGUACATITO",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "EL BAILE",
+          "3",
+          "52",
+          "20",
+          "32",
+          "5"
+        ],
+        [
+          "EL DEVISADERO",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL FRAILE",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "JAGÜEY COLORADO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "JILIAPAN",
+          "4",
+          "353",
+          "183",
+          "170",
+          "17"
+        ],
+        [
+          "LA MOHONERA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6"
+        ],
+        [
+          "MILPAS VIEJAS",
+          "3",
+          "39",
+          "17",
+          "22",
+          "4"
+        ],
+        [
+          "MIXQUIAHUALES",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4"
+        ],
+        [
+          "PACULA",
+          "4",
+          "164",
+          "81",
+          "83",
+          "12"
+        ],
+        [
+          "POTRERILLOS",
+          "2",
+          "44",
+          "23",
+          "21",
+          "4"
+        ],
+        [
+          "PUERTO GRANDE",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "28",
+          "13",
+          "15",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "53",
+          "28",
+          "25",
+          "5"
+        ],
+        [
+          "SANTA MARÍA MIRAFLORES",
+          "3",
+          "57",
+          "26",
+          "31",
+          "5"
+        ],
+        [
+          "SAUCILLO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "VICENTE GUERRERO (PRESIDIO)",
+          "2",
+          "73",
+          "39",
+          "34",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "47",
+          "1,083",
+          "541",
+          "542",
+          "84"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:42.622Z"
+}

@@ -1,0 +1,956 @@
+{
+  "municipality": "JESÚS MARÍA",
+  "municipalityCode": "048",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: JESÚS MARÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALLENDE (JOSEFINO DE ALLENDE)\n\t\t5\n\t\t534\n\t\t275\n\t\t259\n\t\t37\n\t\n\t\n\t\tAYO EL GRANDE\n\t\t3\n\t\t75\n\t\t39\n\t\t36\n\t\t6\n\t\n\t\n\t\tBARRANQUILLA DEL AGUA\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tBUENAVISTA DE ROMO\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tCIÉNEGA DE GALVANES (CIÉNEGA DE REYES)\n\t\t2\n\t\t33\n\t\t13\n\t\t20\n\t\t2\n\t\n\t\n\t\tEL AMARRADERO\n\t\t3\n\t\t43\n\t\t24\n\t\t19\n\t\t4\n\t\n\t\n\t\tEL CAPULÍN DE CHÁVEZ\n\t\t1\n\t\t5\n\t\t0\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL CENTRO\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL OCOTE\n\t\t2\n\t\t35\n\t\t15\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL PANTANO\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ZAPOTE\n\t\t1\n\t\t11\n\t\t3\n\t\t8\n\t\t1\n\t\n\t\n\t\tGUANAJUATILLO\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t15\n\t\t2,318\n\t\t1,227\n\t\t1,091\n\t\t116\n\t\n\t\n\t\tLA ATARJEA\n\t\t3\n\t\t107\n\t\t63\n\t\t44\n\t\t7\n\t\n\t\n\t\tLA BETULIA\n\t\t3\n\t\t37\n\t\t21\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA LEONERA\n\t\t2\n\t\t53\n\t\t22\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA SIERRITA\n\t\t3\n\t\t68\n\t\t33\n\t\t35\n\t\t4\n\t\n\t\n\t\tLA TIJERA\n\t\t2\n\t\t31\n\t\t16\n\t\t15\n\t\t3\n\t\n\t\n\t\tLAS CRUCES\n\t\t1\n\t\t27\n\t\t12\n\t\t15\n\t\t2\n\t\n\t\n\t\tLAS LAGUNAS\n\t\t3\n\t\t47\n\t\t28\n\t\t19\n\t\t4\n\t\n\t\n\t\tLAS PILAS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS POMAS (LAS PÓMEZ)\n\t\t3\n\t\t48\n\t\t29\n\t\t19\n\t\t3\n\t\n\t\n\t\tLAS RAÍCES\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t3\n\t\n\t\n\t\tLOMA DE SAN MIGUEL\n\t\t1\n\t\t27\n\t\t9\n\t\t18\n\t\t2\n\t\n\t\n\t\tLOS NOGALES\n\t\t3\n\t\t38\n\t\t20\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOS ROBLES\n\t\t2\n\t\t120\n\t\t63\n\t\t57\n\t\t8\n\t\n\t\n\t\tNAZARETH\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tOJO ZARCO DE FUENTES\n\t\t3\n\t\t75\n\t\t39\n\t\t36\n\t\t5\n\t\n\t\n\t\tPALO CAÍDO\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tPUERTA DE LA CARRETA\n\t\t2\n\t\t50\n\t\t20\n\t\t30\n\t\t4\n\t\n\t\n\t\tROSALES\n\t\t3\n\t\t66\n\t\t36\n\t\t30\n\t\t5\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t1\n\t\t21\n\t\t14\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE LA PAZ\n\t\t4\n\t\t309\n\t\t169\n\t\t140\n\t\t18\n\t\n\t\n\t\tSAN JOSÉ DE LAS PILAS\n\t\t2\n\t\t17\n\t\t4\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL DE LA TRINIDAD\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL DE LA UNIÓN\n\t\t2\n\t\t18\n\t\t5\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL\n\t\t1\n\t\t12\n\t\t10\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL DE LAGUNA\n\t\t1\n\t\t18\n\t\t7\n\t\t11\n\t\t1\n\t\n\t\n\t\tSAN VICENTE\n\t\t1\n\t\t8\n\t\t1\n\t\t7\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t93\n\t\t4,417\n\t\t2,296\n\t\t2,121\n\t\t270\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: JESÚS MARÍA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALLENDE (JOSEFINO DE ALLENDE)",
+          "5",
+          "534",
+          "275",
+          "259",
+          "37",
+          "AYO EL GRANDE",
+          "3",
+          "75",
+          "39",
+          "36",
+          "6",
+          "BARRANQUILLA DEL AGUA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "BUENAVISTA DE ROMO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "CIÉNEGA DE GALVANES (CIÉNEGA DE REYES)",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2",
+          "EL AMARRADERO",
+          "3",
+          "43",
+          "24",
+          "19",
+          "4",
+          "EL CAPULÍN DE CHÁVEZ",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1",
+          "EL CENTRO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EL OCOTE",
+          "2",
+          "35",
+          "15",
+          "20",
+          "3",
+          "EL PANTANO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "EL ZAPOTE",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1",
+          "GUANAJUATILLO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "JESÚS MARÍA",
+          "15",
+          "2,318",
+          "1,227",
+          "1,091",
+          "116",
+          "LA ATARJEA",
+          "3",
+          "107",
+          "63",
+          "44",
+          "7",
+          "LA BETULIA",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3",
+          "LA LEONERA",
+          "2",
+          "53",
+          "22",
+          "31",
+          "4",
+          "LA SIERRITA",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4",
+          "LA TIJERA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3",
+          "LAS CRUCES",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2",
+          "LAS LAGUNAS",
+          "3",
+          "47",
+          "28",
+          "19",
+          "4",
+          "LAS PILAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LAS POMAS (LAS PÓMEZ)",
+          "3",
+          "48",
+          "29",
+          "19",
+          "3",
+          "LAS RAÍCES",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3",
+          "LOMA DE SAN MIGUEL",
+          "1",
+          "27",
+          "9",
+          "18",
+          "2",
+          "LOS NOGALES",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3",
+          "LOS ROBLES",
+          "2",
+          "120",
+          "63",
+          "57",
+          "8",
+          "NAZARETH",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3",
+          "OJO ZARCO DE FUENTES",
+          "3",
+          "75",
+          "39",
+          "36",
+          "5",
+          "PALO CAÍDO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "PUERTA DE LA CARRETA",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4",
+          "ROSALES",
+          "3",
+          "66",
+          "36",
+          "30",
+          "5",
+          "SAN AGUSTÍN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "1",
+          "SAN JOSÉ DE LA PAZ",
+          "4",
+          "309",
+          "169",
+          "140",
+          "18",
+          "SAN JOSÉ DE LAS PILAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2",
+          "SAN MIGUEL DE LA TRINIDAD",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "SAN MIGUEL DE LA UNIÓN",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2",
+          "SAN RAFAEL",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1",
+          "SAN RAFAEL DE LAGUNA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1",
+          "SAN VICENTE",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1",
+          "TOTAL",
+          "93",
+          "4,417",
+          "2,296",
+          "2,121",
+          "270",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: JESÚS MARÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALLENDE (JOSEFINO DE ALLENDE)",
+          "5",
+          "534",
+          "275",
+          "259",
+          "37"
+        ],
+        [
+          "AYO EL GRANDE",
+          "3",
+          "75",
+          "39",
+          "36",
+          "6"
+        ],
+        [
+          "BARRANQUILLA DEL AGUA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "BUENAVISTA DE ROMO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "CIÉNEGA DE GALVANES (CIÉNEGA DE REYES)",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2"
+        ],
+        [
+          "EL AMARRADERO",
+          "3",
+          "43",
+          "24",
+          "19",
+          "4"
+        ],
+        [
+          "EL CAPULÍN DE CHÁVEZ",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1"
+        ],
+        [
+          "EL CENTRO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL OCOTE",
+          "2",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "EL PANTANO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "GUANAJUATILLO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "JESÚS MARÍA",
+          "15",
+          "2,318",
+          "1,227",
+          "1,091",
+          "116"
+        ],
+        [
+          "LA ATARJEA",
+          "3",
+          "107",
+          "63",
+          "44",
+          "7"
+        ],
+        [
+          "LA BETULIA",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "LA LEONERA",
+          "2",
+          "53",
+          "22",
+          "31",
+          "4"
+        ],
+        [
+          "LA SIERRITA",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "LA TIJERA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "LAS CRUCES",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LAS LAGUNAS",
+          "3",
+          "47",
+          "28",
+          "19",
+          "4"
+        ],
+        [
+          "LAS PILAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LAS POMAS (LAS PÓMEZ)",
+          "3",
+          "48",
+          "29",
+          "19",
+          "3"
+        ],
+        [
+          "LAS RAÍCES",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "LOMA DE SAN MIGUEL",
+          "1",
+          "27",
+          "9",
+          "18",
+          "2"
+        ],
+        [
+          "LOS NOGALES",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "LOS ROBLES",
+          "2",
+          "120",
+          "63",
+          "57",
+          "8"
+        ],
+        [
+          "NAZARETH",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "OJO ZARCO DE FUENTES",
+          "3",
+          "75",
+          "39",
+          "36",
+          "5"
+        ],
+        [
+          "PALO CAÍDO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTA DE LA CARRETA",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "ROSALES",
+          "3",
+          "66",
+          "36",
+          "30",
+          "5"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA PAZ",
+          "4",
+          "309",
+          "169",
+          "140",
+          "18"
+        ],
+        [
+          "SAN JOSÉ DE LAS PILAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE LA TRINIDAD",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "SAN MIGUEL DE LA UNIÓN",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "SAN RAFAEL DE LAGUNA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "SAN VICENTE",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "4,417",
+          "2,296",
+          "2,121",
+          "270"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: JESÚS MARÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALLENDE (JOSEFINO DE ALLENDE)",
+          "5",
+          "534",
+          "275",
+          "259",
+          "37"
+        ],
+        [
+          "AYO EL GRANDE",
+          "3",
+          "75",
+          "39",
+          "36",
+          "6"
+        ],
+        [
+          "BARRANQUILLA DEL AGUA",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "BUENAVISTA DE ROMO",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "CIÉNEGA DE GALVANES (CIÉNEGA DE REYES)",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2"
+        ],
+        [
+          "EL AMARRADERO",
+          "3",
+          "43",
+          "24",
+          "19",
+          "4"
+        ],
+        [
+          "EL CAPULÍN DE CHÁVEZ",
+          "1",
+          "5",
+          "0",
+          "5",
+          "1"
+        ],
+        [
+          "EL CENTRO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL OCOTE",
+          "2",
+          "35",
+          "15",
+          "20",
+          "3"
+        ],
+        [
+          "EL PANTANO",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZAPOTE",
+          "1",
+          "11",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "GUANAJUATILLO",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "JESÚS MARÍA",
+          "15",
+          "2,318",
+          "1,227",
+          "1,091",
+          "116"
+        ],
+        [
+          "LA ATARJEA",
+          "3",
+          "107",
+          "63",
+          "44",
+          "7"
+        ],
+        [
+          "LA BETULIA",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "LA LEONERA",
+          "2",
+          "53",
+          "22",
+          "31",
+          "4"
+        ],
+        [
+          "LA SIERRITA",
+          "3",
+          "68",
+          "33",
+          "35",
+          "4"
+        ],
+        [
+          "LA TIJERA",
+          "2",
+          "31",
+          "16",
+          "15",
+          "3"
+        ],
+        [
+          "LAS CRUCES",
+          "1",
+          "27",
+          "12",
+          "15",
+          "2"
+        ],
+        [
+          "LAS LAGUNAS",
+          "3",
+          "47",
+          "28",
+          "19",
+          "4"
+        ],
+        [
+          "LAS PILAS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LAS POMAS (LAS PÓMEZ)",
+          "3",
+          "48",
+          "29",
+          "19",
+          "3"
+        ],
+        [
+          "LAS RAÍCES",
+          "2",
+          "27",
+          "10",
+          "17",
+          "3"
+        ],
+        [
+          "LOMA DE SAN MIGUEL",
+          "1",
+          "27",
+          "9",
+          "18",
+          "2"
+        ],
+        [
+          "LOS NOGALES",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "LOS ROBLES",
+          "2",
+          "120",
+          "63",
+          "57",
+          "8"
+        ],
+        [
+          "NAZARETH",
+          "2",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "OJO ZARCO DE FUENTES",
+          "3",
+          "75",
+          "39",
+          "36",
+          "5"
+        ],
+        [
+          "PALO CAÍDO",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTA DE LA CARRETA",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "ROSALES",
+          "3",
+          "66",
+          "36",
+          "30",
+          "5"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "1",
+          "21",
+          "14",
+          "7",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA PAZ",
+          "4",
+          "309",
+          "169",
+          "140",
+          "18"
+        ],
+        [
+          "SAN JOSÉ DE LAS PILAS",
+          "2",
+          "17",
+          "4",
+          "13",
+          "2"
+        ],
+        [
+          "SAN MIGUEL DE LA TRINIDAD",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "SAN MIGUEL DE LA UNIÓN",
+          "2",
+          "18",
+          "5",
+          "13",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "SAN RAFAEL DE LAGUNA",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "SAN VICENTE",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "93",
+          "4,417",
+          "2,296",
+          "2,121",
+          "270"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:02.416Z"
+}

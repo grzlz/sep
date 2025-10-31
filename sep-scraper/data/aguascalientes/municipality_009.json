@@ -1,0 +1,516 @@
+{
+  "municipality": "TEPEZALÁ",
+  "municipalityCode": "009",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: TEPEZALÁ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN LOS HORNOS (EL LAGUNAZO) [COLONIA]\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tARROYO HONDO\n\t\t3\n\t\t133\n\t\t59\n\t\t74\n\t\t5\n\t\n\t\n\t\tCALDERA\n\t\t4\n\t\t332\n\t\t183\n\t\t149\n\t\t13\n\t\n\t\n\t\tCARBONERAS\n\t\t4\n\t\t450\n\t\t220\n\t\t230\n\t\t23\n\t\n\t\n\t\tEL ÁGUILA\n\t\t3\n\t\t77\n\t\t39\n\t\t38\n\t\t4\n\t\n\t\n\t\tEL BARRANCO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tEL CARMEN\n\t\t2\n\t\t59\n\t\t27\n\t\t32\n\t\t3\n\t\n\t\n\t\tEL CHAYOTE\n\t\t4\n\t\t708\n\t\t380\n\t\t328\n\t\t37\n\t\n\t\n\t\tEL GIGANTE\n\t\t4\n\t\t227\n\t\t120\n\t\t107\n\t\t10\n\t\n\t\n\t\tEL PORVENIR\n\t\t4\n\t\t208\n\t\t101\n\t\t107\n\t\t10\n\t\n\t\n\t\tEL REFUGIO\n\t\t3\n\t\t139\n\t\t54\n\t\t85\n\t\t6\n\t\n\t\n\t\tEL TEPOZÁN\n\t\t4\n\t\t259\n\t\t147\n\t\t112\n\t\t13\n\t\n\t\n\t\tLA VICTORIA\n\t\t3\n\t\t186\n\t\t88\n\t\t98\n\t\t8\n\t\n\t\n\t\tLOS ALAMITOS\n\t\t4\n\t\t370\n\t\t185\n\t\t185\n\t\t18\n\t\n\t\n\t\tMESILLAS\n\t\t4\n\t\t214\n\t\t115\n\t\t99\n\t\t10\n\t\n\t\n\t\tOJO DE AGUA DE LOS MONTES\n\t\t4\n\t\t298\n\t\t141\n\t\t157\n\t\t13\n\t\n\t\n\t\tPUERTO DE LA CONCEPCIÓN\n\t\t4\n\t\t150\n\t\t72\n\t\t78\n\t\t8\n\t\n\t\n\t\tSAN ANTONIO\n\t\t5\n\t\t1,378\n\t\t718\n\t\t660\n\t\t56\n\t\n\t\n\t\tTEPEZALÁ\n\t\t7\n\t\t1,485\n\t\t721\n\t\t764\n\t\t80\n\t\n\t\n\t\tTOTAL\n\t\t70\n\t\t6,737\n\t\t3,402\n\t\t3,335\n\t\t321\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: TEPEZALÁ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN LOS HORNOS (EL LAGUNAZO) [COLONIA]",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2",
+          "ARROYO HONDO",
+          "3",
+          "133",
+          "59",
+          "74",
+          "5",
+          "CALDERA",
+          "4",
+          "332",
+          "183",
+          "149",
+          "13",
+          "CARBONERAS",
+          "4",
+          "450",
+          "220",
+          "230",
+          "23",
+          "EL ÁGUILA",
+          "3",
+          "77",
+          "39",
+          "38",
+          "4",
+          "EL BARRANCO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "EL CARMEN",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3",
+          "EL CHAYOTE",
+          "4",
+          "708",
+          "380",
+          "328",
+          "37",
+          "EL GIGANTE",
+          "4",
+          "227",
+          "120",
+          "107",
+          "10",
+          "EL PORVENIR",
+          "4",
+          "208",
+          "101",
+          "107",
+          "10",
+          "EL REFUGIO",
+          "3",
+          "139",
+          "54",
+          "85",
+          "6",
+          "EL TEPOZÁN",
+          "4",
+          "259",
+          "147",
+          "112",
+          "13",
+          "LA VICTORIA",
+          "3",
+          "186",
+          "88",
+          "98",
+          "8",
+          "LOS ALAMITOS",
+          "4",
+          "370",
+          "185",
+          "185",
+          "18",
+          "MESILLAS",
+          "4",
+          "214",
+          "115",
+          "99",
+          "10",
+          "OJO DE AGUA DE LOS MONTES",
+          "4",
+          "298",
+          "141",
+          "157",
+          "13",
+          "PUERTO DE LA CONCEPCIÓN",
+          "4",
+          "150",
+          "72",
+          "78",
+          "8",
+          "SAN ANTONIO",
+          "5",
+          "1,378",
+          "718",
+          "660",
+          "56",
+          "TEPEZALÁ",
+          "7",
+          "1,485",
+          "721",
+          "764",
+          "80",
+          "TOTAL",
+          "70",
+          "6,737",
+          "3,402",
+          "3,335",
+          "321",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: TEPEZALÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN LOS HORNOS (EL LAGUNAZO) [COLONIA]",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "ARROYO HONDO",
+          "3",
+          "133",
+          "59",
+          "74",
+          "5"
+        ],
+        [
+          "CALDERA",
+          "4",
+          "332",
+          "183",
+          "149",
+          "13"
+        ],
+        [
+          "CARBONERAS",
+          "4",
+          "450",
+          "220",
+          "230",
+          "23"
+        ],
+        [
+          "EL ÁGUILA",
+          "3",
+          "77",
+          "39",
+          "38",
+          "4"
+        ],
+        [
+          "EL BARRANCO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3"
+        ],
+        [
+          "EL CHAYOTE",
+          "4",
+          "708",
+          "380",
+          "328",
+          "37"
+        ],
+        [
+          "EL GIGANTE",
+          "4",
+          "227",
+          "120",
+          "107",
+          "10"
+        ],
+        [
+          "EL PORVENIR",
+          "4",
+          "208",
+          "101",
+          "107",
+          "10"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "139",
+          "54",
+          "85",
+          "6"
+        ],
+        [
+          "EL TEPOZÁN",
+          "4",
+          "259",
+          "147",
+          "112",
+          "13"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "186",
+          "88",
+          "98",
+          "8"
+        ],
+        [
+          "LOS ALAMITOS",
+          "4",
+          "370",
+          "185",
+          "185",
+          "18"
+        ],
+        [
+          "MESILLAS",
+          "4",
+          "214",
+          "115",
+          "99",
+          "10"
+        ],
+        [
+          "OJO DE AGUA DE LOS MONTES",
+          "4",
+          "298",
+          "141",
+          "157",
+          "13"
+        ],
+        [
+          "PUERTO DE LA CONCEPCIÓN",
+          "4",
+          "150",
+          "72",
+          "78",
+          "8"
+        ],
+        [
+          "SAN ANTONIO",
+          "5",
+          "1,378",
+          "718",
+          "660",
+          "56"
+        ],
+        [
+          "TEPEZALÁ",
+          "7",
+          "1,485",
+          "721",
+          "764",
+          "80"
+        ],
+        [
+          "TOTAL",
+          "70",
+          "6,737",
+          "3,402",
+          "3,335",
+          "321"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: TEPEZALÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN LOS HORNOS (EL LAGUNAZO) [COLONIA]",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "ARROYO HONDO",
+          "3",
+          "133",
+          "59",
+          "74",
+          "5"
+        ],
+        [
+          "CALDERA",
+          "4",
+          "332",
+          "183",
+          "149",
+          "13"
+        ],
+        [
+          "CARBONERAS",
+          "4",
+          "450",
+          "220",
+          "230",
+          "23"
+        ],
+        [
+          "EL ÁGUILA",
+          "3",
+          "77",
+          "39",
+          "38",
+          "4"
+        ],
+        [
+          "EL BARRANCO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3"
+        ],
+        [
+          "EL CHAYOTE",
+          "4",
+          "708",
+          "380",
+          "328",
+          "37"
+        ],
+        [
+          "EL GIGANTE",
+          "4",
+          "227",
+          "120",
+          "107",
+          "10"
+        ],
+        [
+          "EL PORVENIR",
+          "4",
+          "208",
+          "101",
+          "107",
+          "10"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "139",
+          "54",
+          "85",
+          "6"
+        ],
+        [
+          "EL TEPOZÁN",
+          "4",
+          "259",
+          "147",
+          "112",
+          "13"
+        ],
+        [
+          "LA VICTORIA",
+          "3",
+          "186",
+          "88",
+          "98",
+          "8"
+        ],
+        [
+          "LOS ALAMITOS",
+          "4",
+          "370",
+          "185",
+          "185",
+          "18"
+        ],
+        [
+          "MESILLAS",
+          "4",
+          "214",
+          "115",
+          "99",
+          "10"
+        ],
+        [
+          "OJO DE AGUA DE LOS MONTES",
+          "4",
+          "298",
+          "141",
+          "157",
+          "13"
+        ],
+        [
+          "PUERTO DE LA CONCEPCIÓN",
+          "4",
+          "150",
+          "72",
+          "78",
+          "8"
+        ],
+        [
+          "SAN ANTONIO",
+          "5",
+          "1,378",
+          "718",
+          "660",
+          "56"
+        ],
+        [
+          "TEPEZALÁ",
+          "7",
+          "1,485",
+          "721",
+          "764",
+          "80"
+        ],
+        [
+          "TOTAL",
+          "70",
+          "6,737",
+          "3,402",
+          "3,335",
+          "321"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:33.555Z"
+}

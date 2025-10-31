@@ -1,0 +1,1462 @@
+{
+  "municipality": "TEPIC",
+  "municipalityCode": "017",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TEPIC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tATONALISCO\n\t\t4\n\t\t390\n\t\t196\n\t\t194\n\t\t22\n\t\n\t\n\t\tBARRANCA BLANCA\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t3\n\t\n\t\n\t\tBELLAVISTA\n\t\t3\n\t\t364\n\t\t174\n\t\t190\n\t\t26\n\t\n\t\n\t\tBENITO JUÁREZ (LAS CHIVAS)\n\t\t2\n\t\t65\n\t\t28\n\t\t37\n\t\t4\n\t\n\t\n\t\tCALERAS DE COFRADOS\n\t\t3\n\t\t68\n\t\t22\n\t\t46\n\t\t5\n\t\n\t\n\t\tCAMICHÍN DE JAUJA\n\t\t7\n\t\t596\n\t\t280\n\t\t316\n\t\t31\n\t\n\t\n\t\tCERRITO JUÁREZ\n\t\t2\n\t\t12\n\t\t4\n\t\t8\n\t\t1\n\t\n\t\n\t\tCERRO DE LOS TIGRES\n\t\t3\n\t\t51\n\t\t21\n\t\t30\n\t\t3\n\t\n\t\n\t\tCINCO DE MAYO (EL CIRUELO)\n\t\t3\n\t\t111\n\t\t62\n\t\t49\n\t\t7\n\t\n\t\n\t\tCOLONIA CATORCE DE MARZO\n\t\t2\n\t\t61\n\t\t28\n\t\t33\n\t\t4\n\t\n\t\n\t\tCOLONIA SEIS DE ENERO\n\t\t3\n\t\t315\n\t\t145\n\t\t170\n\t\t14\n\t\n\t\n\t\tCOLORADO DE LA MORA\n\t\t4\n\t\t199\n\t\t103\n\t\t96\n\t\t11\n\t\n\t\n\t\tCORA DE ABAJO\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL AGUACATE\n\t\t4\n\t\t117\n\t\t60\n\t\t57\n\t\t15\n\t\n\t\n\t\tEL AHUACATE\n\t\t2\n\t\t212\n\t\t104\n\t\t108\n\t\t9\n\t\n\t\n\t\tEL CORRAL DE SORIA\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL ESPINO\n\t\t3\n\t\t35\n\t\t20\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL FLOREÑO (EL CAPULÍN)\n\t\t3\n\t\t33\n\t\t16\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL GAVILÁN\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL IZOTE\n\t\t2\n\t\t45\n\t\t24\n\t\t21\n\t\t3\n\t\n\t\n\t\tEL JICOTE\n\t\t3\n\t\t446\n\t\t209\n\t\t237\n\t\t30\n\t\n\t\n\t\tEL LIMÓN\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL PICHÓN\n\t\t3\n\t\t71\n\t\t39\n\t\t32\n\t\t6\n\t\n\t\n\t\tEL REFUGIO\n\t\t4\n\t\t257\n\t\t127\n\t\t130\n\t\t15\n\t\n\t\n\t\tEL RINCÓN\n\t\t3\n\t\t196\n\t\t92\n\t\t104\n\t\t11\n\t\n\t\n\t\tEL TRAPICHILLO\n\t\t4\n\t\t357\n\t\t176\n\t\t181\n\t\t19\n\t\n\t\n\t\tEL VERDE\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t3\n\t\n\t\n\t\tESTACIÓN ROSETA\n\t\t1\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tFRANCISCO I. MADERO (PUGA)\n\t\t16\n\t\t2,475\n\t\t1,251\n\t\t1,224\n\t\t246\n\t\n\t\n\t\tHEBRÓN\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tJESÚS MARÍA CORTES\n\t\t6\n\t\t333\n\t\t155\n\t\t178\n\t\t16\n\t\n\t\n\t\tJUMATÁN\n\t\t2\n\t\t52\n\t\t17\n\t\t35\n\t\t3\n\t\n\t\n\t\tLA CANTERA\n\t\t7\n\t\t1,324\n\t\t654\n\t\t670\n\t\t57\n\t\n\t\n\t\tLA ESCONDIDA\n\t\t2\n\t\t65\n\t\t33\n\t\t32\n\t\t3\n\t\n\t\n\t\tLA FORTUNA\n\t\t3\n\t\t290\n\t\t148\n\t\t142\n\t\t19\n\t\n\t\n\t\tLA PALOMA\n\t\t2\n\t\t36\n\t\t21\n\t\t15\n\t\t2\n\t\n\t\n\t\tLA RESOLANA\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tLA YERBA\n\t\t4\n\t\t274\n\t\t148\n\t\t126\n\t\t14\n\t\n\t\n\t\tLAS BLANCAS (CARRETONES DE CERRITOS)\n\t\t3\n\t\t115\n\t\t55\n\t\t60\n\t\t7\n\t\n\t\n\t\tLAS DELICIAS\n\t\t2\n\t\t267\n\t\t141\n\t\t126\n\t\t11\n\t\n\t\n\t\tLAS NORIAS DEL MANANTIAL\n\t\t2\n\t\t13\n\t\t9\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAS PEÑITAS (LA REPISA)\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS PILAS (EL TEPEGUAJE)\n\t\t3\n\t\t53\n\t\t21\n\t\t32\n\t\t4\n\t\n\t\n\t\tLO DE GARCÍA\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tLO DE LAMEDO\n\t\t3\n\t\t265\n\t\t120\n\t\t145\n\t\t21\n\t\n\t\n\t\tLOS SABINOS\n\t\t2\n\t\t12\n\t\t10\n\t\t2\n\t\t2\n\t\n\t\n\t\tLOS SALAZARES\n\t\t3\n\t\t61\n\t\t28\n\t\t33\n\t\t4\n\t\n\t\n\t\tMESA DE PICACHOS (EL CASCO)\n\t\t3\n\t\t47\n\t\t20\n\t\t27\n\t\t4\n\t\n\t\n\t\tMORA\n\t\t3\n\t\t165\n\t\t79\n\t\t86\n\t\t9\n\t\n\t\n\t\tOTATISTE\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tPLATANITOS\n\t\t2\n\t\t59\n\t\t30\n\t\t29\n\t\t4\n\t\n\t\n\t\tROSETA (LA TRISTEZA)\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t2\n\t\n\t\n\t\tSALVADOR ALLENDE\n\t\t3\n\t\t141\n\t\t69\n\t\t72\n\t\t12\n\t\n\t\n\t\tSAN ANDRÉS\n\t\t4\n\t\t154\n\t\t77\n\t\t77\n\t\t10\n\t\n\t\n\t\tSAN CAYETANO\n\t\t9\n\t\t1,387\n\t\t653\n\t\t734\n\t\t68\n\t\n\t\n\t\tSAN FERNANDO\n\t\t3\n\t\t129\n\t\t63\n\t\t66\n\t\t8\n\t\n\t\n\t\tSAN LUIS DE LOZADA\n\t\t6\n\t\t436\n\t\t223\n\t\t213\n\t\t22\n\t\n\t\n\t\tSANTIAGO DE POCHOTITÁN\n\t\t6\n\t\t621\n\t\t310\n\t\t311\n\t\t30\n\t\n\t\n\t\tTEPETILTE\n\t\t1\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tTEPIC\n\t\t613\n\t\t121,087\n\t\t64,337\n\t\t56,750\n\t\t9,136\n\t\n\t\n\t\tVENUSTIANO CARRANZA\n\t\t4\n\t\t557\n\t\t76\n\t\t481\n\t\t10\n\t\n\t\n\t\tZAPOTE DE PICACHOS\n\t\t4\n\t\t158\n\t\t88\n\t\t70\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t811\n\t\t134,822\n\t\t70,876\n\t\t63,946\n\t\t10,000\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TEPIC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ATONALISCO",
+          "4",
+          "390",
+          "196",
+          "194",
+          "22",
+          "BARRANCA BLANCA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3",
+          "BELLAVISTA",
+          "3",
+          "364",
+          "174",
+          "190",
+          "26",
+          "BENITO JUÁREZ (LAS CHIVAS)",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4",
+          "CALERAS DE COFRADOS",
+          "3",
+          "68",
+          "22",
+          "46",
+          "5",
+          "CAMICHÍN DE JAUJA",
+          "7",
+          "596",
+          "280",
+          "316",
+          "31",
+          "CERRITO JUÁREZ",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1",
+          "CERRO DE LOS TIGRES",
+          "3",
+          "51",
+          "21",
+          "30",
+          "3",
+          "CINCO DE MAYO (EL CIRUELO)",
+          "3",
+          "111",
+          "62",
+          "49",
+          "7",
+          "COLONIA CATORCE DE MARZO",
+          "2",
+          "61",
+          "28",
+          "33",
+          "4",
+          "COLONIA SEIS DE ENERO",
+          "3",
+          "315",
+          "145",
+          "170",
+          "14",
+          "COLORADO DE LA MORA",
+          "4",
+          "199",
+          "103",
+          "96",
+          "11",
+          "CORA DE ABAJO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "EL AGUACATE",
+          "4",
+          "117",
+          "60",
+          "57",
+          "15",
+          "EL AHUACATE",
+          "2",
+          "212",
+          "104",
+          "108",
+          "9",
+          "EL CORRAL DE SORIA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "EL ESPINO",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3",
+          "EL FLOREÑO (EL CAPULÍN)",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3",
+          "EL GAVILÁN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL IZOTE",
+          "2",
+          "45",
+          "24",
+          "21",
+          "3",
+          "EL JICOTE",
+          "3",
+          "446",
+          "209",
+          "237",
+          "30",
+          "EL LIMÓN",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2",
+          "EL PICHÓN",
+          "3",
+          "71",
+          "39",
+          "32",
+          "6",
+          "EL REFUGIO",
+          "4",
+          "257",
+          "127",
+          "130",
+          "15",
+          "EL RINCÓN",
+          "3",
+          "196",
+          "92",
+          "104",
+          "11",
+          "EL TRAPICHILLO",
+          "4",
+          "357",
+          "176",
+          "181",
+          "19",
+          "EL VERDE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3",
+          "ESTACIÓN ROSETA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1",
+          "FRANCISCO I. MADERO (PUGA)",
+          "16",
+          "2,475",
+          "1,251",
+          "1,224",
+          "246",
+          "HEBRÓN",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "JESÚS MARÍA CORTES",
+          "6",
+          "333",
+          "155",
+          "178",
+          "16",
+          "JUMATÁN",
+          "2",
+          "52",
+          "17",
+          "35",
+          "3",
+          "LA CANTERA",
+          "7",
+          "1,324",
+          "654",
+          "670",
+          "57",
+          "LA ESCONDIDA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3",
+          "LA FORTUNA",
+          "3",
+          "290",
+          "148",
+          "142",
+          "19",
+          "LA PALOMA",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2",
+          "LA RESOLANA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "LA YERBA",
+          "4",
+          "274",
+          "148",
+          "126",
+          "14",
+          "LAS BLANCAS (CARRETONES DE CERRITOS)",
+          "3",
+          "115",
+          "55",
+          "60",
+          "7",
+          "LAS DELICIAS",
+          "2",
+          "267",
+          "141",
+          "126",
+          "11",
+          "LAS NORIAS DEL MANANTIAL",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2",
+          "LAS PEÑITAS (LA REPISA)",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1",
+          "LAS PILAS (EL TEPEGUAJE)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "4",
+          "LO DE GARCÍA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "LO DE LAMEDO",
+          "3",
+          "265",
+          "120",
+          "145",
+          "21",
+          "LOS SABINOS",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2",
+          "LOS SALAZARES",
+          "3",
+          "61",
+          "28",
+          "33",
+          "4",
+          "MESA DE PICACHOS (EL CASCO)",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4",
+          "MORA",
+          "3",
+          "165",
+          "79",
+          "86",
+          "9",
+          "OTATISTE",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "PLATANITOS",
+          "2",
+          "59",
+          "30",
+          "29",
+          "4",
+          "ROSETA (LA TRISTEZA)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2",
+          "SALVADOR ALLENDE",
+          "3",
+          "141",
+          "69",
+          "72",
+          "12",
+          "SAN ANDRÉS",
+          "4",
+          "154",
+          "77",
+          "77",
+          "10",
+          "SAN CAYETANO",
+          "9",
+          "1,387",
+          "653",
+          "734",
+          "68",
+          "SAN FERNANDO",
+          "3",
+          "129",
+          "63",
+          "66",
+          "8",
+          "SAN LUIS DE LOZADA",
+          "6",
+          "436",
+          "223",
+          "213",
+          "22",
+          "SANTIAGO DE POCHOTITÁN",
+          "6",
+          "621",
+          "310",
+          "311",
+          "30",
+          "TEPETILTE",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1",
+          "TEPIC",
+          "613",
+          "121,087",
+          "64,337",
+          "56,750",
+          "9,136",
+          "VENUSTIANO CARRANZA",
+          "4",
+          "557",
+          "76",
+          "481",
+          "10",
+          "ZAPOTE DE PICACHOS",
+          "4",
+          "158",
+          "88",
+          "70",
+          "10",
+          "TOTAL",
+          "811",
+          "134,822",
+          "70,876",
+          "63,946",
+          "10,000",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TEPIC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATONALISCO",
+          "4",
+          "390",
+          "196",
+          "194",
+          "22"
+        ],
+        [
+          "BARRANCA BLANCA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "BELLAVISTA",
+          "3",
+          "364",
+          "174",
+          "190",
+          "26"
+        ],
+        [
+          "BENITO JUÁREZ (LAS CHIVAS)",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "CALERAS DE COFRADOS",
+          "3",
+          "68",
+          "22",
+          "46",
+          "5"
+        ],
+        [
+          "CAMICHÍN DE JAUJA",
+          "7",
+          "596",
+          "280",
+          "316",
+          "31"
+        ],
+        [
+          "CERRITO JUÁREZ",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CERRO DE LOS TIGRES",
+          "3",
+          "51",
+          "21",
+          "30",
+          "3"
+        ],
+        [
+          "CINCO DE MAYO (EL CIRUELO)",
+          "3",
+          "111",
+          "62",
+          "49",
+          "7"
+        ],
+        [
+          "COLONIA CATORCE DE MARZO",
+          "2",
+          "61",
+          "28",
+          "33",
+          "4"
+        ],
+        [
+          "COLONIA SEIS DE ENERO",
+          "3",
+          "315",
+          "145",
+          "170",
+          "14"
+        ],
+        [
+          "COLORADO DE LA MORA",
+          "4",
+          "199",
+          "103",
+          "96",
+          "11"
+        ],
+        [
+          "CORA DE ABAJO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL AGUACATE",
+          "4",
+          "117",
+          "60",
+          "57",
+          "15"
+        ],
+        [
+          "EL AHUACATE",
+          "2",
+          "212",
+          "104",
+          "108",
+          "9"
+        ],
+        [
+          "EL CORRAL DE SORIA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESPINO",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "EL FLOREÑO (EL CAPULÍN)",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL IZOTE",
+          "2",
+          "45",
+          "24",
+          "21",
+          "3"
+        ],
+        [
+          "EL JICOTE",
+          "3",
+          "446",
+          "209",
+          "237",
+          "30"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL PICHÓN",
+          "3",
+          "71",
+          "39",
+          "32",
+          "6"
+        ],
+        [
+          "EL REFUGIO",
+          "4",
+          "257",
+          "127",
+          "130",
+          "15"
+        ],
+        [
+          "EL RINCÓN",
+          "3",
+          "196",
+          "92",
+          "104",
+          "11"
+        ],
+        [
+          "EL TRAPICHILLO",
+          "4",
+          "357",
+          "176",
+          "181",
+          "19"
+        ],
+        [
+          "EL VERDE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "ESTACIÓN ROSETA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO (PUGA)",
+          "16",
+          "2,475",
+          "1,251",
+          "1,224",
+          "246"
+        ],
+        [
+          "HEBRÓN",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "JESÚS MARÍA CORTES",
+          "6",
+          "333",
+          "155",
+          "178",
+          "16"
+        ],
+        [
+          "JUMATÁN",
+          "2",
+          "52",
+          "17",
+          "35",
+          "3"
+        ],
+        [
+          "LA CANTERA",
+          "7",
+          "1,324",
+          "654",
+          "670",
+          "57"
+        ],
+        [
+          "LA ESCONDIDA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3"
+        ],
+        [
+          "LA FORTUNA",
+          "3",
+          "290",
+          "148",
+          "142",
+          "19"
+        ],
+        [
+          "LA PALOMA",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2"
+        ],
+        [
+          "LA RESOLANA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "LA YERBA",
+          "4",
+          "274",
+          "148",
+          "126",
+          "14"
+        ],
+        [
+          "LAS BLANCAS (CARRETONES DE CERRITOS)",
+          "3",
+          "115",
+          "55",
+          "60",
+          "7"
+        ],
+        [
+          "LAS DELICIAS",
+          "2",
+          "267",
+          "141",
+          "126",
+          "11"
+        ],
+        [
+          "LAS NORIAS DEL MANANTIAL",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "LAS PEÑITAS (LA REPISA)",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LAS PILAS (EL TEPEGUAJE)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "4"
+        ],
+        [
+          "LO DE GARCÍA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "LO DE LAMEDO",
+          "3",
+          "265",
+          "120",
+          "145",
+          "21"
+        ],
+        [
+          "LOS SABINOS",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2"
+        ],
+        [
+          "LOS SALAZARES",
+          "3",
+          "61",
+          "28",
+          "33",
+          "4"
+        ],
+        [
+          "MESA DE PICACHOS (EL CASCO)",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4"
+        ],
+        [
+          "MORA",
+          "3",
+          "165",
+          "79",
+          "86",
+          "9"
+        ],
+        [
+          "OTATISTE",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "PLATANITOS",
+          "2",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "ROSETA (LA TRISTEZA)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "SALVADOR ALLENDE",
+          "3",
+          "141",
+          "69",
+          "72",
+          "12"
+        ],
+        [
+          "SAN ANDRÉS",
+          "4",
+          "154",
+          "77",
+          "77",
+          "10"
+        ],
+        [
+          "SAN CAYETANO",
+          "9",
+          "1,387",
+          "653",
+          "734",
+          "68"
+        ],
+        [
+          "SAN FERNANDO",
+          "3",
+          "129",
+          "63",
+          "66",
+          "8"
+        ],
+        [
+          "SAN LUIS DE LOZADA",
+          "6",
+          "436",
+          "223",
+          "213",
+          "22"
+        ],
+        [
+          "SANTIAGO DE POCHOTITÁN",
+          "6",
+          "621",
+          "310",
+          "311",
+          "30"
+        ],
+        [
+          "TEPETILTE",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "TEPIC",
+          "613",
+          "121,087",
+          "64,337",
+          "56,750",
+          "9,136"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "4",
+          "557",
+          "76",
+          "481",
+          "10"
+        ],
+        [
+          "ZAPOTE DE PICACHOS",
+          "4",
+          "158",
+          "88",
+          "70",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "811",
+          "134,822",
+          "70,876",
+          "63,946",
+          "10,000"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TEPIC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ATONALISCO",
+          "4",
+          "390",
+          "196",
+          "194",
+          "22"
+        ],
+        [
+          "BARRANCA BLANCA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "3"
+        ],
+        [
+          "BELLAVISTA",
+          "3",
+          "364",
+          "174",
+          "190",
+          "26"
+        ],
+        [
+          "BENITO JUÁREZ (LAS CHIVAS)",
+          "2",
+          "65",
+          "28",
+          "37",
+          "4"
+        ],
+        [
+          "CALERAS DE COFRADOS",
+          "3",
+          "68",
+          "22",
+          "46",
+          "5"
+        ],
+        [
+          "CAMICHÍN DE JAUJA",
+          "7",
+          "596",
+          "280",
+          "316",
+          "31"
+        ],
+        [
+          "CERRITO JUÁREZ",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CERRO DE LOS TIGRES",
+          "3",
+          "51",
+          "21",
+          "30",
+          "3"
+        ],
+        [
+          "CINCO DE MAYO (EL CIRUELO)",
+          "3",
+          "111",
+          "62",
+          "49",
+          "7"
+        ],
+        [
+          "COLONIA CATORCE DE MARZO",
+          "2",
+          "61",
+          "28",
+          "33",
+          "4"
+        ],
+        [
+          "COLONIA SEIS DE ENERO",
+          "3",
+          "315",
+          "145",
+          "170",
+          "14"
+        ],
+        [
+          "COLORADO DE LA MORA",
+          "4",
+          "199",
+          "103",
+          "96",
+          "11"
+        ],
+        [
+          "CORA DE ABAJO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL AGUACATE",
+          "4",
+          "117",
+          "60",
+          "57",
+          "15"
+        ],
+        [
+          "EL AHUACATE",
+          "2",
+          "212",
+          "104",
+          "108",
+          "9"
+        ],
+        [
+          "EL CORRAL DE SORIA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESPINO",
+          "3",
+          "35",
+          "20",
+          "15",
+          "3"
+        ],
+        [
+          "EL FLOREÑO (EL CAPULÍN)",
+          "3",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL IZOTE",
+          "2",
+          "45",
+          "24",
+          "21",
+          "3"
+        ],
+        [
+          "EL JICOTE",
+          "3",
+          "446",
+          "209",
+          "237",
+          "30"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL PICHÓN",
+          "3",
+          "71",
+          "39",
+          "32",
+          "6"
+        ],
+        [
+          "EL REFUGIO",
+          "4",
+          "257",
+          "127",
+          "130",
+          "15"
+        ],
+        [
+          "EL RINCÓN",
+          "3",
+          "196",
+          "92",
+          "104",
+          "11"
+        ],
+        [
+          "EL TRAPICHILLO",
+          "4",
+          "357",
+          "176",
+          "181",
+          "19"
+        ],
+        [
+          "EL VERDE",
+          "2",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "ESTACIÓN ROSETA",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO (PUGA)",
+          "16",
+          "2,475",
+          "1,251",
+          "1,224",
+          "246"
+        ],
+        [
+          "HEBRÓN",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "JESÚS MARÍA CORTES",
+          "6",
+          "333",
+          "155",
+          "178",
+          "16"
+        ],
+        [
+          "JUMATÁN",
+          "2",
+          "52",
+          "17",
+          "35",
+          "3"
+        ],
+        [
+          "LA CANTERA",
+          "7",
+          "1,324",
+          "654",
+          "670",
+          "57"
+        ],
+        [
+          "LA ESCONDIDA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "3"
+        ],
+        [
+          "LA FORTUNA",
+          "3",
+          "290",
+          "148",
+          "142",
+          "19"
+        ],
+        [
+          "LA PALOMA",
+          "2",
+          "36",
+          "21",
+          "15",
+          "2"
+        ],
+        [
+          "LA RESOLANA",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "LA YERBA",
+          "4",
+          "274",
+          "148",
+          "126",
+          "14"
+        ],
+        [
+          "LAS BLANCAS (CARRETONES DE CERRITOS)",
+          "3",
+          "115",
+          "55",
+          "60",
+          "7"
+        ],
+        [
+          "LAS DELICIAS",
+          "2",
+          "267",
+          "141",
+          "126",
+          "11"
+        ],
+        [
+          "LAS NORIAS DEL MANANTIAL",
+          "2",
+          "13",
+          "9",
+          "4",
+          "2"
+        ],
+        [
+          "LAS PEÑITAS (LA REPISA)",
+          "2",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LAS PILAS (EL TEPEGUAJE)",
+          "3",
+          "53",
+          "21",
+          "32",
+          "4"
+        ],
+        [
+          "LO DE GARCÍA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "LO DE LAMEDO",
+          "3",
+          "265",
+          "120",
+          "145",
+          "21"
+        ],
+        [
+          "LOS SABINOS",
+          "2",
+          "12",
+          "10",
+          "2",
+          "2"
+        ],
+        [
+          "LOS SALAZARES",
+          "3",
+          "61",
+          "28",
+          "33",
+          "4"
+        ],
+        [
+          "MESA DE PICACHOS (EL CASCO)",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4"
+        ],
+        [
+          "MORA",
+          "3",
+          "165",
+          "79",
+          "86",
+          "9"
+        ],
+        [
+          "OTATISTE",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "PLATANITOS",
+          "2",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "ROSETA (LA TRISTEZA)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "SALVADOR ALLENDE",
+          "3",
+          "141",
+          "69",
+          "72",
+          "12"
+        ],
+        [
+          "SAN ANDRÉS",
+          "4",
+          "154",
+          "77",
+          "77",
+          "10"
+        ],
+        [
+          "SAN CAYETANO",
+          "9",
+          "1,387",
+          "653",
+          "734",
+          "68"
+        ],
+        [
+          "SAN FERNANDO",
+          "3",
+          "129",
+          "63",
+          "66",
+          "8"
+        ],
+        [
+          "SAN LUIS DE LOZADA",
+          "6",
+          "436",
+          "223",
+          "213",
+          "22"
+        ],
+        [
+          "SANTIAGO DE POCHOTITÁN",
+          "6",
+          "621",
+          "310",
+          "311",
+          "30"
+        ],
+        [
+          "TEPETILTE",
+          "1",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "TEPIC",
+          "613",
+          "121,087",
+          "64,337",
+          "56,750",
+          "9,136"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "4",
+          "557",
+          "76",
+          "481",
+          "10"
+        ],
+        [
+          "ZAPOTE DE PICACHOS",
+          "4",
+          "158",
+          "88",
+          "70",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "811",
+          "134,822",
+          "70,876",
+          "63,946",
+          "10,000"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:34.283Z"
+}

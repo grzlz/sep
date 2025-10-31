@@ -1,0 +1,604 @@
+{
+  "municipality": "JUÁREZ",
+  "municipalityCode": "031",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: JUÁREZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN CALDERÓN\n\t\t3\n\t\t118\n\t\t45\n\t\t73\n\t\t5\n\t\n\t\n\t\tANZURES\n\t\t7\n\t\t4,182\n\t\t2,034\n\t\t2,148\n\t\t113\n\t\n\t\n\t\tARBOLEDAS DE SAN ROQUE\n\t\t18\n\t\t5,602\n\t\t2,760\n\t\t2,842\n\t\t197\n\t\n\t\n\t\tBOSQUES DE LA SILLA (SANTA ANA DE ABAJO)\n\t\t3\n\t\t92\n\t\t49\n\t\t43\n\t\t8\n\t\n\t\n\t\tBOSQUES DE SAN PEDRO\n\t\t1\n\t\t150\n\t\t76\n\t\t74\n\t\t5\n\t\n\t\n\t\tCENTRO HABITACIONAL BURÓCRATAS DE GUADALUPE\n\t\t4\n\t\t772\n\t\t408\n\t\t364\n\t\t30\n\t\n\t\n\t\tCIUDAD BENITO JUÁREZ\n\t\t236\n\t\t72,086\n\t\t35,684\n\t\t36,402\n\t\t2,895\n\t\n\t\n\t\tFRESNILLO\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tHÉCTOR CABALLERO\n\t\t6\n\t\t2,263\n\t\t1,083\n\t\t1,180\n\t\t82\n\t\n\t\n\t\tISMAEL FLORES\n\t\t1\n\t\t76\n\t\t45\n\t\t31\n\t\t3\n\t\n\t\n\t\tJARDINES DE LA SILLA (JARDINES)\n\t\t45\n\t\t12,791\n\t\t6,179\n\t\t6,612\n\t\t489\n\t\n\t\n\t\tLA CIÉNEGA (LA CIENEGUITA)\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA CIUDADELA\n\t\t15\n\t\t3,474\n\t\t1,759\n\t\t1,715\n\t\t121\n\t\n\t\n\t\tLOS HUERTOS\n\t\t4\n\t\t1,118\n\t\t556\n\t\t562\n\t\t33\n\t\n\t\n\t\tLOS REHILETES\n\t\t4\n\t\t905\n\t\t452\n\t\t453\n\t\t29\n\t\n\t\n\t\tMONTE KRISTAL\n\t\t2\n\t\t118\n\t\t59\n\t\t59\n\t\t6\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t360\n\t\t157\n\t\t203\n\t\t19\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t8\n\t\t3,117\n\t\t1,470\n\t\t1,647\n\t\t110\n\t\n\t\n\t\tSAN MATEO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tSAN PEDRO (DON PEDRO)\n\t\t1\n\t\t260\n\t\t118\n\t\t142\n\t\t8\n\t\n\t\n\t\tSAN ROQUE\n\t\t1\n\t\t40\n\t\t27\n\t\t13\n\t\t2\n\t\n\t\n\t\tSANTA ANA DE ARRIBA\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tVALLE DE JUÁREZ\n\t\t4\n\t\t457\n\t\t223\n\t\t234\n\t\t16\n\t\n\t\n\t\tTOTAL\n\t\t371\n\t\t108,015\n\t\t53,201\n\t\t54,814\n\t\t4,176\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: JUÁREZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN CALDERÓN",
+          "3",
+          "118",
+          "45",
+          "73",
+          "5",
+          "ANZURES",
+          "7",
+          "4,182",
+          "2,034",
+          "2,148",
+          "113",
+          "ARBOLEDAS DE SAN ROQUE",
+          "18",
+          "5,602",
+          "2,760",
+          "2,842",
+          "197",
+          "BOSQUES DE LA SILLA (SANTA ANA DE ABAJO)",
+          "3",
+          "92",
+          "49",
+          "43",
+          "8",
+          "BOSQUES DE SAN PEDRO",
+          "1",
+          "150",
+          "76",
+          "74",
+          "5",
+          "CENTRO HABITACIONAL BURÓCRATAS DE GUADALUPE",
+          "4",
+          "772",
+          "408",
+          "364",
+          "30",
+          "CIUDAD BENITO JUÁREZ",
+          "236",
+          "72,086",
+          "35,684",
+          "36,402",
+          "2,895",
+          "FRESNILLO",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "HÉCTOR CABALLERO",
+          "6",
+          "2,263",
+          "1,083",
+          "1,180",
+          "82",
+          "ISMAEL FLORES",
+          "1",
+          "76",
+          "45",
+          "31",
+          "3",
+          "JARDINES DE LA SILLA (JARDINES)",
+          "45",
+          "12,791",
+          "6,179",
+          "6,612",
+          "489",
+          "LA CIÉNEGA (LA CIENEGUITA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LA CIUDADELA",
+          "15",
+          "3,474",
+          "1,759",
+          "1,715",
+          "121",
+          "LOS HUERTOS",
+          "4",
+          "1,118",
+          "556",
+          "562",
+          "33",
+          "LOS REHILETES",
+          "4",
+          "905",
+          "452",
+          "453",
+          "29",
+          "MONTE KRISTAL",
+          "2",
+          "118",
+          "59",
+          "59",
+          "6",
+          "SAN ANTONIO",
+          "3",
+          "360",
+          "157",
+          "203",
+          "19",
+          "SAN FRANCISCO",
+          "8",
+          "3,117",
+          "1,470",
+          "1,647",
+          "110",
+          "SAN MATEO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "SAN PEDRO (DON PEDRO)",
+          "1",
+          "260",
+          "118",
+          "142",
+          "8",
+          "SAN ROQUE",
+          "1",
+          "40",
+          "27",
+          "13",
+          "2",
+          "SANTA ANA DE ARRIBA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "VALLE DE JUÁREZ",
+          "4",
+          "457",
+          "223",
+          "234",
+          "16",
+          "TOTAL",
+          "371",
+          "108,015",
+          "53,201",
+          "54,814",
+          "4,176",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN CALDERÓN",
+          "3",
+          "118",
+          "45",
+          "73",
+          "5"
+        ],
+        [
+          "ANZURES",
+          "7",
+          "4,182",
+          "2,034",
+          "2,148",
+          "113"
+        ],
+        [
+          "ARBOLEDAS DE SAN ROQUE",
+          "18",
+          "5,602",
+          "2,760",
+          "2,842",
+          "197"
+        ],
+        [
+          "BOSQUES DE LA SILLA (SANTA ANA DE ABAJO)",
+          "3",
+          "92",
+          "49",
+          "43",
+          "8"
+        ],
+        [
+          "BOSQUES DE SAN PEDRO",
+          "1",
+          "150",
+          "76",
+          "74",
+          "5"
+        ],
+        [
+          "CENTRO HABITACIONAL BURÓCRATAS DE GUADALUPE",
+          "4",
+          "772",
+          "408",
+          "364",
+          "30"
+        ],
+        [
+          "CIUDAD BENITO JUÁREZ",
+          "236",
+          "72,086",
+          "35,684",
+          "36,402",
+          "2,895"
+        ],
+        [
+          "FRESNILLO",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "HÉCTOR CABALLERO",
+          "6",
+          "2,263",
+          "1,083",
+          "1,180",
+          "82"
+        ],
+        [
+          "ISMAEL FLORES",
+          "1",
+          "76",
+          "45",
+          "31",
+          "3"
+        ],
+        [
+          "JARDINES DE LA SILLA (JARDINES)",
+          "45",
+          "12,791",
+          "6,179",
+          "6,612",
+          "489"
+        ],
+        [
+          "LA CIÉNEGA (LA CIENEGUITA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA CIUDADELA",
+          "15",
+          "3,474",
+          "1,759",
+          "1,715",
+          "121"
+        ],
+        [
+          "LOS HUERTOS",
+          "4",
+          "1,118",
+          "556",
+          "562",
+          "33"
+        ],
+        [
+          "LOS REHILETES",
+          "4",
+          "905",
+          "452",
+          "453",
+          "29"
+        ],
+        [
+          "MONTE KRISTAL",
+          "2",
+          "118",
+          "59",
+          "59",
+          "6"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "360",
+          "157",
+          "203",
+          "19"
+        ],
+        [
+          "SAN FRANCISCO",
+          "8",
+          "3,117",
+          "1,470",
+          "1,647",
+          "110"
+        ],
+        [
+          "SAN MATEO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN PEDRO (DON PEDRO)",
+          "1",
+          "260",
+          "118",
+          "142",
+          "8"
+        ],
+        [
+          "SAN ROQUE",
+          "1",
+          "40",
+          "27",
+          "13",
+          "2"
+        ],
+        [
+          "SANTA ANA DE ARRIBA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "VALLE DE JUÁREZ",
+          "4",
+          "457",
+          "223",
+          "234",
+          "16"
+        ],
+        [
+          "TOTAL",
+          "371",
+          "108,015",
+          "53,201",
+          "54,814",
+          "4,176"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: JUÁREZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN CALDERÓN",
+          "3",
+          "118",
+          "45",
+          "73",
+          "5"
+        ],
+        [
+          "ANZURES",
+          "7",
+          "4,182",
+          "2,034",
+          "2,148",
+          "113"
+        ],
+        [
+          "ARBOLEDAS DE SAN ROQUE",
+          "18",
+          "5,602",
+          "2,760",
+          "2,842",
+          "197"
+        ],
+        [
+          "BOSQUES DE LA SILLA (SANTA ANA DE ABAJO)",
+          "3",
+          "92",
+          "49",
+          "43",
+          "8"
+        ],
+        [
+          "BOSQUES DE SAN PEDRO",
+          "1",
+          "150",
+          "76",
+          "74",
+          "5"
+        ],
+        [
+          "CENTRO HABITACIONAL BURÓCRATAS DE GUADALUPE",
+          "4",
+          "772",
+          "408",
+          "364",
+          "30"
+        ],
+        [
+          "CIUDAD BENITO JUÁREZ",
+          "236",
+          "72,086",
+          "35,684",
+          "36,402",
+          "2,895"
+        ],
+        [
+          "FRESNILLO",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "HÉCTOR CABALLERO",
+          "6",
+          "2,263",
+          "1,083",
+          "1,180",
+          "82"
+        ],
+        [
+          "ISMAEL FLORES",
+          "1",
+          "76",
+          "45",
+          "31",
+          "3"
+        ],
+        [
+          "JARDINES DE LA SILLA (JARDINES)",
+          "45",
+          "12,791",
+          "6,179",
+          "6,612",
+          "489"
+        ],
+        [
+          "LA CIÉNEGA (LA CIENEGUITA)",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LA CIUDADELA",
+          "15",
+          "3,474",
+          "1,759",
+          "1,715",
+          "121"
+        ],
+        [
+          "LOS HUERTOS",
+          "4",
+          "1,118",
+          "556",
+          "562",
+          "33"
+        ],
+        [
+          "LOS REHILETES",
+          "4",
+          "905",
+          "452",
+          "453",
+          "29"
+        ],
+        [
+          "MONTE KRISTAL",
+          "2",
+          "118",
+          "59",
+          "59",
+          "6"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "360",
+          "157",
+          "203",
+          "19"
+        ],
+        [
+          "SAN FRANCISCO",
+          "8",
+          "3,117",
+          "1,470",
+          "1,647",
+          "110"
+        ],
+        [
+          "SAN MATEO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "SAN PEDRO (DON PEDRO)",
+          "1",
+          "260",
+          "118",
+          "142",
+          "8"
+        ],
+        [
+          "SAN ROQUE",
+          "1",
+          "40",
+          "27",
+          "13",
+          "2"
+        ],
+        [
+          "SANTA ANA DE ARRIBA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "VALLE DE JUÁREZ",
+          "4",
+          "457",
+          "223",
+          "234",
+          "16"
+        ],
+        [
+          "TOTAL",
+          "371",
+          "108,015",
+          "53,201",
+          "54,814",
+          "4,176"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:24:46.184Z"
+}

@@ -1,0 +1,1286 @@
+{
+  "municipality": "JOSÉ MARÍA MORELOS",
+  "municipalityCode": "006",
+  "state": "QUINTANA ROO",
+  "stateCode": "23",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBACALAR\n\tBENITO JUÁREZ\n\tCOZUMEL\n\tFELIPE CARRILLO PUERTO\n\tISLA MUJERES\n\tJOSÉ MARÍA MORELOS\n\tLÁZARO CÁRDENAS\n\tOTHÓN P. BLANCO\n\tPUERTO MORELOS\n\tSOLIDARIDAD\n\tTULUM"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: JOSÉ MARÍA MORELOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO DE LA HUERTA\n\t\t1\n\t\t13\n\t\t4\n\t\t9\n\t\t1\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t4\n\t\t120\n\t\t51\n\t\t69\n\t\t8\n\t\n\t\n\t\tAGUADA LA PRESUMIDA\n\t\t3\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t1\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tBULUKAX\n\t\t3\n\t\t160\n\t\t79\n\t\t81\n\t\t8\n\t\n\t\n\t\tCAFETAL GRANDE\n\t\t2\n\t\t57\n\t\t30\n\t\t27\n\t\t3\n\t\n\t\n\t\tCAFETALITO\n\t\t2\n\t\t55\n\t\t29\n\t\t26\n\t\t3\n\t\n\t\n\t\tCANDELARIA\n\t\t5\n\t\t490\n\t\t252\n\t\t238\n\t\t22\n\t\n\t\n\t\tCOLMENITAS\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tDOS AGUADAS\n\t\t2\n\t\t38\n\t\t20\n\t\t18\n\t\t2\n\t\n\t\n\t\tDZIUCHÉ\n\t\t6\n\t\t946\n\t\t471\n\t\t475\n\t\t87\n\t\n\t\n\t\tEL MARTIRIO\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL NARANJAL\n\t\t4\n\t\t304\n\t\t163\n\t\t141\n\t\t16\n\t\n\t\n\t\tEL TRIUNFO\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tGAVILANES\n\t\t4\n\t\t171\n\t\t89\n\t\t82\n\t\t11\n\t\n\t\n\t\tHUAY MAX\n\t\t4\n\t\t445\n\t\t206\n\t\t239\n\t\t19\n\t\n\t\n\t\tINSURGENTES\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS\n\t\t20\n\t\t4,125\n\t\t2,031\n\t\t2,094\n\t\t176\n\t\n\t\n\t\tKANCABCHÉN\n\t\t5\n\t\t389\n\t\t209\n\t\t180\n\t\t19\n\t\n\t\n\t\tKANTEMÓ\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA CAROLINA\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t5\n\t\t295\n\t\t143\n\t\t152\n\t\t16\n\t\n\t\n\t\tLA PIMIENTITA\n\t\t3\n\t\t76\n\t\t36\n\t\t40\n\t\t4\n\t\n\t\n\t\tLA PRESUMIDA\n\t\t4\n\t\t1,171\n\t\t622\n\t\t549\n\t\t42\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t56\n\t\t27\n\t\t29\n\t\t4\n\t\n\t\n\t\tLOS LAGARTOS\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tNUEVA REFORMA\n\t\t3\n\t\t84\n\t\t33\n\t\t51\n\t\t4\n\t\n\t\n\t\tNUEVO PLAN DE LA NORIA\n\t\t2\n\t\t75\n\t\t32\n\t\t43\n\t\t3\n\t\n\t\n\t\tNUEVO SAN MARCOS\n\t\t3\n\t\t37\n\t\t19\n\t\t18\n\t\t4\n\t\n\t\n\t\tOTHÓN P. BLANCO\n\t\t3\n\t\t161\n\t\t80\n\t\t81\n\t\t10\n\t\n\t\n\t\tPEDRO MORENO\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tPIEDRAS NEGRAS\n\t\t2\n\t\t32\n\t\t15\n\t\t17\n\t\t2\n\t\n\t\n\t\tPLAN DE LA NORIA PONIENTE\n\t\t4\n\t\t120\n\t\t58\n\t\t62\n\t\t9\n\t\n\t\n\t\tPOZO PIRATA\n\t\t4\n\t\t58\n\t\t28\n\t\t30\n\t\t5\n\t\n\t\n\t\tPUERTO ARTURO\n\t\t4\n\t\t224\n\t\t111\n\t\t113\n\t\t14\n\t\n\t\n\t\tSABÁN\n\t\t7\n\t\t1,038\n\t\t506\n\t\t532\n\t\t43\n\t\n\t\n\t\tSABANA SAN FRANCISCO\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tSACALACA\n\t\t5\n\t\t320\n\t\t144\n\t\t176\n\t\t18\n\t\n\t\n\t\tSACZUQUIL\n\t\t3\n\t\t101\n\t\t47\n\t\t54\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO TUK\n\t\t3\n\t\t51\n\t\t23\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN CARLOS\n\t\t3\n\t\t42\n\t\t27\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN DIEGO\n\t\t4\n\t\t248\n\t\t136\n\t\t112\n\t\t12\n\t\n\t\n\t\tSAN FELIPE ORIENTE\n\t\t2\n\t\t49\n\t\t27\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN FELIPE PRIMERO\n\t\t4\n\t\t282\n\t\t153\n\t\t129\n\t\t16\n\t\n\t\n\t\tSAN FELIPE SEGUNDO\n\t\t2\n\t\t66\n\t\t26\n\t\t40\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO PONIENTE\n\t\t3\n\t\t57\n\t\t28\n\t\t29\n\t\t4\n\t\n\t\n\t\tSAN JUAN ORIENTE\n\t\t2\n\t\t41\n\t\t24\n\t\t17\n\t\t2\n\t\n\t\n\t\tSANTA GERTRUDIS\n\t\t4\n\t\t282\n\t\t134\n\t\t148\n\t\t14\n\t\n\t\n\t\tTABASCO\n\t\t3\n\t\t74\n\t\t33\n\t\t41\n\t\t4\n\t\n\t\n\t\tVENUSTIANO CARRANZA\n\t\t3\n\t\t76\n\t\t29\n\t\t47\n\t\t4\n\t\n\t\n\t\tX-CABIL\n\t\t4\n\t\t350\n\t\t168\n\t\t182\n\t\t16\n\t\n\t\n\t\tXNOH CRUZ\n\t\t2\n\t\t61\n\t\t23\n\t\t38\n\t\t3\n\t\n\t\n\t\tX-QUEROL\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tZAFARRANCHO\n\t\t4\n\t\t144\n\t\t62\n\t\t82\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t184\n\t\t13,198\n\t\t6,531\n\t\t6,667\n\t\t676\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: JOSÉ MARÍA MORELOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO DE LA HUERTA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1",
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "120",
+          "51",
+          "69",
+          "8",
+          "AGUADA LA PRESUMIDA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3",
+          "BENITO JUÁREZ",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1",
+          "BULUKAX",
+          "3",
+          "160",
+          "79",
+          "81",
+          "8",
+          "CAFETAL GRANDE",
+          "2",
+          "57",
+          "30",
+          "27",
+          "3",
+          "CAFETALITO",
+          "2",
+          "55",
+          "29",
+          "26",
+          "3",
+          "CANDELARIA",
+          "5",
+          "490",
+          "252",
+          "238",
+          "22",
+          "COLMENITAS",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1",
+          "DOS AGUADAS",
+          "2",
+          "38",
+          "20",
+          "18",
+          "2",
+          "DZIUCHÉ",
+          "6",
+          "946",
+          "471",
+          "475",
+          "87",
+          "EL MARTIRIO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "EL NARANJAL",
+          "4",
+          "304",
+          "163",
+          "141",
+          "16",
+          "EL TRIUNFO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2",
+          "GAVILANES",
+          "4",
+          "171",
+          "89",
+          "82",
+          "11",
+          "HUAY MAX",
+          "4",
+          "445",
+          "206",
+          "239",
+          "19",
+          "INSURGENTES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "JOSÉ MARÍA MORELOS",
+          "20",
+          "4,125",
+          "2,031",
+          "2,094",
+          "176",
+          "KANCABCHÉN",
+          "5",
+          "389",
+          "209",
+          "180",
+          "19",
+          "KANTEMÓ",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3",
+          "LA CAROLINA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2",
+          "LA ESPERANZA",
+          "5",
+          "295",
+          "143",
+          "152",
+          "16",
+          "LA PIMIENTITA",
+          "3",
+          "76",
+          "36",
+          "40",
+          "4",
+          "LA PRESUMIDA",
+          "4",
+          "1,171",
+          "622",
+          "549",
+          "42",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4",
+          "LOS LAGARTOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "NUEVA REFORMA",
+          "3",
+          "84",
+          "33",
+          "51",
+          "4",
+          "NUEVO PLAN DE LA NORIA",
+          "2",
+          "75",
+          "32",
+          "43",
+          "3",
+          "NUEVO SAN MARCOS",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4",
+          "OTHÓN P. BLANCO",
+          "3",
+          "161",
+          "80",
+          "81",
+          "10",
+          "PEDRO MORENO",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "PIEDRAS NEGRAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2",
+          "PLAN DE LA NORIA PONIENTE",
+          "4",
+          "120",
+          "58",
+          "62",
+          "9",
+          "POZO PIRATA",
+          "4",
+          "58",
+          "28",
+          "30",
+          "5",
+          "PUERTO ARTURO",
+          "4",
+          "224",
+          "111",
+          "113",
+          "14",
+          "SABÁN",
+          "7",
+          "1,038",
+          "506",
+          "532",
+          "43",
+          "SABANA SAN FRANCISCO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "SACALACA",
+          "5",
+          "320",
+          "144",
+          "176",
+          "18",
+          "SACZUQUIL",
+          "3",
+          "101",
+          "47",
+          "54",
+          "4",
+          "SAN ANTONIO TUK",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3",
+          "SAN CARLOS",
+          "3",
+          "42",
+          "27",
+          "15",
+          "3",
+          "SAN DIEGO",
+          "4",
+          "248",
+          "136",
+          "112",
+          "12",
+          "SAN FELIPE ORIENTE",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3",
+          "SAN FELIPE PRIMERO",
+          "4",
+          "282",
+          "153",
+          "129",
+          "16",
+          "SAN FELIPE SEGUNDO",
+          "2",
+          "66",
+          "26",
+          "40",
+          "4",
+          "SAN ISIDRO PONIENTE",
+          "3",
+          "57",
+          "28",
+          "29",
+          "4",
+          "SAN JUAN ORIENTE",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2",
+          "SANTA GERTRUDIS",
+          "4",
+          "282",
+          "134",
+          "148",
+          "14",
+          "TABASCO",
+          "3",
+          "74",
+          "33",
+          "41",
+          "4",
+          "VENUSTIANO CARRANZA",
+          "3",
+          "76",
+          "29",
+          "47",
+          "4",
+          "X-CABIL",
+          "4",
+          "350",
+          "168",
+          "182",
+          "16",
+          "XNOH CRUZ",
+          "2",
+          "61",
+          "23",
+          "38",
+          "3",
+          "X-QUEROL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "ZAFARRANCHO",
+          "4",
+          "144",
+          "62",
+          "82",
+          "7",
+          "TOTAL",
+          "184",
+          "13,198",
+          "6,531",
+          "6,667",
+          "676",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: JOSÉ MARÍA MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO DE LA HUERTA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "120",
+          "51",
+          "69",
+          "8"
+        ],
+        [
+          "AGUADA LA PRESUMIDA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "BULUKAX",
+          "3",
+          "160",
+          "79",
+          "81",
+          "8"
+        ],
+        [
+          "CAFETAL GRANDE",
+          "2",
+          "57",
+          "30",
+          "27",
+          "3"
+        ],
+        [
+          "CAFETALITO",
+          "2",
+          "55",
+          "29",
+          "26",
+          "3"
+        ],
+        [
+          "CANDELARIA",
+          "5",
+          "490",
+          "252",
+          "238",
+          "22"
+        ],
+        [
+          "COLMENITAS",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "DOS AGUADAS",
+          "2",
+          "38",
+          "20",
+          "18",
+          "2"
+        ],
+        [
+          "DZIUCHÉ",
+          "6",
+          "946",
+          "471",
+          "475",
+          "87"
+        ],
+        [
+          "EL MARTIRIO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL NARANJAL",
+          "4",
+          "304",
+          "163",
+          "141",
+          "16"
+        ],
+        [
+          "EL TRIUNFO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "GAVILANES",
+          "4",
+          "171",
+          "89",
+          "82",
+          "11"
+        ],
+        [
+          "HUAY MAX",
+          "4",
+          "445",
+          "206",
+          "239",
+          "19"
+        ],
+        [
+          "INSURGENTES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "20",
+          "4,125",
+          "2,031",
+          "2,094",
+          "176"
+        ],
+        [
+          "KANCABCHÉN",
+          "5",
+          "389",
+          "209",
+          "180",
+          "19"
+        ],
+        [
+          "KANTEMÓ",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "LA CAROLINA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "5",
+          "295",
+          "143",
+          "152",
+          "16"
+        ],
+        [
+          "LA PIMIENTITA",
+          "3",
+          "76",
+          "36",
+          "40",
+          "4"
+        ],
+        [
+          "LA PRESUMIDA",
+          "4",
+          "1,171",
+          "622",
+          "549",
+          "42"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "LOS LAGARTOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "NUEVA REFORMA",
+          "3",
+          "84",
+          "33",
+          "51",
+          "4"
+        ],
+        [
+          "NUEVO PLAN DE LA NORIA",
+          "2",
+          "75",
+          "32",
+          "43",
+          "3"
+        ],
+        [
+          "NUEVO SAN MARCOS",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4"
+        ],
+        [
+          "OTHÓN P. BLANCO",
+          "3",
+          "161",
+          "80",
+          "81",
+          "10"
+        ],
+        [
+          "PEDRO MORENO",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "PLAN DE LA NORIA PONIENTE",
+          "4",
+          "120",
+          "58",
+          "62",
+          "9"
+        ],
+        [
+          "POZO PIRATA",
+          "4",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "PUERTO ARTURO",
+          "4",
+          "224",
+          "111",
+          "113",
+          "14"
+        ],
+        [
+          "SABÁN",
+          "7",
+          "1,038",
+          "506",
+          "532",
+          "43"
+        ],
+        [
+          "SABANA SAN FRANCISCO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "SACALACA",
+          "5",
+          "320",
+          "144",
+          "176",
+          "18"
+        ],
+        [
+          "SACZUQUIL",
+          "3",
+          "101",
+          "47",
+          "54",
+          "4"
+        ],
+        [
+          "SAN ANTONIO TUK",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "42",
+          "27",
+          "15",
+          "3"
+        ],
+        [
+          "SAN DIEGO",
+          "4",
+          "248",
+          "136",
+          "112",
+          "12"
+        ],
+        [
+          "SAN FELIPE ORIENTE",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "SAN FELIPE PRIMERO",
+          "4",
+          "282",
+          "153",
+          "129",
+          "16"
+        ],
+        [
+          "SAN FELIPE SEGUNDO",
+          "2",
+          "66",
+          "26",
+          "40",
+          "4"
+        ],
+        [
+          "SAN ISIDRO PONIENTE",
+          "3",
+          "57",
+          "28",
+          "29",
+          "4"
+        ],
+        [
+          "SAN JUAN ORIENTE",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "4",
+          "282",
+          "134",
+          "148",
+          "14"
+        ],
+        [
+          "TABASCO",
+          "3",
+          "74",
+          "33",
+          "41",
+          "4"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "3",
+          "76",
+          "29",
+          "47",
+          "4"
+        ],
+        [
+          "X-CABIL",
+          "4",
+          "350",
+          "168",
+          "182",
+          "16"
+        ],
+        [
+          "XNOH CRUZ",
+          "2",
+          "61",
+          "23",
+          "38",
+          "3"
+        ],
+        [
+          "X-QUEROL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "ZAFARRANCHO",
+          "4",
+          "144",
+          "62",
+          "82",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "184",
+          "13,198",
+          "6,531",
+          "6,667",
+          "676"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: JOSÉ MARÍA MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO DE LA HUERTA",
+          "1",
+          "13",
+          "4",
+          "9",
+          "1"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "4",
+          "120",
+          "51",
+          "69",
+          "8"
+        ],
+        [
+          "AGUADA LA PRESUMIDA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "1",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "BULUKAX",
+          "3",
+          "160",
+          "79",
+          "81",
+          "8"
+        ],
+        [
+          "CAFETAL GRANDE",
+          "2",
+          "57",
+          "30",
+          "27",
+          "3"
+        ],
+        [
+          "CAFETALITO",
+          "2",
+          "55",
+          "29",
+          "26",
+          "3"
+        ],
+        [
+          "CANDELARIA",
+          "5",
+          "490",
+          "252",
+          "238",
+          "22"
+        ],
+        [
+          "COLMENITAS",
+          "2",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "DOS AGUADAS",
+          "2",
+          "38",
+          "20",
+          "18",
+          "2"
+        ],
+        [
+          "DZIUCHÉ",
+          "6",
+          "946",
+          "471",
+          "475",
+          "87"
+        ],
+        [
+          "EL MARTIRIO",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "EL NARANJAL",
+          "4",
+          "304",
+          "163",
+          "141",
+          "16"
+        ],
+        [
+          "EL TRIUNFO",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "GAVILANES",
+          "4",
+          "171",
+          "89",
+          "82",
+          "11"
+        ],
+        [
+          "HUAY MAX",
+          "4",
+          "445",
+          "206",
+          "239",
+          "19"
+        ],
+        [
+          "INSURGENTES",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS",
+          "20",
+          "4,125",
+          "2,031",
+          "2,094",
+          "176"
+        ],
+        [
+          "KANCABCHÉN",
+          "5",
+          "389",
+          "209",
+          "180",
+          "19"
+        ],
+        [
+          "KANTEMÓ",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "LA CAROLINA",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "5",
+          "295",
+          "143",
+          "152",
+          "16"
+        ],
+        [
+          "LA PIMIENTITA",
+          "3",
+          "76",
+          "36",
+          "40",
+          "4"
+        ],
+        [
+          "LA PRESUMIDA",
+          "4",
+          "1,171",
+          "622",
+          "549",
+          "42"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "LOS LAGARTOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "NUEVA REFORMA",
+          "3",
+          "84",
+          "33",
+          "51",
+          "4"
+        ],
+        [
+          "NUEVO PLAN DE LA NORIA",
+          "2",
+          "75",
+          "32",
+          "43",
+          "3"
+        ],
+        [
+          "NUEVO SAN MARCOS",
+          "3",
+          "37",
+          "19",
+          "18",
+          "4"
+        ],
+        [
+          "OTHÓN P. BLANCO",
+          "3",
+          "161",
+          "80",
+          "81",
+          "10"
+        ],
+        [
+          "PEDRO MORENO",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "PLAN DE LA NORIA PONIENTE",
+          "4",
+          "120",
+          "58",
+          "62",
+          "9"
+        ],
+        [
+          "POZO PIRATA",
+          "4",
+          "58",
+          "28",
+          "30",
+          "5"
+        ],
+        [
+          "PUERTO ARTURO",
+          "4",
+          "224",
+          "111",
+          "113",
+          "14"
+        ],
+        [
+          "SABÁN",
+          "7",
+          "1,038",
+          "506",
+          "532",
+          "43"
+        ],
+        [
+          "SABANA SAN FRANCISCO",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "SACALACA",
+          "5",
+          "320",
+          "144",
+          "176",
+          "18"
+        ],
+        [
+          "SACZUQUIL",
+          "3",
+          "101",
+          "47",
+          "54",
+          "4"
+        ],
+        [
+          "SAN ANTONIO TUK",
+          "3",
+          "51",
+          "23",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "42",
+          "27",
+          "15",
+          "3"
+        ],
+        [
+          "SAN DIEGO",
+          "4",
+          "248",
+          "136",
+          "112",
+          "12"
+        ],
+        [
+          "SAN FELIPE ORIENTE",
+          "2",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "SAN FELIPE PRIMERO",
+          "4",
+          "282",
+          "153",
+          "129",
+          "16"
+        ],
+        [
+          "SAN FELIPE SEGUNDO",
+          "2",
+          "66",
+          "26",
+          "40",
+          "4"
+        ],
+        [
+          "SAN ISIDRO PONIENTE",
+          "3",
+          "57",
+          "28",
+          "29",
+          "4"
+        ],
+        [
+          "SAN JUAN ORIENTE",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "4",
+          "282",
+          "134",
+          "148",
+          "14"
+        ],
+        [
+          "TABASCO",
+          "3",
+          "74",
+          "33",
+          "41",
+          "4"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "3",
+          "76",
+          "29",
+          "47",
+          "4"
+        ],
+        [
+          "X-CABIL",
+          "4",
+          "350",
+          "168",
+          "182",
+          "16"
+        ],
+        [
+          "XNOH CRUZ",
+          "2",
+          "61",
+          "23",
+          "38",
+          "3"
+        ],
+        [
+          "X-QUEROL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "ZAFARRANCHO",
+          "4",
+          "144",
+          "62",
+          "82",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "184",
+          "13,198",
+          "6,531",
+          "6,667",
+          "676"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:27:51.317Z"
+}

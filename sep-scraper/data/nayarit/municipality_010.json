@@ -1,0 +1,912 @@
+{
+  "municipality": "ROSAMORADA",
+  "municipalityCode": "010",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ROSAMORADA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tABELARDO L. RODRÍGUEZ (AMAPA)\n\t\t2\n\t\t36\n\t\t16\n\t\t20\n\t\t2\n\t\n\t\n\t\tAGUA ACEDA\n\t\t3\n\t\t76\n\t\t30\n\t\t46\n\t\t5\n\t\n\t\n\t\tBONITA\n\t\t2\n\t\t18\n\t\t6\n\t\t12\n\t\t2\n\t\n\t\n\t\tCHILAPA\n\t\t4\n\t\t342\n\t\t174\n\t\t168\n\t\t20\n\t\n\t\n\t\tCOFRADÍA DE CUYUTLÁN\n\t\t6\n\t\t389\n\t\t202\n\t\t187\n\t\t21\n\t\n\t\n\t\tCOLONIAS 18 DE MARZO\n\t\t3\n\t\t217\n\t\t99\n\t\t118\n\t\t18\n\t\n\t\n\t\tCOYOTES\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL OCHENTA\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL TAMARINDO\n\t\t4\n\t\t296\n\t\t131\n\t\t165\n\t\t20\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t3\n\t\t169\n\t\t73\n\t\t96\n\t\t12\n\t\n\t\n\t\tLA BOQUITA\n\t\t3\n\t\t99\n\t\t49\n\t\t50\n\t\t6\n\t\n\t\n\t\tLA LOMA\n\t\t2\n\t\t23\n\t\t7\n\t\t16\n\t\t2\n\t\n\t\n\t\tLAS PILAS\n\t\t3\n\t\t160\n\t\t73\n\t\t87\n\t\t8\n\t\n\t\n\t\tLLANO DEL TIGRE\n\t\t4\n\t\t248\n\t\t129\n\t\t119\n\t\t14\n\t\n\t\n\t\tLOS ARRAYANES\n\t\t3\n\t\t74\n\t\t31\n\t\t43\n\t\t5\n\t\n\t\n\t\tLOS LEANDROS\n\t\t3\n\t\t80\n\t\t35\n\t\t45\n\t\t5\n\t\n\t\n\t\tLOS MEDINA\n\t\t4\n\t\t145\n\t\t72\n\t\t73\n\t\t11\n\t\n\t\n\t\tMINITAS\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tMOJOCUAUTLA (ADJUNTAS)\n\t\t4\n\t\t194\n\t\t112\n\t\t82\n\t\t13\n\t\n\t\n\t\tPARAMITA\n\t\t3\n\t\t171\n\t\t91\n\t\t80\n\t\t11\n\t\n\t\n\t\tPASO REAL DEL BEJUCO\n\t\t3\n\t\t80\n\t\t37\n\t\t43\n\t\t6\n\t\n\t\n\t\tPERICOS\n\t\t3\n\t\t313\n\t\t159\n\t\t154\n\t\t28\n\t\n\t\n\t\tPESCADERO\n\t\t5\n\t\t263\n\t\t128\n\t\t135\n\t\t17\n\t\n\t\n\t\tPIMIENTILLO\n\t\t4\n\t\t344\n\t\t152\n\t\t192\n\t\t23\n\t\n\t\n\t\tPROVIDENCIA\n\t\t3\n\t\t79\n\t\t37\n\t\t42\n\t\t5\n\t\n\t\n\t\tPUENTE EL BEJUCO (EL CAPRICHO)\n\t\t2\n\t\t22\n\t\t16\n\t\t6\n\t\t2\n\t\n\t\n\t\tROSAMORADA\n\t\t10\n\t\t1,237\n\t\t627\n\t\t610\n\t\t100\n\t\n\t\n\t\tROSARITO\n\t\t3\n\t\t103\n\t\t58\n\t\t45\n\t\t6\n\t\n\t\n\t\tSAN DIEGO DEL NARANJO\n\t\t4\n\t\t202\n\t\t101\n\t\t101\n\t\t13\n\t\n\t\n\t\tSAN JUAN BAUTISTA\n\t\t5\n\t\t390\n\t\t205\n\t\t185\n\t\t22\n\t\n\t\n\t\tSAN JUAN CORAPAN\n\t\t3\n\t\t200\n\t\t97\n\t\t103\n\t\t10\n\t\n\t\n\t\tSAN MIGUELITO\n\t\t3\n\t\t134\n\t\t62\n\t\t72\n\t\t8\n\t\n\t\n\t\tSAN VICENTE\n\t\t6\n\t\t1,240\n\t\t660\n\t\t580\n\t\t99\n\t\n\t\n\t\tSANTA FE\n\t\t3\n\t\t98\n\t\t48\n\t\t50\n\t\t7\n\t\n\t\n\t\tTEPONAHUAXTLA (HUAIXTA)\n\t\t4\n\t\t240\n\t\t124\n\t\t116\n\t\t14\n\t\n\t\n\t\tVICENTE GUERRERO (EL MOGOTE)\n\t\t3\n\t\t80\n\t\t32\n\t\t48\n\t\t5\n\t\n\t\n\t\tZOMATLÁN DEL CAIMANERO\n\t\t3\n\t\t152\n\t\t74\n\t\t78\n\t\t9\n\t\n\t\n\t\tTOTAL\n\t\t129\n\t\t7,952\n\t\t3,965\n\t\t3,987\n\t\t554\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ROSAMORADA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ABELARDO L. RODRÍGUEZ (AMAPA)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2",
+          "AGUA ACEDA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5",
+          "BONITA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2",
+          "CHILAPA",
+          "4",
+          "342",
+          "174",
+          "168",
+          "20",
+          "COFRADÍA DE CUYUTLÁN",
+          "6",
+          "389",
+          "202",
+          "187",
+          "21",
+          "COLONIAS 18 DE MARZO",
+          "3",
+          "217",
+          "99",
+          "118",
+          "18",
+          "COYOTES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL OCHENTA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EL TAMARINDO",
+          "4",
+          "296",
+          "131",
+          "165",
+          "20",
+          "FRANCISCO VILLA",
+          "3",
+          "169",
+          "73",
+          "96",
+          "12",
+          "LA BOQUITA",
+          "3",
+          "99",
+          "49",
+          "50",
+          "6",
+          "LA LOMA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "2",
+          "LAS PILAS",
+          "3",
+          "160",
+          "73",
+          "87",
+          "8",
+          "LLANO DEL TIGRE",
+          "4",
+          "248",
+          "129",
+          "119",
+          "14",
+          "LOS ARRAYANES",
+          "3",
+          "74",
+          "31",
+          "43",
+          "5",
+          "LOS LEANDROS",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5",
+          "LOS MEDINA",
+          "4",
+          "145",
+          "72",
+          "73",
+          "11",
+          "MINITAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "MOJOCUAUTLA (ADJUNTAS)",
+          "4",
+          "194",
+          "112",
+          "82",
+          "13",
+          "PARAMITA",
+          "3",
+          "171",
+          "91",
+          "80",
+          "11",
+          "PASO REAL DEL BEJUCO",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6",
+          "PERICOS",
+          "3",
+          "313",
+          "159",
+          "154",
+          "28",
+          "PESCADERO",
+          "5",
+          "263",
+          "128",
+          "135",
+          "17",
+          "PIMIENTILLO",
+          "4",
+          "344",
+          "152",
+          "192",
+          "23",
+          "PROVIDENCIA",
+          "3",
+          "79",
+          "37",
+          "42",
+          "5",
+          "PUENTE EL BEJUCO (EL CAPRICHO)",
+          "2",
+          "22",
+          "16",
+          "6",
+          "2",
+          "ROSAMORADA",
+          "10",
+          "1,237",
+          "627",
+          "610",
+          "100",
+          "ROSARITO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "6",
+          "SAN DIEGO DEL NARANJO",
+          "4",
+          "202",
+          "101",
+          "101",
+          "13",
+          "SAN JUAN BAUTISTA",
+          "5",
+          "390",
+          "205",
+          "185",
+          "22",
+          "SAN JUAN CORAPAN",
+          "3",
+          "200",
+          "97",
+          "103",
+          "10",
+          "SAN MIGUELITO",
+          "3",
+          "134",
+          "62",
+          "72",
+          "8",
+          "SAN VICENTE",
+          "6",
+          "1,240",
+          "660",
+          "580",
+          "99",
+          "SANTA FE",
+          "3",
+          "98",
+          "48",
+          "50",
+          "7",
+          "TEPONAHUAXTLA (HUAIXTA)",
+          "4",
+          "240",
+          "124",
+          "116",
+          "14",
+          "VICENTE GUERRERO (EL MOGOTE)",
+          "3",
+          "80",
+          "32",
+          "48",
+          "5",
+          "ZOMATLÁN DEL CAIMANERO",
+          "3",
+          "152",
+          "74",
+          "78",
+          "9",
+          "TOTAL",
+          "129",
+          "7,952",
+          "3,965",
+          "3,987",
+          "554",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ROSAMORADA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ (AMAPA)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2"
+        ],
+        [
+          "AGUA ACEDA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5"
+        ],
+        [
+          "BONITA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "CHILAPA",
+          "4",
+          "342",
+          "174",
+          "168",
+          "20"
+        ],
+        [
+          "COFRADÍA DE CUYUTLÁN",
+          "6",
+          "389",
+          "202",
+          "187",
+          "21"
+        ],
+        [
+          "COLONIAS 18 DE MARZO",
+          "3",
+          "217",
+          "99",
+          "118",
+          "18"
+        ],
+        [
+          "COYOTES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL OCHENTA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL TAMARINDO",
+          "4",
+          "296",
+          "131",
+          "165",
+          "20"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "169",
+          "73",
+          "96",
+          "12"
+        ],
+        [
+          "LA BOQUITA",
+          "3",
+          "99",
+          "49",
+          "50",
+          "6"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "3",
+          "160",
+          "73",
+          "87",
+          "8"
+        ],
+        [
+          "LLANO DEL TIGRE",
+          "4",
+          "248",
+          "129",
+          "119",
+          "14"
+        ],
+        [
+          "LOS ARRAYANES",
+          "3",
+          "74",
+          "31",
+          "43",
+          "5"
+        ],
+        [
+          "LOS LEANDROS",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5"
+        ],
+        [
+          "LOS MEDINA",
+          "4",
+          "145",
+          "72",
+          "73",
+          "11"
+        ],
+        [
+          "MINITAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "MOJOCUAUTLA (ADJUNTAS)",
+          "4",
+          "194",
+          "112",
+          "82",
+          "13"
+        ],
+        [
+          "PARAMITA",
+          "3",
+          "171",
+          "91",
+          "80",
+          "11"
+        ],
+        [
+          "PASO REAL DEL BEJUCO",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6"
+        ],
+        [
+          "PERICOS",
+          "3",
+          "313",
+          "159",
+          "154",
+          "28"
+        ],
+        [
+          "PESCADERO",
+          "5",
+          "263",
+          "128",
+          "135",
+          "17"
+        ],
+        [
+          "PIMIENTILLO",
+          "4",
+          "344",
+          "152",
+          "192",
+          "23"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "79",
+          "37",
+          "42",
+          "5"
+        ],
+        [
+          "PUENTE EL BEJUCO (EL CAPRICHO)",
+          "2",
+          "22",
+          "16",
+          "6",
+          "2"
+        ],
+        [
+          "ROSAMORADA",
+          "10",
+          "1,237",
+          "627",
+          "610",
+          "100"
+        ],
+        [
+          "ROSARITO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "6"
+        ],
+        [
+          "SAN DIEGO DEL NARANJO",
+          "4",
+          "202",
+          "101",
+          "101",
+          "13"
+        ],
+        [
+          "SAN JUAN BAUTISTA",
+          "5",
+          "390",
+          "205",
+          "185",
+          "22"
+        ],
+        [
+          "SAN JUAN CORAPAN",
+          "3",
+          "200",
+          "97",
+          "103",
+          "10"
+        ],
+        [
+          "SAN MIGUELITO",
+          "3",
+          "134",
+          "62",
+          "72",
+          "8"
+        ],
+        [
+          "SAN VICENTE",
+          "6",
+          "1,240",
+          "660",
+          "580",
+          "99"
+        ],
+        [
+          "SANTA FE",
+          "3",
+          "98",
+          "48",
+          "50",
+          "7"
+        ],
+        [
+          "TEPONAHUAXTLA (HUAIXTA)",
+          "4",
+          "240",
+          "124",
+          "116",
+          "14"
+        ],
+        [
+          "VICENTE GUERRERO (EL MOGOTE)",
+          "3",
+          "80",
+          "32",
+          "48",
+          "5"
+        ],
+        [
+          "ZOMATLÁN DEL CAIMANERO",
+          "3",
+          "152",
+          "74",
+          "78",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "129",
+          "7,952",
+          "3,965",
+          "3,987",
+          "554"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: ROSAMORADA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ (AMAPA)",
+          "2",
+          "36",
+          "16",
+          "20",
+          "2"
+        ],
+        [
+          "AGUA ACEDA",
+          "3",
+          "76",
+          "30",
+          "46",
+          "5"
+        ],
+        [
+          "BONITA",
+          "2",
+          "18",
+          "6",
+          "12",
+          "2"
+        ],
+        [
+          "CHILAPA",
+          "4",
+          "342",
+          "174",
+          "168",
+          "20"
+        ],
+        [
+          "COFRADÍA DE CUYUTLÁN",
+          "6",
+          "389",
+          "202",
+          "187",
+          "21"
+        ],
+        [
+          "COLONIAS 18 DE MARZO",
+          "3",
+          "217",
+          "99",
+          "118",
+          "18"
+        ],
+        [
+          "COYOTES",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL OCHENTA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL TAMARINDO",
+          "4",
+          "296",
+          "131",
+          "165",
+          "20"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "169",
+          "73",
+          "96",
+          "12"
+        ],
+        [
+          "LA BOQUITA",
+          "3",
+          "99",
+          "49",
+          "50",
+          "6"
+        ],
+        [
+          "LA LOMA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "2"
+        ],
+        [
+          "LAS PILAS",
+          "3",
+          "160",
+          "73",
+          "87",
+          "8"
+        ],
+        [
+          "LLANO DEL TIGRE",
+          "4",
+          "248",
+          "129",
+          "119",
+          "14"
+        ],
+        [
+          "LOS ARRAYANES",
+          "3",
+          "74",
+          "31",
+          "43",
+          "5"
+        ],
+        [
+          "LOS LEANDROS",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5"
+        ],
+        [
+          "LOS MEDINA",
+          "4",
+          "145",
+          "72",
+          "73",
+          "11"
+        ],
+        [
+          "MINITAS",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "MOJOCUAUTLA (ADJUNTAS)",
+          "4",
+          "194",
+          "112",
+          "82",
+          "13"
+        ],
+        [
+          "PARAMITA",
+          "3",
+          "171",
+          "91",
+          "80",
+          "11"
+        ],
+        [
+          "PASO REAL DEL BEJUCO",
+          "3",
+          "80",
+          "37",
+          "43",
+          "6"
+        ],
+        [
+          "PERICOS",
+          "3",
+          "313",
+          "159",
+          "154",
+          "28"
+        ],
+        [
+          "PESCADERO",
+          "5",
+          "263",
+          "128",
+          "135",
+          "17"
+        ],
+        [
+          "PIMIENTILLO",
+          "4",
+          "344",
+          "152",
+          "192",
+          "23"
+        ],
+        [
+          "PROVIDENCIA",
+          "3",
+          "79",
+          "37",
+          "42",
+          "5"
+        ],
+        [
+          "PUENTE EL BEJUCO (EL CAPRICHO)",
+          "2",
+          "22",
+          "16",
+          "6",
+          "2"
+        ],
+        [
+          "ROSAMORADA",
+          "10",
+          "1,237",
+          "627",
+          "610",
+          "100"
+        ],
+        [
+          "ROSARITO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "6"
+        ],
+        [
+          "SAN DIEGO DEL NARANJO",
+          "4",
+          "202",
+          "101",
+          "101",
+          "13"
+        ],
+        [
+          "SAN JUAN BAUTISTA",
+          "5",
+          "390",
+          "205",
+          "185",
+          "22"
+        ],
+        [
+          "SAN JUAN CORAPAN",
+          "3",
+          "200",
+          "97",
+          "103",
+          "10"
+        ],
+        [
+          "SAN MIGUELITO",
+          "3",
+          "134",
+          "62",
+          "72",
+          "8"
+        ],
+        [
+          "SAN VICENTE",
+          "6",
+          "1,240",
+          "660",
+          "580",
+          "99"
+        ],
+        [
+          "SANTA FE",
+          "3",
+          "98",
+          "48",
+          "50",
+          "7"
+        ],
+        [
+          "TEPONAHUAXTLA (HUAIXTA)",
+          "4",
+          "240",
+          "124",
+          "116",
+          "14"
+        ],
+        [
+          "VICENTE GUERRERO (EL MOGOTE)",
+          "3",
+          "80",
+          "32",
+          "48",
+          "5"
+        ],
+        [
+          "ZOMATLÁN DEL CAIMANERO",
+          "3",
+          "152",
+          "74",
+          "78",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "129",
+          "7,952",
+          "3,965",
+          "3,987",
+          "554"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:07.138Z"
+}

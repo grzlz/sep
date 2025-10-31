@@ -1,0 +1,384 @@
+{
+  "municipality": "COMALA",
+  "municipalityCode": "003",
+  "state": "COLIMA",
+  "stateCode": "6",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGOSTO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tCAMPO CUATRO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tCOFRADÍA DE SUCHITLÁN\n\t\t3\n\t\t291\n\t\t147\n\t\t144\n\t\t18\n\t\n\t\n\t\tCOMALA\n\t\t16\n\t\t2,745\n\t\t1,382\n\t\t1,363\n\t\t224\n\t\n\t\n\t\tEL REMUDADERO\n\t\t2\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA BECERRERA\n\t\t3\n\t\t45\n\t\t25\n\t\t20\n\t\t5\n\t\n\t\n\t\tLA CAJA\n\t\t4\n\t\t223\n\t\t100\n\t\t123\n\t\t15\n\t\n\t\n\t\tLA LOMA DEL CAMICHÍN\n\t\t3\n\t\t14\n\t\t5\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA NOGALERA\n\t\t3\n\t\t83\n\t\t38\n\t\t45\n\t\t7\n\t\n\t\n\t\tLOS COLOMOS\n\t\t4\n\t\t102\n\t\t43\n\t\t59\n\t\t7\n\t\n\t\n\t\tNOGUERAS\n\t\t1\n\t\t59\n\t\t24\n\t\t35\n\t\t4\n\t\n\t\n\t\tSUCHITLÁN\n\t\t6\n\t\t1,154\n\t\t570\n\t\t584\n\t\t71\n\t\n\t\n\t\tZACUALPAN\n\t\t4\n\t\t483\n\t\t259\n\t\t224\n\t\t28\n\t\n\t\n\t\tTOTAL\n\t\t52\n\t\t5,272\n\t\t2,633\n\t\t2,639\n\t\t388\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGOSTO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "CAMPO CUATRO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "COFRADÍA DE SUCHITLÁN",
+          "3",
+          "291",
+          "147",
+          "144",
+          "18",
+          "COMALA",
+          "16",
+          "2,745",
+          "1,382",
+          "1,363",
+          "224",
+          "EL REMUDADERO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3",
+          "LA BECERRERA",
+          "3",
+          "45",
+          "25",
+          "20",
+          "5",
+          "LA CAJA",
+          "4",
+          "223",
+          "100",
+          "123",
+          "15",
+          "LA LOMA DEL CAMICHÍN",
+          "3",
+          "14",
+          "5",
+          "9",
+          "3",
+          "LA NOGALERA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7",
+          "LOS COLOMOS",
+          "4",
+          "102",
+          "43",
+          "59",
+          "7",
+          "NOGUERAS",
+          "1",
+          "59",
+          "24",
+          "35",
+          "4",
+          "SUCHITLÁN",
+          "6",
+          "1,154",
+          "570",
+          "584",
+          "71",
+          "ZACUALPAN",
+          "4",
+          "483",
+          "259",
+          "224",
+          "28",
+          "TOTAL",
+          "52",
+          "5,272",
+          "2,633",
+          "2,639",
+          "388",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGOSTO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "CAMPO CUATRO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "COFRADÍA DE SUCHITLÁN",
+          "3",
+          "291",
+          "147",
+          "144",
+          "18"
+        ],
+        [
+          "COMALA",
+          "16",
+          "2,745",
+          "1,382",
+          "1,363",
+          "224"
+        ],
+        [
+          "EL REMUDADERO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "LA BECERRERA",
+          "3",
+          "45",
+          "25",
+          "20",
+          "5"
+        ],
+        [
+          "LA CAJA",
+          "4",
+          "223",
+          "100",
+          "123",
+          "15"
+        ],
+        [
+          "LA LOMA DEL CAMICHÍN",
+          "3",
+          "14",
+          "5",
+          "9",
+          "3"
+        ],
+        [
+          "LA NOGALERA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7"
+        ],
+        [
+          "LOS COLOMOS",
+          "4",
+          "102",
+          "43",
+          "59",
+          "7"
+        ],
+        [
+          "NOGUERAS",
+          "1",
+          "59",
+          "24",
+          "35",
+          "4"
+        ],
+        [
+          "SUCHITLÁN",
+          "6",
+          "1,154",
+          "570",
+          "584",
+          "71"
+        ],
+        [
+          "ZACUALPAN",
+          "4",
+          "483",
+          "259",
+          "224",
+          "28"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "5,272",
+          "2,633",
+          "2,639",
+          "388"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: COMALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGOSTO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "CAMPO CUATRO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "COFRADÍA DE SUCHITLÁN",
+          "3",
+          "291",
+          "147",
+          "144",
+          "18"
+        ],
+        [
+          "COMALA",
+          "16",
+          "2,745",
+          "1,382",
+          "1,363",
+          "224"
+        ],
+        [
+          "EL REMUDADERO",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "LA BECERRERA",
+          "3",
+          "45",
+          "25",
+          "20",
+          "5"
+        ],
+        [
+          "LA CAJA",
+          "4",
+          "223",
+          "100",
+          "123",
+          "15"
+        ],
+        [
+          "LA LOMA DEL CAMICHÍN",
+          "3",
+          "14",
+          "5",
+          "9",
+          "3"
+        ],
+        [
+          "LA NOGALERA",
+          "3",
+          "83",
+          "38",
+          "45",
+          "7"
+        ],
+        [
+          "LOS COLOMOS",
+          "4",
+          "102",
+          "43",
+          "59",
+          "7"
+        ],
+        [
+          "NOGUERAS",
+          "1",
+          "59",
+          "24",
+          "35",
+          "4"
+        ],
+        [
+          "SUCHITLÁN",
+          "6",
+          "1,154",
+          "570",
+          "584",
+          "71"
+        ],
+        [
+          "ZACUALPAN",
+          "4",
+          "483",
+          "259",
+          "224",
+          "28"
+        ],
+        [
+          "TOTAL",
+          "52",
+          "5,272",
+          "2,633",
+          "2,639",
+          "388"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:48.016Z"
+}

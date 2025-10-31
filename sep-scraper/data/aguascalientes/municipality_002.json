@@ -1,0 +1,1154 @@
+{
+  "municipality": "ASIENTOS",
+  "municipalityCode": "002",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: ASIENTOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMARILLAS DE ESPARZA\n\t\t4\n\t\t268\n\t\t143\n\t\t125\n\t\t12\n\t\n\t\n\t\tASIENTOS\n\t\t6\n\t\t1,720\n\t\t893\n\t\t827\n\t\t68\n\t\n\t\n\t\tBIMBALETES AGUASCALIENTES (EL ÁLAMO)\n\t\t4\n\t\t540\n\t\t263\n\t\t277\n\t\t21\n\t\n\t\n\t\tBIMBALETES ATLAS (TANQUE DE LA VIEJA)\n\t\t2\n\t\t220\n\t\t109\n\t\t111\n\t\t9\n\t\n\t\n\t\tCALDERA\n\t\t1\n\t\t76\n\t\t38\n\t\t38\n\t\t3\n\t\n\t\n\t\tCHARCO AZUL\n\t\t2\n\t\t57\n\t\t27\n\t\t30\n\t\t2\n\t\n\t\n\t\tCIÉNEGA GRANDE\n\t\t5\n\t\t1,320\n\t\t660\n\t\t660\n\t\t59\n\t\n\t\n\t\tCLAVELLINAS\n\t\t3\n\t\t125\n\t\t65\n\t\t60\n\t\t6\n\t\n\t\n\t\tCRISÓSTOMOS\n\t\t2\n\t\t182\n\t\t91\n\t\t91\n\t\t6\n\t\n\t\n\t\tEL EPAZOTE\n\t\t2\n\t\t59\n\t\t32\n\t\t27\n\t\t3\n\t\n\t\n\t\tEL MUERTO\n\t\t3\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL POLVO\n\t\t4\n\t\t303\n\t\t146\n\t\t157\n\t\t14\n\t\n\t\n\t\tEL SALITRE\n\t\t2\n\t\t67\n\t\t34\n\t\t33\n\t\t3\n\t\n\t\n\t\tEL TEPETATILLO [RANCHO]\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL TULE\n\t\t3\n\t\t298\n\t\t147\n\t\t151\n\t\t12\n\t\n\t\n\t\tEMANCIPACIÓN (BORUNDA) [COLONIA]\n\t\t4\n\t\t215\n\t\t114\n\t\t101\n\t\t11\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t4\n\t\t241\n\t\t109\n\t\t132\n\t\t11\n\t\n\t\n\t\tGÓMEZ PORTUGAL [COLONIA]\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tGORRIONES\n\t\t4\n\t\t203\n\t\t101\n\t\t102\n\t\t9\n\t\n\t\n\t\tGUADALUPE DE ATLAS\n\t\t4\n\t\t966\n\t\t498\n\t\t468\n\t\t35\n\t\n\t\n\t\tJARILLAS\n\t\t4\n\t\t380\n\t\t173\n\t\t207\n\t\t16\n\t\n\t\n\t\tJILOTEPEC\n\t\t4\n\t\t277\n\t\t131\n\t\t146\n\t\t14\n\t\n\t\n\t\tLA DICHOSA\n\t\t4\n\t\t321\n\t\t170\n\t\t151\n\t\t14\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t61\n\t\t36\n\t\t25\n\t\t3\n\t\n\t\n\t\tLA GLORIA\n\t\t4\n\t\t176\n\t\t94\n\t\t82\n\t\t9\n\t\n\t\n\t\tLA TINAJUELA\n\t\t2\n\t\t31\n\t\t12\n\t\t19\n\t\t3\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t4\n\t\t144\n\t\t63\n\t\t81\n\t\t9\n\t\n\t\n\t\tLAS FRAGUAS\n\t\t4\n\t\t390\n\t\t180\n\t\t210\n\t\t23\n\t\n\t\n\t\tLAS NEGRITAS\n\t\t4\n\t\t177\n\t\t98\n\t\t79\n\t\t9\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t2\n\t\t319\n\t\t155\n\t\t164\n\t\t13\n\t\n\t\n\t\tLICENCIADO ADOLFO LÓPEZ MATEOS\n\t\t4\n\t\t444\n\t\t250\n\t\t194\n\t\t20\n\t\n\t\n\t\tMOLINOS\n\t\t4\n\t\t365\n\t\t208\n\t\t157\n\t\t15\n\t\n\t\n\t\tNORIA DEL BORREGO (NORIAS)\n\t\t4\n\t\t485\n\t\t237\n\t\t248\n\t\t19\n\t\n\t\n\t\tOJO DE AGUA DE LOS SAUCES\n\t\t2\n\t\t78\n\t\t37\n\t\t41\n\t\t5\n\t\n\t\n\t\tOJO DE AGUA DE ROSALES\n\t\t2\n\t\t109\n\t\t59\n\t\t50\n\t\t5\n\t\n\t\n\t\tPILOTOS\n\t\t4\n\t\t394\n\t\t201\n\t\t193\n\t\t17\n\t\n\t\n\t\tPINO SUÁREZ (RANCHO VIEJO)\n\t\t3\n\t\t99\n\t\t45\n\t\t54\n\t\t4\n\t\n\t\n\t\tPLUTARCO ELÍAS CALLES\n\t\t3\n\t\t291\n\t\t131\n\t\t160\n\t\t11\n\t\n\t\n\t\tSAN ANTONIO DE LOS MARTÍNEZ\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN GIL\n\t\t2\n\t\t138\n\t\t59\n\t\t79\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DEL RÍO\n\t\t3\n\t\t297\n\t\t137\n\t\t160\n\t\t13\n\t\n\t\n\t\tSAN PEDRO [COLONIA]\n\t\t2\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL DE OCAMPO\n\t\t4\n\t\t276\n\t\t126\n\t\t150\n\t\t16\n\t\n\t\n\t\tSAN VICENTE\n\t\t3\n\t\t95\n\t\t39\n\t\t56\n\t\t4\n\t\n\t\n\t\tTANQUE DE GUADALUPE\n\t\t2\n\t\t70\n\t\t31\n\t\t39\n\t\t3\n\t\n\t\n\t\tTANQUE VIEJO\n\t\t2\n\t\t88\n\t\t42\n\t\t46\n\t\t4\n\t\n\t\n\t\tVILLA JUÁREZ\n\t\t7\n\t\t2,357\n\t\t1,256\n\t\t1,101\n\t\t121\n\t\n\t\n\t\tVIUDAS DE PONIENTE\n\t\t3\n\t\t126\n\t\t61\n\t\t65\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t152\n\t\t14,934\n\t\t7,548\n\t\t7,386\n\t\t673\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: ASIENTOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMARILLAS DE ESPARZA",
+          "4",
+          "268",
+          "143",
+          "125",
+          "12",
+          "ASIENTOS",
+          "6",
+          "1,720",
+          "893",
+          "827",
+          "68",
+          "BIMBALETES AGUASCALIENTES (EL ÁLAMO)",
+          "4",
+          "540",
+          "263",
+          "277",
+          "21",
+          "BIMBALETES ATLAS (TANQUE DE LA VIEJA)",
+          "2",
+          "220",
+          "109",
+          "111",
+          "9",
+          "CALDERA",
+          "1",
+          "76",
+          "38",
+          "38",
+          "3",
+          "CHARCO AZUL",
+          "2",
+          "57",
+          "27",
+          "30",
+          "2",
+          "CIÉNEGA GRANDE",
+          "5",
+          "1,320",
+          "660",
+          "660",
+          "59",
+          "CLAVELLINAS",
+          "3",
+          "125",
+          "65",
+          "60",
+          "6",
+          "CRISÓSTOMOS",
+          "2",
+          "182",
+          "91",
+          "91",
+          "6",
+          "EL EPAZOTE",
+          "2",
+          "59",
+          "32",
+          "27",
+          "3",
+          "EL MUERTO",
+          "3",
+          "15",
+          "9",
+          "6",
+          "2",
+          "EL POLVO",
+          "4",
+          "303",
+          "146",
+          "157",
+          "14",
+          "EL SALITRE",
+          "2",
+          "67",
+          "34",
+          "33",
+          "3",
+          "EL TEPETATILLO [RANCHO]",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "EL TULE",
+          "3",
+          "298",
+          "147",
+          "151",
+          "12",
+          "EMANCIPACIÓN (BORUNDA) [COLONIA]",
+          "4",
+          "215",
+          "114",
+          "101",
+          "11",
+          "FRANCISCO VILLA",
+          "4",
+          "241",
+          "109",
+          "132",
+          "11",
+          "GÓMEZ PORTUGAL [COLONIA]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "GORRIONES",
+          "4",
+          "203",
+          "101",
+          "102",
+          "9",
+          "GUADALUPE DE ATLAS",
+          "4",
+          "966",
+          "498",
+          "468",
+          "35",
+          "JARILLAS",
+          "4",
+          "380",
+          "173",
+          "207",
+          "16",
+          "JILOTEPEC",
+          "4",
+          "277",
+          "131",
+          "146",
+          "14",
+          "LA DICHOSA",
+          "4",
+          "321",
+          "170",
+          "151",
+          "14",
+          "LA ESPERANZA",
+          "2",
+          "61",
+          "36",
+          "25",
+          "3",
+          "LA GLORIA",
+          "4",
+          "176",
+          "94",
+          "82",
+          "9",
+          "LA TINAJUELA",
+          "2",
+          "31",
+          "12",
+          "19",
+          "3",
+          "LAS ADJUNTAS",
+          "4",
+          "144",
+          "63",
+          "81",
+          "9",
+          "LAS FRAGUAS",
+          "4",
+          "390",
+          "180",
+          "210",
+          "23",
+          "LAS NEGRITAS",
+          "4",
+          "177",
+          "98",
+          "79",
+          "9",
+          "LÁZARO CÁRDENAS",
+          "2",
+          "319",
+          "155",
+          "164",
+          "13",
+          "LICENCIADO ADOLFO LÓPEZ MATEOS",
+          "4",
+          "444",
+          "250",
+          "194",
+          "20",
+          "MOLINOS",
+          "4",
+          "365",
+          "208",
+          "157",
+          "15",
+          "NORIA DEL BORREGO (NORIAS)",
+          "4",
+          "485",
+          "237",
+          "248",
+          "19",
+          "OJO DE AGUA DE LOS SAUCES",
+          "2",
+          "78",
+          "37",
+          "41",
+          "5",
+          "OJO DE AGUA DE ROSALES",
+          "2",
+          "109",
+          "59",
+          "50",
+          "5",
+          "PILOTOS",
+          "4",
+          "394",
+          "201",
+          "193",
+          "17",
+          "PINO SUÁREZ (RANCHO VIEJO)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "4",
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "291",
+          "131",
+          "160",
+          "11",
+          "SAN ANTONIO DE LOS MARTÍNEZ",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2",
+          "SAN GIL",
+          "2",
+          "138",
+          "59",
+          "79",
+          "5",
+          "SAN JOSÉ DEL RÍO",
+          "3",
+          "297",
+          "137",
+          "160",
+          "13",
+          "SAN PEDRO [COLONIA]",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2",
+          "SAN RAFAEL DE OCAMPO",
+          "4",
+          "276",
+          "126",
+          "150",
+          "16",
+          "SAN VICENTE",
+          "3",
+          "95",
+          "39",
+          "56",
+          "4",
+          "TANQUE DE GUADALUPE",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3",
+          "TANQUE VIEJO",
+          "2",
+          "88",
+          "42",
+          "46",
+          "4",
+          "VILLA JUÁREZ",
+          "7",
+          "2,357",
+          "1,256",
+          "1,101",
+          "121",
+          "VIUDAS DE PONIENTE",
+          "3",
+          "126",
+          "61",
+          "65",
+          "5",
+          "TOTAL",
+          "152",
+          "14,934",
+          "7,548",
+          "7,386",
+          "673",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: ASIENTOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMARILLAS DE ESPARZA",
+          "4",
+          "268",
+          "143",
+          "125",
+          "12"
+        ],
+        [
+          "ASIENTOS",
+          "6",
+          "1,720",
+          "893",
+          "827",
+          "68"
+        ],
+        [
+          "BIMBALETES AGUASCALIENTES (EL ÁLAMO)",
+          "4",
+          "540",
+          "263",
+          "277",
+          "21"
+        ],
+        [
+          "BIMBALETES ATLAS (TANQUE DE LA VIEJA)",
+          "2",
+          "220",
+          "109",
+          "111",
+          "9"
+        ],
+        [
+          "CALDERA",
+          "1",
+          "76",
+          "38",
+          "38",
+          "3"
+        ],
+        [
+          "CHARCO AZUL",
+          "2",
+          "57",
+          "27",
+          "30",
+          "2"
+        ],
+        [
+          "CIÉNEGA GRANDE",
+          "5",
+          "1,320",
+          "660",
+          "660",
+          "59"
+        ],
+        [
+          "CLAVELLINAS",
+          "3",
+          "125",
+          "65",
+          "60",
+          "6"
+        ],
+        [
+          "CRISÓSTOMOS",
+          "2",
+          "182",
+          "91",
+          "91",
+          "6"
+        ],
+        [
+          "EL EPAZOTE",
+          "2",
+          "59",
+          "32",
+          "27",
+          "3"
+        ],
+        [
+          "EL MUERTO",
+          "3",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL POLVO",
+          "4",
+          "303",
+          "146",
+          "157",
+          "14"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "67",
+          "34",
+          "33",
+          "3"
+        ],
+        [
+          "EL TEPETATILLO [RANCHO]",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "298",
+          "147",
+          "151",
+          "12"
+        ],
+        [
+          "EMANCIPACIÓN (BORUNDA) [COLONIA]",
+          "4",
+          "215",
+          "114",
+          "101",
+          "11"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "241",
+          "109",
+          "132",
+          "11"
+        ],
+        [
+          "GÓMEZ PORTUGAL [COLONIA]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "GORRIONES",
+          "4",
+          "203",
+          "101",
+          "102",
+          "9"
+        ],
+        [
+          "GUADALUPE DE ATLAS",
+          "4",
+          "966",
+          "498",
+          "468",
+          "35"
+        ],
+        [
+          "JARILLAS",
+          "4",
+          "380",
+          "173",
+          "207",
+          "16"
+        ],
+        [
+          "JILOTEPEC",
+          "4",
+          "277",
+          "131",
+          "146",
+          "14"
+        ],
+        [
+          "LA DICHOSA",
+          "4",
+          "321",
+          "170",
+          "151",
+          "14"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "61",
+          "36",
+          "25",
+          "3"
+        ],
+        [
+          "LA GLORIA",
+          "4",
+          "176",
+          "94",
+          "82",
+          "9"
+        ],
+        [
+          "LA TINAJUELA",
+          "2",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "4",
+          "144",
+          "63",
+          "81",
+          "9"
+        ],
+        [
+          "LAS FRAGUAS",
+          "4",
+          "390",
+          "180",
+          "210",
+          "23"
+        ],
+        [
+          "LAS NEGRITAS",
+          "4",
+          "177",
+          "98",
+          "79",
+          "9"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "319",
+          "155",
+          "164",
+          "13"
+        ],
+        [
+          "LICENCIADO ADOLFO LÓPEZ MATEOS",
+          "4",
+          "444",
+          "250",
+          "194",
+          "20"
+        ],
+        [
+          "MOLINOS",
+          "4",
+          "365",
+          "208",
+          "157",
+          "15"
+        ],
+        [
+          "NORIA DEL BORREGO (NORIAS)",
+          "4",
+          "485",
+          "237",
+          "248",
+          "19"
+        ],
+        [
+          "OJO DE AGUA DE LOS SAUCES",
+          "2",
+          "78",
+          "37",
+          "41",
+          "5"
+        ],
+        [
+          "OJO DE AGUA DE ROSALES",
+          "2",
+          "109",
+          "59",
+          "50",
+          "5"
+        ],
+        [
+          "PILOTOS",
+          "4",
+          "394",
+          "201",
+          "193",
+          "17"
+        ],
+        [
+          "PINO SUÁREZ (RANCHO VIEJO)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "4"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "291",
+          "131",
+          "160",
+          "11"
+        ],
+        [
+          "SAN ANTONIO DE LOS MARTÍNEZ",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GIL",
+          "2",
+          "138",
+          "59",
+          "79",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL RÍO",
+          "3",
+          "297",
+          "137",
+          "160",
+          "13"
+        ],
+        [
+          "SAN PEDRO [COLONIA]",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SAN RAFAEL DE OCAMPO",
+          "4",
+          "276",
+          "126",
+          "150",
+          "16"
+        ],
+        [
+          "SAN VICENTE",
+          "3",
+          "95",
+          "39",
+          "56",
+          "4"
+        ],
+        [
+          "TANQUE DE GUADALUPE",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3"
+        ],
+        [
+          "TANQUE VIEJO",
+          "2",
+          "88",
+          "42",
+          "46",
+          "4"
+        ],
+        [
+          "VILLA JUÁREZ",
+          "7",
+          "2,357",
+          "1,256",
+          "1,101",
+          "121"
+        ],
+        [
+          "VIUDAS DE PONIENTE",
+          "3",
+          "126",
+          "61",
+          "65",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "152",
+          "14,934",
+          "7,548",
+          "7,386",
+          "673"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: ASIENTOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMARILLAS DE ESPARZA",
+          "4",
+          "268",
+          "143",
+          "125",
+          "12"
+        ],
+        [
+          "ASIENTOS",
+          "6",
+          "1,720",
+          "893",
+          "827",
+          "68"
+        ],
+        [
+          "BIMBALETES AGUASCALIENTES (EL ÁLAMO)",
+          "4",
+          "540",
+          "263",
+          "277",
+          "21"
+        ],
+        [
+          "BIMBALETES ATLAS (TANQUE DE LA VIEJA)",
+          "2",
+          "220",
+          "109",
+          "111",
+          "9"
+        ],
+        [
+          "CALDERA",
+          "1",
+          "76",
+          "38",
+          "38",
+          "3"
+        ],
+        [
+          "CHARCO AZUL",
+          "2",
+          "57",
+          "27",
+          "30",
+          "2"
+        ],
+        [
+          "CIÉNEGA GRANDE",
+          "5",
+          "1,320",
+          "660",
+          "660",
+          "59"
+        ],
+        [
+          "CLAVELLINAS",
+          "3",
+          "125",
+          "65",
+          "60",
+          "6"
+        ],
+        [
+          "CRISÓSTOMOS",
+          "2",
+          "182",
+          "91",
+          "91",
+          "6"
+        ],
+        [
+          "EL EPAZOTE",
+          "2",
+          "59",
+          "32",
+          "27",
+          "3"
+        ],
+        [
+          "EL MUERTO",
+          "3",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL POLVO",
+          "4",
+          "303",
+          "146",
+          "157",
+          "14"
+        ],
+        [
+          "EL SALITRE",
+          "2",
+          "67",
+          "34",
+          "33",
+          "3"
+        ],
+        [
+          "EL TEPETATILLO [RANCHO]",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "EL TULE",
+          "3",
+          "298",
+          "147",
+          "151",
+          "12"
+        ],
+        [
+          "EMANCIPACIÓN (BORUNDA) [COLONIA]",
+          "4",
+          "215",
+          "114",
+          "101",
+          "11"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "241",
+          "109",
+          "132",
+          "11"
+        ],
+        [
+          "GÓMEZ PORTUGAL [COLONIA]",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "GORRIONES",
+          "4",
+          "203",
+          "101",
+          "102",
+          "9"
+        ],
+        [
+          "GUADALUPE DE ATLAS",
+          "4",
+          "966",
+          "498",
+          "468",
+          "35"
+        ],
+        [
+          "JARILLAS",
+          "4",
+          "380",
+          "173",
+          "207",
+          "16"
+        ],
+        [
+          "JILOTEPEC",
+          "4",
+          "277",
+          "131",
+          "146",
+          "14"
+        ],
+        [
+          "LA DICHOSA",
+          "4",
+          "321",
+          "170",
+          "151",
+          "14"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "61",
+          "36",
+          "25",
+          "3"
+        ],
+        [
+          "LA GLORIA",
+          "4",
+          "176",
+          "94",
+          "82",
+          "9"
+        ],
+        [
+          "LA TINAJUELA",
+          "2",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "4",
+          "144",
+          "63",
+          "81",
+          "9"
+        ],
+        [
+          "LAS FRAGUAS",
+          "4",
+          "390",
+          "180",
+          "210",
+          "23"
+        ],
+        [
+          "LAS NEGRITAS",
+          "4",
+          "177",
+          "98",
+          "79",
+          "9"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "319",
+          "155",
+          "164",
+          "13"
+        ],
+        [
+          "LICENCIADO ADOLFO LÓPEZ MATEOS",
+          "4",
+          "444",
+          "250",
+          "194",
+          "20"
+        ],
+        [
+          "MOLINOS",
+          "4",
+          "365",
+          "208",
+          "157",
+          "15"
+        ],
+        [
+          "NORIA DEL BORREGO (NORIAS)",
+          "4",
+          "485",
+          "237",
+          "248",
+          "19"
+        ],
+        [
+          "OJO DE AGUA DE LOS SAUCES",
+          "2",
+          "78",
+          "37",
+          "41",
+          "5"
+        ],
+        [
+          "OJO DE AGUA DE ROSALES",
+          "2",
+          "109",
+          "59",
+          "50",
+          "5"
+        ],
+        [
+          "PILOTOS",
+          "4",
+          "394",
+          "201",
+          "193",
+          "17"
+        ],
+        [
+          "PINO SUÁREZ (RANCHO VIEJO)",
+          "3",
+          "99",
+          "45",
+          "54",
+          "4"
+        ],
+        [
+          "PLUTARCO ELÍAS CALLES",
+          "3",
+          "291",
+          "131",
+          "160",
+          "11"
+        ],
+        [
+          "SAN ANTONIO DE LOS MARTÍNEZ",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "SAN GIL",
+          "2",
+          "138",
+          "59",
+          "79",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL RÍO",
+          "3",
+          "297",
+          "137",
+          "160",
+          "13"
+        ],
+        [
+          "SAN PEDRO [COLONIA]",
+          "2",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "SAN RAFAEL DE OCAMPO",
+          "4",
+          "276",
+          "126",
+          "150",
+          "16"
+        ],
+        [
+          "SAN VICENTE",
+          "3",
+          "95",
+          "39",
+          "56",
+          "4"
+        ],
+        [
+          "TANQUE DE GUADALUPE",
+          "2",
+          "70",
+          "31",
+          "39",
+          "3"
+        ],
+        [
+          "TANQUE VIEJO",
+          "2",
+          "88",
+          "42",
+          "46",
+          "4"
+        ],
+        [
+          "VILLA JUÁREZ",
+          "7",
+          "2,357",
+          "1,256",
+          "1,101",
+          "121"
+        ],
+        [
+          "VIUDAS DE PONIENTE",
+          "3",
+          "126",
+          "61",
+          "65",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "152",
+          "14,934",
+          "7,548",
+          "7,386",
+          "673"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:46.705Z"
+}

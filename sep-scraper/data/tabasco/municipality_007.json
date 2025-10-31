@@ -1,0 +1,560 @@
+{
+  "municipality": "EMILIANO ZAPATA",
+  "municipalityCode": "007",
+  "state": "TABASCO",
+  "stateCode": "27",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBALANCÁN\n\tCÁRDENAS\n\tCENTLA\n\tCENTRO\n\tCOMALCALCO\n\tCUNDUACÁN\n\tEMILIANO ZAPATA\n\tHUIMANGUILLO\n\tJALAPA\n\tJALPA DE MÉNDEZ\n\tJONUTA\n\tMACUSPANA\n\tNACAJUCA\n\tPARAÍSO\n\tTACOTALPA\n\tTEAPA\n\tTENOSIQUE"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: EMILIANO ZAPATA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUACATE\n\t\t3\n\t\t37\n\t\t15\n\t\t22\n\t\t3\n\t\n\t\n\t\tBOCA DE CHACAMAX\n\t\t2\n\t\t12\n\t\t4\n\t\t8\n\t\t1\n\t\n\t\n\t\tCHABLÉ\n\t\t5\n\t\t1,048\n\t\t508\n\t\t540\n\t\t49\n\t\n\t\n\t\tCHACAMA\n\t\t4\n\t\t274\n\t\t145\n\t\t129\n\t\t14\n\t\n\t\n\t\tCONCEPCIÓN\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tCOROZAL\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t29\n\t\t6,761\n\t\t3,402\n\t\t3,359\n\t\t430\n\t\n\t\n\t\tEMILIANO ZAPATA (SECCIÓN EL AVISPERO)\n\t\t2\n\t\t34\n\t\t16\n\t\t18\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA (SECCIÓN JOBAL)\n\t\t2\n\t\t74\n\t\t40\n\t\t34\n\t\t3\n\t\n\t\n\t\tEMILIANO ZAPATA (SECCIÓN POCHOTE)\n\t\t3\n\t\t71\n\t\t30\n\t\t41\n\t\t4\n\t\n\t\n\t\tGREGORIO MÉNDEZ MAGAÑA (PÉNJAMO)\n\t\t4\n\t\t355\n\t\t172\n\t\t183\n\t\t38\n\t\n\t\n\t\tLA ISLA\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA PITA\n\t\t4\n\t\t35\n\t\t15\n\t\t20\n\t\t5\n\t\n\t\n\t\tNUEVO CHABLÉ\n\t\t2\n\t\t82\n\t\t41\n\t\t41\n\t\t4\n\t\n\t\n\t\tNUEVO POCHOTE\n\t\t3\n\t\t50\n\t\t20\n\t\t30\n\t\t3\n\t\n\t\n\t\tPASO DE SAN ROMÁN\n\t\t3\n\t\t19\n\t\t8\n\t\t11\n\t\t3\n\t\n\t\n\t\tPOCVICUC\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tREFORMA\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tRÍO FINAL\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tTRES LETRAS\n\t\t2\n\t\t48\n\t\t21\n\t\t27\n\t\t3\n\t\n\t\n\t\tÚLTIMO ESFUERZO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t81\n\t\t8,992\n\t\t4,482\n\t\t4,510\n\t\t572\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: EMILIANO ZAPATA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUACATE",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3",
+          "BOCA DE CHACAMAX",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1",
+          "CHABLÉ",
+          "5",
+          "1,048",
+          "508",
+          "540",
+          "49",
+          "CHACAMA",
+          "4",
+          "274",
+          "145",
+          "129",
+          "14",
+          "CONCEPCIÓN",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "COROZAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EMILIANO ZAPATA",
+          "29",
+          "6,761",
+          "3,402",
+          "3,359",
+          "430",
+          "EMILIANO ZAPATA (SECCIÓN EL AVISPERO)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2",
+          "EMILIANO ZAPATA (SECCIÓN JOBAL)",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3",
+          "EMILIANO ZAPATA (SECCIÓN POCHOTE)",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4",
+          "GREGORIO MÉNDEZ MAGAÑA (PÉNJAMO)",
+          "4",
+          "355",
+          "172",
+          "183",
+          "38",
+          "LA ISLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2",
+          "LA PITA",
+          "4",
+          "35",
+          "15",
+          "20",
+          "5",
+          "NUEVO CHABLÉ",
+          "2",
+          "82",
+          "41",
+          "41",
+          "4",
+          "NUEVO POCHOTE",
+          "3",
+          "50",
+          "20",
+          "30",
+          "3",
+          "PASO DE SAN ROMÁN",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3",
+          "POCVICUC",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "REFORMA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1",
+          "RÍO FINAL",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1",
+          "TRES LETRAS",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3",
+          "ÚLTIMO ESFUERZO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "1",
+          "TOTAL",
+          "81",
+          "8,992",
+          "4,482",
+          "4,510",
+          "572",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: EMILIANO ZAPATA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUACATE",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "BOCA DE CHACAMAX",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CHABLÉ",
+          "5",
+          "1,048",
+          "508",
+          "540",
+          "49"
+        ],
+        [
+          "CHACAMA",
+          "4",
+          "274",
+          "145",
+          "129",
+          "14"
+        ],
+        [
+          "CONCEPCIÓN",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "COROZAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "29",
+          "6,761",
+          "3,402",
+          "3,359",
+          "430"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN EL AVISPERO)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN JOBAL)",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN POCHOTE)",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "GREGORIO MÉNDEZ MAGAÑA (PÉNJAMO)",
+          "4",
+          "355",
+          "172",
+          "183",
+          "38"
+        ],
+        [
+          "LA ISLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "LA PITA",
+          "4",
+          "35",
+          "15",
+          "20",
+          "5"
+        ],
+        [
+          "NUEVO CHABLÉ",
+          "2",
+          "82",
+          "41",
+          "41",
+          "4"
+        ],
+        [
+          "NUEVO POCHOTE",
+          "3",
+          "50",
+          "20",
+          "30",
+          "3"
+        ],
+        [
+          "PASO DE SAN ROMÁN",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "POCVICUC",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "RÍO FINAL",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "TRES LETRAS",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "ÚLTIMO ESFUERZO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "8,992",
+          "4,482",
+          "4,510",
+          "572"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: EMILIANO ZAPATA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUACATE",
+          "3",
+          "37",
+          "15",
+          "22",
+          "3"
+        ],
+        [
+          "BOCA DE CHACAMAX",
+          "2",
+          "12",
+          "4",
+          "8",
+          "1"
+        ],
+        [
+          "CHABLÉ",
+          "5",
+          "1,048",
+          "508",
+          "540",
+          "49"
+        ],
+        [
+          "CHACAMA",
+          "4",
+          "274",
+          "145",
+          "129",
+          "14"
+        ],
+        [
+          "CONCEPCIÓN",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "COROZAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "29",
+          "6,761",
+          "3,402",
+          "3,359",
+          "430"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN EL AVISPERO)",
+          "2",
+          "34",
+          "16",
+          "18",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN JOBAL)",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA (SECCIÓN POCHOTE)",
+          "3",
+          "71",
+          "30",
+          "41",
+          "4"
+        ],
+        [
+          "GREGORIO MÉNDEZ MAGAÑA (PÉNJAMO)",
+          "4",
+          "355",
+          "172",
+          "183",
+          "38"
+        ],
+        [
+          "LA ISLA",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "LA PITA",
+          "4",
+          "35",
+          "15",
+          "20",
+          "5"
+        ],
+        [
+          "NUEVO CHABLÉ",
+          "2",
+          "82",
+          "41",
+          "41",
+          "4"
+        ],
+        [
+          "NUEVO POCHOTE",
+          "3",
+          "50",
+          "20",
+          "30",
+          "3"
+        ],
+        [
+          "PASO DE SAN ROMÁN",
+          "3",
+          "19",
+          "8",
+          "11",
+          "3"
+        ],
+        [
+          "POCVICUC",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "REFORMA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "RÍO FINAL",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "TRES LETRAS",
+          "2",
+          "48",
+          "21",
+          "27",
+          "3"
+        ],
+        [
+          "ÚLTIMO ESFUERZO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "8,992",
+          "4,482",
+          "4,510",
+          "572"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:38:37.639Z"
+}

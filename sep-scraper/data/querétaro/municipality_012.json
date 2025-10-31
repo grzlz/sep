@@ -1,0 +1,626 @@
+{
+  "municipality": "PEDRO ESCOBEDO",
+  "municipalityCode": "012",
+  "state": "QUERÉTARO",
+  "stateCode": "22",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMEALCO DE BONFIL\n\tARROYO SECO\n\tCADEREYTA DE MONTES\n\tCOLÓN\n\tCORREGIDORA\n\tEL MARQUÉS\n\tEZEQUIEL MONTES\n\tHUIMILPAN\n\tJALPAN DE SERRA\n\tLANDA DE MATAMOROS\n\tPEDRO ESCOBEDO\n\tPEÑAMILLER\n\tPINAL DE AMOLES\n\tQUERÉTARO\n\tSAN JOAQUÍN\n\tSAN JUAN DEL RÍO\n\tTEQUISQUIAPAN\n\tTOLIMÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: PEDRO ESCOBEDO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAJUCHITLANCITO\n\t\t4\n\t\t877\n\t\t433\n\t\t444\n\t\t30\n\t\n\t\n\t\tCHINTEPEC\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tDOLORES DE AJUCHITLANCITO\n\t\t4\n\t\t471\n\t\t221\n\t\t250\n\t\t20\n\t\n\t\n\t\tEL SAUZ (SAUZ ALTO, SAUZ BAJO)\n\t\t4\n\t\t762\n\t\t443\n\t\t319\n\t\t35\n\t\n\t\n\t\tEPIGMENIO GONZÁLEZ (EL AHORCADO)\n\t\t4\n\t\t836\n\t\t432\n\t\t404\n\t\t28\n\t\n\t\n\t\tESCOLÁSTICAS\n\t\t4\n\t\t873\n\t\t466\n\t\t407\n\t\t29\n\t\n\t\n\t\tGUADALUPE SEPTIÉN\n\t\t4\n\t\t676\n\t\t342\n\t\t334\n\t\t23\n\t\n\t\n\t\tIGNACIO PÉREZ (EL MUERTO)\n\t\t2\n\t\t345\n\t\t171\n\t\t174\n\t\t14\n\t\n\t\n\t\tLA CEJA\n\t\t2\n\t\t116\n\t\t60\n\t\t56\n\t\t4\n\t\n\t\n\t\tLA D\n\t\t5\n\t\t1,134\n\t\t548\n\t\t586\n\t\t44\n\t\n\t\n\t\tLA LIRA\n\t\t6\n\t\t1,625\n\t\t824\n\t\t801\n\t\t63\n\t\n\t\n\t\tLA PALMA\n\t\t2\n\t\t345\n\t\t171\n\t\t174\n\t\t12\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t2\n\t\t96\n\t\t46\n\t\t50\n\t\t4\n\t\n\t\n\t\tLA VENTA DE AJUCHITLANCITO\n\t\t3\n\t\t401\n\t\t199\n\t\t202\n\t\t16\n\t\n\t\n\t\tLAS POSTAS\n\t\t2\n\t\t52\n\t\t25\n\t\t27\n\t\t3\n\t\n\t\n\t\tLOS ÁLVAREZ\n\t\t2\n\t\t153\n\t\t72\n\t\t81\n\t\t6\n\t\n\t\n\t\tNORIA NUEVA\n\t\t3\n\t\t428\n\t\t207\n\t\t221\n\t\t16\n\t\n\t\n\t\tPEDRO ESCOBEDO\n\t\t26\n\t\t8,131\n\t\t4,132\n\t\t3,999\n\t\t370\n\t\n\t\n\t\tQUINTANARES\n\t\t2\n\t\t70\n\t\t29\n\t\t41\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO LA D\n\t\t2\n\t\t215\n\t\t111\n\t\t104\n\t\t8\n\t\n\t\n\t\tSAN CIRILO\n\t\t2\n\t\t121\n\t\t58\n\t\t63\n\t\t5\n\t\n\t\n\t\tSAN CLEMENTE\n\t\t4\n\t\t1,172\n\t\t573\n\t\t599\n\t\t40\n\t\n\t\n\t\tSAN FANDILA\n\t\t5\n\t\t1,057\n\t\t517\n\t\t540\n\t\t68\n\t\n\t\n\t\tSAUZ ALTO\n\t\t4\n\t\t1,435\n\t\t681\n\t\t754\n\t\t53\n\t\n\t\n\t\tTOTAL\n\t\t100\n\t\t21,414\n\t\t10,772\n\t\t10,642\n\t\t897\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: PEDRO ESCOBEDO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AJUCHITLANCITO",
+          "4",
+          "877",
+          "433",
+          "444",
+          "30",
+          "CHINTEPEC",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "DOLORES DE AJUCHITLANCITO",
+          "4",
+          "471",
+          "221",
+          "250",
+          "20",
+          "EL SAUZ (SAUZ ALTO, SAUZ BAJO)",
+          "4",
+          "762",
+          "443",
+          "319",
+          "35",
+          "EPIGMENIO GONZÁLEZ (EL AHORCADO)",
+          "4",
+          "836",
+          "432",
+          "404",
+          "28",
+          "ESCOLÁSTICAS",
+          "4",
+          "873",
+          "466",
+          "407",
+          "29",
+          "GUADALUPE SEPTIÉN",
+          "4",
+          "676",
+          "342",
+          "334",
+          "23",
+          "IGNACIO PÉREZ (EL MUERTO)",
+          "2",
+          "345",
+          "171",
+          "174",
+          "14",
+          "LA CEJA",
+          "2",
+          "116",
+          "60",
+          "56",
+          "4",
+          "LA D",
+          "5",
+          "1,134",
+          "548",
+          "586",
+          "44",
+          "LA LIRA",
+          "6",
+          "1,625",
+          "824",
+          "801",
+          "63",
+          "LA PALMA",
+          "2",
+          "345",
+          "171",
+          "174",
+          "12",
+          "LA PURÍSIMA",
+          "2",
+          "96",
+          "46",
+          "50",
+          "4",
+          "LA VENTA DE AJUCHITLANCITO",
+          "3",
+          "401",
+          "199",
+          "202",
+          "16",
+          "LAS POSTAS",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3",
+          "LOS ÁLVAREZ",
+          "2",
+          "153",
+          "72",
+          "81",
+          "6",
+          "NORIA NUEVA",
+          "3",
+          "428",
+          "207",
+          "221",
+          "16",
+          "PEDRO ESCOBEDO",
+          "26",
+          "8,131",
+          "4,132",
+          "3,999",
+          "370",
+          "QUINTANARES",
+          "2",
+          "70",
+          "29",
+          "41",
+          "4",
+          "SAN ANTONIO LA D",
+          "2",
+          "215",
+          "111",
+          "104",
+          "8",
+          "SAN CIRILO",
+          "2",
+          "121",
+          "58",
+          "63",
+          "5",
+          "SAN CLEMENTE",
+          "4",
+          "1,172",
+          "573",
+          "599",
+          "40",
+          "SAN FANDILA",
+          "5",
+          "1,057",
+          "517",
+          "540",
+          "68",
+          "SAUZ ALTO",
+          "4",
+          "1,435",
+          "681",
+          "754",
+          "53",
+          "TOTAL",
+          "100",
+          "21,414",
+          "10,772",
+          "10,642",
+          "897",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: PEDRO ESCOBEDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AJUCHITLANCITO",
+          "4",
+          "877",
+          "433",
+          "444",
+          "30"
+        ],
+        [
+          "CHINTEPEC",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "DOLORES DE AJUCHITLANCITO",
+          "4",
+          "471",
+          "221",
+          "250",
+          "20"
+        ],
+        [
+          "EL SAUZ (SAUZ ALTO, SAUZ BAJO)",
+          "4",
+          "762",
+          "443",
+          "319",
+          "35"
+        ],
+        [
+          "EPIGMENIO GONZÁLEZ (EL AHORCADO)",
+          "4",
+          "836",
+          "432",
+          "404",
+          "28"
+        ],
+        [
+          "ESCOLÁSTICAS",
+          "4",
+          "873",
+          "466",
+          "407",
+          "29"
+        ],
+        [
+          "GUADALUPE SEPTIÉN",
+          "4",
+          "676",
+          "342",
+          "334",
+          "23"
+        ],
+        [
+          "IGNACIO PÉREZ (EL MUERTO)",
+          "2",
+          "345",
+          "171",
+          "174",
+          "14"
+        ],
+        [
+          "LA CEJA",
+          "2",
+          "116",
+          "60",
+          "56",
+          "4"
+        ],
+        [
+          "LA D",
+          "5",
+          "1,134",
+          "548",
+          "586",
+          "44"
+        ],
+        [
+          "LA LIRA",
+          "6",
+          "1,625",
+          "824",
+          "801",
+          "63"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "345",
+          "171",
+          "174",
+          "12"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "96",
+          "46",
+          "50",
+          "4"
+        ],
+        [
+          "LA VENTA DE AJUCHITLANCITO",
+          "3",
+          "401",
+          "199",
+          "202",
+          "16"
+        ],
+        [
+          "LAS POSTAS",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "LOS ÁLVAREZ",
+          "2",
+          "153",
+          "72",
+          "81",
+          "6"
+        ],
+        [
+          "NORIA NUEVA",
+          "3",
+          "428",
+          "207",
+          "221",
+          "16"
+        ],
+        [
+          "PEDRO ESCOBEDO",
+          "26",
+          "8,131",
+          "4,132",
+          "3,999",
+          "370"
+        ],
+        [
+          "QUINTANARES",
+          "2",
+          "70",
+          "29",
+          "41",
+          "4"
+        ],
+        [
+          "SAN ANTONIO LA D",
+          "2",
+          "215",
+          "111",
+          "104",
+          "8"
+        ],
+        [
+          "SAN CIRILO",
+          "2",
+          "121",
+          "58",
+          "63",
+          "5"
+        ],
+        [
+          "SAN CLEMENTE",
+          "4",
+          "1,172",
+          "573",
+          "599",
+          "40"
+        ],
+        [
+          "SAN FANDILA",
+          "5",
+          "1,057",
+          "517",
+          "540",
+          "68"
+        ],
+        [
+          "SAUZ ALTO",
+          "4",
+          "1,435",
+          "681",
+          "754",
+          "53"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "21,414",
+          "10,772",
+          "10,642",
+          "897"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUERÉTARO;    MUNICIPIO: PEDRO ESCOBEDO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AJUCHITLANCITO",
+          "4",
+          "877",
+          "433",
+          "444",
+          "30"
+        ],
+        [
+          "CHINTEPEC",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "DOLORES DE AJUCHITLANCITO",
+          "4",
+          "471",
+          "221",
+          "250",
+          "20"
+        ],
+        [
+          "EL SAUZ (SAUZ ALTO, SAUZ BAJO)",
+          "4",
+          "762",
+          "443",
+          "319",
+          "35"
+        ],
+        [
+          "EPIGMENIO GONZÁLEZ (EL AHORCADO)",
+          "4",
+          "836",
+          "432",
+          "404",
+          "28"
+        ],
+        [
+          "ESCOLÁSTICAS",
+          "4",
+          "873",
+          "466",
+          "407",
+          "29"
+        ],
+        [
+          "GUADALUPE SEPTIÉN",
+          "4",
+          "676",
+          "342",
+          "334",
+          "23"
+        ],
+        [
+          "IGNACIO PÉREZ (EL MUERTO)",
+          "2",
+          "345",
+          "171",
+          "174",
+          "14"
+        ],
+        [
+          "LA CEJA",
+          "2",
+          "116",
+          "60",
+          "56",
+          "4"
+        ],
+        [
+          "LA D",
+          "5",
+          "1,134",
+          "548",
+          "586",
+          "44"
+        ],
+        [
+          "LA LIRA",
+          "6",
+          "1,625",
+          "824",
+          "801",
+          "63"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "345",
+          "171",
+          "174",
+          "12"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "96",
+          "46",
+          "50",
+          "4"
+        ],
+        [
+          "LA VENTA DE AJUCHITLANCITO",
+          "3",
+          "401",
+          "199",
+          "202",
+          "16"
+        ],
+        [
+          "LAS POSTAS",
+          "2",
+          "52",
+          "25",
+          "27",
+          "3"
+        ],
+        [
+          "LOS ÁLVAREZ",
+          "2",
+          "153",
+          "72",
+          "81",
+          "6"
+        ],
+        [
+          "NORIA NUEVA",
+          "3",
+          "428",
+          "207",
+          "221",
+          "16"
+        ],
+        [
+          "PEDRO ESCOBEDO",
+          "26",
+          "8,131",
+          "4,132",
+          "3,999",
+          "370"
+        ],
+        [
+          "QUINTANARES",
+          "2",
+          "70",
+          "29",
+          "41",
+          "4"
+        ],
+        [
+          "SAN ANTONIO LA D",
+          "2",
+          "215",
+          "111",
+          "104",
+          "8"
+        ],
+        [
+          "SAN CIRILO",
+          "2",
+          "121",
+          "58",
+          "63",
+          "5"
+        ],
+        [
+          "SAN CLEMENTE",
+          "4",
+          "1,172",
+          "573",
+          "599",
+          "40"
+        ],
+        [
+          "SAN FANDILA",
+          "5",
+          "1,057",
+          "517",
+          "540",
+          "68"
+        ],
+        [
+          "SAUZ ALTO",
+          "4",
+          "1,435",
+          "681",
+          "754",
+          "53"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "21,414",
+          "10,772",
+          "10,642",
+          "897"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:26:57.793Z"
+}

@@ -1,0 +1,1418 @@
+{
+  "municipality": "GUADALCÁZAR",
+  "municipalityCode": "017",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: GUADALCÁZAR\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁBREGO\n\t\t3\n\t\t68\n\t\t41\n\t\t27\n\t\t5\n\t\n\t\n\t\tBUENAVISTA\n\t\t4\n\t\t208\n\t\t115\n\t\t93\n\t\t16\n\t\n\t\n\t\tCHARCO BLANCO\n\t\t3\n\t\t169\n\t\t81\n\t\t88\n\t\t11\n\t\n\t\n\t\tCHARCO CERCADO\n\t\t4\n\t\t388\n\t\t165\n\t\t223\n\t\t19\n\t\n\t\n\t\tCOLONIA AGRÍCOLA SAN JOSÉ\n\t\t3\n\t\t56\n\t\t26\n\t\t30\n\t\t4\n\t\n\t\n\t\tCRUCERO DE CHARCO CERCADO (EL PARADOR)\n\t\t1\n\t\t13\n\t\t10\n\t\t3\n\t\t1\n\t\n\t\n\t\tDOMINGO GÁMEZ\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL AGUAJE DE GARCÍA\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL FRAILE\n\t\t2\n\t\t14\n\t\t10\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL HUIZACHE\n\t\t4\n\t\t298\n\t\t156\n\t\t142\n\t\t14\n\t\n\t\n\t\tEL JAUJAL\n\t\t3\n\t\t59\n\t\t31\n\t\t28\n\t\t3\n\t\n\t\n\t\tEL JICOTE\n\t\t3\n\t\t55\n\t\t29\n\t\t26\n\t\t4\n\t\n\t\n\t\tEL MILAGRO DE GUADALUPE\n\t\t4\n\t\t295\n\t\t142\n\t\t153\n\t\t17\n\t\n\t\n\t\tEL ORO\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PUERTO DE LA CLAVELLINA\n\t\t3\n\t\t140\n\t\t78\n\t\t62\n\t\t6\n\t\n\t\n\t\tEL QUELITAL\n\t\t3\n\t\t146\n\t\t86\n\t\t60\n\t\t8\n\t\n\t\n\t\tEL TULILLO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tENTRONQUE DE MATEHUALA (EL HUIZACHE)\n\t\t4\n\t\t451\n\t\t239\n\t\t212\n\t\t21\n\t\n\t\n\t\tESTANQUE BLANCO\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tGUADALCÁZAR\n\t\t7\n\t\t331\n\t\t167\n\t\t164\n\t\t29\n\t\n\t\n\t\tLA BOQUILLA\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA CAMPANA\n\t\t2\n\t\t42\n\t\t29\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA HINCADA\n\t\t3\n\t\t187\n\t\t103\n\t\t84\n\t\t10\n\t\n\t\n\t\tLA MEDIA NEGA\n\t\t2\n\t\t10\n\t\t8\n\t\t2\n\t\t2\n\t\n\t\n\t\tLA NARANJITA\n\t\t3\n\t\t34\n\t\t17\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA NEGRITA\n\t\t2\n\t\t30\n\t\t20\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA NORIA DE LAS FLORES\n\t\t3\n\t\t44\n\t\t18\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA PÓLVORA\n\t\t4\n\t\t219\n\t\t98\n\t\t121\n\t\t12\n\t\n\t\n\t\tLA VENTANA\n\t\t3\n\t\t108\n\t\t50\n\t\t58\n\t\t6\n\t\n\t\n\t\tLA YERBABUENA\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAS NEGRITAS\n\t\t4\n\t\t220\n\t\t107\n\t\t113\n\t\t11\n\t\n\t\n\t\tLOS AMOLES\n\t\t3\n\t\t59\n\t\t29\n\t\t30\n\t\t4\n\t\n\t\n\t\tLOS ÁNGELES NÚMERO DOS\n\t\t3\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tLOS TRES REALES\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t2\n\t\n\t\n\t\tNORIAS DEL REFUGIO\n\t\t3\n\t\t228\n\t\t109\n\t\t119\n\t\t11\n\t\n\t\n\t\tNÚÑEZ\n\t\t3\n\t\t207\n\t\t100\n\t\t107\n\t\t12\n\t\n\t\n\t\tPEYOTE\n\t\t3\n\t\t102\n\t\t43\n\t\t59\n\t\t7\n\t\n\t\n\t\tPOZAS DE SANTA ANA\n\t\t4\n\t\t376\n\t\t191\n\t\t185\n\t\t18\n\t\n\t\n\t\tPRESA DE GUADALUPE\n\t\t3\n\t\t89\n\t\t45\n\t\t44\n\t\t5\n\t\n\t\n\t\tPRESA EL PINTO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tPRESITA DEL TEPETATE\n\t\t3\n\t\t52\n\t\t19\n\t\t33\n\t\t4\n\t\n\t\n\t\tPROGRESO\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tPUERTA DE JESÚS MARÍA (LA ROSITA)\n\t\t3\n\t\t25\n\t\t12\n\t\t13\n\t\t4\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t2\n\t\n\t\n\t\tREALEJO\n\t\t3\n\t\t41\n\t\t20\n\t\t21\n\t\t2\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t3\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DE TROJES\n\t\t3\n\t\t16\n\t\t8\n\t\t8\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO DEL TULILLO\n\t\t3\n\t\t31\n\t\t18\n\t\t13\n\t\t3\n\t\n\t\n\t\tSAN CARLOS\n\t\t3\n\t\t69\n\t\t40\n\t\t29\n\t\t4\n\t\n\t\n\t\tSAN CRISTÓBAL\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO DEL TULILLO\n\t\t3\n\t\t41\n\t\t18\n\t\t23\n\t\t3\n\t\n\t\n\t\tSAN GREGORIO\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tSAN IGNACIO\n\t\t4\n\t\t168\n\t\t88\n\t\t80\n\t\t13\n\t\n\t\n\t\tSAN JOSÉ DE CERVANTES\n\t\t3\n\t\t14\n\t\t6\n\t\t8\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LAS FLORES\n\t\t3\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tSAN JUAN SIN AGUA\n\t\t3\n\t\t178\n\t\t89\n\t\t89\n\t\t10\n\t\n\t\n\t\tSAN MARTÍN (SAN MARTÍN DEL TANQUITO)\n\t\t2\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA RITA DEL RUCIO\n\t\t3\n\t\t25\n\t\t12\n\t\t13\n\t\t3\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t3\n\t\t166\n\t\t91\n\t\t75\n\t\t9\n\t\n\t\n\t\tSOLEDAD DE LA BIZNAGA\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t170\n\t\t5,691\n\t\t2,864\n\t\t2,827\n\t\t362\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: GUADALCÁZAR",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁBREGO",
+          "3",
+          "68",
+          "41",
+          "27",
+          "5",
+          "BUENAVISTA",
+          "4",
+          "208",
+          "115",
+          "93",
+          "16",
+          "CHARCO BLANCO",
+          "3",
+          "169",
+          "81",
+          "88",
+          "11",
+          "CHARCO CERCADO",
+          "4",
+          "388",
+          "165",
+          "223",
+          "19",
+          "COLONIA AGRÍCOLA SAN JOSÉ",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4",
+          "CRUCERO DE CHARCO CERCADO (EL PARADOR)",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1",
+          "DOMINGO GÁMEZ",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2",
+          "EL AGUAJE DE GARCÍA",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "EL FRAILE",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2",
+          "EL HUIZACHE",
+          "4",
+          "298",
+          "156",
+          "142",
+          "14",
+          "EL JAUJAL",
+          "3",
+          "59",
+          "31",
+          "28",
+          "3",
+          "EL JICOTE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4",
+          "EL MILAGRO DE GUADALUPE",
+          "4",
+          "295",
+          "142",
+          "153",
+          "17",
+          "EL ORO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL PUERTO DE LA CLAVELLINA",
+          "3",
+          "140",
+          "78",
+          "62",
+          "6",
+          "EL QUELITAL",
+          "3",
+          "146",
+          "86",
+          "60",
+          "8",
+          "EL TULILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "ENTRONQUE DE MATEHUALA (EL HUIZACHE)",
+          "4",
+          "451",
+          "239",
+          "212",
+          "21",
+          "ESTANQUE BLANCO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "GUADALCÁZAR",
+          "7",
+          "331",
+          "167",
+          "164",
+          "29",
+          "LA BOQUILLA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LA CAMPANA",
+          "2",
+          "42",
+          "29",
+          "13",
+          "3",
+          "LA HINCADA",
+          "3",
+          "187",
+          "103",
+          "84",
+          "10",
+          "LA MEDIA NEGA",
+          "2",
+          "10",
+          "8",
+          "2",
+          "2",
+          "LA NARANJITA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3",
+          "LA NEGRITA",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2",
+          "LA NORIA DE LAS FLORES",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3",
+          "LA PÓLVORA",
+          "4",
+          "219",
+          "98",
+          "121",
+          "12",
+          "LA VENTANA",
+          "3",
+          "108",
+          "50",
+          "58",
+          "6",
+          "LA YERBABUENA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "LAS NEGRITAS",
+          "4",
+          "220",
+          "107",
+          "113",
+          "11",
+          "LOS AMOLES",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4",
+          "LOS ÁNGELES NÚMERO DOS",
+          "3",
+          "15",
+          "5",
+          "10",
+          "2",
+          "LOS TRES REALES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2",
+          "NORIAS DEL REFUGIO",
+          "3",
+          "228",
+          "109",
+          "119",
+          "11",
+          "NÚÑEZ",
+          "3",
+          "207",
+          "100",
+          "107",
+          "12",
+          "PEYOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "7",
+          "POZAS DE SANTA ANA",
+          "4",
+          "376",
+          "191",
+          "185",
+          "18",
+          "PRESA DE GUADALUPE",
+          "3",
+          "89",
+          "45",
+          "44",
+          "5",
+          "PRESA EL PINTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "PRESITA DEL TEPETATE",
+          "3",
+          "52",
+          "19",
+          "33",
+          "4",
+          "PROGRESO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "PUERTA DE JESÚS MARÍA (LA ROSITA)",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4",
+          "RANCHO NUEVO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2",
+          "REALEJO",
+          "3",
+          "41",
+          "20",
+          "21",
+          "2",
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3",
+          "SAN ANTONIO DE TROJES",
+          "3",
+          "16",
+          "8",
+          "8",
+          "3",
+          "SAN ANTONIO DEL TULILLO",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3",
+          "SAN CARLOS",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4",
+          "SAN CRISTÓBAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "SAN FRANCISCO DEL TULILLO",
+          "3",
+          "41",
+          "18",
+          "23",
+          "3",
+          "SAN GREGORIO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2",
+          "SAN IGNACIO",
+          "4",
+          "168",
+          "88",
+          "80",
+          "13",
+          "SAN JOSÉ DE CERVANTES",
+          "3",
+          "14",
+          "6",
+          "8",
+          "3",
+          "SAN JOSÉ DE LAS FLORES",
+          "3",
+          "9",
+          "6",
+          "3",
+          "2",
+          "SAN JUAN SIN AGUA",
+          "3",
+          "178",
+          "89",
+          "89",
+          "10",
+          "SAN MARTÍN (SAN MARTÍN DEL TANQUITO)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1",
+          "SANTA RITA DEL RUCIO",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3",
+          "SANTO DOMINGO",
+          "3",
+          "166",
+          "91",
+          "75",
+          "9",
+          "SOLEDAD DE LA BIZNAGA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "TOTAL",
+          "170",
+          "5,691",
+          "2,864",
+          "2,827",
+          "362",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: GUADALCÁZAR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁBREGO",
+          "3",
+          "68",
+          "41",
+          "27",
+          "5"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "208",
+          "115",
+          "93",
+          "16"
+        ],
+        [
+          "CHARCO BLANCO",
+          "3",
+          "169",
+          "81",
+          "88",
+          "11"
+        ],
+        [
+          "CHARCO CERCADO",
+          "4",
+          "388",
+          "165",
+          "223",
+          "19"
+        ],
+        [
+          "COLONIA AGRÍCOLA SAN JOSÉ",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "CRUCERO DE CHARCO CERCADO (EL PARADOR)",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "DOMINGO GÁMEZ",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "EL AGUAJE DE GARCÍA",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "EL FRAILE",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "EL HUIZACHE",
+          "4",
+          "298",
+          "156",
+          "142",
+          "14"
+        ],
+        [
+          "EL JAUJAL",
+          "3",
+          "59",
+          "31",
+          "28",
+          "3"
+        ],
+        [
+          "EL JICOTE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "EL MILAGRO DE GUADALUPE",
+          "4",
+          "295",
+          "142",
+          "153",
+          "17"
+        ],
+        [
+          "EL ORO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PUERTO DE LA CLAVELLINA",
+          "3",
+          "140",
+          "78",
+          "62",
+          "6"
+        ],
+        [
+          "EL QUELITAL",
+          "3",
+          "146",
+          "86",
+          "60",
+          "8"
+        ],
+        [
+          "EL TULILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "ENTRONQUE DE MATEHUALA (EL HUIZACHE)",
+          "4",
+          "451",
+          "239",
+          "212",
+          "21"
+        ],
+        [
+          "ESTANQUE BLANCO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "GUADALCÁZAR",
+          "7",
+          "331",
+          "167",
+          "164",
+          "29"
+        ],
+        [
+          "LA BOQUILLA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA CAMPANA",
+          "2",
+          "42",
+          "29",
+          "13",
+          "3"
+        ],
+        [
+          "LA HINCADA",
+          "3",
+          "187",
+          "103",
+          "84",
+          "10"
+        ],
+        [
+          "LA MEDIA NEGA",
+          "2",
+          "10",
+          "8",
+          "2",
+          "2"
+        ],
+        [
+          "LA NARANJITA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "LA NEGRITA",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2"
+        ],
+        [
+          "LA NORIA DE LAS FLORES",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "LA PÓLVORA",
+          "4",
+          "219",
+          "98",
+          "121",
+          "12"
+        ],
+        [
+          "LA VENTANA",
+          "3",
+          "108",
+          "50",
+          "58",
+          "6"
+        ],
+        [
+          "LA YERBABUENA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LAS NEGRITAS",
+          "4",
+          "220",
+          "107",
+          "113",
+          "11"
+        ],
+        [
+          "LOS AMOLES",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "LOS ÁNGELES NÚMERO DOS",
+          "3",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "LOS TRES REALES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2"
+        ],
+        [
+          "NORIAS DEL REFUGIO",
+          "3",
+          "228",
+          "109",
+          "119",
+          "11"
+        ],
+        [
+          "NÚÑEZ",
+          "3",
+          "207",
+          "100",
+          "107",
+          "12"
+        ],
+        [
+          "PEYOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "7"
+        ],
+        [
+          "POZAS DE SANTA ANA",
+          "4",
+          "376",
+          "191",
+          "185",
+          "18"
+        ],
+        [
+          "PRESA DE GUADALUPE",
+          "3",
+          "89",
+          "45",
+          "44",
+          "5"
+        ],
+        [
+          "PRESA EL PINTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PRESITA DEL TEPETATE",
+          "3",
+          "52",
+          "19",
+          "33",
+          "4"
+        ],
+        [
+          "PROGRESO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTA DE JESÚS MARÍA (LA ROSITA)",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "REALEJO",
+          "3",
+          "41",
+          "20",
+          "21",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE TROJES",
+          "3",
+          "16",
+          "8",
+          "8",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DEL TULILLO",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DEL TULILLO",
+          "3",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "SAN IGNACIO",
+          "4",
+          "168",
+          "88",
+          "80",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE CERVANTES",
+          "3",
+          "14",
+          "6",
+          "8",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "3",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "SAN JUAN SIN AGUA",
+          "3",
+          "178",
+          "89",
+          "89",
+          "10"
+        ],
+        [
+          "SAN MARTÍN (SAN MARTÍN DEL TANQUITO)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA RITA DEL RUCIO",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "SANTO DOMINGO",
+          "3",
+          "166",
+          "91",
+          "75",
+          "9"
+        ],
+        [
+          "SOLEDAD DE LA BIZNAGA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "170",
+          "5,691",
+          "2,864",
+          "2,827",
+          "362"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: GUADALCÁZAR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁBREGO",
+          "3",
+          "68",
+          "41",
+          "27",
+          "5"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "208",
+          "115",
+          "93",
+          "16"
+        ],
+        [
+          "CHARCO BLANCO",
+          "3",
+          "169",
+          "81",
+          "88",
+          "11"
+        ],
+        [
+          "CHARCO CERCADO",
+          "4",
+          "388",
+          "165",
+          "223",
+          "19"
+        ],
+        [
+          "COLONIA AGRÍCOLA SAN JOSÉ",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "CRUCERO DE CHARCO CERCADO (EL PARADOR)",
+          "1",
+          "13",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "DOMINGO GÁMEZ",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "EL AGUAJE DE GARCÍA",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "EL FRAILE",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "EL HUIZACHE",
+          "4",
+          "298",
+          "156",
+          "142",
+          "14"
+        ],
+        [
+          "EL JAUJAL",
+          "3",
+          "59",
+          "31",
+          "28",
+          "3"
+        ],
+        [
+          "EL JICOTE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "EL MILAGRO DE GUADALUPE",
+          "4",
+          "295",
+          "142",
+          "153",
+          "17"
+        ],
+        [
+          "EL ORO",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL PUERTO DE LA CLAVELLINA",
+          "3",
+          "140",
+          "78",
+          "62",
+          "6"
+        ],
+        [
+          "EL QUELITAL",
+          "3",
+          "146",
+          "86",
+          "60",
+          "8"
+        ],
+        [
+          "EL TULILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "ENTRONQUE DE MATEHUALA (EL HUIZACHE)",
+          "4",
+          "451",
+          "239",
+          "212",
+          "21"
+        ],
+        [
+          "ESTANQUE BLANCO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "GUADALCÁZAR",
+          "7",
+          "331",
+          "167",
+          "164",
+          "29"
+        ],
+        [
+          "LA BOQUILLA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LA CAMPANA",
+          "2",
+          "42",
+          "29",
+          "13",
+          "3"
+        ],
+        [
+          "LA HINCADA",
+          "3",
+          "187",
+          "103",
+          "84",
+          "10"
+        ],
+        [
+          "LA MEDIA NEGA",
+          "2",
+          "10",
+          "8",
+          "2",
+          "2"
+        ],
+        [
+          "LA NARANJITA",
+          "3",
+          "34",
+          "17",
+          "17",
+          "3"
+        ],
+        [
+          "LA NEGRITA",
+          "2",
+          "30",
+          "20",
+          "10",
+          "2"
+        ],
+        [
+          "LA NORIA DE LAS FLORES",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "LA PÓLVORA",
+          "4",
+          "219",
+          "98",
+          "121",
+          "12"
+        ],
+        [
+          "LA VENTANA",
+          "3",
+          "108",
+          "50",
+          "58",
+          "6"
+        ],
+        [
+          "LA YERBABUENA",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "LAS NEGRITAS",
+          "4",
+          "220",
+          "107",
+          "113",
+          "11"
+        ],
+        [
+          "LOS AMOLES",
+          "3",
+          "59",
+          "29",
+          "30",
+          "4"
+        ],
+        [
+          "LOS ÁNGELES NÚMERO DOS",
+          "3",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "LOS TRES REALES",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2"
+        ],
+        [
+          "NORIAS DEL REFUGIO",
+          "3",
+          "228",
+          "109",
+          "119",
+          "11"
+        ],
+        [
+          "NÚÑEZ",
+          "3",
+          "207",
+          "100",
+          "107",
+          "12"
+        ],
+        [
+          "PEYOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "7"
+        ],
+        [
+          "POZAS DE SANTA ANA",
+          "4",
+          "376",
+          "191",
+          "185",
+          "18"
+        ],
+        [
+          "PRESA DE GUADALUPE",
+          "3",
+          "89",
+          "45",
+          "44",
+          "5"
+        ],
+        [
+          "PRESA EL PINTO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PRESITA DEL TEPETATE",
+          "3",
+          "52",
+          "19",
+          "33",
+          "4"
+        ],
+        [
+          "PROGRESO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTA DE JESÚS MARÍA (LA ROSITA)",
+          "3",
+          "25",
+          "12",
+          "13",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "REALEJO",
+          "3",
+          "41",
+          "20",
+          "21",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DE TROJES",
+          "3",
+          "16",
+          "8",
+          "8",
+          "3"
+        ],
+        [
+          "SAN ANTONIO DEL TULILLO",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "3",
+          "69",
+          "40",
+          "29",
+          "4"
+        ],
+        [
+          "SAN CRISTÓBAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DEL TULILLO",
+          "3",
+          "41",
+          "18",
+          "23",
+          "3"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "SAN IGNACIO",
+          "4",
+          "168",
+          "88",
+          "80",
+          "13"
+        ],
+        [
+          "SAN JOSÉ DE CERVANTES",
+          "3",
+          "14",
+          "6",
+          "8",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LAS FLORES",
+          "3",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "SAN JUAN SIN AGUA",
+          "3",
+          "178",
+          "89",
+          "89",
+          "10"
+        ],
+        [
+          "SAN MARTÍN (SAN MARTÍN DEL TANQUITO)",
+          "2",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA RITA DEL RUCIO",
+          "3",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "SANTO DOMINGO",
+          "3",
+          "166",
+          "91",
+          "75",
+          "9"
+        ],
+        [
+          "SOLEDAD DE LA BIZNAGA",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "170",
+          "5,691",
+          "2,864",
+          "2,827",
+          "362"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:23.736Z"
+}

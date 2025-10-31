@@ -1,0 +1,208 @@
+{
+  "municipality": "SABINAS",
+  "municipalityCode": "028",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SABINAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUJITA\n\t\t2\n\t\t547\n\t\t338\n\t\t209\n\t\t36\n\t\n\t\n\t\tCLOETE\n\t\t6\n\t\t577\n\t\t262\n\t\t315\n\t\t35\n\t\n\t\n\t\tGUADALUPE VICTORIA (PUEBLO NUEVO)\n\t\t2\n\t\t37\n\t\t20\n\t\t17\n\t\t2\n\t\n\t\n\t\tPUENTE NEGRO\n\t\t4\n\t\t164\n\t\t77\n\t\t87\n\t\t9\n\t\n\t\n\t\tSABINAS\n\t\t91\n\t\t17,249\n\t\t8,452\n\t\t8,797\n\t\t1,142\n\t\n\t\n\t\tTOTAL\n\t\t105\n\t\t18,574\n\t\t9,149\n\t\t9,425\n\t\t1,224\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SABINAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUJITA",
+          "2",
+          "547",
+          "338",
+          "209",
+          "36",
+          "CLOETE",
+          "6",
+          "577",
+          "262",
+          "315",
+          "35",
+          "GUADALUPE VICTORIA (PUEBLO NUEVO)",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2",
+          "PUENTE NEGRO",
+          "4",
+          "164",
+          "77",
+          "87",
+          "9",
+          "SABINAS",
+          "91",
+          "17,249",
+          "8,452",
+          "8,797",
+          "1,142",
+          "TOTAL",
+          "105",
+          "18,574",
+          "9,149",
+          "9,425",
+          "1,224",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SABINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUJITA",
+          "2",
+          "547",
+          "338",
+          "209",
+          "36"
+        ],
+        [
+          "CLOETE",
+          "6",
+          "577",
+          "262",
+          "315",
+          "35"
+        ],
+        [
+          "GUADALUPE VICTORIA (PUEBLO NUEVO)",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "PUENTE NEGRO",
+          "4",
+          "164",
+          "77",
+          "87",
+          "9"
+        ],
+        [
+          "SABINAS",
+          "91",
+          "17,249",
+          "8,452",
+          "8,797",
+          "1,142"
+        ],
+        [
+          "TOTAL",
+          "105",
+          "18,574",
+          "9,149",
+          "9,425",
+          "1,224"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SABINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUJITA",
+          "2",
+          "547",
+          "338",
+          "209",
+          "36"
+        ],
+        [
+          "CLOETE",
+          "6",
+          "577",
+          "262",
+          "315",
+          "35"
+        ],
+        [
+          "GUADALUPE VICTORIA (PUEBLO NUEVO)",
+          "2",
+          "37",
+          "20",
+          "17",
+          "2"
+        ],
+        [
+          "PUENTE NEGRO",
+          "4",
+          "164",
+          "77",
+          "87",
+          "9"
+        ],
+        [
+          "SABINAS",
+          "91",
+          "17,249",
+          "8,452",
+          "8,797",
+          "1,142"
+        ],
+        [
+          "TOTAL",
+          "105",
+          "18,574",
+          "9,149",
+          "9,425",
+          "1,224"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:57.575Z"
+}

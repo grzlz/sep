@@ -1,0 +1,1022 @@
+{
+  "municipality": "SOCOLTENANGO",
+  "municipalityCode": "083",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SOCOLTENANGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANEXO LAS ROSAS DE GUADALUPE\n\t\t2\n\t\t33\n\t\t22\n\t\t11\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t69\n\t\t26\n\t\t43\n\t\t3\n\t\n\t\n\t\tCHIHUAHUA\n\t\t2\n\t\t80\n\t\t45\n\t\t35\n\t\t4\n\t\n\t\n\t\tCONSTITUCIÓN 27\n\t\t2\n\t\t45\n\t\t20\n\t\t25\n\t\t2\n\t\n\t\n\t\tDOCTOR BELISARIO DOMÍNGUEZ\n\t\t2\n\t\t38\n\t\t14\n\t\t24\n\t\t3\n\t\n\t\n\t\tDOCTOR SAMUEL LEÓN BRINDIS\n\t\t2\n\t\t35\n\t\t20\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL BAJÍO SAN LAZARITO\n\t\t2\n\t\t56\n\t\t30\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL BANCO\n\t\t2\n\t\t81\n\t\t48\n\t\t33\n\t\t4\n\t\n\t\n\t\tEL SABINAL\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL SANTUARIO\n\t\t3\n\t\t158\n\t\t80\n\t\t78\n\t\t8\n\t\n\t\n\t\tEL SANTUARIO DOS (CAÑA CASTILLA)\n\t\t4\n\t\t122\n\t\t69\n\t\t53\n\t\t9\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t2\n\t\t132\n\t\t63\n\t\t69\n\t\t6\n\t\n\t\n\t\tESTRELLA ROJA\n\t\t2\n\t\t109\n\t\t52\n\t\t57\n\t\t5\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t3\n\t\t174\n\t\t95\n\t\t79\n\t\t7\n\t\n\t\n\t\tJORGE DE LA VEGA DOMÍNGUEZ\n\t\t2\n\t\t54\n\t\t24\n\t\t30\n\t\t3\n\t\n\t\n\t\tLA PLANADA\n\t\t2\n\t\t64\n\t\t34\n\t\t30\n\t\t3\n\t\n\t\n\t\tLA PRIMAVERA\n\t\t2\n\t\t57\n\t\t27\n\t\t30\n\t\t3\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t2\n\t\t73\n\t\t41\n\t\t32\n\t\t3\n\t\n\t\n\t\tMIRAMAR\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tNUEVA FLORESTA\n\t\t1\n\t\t15\n\t\t10\n\t\t5\n\t\t1\n\t\n\t\n\t\tNUEVA JERUSALÉN CASCAJAL\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tNUEVA REFORMA AGRARIA\n\t\t2\n\t\t64\n\t\t30\n\t\t34\n\t\t3\n\t\n\t\n\t\tNUEVE DE MARZO\n\t\t2\n\t\t54\n\t\t28\n\t\t26\n\t\t2\n\t\n\t\n\t\tNUEVO CHEJEL\n\t\t3\n\t\t101\n\t\t51\n\t\t50\n\t\t5\n\t\n\t\n\t\tNUEVO SAN SEBASTIÁN LA CANDELARIA\n\t\t3\n\t\t149\n\t\t75\n\t\t74\n\t\t6\n\t\n\t\n\t\tNUEVO ZACOALPA (LA ROCA)\n\t\t2\n\t\t65\n\t\t35\n\t\t30\n\t\t2\n\t\n\t\n\t\tPUERTO RICO\n\t\t3\n\t\t244\n\t\t134\n\t\t110\n\t\t12\n\t\n\t\n\t\tSAN AGUSTÍN EL PORVENIR\n\t\t2\n\t\t42\n\t\t16\n\t\t26\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO COPALAR\n\t\t2\n\t\t39\n\t\t15\n\t\t24\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO CRUCILA\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO EL SAUZAL\n\t\t2\n\t\t27\n\t\t7\n\t\t20\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ TIERRA BLANCA\n\t\t1\n\t\t14\n\t\t4\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL SOCTIC\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN PEDRO PEDERNAL\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN VICENTE\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN VICENTE PAUCHIL CHANIVAL\n\t\t3\n\t\t345\n\t\t150\n\t\t195\n\t\t13\n\t\n\t\n\t\tSANTA CRUZ JOTOLÁ\n\t\t1\n\t\t41\n\t\t24\n\t\t17\n\t\t2\n\t\n\t\n\t\tSOCOLTENANGO\n\t\t10\n\t\t1,463\n\t\t729\n\t\t734\n\t\t74\n\t\n\t\n\t\tTIERRA Y LIBERTAD\n\t\t2\n\t\t31\n\t\t17\n\t\t14\n\t\t2\n\t\n\t\n\t\tTZINIL\n\t\t3\n\t\t373\n\t\t196\n\t\t177\n\t\t17\n\t\n\t\n\t\tUNIÓN CAMPESINA\n\t\t4\n\t\t174\n\t\t82\n\t\t92\n\t\t9\n\t\n\t\n\t\tUNIÓN GUADALUPE\n\t\t2\n\t\t67\n\t\t40\n\t\t27\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t96\n\t\t4,797\n\t\t2,406\n\t\t2,391\n\t\t240\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SOCOLTENANGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANEXO LAS ROSAS DE GUADALUPE",
+          "2",
+          "33",
+          "22",
+          "11",
+          "2",
+          "BENITO JUÁREZ",
+          "2",
+          "69",
+          "26",
+          "43",
+          "3",
+          "CHIHUAHUA",
+          "2",
+          "80",
+          "45",
+          "35",
+          "4",
+          "CONSTITUCIÓN 27",
+          "2",
+          "45",
+          "20",
+          "25",
+          "2",
+          "DOCTOR BELISARIO DOMÍNGUEZ",
+          "2",
+          "38",
+          "14",
+          "24",
+          "3",
+          "DOCTOR SAMUEL LEÓN BRINDIS",
+          "2",
+          "35",
+          "20",
+          "15",
+          "2",
+          "EL BAJÍO SAN LAZARITO",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3",
+          "EL BANCO",
+          "2",
+          "81",
+          "48",
+          "33",
+          "4",
+          "EL SABINAL",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "EL SANTUARIO",
+          "3",
+          "158",
+          "80",
+          "78",
+          "8",
+          "EL SANTUARIO DOS (CAÑA CASTILLA)",
+          "4",
+          "122",
+          "69",
+          "53",
+          "9",
+          "EMILIANO ZAPATA",
+          "2",
+          "132",
+          "63",
+          "69",
+          "6",
+          "ESTRELLA ROJA",
+          "2",
+          "109",
+          "52",
+          "57",
+          "5",
+          "FRANCISCO VILLA",
+          "3",
+          "174",
+          "95",
+          "79",
+          "7",
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3",
+          "LA PLANADA",
+          "2",
+          "64",
+          "34",
+          "30",
+          "3",
+          "LA PRIMAVERA",
+          "2",
+          "57",
+          "27",
+          "30",
+          "3",
+          "LÁZARO CÁRDENAS",
+          "2",
+          "73",
+          "41",
+          "32",
+          "3",
+          "MIRAMAR",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "NUEVA FLORESTA",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1",
+          "NUEVA JERUSALÉN CASCAJAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "NUEVA REFORMA AGRARIA",
+          "2",
+          "64",
+          "30",
+          "34",
+          "3",
+          "NUEVE DE MARZO",
+          "2",
+          "54",
+          "28",
+          "26",
+          "2",
+          "NUEVO CHEJEL",
+          "3",
+          "101",
+          "51",
+          "50",
+          "5",
+          "NUEVO SAN SEBASTIÁN LA CANDELARIA",
+          "3",
+          "149",
+          "75",
+          "74",
+          "6",
+          "NUEVO ZACOALPA (LA ROCA)",
+          "2",
+          "65",
+          "35",
+          "30",
+          "2",
+          "PUERTO RICO",
+          "3",
+          "244",
+          "134",
+          "110",
+          "12",
+          "SAN AGUSTÍN EL PORVENIR",
+          "2",
+          "42",
+          "16",
+          "26",
+          "2",
+          "SAN ANTONIO COPALAR",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3",
+          "SAN ANTONIO CRUCILA",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "SAN ANTONIO EL SAUZAL",
+          "2",
+          "27",
+          "7",
+          "20",
+          "2",
+          "SAN JOSÉ TIERRA BLANCA",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1",
+          "SAN MIGUEL SOCTIC",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2",
+          "SAN PEDRO PEDERNAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "SAN VICENTE",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3",
+          "SAN VICENTE PAUCHIL CHANIVAL",
+          "3",
+          "345",
+          "150",
+          "195",
+          "13",
+          "SANTA CRUZ JOTOLÁ",
+          "1",
+          "41",
+          "24",
+          "17",
+          "2",
+          "SOCOLTENANGO",
+          "10",
+          "1,463",
+          "729",
+          "734",
+          "74",
+          "TIERRA Y LIBERTAD",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2",
+          "TZINIL",
+          "3",
+          "373",
+          "196",
+          "177",
+          "17",
+          "UNIÓN CAMPESINA",
+          "4",
+          "174",
+          "82",
+          "92",
+          "9",
+          "UNIÓN GUADALUPE",
+          "2",
+          "67",
+          "40",
+          "27",
+          "3",
+          "TOTAL",
+          "96",
+          "4,797",
+          "2,406",
+          "2,391",
+          "240",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SOCOLTENANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANEXO LAS ROSAS DE GUADALUPE",
+          "2",
+          "33",
+          "22",
+          "11",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "69",
+          "26",
+          "43",
+          "3"
+        ],
+        [
+          "CHIHUAHUA",
+          "2",
+          "80",
+          "45",
+          "35",
+          "4"
+        ],
+        [
+          "CONSTITUCIÓN 27",
+          "2",
+          "45",
+          "20",
+          "25",
+          "2"
+        ],
+        [
+          "DOCTOR BELISARIO DOMÍNGUEZ",
+          "2",
+          "38",
+          "14",
+          "24",
+          "3"
+        ],
+        [
+          "DOCTOR SAMUEL LEÓN BRINDIS",
+          "2",
+          "35",
+          "20",
+          "15",
+          "2"
+        ],
+        [
+          "EL BAJÍO SAN LAZARITO",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "EL BANCO",
+          "2",
+          "81",
+          "48",
+          "33",
+          "4"
+        ],
+        [
+          "EL SABINAL",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL SANTUARIO",
+          "3",
+          "158",
+          "80",
+          "78",
+          "8"
+        ],
+        [
+          "EL SANTUARIO DOS (CAÑA CASTILLA)",
+          "4",
+          "122",
+          "69",
+          "53",
+          "9"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "132",
+          "63",
+          "69",
+          "6"
+        ],
+        [
+          "ESTRELLA ROJA",
+          "2",
+          "109",
+          "52",
+          "57",
+          "5"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "174",
+          "95",
+          "79",
+          "7"
+        ],
+        [
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3"
+        ],
+        [
+          "LA PLANADA",
+          "2",
+          "64",
+          "34",
+          "30",
+          "3"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "57",
+          "27",
+          "30",
+          "3"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "73",
+          "41",
+          "32",
+          "3"
+        ],
+        [
+          "MIRAMAR",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "NUEVA FLORESTA",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVA JERUSALÉN CASCAJAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "NUEVA REFORMA AGRARIA",
+          "2",
+          "64",
+          "30",
+          "34",
+          "3"
+        ],
+        [
+          "NUEVE DE MARZO",
+          "2",
+          "54",
+          "28",
+          "26",
+          "2"
+        ],
+        [
+          "NUEVO CHEJEL",
+          "3",
+          "101",
+          "51",
+          "50",
+          "5"
+        ],
+        [
+          "NUEVO SAN SEBASTIÁN LA CANDELARIA",
+          "3",
+          "149",
+          "75",
+          "74",
+          "6"
+        ],
+        [
+          "NUEVO ZACOALPA (LA ROCA)",
+          "2",
+          "65",
+          "35",
+          "30",
+          "2"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "244",
+          "134",
+          "110",
+          "12"
+        ],
+        [
+          "SAN AGUSTÍN EL PORVENIR",
+          "2",
+          "42",
+          "16",
+          "26",
+          "2"
+        ],
+        [
+          "SAN ANTONIO COPALAR",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "SAN ANTONIO CRUCILA",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "SAN ANTONIO EL SAUZAL",
+          "2",
+          "27",
+          "7",
+          "20",
+          "2"
+        ],
+        [
+          "SAN JOSÉ TIERRA BLANCA",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MIGUEL SOCTIC",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PEDRO PEDERNAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "SAN VICENTE PAUCHIL CHANIVAL",
+          "3",
+          "345",
+          "150",
+          "195",
+          "13"
+        ],
+        [
+          "SANTA CRUZ JOTOLÁ",
+          "1",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "SOCOLTENANGO",
+          "10",
+          "1,463",
+          "729",
+          "734",
+          "74"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2"
+        ],
+        [
+          "TZINIL",
+          "3",
+          "373",
+          "196",
+          "177",
+          "17"
+        ],
+        [
+          "UNIÓN CAMPESINA",
+          "4",
+          "174",
+          "82",
+          "92",
+          "9"
+        ],
+        [
+          "UNIÓN GUADALUPE",
+          "2",
+          "67",
+          "40",
+          "27",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "4,797",
+          "2,406",
+          "2,391",
+          "240"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SOCOLTENANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANEXO LAS ROSAS DE GUADALUPE",
+          "2",
+          "33",
+          "22",
+          "11",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "69",
+          "26",
+          "43",
+          "3"
+        ],
+        [
+          "CHIHUAHUA",
+          "2",
+          "80",
+          "45",
+          "35",
+          "4"
+        ],
+        [
+          "CONSTITUCIÓN 27",
+          "2",
+          "45",
+          "20",
+          "25",
+          "2"
+        ],
+        [
+          "DOCTOR BELISARIO DOMÍNGUEZ",
+          "2",
+          "38",
+          "14",
+          "24",
+          "3"
+        ],
+        [
+          "DOCTOR SAMUEL LEÓN BRINDIS",
+          "2",
+          "35",
+          "20",
+          "15",
+          "2"
+        ],
+        [
+          "EL BAJÍO SAN LAZARITO",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "EL BANCO",
+          "2",
+          "81",
+          "48",
+          "33",
+          "4"
+        ],
+        [
+          "EL SABINAL",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "EL SANTUARIO",
+          "3",
+          "158",
+          "80",
+          "78",
+          "8"
+        ],
+        [
+          "EL SANTUARIO DOS (CAÑA CASTILLA)",
+          "4",
+          "122",
+          "69",
+          "53",
+          "9"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "132",
+          "63",
+          "69",
+          "6"
+        ],
+        [
+          "ESTRELLA ROJA",
+          "2",
+          "109",
+          "52",
+          "57",
+          "5"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "174",
+          "95",
+          "79",
+          "7"
+        ],
+        [
+          "JORGE DE LA VEGA DOMÍNGUEZ",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3"
+        ],
+        [
+          "LA PLANADA",
+          "2",
+          "64",
+          "34",
+          "30",
+          "3"
+        ],
+        [
+          "LA PRIMAVERA",
+          "2",
+          "57",
+          "27",
+          "30",
+          "3"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "73",
+          "41",
+          "32",
+          "3"
+        ],
+        [
+          "MIRAMAR",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "NUEVA FLORESTA",
+          "1",
+          "15",
+          "10",
+          "5",
+          "1"
+        ],
+        [
+          "NUEVA JERUSALÉN CASCAJAL",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "NUEVA REFORMA AGRARIA",
+          "2",
+          "64",
+          "30",
+          "34",
+          "3"
+        ],
+        [
+          "NUEVE DE MARZO",
+          "2",
+          "54",
+          "28",
+          "26",
+          "2"
+        ],
+        [
+          "NUEVO CHEJEL",
+          "3",
+          "101",
+          "51",
+          "50",
+          "5"
+        ],
+        [
+          "NUEVO SAN SEBASTIÁN LA CANDELARIA",
+          "3",
+          "149",
+          "75",
+          "74",
+          "6"
+        ],
+        [
+          "NUEVO ZACOALPA (LA ROCA)",
+          "2",
+          "65",
+          "35",
+          "30",
+          "2"
+        ],
+        [
+          "PUERTO RICO",
+          "3",
+          "244",
+          "134",
+          "110",
+          "12"
+        ],
+        [
+          "SAN AGUSTÍN EL PORVENIR",
+          "2",
+          "42",
+          "16",
+          "26",
+          "2"
+        ],
+        [
+          "SAN ANTONIO COPALAR",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "SAN ANTONIO CRUCILA",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "SAN ANTONIO EL SAUZAL",
+          "2",
+          "27",
+          "7",
+          "20",
+          "2"
+        ],
+        [
+          "SAN JOSÉ TIERRA BLANCA",
+          "1",
+          "14",
+          "4",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MIGUEL SOCTIC",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PEDRO PEDERNAL",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "SAN VICENTE PAUCHIL CHANIVAL",
+          "3",
+          "345",
+          "150",
+          "195",
+          "13"
+        ],
+        [
+          "SANTA CRUZ JOTOLÁ",
+          "1",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "SOCOLTENANGO",
+          "10",
+          "1,463",
+          "729",
+          "734",
+          "74"
+        ],
+        [
+          "TIERRA Y LIBERTAD",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2"
+        ],
+        [
+          "TZINIL",
+          "3",
+          "373",
+          "196",
+          "177",
+          "17"
+        ],
+        [
+          "UNIÓN CAMPESINA",
+          "4",
+          "174",
+          "82",
+          "92",
+          "9"
+        ],
+        [
+          "UNIÓN GUADALUPE",
+          "2",
+          "67",
+          "40",
+          "27",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "4,797",
+          "2,406",
+          "2,391",
+          "240"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:14.873Z"
+}

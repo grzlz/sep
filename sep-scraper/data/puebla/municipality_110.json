@@ -1,0 +1,604 @@
+{
+  "municipality": "PALMAR DE BRAVO",
+  "municipalityCode": "110",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PALMAR DE BRAVO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMOZOQUILLO PILETAS\n\t\t1\n\t\t18\n\t\t7\n\t\t11\n\t\t1\n\t\n\t\n\t\tBELLAVISTA DE VICTORIA (SAN JOSÉ BELLAVISTA)\n\t\t3\n\t\t748\n\t\t374\n\t\t374\n\t\t26\n\t\n\t\n\t\tCUACNOPALAN\n\t\t8\n\t\t2,773\n\t\t1,409\n\t\t1,364\n\t\t129\n\t\n\t\n\t\tCUESTA BLANCA\n\t\t6\n\t\t1,127\n\t\t536\n\t\t591\n\t\t45\n\t\n\t\n\t\tCUESTA CHICA PILETAS\n\t\t2\n\t\t74\n\t\t40\n\t\t34\n\t\t3\n\t\n\t\n\t\tENCRUCIJADA PRIMERA SECCIÓN\n\t\t3\n\t\t31\n\t\t10\n\t\t21\n\t\t3\n\t\n\t\n\t\tENCRUCIJADA SEGUNDA SECCIÓN\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tGUADALUPE PILETAS\n\t\t2\n\t\t64\n\t\t29\n\t\t35\n\t\t3\n\t\n\t\n\t\tJESÚS NAZARENO\n\t\t2\n\t\t233\n\t\t112\n\t\t121\n\t\t10\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t4\n\t\t739\n\t\t357\n\t\t382\n\t\t29\n\t\n\t\n\t\tLOMA BELLA (LOMA DEL PATO)\n\t\t2\n\t\t17\n\t\t5\n\t\t12\n\t\t2\n\t\n\t\n\t\tLOS REYES ALTAMIRA\n\t\t2\n\t\t53\n\t\t26\n\t\t27\n\t\t5\n\t\n\t\n\t\tPALMAR DE BRAVO\n\t\t8\n\t\t2,275\n\t\t1,156\n\t\t1,119\n\t\t111\n\t\n\t\n\t\tRANCHO DE VERA\n\t\t1\n\t\t19\n\t\t9\n\t\t10\n\t\t1\n\t\n\t\n\t\tRANCHO VERDE\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t4\n\t\n\t\n\t\tSAN FRANCISCO PILETAS\n\t\t3\n\t\t89\n\t\t46\n\t\t43\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO MONTERROSAS\n\t\t4\n\t\t380\n\t\t179\n\t\t201\n\t\t14\n\t\n\t\n\t\tSAN MIGUEL XALTEPEC\n\t\t10\n\t\t3,222\n\t\t1,671\n\t\t1,551\n\t\t103\n\t\n\t\n\t\tSANTA CRUZ MONTERROSAS\n\t\t2\n\t\t234\n\t\t104\n\t\t130\n\t\t10\n\t\n\t\n\t\tSANTA CRUZ OCOTLÁN\n\t\t2\n\t\t34\n\t\t14\n\t\t20\n\t\t3\n\t\n\t\n\t\tSANTA ISABEL SABINAL\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tTEHUITZO\n\t\t4\n\t\t187\n\t\t85\n\t\t102\n\t\t10\n\t\n\t\n\t\tTRINIDAD EL ARENAL (LA NIGUA)\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t76\n\t\t12,391\n\t\t6,203\n\t\t6,188\n\t\t521\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PALMAR DE BRAVO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMOZOQUILLO PILETAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1",
+          "BELLAVISTA DE VICTORIA (SAN JOSÉ BELLAVISTA)",
+          "3",
+          "748",
+          "374",
+          "374",
+          "26",
+          "CUACNOPALAN",
+          "8",
+          "2,773",
+          "1,409",
+          "1,364",
+          "129",
+          "CUESTA BLANCA",
+          "6",
+          "1,127",
+          "536",
+          "591",
+          "45",
+          "CUESTA CHICA PILETAS",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3",
+          "ENCRUCIJADA PRIMERA SECCIÓN",
+          "3",
+          "31",
+          "10",
+          "21",
+          "3",
+          "ENCRUCIJADA SEGUNDA SECCIÓN",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "GUADALUPE PILETAS",
+          "2",
+          "64",
+          "29",
+          "35",
+          "3",
+          "JESÚS NAZARENO",
+          "2",
+          "233",
+          "112",
+          "121",
+          "10",
+          "LA PURÍSIMA",
+          "4",
+          "739",
+          "357",
+          "382",
+          "29",
+          "LOMA BELLA (LOMA DEL PATO)",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2",
+          "LOS REYES ALTAMIRA",
+          "2",
+          "53",
+          "26",
+          "27",
+          "5",
+          "PALMAR DE BRAVO",
+          "8",
+          "2,275",
+          "1,156",
+          "1,119",
+          "111",
+          "RANCHO DE VERA",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1",
+          "RANCHO VERDE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4",
+          "SAN FRANCISCO PILETAS",
+          "3",
+          "89",
+          "46",
+          "43",
+          "4",
+          "SAN ISIDRO MONTERROSAS",
+          "4",
+          "380",
+          "179",
+          "201",
+          "14",
+          "SAN MIGUEL XALTEPEC",
+          "10",
+          "3,222",
+          "1,671",
+          "1,551",
+          "103",
+          "SANTA CRUZ MONTERROSAS",
+          "2",
+          "234",
+          "104",
+          "130",
+          "10",
+          "SANTA CRUZ OCOTLÁN",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3",
+          "SANTA ISABEL SABINAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "TEHUITZO",
+          "4",
+          "187",
+          "85",
+          "102",
+          "10",
+          "TRINIDAD EL ARENAL (LA NIGUA)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2",
+          "TOTAL",
+          "76",
+          "12,391",
+          "6,203",
+          "6,188",
+          "521",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PALMAR DE BRAVO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOZOQUILLO PILETAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "BELLAVISTA DE VICTORIA (SAN JOSÉ BELLAVISTA)",
+          "3",
+          "748",
+          "374",
+          "374",
+          "26"
+        ],
+        [
+          "CUACNOPALAN",
+          "8",
+          "2,773",
+          "1,409",
+          "1,364",
+          "129"
+        ],
+        [
+          "CUESTA BLANCA",
+          "6",
+          "1,127",
+          "536",
+          "591",
+          "45"
+        ],
+        [
+          "CUESTA CHICA PILETAS",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3"
+        ],
+        [
+          "ENCRUCIJADA PRIMERA SECCIÓN",
+          "3",
+          "31",
+          "10",
+          "21",
+          "3"
+        ],
+        [
+          "ENCRUCIJADA SEGUNDA SECCIÓN",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "GUADALUPE PILETAS",
+          "2",
+          "64",
+          "29",
+          "35",
+          "3"
+        ],
+        [
+          "JESÚS NAZARENO",
+          "2",
+          "233",
+          "112",
+          "121",
+          "10"
+        ],
+        [
+          "LA PURÍSIMA",
+          "4",
+          "739",
+          "357",
+          "382",
+          "29"
+        ],
+        [
+          "LOMA BELLA (LOMA DEL PATO)",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2"
+        ],
+        [
+          "LOS REYES ALTAMIRA",
+          "2",
+          "53",
+          "26",
+          "27",
+          "5"
+        ],
+        [
+          "PALMAR DE BRAVO",
+          "8",
+          "2,275",
+          "1,156",
+          "1,119",
+          "111"
+        ],
+        [
+          "RANCHO DE VERA",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "RANCHO VERDE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO PILETAS",
+          "3",
+          "89",
+          "46",
+          "43",
+          "4"
+        ],
+        [
+          "SAN ISIDRO MONTERROSAS",
+          "4",
+          "380",
+          "179",
+          "201",
+          "14"
+        ],
+        [
+          "SAN MIGUEL XALTEPEC",
+          "10",
+          "3,222",
+          "1,671",
+          "1,551",
+          "103"
+        ],
+        [
+          "SANTA CRUZ MONTERROSAS",
+          "2",
+          "234",
+          "104",
+          "130",
+          "10"
+        ],
+        [
+          "SANTA CRUZ OCOTLÁN",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "SANTA ISABEL SABINAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "TEHUITZO",
+          "4",
+          "187",
+          "85",
+          "102",
+          "10"
+        ],
+        [
+          "TRINIDAD EL ARENAL (LA NIGUA)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "12,391",
+          "6,203",
+          "6,188",
+          "521"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: PALMAR DE BRAVO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOZOQUILLO PILETAS",
+          "1",
+          "18",
+          "7",
+          "11",
+          "1"
+        ],
+        [
+          "BELLAVISTA DE VICTORIA (SAN JOSÉ BELLAVISTA)",
+          "3",
+          "748",
+          "374",
+          "374",
+          "26"
+        ],
+        [
+          "CUACNOPALAN",
+          "8",
+          "2,773",
+          "1,409",
+          "1,364",
+          "129"
+        ],
+        [
+          "CUESTA BLANCA",
+          "6",
+          "1,127",
+          "536",
+          "591",
+          "45"
+        ],
+        [
+          "CUESTA CHICA PILETAS",
+          "2",
+          "74",
+          "40",
+          "34",
+          "3"
+        ],
+        [
+          "ENCRUCIJADA PRIMERA SECCIÓN",
+          "3",
+          "31",
+          "10",
+          "21",
+          "3"
+        ],
+        [
+          "ENCRUCIJADA SEGUNDA SECCIÓN",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "GUADALUPE PILETAS",
+          "2",
+          "64",
+          "29",
+          "35",
+          "3"
+        ],
+        [
+          "JESÚS NAZARENO",
+          "2",
+          "233",
+          "112",
+          "121",
+          "10"
+        ],
+        [
+          "LA PURÍSIMA",
+          "4",
+          "739",
+          "357",
+          "382",
+          "29"
+        ],
+        [
+          "LOMA BELLA (LOMA DEL PATO)",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2"
+        ],
+        [
+          "LOS REYES ALTAMIRA",
+          "2",
+          "53",
+          "26",
+          "27",
+          "5"
+        ],
+        [
+          "PALMAR DE BRAVO",
+          "8",
+          "2,275",
+          "1,156",
+          "1,119",
+          "111"
+        ],
+        [
+          "RANCHO DE VERA",
+          "1",
+          "19",
+          "9",
+          "10",
+          "1"
+        ],
+        [
+          "RANCHO VERDE",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "SAN FRANCISCO PILETAS",
+          "3",
+          "89",
+          "46",
+          "43",
+          "4"
+        ],
+        [
+          "SAN ISIDRO MONTERROSAS",
+          "4",
+          "380",
+          "179",
+          "201",
+          "14"
+        ],
+        [
+          "SAN MIGUEL XALTEPEC",
+          "10",
+          "3,222",
+          "1,671",
+          "1,551",
+          "103"
+        ],
+        [
+          "SANTA CRUZ MONTERROSAS",
+          "2",
+          "234",
+          "104",
+          "130",
+          "10"
+        ],
+        [
+          "SANTA CRUZ OCOTLÁN",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "SANTA ISABEL SABINAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "TEHUITZO",
+          "4",
+          "187",
+          "85",
+          "102",
+          "10"
+        ],
+        [
+          "TRINIDAD EL ARENAL (LA NIGUA)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "76",
+          "12,391",
+          "6,203",
+          "6,188",
+          "521"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:31:43.954Z"
+}

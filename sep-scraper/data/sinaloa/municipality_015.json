@@ -1,0 +1,714 @@
+{
+  "municipality": "SALVADOR ALVARADO",
+  "municipalityCode": "015",
+  "state": "SINALOA",
+  "stateCode": "25",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHOME\n\tANGOSTURA\n\tBADIRAGUATO\n\tCHOIX\n\tCONCORDIA\n\tCOSALÁ\n\tCULIACÁN\n\tEL FUERTE\n\tELDORADO\n\tELOTA\n\tESCUINAPA\n\tGUASAVE\n\tJUAN JOSÉ RÍOS\n\tMAZATLÁN\n\tMOCORITO\n\tNAVOLATO\n\tROSARIO\n\tSALVADOR ALVARADO\n\tSAN IGNACIO\n\tSINALOA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: SALVADOR ALVARADO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁLAMO DE LOS MONTOYA\n\t\t2\n\t\t57\n\t\t26\n\t\t31\n\t\t4\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t60\n\t\t28\n\t\t32\n\t\t4\n\t\n\t\n\t\tCACALOTITA\n\t\t3\n\t\t30\n\t\t13\n\t\t17\n\t\t3\n\t\n\t\n\t\tCAITIME\n\t\t4\n\t\t117\n\t\t55\n\t\t62\n\t\t18\n\t\n\t\n\t\tCAMPO PÉNJAMO\n\t\t2\n\t\t23\n\t\t15\n\t\t8\n\t\t2\n\t\n\t\n\t\tCARRICITOS\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tCIÉNEGA DE CASAL\n\t\t4\n\t\t86\n\t\t46\n\t\t40\n\t\t9\n\t\n\t\n\t\tCOLONIA 15 DE SEPTIEMBRE\n\t\t3\n\t\t65\n\t\t26\n\t\t39\n\t\t6\n\t\n\t\n\t\tCOLONIA 20 DE NOVIEMBRE\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t3\n\t\n\t\n\t\tCOLONIA VEINTISIETE DE NOVIEMBRE\n\t\t3\n\t\t36\n\t\t14\n\t\t22\n\t\t4\n\t\n\t\n\t\tCRUZ BLANCA\n\t\t3\n\t\t131\n\t\t71\n\t\t60\n\t\t9\n\t\n\t\n\t\tEL GUAYACÁN\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL SALITRE\n\t\t3\n\t\t120\n\t\t62\n\t\t58\n\t\t13\n\t\n\t\n\t\tEL TABALLAL\n\t\t4\n\t\t146\n\t\t63\n\t\t83\n\t\t10\n\t\n\t\n\t\tEMILIO ÁLVAREZ IBARRA (LAS GOLONDRINAS)\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tGABRIEL LEYVA VELÁZQUEZ (LA ESCALERA)\n\t\t3\n\t\t88\n\t\t49\n\t\t39\n\t\t8\n\t\n\t\n\t\tGUAMÚCHIL\n\t\t89\n\t\t19,065\n\t\t9,678\n\t\t9,387\n\t\t1,250\n\t\n\t\n\t\tGUSTAVO DÍAZ ORDAZ\n\t\t2\n\t\t43\n\t\t17\n\t\t26\n\t\t2\n\t\n\t\n\t\tLAS CABEZAS\n\t\t4\n\t\t70\n\t\t29\n\t\t41\n\t\t8\n\t\n\t\n\t\tLOS CHINOS\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tLUCIO BLANCO\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tRODOLFO SÁNCHEZ TABOADA (LAS LAGUNITAS)\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN MARTÍN\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tTERRERO DE LOS GUERRERO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tTORO MANCHADO\n\t\t2\n\t\t11\n\t\t3\n\t\t8\n\t\t2\n\t\n\t\n\t\tVENUSTIANO CARRANZA (TRES PALMAS)\n\t\t2\n\t\t23\n\t\t12\n\t\t11\n\t\t2\n\t\n\t\n\t\tVILLA BENITO JUÁREZ\n\t\t7\n\t\t995\n\t\t520\n\t\t475\n\t\t71\n\t\n\t\n\t\tYACOCHITO\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t161\n\t\t21,337\n\t\t10,808\n\t\t10,529\n\t\t1,444\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: SALVADOR ALVARADO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁLAMO DE LOS MONTOYA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "4",
+          "BUENAVISTA",
+          "3",
+          "60",
+          "28",
+          "32",
+          "4",
+          "CACALOTITA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "3",
+          "CAITIME",
+          "4",
+          "117",
+          "55",
+          "62",
+          "18",
+          "CAMPO PÉNJAMO",
+          "2",
+          "23",
+          "15",
+          "8",
+          "2",
+          "CARRICITOS",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "CIÉNEGA DE CASAL",
+          "4",
+          "86",
+          "46",
+          "40",
+          "9",
+          "COLONIA 15 DE SEPTIEMBRE",
+          "3",
+          "65",
+          "26",
+          "39",
+          "6",
+          "COLONIA 20 DE NOVIEMBRE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3",
+          "COLONIA VEINTISIETE DE NOVIEMBRE",
+          "3",
+          "36",
+          "14",
+          "22",
+          "4",
+          "CRUZ BLANCA",
+          "3",
+          "131",
+          "71",
+          "60",
+          "9",
+          "EL GUAYACÁN",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "EL SALITRE",
+          "3",
+          "120",
+          "62",
+          "58",
+          "13",
+          "EL TABALLAL",
+          "4",
+          "146",
+          "63",
+          "83",
+          "10",
+          "EMILIO ÁLVAREZ IBARRA (LAS GOLONDRINAS)",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "GABRIEL LEYVA VELÁZQUEZ (LA ESCALERA)",
+          "3",
+          "88",
+          "49",
+          "39",
+          "8",
+          "GUAMÚCHIL",
+          "89",
+          "19,065",
+          "9,678",
+          "9,387",
+          "1,250",
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "43",
+          "17",
+          "26",
+          "2",
+          "LAS CABEZAS",
+          "4",
+          "70",
+          "29",
+          "41",
+          "8",
+          "LOS CHINOS",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "LUCIO BLANCO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2",
+          "RODOLFO SÁNCHEZ TABOADA (LAS LAGUNITAS)",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3",
+          "SAN MARTÍN",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "TERRERO DE LOS GUERRERO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "TORO MANCHADO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2",
+          "VENUSTIANO CARRANZA (TRES PALMAS)",
+          "2",
+          "23",
+          "12",
+          "11",
+          "2",
+          "VILLA BENITO JUÁREZ",
+          "7",
+          "995",
+          "520",
+          "475",
+          "71",
+          "YACOCHITO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "TOTAL",
+          "161",
+          "21,337",
+          "10,808",
+          "10,529",
+          "1,444",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: SALVADOR ALVARADO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLAMO DE LOS MONTOYA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "60",
+          "28",
+          "32",
+          "4"
+        ],
+        [
+          "CACALOTITA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "3"
+        ],
+        [
+          "CAITIME",
+          "4",
+          "117",
+          "55",
+          "62",
+          "18"
+        ],
+        [
+          "CAMPO PÉNJAMO",
+          "2",
+          "23",
+          "15",
+          "8",
+          "2"
+        ],
+        [
+          "CARRICITOS",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE CASAL",
+          "4",
+          "86",
+          "46",
+          "40",
+          "9"
+        ],
+        [
+          "COLONIA 15 DE SEPTIEMBRE",
+          "3",
+          "65",
+          "26",
+          "39",
+          "6"
+        ],
+        [
+          "COLONIA 20 DE NOVIEMBRE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "COLONIA VEINTISIETE DE NOVIEMBRE",
+          "3",
+          "36",
+          "14",
+          "22",
+          "4"
+        ],
+        [
+          "CRUZ BLANCA",
+          "3",
+          "131",
+          "71",
+          "60",
+          "9"
+        ],
+        [
+          "EL GUAYACÁN",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "120",
+          "62",
+          "58",
+          "13"
+        ],
+        [
+          "EL TABALLAL",
+          "4",
+          "146",
+          "63",
+          "83",
+          "10"
+        ],
+        [
+          "EMILIO ÁLVAREZ IBARRA (LAS GOLONDRINAS)",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "GABRIEL LEYVA VELÁZQUEZ (LA ESCALERA)",
+          "3",
+          "88",
+          "49",
+          "39",
+          "8"
+        ],
+        [
+          "GUAMÚCHIL",
+          "89",
+          "19,065",
+          "9,678",
+          "9,387",
+          "1,250"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "43",
+          "17",
+          "26",
+          "2"
+        ],
+        [
+          "LAS CABEZAS",
+          "4",
+          "70",
+          "29",
+          "41",
+          "8"
+        ],
+        [
+          "LOS CHINOS",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "RODOLFO SÁNCHEZ TABOADA (LAS LAGUNITAS)",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "TERRERO DE LOS GUERRERO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "TORO MANCHADO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "VENUSTIANO CARRANZA (TRES PALMAS)",
+          "2",
+          "23",
+          "12",
+          "11",
+          "2"
+        ],
+        [
+          "VILLA BENITO JUÁREZ",
+          "7",
+          "995",
+          "520",
+          "475",
+          "71"
+        ],
+        [
+          "YACOCHITO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "161",
+          "21,337",
+          "10,808",
+          "10,529",
+          "1,444"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: SALVADOR ALVARADO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLAMO DE LOS MONTOYA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "60",
+          "28",
+          "32",
+          "4"
+        ],
+        [
+          "CACALOTITA",
+          "3",
+          "30",
+          "13",
+          "17",
+          "3"
+        ],
+        [
+          "CAITIME",
+          "4",
+          "117",
+          "55",
+          "62",
+          "18"
+        ],
+        [
+          "CAMPO PÉNJAMO",
+          "2",
+          "23",
+          "15",
+          "8",
+          "2"
+        ],
+        [
+          "CARRICITOS",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "CIÉNEGA DE CASAL",
+          "4",
+          "86",
+          "46",
+          "40",
+          "9"
+        ],
+        [
+          "COLONIA 15 DE SEPTIEMBRE",
+          "3",
+          "65",
+          "26",
+          "39",
+          "6"
+        ],
+        [
+          "COLONIA 20 DE NOVIEMBRE",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "COLONIA VEINTISIETE DE NOVIEMBRE",
+          "3",
+          "36",
+          "14",
+          "22",
+          "4"
+        ],
+        [
+          "CRUZ BLANCA",
+          "3",
+          "131",
+          "71",
+          "60",
+          "9"
+        ],
+        [
+          "EL GUAYACÁN",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "120",
+          "62",
+          "58",
+          "13"
+        ],
+        [
+          "EL TABALLAL",
+          "4",
+          "146",
+          "63",
+          "83",
+          "10"
+        ],
+        [
+          "EMILIO ÁLVAREZ IBARRA (LAS GOLONDRINAS)",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "GABRIEL LEYVA VELÁZQUEZ (LA ESCALERA)",
+          "3",
+          "88",
+          "49",
+          "39",
+          "8"
+        ],
+        [
+          "GUAMÚCHIL",
+          "89",
+          "19,065",
+          "9,678",
+          "9,387",
+          "1,250"
+        ],
+        [
+          "GUSTAVO DÍAZ ORDAZ",
+          "2",
+          "43",
+          "17",
+          "26",
+          "2"
+        ],
+        [
+          "LAS CABEZAS",
+          "4",
+          "70",
+          "29",
+          "41",
+          "8"
+        ],
+        [
+          "LOS CHINOS",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "RODOLFO SÁNCHEZ TABOADA (LAS LAGUNITAS)",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "SAN MARTÍN",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "TERRERO DE LOS GUERRERO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "TORO MANCHADO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "VENUSTIANO CARRANZA (TRES PALMAS)",
+          "2",
+          "23",
+          "12",
+          "11",
+          "2"
+        ],
+        [
+          "VILLA BENITO JUÁREZ",
+          "7",
+          "995",
+          "520",
+          "475",
+          "71"
+        ],
+        [
+          "YACOCHITO",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "161",
+          "21,337",
+          "10,808",
+          "10,529",
+          "1,444"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:33:16.968Z"
+}

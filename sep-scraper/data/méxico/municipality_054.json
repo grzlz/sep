@@ -1,0 +1,450 @@
+{
+  "municipality": "METEPEC",
+  "municipalityCode": "054",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: METEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO SANTIAGUITO\n\t\t10\n\t\t2,751\n\t\t1,324\n\t\t1,427\n\t\t155\n\t\n\t\n\t\tCOLONIA AGRÍCOLA ÁLVARO OBREGÓN\n\t\t3\n\t\t494\n\t\t249\n\t\t245\n\t\t25\n\t\n\t\n\t\tCOLONIA LLANO GRANDE (EL SALITRE)\n\t\t3\n\t\t95\n\t\t50\n\t\t45\n\t\t19\n\t\n\t\n\t\tMETEPEC\n\t\t227\n\t\t52,485\n\t\t25,131\n\t\t27,354\n\t\t4,596\n\t\n\t\n\t\tRESIDENCIAL FORESTA\n\t\t1\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tSAN BARTOLOMÉ TLALTELULCO\n\t\t7\n\t\t2,584\n\t\t1,244\n\t\t1,340\n\t\t202\n\t\n\t\n\t\tSAN FRANCISCO COAXUSCO\n\t\t2\n\t\t478\n\t\t235\n\t\t243\n\t\t23\n\t\n\t\n\t\tSAN GASPAR TLAHUELILPAN\n\t\t16\n\t\t2,990\n\t\t1,418\n\t\t1,572\n\t\t154\n\t\n\t\n\t\tSAN JERÓNIMO CHICAHUALCO\n\t\t15\n\t\t1,396\n\t\t664\n\t\t732\n\t\t113\n\t\n\t\n\t\tSAN JORGE PUEBLO NUEVO\n\t\t3\n\t\t210\n\t\t96\n\t\t114\n\t\t11\n\t\n\t\n\t\tSAN LORENZO COACALCO (SAN LORENZO)\n\t\t5\n\t\t402\n\t\t205\n\t\t197\n\t\t37\n\t\n\t\n\t\tSAN LUCAS TUNCO (SAN LUCAS)\n\t\t6\n\t\t1,503\n\t\t767\n\t\t736\n\t\t68\n\t\n\t\n\t\tSAN MIGUEL TOTOCUITLAPILCO\n\t\t14\n\t\t2,921\n\t\t1,430\n\t\t1,491\n\t\t197\n\t\n\t\n\t\tSAN SALVADOR TIZATLALLI\n\t\t12\n\t\t1,362\n\t\t680\n\t\t682\n\t\t124\n\t\n\t\n\t\tSAN SEBASTIÁN\n\t\t2\n\t\t581\n\t\t300\n\t\t281\n\t\t21\n\t\n\t\n\t\tSANTA MARÍA MAGDALENA OCOTITLÁN\n\t\t14\n\t\t2,217\n\t\t1,053\n\t\t1,164\n\t\t118\n\t\n\t\n\t\tTOTAL\n\t\t340\n\t\t72,499\n\t\t34,858\n\t\t37,641\n\t\t5,865\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: METEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO SANTIAGUITO",
+          "10",
+          "2,751",
+          "1,324",
+          "1,427",
+          "155",
+          "COLONIA AGRÍCOLA ÁLVARO OBREGÓN",
+          "3",
+          "494",
+          "249",
+          "245",
+          "25",
+          "COLONIA LLANO GRANDE (EL SALITRE)",
+          "3",
+          "95",
+          "50",
+          "45",
+          "19",
+          "METEPEC",
+          "227",
+          "52,485",
+          "25,131",
+          "27,354",
+          "4,596",
+          "RESIDENCIAL FORESTA",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2",
+          "SAN BARTOLOMÉ TLALTELULCO",
+          "7",
+          "2,584",
+          "1,244",
+          "1,340",
+          "202",
+          "SAN FRANCISCO COAXUSCO",
+          "2",
+          "478",
+          "235",
+          "243",
+          "23",
+          "SAN GASPAR TLAHUELILPAN",
+          "16",
+          "2,990",
+          "1,418",
+          "1,572",
+          "154",
+          "SAN JERÓNIMO CHICAHUALCO",
+          "15",
+          "1,396",
+          "664",
+          "732",
+          "113",
+          "SAN JORGE PUEBLO NUEVO",
+          "3",
+          "210",
+          "96",
+          "114",
+          "11",
+          "SAN LORENZO COACALCO (SAN LORENZO)",
+          "5",
+          "402",
+          "205",
+          "197",
+          "37",
+          "SAN LUCAS TUNCO (SAN LUCAS)",
+          "6",
+          "1,503",
+          "767",
+          "736",
+          "68",
+          "SAN MIGUEL TOTOCUITLAPILCO",
+          "14",
+          "2,921",
+          "1,430",
+          "1,491",
+          "197",
+          "SAN SALVADOR TIZATLALLI",
+          "12",
+          "1,362",
+          "680",
+          "682",
+          "124",
+          "SAN SEBASTIÁN",
+          "2",
+          "581",
+          "300",
+          "281",
+          "21",
+          "SANTA MARÍA MAGDALENA OCOTITLÁN",
+          "14",
+          "2,217",
+          "1,053",
+          "1,164",
+          "118",
+          "TOTAL",
+          "340",
+          "72,499",
+          "34,858",
+          "37,641",
+          "5,865",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: METEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO SANTIAGUITO",
+          "10",
+          "2,751",
+          "1,324",
+          "1,427",
+          "155"
+        ],
+        [
+          "COLONIA AGRÍCOLA ÁLVARO OBREGÓN",
+          "3",
+          "494",
+          "249",
+          "245",
+          "25"
+        ],
+        [
+          "COLONIA LLANO GRANDE (EL SALITRE)",
+          "3",
+          "95",
+          "50",
+          "45",
+          "19"
+        ],
+        [
+          "METEPEC",
+          "227",
+          "52,485",
+          "25,131",
+          "27,354",
+          "4,596"
+        ],
+        [
+          "RESIDENCIAL FORESTA",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "SAN BARTOLOMÉ TLALTELULCO",
+          "7",
+          "2,584",
+          "1,244",
+          "1,340",
+          "202"
+        ],
+        [
+          "SAN FRANCISCO COAXUSCO",
+          "2",
+          "478",
+          "235",
+          "243",
+          "23"
+        ],
+        [
+          "SAN GASPAR TLAHUELILPAN",
+          "16",
+          "2,990",
+          "1,418",
+          "1,572",
+          "154"
+        ],
+        [
+          "SAN JERÓNIMO CHICAHUALCO",
+          "15",
+          "1,396",
+          "664",
+          "732",
+          "113"
+        ],
+        [
+          "SAN JORGE PUEBLO NUEVO",
+          "3",
+          "210",
+          "96",
+          "114",
+          "11"
+        ],
+        [
+          "SAN LORENZO COACALCO (SAN LORENZO)",
+          "5",
+          "402",
+          "205",
+          "197",
+          "37"
+        ],
+        [
+          "SAN LUCAS TUNCO (SAN LUCAS)",
+          "6",
+          "1,503",
+          "767",
+          "736",
+          "68"
+        ],
+        [
+          "SAN MIGUEL TOTOCUITLAPILCO",
+          "14",
+          "2,921",
+          "1,430",
+          "1,491",
+          "197"
+        ],
+        [
+          "SAN SALVADOR TIZATLALLI",
+          "12",
+          "1,362",
+          "680",
+          "682",
+          "124"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "2",
+          "581",
+          "300",
+          "281",
+          "21"
+        ],
+        [
+          "SANTA MARÍA MAGDALENA OCOTITLÁN",
+          "14",
+          "2,217",
+          "1,053",
+          "1,164",
+          "118"
+        ],
+        [
+          "TOTAL",
+          "340",
+          "72,499",
+          "34,858",
+          "37,641",
+          "5,865"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: METEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO SANTIAGUITO",
+          "10",
+          "2,751",
+          "1,324",
+          "1,427",
+          "155"
+        ],
+        [
+          "COLONIA AGRÍCOLA ÁLVARO OBREGÓN",
+          "3",
+          "494",
+          "249",
+          "245",
+          "25"
+        ],
+        [
+          "COLONIA LLANO GRANDE (EL SALITRE)",
+          "3",
+          "95",
+          "50",
+          "45",
+          "19"
+        ],
+        [
+          "METEPEC",
+          "227",
+          "52,485",
+          "25,131",
+          "27,354",
+          "4,596"
+        ],
+        [
+          "RESIDENCIAL FORESTA",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "SAN BARTOLOMÉ TLALTELULCO",
+          "7",
+          "2,584",
+          "1,244",
+          "1,340",
+          "202"
+        ],
+        [
+          "SAN FRANCISCO COAXUSCO",
+          "2",
+          "478",
+          "235",
+          "243",
+          "23"
+        ],
+        [
+          "SAN GASPAR TLAHUELILPAN",
+          "16",
+          "2,990",
+          "1,418",
+          "1,572",
+          "154"
+        ],
+        [
+          "SAN JERÓNIMO CHICAHUALCO",
+          "15",
+          "1,396",
+          "664",
+          "732",
+          "113"
+        ],
+        [
+          "SAN JORGE PUEBLO NUEVO",
+          "3",
+          "210",
+          "96",
+          "114",
+          "11"
+        ],
+        [
+          "SAN LORENZO COACALCO (SAN LORENZO)",
+          "5",
+          "402",
+          "205",
+          "197",
+          "37"
+        ],
+        [
+          "SAN LUCAS TUNCO (SAN LUCAS)",
+          "6",
+          "1,503",
+          "767",
+          "736",
+          "68"
+        ],
+        [
+          "SAN MIGUEL TOTOCUITLAPILCO",
+          "14",
+          "2,921",
+          "1,430",
+          "1,491",
+          "197"
+        ],
+        [
+          "SAN SALVADOR TIZATLALLI",
+          "12",
+          "1,362",
+          "680",
+          "682",
+          "124"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "2",
+          "581",
+          "300",
+          "281",
+          "21"
+        ],
+        [
+          "SANTA MARÍA MAGDALENA OCOTITLÁN",
+          "14",
+          "2,217",
+          "1,053",
+          "1,164",
+          "118"
+        ],
+        [
+          "TOTAL",
+          "340",
+          "72,499",
+          "34,858",
+          "37,641",
+          "5,865"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:18:27.918Z"
+}

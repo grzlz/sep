@@ -1,0 +1,802 @@
+{
+  "municipality": "PARÁCUARO",
+  "municipalityCode": "064",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: PARÁCUARO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANTÚNEZ (MORELOS)\n\t\t12\n\t\t2,141\n\t\t1,102\n\t\t1,039\n\t\t122\n\t\n\t\n\t\tBUENOS AIRES\n\t\t3\n\t\t253\n\t\t130\n\t\t123\n\t\t13\n\t\n\t\n\t\tCANAL DE PEDERNALES\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tCANCITA\n\t\t4\n\t\t201\n\t\t92\n\t\t109\n\t\t18\n\t\n\t\n\t\tCHONENGO\n\t\t4\n\t\t128\n\t\t60\n\t\t68\n\t\t11\n\t\n\t\n\t\tCIUDAD MORELOS [CRUCERO DE PARÁCUARO]\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tCRUCERO DE PARÁCUARO\n\t\t2\n\t\t76\n\t\t36\n\t\t40\n\t\t7\n\t\n\t\n\t\tCRUCERO LAS YEGUAS\n\t\t2\n\t\t128\n\t\t59\n\t\t69\n\t\t8\n\t\n\t\n\t\tEL CARRIZO\n\t\t2\n\t\t39\n\t\t22\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL CAULOTE\n\t\t4\n\t\t192\n\t\t87\n\t\t105\n\t\t14\n\t\n\t\n\t\tEL JUNCO\n\t\t1\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t2\n\t\t23\n\t\t13\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL VALLE\n\t\t3\n\t\t20\n\t\t10\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL VARAL (EL OREJANO)\n\t\t2\n\t\t76\n\t\t36\n\t\t40\n\t\t5\n\t\n\t\n\t\tESPAÑITA\n\t\t3\n\t\t27\n\t\t17\n\t\t10\n\t\t4\n\t\n\t\n\t\tGUADALUPE\n\t\t1\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA BATEA\n\t\t2\n\t\t34\n\t\t16\n\t\t18\n\t\t3\n\t\n\t\n\t\tLA ESTANCIA\n\t\t5\n\t\t273\n\t\t141\n\t\t132\n\t\t22\n\t\n\t\n\t\tLAS CRUCITAS\n\t\t3\n\t\t124\n\t\t73\n\t\t51\n\t\t10\n\t\n\t\n\t\tLAS ORDEÑITAS\n\t\t3\n\t\t48\n\t\t28\n\t\t20\n\t\t4\n\t\n\t\n\t\tLAS YEGUAS\n\t\t4\n\t\t275\n\t\t144\n\t\t131\n\t\t15\n\t\n\t\n\t\tLOS BANCOS\n\t\t3\n\t\t208\n\t\t94\n\t\t114\n\t\t14\n\t\n\t\n\t\tLOS POZOS\n\t\t4\n\t\t165\n\t\t79\n\t\t86\n\t\t15\n\t\n\t\n\t\tLOS TIQUICHES\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tMARAVATÍO\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tMONTE GRANDE\n\t\t3\n\t\t38\n\t\t14\n\t\t24\n\t\t4\n\t\n\t\n\t\tPARÁCUARO\n\t\t12\n\t\t1,578\n\t\t811\n\t\t767\n\t\t119\n\t\n\t\n\t\tPIEDRA PARADA\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tPRIMERO DE SEPTIEMBRE\n\t\t1\n\t\t16\n\t\t11\n\t\t5\n\t\t2\n\t\n\t\n\t\tPUERTA CHICA (BARRIO SECO)\n\t\t2\n\t\t63\n\t\t38\n\t\t25\n\t\t4\n\t\n\t\n\t\tUSPERO (REYNOSA)\n\t\t6\n\t\t320\n\t\t167\n\t\t153\n\t\t23\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t4\n\t\t195\n\t\t101\n\t\t94\n\t\t14\n\t\n\t\n\t\tTOTAL\n\t\t103\n\t\t6,713\n\t\t3,417\n\t\t3,296\n\t\t470\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: PARÁCUARO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANTÚNEZ (MORELOS)",
+          "12",
+          "2,141",
+          "1,102",
+          "1,039",
+          "122",
+          "BUENOS AIRES",
+          "3",
+          "253",
+          "130",
+          "123",
+          "13",
+          "CANAL DE PEDERNALES",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "CANCITA",
+          "4",
+          "201",
+          "92",
+          "109",
+          "18",
+          "CHONENGO",
+          "4",
+          "128",
+          "60",
+          "68",
+          "11",
+          "CIUDAD MORELOS [CRUCERO DE PARÁCUARO]",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "CRUCERO DE PARÁCUARO",
+          "2",
+          "76",
+          "36",
+          "40",
+          "7",
+          "CRUCERO LAS YEGUAS",
+          "2",
+          "128",
+          "59",
+          "69",
+          "8",
+          "EL CARRIZO",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3",
+          "EL CAULOTE",
+          "4",
+          "192",
+          "87",
+          "105",
+          "14",
+          "EL JUNCO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "2",
+          "EL TEPEHUAJE",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3",
+          "EL VALLE",
+          "3",
+          "20",
+          "10",
+          "10",
+          "3",
+          "EL VARAL (EL OREJANO)",
+          "2",
+          "76",
+          "36",
+          "40",
+          "5",
+          "ESPAÑITA",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4",
+          "GUADALUPE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2",
+          "LA BATEA",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3",
+          "LA ESTANCIA",
+          "5",
+          "273",
+          "141",
+          "132",
+          "22",
+          "LAS CRUCITAS",
+          "3",
+          "124",
+          "73",
+          "51",
+          "10",
+          "LAS ORDEÑITAS",
+          "3",
+          "48",
+          "28",
+          "20",
+          "4",
+          "LAS YEGUAS",
+          "4",
+          "275",
+          "144",
+          "131",
+          "15",
+          "LOS BANCOS",
+          "3",
+          "208",
+          "94",
+          "114",
+          "14",
+          "LOS POZOS",
+          "4",
+          "165",
+          "79",
+          "86",
+          "15",
+          "LOS TIQUICHES",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "MARAVATÍO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "MONTE GRANDE",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4",
+          "PARÁCUARO",
+          "12",
+          "1,578",
+          "811",
+          "767",
+          "119",
+          "PIEDRA PARADA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "PRIMERO DE SEPTIEMBRE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "2",
+          "PUERTA CHICA (BARRIO SECO)",
+          "2",
+          "63",
+          "38",
+          "25",
+          "4",
+          "USPERO (REYNOSA)",
+          "6",
+          "320",
+          "167",
+          "153",
+          "23",
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "195",
+          "101",
+          "94",
+          "14",
+          "TOTAL",
+          "103",
+          "6,713",
+          "3,417",
+          "3,296",
+          "470",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: PARÁCUARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTÚNEZ (MORELOS)",
+          "12",
+          "2,141",
+          "1,102",
+          "1,039",
+          "122"
+        ],
+        [
+          "BUENOS AIRES",
+          "3",
+          "253",
+          "130",
+          "123",
+          "13"
+        ],
+        [
+          "CANAL DE PEDERNALES",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "CANCITA",
+          "4",
+          "201",
+          "92",
+          "109",
+          "18"
+        ],
+        [
+          "CHONENGO",
+          "4",
+          "128",
+          "60",
+          "68",
+          "11"
+        ],
+        [
+          "CIUDAD MORELOS [CRUCERO DE PARÁCUARO]",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CRUCERO DE PARÁCUARO",
+          "2",
+          "76",
+          "36",
+          "40",
+          "7"
+        ],
+        [
+          "CRUCERO LAS YEGUAS",
+          "2",
+          "128",
+          "59",
+          "69",
+          "8"
+        ],
+        [
+          "EL CARRIZO",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "EL CAULOTE",
+          "4",
+          "192",
+          "87",
+          "105",
+          "14"
+        ],
+        [
+          "EL JUNCO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "EL VALLE",
+          "3",
+          "20",
+          "10",
+          "10",
+          "3"
+        ],
+        [
+          "EL VARAL (EL OREJANO)",
+          "2",
+          "76",
+          "36",
+          "40",
+          "5"
+        ],
+        [
+          "ESPAÑITA",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LA BATEA",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LA ESTANCIA",
+          "5",
+          "273",
+          "141",
+          "132",
+          "22"
+        ],
+        [
+          "LAS CRUCITAS",
+          "3",
+          "124",
+          "73",
+          "51",
+          "10"
+        ],
+        [
+          "LAS ORDEÑITAS",
+          "3",
+          "48",
+          "28",
+          "20",
+          "4"
+        ],
+        [
+          "LAS YEGUAS",
+          "4",
+          "275",
+          "144",
+          "131",
+          "15"
+        ],
+        [
+          "LOS BANCOS",
+          "3",
+          "208",
+          "94",
+          "114",
+          "14"
+        ],
+        [
+          "LOS POZOS",
+          "4",
+          "165",
+          "79",
+          "86",
+          "15"
+        ],
+        [
+          "LOS TIQUICHES",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "MARAVATÍO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "MONTE GRANDE",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4"
+        ],
+        [
+          "PARÁCUARO",
+          "12",
+          "1,578",
+          "811",
+          "767",
+          "119"
+        ],
+        [
+          "PIEDRA PARADA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "PRIMERO DE SEPTIEMBRE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTA CHICA (BARRIO SECO)",
+          "2",
+          "63",
+          "38",
+          "25",
+          "4"
+        ],
+        [
+          "USPERO (REYNOSA)",
+          "6",
+          "320",
+          "167",
+          "153",
+          "23"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "195",
+          "101",
+          "94",
+          "14"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "6,713",
+          "3,417",
+          "3,296",
+          "470"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: PARÁCUARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTÚNEZ (MORELOS)",
+          "12",
+          "2,141",
+          "1,102",
+          "1,039",
+          "122"
+        ],
+        [
+          "BUENOS AIRES",
+          "3",
+          "253",
+          "130",
+          "123",
+          "13"
+        ],
+        [
+          "CANAL DE PEDERNALES",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "CANCITA",
+          "4",
+          "201",
+          "92",
+          "109",
+          "18"
+        ],
+        [
+          "CHONENGO",
+          "4",
+          "128",
+          "60",
+          "68",
+          "11"
+        ],
+        [
+          "CIUDAD MORELOS [CRUCERO DE PARÁCUARO]",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "CRUCERO DE PARÁCUARO",
+          "2",
+          "76",
+          "36",
+          "40",
+          "7"
+        ],
+        [
+          "CRUCERO LAS YEGUAS",
+          "2",
+          "128",
+          "59",
+          "69",
+          "8"
+        ],
+        [
+          "EL CARRIZO",
+          "2",
+          "39",
+          "22",
+          "17",
+          "3"
+        ],
+        [
+          "EL CAULOTE",
+          "4",
+          "192",
+          "87",
+          "105",
+          "14"
+        ],
+        [
+          "EL JUNCO",
+          "1",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "EL VALLE",
+          "3",
+          "20",
+          "10",
+          "10",
+          "3"
+        ],
+        [
+          "EL VARAL (EL OREJANO)",
+          "2",
+          "76",
+          "36",
+          "40",
+          "5"
+        ],
+        [
+          "ESPAÑITA",
+          "3",
+          "27",
+          "17",
+          "10",
+          "4"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "LA BATEA",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LA ESTANCIA",
+          "5",
+          "273",
+          "141",
+          "132",
+          "22"
+        ],
+        [
+          "LAS CRUCITAS",
+          "3",
+          "124",
+          "73",
+          "51",
+          "10"
+        ],
+        [
+          "LAS ORDEÑITAS",
+          "3",
+          "48",
+          "28",
+          "20",
+          "4"
+        ],
+        [
+          "LAS YEGUAS",
+          "4",
+          "275",
+          "144",
+          "131",
+          "15"
+        ],
+        [
+          "LOS BANCOS",
+          "3",
+          "208",
+          "94",
+          "114",
+          "14"
+        ],
+        [
+          "LOS POZOS",
+          "4",
+          "165",
+          "79",
+          "86",
+          "15"
+        ],
+        [
+          "LOS TIQUICHES",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "MARAVATÍO",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "MONTE GRANDE",
+          "3",
+          "38",
+          "14",
+          "24",
+          "4"
+        ],
+        [
+          "PARÁCUARO",
+          "12",
+          "1,578",
+          "811",
+          "767",
+          "119"
+        ],
+        [
+          "PIEDRA PARADA",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "PRIMERO DE SEPTIEMBRE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTA CHICA (BARRIO SECO)",
+          "2",
+          "63",
+          "38",
+          "25",
+          "4"
+        ],
+        [
+          "USPERO (REYNOSA)",
+          "6",
+          "320",
+          "167",
+          "153",
+          "23"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "4",
+          "195",
+          "101",
+          "94",
+          "14"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "6,713",
+          "3,417",
+          "3,296",
+          "470"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:34.396Z"
+}

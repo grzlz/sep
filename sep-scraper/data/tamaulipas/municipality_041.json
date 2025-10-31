@@ -1,0 +1,846 @@
+{
+  "municipality": "VICTORIA",
+  "municipalityCode": "041",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VICTORIA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALIANZA DE CABALLEROS\n\t\t3\n\t\t236\n\t\t114\n\t\t122\n\t\t18\n\t\n\t\n\t\tALTO DE ESTACIÓN CABALLEROS\n\t\t1\n\t\t120\n\t\t66\n\t\t54\n\t\t28\n\t\n\t\n\t\tAQUILES SERDÁN\n\t\t2\n\t\t137\n\t\t62\n\t\t75\n\t\t7\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t121\n\t\t56\n\t\t65\n\t\t8\n\t\n\t\n\t\tCIUDAD VICTORIA\n\t\t458\n\t\t97,997\n\t\t49,646\n\t\t48,351\n\t\t7,418\n\t\n\t\n\t\tCONGREGACIÓN CABALLEROS\n\t\t2\n\t\t139\n\t\t79\n\t\t60\n\t\t8\n\t\n\t\n\t\tDIECIOCHO DE MARZO\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL HUIZACHAL (JOYA VERDE)\n\t\t3\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tEL OLIVO\n\t\t4\n\t\t345\n\t\t183\n\t\t162\n\t\t18\n\t\n\t\n\t\tEL OLMO (RANCHO NUEVO DEL CASTILLO)\n\t\t2\n\t\t90\n\t\t43\n\t\t47\n\t\t6\n\t\n\t\n\t\tEL REFUGIO\n\t\t2\n\t\t55\n\t\t27\n\t\t28\n\t\t5\n\t\n\t\n\t\tESTACIÓN CARBONERO\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tFUERTE DE PORTES GIL\n\t\t2\n\t\t45\n\t\t24\n\t\t21\n\t\t4\n\t\n\t\n\t\tHUIZACHAL\n\t\t1\n\t\t1\n\t\t1\n\t\t0\n\t\t1\n\t\n\t\n\t\tJUAN RINCÓN\n\t\t4\n\t\t244\n\t\t120\n\t\t124\n\t\t19\n\t\n\t\n\t\tLA BOCA DE JUAN CAPITÁN\n\t\t3\n\t\t34\n\t\t13\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA CRUCITA\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t229\n\t\t110\n\t\t119\n\t\t12\n\t\n\t\n\t\tLA MISIÓN\n\t\t2\n\t\t164\n\t\t84\n\t\t80\n\t\t9\n\t\n\t\n\t\tLA PEÑITA\n\t\t2\n\t\t87\n\t\t49\n\t\t38\n\t\t6\n\t\n\t\n\t\tLA PRESA\n\t\t3\n\t\t354\n\t\t164\n\t\t190\n\t\t28\n\t\n\t\n\t\tLABORCITAS\n\t\t2\n\t\t90\n\t\t40\n\t\t50\n\t\t9\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t2\n\t\t38\n\t\t16\n\t\t22\n\t\t3\n\t\n\t\n\t\tLOS OLIVOS\n\t\t1\n\t\t105\n\t\t48\n\t\t57\n\t\t7\n\t\n\t\n\t\tMANUEL ÁVILA CAMACHO\n\t\t4\n\t\t214\n\t\t93\n\t\t121\n\t\t15\n\t\n\t\n\t\tMARIPOSAS Y MAHUIRAS\n\t\t2\n\t\t63\n\t\t31\n\t\t32\n\t\t5\n\t\n\t\n\t\tOTILIO MONTAÑO\n\t\t2\n\t\t53\n\t\t23\n\t\t30\n\t\t3\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t65\n\t\t28\n\t\t37\n\t\t5\n\t\n\t\n\t\tRANCHO NUEVO DE ARCE\n\t\t2\n\t\t35\n\t\t18\n\t\t17\n\t\t3\n\t\n\t\n\t\tSAN JUAN Y EL RANCHITO\n\t\t2\n\t\t53\n\t\t26\n\t\t27\n\t\t3\n\t\n\t\n\t\tSANTA ANA\n\t\t3\n\t\t56\n\t\t31\n\t\t25\n\t\t5\n\t\n\t\n\t\tSANTA CLARA\n\t\t3\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tSANTA LIBRADA\n\t\t4\n\t\t174\n\t\t87\n\t\t87\n\t\t12\n\t\n\t\n\t\tTIERRA NUEVA\n\t\t3\n\t\t82\n\t\t39\n\t\t43\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t536\n\t\t101,526\n\t\t51,370\n\t\t50,156\n\t\t7,688\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VICTORIA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALIANZA DE CABALLEROS",
+          "3",
+          "236",
+          "114",
+          "122",
+          "18",
+          "ALTO DE ESTACIÓN CABALLEROS",
+          "1",
+          "120",
+          "66",
+          "54",
+          "28",
+          "AQUILES SERDÁN",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7",
+          "BENITO JUÁREZ",
+          "2",
+          "121",
+          "56",
+          "65",
+          "8",
+          "CIUDAD VICTORIA",
+          "458",
+          "97,997",
+          "49,646",
+          "48,351",
+          "7,418",
+          "CONGREGACIÓN CABALLEROS",
+          "2",
+          "139",
+          "79",
+          "60",
+          "8",
+          "DIECIOCHO DE MARZO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3",
+          "EL HUIZACHAL (JOYA VERDE)",
+          "3",
+          "10",
+          "6",
+          "4",
+          "2",
+          "EL OLIVO",
+          "4",
+          "345",
+          "183",
+          "162",
+          "18",
+          "EL OLMO (RANCHO NUEVO DEL CASTILLO)",
+          "2",
+          "90",
+          "43",
+          "47",
+          "6",
+          "EL REFUGIO",
+          "2",
+          "55",
+          "27",
+          "28",
+          "5",
+          "ESTACIÓN CARBONERO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "FUERTE DE PORTES GIL",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4",
+          "HUIZACHAL",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1",
+          "JUAN RINCÓN",
+          "4",
+          "244",
+          "120",
+          "124",
+          "19",
+          "LA BOCA DE JUAN CAPITÁN",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4",
+          "LA CRUCITA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "LA LIBERTAD",
+          "2",
+          "229",
+          "110",
+          "119",
+          "12",
+          "LA MISIÓN",
+          "2",
+          "164",
+          "84",
+          "80",
+          "9",
+          "LA PEÑITA",
+          "2",
+          "87",
+          "49",
+          "38",
+          "6",
+          "LA PRESA",
+          "3",
+          "354",
+          "164",
+          "190",
+          "28",
+          "LABORCITAS",
+          "2",
+          "90",
+          "40",
+          "50",
+          "9",
+          "LÁZARO CÁRDENAS",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3",
+          "LOS OLIVOS",
+          "1",
+          "105",
+          "48",
+          "57",
+          "7",
+          "MANUEL ÁVILA CAMACHO",
+          "4",
+          "214",
+          "93",
+          "121",
+          "15",
+          "MARIPOSAS Y MAHUIRAS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5",
+          "OTILIO MONTAÑO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "3",
+          "RANCHO NUEVO",
+          "2",
+          "65",
+          "28",
+          "37",
+          "5",
+          "RANCHO NUEVO DE ARCE",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3",
+          "SAN JUAN Y EL RANCHITO",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3",
+          "SANTA ANA",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5",
+          "SANTA CLARA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3",
+          "SANTA LIBRADA",
+          "4",
+          "174",
+          "87",
+          "87",
+          "12",
+          "TIERRA NUEVA",
+          "3",
+          "82",
+          "39",
+          "43",
+          "7",
+          "TOTAL",
+          "536",
+          "101,526",
+          "51,370",
+          "50,156",
+          "7,688",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALIANZA DE CABALLEROS",
+          "3",
+          "236",
+          "114",
+          "122",
+          "18"
+        ],
+        [
+          "ALTO DE ESTACIÓN CABALLEROS",
+          "1",
+          "120",
+          "66",
+          "54",
+          "28"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "121",
+          "56",
+          "65",
+          "8"
+        ],
+        [
+          "CIUDAD VICTORIA",
+          "458",
+          "97,997",
+          "49,646",
+          "48,351",
+          "7,418"
+        ],
+        [
+          "CONGREGACIÓN CABALLEROS",
+          "2",
+          "139",
+          "79",
+          "60",
+          "8"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "EL HUIZACHAL (JOYA VERDE)",
+          "3",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "EL OLIVO",
+          "4",
+          "345",
+          "183",
+          "162",
+          "18"
+        ],
+        [
+          "EL OLMO (RANCHO NUEVO DEL CASTILLO)",
+          "2",
+          "90",
+          "43",
+          "47",
+          "6"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "55",
+          "27",
+          "28",
+          "5"
+        ],
+        [
+          "ESTACIÓN CARBONERO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "FUERTE DE PORTES GIL",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "HUIZACHAL",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "JUAN RINCÓN",
+          "4",
+          "244",
+          "120",
+          "124",
+          "19"
+        ],
+        [
+          "LA BOCA DE JUAN CAPITÁN",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4"
+        ],
+        [
+          "LA CRUCITA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "229",
+          "110",
+          "119",
+          "12"
+        ],
+        [
+          "LA MISIÓN",
+          "2",
+          "164",
+          "84",
+          "80",
+          "9"
+        ],
+        [
+          "LA PEÑITA",
+          "2",
+          "87",
+          "49",
+          "38",
+          "6"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "354",
+          "164",
+          "190",
+          "28"
+        ],
+        [
+          "LABORCITAS",
+          "2",
+          "90",
+          "40",
+          "50",
+          "9"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "LOS OLIVOS",
+          "1",
+          "105",
+          "48",
+          "57",
+          "7"
+        ],
+        [
+          "MANUEL ÁVILA CAMACHO",
+          "4",
+          "214",
+          "93",
+          "121",
+          "15"
+        ],
+        [
+          "MARIPOSAS Y MAHUIRAS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5"
+        ],
+        [
+          "OTILIO MONTAÑO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "65",
+          "28",
+          "37",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO DE ARCE",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JUAN Y EL RANCHITO",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "SANTA ANA",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5"
+        ],
+        [
+          "SANTA CLARA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "SANTA LIBRADA",
+          "4",
+          "174",
+          "87",
+          "87",
+          "12"
+        ],
+        [
+          "TIERRA NUEVA",
+          "3",
+          "82",
+          "39",
+          "43",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "536",
+          "101,526",
+          "51,370",
+          "50,156",
+          "7,688"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALIANZA DE CABALLEROS",
+          "3",
+          "236",
+          "114",
+          "122",
+          "18"
+        ],
+        [
+          "ALTO DE ESTACIÓN CABALLEROS",
+          "1",
+          "120",
+          "66",
+          "54",
+          "28"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "2",
+          "137",
+          "62",
+          "75",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "121",
+          "56",
+          "65",
+          "8"
+        ],
+        [
+          "CIUDAD VICTORIA",
+          "458",
+          "97,997",
+          "49,646",
+          "48,351",
+          "7,418"
+        ],
+        [
+          "CONGREGACIÓN CABALLEROS",
+          "2",
+          "139",
+          "79",
+          "60",
+          "8"
+        ],
+        [
+          "DIECIOCHO DE MARZO",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "EL HUIZACHAL (JOYA VERDE)",
+          "3",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "EL OLIVO",
+          "4",
+          "345",
+          "183",
+          "162",
+          "18"
+        ],
+        [
+          "EL OLMO (RANCHO NUEVO DEL CASTILLO)",
+          "2",
+          "90",
+          "43",
+          "47",
+          "6"
+        ],
+        [
+          "EL REFUGIO",
+          "2",
+          "55",
+          "27",
+          "28",
+          "5"
+        ],
+        [
+          "ESTACIÓN CARBONERO",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "FUERTE DE PORTES GIL",
+          "2",
+          "45",
+          "24",
+          "21",
+          "4"
+        ],
+        [
+          "HUIZACHAL",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "JUAN RINCÓN",
+          "4",
+          "244",
+          "120",
+          "124",
+          "19"
+        ],
+        [
+          "LA BOCA DE JUAN CAPITÁN",
+          "3",
+          "34",
+          "13",
+          "21",
+          "4"
+        ],
+        [
+          "LA CRUCITA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "229",
+          "110",
+          "119",
+          "12"
+        ],
+        [
+          "LA MISIÓN",
+          "2",
+          "164",
+          "84",
+          "80",
+          "9"
+        ],
+        [
+          "LA PEÑITA",
+          "2",
+          "87",
+          "49",
+          "38",
+          "6"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "354",
+          "164",
+          "190",
+          "28"
+        ],
+        [
+          "LABORCITAS",
+          "2",
+          "90",
+          "40",
+          "50",
+          "9"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "LOS OLIVOS",
+          "1",
+          "105",
+          "48",
+          "57",
+          "7"
+        ],
+        [
+          "MANUEL ÁVILA CAMACHO",
+          "4",
+          "214",
+          "93",
+          "121",
+          "15"
+        ],
+        [
+          "MARIPOSAS Y MAHUIRAS",
+          "2",
+          "63",
+          "31",
+          "32",
+          "5"
+        ],
+        [
+          "OTILIO MONTAÑO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "3"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "65",
+          "28",
+          "37",
+          "5"
+        ],
+        [
+          "RANCHO NUEVO DE ARCE",
+          "2",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "SAN JUAN Y EL RANCHITO",
+          "2",
+          "53",
+          "26",
+          "27",
+          "3"
+        ],
+        [
+          "SANTA ANA",
+          "3",
+          "56",
+          "31",
+          "25",
+          "5"
+        ],
+        [
+          "SANTA CLARA",
+          "3",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "SANTA LIBRADA",
+          "4",
+          "174",
+          "87",
+          "87",
+          "12"
+        ],
+        [
+          "TIERRA NUEVA",
+          "3",
+          "82",
+          "39",
+          "43",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "536",
+          "101,526",
+          "51,370",
+          "50,156",
+          "7,688"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:41:16.197Z"
+}

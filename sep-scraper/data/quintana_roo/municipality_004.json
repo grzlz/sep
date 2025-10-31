@@ -1,0 +1,1396 @@
+{
+  "municipality": "OTHÓN P. BLANCO",
+  "municipalityCode": "004",
+  "state": "QUINTANA ROO",
+  "stateCode": "23",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBACALAR\n\tBENITO JUÁREZ\n\tCOZUMEL\n\tFELIPE CARRILLO PUERTO\n\tISLA MUJERES\n\tJOSÉ MARÍA MORELOS\n\tLÁZARO CÁRDENAS\n\tOTHÓN P. BLANCO\n\tPUERTO MORELOS\n\tSOLIDARIDAD\n\tTULUM"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: OTHÓN P. BLANCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACADEMIA ESTATAL DE SEGURIDAD PÚBLICA\n\t\t2\n\t\t189\n\t\t93\n\t\t96\n\t\t42\n\t\n\t\n\t\tALLENDE\n\t\t6\n\t\t220\n\t\t99\n\t\t121\n\t\t15\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t3\n\t\t568\n\t\t287\n\t\t281\n\t\t28\n\t\n\t\n\t\tÁLVARO OBREGÓN VIEJO\n\t\t2\n\t\t22\n\t\t15\n\t\t7\n\t\t2\n\t\n\t\n\t\tCACAO\n\t\t4\n\t\t494\n\t\t250\n\t\t244\n\t\t26\n\t\n\t\n\t\tCALDERITAS\n\t\t6\n\t\t927\n\t\t447\n\t\t480\n\t\t41\n\t\n\t\n\t\tCALIFORNIA\n\t\t3\n\t\t18\n\t\t12\n\t\t6\n\t\t3\n\t\n\t\n\t\tCAOBAS\n\t\t4\n\t\t426\n\t\t218\n\t\t208\n\t\t21\n\t\n\t\n\t\tCARLOS A. MADRAZO\n\t\t5\n\t\t787\n\t\t406\n\t\t381\n\t\t51\n\t\n\t\n\t\tCHETUMAL\n\t\t302\n\t\t50,241\n\t\t25,162\n\t\t25,079\n\t\t5,010\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t3\n\t\t42\n\t\t25\n\t\t17\n\t\t3\n\t\n\t\n\t\tCOCOYOL\n\t\t3\n\t\t212\n\t\t92\n\t\t120\n\t\t11\n\t\n\t\n\t\tDOS AGUADAS\n\t\t3\n\t\t66\n\t\t34\n\t\t32\n\t\t4\n\t\n\t\n\t\tEL CEDRAL\n\t\t3\n\t\t67\n\t\t33\n\t\t34\n\t\t5\n\t\n\t\n\t\tEL POTRILLO\n\t\t3\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tESTEBAN BACA CALDERÓN\n\t\t4\n\t\t59\n\t\t28\n\t\t31\n\t\t6\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t4\n\t\t246\n\t\t128\n\t\t118\n\t\t14\n\t\n\t\n\t\tFRATERNIDAD ANTORCHISTA\n\t\t3\n\t\t173\n\t\t92\n\t\t81\n\t\t5\n\t\n\t\n\t\tHUAY-PIX\n\t\t4\n\t\t454\n\t\t228\n\t\t226\n\t\t23\n\t\n\t\n\t\tICAICHÉ\n\t\t3\n\t\t50\n\t\t30\n\t\t20\n\t\t4\n\t\n\t\n\t\tJAVIER ROJO GÓMEZ\n\t\t5\n\t\t668\n\t\t337\n\t\t331\n\t\t34\n\t\n\t\n\t\tJESÚS GONZÁLEZ ORTEGA\n\t\t4\n\t\t194\n\t\t94\n\t\t100\n\t\t12\n\t\n\t\n\t\tJOSÉ NARCISO ROVIROSA\n\t\t4\n\t\t319\n\t\t157\n\t\t162\n\t\t18\n\t\n\t\n\t\tJUAN SARABIA\n\t\t6\n\t\t795\n\t\t364\n\t\t431\n\t\t72\n\t\n\t\n\t\tLA LIBERTAD\n\t\t3\n\t\t87\n\t\t38\n\t\t49\n\t\t5\n\t\n\t\n\t\tLA UNIÓN\n\t\t4\n\t\t214\n\t\t102\n\t\t112\n\t\t14\n\t\n\t\n\t\tLAGUNA GUERRERO\n\t\t4\n\t\t231\n\t\t108\n\t\t123\n\t\t15\n\t\n\t\n\t\tLÁZARO CÁRDENAS SEGUNDO\n\t\t2\n\t\t127\n\t\t54\n\t\t73\n\t\t8\n\t\n\t\n\t\tLIMONAR\n\t\t3\n\t\t43\n\t\t21\n\t\t22\n\t\t3\n\t\n\t\n\t\tLOS ALACRANES\n\t\t1\n\t\t8\n\t\t1\n\t\t7\n\t\t1\n\t\n\t\n\t\tLUIS ECHEVERRÍA ÁLVAREZ\n\t\t4\n\t\t216\n\t\t106\n\t\t110\n\t\t13\n\t\n\t\n\t\tMAHAHUAL\n\t\t4\n\t\t886\n\t\t438\n\t\t448\n\t\t30\n\t\n\t\n\t\tMÁRTIRES ANTORCHISTAS\n\t\t3\n\t\t152\n\t\t70\n\t\t82\n\t\t7\n\t\n\t\n\t\tMOROCOY\n\t\t4\n\t\t386\n\t\t203\n\t\t183\n\t\t16\n\t\n\t\n\t\tNACHI COCOM\n\t\t3\n\t\t243\n\t\t115\n\t\t128\n\t\t11\n\t\n\t\n\t\tNICOLÁS BRAVO\n\t\t6\n\t\t1,117\n\t\t546\n\t\t571\n\t\t55\n\t\n\t\n\t\tNUEVO BÉCAR\n\t\t4\n\t\t159\n\t\t78\n\t\t81\n\t\t11\n\t\n\t\n\t\tNUEVO CAANÁN\n\t\t3\n\t\t64\n\t\t30\n\t\t34\n\t\t4\n\t\n\t\n\t\tPALMAR\n\t\t3\n\t\t185\n\t\t88\n\t\t97\n\t\t10\n\t\n\t\n\t\tPEDRO JOAQUÍN COLDWELL\n\t\t2\n\t\t159\n\t\t82\n\t\t77\n\t\t8\n\t\n\t\n\t\tPUCTÉ\n\t\t5\n\t\t809\n\t\t456\n\t\t353\n\t\t57\n\t\n\t\n\t\tRAMONAL\n\t\t5\n\t\t250\n\t\t126\n\t\t124\n\t\t14\n\t\n\t\n\t\tRAUDALES\n\t\t2\n\t\t31\n\t\t21\n\t\t10\n\t\t3\n\t\n\t\n\t\tREVOLUCIÓN\n\t\t3\n\t\t21\n\t\t14\n\t\t7\n\t\t3\n\t\n\t\n\t\tSABIDOS\n\t\t3\n\t\t324\n\t\t160\n\t\t164\n\t\t18\n\t\n\t\n\t\tSACXÁN\n\t\t3\n\t\t223\n\t\t110\n\t\t113\n\t\t11\n\t\n\t\n\t\tSAN FRANCISCO BOTES\n\t\t2\n\t\t54\n\t\t24\n\t\t30\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE LA MONTAÑA\n\t\t3\n\t\t56\n\t\t27\n\t\t29\n\t\t4\n\t\n\t\n\t\tSAN PEDRO PERALTA\n\t\t4\n\t\t310\n\t\t174\n\t\t136\n\t\t17\n\t\n\t\n\t\tSANTA ROSA\n\t\t2\n\t\t30\n\t\t18\n\t\t12\n\t\t3\n\t\n\t\n\t\tSERGIO BUTRÓN CASAS\n\t\t4\n\t\t357\n\t\t169\n\t\t188\n\t\t20\n\t\n\t\n\t\tSHEKINAH LA GLORIA DE DIOS\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tSUBTENIENTE LÓPEZ\n\t\t5\n\t\t946\n\t\t414\n\t\t532\n\t\t164\n\t\n\t\n\t\tTOMÁS GARRIDO CANABAL\n\t\t3\n\t\t55\n\t\t25\n\t\t30\n\t\t4\n\t\n\t\n\t\tTRES GARANTÍAS\n\t\t4\n\t\t187\n\t\t87\n\t\t100\n\t\t13\n\t\n\t\n\t\tUCUM\n\t\t2\n\t\t193\n\t\t93\n\t\t100\n\t\t8\n\t\n\t\n\t\tVERACRUZ\n\t\t3\n\t\t45\n\t\t23\n\t\t22\n\t\t4\n\t\n\t\n\t\tXCALAK\n\t\t4\n\t\t135\n\t\t62\n\t\t73\n\t\t10\n\t\n\t\n\t\tXUL-HA\n\t\t3\n\t\t517\n\t\t245\n\t\t272\n\t\t22\n\t\n\t\n\t\tTOTAL\n\t\t504\n\t\t66,081\n\t\t32,971\n\t\t33,110\n\t\t6,043\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: OTHÓN P. BLANCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA",
+          "2",
+          "189",
+          "93",
+          "96",
+          "42",
+          "ALLENDE",
+          "6",
+          "220",
+          "99",
+          "121",
+          "15",
+          "ÁLVARO OBREGÓN",
+          "3",
+          "568",
+          "287",
+          "281",
+          "28",
+          "ÁLVARO OBREGÓN VIEJO",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2",
+          "CACAO",
+          "4",
+          "494",
+          "250",
+          "244",
+          "26",
+          "CALDERITAS",
+          "6",
+          "927",
+          "447",
+          "480",
+          "41",
+          "CALIFORNIA",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3",
+          "CAOBAS",
+          "4",
+          "426",
+          "218",
+          "208",
+          "21",
+          "CARLOS A. MADRAZO",
+          "5",
+          "787",
+          "406",
+          "381",
+          "51",
+          "CHETUMAL",
+          "302",
+          "50,241",
+          "25,162",
+          "25,079",
+          "5,010",
+          "CINCO DE MAYO",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3",
+          "COCOYOL",
+          "3",
+          "212",
+          "92",
+          "120",
+          "11",
+          "DOS AGUADAS",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4",
+          "EL CEDRAL",
+          "3",
+          "67",
+          "33",
+          "34",
+          "5",
+          "EL POTRILLO",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2",
+          "ESTEBAN BACA CALDERÓN",
+          "4",
+          "59",
+          "28",
+          "31",
+          "6",
+          "FRANCISCO VILLA",
+          "4",
+          "246",
+          "128",
+          "118",
+          "14",
+          "FRATERNIDAD ANTORCHISTA",
+          "3",
+          "173",
+          "92",
+          "81",
+          "5",
+          "HUAY-PIX",
+          "4",
+          "454",
+          "228",
+          "226",
+          "23",
+          "ICAICHÉ",
+          "3",
+          "50",
+          "30",
+          "20",
+          "4",
+          "JAVIER ROJO GÓMEZ",
+          "5",
+          "668",
+          "337",
+          "331",
+          "34",
+          "JESÚS GONZÁLEZ ORTEGA",
+          "4",
+          "194",
+          "94",
+          "100",
+          "12",
+          "JOSÉ NARCISO ROVIROSA",
+          "4",
+          "319",
+          "157",
+          "162",
+          "18",
+          "JUAN SARABIA",
+          "6",
+          "795",
+          "364",
+          "431",
+          "72",
+          "LA LIBERTAD",
+          "3",
+          "87",
+          "38",
+          "49",
+          "5",
+          "LA UNIÓN",
+          "4",
+          "214",
+          "102",
+          "112",
+          "14",
+          "LAGUNA GUERRERO",
+          "4",
+          "231",
+          "108",
+          "123",
+          "15",
+          "LÁZARO CÁRDENAS SEGUNDO",
+          "2",
+          "127",
+          "54",
+          "73",
+          "8",
+          "LIMONAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3",
+          "LOS ALACRANES",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1",
+          "LUIS ECHEVERRÍA ÁLVAREZ",
+          "4",
+          "216",
+          "106",
+          "110",
+          "13",
+          "MAHAHUAL",
+          "4",
+          "886",
+          "438",
+          "448",
+          "30",
+          "MÁRTIRES ANTORCHISTAS",
+          "3",
+          "152",
+          "70",
+          "82",
+          "7",
+          "MOROCOY",
+          "4",
+          "386",
+          "203",
+          "183",
+          "16",
+          "NACHI COCOM",
+          "3",
+          "243",
+          "115",
+          "128",
+          "11",
+          "NICOLÁS BRAVO",
+          "6",
+          "1,117",
+          "546",
+          "571",
+          "55",
+          "NUEVO BÉCAR",
+          "4",
+          "159",
+          "78",
+          "81",
+          "11",
+          "NUEVO CAANÁN",
+          "3",
+          "64",
+          "30",
+          "34",
+          "4",
+          "PALMAR",
+          "3",
+          "185",
+          "88",
+          "97",
+          "10",
+          "PEDRO JOAQUÍN COLDWELL",
+          "2",
+          "159",
+          "82",
+          "77",
+          "8",
+          "PUCTÉ",
+          "5",
+          "809",
+          "456",
+          "353",
+          "57",
+          "RAMONAL",
+          "5",
+          "250",
+          "126",
+          "124",
+          "14",
+          "RAUDALES",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3",
+          "REVOLUCIÓN",
+          "3",
+          "21",
+          "14",
+          "7",
+          "3",
+          "SABIDOS",
+          "3",
+          "324",
+          "160",
+          "164",
+          "18",
+          "SACXÁN",
+          "3",
+          "223",
+          "110",
+          "113",
+          "11",
+          "SAN FRANCISCO BOTES",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3",
+          "SAN JOSÉ DE LA MONTAÑA",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4",
+          "SAN PEDRO PERALTA",
+          "4",
+          "310",
+          "174",
+          "136",
+          "17",
+          "SANTA ROSA",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3",
+          "SERGIO BUTRÓN CASAS",
+          "4",
+          "357",
+          "169",
+          "188",
+          "20",
+          "SHEKINAH LA GLORIA DE DIOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "SUBTENIENTE LÓPEZ",
+          "5",
+          "946",
+          "414",
+          "532",
+          "164",
+          "TOMÁS GARRIDO CANABAL",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4",
+          "TRES GARANTÍAS",
+          "4",
+          "187",
+          "87",
+          "100",
+          "13",
+          "UCUM",
+          "2",
+          "193",
+          "93",
+          "100",
+          "8",
+          "VERACRUZ",
+          "3",
+          "45",
+          "23",
+          "22",
+          "4",
+          "XCALAK",
+          "4",
+          "135",
+          "62",
+          "73",
+          "10",
+          "XUL-HA",
+          "3",
+          "517",
+          "245",
+          "272",
+          "22",
+          "TOTAL",
+          "504",
+          "66,081",
+          "32,971",
+          "33,110",
+          "6,043",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: OTHÓN P. BLANCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA",
+          "2",
+          "189",
+          "93",
+          "96",
+          "42"
+        ],
+        [
+          "ALLENDE",
+          "6",
+          "220",
+          "99",
+          "121",
+          "15"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "3",
+          "568",
+          "287",
+          "281",
+          "28"
+        ],
+        [
+          "ÁLVARO OBREGÓN VIEJO",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "CACAO",
+          "4",
+          "494",
+          "250",
+          "244",
+          "26"
+        ],
+        [
+          "CALDERITAS",
+          "6",
+          "927",
+          "447",
+          "480",
+          "41"
+        ],
+        [
+          "CALIFORNIA",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "CAOBAS",
+          "4",
+          "426",
+          "218",
+          "208",
+          "21"
+        ],
+        [
+          "CARLOS A. MADRAZO",
+          "5",
+          "787",
+          "406",
+          "381",
+          "51"
+        ],
+        [
+          "CHETUMAL",
+          "302",
+          "50,241",
+          "25,162",
+          "25,079",
+          "5,010"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "COCOYOL",
+          "3",
+          "212",
+          "92",
+          "120",
+          "11"
+        ],
+        [
+          "DOS AGUADAS",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "EL CEDRAL",
+          "3",
+          "67",
+          "33",
+          "34",
+          "5"
+        ],
+        [
+          "EL POTRILLO",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "ESTEBAN BACA CALDERÓN",
+          "4",
+          "59",
+          "28",
+          "31",
+          "6"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "246",
+          "128",
+          "118",
+          "14"
+        ],
+        [
+          "FRATERNIDAD ANTORCHISTA",
+          "3",
+          "173",
+          "92",
+          "81",
+          "5"
+        ],
+        [
+          "HUAY-PIX",
+          "4",
+          "454",
+          "228",
+          "226",
+          "23"
+        ],
+        [
+          "ICAICHÉ",
+          "3",
+          "50",
+          "30",
+          "20",
+          "4"
+        ],
+        [
+          "JAVIER ROJO GÓMEZ",
+          "5",
+          "668",
+          "337",
+          "331",
+          "34"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "4",
+          "194",
+          "94",
+          "100",
+          "12"
+        ],
+        [
+          "JOSÉ NARCISO ROVIROSA",
+          "4",
+          "319",
+          "157",
+          "162",
+          "18"
+        ],
+        [
+          "JUAN SARABIA",
+          "6",
+          "795",
+          "364",
+          "431",
+          "72"
+        ],
+        [
+          "LA LIBERTAD",
+          "3",
+          "87",
+          "38",
+          "49",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "4",
+          "214",
+          "102",
+          "112",
+          "14"
+        ],
+        [
+          "LAGUNA GUERRERO",
+          "4",
+          "231",
+          "108",
+          "123",
+          "15"
+        ],
+        [
+          "LÁZARO CÁRDENAS SEGUNDO",
+          "2",
+          "127",
+          "54",
+          "73",
+          "8"
+        ],
+        [
+          "LIMONAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LOS ALACRANES",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "LUIS ECHEVERRÍA ÁLVAREZ",
+          "4",
+          "216",
+          "106",
+          "110",
+          "13"
+        ],
+        [
+          "MAHAHUAL",
+          "4",
+          "886",
+          "438",
+          "448",
+          "30"
+        ],
+        [
+          "MÁRTIRES ANTORCHISTAS",
+          "3",
+          "152",
+          "70",
+          "82",
+          "7"
+        ],
+        [
+          "MOROCOY",
+          "4",
+          "386",
+          "203",
+          "183",
+          "16"
+        ],
+        [
+          "NACHI COCOM",
+          "3",
+          "243",
+          "115",
+          "128",
+          "11"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "6",
+          "1,117",
+          "546",
+          "571",
+          "55"
+        ],
+        [
+          "NUEVO BÉCAR",
+          "4",
+          "159",
+          "78",
+          "81",
+          "11"
+        ],
+        [
+          "NUEVO CAANÁN",
+          "3",
+          "64",
+          "30",
+          "34",
+          "4"
+        ],
+        [
+          "PALMAR",
+          "3",
+          "185",
+          "88",
+          "97",
+          "10"
+        ],
+        [
+          "PEDRO JOAQUÍN COLDWELL",
+          "2",
+          "159",
+          "82",
+          "77",
+          "8"
+        ],
+        [
+          "PUCTÉ",
+          "5",
+          "809",
+          "456",
+          "353",
+          "57"
+        ],
+        [
+          "RAMONAL",
+          "5",
+          "250",
+          "126",
+          "124",
+          "14"
+        ],
+        [
+          "RAUDALES",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "21",
+          "14",
+          "7",
+          "3"
+        ],
+        [
+          "SABIDOS",
+          "3",
+          "324",
+          "160",
+          "164",
+          "18"
+        ],
+        [
+          "SACXÁN",
+          "3",
+          "223",
+          "110",
+          "113",
+          "11"
+        ],
+        [
+          "SAN FRANCISCO BOTES",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA MONTAÑA",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "SAN PEDRO PERALTA",
+          "4",
+          "310",
+          "174",
+          "136",
+          "17"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "SERGIO BUTRÓN CASAS",
+          "4",
+          "357",
+          "169",
+          "188",
+          "20"
+        ],
+        [
+          "SHEKINAH LA GLORIA DE DIOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SUBTENIENTE LÓPEZ",
+          "5",
+          "946",
+          "414",
+          "532",
+          "164"
+        ],
+        [
+          "TOMÁS GARRIDO CANABAL",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "TRES GARANTÍAS",
+          "4",
+          "187",
+          "87",
+          "100",
+          "13"
+        ],
+        [
+          "UCUM",
+          "2",
+          "193",
+          "93",
+          "100",
+          "8"
+        ],
+        [
+          "VERACRUZ",
+          "3",
+          "45",
+          "23",
+          "22",
+          "4"
+        ],
+        [
+          "XCALAK",
+          "4",
+          "135",
+          "62",
+          "73",
+          "10"
+        ],
+        [
+          "XUL-HA",
+          "3",
+          "517",
+          "245",
+          "272",
+          "22"
+        ],
+        [
+          "TOTAL",
+          "504",
+          "66,081",
+          "32,971",
+          "33,110",
+          "6,043"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: QUINTANA ROO;    MUNICIPIO: OTHÓN P. BLANCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA",
+          "2",
+          "189",
+          "93",
+          "96",
+          "42"
+        ],
+        [
+          "ALLENDE",
+          "6",
+          "220",
+          "99",
+          "121",
+          "15"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "3",
+          "568",
+          "287",
+          "281",
+          "28"
+        ],
+        [
+          "ÁLVARO OBREGÓN VIEJO",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "CACAO",
+          "4",
+          "494",
+          "250",
+          "244",
+          "26"
+        ],
+        [
+          "CALDERITAS",
+          "6",
+          "927",
+          "447",
+          "480",
+          "41"
+        ],
+        [
+          "CALIFORNIA",
+          "3",
+          "18",
+          "12",
+          "6",
+          "3"
+        ],
+        [
+          "CAOBAS",
+          "4",
+          "426",
+          "218",
+          "208",
+          "21"
+        ],
+        [
+          "CARLOS A. MADRAZO",
+          "5",
+          "787",
+          "406",
+          "381",
+          "51"
+        ],
+        [
+          "CHETUMAL",
+          "302",
+          "50,241",
+          "25,162",
+          "25,079",
+          "5,010"
+        ],
+        [
+          "CINCO DE MAYO",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "COCOYOL",
+          "3",
+          "212",
+          "92",
+          "120",
+          "11"
+        ],
+        [
+          "DOS AGUADAS",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "EL CEDRAL",
+          "3",
+          "67",
+          "33",
+          "34",
+          "5"
+        ],
+        [
+          "EL POTRILLO",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "ESTEBAN BACA CALDERÓN",
+          "4",
+          "59",
+          "28",
+          "31",
+          "6"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "246",
+          "128",
+          "118",
+          "14"
+        ],
+        [
+          "FRATERNIDAD ANTORCHISTA",
+          "3",
+          "173",
+          "92",
+          "81",
+          "5"
+        ],
+        [
+          "HUAY-PIX",
+          "4",
+          "454",
+          "228",
+          "226",
+          "23"
+        ],
+        [
+          "ICAICHÉ",
+          "3",
+          "50",
+          "30",
+          "20",
+          "4"
+        ],
+        [
+          "JAVIER ROJO GÓMEZ",
+          "5",
+          "668",
+          "337",
+          "331",
+          "34"
+        ],
+        [
+          "JESÚS GONZÁLEZ ORTEGA",
+          "4",
+          "194",
+          "94",
+          "100",
+          "12"
+        ],
+        [
+          "JOSÉ NARCISO ROVIROSA",
+          "4",
+          "319",
+          "157",
+          "162",
+          "18"
+        ],
+        [
+          "JUAN SARABIA",
+          "6",
+          "795",
+          "364",
+          "431",
+          "72"
+        ],
+        [
+          "LA LIBERTAD",
+          "3",
+          "87",
+          "38",
+          "49",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "4",
+          "214",
+          "102",
+          "112",
+          "14"
+        ],
+        [
+          "LAGUNA GUERRERO",
+          "4",
+          "231",
+          "108",
+          "123",
+          "15"
+        ],
+        [
+          "LÁZARO CÁRDENAS SEGUNDO",
+          "2",
+          "127",
+          "54",
+          "73",
+          "8"
+        ],
+        [
+          "LIMONAR",
+          "3",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LOS ALACRANES",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "LUIS ECHEVERRÍA ÁLVAREZ",
+          "4",
+          "216",
+          "106",
+          "110",
+          "13"
+        ],
+        [
+          "MAHAHUAL",
+          "4",
+          "886",
+          "438",
+          "448",
+          "30"
+        ],
+        [
+          "MÁRTIRES ANTORCHISTAS",
+          "3",
+          "152",
+          "70",
+          "82",
+          "7"
+        ],
+        [
+          "MOROCOY",
+          "4",
+          "386",
+          "203",
+          "183",
+          "16"
+        ],
+        [
+          "NACHI COCOM",
+          "3",
+          "243",
+          "115",
+          "128",
+          "11"
+        ],
+        [
+          "NICOLÁS BRAVO",
+          "6",
+          "1,117",
+          "546",
+          "571",
+          "55"
+        ],
+        [
+          "NUEVO BÉCAR",
+          "4",
+          "159",
+          "78",
+          "81",
+          "11"
+        ],
+        [
+          "NUEVO CAANÁN",
+          "3",
+          "64",
+          "30",
+          "34",
+          "4"
+        ],
+        [
+          "PALMAR",
+          "3",
+          "185",
+          "88",
+          "97",
+          "10"
+        ],
+        [
+          "PEDRO JOAQUÍN COLDWELL",
+          "2",
+          "159",
+          "82",
+          "77",
+          "8"
+        ],
+        [
+          "PUCTÉ",
+          "5",
+          "809",
+          "456",
+          "353",
+          "57"
+        ],
+        [
+          "RAMONAL",
+          "5",
+          "250",
+          "126",
+          "124",
+          "14"
+        ],
+        [
+          "RAUDALES",
+          "2",
+          "31",
+          "21",
+          "10",
+          "3"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "21",
+          "14",
+          "7",
+          "3"
+        ],
+        [
+          "SABIDOS",
+          "3",
+          "324",
+          "160",
+          "164",
+          "18"
+        ],
+        [
+          "SACXÁN",
+          "3",
+          "223",
+          "110",
+          "113",
+          "11"
+        ],
+        [
+          "SAN FRANCISCO BOTES",
+          "2",
+          "54",
+          "24",
+          "30",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE LA MONTAÑA",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "SAN PEDRO PERALTA",
+          "4",
+          "310",
+          "174",
+          "136",
+          "17"
+        ],
+        [
+          "SANTA ROSA",
+          "2",
+          "30",
+          "18",
+          "12",
+          "3"
+        ],
+        [
+          "SERGIO BUTRÓN CASAS",
+          "4",
+          "357",
+          "169",
+          "188",
+          "20"
+        ],
+        [
+          "SHEKINAH LA GLORIA DE DIOS",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SUBTENIENTE LÓPEZ",
+          "5",
+          "946",
+          "414",
+          "532",
+          "164"
+        ],
+        [
+          "TOMÁS GARRIDO CANABAL",
+          "3",
+          "55",
+          "25",
+          "30",
+          "4"
+        ],
+        [
+          "TRES GARANTÍAS",
+          "4",
+          "187",
+          "87",
+          "100",
+          "13"
+        ],
+        [
+          "UCUM",
+          "2",
+          "193",
+          "93",
+          "100",
+          "8"
+        ],
+        [
+          "VERACRUZ",
+          "3",
+          "45",
+          "23",
+          "22",
+          "4"
+        ],
+        [
+          "XCALAK",
+          "4",
+          "135",
+          "62",
+          "73",
+          "10"
+        ],
+        [
+          "XUL-HA",
+          "3",
+          "517",
+          "245",
+          "272",
+          "22"
+        ],
+        [
+          "TOTAL",
+          "504",
+          "66,081",
+          "32,971",
+          "33,110",
+          "6,043"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:27:59.083Z"
+}

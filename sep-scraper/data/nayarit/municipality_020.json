@@ -1,0 +1,736 @@
+{
+  "municipality": "BAHÍA DE BANDERAS",
+  "municipalityCode": "020",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: BAHÍA DE BANDERAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUAMILPA\n\t\t4\n\t\t142\n\t\t66\n\t\t76\n\t\t10\n\t\n\t\n\t\tBUCERÍAS\n\t\t29\n\t\t4,659\n\t\t2,375\n\t\t2,284\n\t\t256\n\t\n\t\n\t\tCORRAL DEL RISCO (PUNTA DE MITA)\n\t\t7\n\t\t664\n\t\t337\n\t\t327\n\t\t37\n\t\n\t\n\t\tCRUZ DE HUANACAXTLE\n\t\t9\n\t\t2,142\n\t\t1,096\n\t\t1,046\n\t\t211\n\t\n\t\n\t\tEL COATANTE\n\t\t4\n\t\t121\n\t\t60\n\t\t61\n\t\t8\n\t\n\t\n\t\tEL COLOMO\n\t\t3\n\t\t248\n\t\t127\n\t\t121\n\t\t19\n\t\n\t\n\t\tEL GUAMÚCHIL\n\t\t3\n\t\t174\n\t\t85\n\t\t89\n\t\t8\n\t\n\t\n\t\tEL PORVENIR\n\t\t8\n\t\t1,911\n\t\t964\n\t\t947\n\t\t73\n\t\n\t\n\t\tFORTUNA DE VALLEJO (LA GLORIA)\n\t\t3\n\t\t42\n\t\t25\n\t\t17\n\t\t3\n\t\n\t\n\t\tHIGUERA BLANCA\n\t\t4\n\t\t622\n\t\t296\n\t\t326\n\t\t24\n\t\n\t\n\t\tLA CEIBA\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS JARRETADERAS\n\t\t7\n\t\t1,176\n\t\t591\n\t\t585\n\t\t72\n\t\n\t\n\t\tLAS LOMAS\n\t\t3\n\t\t75\n\t\t33\n\t\t42\n\t\t5\n\t\n\t\n\t\tLO DE MARCOS\n\t\t4\n\t\t542\n\t\t265\n\t\t277\n\t\t28\n\t\n\t\n\t\tLOS SAUCES\n\t\t3\n\t\t67\n\t\t37\n\t\t30\n\t\t4\n\t\n\t\n\t\tMEZCALES\n\t\t40\n\t\t5,938\n\t\t2,920\n\t\t3,018\n\t\t329\n\t\n\t\n\t\tMEZCALITOS\n\t\t2\n\t\t132\n\t\t66\n\t\t66\n\t\t7\n\t\n\t\n\t\tNUEVO NAYARIT\n\t\t7\n\t\t2,156\n\t\t1,054\n\t\t1,102\n\t\t167\n\t\n\t\n\t\tSAN CLEMENTE DE LIMA\n\t\t10\n\t\t1,772\n\t\t873\n\t\t899\n\t\t87\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t4\n\t\t415\n\t\t200\n\t\t215\n\t\t24\n\t\n\t\n\t\tSAN IGNACIO\n\t\t3\n\t\t405\n\t\t200\n\t\t205\n\t\t17\n\t\n\t\n\t\tSAN JOSÉ DEL VALLE\n\t\t36\n\t\t7,019\n\t\t3,463\n\t\t3,556\n\t\t341\n\t\n\t\n\t\tSAN JUAN DE ABAJO\n\t\t13\n\t\t3,516\n\t\t1,756\n\t\t1,760\n\t\t614\n\t\n\t\n\t\tSAN QUINTÍN\n\t\t3\n\t\t25\n\t\t10\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN VICENTE\n\t\t33\n\t\t7,343\n\t\t3,616\n\t\t3,727\n\t\t326\n\t\n\t\n\t\tSANTA ROSA TAPACHULA\n\t\t2\n\t\t204\n\t\t85\n\t\t119\n\t\t8\n\t\n\t\n\t\tSAYULITA\n\t\t7\n\t\t1,071\n\t\t529\n\t\t542\n\t\t50\n\t\n\t\n\t\tTONDOROQUE\n\t\t5\n\t\t332\n\t\t151\n\t\t181\n\t\t20\n\t\n\t\n\t\tVALLE DE BANDERAS\n\t\t17\n\t\t3,744\n\t\t2,112\n\t\t1,632\n\t\t194\n\t\n\t\n\t\tTOTAL\n\t\t275\n\t\t46,661\n\t\t23,394\n\t\t23,267\n\t\t2,946\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: BAHÍA DE BANDERAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUAMILPA",
+          "4",
+          "142",
+          "66",
+          "76",
+          "10",
+          "BUCERÍAS",
+          "29",
+          "4,659",
+          "2,375",
+          "2,284",
+          "256",
+          "CORRAL DEL RISCO (PUNTA DE MITA)",
+          "7",
+          "664",
+          "337",
+          "327",
+          "37",
+          "CRUZ DE HUANACAXTLE",
+          "9",
+          "2,142",
+          "1,096",
+          "1,046",
+          "211",
+          "EL COATANTE",
+          "4",
+          "121",
+          "60",
+          "61",
+          "8",
+          "EL COLOMO",
+          "3",
+          "248",
+          "127",
+          "121",
+          "19",
+          "EL GUAMÚCHIL",
+          "3",
+          "174",
+          "85",
+          "89",
+          "8",
+          "EL PORVENIR",
+          "8",
+          "1,911",
+          "964",
+          "947",
+          "73",
+          "FORTUNA DE VALLEJO (LA GLORIA)",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3",
+          "HIGUERA BLANCA",
+          "4",
+          "622",
+          "296",
+          "326",
+          "24",
+          "LA CEIBA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "LAS JARRETADERAS",
+          "7",
+          "1,176",
+          "591",
+          "585",
+          "72",
+          "LAS LOMAS",
+          "3",
+          "75",
+          "33",
+          "42",
+          "5",
+          "LO DE MARCOS",
+          "4",
+          "542",
+          "265",
+          "277",
+          "28",
+          "LOS SAUCES",
+          "3",
+          "67",
+          "37",
+          "30",
+          "4",
+          "MEZCALES",
+          "40",
+          "5,938",
+          "2,920",
+          "3,018",
+          "329",
+          "MEZCALITOS",
+          "2",
+          "132",
+          "66",
+          "66",
+          "7",
+          "NUEVO NAYARIT",
+          "7",
+          "2,156",
+          "1,054",
+          "1,102",
+          "167",
+          "SAN CLEMENTE DE LIMA",
+          "10",
+          "1,772",
+          "873",
+          "899",
+          "87",
+          "SAN FRANCISCO",
+          "4",
+          "415",
+          "200",
+          "215",
+          "24",
+          "SAN IGNACIO",
+          "3",
+          "405",
+          "200",
+          "205",
+          "17",
+          "SAN JOSÉ DEL VALLE",
+          "36",
+          "7,019",
+          "3,463",
+          "3,556",
+          "341",
+          "SAN JUAN DE ABAJO",
+          "13",
+          "3,516",
+          "1,756",
+          "1,760",
+          "614",
+          "SAN QUINTÍN",
+          "3",
+          "25",
+          "10",
+          "15",
+          "3",
+          "SAN VICENTE",
+          "33",
+          "7,343",
+          "3,616",
+          "3,727",
+          "326",
+          "SANTA ROSA TAPACHULA",
+          "2",
+          "204",
+          "85",
+          "119",
+          "8",
+          "SAYULITA",
+          "7",
+          "1,071",
+          "529",
+          "542",
+          "50",
+          "TONDOROQUE",
+          "5",
+          "332",
+          "151",
+          "181",
+          "20",
+          "VALLE DE BANDERAS",
+          "17",
+          "3,744",
+          "2,112",
+          "1,632",
+          "194",
+          "TOTAL",
+          "275",
+          "46,661",
+          "23,394",
+          "23,267",
+          "2,946",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: BAHÍA DE BANDERAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAMILPA",
+          "4",
+          "142",
+          "66",
+          "76",
+          "10"
+        ],
+        [
+          "BUCERÍAS",
+          "29",
+          "4,659",
+          "2,375",
+          "2,284",
+          "256"
+        ],
+        [
+          "CORRAL DEL RISCO (PUNTA DE MITA)",
+          "7",
+          "664",
+          "337",
+          "327",
+          "37"
+        ],
+        [
+          "CRUZ DE HUANACAXTLE",
+          "9",
+          "2,142",
+          "1,096",
+          "1,046",
+          "211"
+        ],
+        [
+          "EL COATANTE",
+          "4",
+          "121",
+          "60",
+          "61",
+          "8"
+        ],
+        [
+          "EL COLOMO",
+          "3",
+          "248",
+          "127",
+          "121",
+          "19"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "3",
+          "174",
+          "85",
+          "89",
+          "8"
+        ],
+        [
+          "EL PORVENIR",
+          "8",
+          "1,911",
+          "964",
+          "947",
+          "73"
+        ],
+        [
+          "FORTUNA DE VALLEJO (LA GLORIA)",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "HIGUERA BLANCA",
+          "4",
+          "622",
+          "296",
+          "326",
+          "24"
+        ],
+        [
+          "LA CEIBA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LAS JARRETADERAS",
+          "7",
+          "1,176",
+          "591",
+          "585",
+          "72"
+        ],
+        [
+          "LAS LOMAS",
+          "3",
+          "75",
+          "33",
+          "42",
+          "5"
+        ],
+        [
+          "LO DE MARCOS",
+          "4",
+          "542",
+          "265",
+          "277",
+          "28"
+        ],
+        [
+          "LOS SAUCES",
+          "3",
+          "67",
+          "37",
+          "30",
+          "4"
+        ],
+        [
+          "MEZCALES",
+          "40",
+          "5,938",
+          "2,920",
+          "3,018",
+          "329"
+        ],
+        [
+          "MEZCALITOS",
+          "2",
+          "132",
+          "66",
+          "66",
+          "7"
+        ],
+        [
+          "NUEVO NAYARIT",
+          "7",
+          "2,156",
+          "1,054",
+          "1,102",
+          "167"
+        ],
+        [
+          "SAN CLEMENTE DE LIMA",
+          "10",
+          "1,772",
+          "873",
+          "899",
+          "87"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "415",
+          "200",
+          "215",
+          "24"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "405",
+          "200",
+          "205",
+          "17"
+        ],
+        [
+          "SAN JOSÉ DEL VALLE",
+          "36",
+          "7,019",
+          "3,463",
+          "3,556",
+          "341"
+        ],
+        [
+          "SAN JUAN DE ABAJO",
+          "13",
+          "3,516",
+          "1,756",
+          "1,760",
+          "614"
+        ],
+        [
+          "SAN QUINTÍN",
+          "3",
+          "25",
+          "10",
+          "15",
+          "3"
+        ],
+        [
+          "SAN VICENTE",
+          "33",
+          "7,343",
+          "3,616",
+          "3,727",
+          "326"
+        ],
+        [
+          "SANTA ROSA TAPACHULA",
+          "2",
+          "204",
+          "85",
+          "119",
+          "8"
+        ],
+        [
+          "SAYULITA",
+          "7",
+          "1,071",
+          "529",
+          "542",
+          "50"
+        ],
+        [
+          "TONDOROQUE",
+          "5",
+          "332",
+          "151",
+          "181",
+          "20"
+        ],
+        [
+          "VALLE DE BANDERAS",
+          "17",
+          "3,744",
+          "2,112",
+          "1,632",
+          "194"
+        ],
+        [
+          "TOTAL",
+          "275",
+          "46,661",
+          "23,394",
+          "23,267",
+          "2,946"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: BAHÍA DE BANDERAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAMILPA",
+          "4",
+          "142",
+          "66",
+          "76",
+          "10"
+        ],
+        [
+          "BUCERÍAS",
+          "29",
+          "4,659",
+          "2,375",
+          "2,284",
+          "256"
+        ],
+        [
+          "CORRAL DEL RISCO (PUNTA DE MITA)",
+          "7",
+          "664",
+          "337",
+          "327",
+          "37"
+        ],
+        [
+          "CRUZ DE HUANACAXTLE",
+          "9",
+          "2,142",
+          "1,096",
+          "1,046",
+          "211"
+        ],
+        [
+          "EL COATANTE",
+          "4",
+          "121",
+          "60",
+          "61",
+          "8"
+        ],
+        [
+          "EL COLOMO",
+          "3",
+          "248",
+          "127",
+          "121",
+          "19"
+        ],
+        [
+          "EL GUAMÚCHIL",
+          "3",
+          "174",
+          "85",
+          "89",
+          "8"
+        ],
+        [
+          "EL PORVENIR",
+          "8",
+          "1,911",
+          "964",
+          "947",
+          "73"
+        ],
+        [
+          "FORTUNA DE VALLEJO (LA GLORIA)",
+          "3",
+          "42",
+          "25",
+          "17",
+          "3"
+        ],
+        [
+          "HIGUERA BLANCA",
+          "4",
+          "622",
+          "296",
+          "326",
+          "24"
+        ],
+        [
+          "LA CEIBA",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "LAS JARRETADERAS",
+          "7",
+          "1,176",
+          "591",
+          "585",
+          "72"
+        ],
+        [
+          "LAS LOMAS",
+          "3",
+          "75",
+          "33",
+          "42",
+          "5"
+        ],
+        [
+          "LO DE MARCOS",
+          "4",
+          "542",
+          "265",
+          "277",
+          "28"
+        ],
+        [
+          "LOS SAUCES",
+          "3",
+          "67",
+          "37",
+          "30",
+          "4"
+        ],
+        [
+          "MEZCALES",
+          "40",
+          "5,938",
+          "2,920",
+          "3,018",
+          "329"
+        ],
+        [
+          "MEZCALITOS",
+          "2",
+          "132",
+          "66",
+          "66",
+          "7"
+        ],
+        [
+          "NUEVO NAYARIT",
+          "7",
+          "2,156",
+          "1,054",
+          "1,102",
+          "167"
+        ],
+        [
+          "SAN CLEMENTE DE LIMA",
+          "10",
+          "1,772",
+          "873",
+          "899",
+          "87"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "415",
+          "200",
+          "215",
+          "24"
+        ],
+        [
+          "SAN IGNACIO",
+          "3",
+          "405",
+          "200",
+          "205",
+          "17"
+        ],
+        [
+          "SAN JOSÉ DEL VALLE",
+          "36",
+          "7,019",
+          "3,463",
+          "3,556",
+          "341"
+        ],
+        [
+          "SAN JUAN DE ABAJO",
+          "13",
+          "3,516",
+          "1,756",
+          "1,760",
+          "614"
+        ],
+        [
+          "SAN QUINTÍN",
+          "3",
+          "25",
+          "10",
+          "15",
+          "3"
+        ],
+        [
+          "SAN VICENTE",
+          "33",
+          "7,343",
+          "3,616",
+          "3,727",
+          "326"
+        ],
+        [
+          "SANTA ROSA TAPACHULA",
+          "2",
+          "204",
+          "85",
+          "119",
+          "8"
+        ],
+        [
+          "SAYULITA",
+          "7",
+          "1,071",
+          "529",
+          "542",
+          "50"
+        ],
+        [
+          "TONDOROQUE",
+          "5",
+          "332",
+          "151",
+          "181",
+          "20"
+        ],
+        [
+          "VALLE DE BANDERAS",
+          "17",
+          "3,744",
+          "2,112",
+          "1,632",
+          "194"
+        ],
+        [
+          "TOTAL",
+          "275",
+          "46,661",
+          "23,394",
+          "23,267",
+          "2,946"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:40.057Z"
+}

@@ -1,0 +1,780 @@
+{
+  "municipality": "IXTACOMITÁN",
+  "municipalityCode": "043",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTACOMITÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCANDELARIA 1RA. SECCIÓN\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tCANDELARIA 2DA. SECCIÓN\n\t\t4\n\t\t92\n\t\t43\n\t\t49\n\t\t7\n\t\n\t\n\t\tEL ARENAL\n\t\t2\n\t\t91\n\t\t47\n\t\t44\n\t\t4\n\t\n\t\n\t\tEL CALVARIO\n\t\t2\n\t\t12\n\t\t9\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL CARMEN\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL ESCOBAL\n\t\t3\n\t\t139\n\t\t72\n\t\t67\n\t\t7\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t186\n\t\t93\n\t\t93\n\t\t9\n\t\n\t\n\t\tIXTACOMITÁN\n\t\t13\n\t\t1,447\n\t\t686\n\t\t761\n\t\t77\n\t\n\t\n\t\tJANA 1RA. SECCIÓN\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tJANA 2DA. SECCIÓN\n\t\t3\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tJANA 3RA. SECCIÓN\n\t\t2\n\t\t14\n\t\t5\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t14\n\t\t10\n\t\t4\n\t\t2\n\t\n\t\n\t\tLA NARANJA\n\t\t2\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA OTRA BANDA\n\t\t2\n\t\t36\n\t\t17\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t1\n\t\t17\n\t\t4\n\t\t13\n\t\t1\n\t\n\t\n\t\tLA REALIDAD\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t143\n\t\t68\n\t\t75\n\t\t7\n\t\n\t\n\t\tLOMA DE CABALLO 2DA. SECCIÓN\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tMATAMOROS 1RA. SECCIÓN\n\t\t3\n\t\t180\n\t\t85\n\t\t95\n\t\t9\n\t\n\t\n\t\tMATAMOROS 2DA. SECCIÓN\n\t\t2\n\t\t45\n\t\t21\n\t\t24\n\t\t2\n\t\n\t\n\t\tNUEVO LINDAVISTA\n\t\t3\n\t\t68\n\t\t31\n\t\t37\n\t\t6\n\t\n\t\n\t\tNUEVO LOMA DE CABALLO\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO DE LAS LOMAS\n\t\t2\n\t\t94\n\t\t54\n\t\t40\n\t\t6\n\t\n\t\n\t\tSAN MIGUEL\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL ANEXO\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN SEBASTIÁN\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tSANTA CATARINA 1RA. SECCIÓN\n\t\t2\n\t\t34\n\t\t13\n\t\t21\n\t\t3\n\t\n\t\n\t\tSANTA CATARINA 2DA. SECCIÓN\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t3\n\t\n\t\n\t\tSANTA CRUZ\n\t\t1\n\t\t17\n\t\t5\n\t\t12\n\t\t1\n\t\n\t\n\t\tVIEJO LINDAVISTA\n\t\t3\n\t\t114\n\t\t61\n\t\t53\n\t\t7\n\t\n\t\n\t\tVIEJO LOMA DE CABALLO 3RA. SECCIÓN\n\t\t6\n\t\t90\n\t\t47\n\t\t43\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t77\n\t\t3,003\n\t\t1,458\n\t\t1,545\n\t\t184\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTACOMITÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CANDELARIA 1RA. SECCIÓN",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "CANDELARIA 2DA. SECCIÓN",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7",
+          "EL ARENAL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "4",
+          "EL CALVARIO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2",
+          "EL CARMEN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL ESCOBAL",
+          "3",
+          "139",
+          "72",
+          "67",
+          "7",
+          "EMILIANO ZAPATA",
+          "3",
+          "186",
+          "93",
+          "93",
+          "9",
+          "IXTACOMITÁN",
+          "13",
+          "1,447",
+          "686",
+          "761",
+          "77",
+          "JANA 1RA. SECCIÓN",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2",
+          "JANA 2DA. SECCIÓN",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3",
+          "JANA 3RA. SECCIÓN",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2",
+          "LA ESPERANZA",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2",
+          "LA NARANJA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3",
+          "LA OTRA BANDA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3",
+          "LA PROVIDENCIA",
+          "1",
+          "17",
+          "4",
+          "13",
+          "1",
+          "LA REALIDAD",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "LA SOLEDAD",
+          "2",
+          "143",
+          "68",
+          "75",
+          "7",
+          "LOMA DE CABALLO 2DA. SECCIÓN",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "MATAMOROS 1RA. SECCIÓN",
+          "3",
+          "180",
+          "85",
+          "95",
+          "9",
+          "MATAMOROS 2DA. SECCIÓN",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2",
+          "NUEVO LINDAVISTA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "6",
+          "NUEVO LOMA DE CABALLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "SAN ANTONIO DE LAS LOMAS",
+          "2",
+          "94",
+          "54",
+          "40",
+          "6",
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "SAN MIGUEL ANEXO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "SAN SEBASTIÁN",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "SANTA CATARINA 1RA. SECCIÓN",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3",
+          "SANTA CATARINA 2DA. SECCIÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3",
+          "SANTA CRUZ",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1",
+          "VIEJO LINDAVISTA",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7",
+          "VIEJO LOMA DE CABALLO 3RA. SECCIÓN",
+          "6",
+          "90",
+          "47",
+          "43",
+          "8",
+          "TOTAL",
+          "77",
+          "3,003",
+          "1,458",
+          "1,545",
+          "184",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTACOMITÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CANDELARIA 1RA. SECCIÓN",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "CANDELARIA 2DA. SECCIÓN",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "4"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESCOBAL",
+          "3",
+          "139",
+          "72",
+          "67",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "186",
+          "93",
+          "93",
+          "9"
+        ],
+        [
+          "IXTACOMITÁN",
+          "13",
+          "1,447",
+          "686",
+          "761",
+          "77"
+        ],
+        [
+          "JANA 1RA. SECCIÓN",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "JANA 2DA. SECCIÓN",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "JANA 3RA. SECCIÓN",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "LA NARANJA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "LA OTRA BANDA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "1",
+          "17",
+          "4",
+          "13",
+          "1"
+        ],
+        [
+          "LA REALIDAD",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "143",
+          "68",
+          "75",
+          "7"
+        ],
+        [
+          "LOMA DE CABALLO 2DA. SECCIÓN",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "MATAMOROS 1RA. SECCIÓN",
+          "3",
+          "180",
+          "85",
+          "95",
+          "9"
+        ],
+        [
+          "MATAMOROS 2DA. SECCIÓN",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVO LINDAVISTA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "6"
+        ],
+        [
+          "NUEVO LOMA DE CABALLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LAS LOMAS",
+          "2",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN MIGUEL ANEXO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA CATARINA 1RA. SECCIÓN",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "SANTA CATARINA 2DA. SECCIÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1"
+        ],
+        [
+          "VIEJO LINDAVISTA",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "VIEJO LOMA DE CABALLO 3RA. SECCIÓN",
+          "6",
+          "90",
+          "47",
+          "43",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "3,003",
+          "1,458",
+          "1,545",
+          "184"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTACOMITÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CANDELARIA 1RA. SECCIÓN",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "CANDELARIA 2DA. SECCIÓN",
+          "4",
+          "92",
+          "43",
+          "49",
+          "7"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "91",
+          "47",
+          "44",
+          "4"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2"
+        ],
+        [
+          "EL CARMEN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL ESCOBAL",
+          "3",
+          "139",
+          "72",
+          "67",
+          "7"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "186",
+          "93",
+          "93",
+          "9"
+        ],
+        [
+          "IXTACOMITÁN",
+          "13",
+          "1,447",
+          "686",
+          "761",
+          "77"
+        ],
+        [
+          "JANA 1RA. SECCIÓN",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "JANA 2DA. SECCIÓN",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "JANA 3RA. SECCIÓN",
+          "2",
+          "14",
+          "5",
+          "9",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "14",
+          "10",
+          "4",
+          "2"
+        ],
+        [
+          "LA NARANJA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "LA OTRA BANDA",
+          "2",
+          "36",
+          "17",
+          "19",
+          "3"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "1",
+          "17",
+          "4",
+          "13",
+          "1"
+        ],
+        [
+          "LA REALIDAD",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "143",
+          "68",
+          "75",
+          "7"
+        ],
+        [
+          "LOMA DE CABALLO 2DA. SECCIÓN",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "MATAMOROS 1RA. SECCIÓN",
+          "3",
+          "180",
+          "85",
+          "95",
+          "9"
+        ],
+        [
+          "MATAMOROS 2DA. SECCIÓN",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVO LINDAVISTA",
+          "3",
+          "68",
+          "31",
+          "37",
+          "6"
+        ],
+        [
+          "NUEVO LOMA DE CABALLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LAS LOMAS",
+          "2",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "SAN MIGUEL",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN MIGUEL ANEXO",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA CATARINA 1RA. SECCIÓN",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "SANTA CATARINA 2DA. SECCIÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "3"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "17",
+          "5",
+          "12",
+          "1"
+        ],
+        [
+          "VIEJO LINDAVISTA",
+          "3",
+          "114",
+          "61",
+          "53",
+          "7"
+        ],
+        [
+          "VIEJO LOMA DE CABALLO 3RA. SECCIÓN",
+          "6",
+          "90",
+          "47",
+          "43",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "77",
+          "3,003",
+          "1,458",
+          "1,545",
+          "184"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:57.400Z"
+}

@@ -1,0 +1,758 @@
+{
+  "municipality": "CHONTLA",
+  "municipalityCode": "063",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHONTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARRANCA ESTACAS\n\t\t2\n\t\t49\n\t\t26\n\t\t23\n\t\t7\n\t\n\t\n\t\tCHONTLA\n\t\t6\n\t\t867\n\t\t421\n\t\t446\n\t\t57\n\t\n\t\n\t\tCOMALES\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tCOMALES NARANJADO\n\t\t1\n\t\t22\n\t\t6\n\t\t16\n\t\t2\n\t\n\t\n\t\tCRUZ MANANTIAL\n\t\t3\n\t\t57\n\t\t26\n\t\t31\n\t\t6\n\t\n\t\n\t\tDOÑA ANA\n\t\t2\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL CAJETE\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL COYOL\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL MAGUEY\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t5\n\t\n\t\n\t\tLA CUCHILLA\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA FLORIDA\n\t\t2\n\t\t40\n\t\t25\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA GARITA\n\t\t3\n\t\t120\n\t\t54\n\t\t66\n\t\t10\n\t\n\t\n\t\tLA REFORMA\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tLAS CANOAS\n\t\t5\n\t\t137\n\t\t66\n\t\t71\n\t\t11\n\t\n\t\n\t\tLAS CRUCES\n\t\t3\n\t\t84\n\t\t48\n\t\t36\n\t\t11\n\t\n\t\n\t\tLOS CALLEJONES\n\t\t4\n\t\t90\n\t\t46\n\t\t44\n\t\t10\n\t\n\t\n\t\tMAGOZAL\n\t\t3\n\t\t80\n\t\t39\n\t\t41\n\t\t8\n\t\n\t\n\t\tMALA GANA\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tMATA DE OTATE\n\t\t4\n\t\t127\n\t\t68\n\t\t59\n\t\t11\n\t\n\t\n\t\tPALO DE ROSAS\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t3\n\t\n\t\n\t\tRANCHO QUEMADO\n\t\t3\n\t\t55\n\t\t27\n\t\t28\n\t\t6\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t4\n\t\t288\n\t\t131\n\t\t157\n\t\t30\n\t\n\t\n\t\tSAN JUAN OTONTEPEC\n\t\t4\n\t\t204\n\t\t99\n\t\t105\n\t\t19\n\t\n\t\n\t\tSAN NICOLASILLO\n\t\t2\n\t\t36\n\t\t20\n\t\t16\n\t\t4\n\t\n\t\n\t\tSANTA VALERIA\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tTAMALCUATITLA\n\t\t2\n\t\t22\n\t\t13\n\t\t9\n\t\t3\n\t\n\t\n\t\tTANCOLOL\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t5\n\t\n\t\n\t\tTEZITLAL\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t3\n\t\n\t\n\t\tTLATEMALCO\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tXOCHITLÁN (PARAJES)\n\t\t4\n\t\t101\n\t\t40\n\t\t61\n\t\t9\n\t\n\t\n\t\tTOTAL\n\t\t78\n\t\t2,618\n\t\t1,275\n\t\t1,343\n\t\t237\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHONTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARRANCA ESTACAS",
+          "2",
+          "49",
+          "26",
+          "23",
+          "7",
+          "CHONTLA",
+          "6",
+          "867",
+          "421",
+          "446",
+          "57",
+          "COMALES",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "COMALES NARANJADO",
+          "1",
+          "22",
+          "6",
+          "16",
+          "2",
+          "CRUZ MANANTIAL",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6",
+          "DOÑA ANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2",
+          "EL CAJETE",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1",
+          "EL COYOL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "EL MAGUEY",
+          "3",
+          "28",
+          "14",
+          "14",
+          "5",
+          "LA CUCHILLA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "LA FLORIDA",
+          "2",
+          "40",
+          "25",
+          "15",
+          "3",
+          "LA GARITA",
+          "3",
+          "120",
+          "54",
+          "66",
+          "10",
+          "LA REFORMA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "LAS CANOAS",
+          "5",
+          "137",
+          "66",
+          "71",
+          "11",
+          "LAS CRUCES",
+          "3",
+          "84",
+          "48",
+          "36",
+          "11",
+          "LOS CALLEJONES",
+          "4",
+          "90",
+          "46",
+          "44",
+          "10",
+          "MAGOZAL",
+          "3",
+          "80",
+          "39",
+          "41",
+          "8",
+          "MALA GANA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2",
+          "MATA DE OTATE",
+          "4",
+          "127",
+          "68",
+          "59",
+          "11",
+          "PALO DE ROSAS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3",
+          "RANCHO QUEMADO",
+          "3",
+          "55",
+          "27",
+          "28",
+          "6",
+          "SAN FRANCISCO",
+          "4",
+          "288",
+          "131",
+          "157",
+          "30",
+          "SAN JUAN OTONTEPEC",
+          "4",
+          "204",
+          "99",
+          "105",
+          "19",
+          "SAN NICOLASILLO",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4",
+          "SANTA VALERIA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "TAMALCUATITLA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3",
+          "TANCOLOL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5",
+          "TEZITLAL",
+          "2",
+          "13",
+          "6",
+          "7",
+          "3",
+          "TLATEMALCO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "XOCHITLÁN (PARAJES)",
+          "4",
+          "101",
+          "40",
+          "61",
+          "9",
+          "TOTAL",
+          "78",
+          "2,618",
+          "1,275",
+          "1,343",
+          "237",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHONTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRANCA ESTACAS",
+          "2",
+          "49",
+          "26",
+          "23",
+          "7"
+        ],
+        [
+          "CHONTLA",
+          "6",
+          "867",
+          "421",
+          "446",
+          "57"
+        ],
+        [
+          "COMALES",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "COMALES NARANJADO",
+          "1",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "CRUZ MANANTIAL",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6"
+        ],
+        [
+          "DOÑA ANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL CAJETE",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL COYOL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "28",
+          "14",
+          "14",
+          "5"
+        ],
+        [
+          "LA CUCHILLA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "2",
+          "40",
+          "25",
+          "15",
+          "3"
+        ],
+        [
+          "LA GARITA",
+          "3",
+          "120",
+          "54",
+          "66",
+          "10"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "LAS CANOAS",
+          "5",
+          "137",
+          "66",
+          "71",
+          "11"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "84",
+          "48",
+          "36",
+          "11"
+        ],
+        [
+          "LOS CALLEJONES",
+          "4",
+          "90",
+          "46",
+          "44",
+          "10"
+        ],
+        [
+          "MAGOZAL",
+          "3",
+          "80",
+          "39",
+          "41",
+          "8"
+        ],
+        [
+          "MALA GANA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "MATA DE OTATE",
+          "4",
+          "127",
+          "68",
+          "59",
+          "11"
+        ],
+        [
+          "PALO DE ROSAS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "RANCHO QUEMADO",
+          "3",
+          "55",
+          "27",
+          "28",
+          "6"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "288",
+          "131",
+          "157",
+          "30"
+        ],
+        [
+          "SAN JUAN OTONTEPEC",
+          "4",
+          "204",
+          "99",
+          "105",
+          "19"
+        ],
+        [
+          "SAN NICOLASILLO",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA VALERIA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "TAMALCUATITLA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "TANCOLOL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "TEZITLAL",
+          "2",
+          "13",
+          "6",
+          "7",
+          "3"
+        ],
+        [
+          "TLATEMALCO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "XOCHITLÁN (PARAJES)",
+          "4",
+          "101",
+          "40",
+          "61",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "2,618",
+          "1,275",
+          "1,343",
+          "237"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CHONTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARRANCA ESTACAS",
+          "2",
+          "49",
+          "26",
+          "23",
+          "7"
+        ],
+        [
+          "CHONTLA",
+          "6",
+          "867",
+          "421",
+          "446",
+          "57"
+        ],
+        [
+          "COMALES",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "COMALES NARANJADO",
+          "1",
+          "22",
+          "6",
+          "16",
+          "2"
+        ],
+        [
+          "CRUZ MANANTIAL",
+          "3",
+          "57",
+          "26",
+          "31",
+          "6"
+        ],
+        [
+          "DOÑA ANA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "EL CAJETE",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "EL COYOL",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "28",
+          "14",
+          "14",
+          "5"
+        ],
+        [
+          "LA CUCHILLA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LA FLORIDA",
+          "2",
+          "40",
+          "25",
+          "15",
+          "3"
+        ],
+        [
+          "LA GARITA",
+          "3",
+          "120",
+          "54",
+          "66",
+          "10"
+        ],
+        [
+          "LA REFORMA",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "LAS CANOAS",
+          "5",
+          "137",
+          "66",
+          "71",
+          "11"
+        ],
+        [
+          "LAS CRUCES",
+          "3",
+          "84",
+          "48",
+          "36",
+          "11"
+        ],
+        [
+          "LOS CALLEJONES",
+          "4",
+          "90",
+          "46",
+          "44",
+          "10"
+        ],
+        [
+          "MAGOZAL",
+          "3",
+          "80",
+          "39",
+          "41",
+          "8"
+        ],
+        [
+          "MALA GANA",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "MATA DE OTATE",
+          "4",
+          "127",
+          "68",
+          "59",
+          "11"
+        ],
+        [
+          "PALO DE ROSAS",
+          "2",
+          "30",
+          "15",
+          "15",
+          "3"
+        ],
+        [
+          "RANCHO QUEMADO",
+          "3",
+          "55",
+          "27",
+          "28",
+          "6"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "288",
+          "131",
+          "157",
+          "30"
+        ],
+        [
+          "SAN JUAN OTONTEPEC",
+          "4",
+          "204",
+          "99",
+          "105",
+          "19"
+        ],
+        [
+          "SAN NICOLASILLO",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA VALERIA",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "TAMALCUATITLA",
+          "2",
+          "22",
+          "13",
+          "9",
+          "3"
+        ],
+        [
+          "TANCOLOL",
+          "2",
+          "54",
+          "29",
+          "25",
+          "5"
+        ],
+        [
+          "TEZITLAL",
+          "2",
+          "13",
+          "6",
+          "7",
+          "3"
+        ],
+        [
+          "TLATEMALCO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "XOCHITLÁN (PARAJES)",
+          "4",
+          "101",
+          "40",
+          "61",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "2,618",
+          "1,275",
+          "1,343",
+          "237"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:44:17.586Z"
+}

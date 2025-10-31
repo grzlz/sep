@@ -1,0 +1,472 @@
+{
+  "municipality": "TLAPEHUALA",
+  "municipalityCode": "067",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLAPEHUALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA JUÁREZ (EL JABALÍ)\n\t\t4\n\t\t222\n\t\t104\n\t\t118\n\t\t18\n\t\n\t\n\t\tEL CUACUYUL\n\t\t2\n\t\t40\n\t\t20\n\t\t20\n\t\t3\n\t\n\t\n\t\tEL LIMÓN DE GUADALUPE\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL TANQUE\n\t\t2\n\t\t70\n\t\t32\n\t\t38\n\t\t6\n\t\n\t\n\t\tEL TINOCO\n\t\t3\n\t\t67\n\t\t36\n\t\t31\n\t\t6\n\t\n\t\n\t\tHACIENDA NUEVA\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tLAS FRAGUAS\n\t\t2\n\t\t41\n\t\t24\n\t\t17\n\t\t2\n\t\n\t\n\t\tMORELITA\n\t\t4\n\t\t291\n\t\t142\n\t\t149\n\t\t17\n\t\n\t\n\t\tNUEVA FILADELFIA (HUERTA VIEJA)\n\t\t1\n\t\t4\n\t\t4\n\t\t0\n\t\t1\n\t\n\t\n\t\tNUEVO GUERRERO\n\t\t3\n\t\t266\n\t\t110\n\t\t156\n\t\t17\n\t\n\t\n\t\tRINCÓN DEL GALLO (SAN JOSÉ GUADALUPE)\n\t\t2\n\t\t137\n\t\t67\n\t\t70\n\t\t8\n\t\n\t\n\t\tSAN ANTONIO DE LAS HUERTAS\n\t\t5\n\t\t558\n\t\t288\n\t\t270\n\t\t32\n\t\n\t\n\t\tSAN JOSÉ POLIUTLA\n\t\t8\n\t\t648\n\t\t301\n\t\t347\n\t\t52\n\t\n\t\n\t\tSAN JUAN MINA\n\t\t2\n\t\t117\n\t\t52\n\t\t65\n\t\t9\n\t\n\t\n\t\tSANTO NIÑO (SANTO NIÑO DE ATOCHA)\n\t\t3\n\t\t162\n\t\t66\n\t\t96\n\t\t11\n\t\n\t\n\t\tTIRINGUEO\n\t\t2\n\t\t120\n\t\t52\n\t\t68\n\t\t7\n\t\n\t\n\t\tTLAPEHUALA\n\t\t18\n\t\t3,110\n\t\t1,547\n\t\t1,563\n\t\t183\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t5,912\n\t\t2,876\n\t\t3,036\n\t\t377\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLAPEHUALA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA JUÁREZ (EL JABALÍ)",
+          "4",
+          "222",
+          "104",
+          "118",
+          "18",
+          "EL CUACUYUL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3",
+          "EL LIMÓN DE GUADALUPE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "2",
+          "EL TANQUE",
+          "2",
+          "70",
+          "32",
+          "38",
+          "6",
+          "EL TINOCO",
+          "3",
+          "67",
+          "36",
+          "31",
+          "6",
+          "HACIENDA NUEVA",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3",
+          "LAS FRAGUAS",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2",
+          "MORELITA",
+          "4",
+          "291",
+          "142",
+          "149",
+          "17",
+          "NUEVA FILADELFIA (HUERTA VIEJA)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1",
+          "NUEVO GUERRERO",
+          "3",
+          "266",
+          "110",
+          "156",
+          "17",
+          "RINCÓN DEL GALLO (SAN JOSÉ GUADALUPE)",
+          "2",
+          "137",
+          "67",
+          "70",
+          "8",
+          "SAN ANTONIO DE LAS HUERTAS",
+          "5",
+          "558",
+          "288",
+          "270",
+          "32",
+          "SAN JOSÉ POLIUTLA",
+          "8",
+          "648",
+          "301",
+          "347",
+          "52",
+          "SAN JUAN MINA",
+          "2",
+          "117",
+          "52",
+          "65",
+          "9",
+          "SANTO NIÑO (SANTO NIÑO DE ATOCHA)",
+          "3",
+          "162",
+          "66",
+          "96",
+          "11",
+          "TIRINGUEO",
+          "2",
+          "120",
+          "52",
+          "68",
+          "7",
+          "TLAPEHUALA",
+          "18",
+          "3,110",
+          "1,547",
+          "1,563",
+          "183",
+          "TOTAL",
+          "64",
+          "5,912",
+          "2,876",
+          "3,036",
+          "377",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLAPEHUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA JUÁREZ (EL JABALÍ)",
+          "4",
+          "222",
+          "104",
+          "118",
+          "18"
+        ],
+        [
+          "EL CUACUYUL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE GUADALUPE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "EL TANQUE",
+          "2",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "EL TINOCO",
+          "3",
+          "67",
+          "36",
+          "31",
+          "6"
+        ],
+        [
+          "HACIENDA NUEVA",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "LAS FRAGUAS",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "MORELITA",
+          "4",
+          "291",
+          "142",
+          "149",
+          "17"
+        ],
+        [
+          "NUEVA FILADELFIA (HUERTA VIEJA)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "NUEVO GUERRERO",
+          "3",
+          "266",
+          "110",
+          "156",
+          "17"
+        ],
+        [
+          "RINCÓN DEL GALLO (SAN JOSÉ GUADALUPE)",
+          "2",
+          "137",
+          "67",
+          "70",
+          "8"
+        ],
+        [
+          "SAN ANTONIO DE LAS HUERTAS",
+          "5",
+          "558",
+          "288",
+          "270",
+          "32"
+        ],
+        [
+          "SAN JOSÉ POLIUTLA",
+          "8",
+          "648",
+          "301",
+          "347",
+          "52"
+        ],
+        [
+          "SAN JUAN MINA",
+          "2",
+          "117",
+          "52",
+          "65",
+          "9"
+        ],
+        [
+          "SANTO NIÑO (SANTO NIÑO DE ATOCHA)",
+          "3",
+          "162",
+          "66",
+          "96",
+          "11"
+        ],
+        [
+          "TIRINGUEO",
+          "2",
+          "120",
+          "52",
+          "68",
+          "7"
+        ],
+        [
+          "TLAPEHUALA",
+          "18",
+          "3,110",
+          "1,547",
+          "1,563",
+          "183"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "5,912",
+          "2,876",
+          "3,036",
+          "377"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLAPEHUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA JUÁREZ (EL JABALÍ)",
+          "4",
+          "222",
+          "104",
+          "118",
+          "18"
+        ],
+        [
+          "EL CUACUYUL",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "EL LIMÓN DE GUADALUPE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "EL TANQUE",
+          "2",
+          "70",
+          "32",
+          "38",
+          "6"
+        ],
+        [
+          "EL TINOCO",
+          "3",
+          "67",
+          "36",
+          "31",
+          "6"
+        ],
+        [
+          "HACIENDA NUEVA",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "LAS FRAGUAS",
+          "2",
+          "41",
+          "24",
+          "17",
+          "2"
+        ],
+        [
+          "MORELITA",
+          "4",
+          "291",
+          "142",
+          "149",
+          "17"
+        ],
+        [
+          "NUEVA FILADELFIA (HUERTA VIEJA)",
+          "1",
+          "4",
+          "4",
+          "0",
+          "1"
+        ],
+        [
+          "NUEVO GUERRERO",
+          "3",
+          "266",
+          "110",
+          "156",
+          "17"
+        ],
+        [
+          "RINCÓN DEL GALLO (SAN JOSÉ GUADALUPE)",
+          "2",
+          "137",
+          "67",
+          "70",
+          "8"
+        ],
+        [
+          "SAN ANTONIO DE LAS HUERTAS",
+          "5",
+          "558",
+          "288",
+          "270",
+          "32"
+        ],
+        [
+          "SAN JOSÉ POLIUTLA",
+          "8",
+          "648",
+          "301",
+          "347",
+          "52"
+        ],
+        [
+          "SAN JUAN MINA",
+          "2",
+          "117",
+          "52",
+          "65",
+          "9"
+        ],
+        [
+          "SANTO NIÑO (SANTO NIÑO DE ATOCHA)",
+          "3",
+          "162",
+          "66",
+          "96",
+          "11"
+        ],
+        [
+          "TIRINGUEO",
+          "2",
+          "120",
+          "52",
+          "68",
+          "7"
+        ],
+        [
+          "TLAPEHUALA",
+          "18",
+          "3,110",
+          "1,547",
+          "1,563",
+          "183"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "5,912",
+          "2,876",
+          "3,036",
+          "377"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:18.684Z"
+}

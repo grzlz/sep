@@ -1,0 +1,560 @@
+{
+  "municipality": "CHALCO",
+  "municipalityCode": "025",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: CHALCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCASERÍO DE CORTÉS\n\t\t2\n\t\t107\n\t\t47\n\t\t60\n\t\t8\n\t\n\t\n\t\tCHALCO DE DÍAZ COVARRUBIAS\n\t\t229\n\t\t59,947\n\t\t32,934\n\t\t27,013\n\t\t3,527\n\t\n\t\n\t\tCOLONIA CALLE SANTA CRUZ AMALINALCO\n\t\t3\n\t\t449\n\t\t212\n\t\t237\n\t\t16\n\t\n\t\n\t\tEL POTRERO\n\t\t1\n\t\t208\n\t\t95\n\t\t113\n\t\t6\n\t\n\t\n\t\tLA CANDELARIA TLAPALA\n\t\t9\n\t\t4,131\n\t\t1,679\n\t\t2,452\n\t\t205\n\t\n\t\n\t\tLOS ÁLAMOS [CONJUNTO URBANO]\n\t\t5\n\t\t1,337\n\t\t663\n\t\t674\n\t\t59\n\t\n\t\n\t\tLOS HÉROES CHALCO [CONJUNTO URBANO]\n\t\t1\n\t\t83\n\t\t41\n\t\t42\n\t\t4\n\t\n\t\n\t\tMARGARITA MORÁN\n\t\t1\n\t\t239\n\t\t106\n\t\t133\n\t\t8\n\t\n\t\n\t\tPUEBLO NUEVO [CONJUNTO URBANO]\n\t\t2\n\t\t637\n\t\t336\n\t\t301\n\t\t26\n\t\n\t\n\t\tSAN GREGORIO CUAUTZINGO\n\t\t15\n\t\t3,443\n\t\t1,702\n\t\t1,741\n\t\t249\n\t\n\t\n\t\tSAN JUAN TEZOMPA\n\t\t9\n\t\t1,485\n\t\t722\n\t\t763\n\t\t88\n\t\n\t\n\t\tSAN LUCAS AMALINALCO\n\t\t4\n\t\t1,331\n\t\t659\n\t\t672\n\t\t52\n\t\n\t\n\t\tSAN MARCOS HUIXTOCO\n\t\t21\n\t\t4,328\n\t\t2,115\n\t\t2,213\n\t\t204\n\t\n\t\n\t\tSAN MARTÍN CUAUTLALPAN\n\t\t44\n\t\t12,902\n\t\t6,340\n\t\t6,562\n\t\t547\n\t\n\t\n\t\tSAN MARTÍN XICO NUEVO\n\t\t5\n\t\t679\n\t\t333\n\t\t346\n\t\t41\n\t\n\t\n\t\tSAN MATEO HUITZILZINGO\n\t\t13\n\t\t2,179\n\t\t1,058\n\t\t1,121\n\t\t100\n\t\n\t\n\t\tSAN MATEO TEZOQUIPAN MIRAFLORES\n\t\t18\n\t\t3,813\n\t\t1,992\n\t\t1,821\n\t\t235\n\t\n\t\n\t\tSAN PABLO ATLAZALPAN\n\t\t14\n\t\t3,954\n\t\t1,945\n\t\t2,009\n\t\t155\n\t\n\t\n\t\tSANTA CATARINA AYOTZINGO\n\t\t10\n\t\t2,766\n\t\t1,365\n\t\t1,401\n\t\t177\n\t\n\t\n\t\tSANTA MARÍA HUEXOCULCO\n\t\t12\n\t\t3,060\n\t\t1,540\n\t\t1,520\n\t\t135\n\t\n\t\n\t\tVILLAS DE SAN MARTÍN [CONJUNTO URBANO]\n\t\t1\n\t\t219\n\t\t110\n\t\t109\n\t\t9\n\t\n\t\n\t\tTOTAL\n\t\t419\n\t\t107,297\n\t\t55,994\n\t\t51,303\n\t\t5,851\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: CHALCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CASERÍO DE CORTÉS",
+          "2",
+          "107",
+          "47",
+          "60",
+          "8",
+          "CHALCO DE DÍAZ COVARRUBIAS",
+          "229",
+          "59,947",
+          "32,934",
+          "27,013",
+          "3,527",
+          "COLONIA CALLE SANTA CRUZ AMALINALCO",
+          "3",
+          "449",
+          "212",
+          "237",
+          "16",
+          "EL POTRERO",
+          "1",
+          "208",
+          "95",
+          "113",
+          "6",
+          "LA CANDELARIA TLAPALA",
+          "9",
+          "4,131",
+          "1,679",
+          "2,452",
+          "205",
+          "LOS ÁLAMOS [CONJUNTO URBANO]",
+          "5",
+          "1,337",
+          "663",
+          "674",
+          "59",
+          "LOS HÉROES CHALCO [CONJUNTO URBANO]",
+          "1",
+          "83",
+          "41",
+          "42",
+          "4",
+          "MARGARITA MORÁN",
+          "1",
+          "239",
+          "106",
+          "133",
+          "8",
+          "PUEBLO NUEVO [CONJUNTO URBANO]",
+          "2",
+          "637",
+          "336",
+          "301",
+          "26",
+          "SAN GREGORIO CUAUTZINGO",
+          "15",
+          "3,443",
+          "1,702",
+          "1,741",
+          "249",
+          "SAN JUAN TEZOMPA",
+          "9",
+          "1,485",
+          "722",
+          "763",
+          "88",
+          "SAN LUCAS AMALINALCO",
+          "4",
+          "1,331",
+          "659",
+          "672",
+          "52",
+          "SAN MARCOS HUIXTOCO",
+          "21",
+          "4,328",
+          "2,115",
+          "2,213",
+          "204",
+          "SAN MARTÍN CUAUTLALPAN",
+          "44",
+          "12,902",
+          "6,340",
+          "6,562",
+          "547",
+          "SAN MARTÍN XICO NUEVO",
+          "5",
+          "679",
+          "333",
+          "346",
+          "41",
+          "SAN MATEO HUITZILZINGO",
+          "13",
+          "2,179",
+          "1,058",
+          "1,121",
+          "100",
+          "SAN MATEO TEZOQUIPAN MIRAFLORES",
+          "18",
+          "3,813",
+          "1,992",
+          "1,821",
+          "235",
+          "SAN PABLO ATLAZALPAN",
+          "14",
+          "3,954",
+          "1,945",
+          "2,009",
+          "155",
+          "SANTA CATARINA AYOTZINGO",
+          "10",
+          "2,766",
+          "1,365",
+          "1,401",
+          "177",
+          "SANTA MARÍA HUEXOCULCO",
+          "12",
+          "3,060",
+          "1,540",
+          "1,520",
+          "135",
+          "VILLAS DE SAN MARTÍN [CONJUNTO URBANO]",
+          "1",
+          "219",
+          "110",
+          "109",
+          "9",
+          "TOTAL",
+          "419",
+          "107,297",
+          "55,994",
+          "51,303",
+          "5,851",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: CHALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CASERÍO DE CORTÉS",
+          "2",
+          "107",
+          "47",
+          "60",
+          "8"
+        ],
+        [
+          "CHALCO DE DÍAZ COVARRUBIAS",
+          "229",
+          "59,947",
+          "32,934",
+          "27,013",
+          "3,527"
+        ],
+        [
+          "COLONIA CALLE SANTA CRUZ AMALINALCO",
+          "3",
+          "449",
+          "212",
+          "237",
+          "16"
+        ],
+        [
+          "EL POTRERO",
+          "1",
+          "208",
+          "95",
+          "113",
+          "6"
+        ],
+        [
+          "LA CANDELARIA TLAPALA",
+          "9",
+          "4,131",
+          "1,679",
+          "2,452",
+          "205"
+        ],
+        [
+          "LOS ÁLAMOS [CONJUNTO URBANO]",
+          "5",
+          "1,337",
+          "663",
+          "674",
+          "59"
+        ],
+        [
+          "LOS HÉROES CHALCO [CONJUNTO URBANO]",
+          "1",
+          "83",
+          "41",
+          "42",
+          "4"
+        ],
+        [
+          "MARGARITA MORÁN",
+          "1",
+          "239",
+          "106",
+          "133",
+          "8"
+        ],
+        [
+          "PUEBLO NUEVO [CONJUNTO URBANO]",
+          "2",
+          "637",
+          "336",
+          "301",
+          "26"
+        ],
+        [
+          "SAN GREGORIO CUAUTZINGO",
+          "15",
+          "3,443",
+          "1,702",
+          "1,741",
+          "249"
+        ],
+        [
+          "SAN JUAN TEZOMPA",
+          "9",
+          "1,485",
+          "722",
+          "763",
+          "88"
+        ],
+        [
+          "SAN LUCAS AMALINALCO",
+          "4",
+          "1,331",
+          "659",
+          "672",
+          "52"
+        ],
+        [
+          "SAN MARCOS HUIXTOCO",
+          "21",
+          "4,328",
+          "2,115",
+          "2,213",
+          "204"
+        ],
+        [
+          "SAN MARTÍN CUAUTLALPAN",
+          "44",
+          "12,902",
+          "6,340",
+          "6,562",
+          "547"
+        ],
+        [
+          "SAN MARTÍN XICO NUEVO",
+          "5",
+          "679",
+          "333",
+          "346",
+          "41"
+        ],
+        [
+          "SAN MATEO HUITZILZINGO",
+          "13",
+          "2,179",
+          "1,058",
+          "1,121",
+          "100"
+        ],
+        [
+          "SAN MATEO TEZOQUIPAN MIRAFLORES",
+          "18",
+          "3,813",
+          "1,992",
+          "1,821",
+          "235"
+        ],
+        [
+          "SAN PABLO ATLAZALPAN",
+          "14",
+          "3,954",
+          "1,945",
+          "2,009",
+          "155"
+        ],
+        [
+          "SANTA CATARINA AYOTZINGO",
+          "10",
+          "2,766",
+          "1,365",
+          "1,401",
+          "177"
+        ],
+        [
+          "SANTA MARÍA HUEXOCULCO",
+          "12",
+          "3,060",
+          "1,540",
+          "1,520",
+          "135"
+        ],
+        [
+          "VILLAS DE SAN MARTÍN [CONJUNTO URBANO]",
+          "1",
+          "219",
+          "110",
+          "109",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "419",
+          "107,297",
+          "55,994",
+          "51,303",
+          "5,851"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: CHALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CASERÍO DE CORTÉS",
+          "2",
+          "107",
+          "47",
+          "60",
+          "8"
+        ],
+        [
+          "CHALCO DE DÍAZ COVARRUBIAS",
+          "229",
+          "59,947",
+          "32,934",
+          "27,013",
+          "3,527"
+        ],
+        [
+          "COLONIA CALLE SANTA CRUZ AMALINALCO",
+          "3",
+          "449",
+          "212",
+          "237",
+          "16"
+        ],
+        [
+          "EL POTRERO",
+          "1",
+          "208",
+          "95",
+          "113",
+          "6"
+        ],
+        [
+          "LA CANDELARIA TLAPALA",
+          "9",
+          "4,131",
+          "1,679",
+          "2,452",
+          "205"
+        ],
+        [
+          "LOS ÁLAMOS [CONJUNTO URBANO]",
+          "5",
+          "1,337",
+          "663",
+          "674",
+          "59"
+        ],
+        [
+          "LOS HÉROES CHALCO [CONJUNTO URBANO]",
+          "1",
+          "83",
+          "41",
+          "42",
+          "4"
+        ],
+        [
+          "MARGARITA MORÁN",
+          "1",
+          "239",
+          "106",
+          "133",
+          "8"
+        ],
+        [
+          "PUEBLO NUEVO [CONJUNTO URBANO]",
+          "2",
+          "637",
+          "336",
+          "301",
+          "26"
+        ],
+        [
+          "SAN GREGORIO CUAUTZINGO",
+          "15",
+          "3,443",
+          "1,702",
+          "1,741",
+          "249"
+        ],
+        [
+          "SAN JUAN TEZOMPA",
+          "9",
+          "1,485",
+          "722",
+          "763",
+          "88"
+        ],
+        [
+          "SAN LUCAS AMALINALCO",
+          "4",
+          "1,331",
+          "659",
+          "672",
+          "52"
+        ],
+        [
+          "SAN MARCOS HUIXTOCO",
+          "21",
+          "4,328",
+          "2,115",
+          "2,213",
+          "204"
+        ],
+        [
+          "SAN MARTÍN CUAUTLALPAN",
+          "44",
+          "12,902",
+          "6,340",
+          "6,562",
+          "547"
+        ],
+        [
+          "SAN MARTÍN XICO NUEVO",
+          "5",
+          "679",
+          "333",
+          "346",
+          "41"
+        ],
+        [
+          "SAN MATEO HUITZILZINGO",
+          "13",
+          "2,179",
+          "1,058",
+          "1,121",
+          "100"
+        ],
+        [
+          "SAN MATEO TEZOQUIPAN MIRAFLORES",
+          "18",
+          "3,813",
+          "1,992",
+          "1,821",
+          "235"
+        ],
+        [
+          "SAN PABLO ATLAZALPAN",
+          "14",
+          "3,954",
+          "1,945",
+          "2,009",
+          "155"
+        ],
+        [
+          "SANTA CATARINA AYOTZINGO",
+          "10",
+          "2,766",
+          "1,365",
+          "1,401",
+          "177"
+        ],
+        [
+          "SANTA MARÍA HUEXOCULCO",
+          "12",
+          "3,060",
+          "1,540",
+          "1,520",
+          "135"
+        ],
+        [
+          "VILLAS DE SAN MARTÍN [CONJUNTO URBANO]",
+          "1",
+          "219",
+          "110",
+          "109",
+          "9"
+        ],
+        [
+          "TOTAL",
+          "419",
+          "107,297",
+          "55,994",
+          "51,303",
+          "5,851"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:16:05.786Z"
+}

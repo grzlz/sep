@@ -1,0 +1,890 @@
+{
+  "municipality": "CAZONES DE HERRERA",
+  "municipalityCode": "033",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CAZONES DE HERRERA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRA DE CAZONES\n\t\t4\n\t\t256\n\t\t118\n\t\t138\n\t\t16\n\t\n\t\n\t\tBARRIO ACOSTA LAGUNES\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t124\n\t\t62\n\t\t62\n\t\t11\n\t\n\t\n\t\tCABELLAL NÚMERO DOS\n\t\t4\n\t\t207\n\t\t105\n\t\t102\n\t\t13\n\t\n\t\n\t\tCABELLAL NÚMERO UNO\n\t\t3\n\t\t103\n\t\t58\n\t\t45\n\t\t11\n\t\n\t\n\t\tCAZONES DE HERRERA\n\t\t12\n\t\t1,746\n\t\t869\n\t\t877\n\t\t88\n\t\n\t\n\t\tCERRO VERDE\n\t\t3\n\t\t70\n\t\t36\n\t\t34\n\t\t5\n\t\n\t\n\t\tCHACA GORDA\n\t\t2\n\t\t17\n\t\t2\n\t\t15\n\t\t2\n\t\n\t\n\t\tCOYOL NORTE\n\t\t4\n\t\t127\n\t\t56\n\t\t71\n\t\t11\n\t\n\t\n\t\tCRUZ BLANCA NÚMERO DOS\n\t\t1\n\t\t22\n\t\t14\n\t\t8\n\t\t3\n\t\n\t\n\t\tCRUZ BLANCA NÚMERO UNO\n\t\t3\n\t\t257\n\t\t118\n\t\t139\n\t\t12\n\t\n\t\n\t\tEL MARINO\n\t\t2\n\t\t33\n\t\t21\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL RAMAL\n\t\t2\n\t\t19\n\t\t12\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL SAUCE\n\t\t3\n\t\t99\n\t\t46\n\t\t53\n\t\t11\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t68\n\t\t28\n\t\t40\n\t\t4\n\t\n\t\n\t\tGENERAL FELIPE ÁNGELES\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA CEIBA\n\t\t4\n\t\t183\n\t\t91\n\t\t92\n\t\t13\n\t\n\t\n\t\tLA CURVA\n\t\t2\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA ENCANTADA\n\t\t3\n\t\t82\n\t\t43\n\t\t39\n\t\t6\n\t\n\t\n\t\tLA PIEDAD\n\t\t3\n\t\t153\n\t\t69\n\t\t84\n\t\t11\n\t\n\t\n\t\tLA REFORMA DE HERRERA (KILÓMETRO 19)\n\t\t1\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA UNIÓN (KILÓMETRO 31)\n\t\t5\n\t\t439\n\t\t228\n\t\t211\n\t\t30\n\t\n\t\n\t\tLAS PALMAS\n\t\t2\n\t\t32\n\t\t18\n\t\t14\n\t\t4\n\t\n\t\n\t\tLIMÓN CHIQUITO\n\t\t3\n\t\t171\n\t\t85\n\t\t86\n\t\t11\n\t\n\t\n\t\tLOS MIGUELES\n\t\t2\n\t\t32\n\t\t20\n\t\t12\n\t\t3\n\t\n\t\n\t\tMANLIO FABIO ALTAMIRANO (KILÓMETRO 25)\n\t\t4\n\t\t216\n\t\t112\n\t\t104\n\t\t21\n\t\n\t\n\t\tMARCO ANTONIO MUÑOZ (EL CHAPARRAL)\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tMORISCO NÚMERO UNO (SAN ROMÁN GRANDE)\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tNARANJOS DE AFUERA (NARANJOS KILÓMETRO 27)\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tNUEVO TEJAMANIL\n\t\t3\n\t\t198\n\t\t86\n\t\t112\n\t\t11\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t32\n\t\t16\n\t\t16\n\t\t3\n\t\n\t\n\t\tPASO DE CAZONES\n\t\t2\n\t\t33\n\t\t19\n\t\t14\n\t\t3\n\t\n\t\n\t\tPLAN DE LIMÓN\n\t\t4\n\t\t292\n\t\t142\n\t\t150\n\t\t17\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t4\n\t\t399\n\t\t186\n\t\t213\n\t\t19\n\t\n\t\n\t\tSAN ROMÁN CHIQUITO (ANEXO MORISCO NÚMERO DOS)\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tVEGA DE PROGRESO\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t101\n\t\t5,548\n\t\t2,733\n\t\t2,815\n\t\t358\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CAZONES DE HERRERA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRA DE CAZONES",
+          "4",
+          "256",
+          "118",
+          "138",
+          "16",
+          "BARRIO ACOSTA LAGUNES",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "BUENAVISTA",
+          "3",
+          "124",
+          "62",
+          "62",
+          "11",
+          "CABELLAL NÚMERO DOS",
+          "4",
+          "207",
+          "105",
+          "102",
+          "13",
+          "CABELLAL NÚMERO UNO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "11",
+          "CAZONES DE HERRERA",
+          "12",
+          "1,746",
+          "869",
+          "877",
+          "88",
+          "CERRO VERDE",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5",
+          "CHACA GORDA",
+          "2",
+          "17",
+          "2",
+          "15",
+          "2",
+          "COYOL NORTE",
+          "4",
+          "127",
+          "56",
+          "71",
+          "11",
+          "CRUZ BLANCA NÚMERO DOS",
+          "1",
+          "22",
+          "14",
+          "8",
+          "3",
+          "CRUZ BLANCA NÚMERO UNO",
+          "3",
+          "257",
+          "118",
+          "139",
+          "12",
+          "EL MARINO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3",
+          "EL RAMAL",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2",
+          "EL SAUCE",
+          "3",
+          "99",
+          "46",
+          "53",
+          "11",
+          "EMILIANO ZAPATA",
+          "3",
+          "68",
+          "28",
+          "40",
+          "4",
+          "GENERAL FELIPE ÁNGELES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "LA CEIBA",
+          "4",
+          "183",
+          "91",
+          "92",
+          "13",
+          "LA CURVA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3",
+          "LA ENCANTADA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6",
+          "LA PIEDAD",
+          "3",
+          "153",
+          "69",
+          "84",
+          "11",
+          "LA REFORMA DE HERRERA (KILÓMETRO 19)",
+          "1",
+          "21",
+          "13",
+          "8",
+          "2",
+          "LA UNIÓN (KILÓMETRO 31)",
+          "5",
+          "439",
+          "228",
+          "211",
+          "30",
+          "LAS PALMAS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "4",
+          "LIMÓN CHIQUITO",
+          "3",
+          "171",
+          "85",
+          "86",
+          "11",
+          "LOS MIGUELES",
+          "2",
+          "32",
+          "20",
+          "12",
+          "3",
+          "MANLIO FABIO ALTAMIRANO (KILÓMETRO 25)",
+          "4",
+          "216",
+          "112",
+          "104",
+          "21",
+          "MARCO ANTONIO MUÑOZ (EL CHAPARRAL)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "MORISCO NÚMERO UNO (SAN ROMÁN GRANDE)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "NARANJOS DE AFUERA (NARANJOS KILÓMETRO 27)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2",
+          "NUEVO TEJAMANIL",
+          "3",
+          "198",
+          "86",
+          "112",
+          "11",
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "16",
+          "16",
+          "3",
+          "PASO DE CAZONES",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3",
+          "PLAN DE LIMÓN",
+          "4",
+          "292",
+          "142",
+          "150",
+          "17",
+          "RANCHO NUEVO",
+          "4",
+          "399",
+          "186",
+          "213",
+          "19",
+          "SAN ROMÁN CHIQUITO (ANEXO MORISCO NÚMERO DOS)",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2",
+          "VEGA DE PROGRESO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "TOTAL",
+          "101",
+          "5,548",
+          "2,733",
+          "2,815",
+          "358",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CAZONES DE HERRERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRA DE CAZONES",
+          "4",
+          "256",
+          "118",
+          "138",
+          "16"
+        ],
+        [
+          "BARRIO ACOSTA LAGUNES",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "124",
+          "62",
+          "62",
+          "11"
+        ],
+        [
+          "CABELLAL NÚMERO DOS",
+          "4",
+          "207",
+          "105",
+          "102",
+          "13"
+        ],
+        [
+          "CABELLAL NÚMERO UNO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "11"
+        ],
+        [
+          "CAZONES DE HERRERA",
+          "12",
+          "1,746",
+          "869",
+          "877",
+          "88"
+        ],
+        [
+          "CERRO VERDE",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5"
+        ],
+        [
+          "CHACA GORDA",
+          "2",
+          "17",
+          "2",
+          "15",
+          "2"
+        ],
+        [
+          "COYOL NORTE",
+          "4",
+          "127",
+          "56",
+          "71",
+          "11"
+        ],
+        [
+          "CRUZ BLANCA NÚMERO DOS",
+          "1",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "CRUZ BLANCA NÚMERO UNO",
+          "3",
+          "257",
+          "118",
+          "139",
+          "12"
+        ],
+        [
+          "EL MARINO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "EL RAMAL",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "EL SAUCE",
+          "3",
+          "99",
+          "46",
+          "53",
+          "11"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "68",
+          "28",
+          "40",
+          "4"
+        ],
+        [
+          "GENERAL FELIPE ÁNGELES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LA CEIBA",
+          "4",
+          "183",
+          "91",
+          "92",
+          "13"
+        ],
+        [
+          "LA CURVA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "LA ENCANTADA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6"
+        ],
+        [
+          "LA PIEDAD",
+          "3",
+          "153",
+          "69",
+          "84",
+          "11"
+        ],
+        [
+          "LA REFORMA DE HERRERA (KILÓMETRO 19)",
+          "1",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA UNIÓN (KILÓMETRO 31)",
+          "5",
+          "439",
+          "228",
+          "211",
+          "30"
+        ],
+        [
+          "LAS PALMAS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "4"
+        ],
+        [
+          "LIMÓN CHIQUITO",
+          "3",
+          "171",
+          "85",
+          "86",
+          "11"
+        ],
+        [
+          "LOS MIGUELES",
+          "2",
+          "32",
+          "20",
+          "12",
+          "3"
+        ],
+        [
+          "MANLIO FABIO ALTAMIRANO (KILÓMETRO 25)",
+          "4",
+          "216",
+          "112",
+          "104",
+          "21"
+        ],
+        [
+          "MARCO ANTONIO MUÑOZ (EL CHAPARRAL)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "MORISCO NÚMERO UNO (SAN ROMÁN GRANDE)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "NARANJOS DE AFUERA (NARANJOS KILÓMETRO 27)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVO TEJAMANIL",
+          "3",
+          "198",
+          "86",
+          "112",
+          "11"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "16",
+          "16",
+          "3"
+        ],
+        [
+          "PASO DE CAZONES",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3"
+        ],
+        [
+          "PLAN DE LIMÓN",
+          "4",
+          "292",
+          "142",
+          "150",
+          "17"
+        ],
+        [
+          "RANCHO NUEVO",
+          "4",
+          "399",
+          "186",
+          "213",
+          "19"
+        ],
+        [
+          "SAN ROMÁN CHIQUITO (ANEXO MORISCO NÚMERO DOS)",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "VEGA DE PROGRESO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "101",
+          "5,548",
+          "2,733",
+          "2,815",
+          "358"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: CAZONES DE HERRERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRA DE CAZONES",
+          "4",
+          "256",
+          "118",
+          "138",
+          "16"
+        ],
+        [
+          "BARRIO ACOSTA LAGUNES",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "124",
+          "62",
+          "62",
+          "11"
+        ],
+        [
+          "CABELLAL NÚMERO DOS",
+          "4",
+          "207",
+          "105",
+          "102",
+          "13"
+        ],
+        [
+          "CABELLAL NÚMERO UNO",
+          "3",
+          "103",
+          "58",
+          "45",
+          "11"
+        ],
+        [
+          "CAZONES DE HERRERA",
+          "12",
+          "1,746",
+          "869",
+          "877",
+          "88"
+        ],
+        [
+          "CERRO VERDE",
+          "3",
+          "70",
+          "36",
+          "34",
+          "5"
+        ],
+        [
+          "CHACA GORDA",
+          "2",
+          "17",
+          "2",
+          "15",
+          "2"
+        ],
+        [
+          "COYOL NORTE",
+          "4",
+          "127",
+          "56",
+          "71",
+          "11"
+        ],
+        [
+          "CRUZ BLANCA NÚMERO DOS",
+          "1",
+          "22",
+          "14",
+          "8",
+          "3"
+        ],
+        [
+          "CRUZ BLANCA NÚMERO UNO",
+          "3",
+          "257",
+          "118",
+          "139",
+          "12"
+        ],
+        [
+          "EL MARINO",
+          "2",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "EL RAMAL",
+          "2",
+          "19",
+          "12",
+          "7",
+          "2"
+        ],
+        [
+          "EL SAUCE",
+          "3",
+          "99",
+          "46",
+          "53",
+          "11"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "68",
+          "28",
+          "40",
+          "4"
+        ],
+        [
+          "GENERAL FELIPE ÁNGELES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LA CEIBA",
+          "4",
+          "183",
+          "91",
+          "92",
+          "13"
+        ],
+        [
+          "LA CURVA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "LA ENCANTADA",
+          "3",
+          "82",
+          "43",
+          "39",
+          "6"
+        ],
+        [
+          "LA PIEDAD",
+          "3",
+          "153",
+          "69",
+          "84",
+          "11"
+        ],
+        [
+          "LA REFORMA DE HERRERA (KILÓMETRO 19)",
+          "1",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA UNIÓN (KILÓMETRO 31)",
+          "5",
+          "439",
+          "228",
+          "211",
+          "30"
+        ],
+        [
+          "LAS PALMAS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "4"
+        ],
+        [
+          "LIMÓN CHIQUITO",
+          "3",
+          "171",
+          "85",
+          "86",
+          "11"
+        ],
+        [
+          "LOS MIGUELES",
+          "2",
+          "32",
+          "20",
+          "12",
+          "3"
+        ],
+        [
+          "MANLIO FABIO ALTAMIRANO (KILÓMETRO 25)",
+          "4",
+          "216",
+          "112",
+          "104",
+          "21"
+        ],
+        [
+          "MARCO ANTONIO MUÑOZ (EL CHAPARRAL)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "MORISCO NÚMERO UNO (SAN ROMÁN GRANDE)",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "NARANJOS DE AFUERA (NARANJOS KILÓMETRO 27)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "NUEVO TEJAMANIL",
+          "3",
+          "198",
+          "86",
+          "112",
+          "11"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "16",
+          "16",
+          "3"
+        ],
+        [
+          "PASO DE CAZONES",
+          "2",
+          "33",
+          "19",
+          "14",
+          "3"
+        ],
+        [
+          "PLAN DE LIMÓN",
+          "4",
+          "292",
+          "142",
+          "150",
+          "17"
+        ],
+        [
+          "RANCHO NUEVO",
+          "4",
+          "399",
+          "186",
+          "213",
+          "19"
+        ],
+        [
+          "SAN ROMÁN CHIQUITO (ANEXO MORISCO NÚMERO DOS)",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "VEGA DE PROGRESO",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "101",
+          "5,548",
+          "2,733",
+          "2,815",
+          "358"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:43:38.958Z"
+}

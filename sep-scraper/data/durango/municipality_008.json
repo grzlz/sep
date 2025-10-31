@@ -1,0 +1,406 @@
+{
+  "municipality": "GUADALUPE VICTORIA",
+  "municipalityCode": "008",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUADALUPE VICTORIA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANTONIO AMARO (SAUCILLO)\n\t\t5\n\t\t860\n\t\t444\n\t\t416\n\t\t57\n\t\n\t\n\t\tCARBONERAS\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t2\n\t\n\t\n\t\tDOS DE ABRIL\n\t\t3\n\t\t81\n\t\t40\n\t\t41\n\t\t6\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO (TARABILLAS)\n\t\t5\n\t\t440\n\t\t221\n\t\t219\n\t\t24\n\t\n\t\n\t\tGENERAL ÁLVARO OBREGÓN\n\t\t3\n\t\t50\n\t\t28\n\t\t22\n\t\t4\n\t\n\t\n\t\tGENERAL CALIXTO CONTRERAS (COLORADA)\n\t\t5\n\t\t493\n\t\t239\n\t\t254\n\t\t27\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t27\n\t\t5,535\n\t\t2,794\n\t\t2,741\n\t\t359\n\t\n\t\n\t\tIGNACIO ALLENDE\n\t\t6\n\t\t552\n\t\t271\n\t\t281\n\t\t35\n\t\n\t\n\t\tIGNACIO RAMÍREZ\n\t\t6\n\t\t476\n\t\t234\n\t\t242\n\t\t34\n\t\n\t\n\t\tJOSÉ GUADALUPE RODRÍGUEZ (PEÑUELAS)\n\t\t4\n\t\t252\n\t\t115\n\t\t137\n\t\t16\n\t\n\t\n\t\tJOSÉ MARÍA PINO SUÁREZ (PROVIDENCIA)\n\t\t3\n\t\t74\n\t\t39\n\t\t35\n\t\t7\n\t\n\t\n\t\tJUAN ALDAMA (MAGUEYES)\n\t\t3\n\t\t110\n\t\t51\n\t\t59\n\t\t6\n\t\n\t\n\t\tSAN FRANCISCO DE LA PALMITA (LA PALMITA)\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t2\n\t\n\t\n\t\tSANTA CATALINA DE SIENA\n\t\t4\n\t\t109\n\t\t63\n\t\t46\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t78\n\t\t9,062\n\t\t4,554\n\t\t4,508\n\t\t587\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUADALUPE VICTORIA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANTONIO AMARO (SAUCILLO)",
+          "5",
+          "860",
+          "444",
+          "416",
+          "57",
+          "CARBONERAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2",
+          "DOS DE ABRIL",
+          "3",
+          "81",
+          "40",
+          "41",
+          "6",
+          "FELIPE CARRILLO PUERTO (TARABILLAS)",
+          "5",
+          "440",
+          "221",
+          "219",
+          "24",
+          "GENERAL ÁLVARO OBREGÓN",
+          "3",
+          "50",
+          "28",
+          "22",
+          "4",
+          "GENERAL CALIXTO CONTRERAS (COLORADA)",
+          "5",
+          "493",
+          "239",
+          "254",
+          "27",
+          "GUADALUPE VICTORIA",
+          "27",
+          "5,535",
+          "2,794",
+          "2,741",
+          "359",
+          "IGNACIO ALLENDE",
+          "6",
+          "552",
+          "271",
+          "281",
+          "35",
+          "IGNACIO RAMÍREZ",
+          "6",
+          "476",
+          "234",
+          "242",
+          "34",
+          "JOSÉ GUADALUPE RODRÍGUEZ (PEÑUELAS)",
+          "4",
+          "252",
+          "115",
+          "137",
+          "16",
+          "JOSÉ MARÍA PINO SUÁREZ (PROVIDENCIA)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "7",
+          "JUAN ALDAMA (MAGUEYES)",
+          "3",
+          "110",
+          "51",
+          "59",
+          "6",
+          "SAN FRANCISCO DE LA PALMITA (LA PALMITA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2",
+          "SANTA CATALINA DE SIENA",
+          "4",
+          "109",
+          "63",
+          "46",
+          "8",
+          "TOTAL",
+          "78",
+          "9,062",
+          "4,554",
+          "4,508",
+          "587",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUADALUPE VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTONIO AMARO (SAUCILLO)",
+          "5",
+          "860",
+          "444",
+          "416",
+          "57"
+        ],
+        [
+          "CARBONERAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "DOS DE ABRIL",
+          "3",
+          "81",
+          "40",
+          "41",
+          "6"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (TARABILLAS)",
+          "5",
+          "440",
+          "221",
+          "219",
+          "24"
+        ],
+        [
+          "GENERAL ÁLVARO OBREGÓN",
+          "3",
+          "50",
+          "28",
+          "22",
+          "4"
+        ],
+        [
+          "GENERAL CALIXTO CONTRERAS (COLORADA)",
+          "5",
+          "493",
+          "239",
+          "254",
+          "27"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "27",
+          "5,535",
+          "2,794",
+          "2,741",
+          "359"
+        ],
+        [
+          "IGNACIO ALLENDE",
+          "6",
+          "552",
+          "271",
+          "281",
+          "35"
+        ],
+        [
+          "IGNACIO RAMÍREZ",
+          "6",
+          "476",
+          "234",
+          "242",
+          "34"
+        ],
+        [
+          "JOSÉ GUADALUPE RODRÍGUEZ (PEÑUELAS)",
+          "4",
+          "252",
+          "115",
+          "137",
+          "16"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ (PROVIDENCIA)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "7"
+        ],
+        [
+          "JUAN ALDAMA (MAGUEYES)",
+          "3",
+          "110",
+          "51",
+          "59",
+          "6"
+        ],
+        [
+          "SAN FRANCISCO DE LA PALMITA (LA PALMITA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "SANTA CATALINA DE SIENA",
+          "4",
+          "109",
+          "63",
+          "46",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "9,062",
+          "4,554",
+          "4,508",
+          "587"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: GUADALUPE VICTORIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTONIO AMARO (SAUCILLO)",
+          "5",
+          "860",
+          "444",
+          "416",
+          "57"
+        ],
+        [
+          "CARBONERAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "DOS DE ABRIL",
+          "3",
+          "81",
+          "40",
+          "41",
+          "6"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO (TARABILLAS)",
+          "5",
+          "440",
+          "221",
+          "219",
+          "24"
+        ],
+        [
+          "GENERAL ÁLVARO OBREGÓN",
+          "3",
+          "50",
+          "28",
+          "22",
+          "4"
+        ],
+        [
+          "GENERAL CALIXTO CONTRERAS (COLORADA)",
+          "5",
+          "493",
+          "239",
+          "254",
+          "27"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "27",
+          "5,535",
+          "2,794",
+          "2,741",
+          "359"
+        ],
+        [
+          "IGNACIO ALLENDE",
+          "6",
+          "552",
+          "271",
+          "281",
+          "35"
+        ],
+        [
+          "IGNACIO RAMÍREZ",
+          "6",
+          "476",
+          "234",
+          "242",
+          "34"
+        ],
+        [
+          "JOSÉ GUADALUPE RODRÍGUEZ (PEÑUELAS)",
+          "4",
+          "252",
+          "115",
+          "137",
+          "16"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ (PROVIDENCIA)",
+          "3",
+          "74",
+          "39",
+          "35",
+          "7"
+        ],
+        [
+          "JUAN ALDAMA (MAGUEYES)",
+          "3",
+          "110",
+          "51",
+          "59",
+          "6"
+        ],
+        [
+          "SAN FRANCISCO DE LA PALMITA (LA PALMITA)",
+          "2",
+          "26",
+          "13",
+          "13",
+          "2"
+        ],
+        [
+          "SANTA CATALINA DE SIENA",
+          "4",
+          "109",
+          "63",
+          "46",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "9,062",
+          "4,554",
+          "4,508",
+          "587"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:18.511Z"
+}

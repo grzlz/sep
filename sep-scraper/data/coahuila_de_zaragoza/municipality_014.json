@@ -1,0 +1,472 @@
+{
+  "municipality": "JIMÉNEZ",
+  "municipalityCode": "014",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: JIMÉNEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCRISTALES\n\t\t2\n\t\t44\n\t\t20\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL DIVISADERO\n\t\t4\n\t\t110\n\t\t59\n\t\t51\n\t\t8\n\t\n\t\n\t\tEL ORÉGANO\n\t\t3\n\t\t159\n\t\t74\n\t\t85\n\t\t6\n\t\n\t\n\t\tEL TEPEYAC\n\t\t2\n\t\t40\n\t\t16\n\t\t24\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA (SANTA ELENA)\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t2\n\t\n\t\n\t\tJIMÉNEZ\n\t\t6\n\t\t529\n\t\t288\n\t\t241\n\t\t29\n\t\n\t\n\t\tLA BANDERA (NUEVA BANDERA)\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA MURALLA\n\t\t2\n\t\t65\n\t\t33\n\t\t32\n\t\t4\n\t\n\t\n\t\tLA POTASA\n\t\t2\n\t\t28\n\t\t11\n\t\t17\n\t\t3\n\t\n\t\n\t\tMADERO DEL RÍO\n\t\t6\n\t\t191\n\t\t91\n\t\t100\n\t\t14\n\t\n\t\n\t\tNUEVA JARITA\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tPALMIRA (VICTORIA)\n\t\t4\n\t\t120\n\t\t61\n\t\t59\n\t\t9\n\t\n\t\n\t\tPURÍSIMA\n\t\t2\n\t\t56\n\t\t28\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN CARLOS\n\t\t6\n\t\t879\n\t\t458\n\t\t421\n\t\t50\n\t\n\t\n\t\tSAN VICENTE\n\t\t2\n\t\t17\n\t\t5\n\t\t12\n\t\t2\n\t\n\t\n\t\tSANTA MARÍA\n\t\t2\n\t\t164\n\t\t82\n\t\t82\n\t\t8\n\t\n\t\n\t\tVIEJA PALESTINA\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t51\n\t\t2,478\n\t\t1,260\n\t\t1,218\n\t\t148\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: JIMÉNEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CRISTALES",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3",
+          "EL DIVISADERO",
+          "4",
+          "110",
+          "59",
+          "51",
+          "8",
+          "EL ORÉGANO",
+          "3",
+          "159",
+          "74",
+          "85",
+          "6",
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "16",
+          "24",
+          "2",
+          "EMILIANO ZAPATA (SANTA ELENA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2",
+          "JIMÉNEZ",
+          "6",
+          "529",
+          "288",
+          "241",
+          "29",
+          "LA BANDERA (NUEVA BANDERA)",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA MURALLA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4",
+          "LA POTASA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3",
+          "MADERO DEL RÍO",
+          "6",
+          "191",
+          "91",
+          "100",
+          "14",
+          "NUEVA JARITA",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "PALMIRA (VICTORIA)",
+          "4",
+          "120",
+          "61",
+          "59",
+          "9",
+          "PURÍSIMA",
+          "2",
+          "56",
+          "28",
+          "28",
+          "3",
+          "SAN CARLOS",
+          "6",
+          "879",
+          "458",
+          "421",
+          "50",
+          "SAN VICENTE",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2",
+          "SANTA MARÍA",
+          "2",
+          "164",
+          "82",
+          "82",
+          "8",
+          "VIEJA PALESTINA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "TOTAL",
+          "51",
+          "2,478",
+          "1,260",
+          "1,218",
+          "148",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CRISTALES",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "EL DIVISADERO",
+          "4",
+          "110",
+          "59",
+          "51",
+          "8"
+        ],
+        [
+          "EL ORÉGANO",
+          "3",
+          "159",
+          "74",
+          "85",
+          "6"
+        ],
+        [
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "16",
+          "24",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (SANTA ELENA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "JIMÉNEZ",
+          "6",
+          "529",
+          "288",
+          "241",
+          "29"
+        ],
+        [
+          "LA BANDERA (NUEVA BANDERA)",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA MURALLA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "LA POTASA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3"
+        ],
+        [
+          "MADERO DEL RÍO",
+          "6",
+          "191",
+          "91",
+          "100",
+          "14"
+        ],
+        [
+          "NUEVA JARITA",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "PALMIRA (VICTORIA)",
+          "4",
+          "120",
+          "61",
+          "59",
+          "9"
+        ],
+        [
+          "PURÍSIMA",
+          "2",
+          "56",
+          "28",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "6",
+          "879",
+          "458",
+          "421",
+          "50"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "164",
+          "82",
+          "82",
+          "8"
+        ],
+        [
+          "VIEJA PALESTINA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "51",
+          "2,478",
+          "1,260",
+          "1,218",
+          "148"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CRISTALES",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "EL DIVISADERO",
+          "4",
+          "110",
+          "59",
+          "51",
+          "8"
+        ],
+        [
+          "EL ORÉGANO",
+          "3",
+          "159",
+          "74",
+          "85",
+          "6"
+        ],
+        [
+          "EL TEPEYAC",
+          "2",
+          "40",
+          "16",
+          "24",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (SANTA ELENA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "JIMÉNEZ",
+          "6",
+          "529",
+          "288",
+          "241",
+          "29"
+        ],
+        [
+          "LA BANDERA (NUEVA BANDERA)",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA MURALLA",
+          "2",
+          "65",
+          "33",
+          "32",
+          "4"
+        ],
+        [
+          "LA POTASA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "3"
+        ],
+        [
+          "MADERO DEL RÍO",
+          "6",
+          "191",
+          "91",
+          "100",
+          "14"
+        ],
+        [
+          "NUEVA JARITA",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "PALMIRA (VICTORIA)",
+          "4",
+          "120",
+          "61",
+          "59",
+          "9"
+        ],
+        [
+          "PURÍSIMA",
+          "2",
+          "56",
+          "28",
+          "28",
+          "3"
+        ],
+        [
+          "SAN CARLOS",
+          "6",
+          "879",
+          "458",
+          "421",
+          "50"
+        ],
+        [
+          "SAN VICENTE",
+          "2",
+          "17",
+          "5",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA MARÍA",
+          "2",
+          "164",
+          "82",
+          "82",
+          "8"
+        ],
+        [
+          "VIEJA PALESTINA",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "51",
+          "2,478",
+          "1,260",
+          "1,218",
+          "148"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:03.612Z"
+}

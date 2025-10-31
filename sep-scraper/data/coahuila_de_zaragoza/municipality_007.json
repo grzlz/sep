@@ -1,0 +1,450 @@
+{
+  "municipality": "CUATRO CIÉNEGAS",
+  "municipalityCode": "007",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CUATRO CIÉNEGAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tANTIGUOS MINEROS DEL NORTE (SANTA TECLA)\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tCUATES DE ABAJO (CERROS PRIETOS)\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tCUATES DE AUSTRALIA\n\t\t3\n\t\t46\n\t\t25\n\t\t21\n\t\t5\n\t\n\t\n\t\tCUATRO CIÉNEGAS DE CARRANZA\n\t\t17\n\t\t2,818\n\t\t1,428\n\t\t1,390\n\t\t142\n\t\n\t\n\t\tEL DORMIDO\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t2\n\t\n\t\n\t\tEL OSO\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL VENADO\n\t\t3\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tESTANQUE DE LEÓN\n\t\t4\n\t\t93\n\t\t45\n\t\t48\n\t\t8\n\t\n\t\n\t\tESTANQUE DE NORIAS\n\t\t4\n\t\t57\n\t\t31\n\t\t26\n\t\t5\n\t\n\t\n\t\tESTANQUE DE PALOMAS (LAS PALOMAS)\n\t\t3\n\t\t32\n\t\t19\n\t\t13\n\t\t3\n\t\n\t\n\t\tGABINO VÁZQUEZ (EL NARANJO)\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA VEGA\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tLUCIO BLANCO (LA PELOTA)\n\t\t3\n\t\t31\n\t\t9\n\t\t22\n\t\t4\n\t\n\t\n\t\tSAN JUAN DE BOQUILLAS (SAN JUAN)\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tSANTA TERESA DE SOFÍA\n\t\t3\n\t\t84\n\t\t34\n\t\t50\n\t\t8\n\t\n\t\n\t\tTANQUE NUEVO (EL CINCO)\n\t\t4\n\t\t86\n\t\t44\n\t\t42\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t57\n\t\t3,374\n\t\t1,703\n\t\t1,671\n\t\t197\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CUATRO CIÉNEGAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ANTIGUOS MINEROS DEL NORTE (SANTA TECLA)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "CUATES DE ABAJO (CERROS PRIETOS)",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1",
+          "CUATES DE AUSTRALIA",
+          "3",
+          "46",
+          "25",
+          "21",
+          "5",
+          "CUATRO CIÉNEGAS DE CARRANZA",
+          "17",
+          "2,818",
+          "1,428",
+          "1,390",
+          "142",
+          "EL DORMIDO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2",
+          "EL OSO",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "EL VENADO",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3",
+          "ESTANQUE DE LEÓN",
+          "4",
+          "93",
+          "45",
+          "48",
+          "8",
+          "ESTANQUE DE NORIAS",
+          "4",
+          "57",
+          "31",
+          "26",
+          "5",
+          "ESTANQUE DE PALOMAS (LAS PALOMAS)",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3",
+          "GABINO VÁZQUEZ (EL NARANJO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "LA VEGA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "LUCIO BLANCO (LA PELOTA)",
+          "3",
+          "31",
+          "9",
+          "22",
+          "4",
+          "SAN JUAN DE BOQUILLAS (SAN JUAN)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "SANTA TERESA DE SOFÍA",
+          "3",
+          "84",
+          "34",
+          "50",
+          "8",
+          "TANQUE NUEVO (EL CINCO)",
+          "4",
+          "86",
+          "44",
+          "42",
+          "8",
+          "TOTAL",
+          "57",
+          "3,374",
+          "1,703",
+          "1,671",
+          "197",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CUATRO CIÉNEGAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTIGUOS MINEROS DEL NORTE (SANTA TECLA)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CUATES DE ABAJO (CERROS PRIETOS)",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "CUATES DE AUSTRALIA",
+          "3",
+          "46",
+          "25",
+          "21",
+          "5"
+        ],
+        [
+          "CUATRO CIÉNEGAS DE CARRANZA",
+          "17",
+          "2,818",
+          "1,428",
+          "1,390",
+          "142"
+        ],
+        [
+          "EL DORMIDO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "EL OSO",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL VENADO",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "ESTANQUE DE LEÓN",
+          "4",
+          "93",
+          "45",
+          "48",
+          "8"
+        ],
+        [
+          "ESTANQUE DE NORIAS",
+          "4",
+          "57",
+          "31",
+          "26",
+          "5"
+        ],
+        [
+          "ESTANQUE DE PALOMAS (LAS PALOMAS)",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "GABINO VÁZQUEZ (EL NARANJO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "LA VEGA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO (LA PELOTA)",
+          "3",
+          "31",
+          "9",
+          "22",
+          "4"
+        ],
+        [
+          "SAN JUAN DE BOQUILLAS (SAN JUAN)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA TERESA DE SOFÍA",
+          "3",
+          "84",
+          "34",
+          "50",
+          "8"
+        ],
+        [
+          "TANQUE NUEVO (EL CINCO)",
+          "4",
+          "86",
+          "44",
+          "42",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "3,374",
+          "1,703",
+          "1,671",
+          "197"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: CUATRO CIÉNEGAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ANTIGUOS MINEROS DEL NORTE (SANTA TECLA)",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "CUATES DE ABAJO (CERROS PRIETOS)",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "CUATES DE AUSTRALIA",
+          "3",
+          "46",
+          "25",
+          "21",
+          "5"
+        ],
+        [
+          "CUATRO CIÉNEGAS DE CARRANZA",
+          "17",
+          "2,818",
+          "1,428",
+          "1,390",
+          "142"
+        ],
+        [
+          "EL DORMIDO",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "EL OSO",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "EL VENADO",
+          "3",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "ESTANQUE DE LEÓN",
+          "4",
+          "93",
+          "45",
+          "48",
+          "8"
+        ],
+        [
+          "ESTANQUE DE NORIAS",
+          "4",
+          "57",
+          "31",
+          "26",
+          "5"
+        ],
+        [
+          "ESTANQUE DE PALOMAS (LAS PALOMAS)",
+          "3",
+          "32",
+          "19",
+          "13",
+          "3"
+        ],
+        [
+          "GABINO VÁZQUEZ (EL NARANJO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "LA VEGA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO (LA PELOTA)",
+          "3",
+          "31",
+          "9",
+          "22",
+          "4"
+        ],
+        [
+          "SAN JUAN DE BOQUILLAS (SAN JUAN)",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "SANTA TERESA DE SOFÍA",
+          "3",
+          "84",
+          "34",
+          "50",
+          "8"
+        ],
+        [
+          "TANQUE NUEVO (EL CINCO)",
+          "4",
+          "86",
+          "44",
+          "42",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "3,374",
+          "1,703",
+          "1,671",
+          "197"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:36.269Z"
+}

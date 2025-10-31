@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync } from 'fs';
+import { readdirSync, readFileSync, writeFileSync, statSync } from 'fs';
 import { join } from 'path';
 
 const DATA_DIR = './data';
@@ -82,70 +82,93 @@ function jsonToCSV() {
 
   const csvRows = [header.join(',')];
   let totalRows = 0;
+  let totalMunicipalities = 0;
 
-  // Read all JSON files (or just test with one)
-  // const files = readdirSync(DATA_DIR).filter(f => f.endsWith('.json'));
-  const files = ['baja_california_sur.json']; // TEST: Just one file
-  console.log(`Processing ${files.length} JSON file(s)\n`);
+  // Read all state directories
+  const stateDirs = readdirSync(DATA_DIR).filter(name => {
+    const fullPath = join(DATA_DIR, name);
+    return statSync(fullPath).isDirectory();
+  });
 
-  for (const file of files) {
-    console.log(`Processing: ${file}`);
-    const filePath = join(DATA_DIR, file);
-    const content = readFileSync(filePath, 'utf8');
-    const data = JSON.parse(content);
+  console.log(`Processing ${stateDirs.length} state(s)\n`);
 
-    const state = data.state;
-    const stateCode = data.stateCode;
+  for (const stateDir of stateDirs) {
+    console.log(`Processing: ${stateDir}`);
+    const statePath = join(DATA_DIR, stateDir);
 
-    // Process each municipality
-    if (data.allMunicipalities) {
-      for (const muni of data.allMunicipalities) {
-        const municipality = muni.municipality;
-        const municipalityCode = muni.municipalityCode;
+    // Read meta.json to get state info
+    const metaPath = join(statePath, 'meta.json');
+    let state = stateDir;
+    let stateCode = '';
 
-        // Find the table with locality data (usually index 1)
-        let localityTable = null;
-        for (const table of muni.tables) {
-          // Check if this table has locality data
-          const tableStr = JSON.stringify(table.data).substring(0, 500);
-          if (tableStr.includes('Localidad') || tableStr.includes('LOCALIDAD')) {
-            localityTable = table;
-            break;
-          }
-        }
-
-        if (localityTable) {
-          const rows = parseTableData(localityTable.data);
-
-          for (const row of rows) {
-            const csvRow = [
-              escapeCSV(state),
-              escapeCSV(stateCode),
-              escapeCSV(municipality),
-              escapeCSV(municipalityCode),
-              escapeCSV(row.locality),
-              escapeCSV(row.schools),
-              escapeCSV(row.students),
-              escapeCSV(row.studentsFemale),
-              escapeCSV(row.studentsMale),
-              escapeCSV(row.teachers)
-            ];
-
-            csvRows.push(csvRow.join(','));
-            totalRows++;
-          }
-        }
-      }
+    try {
+      const meta = JSON.parse(readFileSync(metaPath, 'utf8'));
+      state = meta.state;
+      stateCode = meta.stateCode;
+    } catch (err) {
+      console.log(`  ⚠️  Could not read meta.json, using directory name`);
     }
 
-    console.log(`  ✓ Processed ${data.allMunicipalities?.length || 0} municipalities`);
+    // Read all municipality files
+    const municipalityFiles = readdirSync(statePath)
+      .filter(f => f.startsWith('municipality_') && f.endsWith('.json'))
+      .sort();
+
+    let muniCount = 0;
+
+    for (const muniFile of municipalityFiles) {
+      const muniPath = join(statePath, muniFile);
+      const muni = JSON.parse(readFileSync(muniPath, 'utf8'));
+
+      const municipality = muni.municipality;
+      const municipalityCode = muni.municipalityCode;
+
+      // Find the table with locality data (usually index 1)
+      let localityTable = null;
+      for (const table of muni.tables || []) {
+        // Check if this table has locality data
+        const tableStr = JSON.stringify(table.data).substring(0, 500);
+        if (tableStr.includes('Localidad') || tableStr.includes('LOCALIDAD')) {
+          localityTable = table;
+          break;
+        }
+      }
+
+      if (localityTable) {
+        const rows = parseTableData(localityTable.data);
+
+        for (const row of rows) {
+          const csvRow = [
+            escapeCSV(state),
+            escapeCSV(stateCode),
+            escapeCSV(municipality),
+            escapeCSV(municipalityCode),
+            escapeCSV(row.locality),
+            escapeCSV(row.schools),
+            escapeCSV(row.students),
+            escapeCSV(row.studentsFemale),
+            escapeCSV(row.studentsMale),
+            escapeCSV(row.teachers)
+          ];
+
+          csvRows.push(csvRow.join(','));
+          totalRows++;
+        }
+      }
+
+      muniCount++;
+    }
+
+    totalMunicipalities += muniCount;
+    console.log(`  ✓ Processed ${muniCount} municipalities`);
   }
 
   // Write to file
   writeFileSync(OUTPUT_FILE, csvRows.join('\n'), 'utf8');
 
   console.log(`\n✅ CSV created: ${OUTPUT_FILE}`);
-  console.log(`📊 Total rows: ${totalRows} (+ 1 header)`);
+  console.log(`📊 Total municipalities: ${totalMunicipalities}`);
+  console.log(`📊 Total data rows: ${totalRows} (+ 1 header)`);
 }
 
 jsonToCSV();

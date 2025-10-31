@@ -1,0 +1,1242 @@
+{
+  "municipality": "HUIXTLA",
+  "municipalityCode": "040",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALTAMIRA (LA PROVIDENCIA)\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t3\n\t\n\t\n\t\tAQUILES SERDÁN\n\t\t4\n\t\t602\n\t\t266\n\t\t336\n\t\t55\n\t\n\t\n\t\tAZTLÁN\n\t\t4\n\t\t176\n\t\t86\n\t\t90\n\t\t11\n\t\n\t\n\t\tBELLAVISTA\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tBRASIL\n\t\t3\n\t\t86\n\t\t43\n\t\t43\n\t\t5\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t29\n\t\t20\n\t\t9\n\t\t4\n\t\n\t\n\t\tCANTÓN CAHULOTAL\n\t\t2\n\t\t39\n\t\t15\n\t\t24\n\t\t3\n\t\n\t\n\t\tCANTÓN CINCO DE MARZO\n\t\t2\n\t\t43\n\t\t14\n\t\t29\n\t\t3\n\t\n\t\n\t\tCANTÓN EL CEDRAL\n\t\t2\n\t\t74\n\t\t43\n\t\t31\n\t\t4\n\t\n\t\n\t\tCANTÓN EL TARRAL\n\t\t3\n\t\t80\n\t\t38\n\t\t42\n\t\t5\n\t\n\t\n\t\tCANTÓN LA ESPERANZA\n\t\t2\n\t\t43\n\t\t18\n\t\t25\n\t\t2\n\t\n\t\n\t\tCANTÓN LAS DELICIAS\n\t\t4\n\t\t785\n\t\t399\n\t\t386\n\t\t35\n\t\n\t\n\t\tCANTÓN LAS MORENAS\n\t\t2\n\t\t63\n\t\t28\n\t\t35\n\t\t4\n\t\n\t\n\t\tCANTÓN PANAMÁ\n\t\t1\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tCANTÓN PLAYA GRANDE\n\t\t3\n\t\t305\n\t\t135\n\t\t170\n\t\t14\n\t\n\t\n\t\tCANTÓN RANCHO NUEVO\n\t\t2\n\t\t211\n\t\t105\n\t\t106\n\t\t8\n\t\n\t\n\t\tCANTÓN SAN FERNANDO\n\t\t1\n\t\t19\n\t\t8\n\t\t11\n\t\t1\n\t\n\t\n\t\tCANTÓN SAN JORGE\n\t\t1\n\t\t16\n\t\t11\n\t\t5\n\t\t1\n\t\n\t\n\t\tCOLONIA OBRERA\n\t\t1\n\t\t36\n\t\t18\n\t\t18\n\t\t3\n\t\n\t\n\t\tEFRAÍN A. GUTIÉRREZ\n\t\t3\n\t\t284\n\t\t141\n\t\t143\n\t\t12\n\t\n\t\n\t\tEL ARENAL\n\t\t2\n\t\t207\n\t\t95\n\t\t112\n\t\t9\n\t\n\t\n\t\tEL CONSUELO\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL PROGRESO\n\t\t2\n\t\t153\n\t\t72\n\t\t81\n\t\t8\n\t\n\t\n\t\tESTRELLA ROJA\n\t\t2\n\t\t72\n\t\t41\n\t\t31\n\t\t5\n\t\n\t\n\t\tFLOR DE MAYO\n\t\t2\n\t\t26\n\t\t16\n\t\t10\n\t\t2\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t4\n\t\t816\n\t\t387\n\t\t429\n\t\t38\n\t\n\t\n\t\tHUIXTLA\n\t\t44\n\t\t9,268\n\t\t4,600\n\t\t4,668\n\t\t503\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS Y PAVÓN\n\t\t4\n\t\t179\n\t\t100\n\t\t79\n\t\t10\n\t\n\t\n\t\tLA CEIBA\n\t\t3\n\t\t46\n\t\t19\n\t\t27\n\t\t4\n\t\n\t\n\t\tLA ESPERANCITA\n\t\t1\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA LUCHA\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA PIEDRA\n\t\t3\n\t\t39\n\t\t23\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA UNIÓN\n\t\t3\n\t\t268\n\t\t118\n\t\t150\n\t\t9\n\t\n\t\n\t\tLAS BRISAS DEL HUAYATE\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t2\n\t\n\t\n\t\tLAS MERCEDES\n\t\t1\n\t\t31\n\t\t11\n\t\t20\n\t\t2\n\t\n\t\n\t\tLIBERTAD PIEDRA CANOA\n\t\t3\n\t\t76\n\t\t42\n\t\t34\n\t\t5\n\t\n\t\n\t\tLOMA BONITA\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOS ALPES\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tMEXIQUITO MORELOS\n\t\t3\n\t\t46\n\t\t20\n\t\t26\n\t\t5\n\t\n\t\n\t\tMONTECRISTO\n\t\t3\n\t\t101\n\t\t50\n\t\t51\n\t\t6\n\t\n\t\n\t\tMONTECRISTO PLAYA GRANDE\n\t\t3\n\t\t71\n\t\t34\n\t\t37\n\t\t6\n\t\n\t\n\t\tNUEVA AMÉRICA\n\t\t3\n\t\t100\n\t\t51\n\t\t49\n\t\t7\n\t\n\t\n\t\tNUEVA EUROPA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tNUEVO TESORO\n\t\t3\n\t\t53\n\t\t29\n\t\t24\n\t\t4\n\t\n\t\n\t\tPRIMERO DE DICIEMBRE\n\t\t2\n\t\t25\n\t\t13\n\t\t12\n\t\t2\n\t\n\t\n\t\tQUINCE DE ENERO\n\t\t3\n\t\t102\n\t\t59\n\t\t43\n\t\t7\n\t\n\t\n\t\tREFORMA\n\t\t1\n\t\t17\n\t\t11\n\t\t6\n\t\t2\n\t\n\t\n\t\tSANTA RITA CORONADO\n\t\t3\n\t\t127\n\t\t60\n\t\t67\n\t\t7\n\t\n\t\n\t\tSEÑOR ESQUIPULAS\n\t\t2\n\t\t81\n\t\t45\n\t\t36\n\t\t4\n\t\n\t\n\t\tTZINACAL (BUENOS AIRES)\n\t\t2\n\t\t101\n\t\t58\n\t\t43\n\t\t6\n\t\n\t\n\t\tUNIÓN CAMPESINA (EL ENCANTO)\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tVILLAFLORES\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t157\n\t\t15,098\n\t\t7,443\n\t\t7,655\n\t\t841\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALTAMIRA (LA PROVIDENCIA)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3",
+          "AQUILES SERDÁN",
+          "4",
+          "602",
+          "266",
+          "336",
+          "55",
+          "AZTLÁN",
+          "4",
+          "176",
+          "86",
+          "90",
+          "11",
+          "BELLAVISTA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "BRASIL",
+          "3",
+          "86",
+          "43",
+          "43",
+          "5",
+          "BUENAVISTA",
+          "3",
+          "29",
+          "20",
+          "9",
+          "4",
+          "CANTÓN CAHULOTAL",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3",
+          "CANTÓN CINCO DE MARZO",
+          "2",
+          "43",
+          "14",
+          "29",
+          "3",
+          "CANTÓN EL CEDRAL",
+          "2",
+          "74",
+          "43",
+          "31",
+          "4",
+          "CANTÓN EL TARRAL",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5",
+          "CANTÓN LA ESPERANZA",
+          "2",
+          "43",
+          "18",
+          "25",
+          "2",
+          "CANTÓN LAS DELICIAS",
+          "4",
+          "785",
+          "399",
+          "386",
+          "35",
+          "CANTÓN LAS MORENAS",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4",
+          "CANTÓN PANAMÁ",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2",
+          "CANTÓN PLAYA GRANDE",
+          "3",
+          "305",
+          "135",
+          "170",
+          "14",
+          "CANTÓN RANCHO NUEVO",
+          "2",
+          "211",
+          "105",
+          "106",
+          "8",
+          "CANTÓN SAN FERNANDO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1",
+          "CANTÓN SAN JORGE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1",
+          "COLONIA OBRERA",
+          "1",
+          "36",
+          "18",
+          "18",
+          "3",
+          "EFRAÍN A. GUTIÉRREZ",
+          "3",
+          "284",
+          "141",
+          "143",
+          "12",
+          "EL ARENAL",
+          "2",
+          "207",
+          "95",
+          "112",
+          "9",
+          "EL CONSUELO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "EL PROGRESO",
+          "2",
+          "153",
+          "72",
+          "81",
+          "8",
+          "ESTRELLA ROJA",
+          "2",
+          "72",
+          "41",
+          "31",
+          "5",
+          "FLOR DE MAYO",
+          "2",
+          "26",
+          "16",
+          "10",
+          "2",
+          "FRANCISCO I. MADERO",
+          "4",
+          "816",
+          "387",
+          "429",
+          "38",
+          "HUIXTLA",
+          "44",
+          "9,268",
+          "4,600",
+          "4,668",
+          "503",
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "179",
+          "100",
+          "79",
+          "10",
+          "LA CEIBA",
+          "3",
+          "46",
+          "19",
+          "27",
+          "4",
+          "LA ESPERANCITA",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1",
+          "LA LUCHA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "LA PIEDRA",
+          "3",
+          "39",
+          "23",
+          "16",
+          "3",
+          "LA UNIÓN",
+          "3",
+          "268",
+          "118",
+          "150",
+          "9",
+          "LAS BRISAS DEL HUAYATE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2",
+          "LAS MERCEDES",
+          "1",
+          "31",
+          "11",
+          "20",
+          "2",
+          "LIBERTAD PIEDRA CANOA",
+          "3",
+          "76",
+          "42",
+          "34",
+          "5",
+          "LOMA BONITA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "LOS ALPES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "MEXIQUITO MORELOS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "5",
+          "MONTECRISTO",
+          "3",
+          "101",
+          "50",
+          "51",
+          "6",
+          "MONTECRISTO PLAYA GRANDE",
+          "3",
+          "71",
+          "34",
+          "37",
+          "6",
+          "NUEVA AMÉRICA",
+          "3",
+          "100",
+          "51",
+          "49",
+          "7",
+          "NUEVA EUROPA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "NUEVO TESORO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4",
+          "PRIMERO DE DICIEMBRE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2",
+          "QUINCE DE ENERO",
+          "3",
+          "102",
+          "59",
+          "43",
+          "7",
+          "REFORMA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2",
+          "SANTA RITA CORONADO",
+          "3",
+          "127",
+          "60",
+          "67",
+          "7",
+          "SEÑOR ESQUIPULAS",
+          "2",
+          "81",
+          "45",
+          "36",
+          "4",
+          "TZINACAL (BUENOS AIRES)",
+          "2",
+          "101",
+          "58",
+          "43",
+          "6",
+          "UNIÓN CAMPESINA (EL ENCANTO)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2",
+          "VILLAFLORES",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1",
+          "TOTAL",
+          "157",
+          "15,098",
+          "7,443",
+          "7,655",
+          "841",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAMIRA (LA PROVIDENCIA)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "4",
+          "602",
+          "266",
+          "336",
+          "55"
+        ],
+        [
+          "AZTLÁN",
+          "4",
+          "176",
+          "86",
+          "90",
+          "11"
+        ],
+        [
+          "BELLAVISTA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "BRASIL",
+          "3",
+          "86",
+          "43",
+          "43",
+          "5"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "29",
+          "20",
+          "9",
+          "4"
+        ],
+        [
+          "CANTÓN CAHULOTAL",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "CANTÓN CINCO DE MARZO",
+          "2",
+          "43",
+          "14",
+          "29",
+          "3"
+        ],
+        [
+          "CANTÓN EL CEDRAL",
+          "2",
+          "74",
+          "43",
+          "31",
+          "4"
+        ],
+        [
+          "CANTÓN EL TARRAL",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5"
+        ],
+        [
+          "CANTÓN LA ESPERANZA",
+          "2",
+          "43",
+          "18",
+          "25",
+          "2"
+        ],
+        [
+          "CANTÓN LAS DELICIAS",
+          "4",
+          "785",
+          "399",
+          "386",
+          "35"
+        ],
+        [
+          "CANTÓN LAS MORENAS",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4"
+        ],
+        [
+          "CANTÓN PANAMÁ",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CANTÓN PLAYA GRANDE",
+          "3",
+          "305",
+          "135",
+          "170",
+          "14"
+        ],
+        [
+          "CANTÓN RANCHO NUEVO",
+          "2",
+          "211",
+          "105",
+          "106",
+          "8"
+        ],
+        [
+          "CANTÓN SAN FERNANDO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "CANTÓN SAN JORGE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "COLONIA OBRERA",
+          "1",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "EFRAÍN A. GUTIÉRREZ",
+          "3",
+          "284",
+          "141",
+          "143",
+          "12"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "207",
+          "95",
+          "112",
+          "9"
+        ],
+        [
+          "EL CONSUELO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO",
+          "2",
+          "153",
+          "72",
+          "81",
+          "8"
+        ],
+        [
+          "ESTRELLA ROJA",
+          "2",
+          "72",
+          "41",
+          "31",
+          "5"
+        ],
+        [
+          "FLOR DE MAYO",
+          "2",
+          "26",
+          "16",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "4",
+          "816",
+          "387",
+          "429",
+          "38"
+        ],
+        [
+          "HUIXTLA",
+          "44",
+          "9,268",
+          "4,600",
+          "4,668",
+          "503"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "179",
+          "100",
+          "79",
+          "10"
+        ],
+        [
+          "LA CEIBA",
+          "3",
+          "46",
+          "19",
+          "27",
+          "4"
+        ],
+        [
+          "LA ESPERANCITA",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "LA LUCHA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "LA PIEDRA",
+          "3",
+          "39",
+          "23",
+          "16",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "268",
+          "118",
+          "150",
+          "9"
+        ],
+        [
+          "LAS BRISAS DEL HUAYATE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "LAS MERCEDES",
+          "1",
+          "31",
+          "11",
+          "20",
+          "2"
+        ],
+        [
+          "LIBERTAD PIEDRA CANOA",
+          "3",
+          "76",
+          "42",
+          "34",
+          "5"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ALPES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "MEXIQUITO MORELOS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "5"
+        ],
+        [
+          "MONTECRISTO",
+          "3",
+          "101",
+          "50",
+          "51",
+          "6"
+        ],
+        [
+          "MONTECRISTO PLAYA GRANDE",
+          "3",
+          "71",
+          "34",
+          "37",
+          "6"
+        ],
+        [
+          "NUEVA AMÉRICA",
+          "3",
+          "100",
+          "51",
+          "49",
+          "7"
+        ],
+        [
+          "NUEVA EUROPA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO TESORO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "PRIMERO DE DICIEMBRE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "QUINCE DE ENERO",
+          "3",
+          "102",
+          "59",
+          "43",
+          "7"
+        ],
+        [
+          "REFORMA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA RITA CORONADO",
+          "3",
+          "127",
+          "60",
+          "67",
+          "7"
+        ],
+        [
+          "SEÑOR ESQUIPULAS",
+          "2",
+          "81",
+          "45",
+          "36",
+          "4"
+        ],
+        [
+          "TZINACAL (BUENOS AIRES)",
+          "2",
+          "101",
+          "58",
+          "43",
+          "6"
+        ],
+        [
+          "UNIÓN CAMPESINA (EL ENCANTO)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "VILLAFLORES",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "157",
+          "15,098",
+          "7,443",
+          "7,655",
+          "841"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: HUIXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALTAMIRA (LA PROVIDENCIA)",
+          "2",
+          "51",
+          "26",
+          "25",
+          "3"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "4",
+          "602",
+          "266",
+          "336",
+          "55"
+        ],
+        [
+          "AZTLÁN",
+          "4",
+          "176",
+          "86",
+          "90",
+          "11"
+        ],
+        [
+          "BELLAVISTA",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "BRASIL",
+          "3",
+          "86",
+          "43",
+          "43",
+          "5"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "29",
+          "20",
+          "9",
+          "4"
+        ],
+        [
+          "CANTÓN CAHULOTAL",
+          "2",
+          "39",
+          "15",
+          "24",
+          "3"
+        ],
+        [
+          "CANTÓN CINCO DE MARZO",
+          "2",
+          "43",
+          "14",
+          "29",
+          "3"
+        ],
+        [
+          "CANTÓN EL CEDRAL",
+          "2",
+          "74",
+          "43",
+          "31",
+          "4"
+        ],
+        [
+          "CANTÓN EL TARRAL",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5"
+        ],
+        [
+          "CANTÓN LA ESPERANZA",
+          "2",
+          "43",
+          "18",
+          "25",
+          "2"
+        ],
+        [
+          "CANTÓN LAS DELICIAS",
+          "4",
+          "785",
+          "399",
+          "386",
+          "35"
+        ],
+        [
+          "CANTÓN LAS MORENAS",
+          "2",
+          "63",
+          "28",
+          "35",
+          "4"
+        ],
+        [
+          "CANTÓN PANAMÁ",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CANTÓN PLAYA GRANDE",
+          "3",
+          "305",
+          "135",
+          "170",
+          "14"
+        ],
+        [
+          "CANTÓN RANCHO NUEVO",
+          "2",
+          "211",
+          "105",
+          "106",
+          "8"
+        ],
+        [
+          "CANTÓN SAN FERNANDO",
+          "1",
+          "19",
+          "8",
+          "11",
+          "1"
+        ],
+        [
+          "CANTÓN SAN JORGE",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "COLONIA OBRERA",
+          "1",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "EFRAÍN A. GUTIÉRREZ",
+          "3",
+          "284",
+          "141",
+          "143",
+          "12"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "207",
+          "95",
+          "112",
+          "9"
+        ],
+        [
+          "EL CONSUELO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL PROGRESO",
+          "2",
+          "153",
+          "72",
+          "81",
+          "8"
+        ],
+        [
+          "ESTRELLA ROJA",
+          "2",
+          "72",
+          "41",
+          "31",
+          "5"
+        ],
+        [
+          "FLOR DE MAYO",
+          "2",
+          "26",
+          "16",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "4",
+          "816",
+          "387",
+          "429",
+          "38"
+        ],
+        [
+          "HUIXTLA",
+          "44",
+          "9,268",
+          "4,600",
+          "4,668",
+          "503"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS Y PAVÓN",
+          "4",
+          "179",
+          "100",
+          "79",
+          "10"
+        ],
+        [
+          "LA CEIBA",
+          "3",
+          "46",
+          "19",
+          "27",
+          "4"
+        ],
+        [
+          "LA ESPERANCITA",
+          "1",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "LA LUCHA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "LA PIEDRA",
+          "3",
+          "39",
+          "23",
+          "16",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "3",
+          "268",
+          "118",
+          "150",
+          "9"
+        ],
+        [
+          "LAS BRISAS DEL HUAYATE",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "LAS MERCEDES",
+          "1",
+          "31",
+          "11",
+          "20",
+          "2"
+        ],
+        [
+          "LIBERTAD PIEDRA CANOA",
+          "3",
+          "76",
+          "42",
+          "34",
+          "5"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "LOS ALPES",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "MEXIQUITO MORELOS",
+          "3",
+          "46",
+          "20",
+          "26",
+          "5"
+        ],
+        [
+          "MONTECRISTO",
+          "3",
+          "101",
+          "50",
+          "51",
+          "6"
+        ],
+        [
+          "MONTECRISTO PLAYA GRANDE",
+          "3",
+          "71",
+          "34",
+          "37",
+          "6"
+        ],
+        [
+          "NUEVA AMÉRICA",
+          "3",
+          "100",
+          "51",
+          "49",
+          "7"
+        ],
+        [
+          "NUEVA EUROPA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "NUEVO TESORO",
+          "3",
+          "53",
+          "29",
+          "24",
+          "4"
+        ],
+        [
+          "PRIMERO DE DICIEMBRE",
+          "2",
+          "25",
+          "13",
+          "12",
+          "2"
+        ],
+        [
+          "QUINCE DE ENERO",
+          "3",
+          "102",
+          "59",
+          "43",
+          "7"
+        ],
+        [
+          "REFORMA",
+          "1",
+          "17",
+          "11",
+          "6",
+          "2"
+        ],
+        [
+          "SANTA RITA CORONADO",
+          "3",
+          "127",
+          "60",
+          "67",
+          "7"
+        ],
+        [
+          "SEÑOR ESQUIPULAS",
+          "2",
+          "81",
+          "45",
+          "36",
+          "4"
+        ],
+        [
+          "TZINACAL (BUENOS AIRES)",
+          "2",
+          "101",
+          "58",
+          "43",
+          "6"
+        ],
+        [
+          "UNIÓN CAMPESINA (EL ENCANTO)",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "VILLAFLORES",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "157",
+          "15,098",
+          "7,443",
+          "7,655",
+          "841"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:06:49.500Z"
+}

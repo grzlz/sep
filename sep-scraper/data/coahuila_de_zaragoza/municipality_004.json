@@ -1,0 +1,846 @@
+{
+  "municipality": "ARTEAGA",
+  "municipalityCode": "004",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: ARTEAGA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARTEAGA\n\t\t29\n\t\t7,464\n\t\t3,291\n\t\t4,173\n\t\t792\n\t\n\t\n\t\tARTESILLAS\n\t\t4\n\t\t136\n\t\t61\n\t\t75\n\t\t10\n\t\n\t\n\t\tCHAPULTEPEC (CHAPUL)\n\t\t2\n\t\t44\n\t\t22\n\t\t22\n\t\t3\n\t\n\t\n\t\tEL ARBOLITO\n\t\t1\n\t\t11\n\t\t9\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CEDRITO\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL DIAMANTE\n\t\t2\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL DIECIOCHO DE MARZO (EL DIECIOCHO)\n\t\t2\n\t\t56\n\t\t24\n\t\t32\n\t\t3\n\t\n\t\n\t\tEL PINAR\n\t\t1\n\t\t6\n\t\t6\n\t\t0\n\t\t8\n\t\n\t\n\t\tEL POLEO\n\t\t2\n\t\t58\n\t\t30\n\t\t28\n\t\t3\n\t\n\t\n\t\tEL PORVENIR\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL TUNAL\n\t\t4\n\t\t313\n\t\t168\n\t\t145\n\t\t28\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t2\n\t\t69\n\t\t33\n\t\t36\n\t\t4\n\t\n\t\n\t\tESCOBEDO\n\t\t2\n\t\t136\n\t\t76\n\t\t60\n\t\t5\n\t\n\t\n\t\tHUACHICHIL (EL HUACHE)\n\t\t5\n\t\t719\n\t\t349\n\t\t370\n\t\t38\n\t\n\t\n\t\tJAME\n\t\t2\n\t\t54\n\t\t34\n\t\t20\n\t\t3\n\t\n\t\n\t\tLA BIZNAGA\n\t\t4\n\t\t199\n\t\t97\n\t\t102\n\t\t10\n\t\n\t\n\t\tLA CIRUELA\n\t\t1\n\t\t69\n\t\t30\n\t\t39\n\t\t3\n\t\n\t\n\t\tLA EFIGENIA\n\t\t2\n\t\t37\n\t\t19\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA PRESA\n\t\t2\n\t\t57\n\t\t26\n\t\t31\n\t\t3\n\t\n\t\n\t\tLA ROSITA\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tLOS LIRIOS\n\t\t2\n\t\t124\n\t\t57\n\t\t67\n\t\t7\n\t\n\t\n\t\tLOS LLANOS\n\t\t2\n\t\t48\n\t\t23\n\t\t25\n\t\t3\n\t\n\t\n\t\tLOS QUELITES\n\t\t4\n\t\t53\n\t\t32\n\t\t21\n\t\t5\n\t\n\t\n\t\tMESA DE LAS TABLAS\n\t\t4\n\t\t70\n\t\t42\n\t\t28\n\t\t4\n\t\n\t\n\t\tNUNCIO\n\t\t2\n\t\t19\n\t\t11\n\t\t8\n\t\t2\n\t\n\t\n\t\tPIEDRA BLANCA (EL RANCHITO)\n\t\t3\n\t\t80\n\t\t38\n\t\t42\n\t\t5\n\t\n\t\n\t\tPOTRERO DE ÁBREGO\n\t\t3\n\t\t47\n\t\t20\n\t\t27\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO DE LAS ALAZANAS\n\t\t6\n\t\t930\n\t\t494\n\t\t436\n\t\t40\n\t\n\t\n\t\tSAN JOSÉ DEL VERGEL\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSAN JUAN DE LOS DOLORES\n\t\t2\n\t\t50\n\t\t21\n\t\t29\n\t\t3\n\t\n\t\n\t\tSAN JUANITO (SAN JUANITO DE LOS VALDEZ)\n\t\t2\n\t\t44\n\t\t16\n\t\t28\n\t\t3\n\t\n\t\n\t\tSANTA RITA\n\t\t2\n\t\t43\n\t\t15\n\t\t28\n\t\t3\n\t\n\t\n\t\tSIERRA HERMOSA\n\t\t4\n\t\t92\n\t\t52\n\t\t40\n\t\t7\n\t\n\t\n\t\tTIERRAS PRIETAS\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t111\n\t\t11,122\n\t\t5,138\n\t\t5,984\n\t\t1,012\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: ARTEAGA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARTEAGA",
+          "29",
+          "7,464",
+          "3,291",
+          "4,173",
+          "792",
+          "ARTESILLAS",
+          "4",
+          "136",
+          "61",
+          "75",
+          "10",
+          "CHAPULTEPEC (CHAPUL)",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3",
+          "EL ARBOLITO",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1",
+          "EL CEDRITO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2",
+          "EL DIAMANTE",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2",
+          "EL DIECIOCHO DE MARZO (EL DIECIOCHO)",
+          "2",
+          "56",
+          "24",
+          "32",
+          "3",
+          "EL PINAR",
+          "1",
+          "6",
+          "6",
+          "0",
+          "8",
+          "EL POLEO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3",
+          "EL PORVENIR",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "EL TUNAL",
+          "4",
+          "313",
+          "168",
+          "145",
+          "28",
+          "EMILIANO ZAPATA",
+          "2",
+          "69",
+          "33",
+          "36",
+          "4",
+          "ESCOBEDO",
+          "2",
+          "136",
+          "76",
+          "60",
+          "5",
+          "HUACHICHIL (EL HUACHE)",
+          "5",
+          "719",
+          "349",
+          "370",
+          "38",
+          "JAME",
+          "2",
+          "54",
+          "34",
+          "20",
+          "3",
+          "LA BIZNAGA",
+          "4",
+          "199",
+          "97",
+          "102",
+          "10",
+          "LA CIRUELA",
+          "1",
+          "69",
+          "30",
+          "39",
+          "3",
+          "LA EFIGENIA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2",
+          "LA PRESA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3",
+          "LA ROSITA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "LOS LIRIOS",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7",
+          "LOS LLANOS",
+          "2",
+          "48",
+          "23",
+          "25",
+          "3",
+          "LOS QUELITES",
+          "4",
+          "53",
+          "32",
+          "21",
+          "5",
+          "MESA DE LAS TABLAS",
+          "4",
+          "70",
+          "42",
+          "28",
+          "4",
+          "NUNCIO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2",
+          "PIEDRA BLANCA (EL RANCHITO)",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5",
+          "POTRERO DE ÁBREGO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4",
+          "SAN ANTONIO DE LAS ALAZANAS",
+          "6",
+          "930",
+          "494",
+          "436",
+          "40",
+          "SAN JOSÉ DEL VERGEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SAN JUAN DE LOS DOLORES",
+          "2",
+          "50",
+          "21",
+          "29",
+          "3",
+          "SAN JUANITO (SAN JUANITO DE LOS VALDEZ)",
+          "2",
+          "44",
+          "16",
+          "28",
+          "3",
+          "SANTA RITA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3",
+          "SIERRA HERMOSA",
+          "4",
+          "92",
+          "52",
+          "40",
+          "7",
+          "TIERRAS PRIETAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "TOTAL",
+          "111",
+          "11,122",
+          "5,138",
+          "5,984",
+          "1,012",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: ARTEAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARTEAGA",
+          "29",
+          "7,464",
+          "3,291",
+          "4,173",
+          "792"
+        ],
+        [
+          "ARTESILLAS",
+          "4",
+          "136",
+          "61",
+          "75",
+          "10"
+        ],
+        [
+          "CHAPULTEPEC (CHAPUL)",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "EL ARBOLITO",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "EL CEDRITO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "EL DIAMANTE",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "EL DIECIOCHO DE MARZO (EL DIECIOCHO)",
+          "2",
+          "56",
+          "24",
+          "32",
+          "3"
+        ],
+        [
+          "EL PINAR",
+          "1",
+          "6",
+          "6",
+          "0",
+          "8"
+        ],
+        [
+          "EL POLEO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "EL TUNAL",
+          "4",
+          "313",
+          "168",
+          "145",
+          "28"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "69",
+          "33",
+          "36",
+          "4"
+        ],
+        [
+          "ESCOBEDO",
+          "2",
+          "136",
+          "76",
+          "60",
+          "5"
+        ],
+        [
+          "HUACHICHIL (EL HUACHE)",
+          "5",
+          "719",
+          "349",
+          "370",
+          "38"
+        ],
+        [
+          "JAME",
+          "2",
+          "54",
+          "34",
+          "20",
+          "3"
+        ],
+        [
+          "LA BIZNAGA",
+          "4",
+          "199",
+          "97",
+          "102",
+          "10"
+        ],
+        [
+          "LA CIRUELA",
+          "1",
+          "69",
+          "30",
+          "39",
+          "3"
+        ],
+        [
+          "LA EFIGENIA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2"
+        ],
+        [
+          "LA PRESA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "LA ROSITA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LOS LIRIOS",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7"
+        ],
+        [
+          "LOS LLANOS",
+          "2",
+          "48",
+          "23",
+          "25",
+          "3"
+        ],
+        [
+          "LOS QUELITES",
+          "4",
+          "53",
+          "32",
+          "21",
+          "5"
+        ],
+        [
+          "MESA DE LAS TABLAS",
+          "4",
+          "70",
+          "42",
+          "28",
+          "4"
+        ],
+        [
+          "NUNCIO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "PIEDRA BLANCA (EL RANCHITO)",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5"
+        ],
+        [
+          "POTRERO DE ÁBREGO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LAS ALAZANAS",
+          "6",
+          "930",
+          "494",
+          "436",
+          "40"
+        ],
+        [
+          "SAN JOSÉ DEL VERGEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN JUAN DE LOS DOLORES",
+          "2",
+          "50",
+          "21",
+          "29",
+          "3"
+        ],
+        [
+          "SAN JUANITO (SAN JUANITO DE LOS VALDEZ)",
+          "2",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3"
+        ],
+        [
+          "SIERRA HERMOSA",
+          "4",
+          "92",
+          "52",
+          "40",
+          "7"
+        ],
+        [
+          "TIERRAS PRIETAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "111",
+          "11,122",
+          "5,138",
+          "5,984",
+          "1,012"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: ARTEAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARTEAGA",
+          "29",
+          "7,464",
+          "3,291",
+          "4,173",
+          "792"
+        ],
+        [
+          "ARTESILLAS",
+          "4",
+          "136",
+          "61",
+          "75",
+          "10"
+        ],
+        [
+          "CHAPULTEPEC (CHAPUL)",
+          "2",
+          "44",
+          "22",
+          "22",
+          "3"
+        ],
+        [
+          "EL ARBOLITO",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "EL CEDRITO",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "EL DIAMANTE",
+          "2",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "EL DIECIOCHO DE MARZO (EL DIECIOCHO)",
+          "2",
+          "56",
+          "24",
+          "32",
+          "3"
+        ],
+        [
+          "EL PINAR",
+          "1",
+          "6",
+          "6",
+          "0",
+          "8"
+        ],
+        [
+          "EL POLEO",
+          "2",
+          "58",
+          "30",
+          "28",
+          "3"
+        ],
+        [
+          "EL PORVENIR",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "EL TUNAL",
+          "4",
+          "313",
+          "168",
+          "145",
+          "28"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "2",
+          "69",
+          "33",
+          "36",
+          "4"
+        ],
+        [
+          "ESCOBEDO",
+          "2",
+          "136",
+          "76",
+          "60",
+          "5"
+        ],
+        [
+          "HUACHICHIL (EL HUACHE)",
+          "5",
+          "719",
+          "349",
+          "370",
+          "38"
+        ],
+        [
+          "JAME",
+          "2",
+          "54",
+          "34",
+          "20",
+          "3"
+        ],
+        [
+          "LA BIZNAGA",
+          "4",
+          "199",
+          "97",
+          "102",
+          "10"
+        ],
+        [
+          "LA CIRUELA",
+          "1",
+          "69",
+          "30",
+          "39",
+          "3"
+        ],
+        [
+          "LA EFIGENIA",
+          "2",
+          "37",
+          "19",
+          "18",
+          "2"
+        ],
+        [
+          "LA PRESA",
+          "2",
+          "57",
+          "26",
+          "31",
+          "3"
+        ],
+        [
+          "LA ROSITA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LOS LIRIOS",
+          "2",
+          "124",
+          "57",
+          "67",
+          "7"
+        ],
+        [
+          "LOS LLANOS",
+          "2",
+          "48",
+          "23",
+          "25",
+          "3"
+        ],
+        [
+          "LOS QUELITES",
+          "4",
+          "53",
+          "32",
+          "21",
+          "5"
+        ],
+        [
+          "MESA DE LAS TABLAS",
+          "4",
+          "70",
+          "42",
+          "28",
+          "4"
+        ],
+        [
+          "NUNCIO",
+          "2",
+          "19",
+          "11",
+          "8",
+          "2"
+        ],
+        [
+          "PIEDRA BLANCA (EL RANCHITO)",
+          "3",
+          "80",
+          "38",
+          "42",
+          "5"
+        ],
+        [
+          "POTRERO DE ÁBREGO",
+          "3",
+          "47",
+          "20",
+          "27",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LAS ALAZANAS",
+          "6",
+          "930",
+          "494",
+          "436",
+          "40"
+        ],
+        [
+          "SAN JOSÉ DEL VERGEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN JUAN DE LOS DOLORES",
+          "2",
+          "50",
+          "21",
+          "29",
+          "3"
+        ],
+        [
+          "SAN JUANITO (SAN JUANITO DE LOS VALDEZ)",
+          "2",
+          "44",
+          "16",
+          "28",
+          "3"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "43",
+          "15",
+          "28",
+          "3"
+        ],
+        [
+          "SIERRA HERMOSA",
+          "4",
+          "92",
+          "52",
+          "40",
+          "7"
+        ],
+        [
+          "TIERRAS PRIETAS",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "111",
+          "11,122",
+          "5,138",
+          "5,984",
+          "1,012"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:24.596Z"
+}

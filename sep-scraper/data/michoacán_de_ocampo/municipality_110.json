@@ -1,0 +1,1176 @@
+{
+  "municipality": "ZINAPÉCUARO",
+  "municipalityCode": "110",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ZINAPÉCUARO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARARÓ\n\t\t4\n\t\t334\n\t\t161\n\t\t173\n\t\t17\n\t\n\t\n\t\tBELISARIO DOMÍNGUEZ\n\t\t3\n\t\t319\n\t\t165\n\t\t154\n\t\t18\n\t\n\t\n\t\tBOCANEO (SAN PEDRO)\n\t\t5\n\t\t303\n\t\t142\n\t\t161\n\t\t20\n\t\n\t\n\t\tBUENAVISTA (SAN MIGUEL BUENAVISTA)\n\t\t4\n\t\t222\n\t\t114\n\t\t108\n\t\t19\n\t\n\t\n\t\tCOLONIA DE CORO\n\t\t2\n\t\t65\n\t\t34\n\t\t31\n\t\t7\n\t\n\t\n\t\tCOLONIA EJIDAL EUSEBIO LUNA (ZÓCALO)\n\t\t2\n\t\t33\n\t\t12\n\t\t21\n\t\t3\n\t\n\t\n\t\tCRUZ DE CAMINOS (ENTRONQUE JERÁHUARO)\n\t\t1\n\t\t22\n\t\t9\n\t\t13\n\t\t1\n\t\n\t\n\t\tEL COLORADO (LOS PINOS)\n\t\t2\n\t\t29\n\t\t12\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL FRESNO\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL JARAL (EL JARAL LAGUNILLAS)\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL JARALILLO\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL POTRERO\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL RINCÓN DE JERÁHUARO\n\t\t2\n\t\t43\n\t\t26\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL ROSARIO (EL TAPANCO)\n\t\t3\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL SALTO\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t2\n\t\n\t\n\t\tEL TICO\n\t\t2\n\t\t109\n\t\t45\n\t\t64\n\t\t5\n\t\n\t\n\t\tEL ZAPOTE (EL ZAPOTE BAJO)\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t2\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t4\n\t\t454\n\t\t221\n\t\t233\n\t\t25\n\t\n\t\n\t\tHERIBERTO JARA (LA PRESA)\n\t\t2\n\t\t58\n\t\t26\n\t\t32\n\t\t4\n\t\n\t\n\t\tHUAJÚMBARO (HUAJÚMBARO DE GUADALUPE)\n\t\t4\n\t\t394\n\t\t221\n\t\t173\n\t\t22\n\t\n\t\n\t\tJACUARILLO (JUCUARILLO)\n\t\t2\n\t\t53\n\t\t26\n\t\t27\n\t\t4\n\t\n\t\n\t\tJOSÉ MARÍA MORELOS (LA YEGÜERÍA)\n\t\t3\n\t\t341\n\t\t188\n\t\t153\n\t\t21\n\t\n\t\n\t\tLA GALERA (SAN JOAQUÍN JARIPEO)\n\t\t2\n\t\t102\n\t\t48\n\t\t54\n\t\t7\n\t\n\t\n\t\tLA VENTA DEL CAPULÍN\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS CRUCES\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tLAS PALOMAS\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS GUERREROS (EL FONDO)\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t3\n\t\n\t\n\t\tLOS TRIGOS\n\t\t2\n\t\t23\n\t\t3\n\t\t20\n\t\t3\n\t\n\t\n\t\tOJO DE AGUA DE BUCIO\n\t\t4\n\t\t284\n\t\t133\n\t\t151\n\t\t20\n\t\n\t\n\t\tOJO DE AGUA DEL CUERVO\n\t\t3\n\t\t92\n\t\t45\n\t\t47\n\t\t5\n\t\n\t\n\t\tOJOS DE AGUA\n\t\t2\n\t\t72\n\t\t31\n\t\t41\n\t\t5\n\t\n\t\n\t\tQUERÉNDARO [ESTACIÓN]\n\t\t4\n\t\t371\n\t\t172\n\t\t199\n\t\t28\n\t\n\t\n\t\tSAN BARTOLOMÉ CORO\n\t\t3\n\t\t76\n\t\t44\n\t\t32\n\t\t7\n\t\n\t\n\t\tSAN BERNARDO\n\t\t2\n\t\t34\n\t\t17\n\t\t17\n\t\t4\n\t\n\t\n\t\tSAN ILDEFONSO\n\t\t3\n\t\t155\n\t\t85\n\t\t70\n\t\t9\n\t\n\t\n\t\tSAN JOAQUÍN JARIPEO (LA EX-HACIENDA)\n\t\t2\n\t\t61\n\t\t23\n\t\t38\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ CARPINTERO\n\t\t3\n\t\t52\n\t\t24\n\t\t28\n\t\t7\n\t\n\t\n\t\tSAN JOSÉ DEL RINCÓN (EL RINCÓN DE TAIMEO)\n\t\t3\n\t\t41\n\t\t18\n\t\t23\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ LA TRASQUILA\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL LAS PALOMAS (ZACAZONAPAN)\n\t\t3\n\t\t62\n\t\t30\n\t\t32\n\t\t7\n\t\n\t\n\t\tSAN MIGUEL TAIMEO\n\t\t3\n\t\t169\n\t\t87\n\t\t82\n\t\t14\n\t\n\t\n\t\tSAN NICOLÁS SIMIRAO\n\t\t2\n\t\t32\n\t\t16\n\t\t16\n\t\t4\n\t\n\t\n\t\tSANTA CLARA DEL TULE\n\t\t2\n\t\t129\n\t\t68\n\t\t61\n\t\t9\n\t\n\t\n\t\tSANTA CRUZ\n\t\t1\n\t\t75\n\t\t42\n\t\t33\n\t\t6\n\t\n\t\n\t\tTAIMEO EL CHICO (LA YERBABUENA)\n\t\t3\n\t\t112\n\t\t67\n\t\t45\n\t\t8\n\t\n\t\n\t\tUCAREO\n\t\t4\n\t\t907\n\t\t481\n\t\t426\n\t\t57\n\t\n\t\n\t\tVALLE DE JUÁREZ (JERÁHUARO)\n\t\t5\n\t\t611\n\t\t320\n\t\t291\n\t\t35\n\t\n\t\n\t\tZINAPÉCUARO DE FIGUEROA\n\t\t28\n\t\t4,435\n\t\t2,237\n\t\t2,198\n\t\t306\n\t\n\t\n\t\tZIRÓNDARO\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t151\n\t\t10,940\n\t\t5,514\n\t\t5,426\n\t\t747\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ZINAPÉCUARO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARARÓ",
+          "4",
+          "334",
+          "161",
+          "173",
+          "17",
+          "BELISARIO DOMÍNGUEZ",
+          "3",
+          "319",
+          "165",
+          "154",
+          "18",
+          "BOCANEO (SAN PEDRO)",
+          "5",
+          "303",
+          "142",
+          "161",
+          "20",
+          "BUENAVISTA (SAN MIGUEL BUENAVISTA)",
+          "4",
+          "222",
+          "114",
+          "108",
+          "19",
+          "COLONIA DE CORO",
+          "2",
+          "65",
+          "34",
+          "31",
+          "7",
+          "COLONIA EJIDAL EUSEBIO LUNA (ZÓCALO)",
+          "2",
+          "33",
+          "12",
+          "21",
+          "3",
+          "CRUZ DE CAMINOS (ENTRONQUE JERÁHUARO)",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1",
+          "EL COLORADO (LOS PINOS)",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3",
+          "EL FRESNO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3",
+          "EL JARAL (EL JARAL LAGUNILLAS)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2",
+          "EL JARALILLO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "EL POTRERO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3",
+          "EL RINCÓN DE JERÁHUARO",
+          "2",
+          "43",
+          "26",
+          "17",
+          "2",
+          "EL ROSARIO (EL TAPANCO)",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2",
+          "EL SALTO",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2",
+          "EL TICO",
+          "2",
+          "109",
+          "45",
+          "64",
+          "5",
+          "EL ZAPOTE (EL ZAPOTE BAJO)",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2",
+          "FRANCISCO VILLA",
+          "4",
+          "454",
+          "221",
+          "233",
+          "25",
+          "HERIBERTO JARA (LA PRESA)",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4",
+          "HUAJÚMBARO (HUAJÚMBARO DE GUADALUPE)",
+          "4",
+          "394",
+          "221",
+          "173",
+          "22",
+          "JACUARILLO (JUCUARILLO)",
+          "2",
+          "53",
+          "26",
+          "27",
+          "4",
+          "JOSÉ MARÍA MORELOS (LA YEGÜERÍA)",
+          "3",
+          "341",
+          "188",
+          "153",
+          "21",
+          "LA GALERA (SAN JOAQUÍN JARIPEO)",
+          "2",
+          "102",
+          "48",
+          "54",
+          "7",
+          "LA VENTA DEL CAPULÍN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LAS CRUCES",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LOS GUERREROS (EL FONDO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "3",
+          "LOS TRIGOS",
+          "2",
+          "23",
+          "3",
+          "20",
+          "3",
+          "OJO DE AGUA DE BUCIO",
+          "4",
+          "284",
+          "133",
+          "151",
+          "20",
+          "OJO DE AGUA DEL CUERVO",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5",
+          "OJOS DE AGUA",
+          "2",
+          "72",
+          "31",
+          "41",
+          "5",
+          "QUERÉNDARO [ESTACIÓN]",
+          "4",
+          "371",
+          "172",
+          "199",
+          "28",
+          "SAN BARTOLOMÉ CORO",
+          "3",
+          "76",
+          "44",
+          "32",
+          "7",
+          "SAN BERNARDO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4",
+          "SAN ILDEFONSO",
+          "3",
+          "155",
+          "85",
+          "70",
+          "9",
+          "SAN JOAQUÍN JARIPEO (LA EX-HACIENDA)",
+          "2",
+          "61",
+          "23",
+          "38",
+          "4",
+          "SAN JOSÉ CARPINTERO",
+          "3",
+          "52",
+          "24",
+          "28",
+          "7",
+          "SAN JOSÉ DEL RINCÓN (EL RINCÓN DE TAIMEO)",
+          "3",
+          "41",
+          "18",
+          "23",
+          "5",
+          "SAN JOSÉ LA TRASQUILA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "SAN MIGUEL LAS PALOMAS (ZACAZONAPAN)",
+          "3",
+          "62",
+          "30",
+          "32",
+          "7",
+          "SAN MIGUEL TAIMEO",
+          "3",
+          "169",
+          "87",
+          "82",
+          "14",
+          "SAN NICOLÁS SIMIRAO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "4",
+          "SANTA CLARA DEL TULE",
+          "2",
+          "129",
+          "68",
+          "61",
+          "9",
+          "SANTA CRUZ",
+          "1",
+          "75",
+          "42",
+          "33",
+          "6",
+          "TAIMEO EL CHICO (LA YERBABUENA)",
+          "3",
+          "112",
+          "67",
+          "45",
+          "8",
+          "UCAREO",
+          "4",
+          "907",
+          "481",
+          "426",
+          "57",
+          "VALLE DE JUÁREZ (JERÁHUARO)",
+          "5",
+          "611",
+          "320",
+          "291",
+          "35",
+          "ZINAPÉCUARO DE FIGUEROA",
+          "28",
+          "4,435",
+          "2,237",
+          "2,198",
+          "306",
+          "ZIRÓNDARO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "2",
+          "TOTAL",
+          "151",
+          "10,940",
+          "5,514",
+          "5,426",
+          "747",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ZINAPÉCUARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARARÓ",
+          "4",
+          "334",
+          "161",
+          "173",
+          "17"
+        ],
+        [
+          "BELISARIO DOMÍNGUEZ",
+          "3",
+          "319",
+          "165",
+          "154",
+          "18"
+        ],
+        [
+          "BOCANEO (SAN PEDRO)",
+          "5",
+          "303",
+          "142",
+          "161",
+          "20"
+        ],
+        [
+          "BUENAVISTA (SAN MIGUEL BUENAVISTA)",
+          "4",
+          "222",
+          "114",
+          "108",
+          "19"
+        ],
+        [
+          "COLONIA DE CORO",
+          "2",
+          "65",
+          "34",
+          "31",
+          "7"
+        ],
+        [
+          "COLONIA EJIDAL EUSEBIO LUNA (ZÓCALO)",
+          "2",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "CRUZ DE CAMINOS (ENTRONQUE JERÁHUARO)",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1"
+        ],
+        [
+          "EL COLORADO (LOS PINOS)",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "EL JARAL (EL JARAL LAGUNILLAS)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL JARALILLO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "EL POTRERO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3"
+        ],
+        [
+          "EL RINCÓN DE JERÁHUARO",
+          "2",
+          "43",
+          "26",
+          "17",
+          "2"
+        ],
+        [
+          "EL ROSARIO (EL TAPANCO)",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "EL TICO",
+          "2",
+          "109",
+          "45",
+          "64",
+          "5"
+        ],
+        [
+          "EL ZAPOTE (EL ZAPOTE BAJO)",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "454",
+          "221",
+          "233",
+          "25"
+        ],
+        [
+          "HERIBERTO JARA (LA PRESA)",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4"
+        ],
+        [
+          "HUAJÚMBARO (HUAJÚMBARO DE GUADALUPE)",
+          "4",
+          "394",
+          "221",
+          "173",
+          "22"
+        ],
+        [
+          "JACUARILLO (JUCUARILLO)",
+          "2",
+          "53",
+          "26",
+          "27",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (LA YEGÜERÍA)",
+          "3",
+          "341",
+          "188",
+          "153",
+          "21"
+        ],
+        [
+          "LA GALERA (SAN JOAQUÍN JARIPEO)",
+          "2",
+          "102",
+          "48",
+          "54",
+          "7"
+        ],
+        [
+          "LA VENTA DEL CAPULÍN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LAS CRUCES",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS GUERREROS (EL FONDO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "3"
+        ],
+        [
+          "LOS TRIGOS",
+          "2",
+          "23",
+          "3",
+          "20",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE BUCIO",
+          "4",
+          "284",
+          "133",
+          "151",
+          "20"
+        ],
+        [
+          "OJO DE AGUA DEL CUERVO",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5"
+        ],
+        [
+          "OJOS DE AGUA",
+          "2",
+          "72",
+          "31",
+          "41",
+          "5"
+        ],
+        [
+          "QUERÉNDARO [ESTACIÓN]",
+          "4",
+          "371",
+          "172",
+          "199",
+          "28"
+        ],
+        [
+          "SAN BARTOLOMÉ CORO",
+          "3",
+          "76",
+          "44",
+          "32",
+          "7"
+        ],
+        [
+          "SAN BERNARDO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4"
+        ],
+        [
+          "SAN ILDEFONSO",
+          "3",
+          "155",
+          "85",
+          "70",
+          "9"
+        ],
+        [
+          "SAN JOAQUÍN JARIPEO (LA EX-HACIENDA)",
+          "2",
+          "61",
+          "23",
+          "38",
+          "4"
+        ],
+        [
+          "SAN JOSÉ CARPINTERO",
+          "3",
+          "52",
+          "24",
+          "28",
+          "7"
+        ],
+        [
+          "SAN JOSÉ DEL RINCÓN (EL RINCÓN DE TAIMEO)",
+          "3",
+          "41",
+          "18",
+          "23",
+          "5"
+        ],
+        [
+          "SAN JOSÉ LA TRASQUILA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "SAN MIGUEL LAS PALOMAS (ZACAZONAPAN)",
+          "3",
+          "62",
+          "30",
+          "32",
+          "7"
+        ],
+        [
+          "SAN MIGUEL TAIMEO",
+          "3",
+          "169",
+          "87",
+          "82",
+          "14"
+        ],
+        [
+          "SAN NICOLÁS SIMIRAO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA CLARA DEL TULE",
+          "2",
+          "129",
+          "68",
+          "61",
+          "9"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "75",
+          "42",
+          "33",
+          "6"
+        ],
+        [
+          "TAIMEO EL CHICO (LA YERBABUENA)",
+          "3",
+          "112",
+          "67",
+          "45",
+          "8"
+        ],
+        [
+          "UCAREO",
+          "4",
+          "907",
+          "481",
+          "426",
+          "57"
+        ],
+        [
+          "VALLE DE JUÁREZ (JERÁHUARO)",
+          "5",
+          "611",
+          "320",
+          "291",
+          "35"
+        ],
+        [
+          "ZINAPÉCUARO DE FIGUEROA",
+          "28",
+          "4,435",
+          "2,237",
+          "2,198",
+          "306"
+        ],
+        [
+          "ZIRÓNDARO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "10,940",
+          "5,514",
+          "5,426",
+          "747"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: ZINAPÉCUARO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARARÓ",
+          "4",
+          "334",
+          "161",
+          "173",
+          "17"
+        ],
+        [
+          "BELISARIO DOMÍNGUEZ",
+          "3",
+          "319",
+          "165",
+          "154",
+          "18"
+        ],
+        [
+          "BOCANEO (SAN PEDRO)",
+          "5",
+          "303",
+          "142",
+          "161",
+          "20"
+        ],
+        [
+          "BUENAVISTA (SAN MIGUEL BUENAVISTA)",
+          "4",
+          "222",
+          "114",
+          "108",
+          "19"
+        ],
+        [
+          "COLONIA DE CORO",
+          "2",
+          "65",
+          "34",
+          "31",
+          "7"
+        ],
+        [
+          "COLONIA EJIDAL EUSEBIO LUNA (ZÓCALO)",
+          "2",
+          "33",
+          "12",
+          "21",
+          "3"
+        ],
+        [
+          "CRUZ DE CAMINOS (ENTRONQUE JERÁHUARO)",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1"
+        ],
+        [
+          "EL COLORADO (LOS PINOS)",
+          "2",
+          "29",
+          "12",
+          "17",
+          "3"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "EL JARAL (EL JARAL LAGUNILLAS)",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL JARALILLO",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "EL POTRERO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "3"
+        ],
+        [
+          "EL RINCÓN DE JERÁHUARO",
+          "2",
+          "43",
+          "26",
+          "17",
+          "2"
+        ],
+        [
+          "EL ROSARIO (EL TAPANCO)",
+          "3",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL SALTO",
+          "2",
+          "41",
+          "22",
+          "19",
+          "2"
+        ],
+        [
+          "EL TICO",
+          "2",
+          "109",
+          "45",
+          "64",
+          "5"
+        ],
+        [
+          "EL ZAPOTE (EL ZAPOTE BAJO)",
+          "2",
+          "15",
+          "8",
+          "7",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "4",
+          "454",
+          "221",
+          "233",
+          "25"
+        ],
+        [
+          "HERIBERTO JARA (LA PRESA)",
+          "2",
+          "58",
+          "26",
+          "32",
+          "4"
+        ],
+        [
+          "HUAJÚMBARO (HUAJÚMBARO DE GUADALUPE)",
+          "4",
+          "394",
+          "221",
+          "173",
+          "22"
+        ],
+        [
+          "JACUARILLO (JUCUARILLO)",
+          "2",
+          "53",
+          "26",
+          "27",
+          "4"
+        ],
+        [
+          "JOSÉ MARÍA MORELOS (LA YEGÜERÍA)",
+          "3",
+          "341",
+          "188",
+          "153",
+          "21"
+        ],
+        [
+          "LA GALERA (SAN JOAQUÍN JARIPEO)",
+          "2",
+          "102",
+          "48",
+          "54",
+          "7"
+        ],
+        [
+          "LA VENTA DEL CAPULÍN",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LAS CRUCES",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LAS PALOMAS",
+          "1",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS GUERREROS (EL FONDO)",
+          "2",
+          "17",
+          "8",
+          "9",
+          "3"
+        ],
+        [
+          "LOS TRIGOS",
+          "2",
+          "23",
+          "3",
+          "20",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE BUCIO",
+          "4",
+          "284",
+          "133",
+          "151",
+          "20"
+        ],
+        [
+          "OJO DE AGUA DEL CUERVO",
+          "3",
+          "92",
+          "45",
+          "47",
+          "5"
+        ],
+        [
+          "OJOS DE AGUA",
+          "2",
+          "72",
+          "31",
+          "41",
+          "5"
+        ],
+        [
+          "QUERÉNDARO [ESTACIÓN]",
+          "4",
+          "371",
+          "172",
+          "199",
+          "28"
+        ],
+        [
+          "SAN BARTOLOMÉ CORO",
+          "3",
+          "76",
+          "44",
+          "32",
+          "7"
+        ],
+        [
+          "SAN BERNARDO",
+          "2",
+          "34",
+          "17",
+          "17",
+          "4"
+        ],
+        [
+          "SAN ILDEFONSO",
+          "3",
+          "155",
+          "85",
+          "70",
+          "9"
+        ],
+        [
+          "SAN JOAQUÍN JARIPEO (LA EX-HACIENDA)",
+          "2",
+          "61",
+          "23",
+          "38",
+          "4"
+        ],
+        [
+          "SAN JOSÉ CARPINTERO",
+          "3",
+          "52",
+          "24",
+          "28",
+          "7"
+        ],
+        [
+          "SAN JOSÉ DEL RINCÓN (EL RINCÓN DE TAIMEO)",
+          "3",
+          "41",
+          "18",
+          "23",
+          "5"
+        ],
+        [
+          "SAN JOSÉ LA TRASQUILA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "SAN MIGUEL LAS PALOMAS (ZACAZONAPAN)",
+          "3",
+          "62",
+          "30",
+          "32",
+          "7"
+        ],
+        [
+          "SAN MIGUEL TAIMEO",
+          "3",
+          "169",
+          "87",
+          "82",
+          "14"
+        ],
+        [
+          "SAN NICOLÁS SIMIRAO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA CLARA DEL TULE",
+          "2",
+          "129",
+          "68",
+          "61",
+          "9"
+        ],
+        [
+          "SANTA CRUZ",
+          "1",
+          "75",
+          "42",
+          "33",
+          "6"
+        ],
+        [
+          "TAIMEO EL CHICO (LA YERBABUENA)",
+          "3",
+          "112",
+          "67",
+          "45",
+          "8"
+        ],
+        [
+          "UCAREO",
+          "4",
+          "907",
+          "481",
+          "426",
+          "57"
+        ],
+        [
+          "VALLE DE JUÁREZ (JERÁHUARO)",
+          "5",
+          "611",
+          "320",
+          "291",
+          "35"
+        ],
+        [
+          "ZINAPÉCUARO DE FIGUEROA",
+          "28",
+          "4,435",
+          "2,237",
+          "2,198",
+          "306"
+        ],
+        [
+          "ZIRÓNDARO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "10,940",
+          "5,514",
+          "5,426",
+          "747"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:24:17.457Z"
+}

@@ -1,0 +1,406 @@
+{
+  "municipality": "PESQUERÍA",
+  "municipalityCode": "041",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: PESQUERÍA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLINAS DEL AEROPUERTO\n\t\t15\n\t\t8,235\n\t\t4,063\n\t\t4,172\n\t\t256\n\t\n\t\n\t\tDULCES NOMBRES\n\t\t4\n\t\t556\n\t\t286\n\t\t270\n\t\t21\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t76\n\t\t39\n\t\t37\n\t\t5\n\t\n\t\n\t\tLA ARENA\n\t\t2\n\t\t77\n\t\t31\n\t\t46\n\t\t5\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t68\n\t\t27\n\t\t41\n\t\t6\n\t\n\t\n\t\tLADRILLERA (ENTRONQUE PESQUERÍA)\n\t\t4\n\t\t1,394\n\t\t691\n\t\t703\n\t\t86\n\t\n\t\n\t\tLAS HACIENDAS\n\t\t2\n\t\t775\n\t\t379\n\t\t396\n\t\t37\n\t\n\t\n\t\tLAS PALMAS\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tPESQUERÍA\n\t\t54\n\t\t17,248\n\t\t8,465\n\t\t8,783\n\t\t630\n\t\n\t\n\t\tREAL DE LORETO\n\t\t4\n\t\t566\n\t\t309\n\t\t257\n\t\t17\n\t\n\t\n\t\tSANTA MARÍA LA FLOREÑA\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTA MARÍA PESQUERÍA\n\t\t2\n\t\t63\n\t\t23\n\t\t40\n\t\t5\n\t\n\t\n\t\tVALLE DE SANTA MARÍA\n\t\t20\n\t\t9,187\n\t\t4,542\n\t\t4,645\n\t\t327\n\t\n\t\n\t\tZACATECAS\n\t\t2\n\t\t352\n\t\t167\n\t\t185\n\t\t13\n\t\n\t\n\t\tTOTAL\n\t\t116\n\t\t38,632\n\t\t19,041\n\t\t19,591\n\t\t1,411\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: PESQUERÍA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLINAS DEL AEROPUERTO",
+          "15",
+          "8,235",
+          "4,063",
+          "4,172",
+          "256",
+          "DULCES NOMBRES",
+          "4",
+          "556",
+          "286",
+          "270",
+          "21",
+          "FRANCISCO VILLA",
+          "2",
+          "76",
+          "39",
+          "37",
+          "5",
+          "LA ARENA",
+          "2",
+          "77",
+          "31",
+          "46",
+          "5",
+          "LA PROVIDENCIA",
+          "2",
+          "68",
+          "27",
+          "41",
+          "6",
+          "LADRILLERA (ENTRONQUE PESQUERÍA)",
+          "4",
+          "1,394",
+          "691",
+          "703",
+          "86",
+          "LAS HACIENDAS",
+          "2",
+          "775",
+          "379",
+          "396",
+          "37",
+          "LAS PALMAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "PESQUERÍA",
+          "54",
+          "17,248",
+          "8,465",
+          "8,783",
+          "630",
+          "REAL DE LORETO",
+          "4",
+          "566",
+          "309",
+          "257",
+          "17",
+          "SANTA MARÍA LA FLOREÑA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1",
+          "SANTA MARÍA PESQUERÍA",
+          "2",
+          "63",
+          "23",
+          "40",
+          "5",
+          "VALLE DE SANTA MARÍA",
+          "20",
+          "9,187",
+          "4,542",
+          "4,645",
+          "327",
+          "ZACATECAS",
+          "2",
+          "352",
+          "167",
+          "185",
+          "13",
+          "TOTAL",
+          "116",
+          "38,632",
+          "19,041",
+          "19,591",
+          "1,411",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: PESQUERÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLINAS DEL AEROPUERTO",
+          "15",
+          "8,235",
+          "4,063",
+          "4,172",
+          "256"
+        ],
+        [
+          "DULCES NOMBRES",
+          "4",
+          "556",
+          "286",
+          "270",
+          "21"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "76",
+          "39",
+          "37",
+          "5"
+        ],
+        [
+          "LA ARENA",
+          "2",
+          "77",
+          "31",
+          "46",
+          "5"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "68",
+          "27",
+          "41",
+          "6"
+        ],
+        [
+          "LADRILLERA (ENTRONQUE PESQUERÍA)",
+          "4",
+          "1,394",
+          "691",
+          "703",
+          "86"
+        ],
+        [
+          "LAS HACIENDAS",
+          "2",
+          "775",
+          "379",
+          "396",
+          "37"
+        ],
+        [
+          "LAS PALMAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "PESQUERÍA",
+          "54",
+          "17,248",
+          "8,465",
+          "8,783",
+          "630"
+        ],
+        [
+          "REAL DE LORETO",
+          "4",
+          "566",
+          "309",
+          "257",
+          "17"
+        ],
+        [
+          "SANTA MARÍA LA FLOREÑA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA MARÍA PESQUERÍA",
+          "2",
+          "63",
+          "23",
+          "40",
+          "5"
+        ],
+        [
+          "VALLE DE SANTA MARÍA",
+          "20",
+          "9,187",
+          "4,542",
+          "4,645",
+          "327"
+        ],
+        [
+          "ZACATECAS",
+          "2",
+          "352",
+          "167",
+          "185",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "116",
+          "38,632",
+          "19,041",
+          "19,591",
+          "1,411"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: PESQUERÍA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLINAS DEL AEROPUERTO",
+          "15",
+          "8,235",
+          "4,063",
+          "4,172",
+          "256"
+        ],
+        [
+          "DULCES NOMBRES",
+          "4",
+          "556",
+          "286",
+          "270",
+          "21"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "76",
+          "39",
+          "37",
+          "5"
+        ],
+        [
+          "LA ARENA",
+          "2",
+          "77",
+          "31",
+          "46",
+          "5"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "68",
+          "27",
+          "41",
+          "6"
+        ],
+        [
+          "LADRILLERA (ENTRONQUE PESQUERÍA)",
+          "4",
+          "1,394",
+          "691",
+          "703",
+          "86"
+        ],
+        [
+          "LAS HACIENDAS",
+          "2",
+          "775",
+          "379",
+          "396",
+          "37"
+        ],
+        [
+          "LAS PALMAS",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "PESQUERÍA",
+          "54",
+          "17,248",
+          "8,465",
+          "8,783",
+          "630"
+        ],
+        [
+          "REAL DE LORETO",
+          "4",
+          "566",
+          "309",
+          "257",
+          "17"
+        ],
+        [
+          "SANTA MARÍA LA FLOREÑA",
+          "1",
+          "8",
+          "6",
+          "2",
+          "1"
+        ],
+        [
+          "SANTA MARÍA PESQUERÍA",
+          "2",
+          "63",
+          "23",
+          "40",
+          "5"
+        ],
+        [
+          "VALLE DE SANTA MARÍA",
+          "20",
+          "9,187",
+          "4,542",
+          "4,645",
+          "327"
+        ],
+        [
+          "ZACATECAS",
+          "2",
+          "352",
+          "167",
+          "185",
+          "13"
+        ],
+        [
+          "TOTAL",
+          "116",
+          "38,632",
+          "19,041",
+          "19,591",
+          "1,411"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:25:37.266Z"
+}

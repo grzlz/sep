@@ -1,0 +1,406 @@
+{
+  "municipality": "AHUACATLÁN",
+  "municipalityCode": "002",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: AHUACATLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAHUACATLÁN\n\t\t15\n\t\t1,846\n\t\t935\n\t\t911\n\t\t131\n\t\n\t\n\t\tHERIBERTO JARA (LA HACIENDITA)\n\t\t4\n\t\t253\n\t\t122\n\t\t131\n\t\t16\n\t\n\t\n\t\tLA CAMPANA\n\t\t3\n\t\t30\n\t\t11\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA CIÉNEGA\n\t\t2\n\t\t24\n\t\t14\n\t\t10\n\t\t2\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS CEBOLLAS\n\t\t3\n\t\t35\n\t\t17\n\t\t18\n\t\t3\n\t\n\t\n\t\tLAS PALMAS\n\t\t3\n\t\t37\n\t\t14\n\t\t23\n\t\t3\n\t\n\t\n\t\tMARQUEZADO\n\t\t4\n\t\t163\n\t\t73\n\t\t90\n\t\t13\n\t\n\t\n\t\tSANTA CRUZ DE CAMOTLÁN\n\t\t4\n\t\t116\n\t\t51\n\t\t65\n\t\t10\n\t\n\t\n\t\tSANTA ISABEL\n\t\t4\n\t\t677\n\t\t342\n\t\t335\n\t\t70\n\t\n\t\n\t\tTETITLÁN\n\t\t3\n\t\t243\n\t\t112\n\t\t131\n\t\t20\n\t\n\t\n\t\tUZETA\n\t\t3\n\t\t315\n\t\t159\n\t\t156\n\t\t19\n\t\n\t\n\t\tVALLE VERDE\n\t\t2\n\t\t70\n\t\t41\n\t\t29\n\t\t5\n\t\n\t\n\t\tZOATLÁN (SAN FRANCISCO DE ZOATLÁN)\n\t\t3\n\t\t100\n\t\t56\n\t\t44\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t55\n\t\t3,916\n\t\t1,949\n\t\t1,967\n\t\t302\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: AHUACATLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AHUACATLÁN",
+          "15",
+          "1,846",
+          "935",
+          "911",
+          "131",
+          "HERIBERTO JARA (LA HACIENDITA)",
+          "4",
+          "253",
+          "122",
+          "131",
+          "16",
+          "LA CAMPANA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3",
+          "LA CIÉNEGA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2",
+          "LA GLORIA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LAS CEBOLLAS",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3",
+          "LAS PALMAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3",
+          "MARQUEZADO",
+          "4",
+          "163",
+          "73",
+          "90",
+          "13",
+          "SANTA CRUZ DE CAMOTLÁN",
+          "4",
+          "116",
+          "51",
+          "65",
+          "10",
+          "SANTA ISABEL",
+          "4",
+          "677",
+          "342",
+          "335",
+          "70",
+          "TETITLÁN",
+          "3",
+          "243",
+          "112",
+          "131",
+          "20",
+          "UZETA",
+          "3",
+          "315",
+          "159",
+          "156",
+          "19",
+          "VALLE VERDE",
+          "2",
+          "70",
+          "41",
+          "29",
+          "5",
+          "ZOATLÁN (SAN FRANCISCO DE ZOATLÁN)",
+          "3",
+          "100",
+          "56",
+          "44",
+          "6",
+          "TOTAL",
+          "55",
+          "3,916",
+          "1,949",
+          "1,967",
+          "302",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: AHUACATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUACATLÁN",
+          "15",
+          "1,846",
+          "935",
+          "911",
+          "131"
+        ],
+        [
+          "HERIBERTO JARA (LA HACIENDITA)",
+          "4",
+          "253",
+          "122",
+          "131",
+          "16"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3"
+        ],
+        [
+          "LA CIÉNEGA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LAS CEBOLLAS",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3"
+        ],
+        [
+          "MARQUEZADO",
+          "4",
+          "163",
+          "73",
+          "90",
+          "13"
+        ],
+        [
+          "SANTA CRUZ DE CAMOTLÁN",
+          "4",
+          "116",
+          "51",
+          "65",
+          "10"
+        ],
+        [
+          "SANTA ISABEL",
+          "4",
+          "677",
+          "342",
+          "335",
+          "70"
+        ],
+        [
+          "TETITLÁN",
+          "3",
+          "243",
+          "112",
+          "131",
+          "20"
+        ],
+        [
+          "UZETA",
+          "3",
+          "315",
+          "159",
+          "156",
+          "19"
+        ],
+        [
+          "VALLE VERDE",
+          "2",
+          "70",
+          "41",
+          "29",
+          "5"
+        ],
+        [
+          "ZOATLÁN (SAN FRANCISCO DE ZOATLÁN)",
+          "3",
+          "100",
+          "56",
+          "44",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "3,916",
+          "1,949",
+          "1,967",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: AHUACATLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AHUACATLÁN",
+          "15",
+          "1,846",
+          "935",
+          "911",
+          "131"
+        ],
+        [
+          "HERIBERTO JARA (LA HACIENDITA)",
+          "4",
+          "253",
+          "122",
+          "131",
+          "16"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "30",
+          "11",
+          "19",
+          "3"
+        ],
+        [
+          "LA CIÉNEGA",
+          "2",
+          "24",
+          "14",
+          "10",
+          "2"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LAS CEBOLLAS",
+          "3",
+          "35",
+          "17",
+          "18",
+          "3"
+        ],
+        [
+          "LAS PALMAS",
+          "3",
+          "37",
+          "14",
+          "23",
+          "3"
+        ],
+        [
+          "MARQUEZADO",
+          "4",
+          "163",
+          "73",
+          "90",
+          "13"
+        ],
+        [
+          "SANTA CRUZ DE CAMOTLÁN",
+          "4",
+          "116",
+          "51",
+          "65",
+          "10"
+        ],
+        [
+          "SANTA ISABEL",
+          "4",
+          "677",
+          "342",
+          "335",
+          "70"
+        ],
+        [
+          "TETITLÁN",
+          "3",
+          "243",
+          "112",
+          "131",
+          "20"
+        ],
+        [
+          "UZETA",
+          "3",
+          "315",
+          "159",
+          "156",
+          "19"
+        ],
+        [
+          "VALLE VERDE",
+          "2",
+          "70",
+          "41",
+          "29",
+          "5"
+        ],
+        [
+          "ZOATLÁN (SAN FRANCISCO DE ZOATLÁN)",
+          "3",
+          "100",
+          "56",
+          "44",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "55",
+          "3,916",
+          "1,949",
+          "1,967",
+          "302"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:32.391Z"
+}

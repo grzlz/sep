@@ -1,0 +1,1044 @@
+{
+  "municipality": "CONCORDIA",
+  "municipalityCode": "004",
+  "state": "SINALOA",
+  "stateCode": "25",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHOME\n\tANGOSTURA\n\tBADIRAGUATO\n\tCHOIX\n\tCONCORDIA\n\tCOSALÁ\n\tCULIACÁN\n\tEL FUERTE\n\tELDORADO\n\tELOTA\n\tESCUINAPA\n\tGUASAVE\n\tJUAN JOSÉ RÍOS\n\tMAZATLÁN\n\tMOCORITO\n\tNAVOLATO\n\tROSARIO\n\tSALVADOR ALVARADO\n\tSAN IGNACIO\n\tSINALOA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: CONCORDIA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA CALIENTE DE GÁRATE (AGUA CALIENTE)\n\t\t4\n\t\t368\n\t\t180\n\t\t188\n\t\t29\n\t\n\t\n\t\tAGUA CALIENTE DE JACOBO\n\t\t2\n\t\t15\n\t\t6\n\t\t9\n\t\t2\n\t\n\t\n\t\tAGUA CALIENTE DEL FAVOR\n\t\t3\n\t\t21\n\t\t12\n\t\t9\n\t\t2\n\t\n\t\n\t\tCHARCAS\n\t\t2\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tCHIRIMOYOS\n\t\t2\n\t\t54\n\t\t23\n\t\t31\n\t\t3\n\t\n\t\n\t\tCHUPADEROS\n\t\t2\n\t\t57\n\t\t23\n\t\t34\n\t\t3\n\t\n\t\n\t\tCOPALA\n\t\t3\n\t\t70\n\t\t34\n\t\t36\n\t\t6\n\t\n\t\n\t\tCUATANTAL\n\t\t3\n\t\t38\n\t\t23\n\t\t15\n\t\t3\n\t\n\t\n\t\tEJIDO CALERITAS\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CARDÓN\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t1\n\t\n\t\n\t\tEL COCO\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t2\n\t\n\t\n\t\tEL HUAJOTE\n\t\t3\n\t\t271\n\t\t144\n\t\t127\n\t\t27\n\t\n\t\n\t\tEL PALMITO\n\t\t4\n\t\t159\n\t\t82\n\t\t77\n\t\t22\n\t\n\t\n\t\tEL TIRO\n\t\t3\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL VERDE\n\t\t4\n\t\t228\n\t\t110\n\t\t118\n\t\t33\n\t\n\t\n\t\tHABAL DE COPALA\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tHEROICA CIUDAD CONCORDIA\n\t\t14\n\t\t2,655\n\t\t1,341\n\t\t1,314\n\t\t166\n\t\n\t\n\t\tLA CAPILLA DEL TAXTE\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA CONCEPCIÓN (LA BARRIGONA)\n\t\t3\n\t\t222\n\t\t108\n\t\t114\n\t\t11\n\t\n\t\n\t\tLA EMBOCADA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA GUÁSIMA\n\t\t3\n\t\t16\n\t\t6\n\t\t10\n\t\t3\n\t\n\t\n\t\tLA GUAYANERA\n\t\t2\n\t\t27\n\t\t15\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA MESA DEL CARRIZAL\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA PASTORÍA\n\t\t3\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA PETACA\n\t\t4\n\t\t192\n\t\t93\n\t\t99\n\t\t12\n\t\n\t\n\t\tLAS IGUANAS\n\t\t4\n\t\t124\n\t\t66\n\t\t58\n\t\t11\n\t\n\t\n\t\tLOS CERRITOS\n\t\t2\n\t\t32\n\t\t16\n\t\t16\n\t\t2\n\t\n\t\n\t\tLOS CIRUELOS\n\t\t3\n\t\t11\n\t\t3\n\t\t8\n\t\t3\n\t\n\t\n\t\tLOS NARANJOS\n\t\t2\n\t\t21\n\t\t4\n\t\t17\n\t\t2\n\t\n\t\n\t\tMAGISTRAL\n\t\t3\n\t\t36\n\t\t10\n\t\t26\n\t\t4\n\t\n\t\n\t\tMALPICA\n\t\t4\n\t\t116\n\t\t50\n\t\t66\n\t\t9\n\t\n\t\n\t\tMESILLAS\n\t\t3\n\t\t361\n\t\t167\n\t\t194\n\t\t27\n\t\n\t\n\t\tPALMILLAS\n\t\t3\n\t\t33\n\t\t17\n\t\t16\n\t\t3\n\t\n\t\n\t\tPÁNUCO\n\t\t4\n\t\t134\n\t\t74\n\t\t60\n\t\t11\n\t\n\t\n\t\tPIEDRA BLANCA\n\t\t2\n\t\t25\n\t\t16\n\t\t9\n\t\t2\n\t\n\t\n\t\tPOTRERILLOS\n\t\t5\n\t\t241\n\t\t126\n\t\t115\n\t\t20\n\t\n\t\n\t\tSAN JUAN DE JACOBO\n\t\t3\n\t\t67\n\t\t32\n\t\t35\n\t\t5\n\t\n\t\n\t\tSAN LORENZO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTA CATARINA\n\t\t4\n\t\t91\n\t\t50\n\t\t41\n\t\t8\n\t\n\t\n\t\tSANTA LUCÍA\n\t\t3\n\t\t83\n\t\t40\n\t\t43\n\t\t6\n\t\n\t\n\t\tSANTA RITA\n\t\t2\n\t\t23\n\t\t13\n\t\t10\n\t\t3\n\t\n\t\n\t\tTEPUXTA\n\t\t4\n\t\t137\n\t\t72\n\t\t65\n\t\t10\n\t\n\t\n\t\tZAVALA\n\t\t4\n\t\t129\n\t\t66\n\t\t63\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t134\n\t\t6,200\n\t\t3,091\n\t\t3,109\n\t\t480\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: CONCORDIA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA CALIENTE DE GÁRATE (AGUA CALIENTE)",
+          "4",
+          "368",
+          "180",
+          "188",
+          "29",
+          "AGUA CALIENTE DE JACOBO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2",
+          "AGUA CALIENTE DEL FAVOR",
+          "3",
+          "21",
+          "12",
+          "9",
+          "2",
+          "CHARCAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1",
+          "CHIRIMOYOS",
+          "2",
+          "54",
+          "23",
+          "31",
+          "3",
+          "CHUPADEROS",
+          "2",
+          "57",
+          "23",
+          "34",
+          "3",
+          "COPALA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6",
+          "CUATANTAL",
+          "3",
+          "38",
+          "23",
+          "15",
+          "3",
+          "EJIDO CALERITAS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "EL CARDÓN",
+          "2",
+          "13",
+          "5",
+          "8",
+          "1",
+          "EL COCO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2",
+          "EL HUAJOTE",
+          "3",
+          "271",
+          "144",
+          "127",
+          "27",
+          "EL PALMITO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "22",
+          "EL TIRO",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2",
+          "EL VERDE",
+          "4",
+          "228",
+          "110",
+          "118",
+          "33",
+          "HABAL DE COPALA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "HEROICA CIUDAD CONCORDIA",
+          "14",
+          "2,655",
+          "1,341",
+          "1,314",
+          "166",
+          "LA CAPILLA DEL TAXTE",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3",
+          "LA CONCEPCIÓN (LA BARRIGONA)",
+          "3",
+          "222",
+          "108",
+          "114",
+          "11",
+          "LA EMBOCADA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LA GUÁSIMA",
+          "3",
+          "16",
+          "6",
+          "10",
+          "3",
+          "LA GUAYANERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2",
+          "LA MESA DEL CARRIZAL",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "LA PASTORÍA",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3",
+          "LA PETACA",
+          "4",
+          "192",
+          "93",
+          "99",
+          "12",
+          "LAS IGUANAS",
+          "4",
+          "124",
+          "66",
+          "58",
+          "11",
+          "LOS CERRITOS",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2",
+          "LOS CIRUELOS",
+          "3",
+          "11",
+          "3",
+          "8",
+          "3",
+          "LOS NARANJOS",
+          "2",
+          "21",
+          "4",
+          "17",
+          "2",
+          "MAGISTRAL",
+          "3",
+          "36",
+          "10",
+          "26",
+          "4",
+          "MALPICA",
+          "4",
+          "116",
+          "50",
+          "66",
+          "9",
+          "MESILLAS",
+          "3",
+          "361",
+          "167",
+          "194",
+          "27",
+          "PALMILLAS",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3",
+          "PÁNUCO",
+          "4",
+          "134",
+          "74",
+          "60",
+          "11",
+          "PIEDRA BLANCA",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2",
+          "POTRERILLOS",
+          "5",
+          "241",
+          "126",
+          "115",
+          "20",
+          "SAN JUAN DE JACOBO",
+          "3",
+          "67",
+          "32",
+          "35",
+          "5",
+          "SAN LORENZO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "SANTA CATARINA",
+          "4",
+          "91",
+          "50",
+          "41",
+          "8",
+          "SANTA LUCÍA",
+          "3",
+          "83",
+          "40",
+          "43",
+          "6",
+          "SANTA RITA",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3",
+          "TEPUXTA",
+          "4",
+          "137",
+          "72",
+          "65",
+          "10",
+          "ZAVALA",
+          "4",
+          "129",
+          "66",
+          "63",
+          "10",
+          "TOTAL",
+          "134",
+          "6,200",
+          "3,091",
+          "3,109",
+          "480",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: CONCORDIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE DE GÁRATE (AGUA CALIENTE)",
+          "4",
+          "368",
+          "180",
+          "188",
+          "29"
+        ],
+        [
+          "AGUA CALIENTE DE JACOBO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "AGUA CALIENTE DEL FAVOR",
+          "3",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "CHARCAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CHIRIMOYOS",
+          "2",
+          "54",
+          "23",
+          "31",
+          "3"
+        ],
+        [
+          "CHUPADEROS",
+          "2",
+          "57",
+          "23",
+          "34",
+          "3"
+        ],
+        [
+          "COPALA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6"
+        ],
+        [
+          "CUATANTAL",
+          "3",
+          "38",
+          "23",
+          "15",
+          "3"
+        ],
+        [
+          "EJIDO CALERITAS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL CARDÓN",
+          "2",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "EL HUAJOTE",
+          "3",
+          "271",
+          "144",
+          "127",
+          "27"
+        ],
+        [
+          "EL PALMITO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "22"
+        ],
+        [
+          "EL TIRO",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL VERDE",
+          "4",
+          "228",
+          "110",
+          "118",
+          "33"
+        ],
+        [
+          "HABAL DE COPALA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "HEROICA CIUDAD CONCORDIA",
+          "14",
+          "2,655",
+          "1,341",
+          "1,314",
+          "166"
+        ],
+        [
+          "LA CAPILLA DEL TAXTE",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "LA CONCEPCIÓN (LA BARRIGONA)",
+          "3",
+          "222",
+          "108",
+          "114",
+          "11"
+        ],
+        [
+          "LA EMBOCADA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA GUÁSIMA",
+          "3",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "LA GUAYANERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA MESA DEL CARRIZAL",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LA PASTORÍA",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "LA PETACA",
+          "4",
+          "192",
+          "93",
+          "99",
+          "12"
+        ],
+        [
+          "LAS IGUANAS",
+          "4",
+          "124",
+          "66",
+          "58",
+          "11"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "LOS CIRUELOS",
+          "3",
+          "11",
+          "3",
+          "8",
+          "3"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "21",
+          "4",
+          "17",
+          "2"
+        ],
+        [
+          "MAGISTRAL",
+          "3",
+          "36",
+          "10",
+          "26",
+          "4"
+        ],
+        [
+          "MALPICA",
+          "4",
+          "116",
+          "50",
+          "66",
+          "9"
+        ],
+        [
+          "MESILLAS",
+          "3",
+          "361",
+          "167",
+          "194",
+          "27"
+        ],
+        [
+          "PALMILLAS",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "PÁNUCO",
+          "4",
+          "134",
+          "74",
+          "60",
+          "11"
+        ],
+        [
+          "PIEDRA BLANCA",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "5",
+          "241",
+          "126",
+          "115",
+          "20"
+        ],
+        [
+          "SAN JUAN DE JACOBO",
+          "3",
+          "67",
+          "32",
+          "35",
+          "5"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "4",
+          "91",
+          "50",
+          "41",
+          "8"
+        ],
+        [
+          "SANTA LUCÍA",
+          "3",
+          "83",
+          "40",
+          "43",
+          "6"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "TEPUXTA",
+          "4",
+          "137",
+          "72",
+          "65",
+          "10"
+        ],
+        [
+          "ZAVALA",
+          "4",
+          "129",
+          "66",
+          "63",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "134",
+          "6,200",
+          "3,091",
+          "3,109",
+          "480"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: CONCORDIA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE DE GÁRATE (AGUA CALIENTE)",
+          "4",
+          "368",
+          "180",
+          "188",
+          "29"
+        ],
+        [
+          "AGUA CALIENTE DE JACOBO",
+          "2",
+          "15",
+          "6",
+          "9",
+          "2"
+        ],
+        [
+          "AGUA CALIENTE DEL FAVOR",
+          "3",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "CHARCAS",
+          "2",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "CHIRIMOYOS",
+          "2",
+          "54",
+          "23",
+          "31",
+          "3"
+        ],
+        [
+          "CHUPADEROS",
+          "2",
+          "57",
+          "23",
+          "34",
+          "3"
+        ],
+        [
+          "COPALA",
+          "3",
+          "70",
+          "34",
+          "36",
+          "6"
+        ],
+        [
+          "CUATANTAL",
+          "3",
+          "38",
+          "23",
+          "15",
+          "3"
+        ],
+        [
+          "EJIDO CALERITAS",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL CARDÓN",
+          "2",
+          "13",
+          "5",
+          "8",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "2",
+          "5",
+          "3",
+          "2",
+          "2"
+        ],
+        [
+          "EL HUAJOTE",
+          "3",
+          "271",
+          "144",
+          "127",
+          "27"
+        ],
+        [
+          "EL PALMITO",
+          "4",
+          "159",
+          "82",
+          "77",
+          "22"
+        ],
+        [
+          "EL TIRO",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "EL VERDE",
+          "4",
+          "228",
+          "110",
+          "118",
+          "33"
+        ],
+        [
+          "HABAL DE COPALA",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "HEROICA CIUDAD CONCORDIA",
+          "14",
+          "2,655",
+          "1,341",
+          "1,314",
+          "166"
+        ],
+        [
+          "LA CAPILLA DEL TAXTE",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "LA CONCEPCIÓN (LA BARRIGONA)",
+          "3",
+          "222",
+          "108",
+          "114",
+          "11"
+        ],
+        [
+          "LA EMBOCADA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LA GUÁSIMA",
+          "3",
+          "16",
+          "6",
+          "10",
+          "3"
+        ],
+        [
+          "LA GUAYANERA",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "LA MESA DEL CARRIZAL",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LA PASTORÍA",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "LA PETACA",
+          "4",
+          "192",
+          "93",
+          "99",
+          "12"
+        ],
+        [
+          "LAS IGUANAS",
+          "4",
+          "124",
+          "66",
+          "58",
+          "11"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "LOS CIRUELOS",
+          "3",
+          "11",
+          "3",
+          "8",
+          "3"
+        ],
+        [
+          "LOS NARANJOS",
+          "2",
+          "21",
+          "4",
+          "17",
+          "2"
+        ],
+        [
+          "MAGISTRAL",
+          "3",
+          "36",
+          "10",
+          "26",
+          "4"
+        ],
+        [
+          "MALPICA",
+          "4",
+          "116",
+          "50",
+          "66",
+          "9"
+        ],
+        [
+          "MESILLAS",
+          "3",
+          "361",
+          "167",
+          "194",
+          "27"
+        ],
+        [
+          "PALMILLAS",
+          "3",
+          "33",
+          "17",
+          "16",
+          "3"
+        ],
+        [
+          "PÁNUCO",
+          "4",
+          "134",
+          "74",
+          "60",
+          "11"
+        ],
+        [
+          "PIEDRA BLANCA",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "POTRERILLOS",
+          "5",
+          "241",
+          "126",
+          "115",
+          "20"
+        ],
+        [
+          "SAN JUAN DE JACOBO",
+          "3",
+          "67",
+          "32",
+          "35",
+          "5"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA CATARINA",
+          "4",
+          "91",
+          "50",
+          "41",
+          "8"
+        ],
+        [
+          "SANTA LUCÍA",
+          "3",
+          "83",
+          "40",
+          "43",
+          "6"
+        ],
+        [
+          "SANTA RITA",
+          "2",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "TEPUXTA",
+          "4",
+          "137",
+          "72",
+          "65",
+          "10"
+        ],
+        [
+          "ZAVALA",
+          "4",
+          "129",
+          "66",
+          "63",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "134",
+          "6,200",
+          "3,091",
+          "3,109",
+          "480"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:32:26.206Z"
+}

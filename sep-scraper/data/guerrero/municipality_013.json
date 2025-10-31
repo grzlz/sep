@@ -1,0 +1,538 @@
+{
+  "municipality": "AZOYÚ",
+  "municipalityCode": "013",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: AZOYÚ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARCELIA DEL PROGRESO\n\t\t3\n\t\t240\n\t\t113\n\t\t127\n\t\t20\n\t\n\t\n\t\tAZOYÚ\n\t\t11\n\t\t1,426\n\t\t709\n\t\t717\n\t\t101\n\t\n\t\n\t\tBANCO DE ORO\n\t\t2\n\t\t24\n\t\t8\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL ARENAL (LA PLATAFORMA)\n\t\t3\n\t\t44\n\t\t18\n\t\t26\n\t\t4\n\t\n\t\n\t\tEL CARRIZO\n\t\t4\n\t\t110\n\t\t44\n\t\t66\n\t\t11\n\t\n\t\n\t\tEL MACAHUITE\n\t\t3\n\t\t87\n\t\t47\n\t\t40\n\t\t10\n\t\n\t\n\t\tHUEHUETÁN\n\t\t5\n\t\t435\n\t\t205\n\t\t230\n\t\t27\n\t\n\t\n\t\tLA BOCANA\n\t\t2\n\t\t23\n\t\t7\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA CULEBRA\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PELOTA\n\t\t2\n\t\t44\n\t\t20\n\t\t24\n\t\t3\n\t\n\t\n\t\tLOMAS DEL VIDAL (EL VIDAL)\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t1\n\t\n\t\n\t\tLOS CHEGÜES\n\t\t3\n\t\t31\n\t\t12\n\t\t19\n\t\t3\n\t\n\t\n\t\tLOS METATES\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tLOS QUITERIOS\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tMAXMADI\n\t\t3\n\t\t172\n\t\t86\n\t\t86\n\t\t12\n\t\n\t\n\t\tQUETZALAPA\n\t\t7\n\t\t495\n\t\t265\n\t\t230\n\t\t38\n\t\n\t\n\t\tSAN ISIDRO EL PUENTE (EL PUENTE)\n\t\t3\n\t\t183\n\t\t84\n\t\t99\n\t\t12\n\t\n\t\n\t\tTALAPILLA\n\t\t2\n\t\t56\n\t\t31\n\t\t25\n\t\t4\n\t\n\t\n\t\tTENANGO\n\t\t3\n\t\t86\n\t\t45\n\t\t41\n\t\t8\n\t\n\t\n\t\tZAPOTITLÁN DE LA FUENTE (EL ZAPOTE)\n\t\t3\n\t\t113\n\t\t52\n\t\t61\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t3,630\n\t\t1,773\n\t\t1,857\n\t\t274\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: AZOYÚ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARCELIA DEL PROGRESO",
+          "3",
+          "240",
+          "113",
+          "127",
+          "20",
+          "AZOYÚ",
+          "11",
+          "1,426",
+          "709",
+          "717",
+          "101",
+          "BANCO DE ORO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2",
+          "EL ARENAL (LA PLATAFORMA)",
+          "3",
+          "44",
+          "18",
+          "26",
+          "4",
+          "EL CARRIZO",
+          "4",
+          "110",
+          "44",
+          "66",
+          "11",
+          "EL MACAHUITE",
+          "3",
+          "87",
+          "47",
+          "40",
+          "10",
+          "HUEHUETÁN",
+          "5",
+          "435",
+          "205",
+          "230",
+          "27",
+          "LA BOCANA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3",
+          "LA CULEBRA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "LA PELOTA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3",
+          "LOMAS DEL VIDAL (EL VIDAL)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1",
+          "LOS CHEGÜES",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3",
+          "LOS METATES",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "LOS QUITERIOS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "MAXMADI",
+          "3",
+          "172",
+          "86",
+          "86",
+          "12",
+          "QUETZALAPA",
+          "7",
+          "495",
+          "265",
+          "230",
+          "38",
+          "SAN ISIDRO EL PUENTE (EL PUENTE)",
+          "3",
+          "183",
+          "84",
+          "99",
+          "12",
+          "TALAPILLA",
+          "2",
+          "56",
+          "31",
+          "25",
+          "4",
+          "TENANGO",
+          "3",
+          "86",
+          "45",
+          "41",
+          "8",
+          "ZAPOTITLÁN DE LA FUENTE (EL ZAPOTE)",
+          "3",
+          "113",
+          "52",
+          "61",
+          "11",
+          "TOTAL",
+          "64",
+          "3,630",
+          "1,773",
+          "1,857",
+          "274",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: AZOYÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARCELIA DEL PROGRESO",
+          "3",
+          "240",
+          "113",
+          "127",
+          "20"
+        ],
+        [
+          "AZOYÚ",
+          "11",
+          "1,426",
+          "709",
+          "717",
+          "101"
+        ],
+        [
+          "BANCO DE ORO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL ARENAL (LA PLATAFORMA)",
+          "3",
+          "44",
+          "18",
+          "26",
+          "4"
+        ],
+        [
+          "EL CARRIZO",
+          "4",
+          "110",
+          "44",
+          "66",
+          "11"
+        ],
+        [
+          "EL MACAHUITE",
+          "3",
+          "87",
+          "47",
+          "40",
+          "10"
+        ],
+        [
+          "HUEHUETÁN",
+          "5",
+          "435",
+          "205",
+          "230",
+          "27"
+        ],
+        [
+          "LA BOCANA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "LA CULEBRA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LA PELOTA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "LOMAS DEL VIDAL (EL VIDAL)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "LOS CHEGÜES",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "LOS METATES",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LOS QUITERIOS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "MAXMADI",
+          "3",
+          "172",
+          "86",
+          "86",
+          "12"
+        ],
+        [
+          "QUETZALAPA",
+          "7",
+          "495",
+          "265",
+          "230",
+          "38"
+        ],
+        [
+          "SAN ISIDRO EL PUENTE (EL PUENTE)",
+          "3",
+          "183",
+          "84",
+          "99",
+          "12"
+        ],
+        [
+          "TALAPILLA",
+          "2",
+          "56",
+          "31",
+          "25",
+          "4"
+        ],
+        [
+          "TENANGO",
+          "3",
+          "86",
+          "45",
+          "41",
+          "8"
+        ],
+        [
+          "ZAPOTITLÁN DE LA FUENTE (EL ZAPOTE)",
+          "3",
+          "113",
+          "52",
+          "61",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,630",
+          "1,773",
+          "1,857",
+          "274"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: AZOYÚ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARCELIA DEL PROGRESO",
+          "3",
+          "240",
+          "113",
+          "127",
+          "20"
+        ],
+        [
+          "AZOYÚ",
+          "11",
+          "1,426",
+          "709",
+          "717",
+          "101"
+        ],
+        [
+          "BANCO DE ORO",
+          "2",
+          "24",
+          "8",
+          "16",
+          "2"
+        ],
+        [
+          "EL ARENAL (LA PLATAFORMA)",
+          "3",
+          "44",
+          "18",
+          "26",
+          "4"
+        ],
+        [
+          "EL CARRIZO",
+          "4",
+          "110",
+          "44",
+          "66",
+          "11"
+        ],
+        [
+          "EL MACAHUITE",
+          "3",
+          "87",
+          "47",
+          "40",
+          "10"
+        ],
+        [
+          "HUEHUETÁN",
+          "5",
+          "435",
+          "205",
+          "230",
+          "27"
+        ],
+        [
+          "LA BOCANA",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "LA CULEBRA",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LA PELOTA",
+          "2",
+          "44",
+          "20",
+          "24",
+          "3"
+        ],
+        [
+          "LOMAS DEL VIDAL (EL VIDAL)",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "LOS CHEGÜES",
+          "3",
+          "31",
+          "12",
+          "19",
+          "3"
+        ],
+        [
+          "LOS METATES",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LOS QUITERIOS",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "MAXMADI",
+          "3",
+          "172",
+          "86",
+          "86",
+          "12"
+        ],
+        [
+          "QUETZALAPA",
+          "7",
+          "495",
+          "265",
+          "230",
+          "38"
+        ],
+        [
+          "SAN ISIDRO EL PUENTE (EL PUENTE)",
+          "3",
+          "183",
+          "84",
+          "99",
+          "12"
+        ],
+        [
+          "TALAPILLA",
+          "2",
+          "56",
+          "31",
+          "25",
+          "4"
+        ],
+        [
+          "TENANGO",
+          "3",
+          "86",
+          "45",
+          "41",
+          "8"
+        ],
+        [
+          "ZAPOTITLÁN DE LA FUENTE (EL ZAPOTE)",
+          "3",
+          "113",
+          "52",
+          "61",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,630",
+          "1,773",
+          "1,857",
+          "274"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:11.515Z"
+}

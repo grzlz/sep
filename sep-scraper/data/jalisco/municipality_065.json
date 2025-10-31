@@ -1,0 +1,670 @@
+{
+  "municipality": "PIHUAMO",
+  "municipalityCode": "065",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PIHUAMO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRERAS\n\t\t3\n\t\t81\n\t\t36\n\t\t45\n\t\t6\n\t\n\t\n\t\tCOLOMOS\n\t\t1\n\t\t12\n\t\t9\n\t\t3\n\t\t1\n\t\n\t\n\t\tCRUCERO DEL NARANJO\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL AGOSTADERO\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t4\n\t\n\t\n\t\tEL ESPINO\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL GALÁN\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tEL GUAYABO\n\t\t3\n\t\t33\n\t\t21\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL NARANJO\n\t\t3\n\t\t47\n\t\t25\n\t\t22\n\t\t4\n\t\n\t\n\t\tEL PLATANAR\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL POZO SANTO (CRUCERO DEL TULE)\n\t\t2\n\t\t63\n\t\t30\n\t\t33\n\t\t4\n\t\n\t\n\t\tEL QUEMADO\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL VALLECITO\n\t\t2\n\t\t32\n\t\t16\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL ZAPOTE\n\t\t3\n\t\t5\n\t\t2\n\t\t3\n\t\t2\n\t\n\t\n\t\tHUIZACHES\n\t\t3\n\t\t48\n\t\t23\n\t\t25\n\t\t4\n\t\n\t\n\t\tLA ESTANCIA\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA ESTRELLA\n\t\t3\n\t\t129\n\t\t65\n\t\t64\n\t\t9\n\t\n\t\n\t\tLA SIDRA\n\t\t1\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS NARANJAS\n\t\t2\n\t\t18\n\t\t12\n\t\t6\n\t\t2\n\t\n\t\n\t\tLÁZARO CÁRDENAS (AGUA ESCONDIDA)\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS MOJOS DE ABAJO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tPIHUAMO\n\t\t14\n\t\t1,892\n\t\t944\n\t\t948\n\t\t97\n\t\n\t\n\t\tPUENTE DE FÁTIMA\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL TULE\n\t\t3\n\t\t176\n\t\t89\n\t\t87\n\t\t11\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t32\n\t\t17\n\t\t15\n\t\t4\n\t\n\t\n\t\tSANTA ROSA DE LIMA\n\t\t3\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tSIDRA DE LOS COLOMOS (LA SIDRA)\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t65\n\t\t2,707\n\t\t1,356\n\t\t1,351\n\t\t169\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PIHUAMO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRERAS",
+          "3",
+          "81",
+          "36",
+          "45",
+          "6",
+          "COLOMOS",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1",
+          "CRUCERO DEL NARANJO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "EL AGOSTADERO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4",
+          "EL ESPINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL GALÁN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "EL GUAYABO",
+          "3",
+          "33",
+          "21",
+          "12",
+          "3",
+          "EL NARANJO",
+          "3",
+          "47",
+          "25",
+          "22",
+          "4",
+          "EL PLATANAR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "EL POZO SANTO (CRUCERO DEL TULE)",
+          "2",
+          "63",
+          "30",
+          "33",
+          "4",
+          "EL QUEMADO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "EL VALLECITO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2",
+          "EL ZAPOTE",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2",
+          "HUIZACHES",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4",
+          "LA ESTANCIA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LA ESTRELLA",
+          "3",
+          "129",
+          "65",
+          "64",
+          "9",
+          "LA SIDRA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1",
+          "LAS NARANJAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2",
+          "LÁZARO CÁRDENAS (AGUA ESCONDIDA)",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "LOS MOJOS DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "PIHUAMO",
+          "14",
+          "1,892",
+          "944",
+          "948",
+          "97",
+          "PUENTE DE FÁTIMA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "SAN JOSÉ DEL TULE",
+          "3",
+          "176",
+          "89",
+          "87",
+          "11",
+          "SANTA CRUZ",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4",
+          "SANTA ROSA DE LIMA",
+          "3",
+          "7",
+          "3",
+          "4",
+          "2",
+          "SIDRA DE LOS COLOMOS (LA SIDRA)",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "TOTAL",
+          "65",
+          "2,707",
+          "1,356",
+          "1,351",
+          "169",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PIHUAMO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRERAS",
+          "3",
+          "81",
+          "36",
+          "45",
+          "6"
+        ],
+        [
+          "COLOMOS",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "CRUCERO DEL NARANJO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL AGOSTADERO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "EL ESPINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL GALÁN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "EL GUAYABO",
+          "3",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "EL NARANJO",
+          "3",
+          "47",
+          "25",
+          "22",
+          "4"
+        ],
+        [
+          "EL PLATANAR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL POZO SANTO (CRUCERO DEL TULE)",
+          "2",
+          "63",
+          "30",
+          "33",
+          "4"
+        ],
+        [
+          "EL QUEMADO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL VALLECITO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "HUIZACHES",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA ESTRELLA",
+          "3",
+          "129",
+          "65",
+          "64",
+          "9"
+        ],
+        [
+          "LA SIDRA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LAS NARANJAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS (AGUA ESCONDIDA)",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LOS MOJOS DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "PIHUAMO",
+          "14",
+          "1,892",
+          "944",
+          "948",
+          "97"
+        ],
+        [
+          "PUENTE DE FÁTIMA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL TULE",
+          "3",
+          "176",
+          "89",
+          "87",
+          "11"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "SANTA ROSA DE LIMA",
+          "3",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "SIDRA DE LOS COLOMOS (LA SIDRA)",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "65",
+          "2,707",
+          "1,356",
+          "1,351",
+          "169"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: PIHUAMO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRERAS",
+          "3",
+          "81",
+          "36",
+          "45",
+          "6"
+        ],
+        [
+          "COLOMOS",
+          "1",
+          "12",
+          "9",
+          "3",
+          "1"
+        ],
+        [
+          "CRUCERO DEL NARANJO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL AGOSTADERO",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "EL ESPINO",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL GALÁN",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "EL GUAYABO",
+          "3",
+          "33",
+          "21",
+          "12",
+          "3"
+        ],
+        [
+          "EL NARANJO",
+          "3",
+          "47",
+          "25",
+          "22",
+          "4"
+        ],
+        [
+          "EL PLATANAR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL POZO SANTO (CRUCERO DEL TULE)",
+          "2",
+          "63",
+          "30",
+          "33",
+          "4"
+        ],
+        [
+          "EL QUEMADO",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "EL VALLECITO",
+          "2",
+          "32",
+          "16",
+          "16",
+          "2"
+        ],
+        [
+          "EL ZAPOTE",
+          "3",
+          "5",
+          "2",
+          "3",
+          "2"
+        ],
+        [
+          "HUIZACHES",
+          "3",
+          "48",
+          "23",
+          "25",
+          "4"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA ESTRELLA",
+          "3",
+          "129",
+          "65",
+          "64",
+          "9"
+        ],
+        [
+          "LA SIDRA",
+          "1",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "LAS NARANJAS",
+          "2",
+          "18",
+          "12",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS (AGUA ESCONDIDA)",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "LOS MOJOS DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "PIHUAMO",
+          "14",
+          "1,892",
+          "944",
+          "948",
+          "97"
+        ],
+        [
+          "PUENTE DE FÁTIMA",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL TULE",
+          "3",
+          "176",
+          "89",
+          "87",
+          "11"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "32",
+          "17",
+          "15",
+          "4"
+        ],
+        [
+          "SANTA ROSA DE LIMA",
+          "3",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "SIDRA DE LOS COLOMOS (LA SIDRA)",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "65",
+          "2,707",
+          "1,356",
+          "1,351",
+          "169"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:16:07.988Z"
+}

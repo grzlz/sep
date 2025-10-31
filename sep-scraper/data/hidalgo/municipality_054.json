@@ -1,0 +1,956 @@
+{
+  "municipality": "SAN SALVADOR",
+  "municipalityCode": "054",
+  "state": "HIDALGO",
+  "stateCode": "13",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATLÁN\n\tACAXOCHITLÁN\n\tACTOPAN\n\tAGUA BLANCA DE ITURBIDE\n\tAJACUBA\n\tALFAJAYUCAN\n\tALMOLOYA\n\tAPAN\n\tATITALAQUIA\n\tATLAPEXCO\n\tATOTONILCO DE TULA\n\tATOTONILCO EL GRANDE\n\tCALNALI\n\tCARDONAL\n\tCHAPANTONGO\n\tCHAPULHUACÁN\n\tCHILCUAUTLA\n\tCUAUTEPEC DE HINOJOSA\n\tEL ARENAL\n\tELOXOCHITLÁN\n\tEMILIANO ZAPATA\n\tEPAZOYUCAN\n\tFRANCISCO I. MADERO\n\tHUASCA DE OCAMPO\n\tHUAUTLA\n\tHUAZALINGO\n\tHUEHUETLA\n\tHUEJUTLA DE REYES\n\tHUICHAPAN\n\tIXMIQUILPAN\n\tJACALA DE LEDEZMA\n\tJALTOCÁN\n\tJUÁREZ HIDALGO\n\tLA MISIÓN\n\tLOLOTLA\n\tMETEPEC\n\tMETZTITLÁN\n\tMINERAL DE LA REFORMA\n\tMINERAL DEL CHICO\n\tMINERAL DEL MONTE\n\tMIXQUIAHUALA DE JUÁREZ\n\tMOLANGO DE ESCAMILLA\n\tNICOLÁS FLORES\n\tNOPALA DE VILLAGRÁN\n\tOMITLÁN DE JUÁREZ\n\tPACHUCA DE SOTO\n\tPACULA\n\tPISAFLORES\n\tPROGRESO DE OBREGÓN\n\tSAN AGUSTÍN METZQUITITLÁN\n\tSAN AGUSTÍN TLAXIACA\n\tSAN BARTOLO TUTOTEPEC\n\tSAN FELIPE ORIZATLÁN\n\tSAN SALVADOR\n\tSANTIAGO DE ANAYA\n\tSANTIAGO TULANTEPEC DE LUGO GUERRERO\n\tSINGUILUCAN\n\tTASQUILLO\n\tTECOZAUTLA\n\tTENANGO DE DORIA\n\tTEPEAPULCO\n\tTEPEHUACÁN DE GUERRERO\n\tTEPEJI DEL RÍO DE OCAMPO\n\tTEPETITLÁN\n\tTETEPANGO\n\tTEZONTEPEC DE ALDAMA\n\tTIANGUISTENGO\n\tTIZAYUCA\n\tTLAHUELILPAN\n\tTLAHUILTEPA\n\tTLANALAPA\n\tTLANCHINOL\n\tTLAXCOAPAN\n\tTOLCAYUCA\n\tTULA DE ALLENDE\n\tTULANCINGO DE BRAVO\n\tVILLA DE TEZONTEPEC\n\tXOCHIATIPAN\n\tXOCHICOATLÁN\n\tYAHUALICA\n\tZACUALTIPÁN DE ÁNGELES\n\tZAPOTLÁN DE JUÁREZ\n\tZEMPOALA\n\tZIMAPÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SAN SALVADOR\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBOCAJA\n\t\t2\n\t\t76\n\t\t41\n\t\t35\n\t\t7\n\t\n\t\n\t\tBOMINTHZA\n\t\t2\n\t\t52\n\t\t28\n\t\t24\n\t\t5\n\t\n\t\n\t\tBOXAXNI\n\t\t2\n\t\t131\n\t\t61\n\t\t70\n\t\t7\n\t\n\t\n\t\tBÓXTHA CHICO\n\t\t2\n\t\t32\n\t\t15\n\t\t17\n\t\t2\n\t\n\t\n\t\tCAÑADA GRANDE\n\t\t2\n\t\t115\n\t\t57\n\t\t58\n\t\t7\n\t\n\t\n\t\tCASA BLANCA\n\t\t1\n\t\t23\n\t\t15\n\t\t8\n\t\t2\n\t\n\t\n\t\tCASA GRANDE\n\t\t2\n\t\t61\n\t\t27\n\t\t34\n\t\t4\n\t\n\t\n\t\tCAXUXI\n\t\t3\n\t\t737\n\t\t364\n\t\t373\n\t\t36\n\t\n\t\n\t\tCERRO BLANCO\n\t\t2\n\t\t29\n\t\t18\n\t\t11\n\t\t4\n\t\n\t\n\t\tCHICHIMECAS\n\t\t3\n\t\t75\n\t\t35\n\t\t40\n\t\t9\n\t\n\t\n\t\tDEMACU\n\t\t2\n\t\t97\n\t\t51\n\t\t46\n\t\t8\n\t\n\t\n\t\tDENGANDHÓ DE JUÁREZ\n\t\t2\n\t\t94\n\t\t56\n\t\t38\n\t\t8\n\t\n\t\n\t\tDÉXTHO DE VICTORIA\n\t\t3\n\t\t153\n\t\t82\n\t\t71\n\t\t11\n\t\n\t\n\t\tEL BONDHO\n\t\t2\n\t\t75\n\t\t31\n\t\t44\n\t\t6\n\t\n\t\n\t\tEL COLORADO\n\t\t2\n\t\t131\n\t\t57\n\t\t74\n\t\t8\n\t\n\t\n\t\tEL FRESNO\n\t\t2\n\t\t75\n\t\t34\n\t\t41\n\t\t8\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t2\n\t\t55\n\t\t28\n\t\t27\n\t\t5\n\t\n\t\n\t\tEL MOTHÉ\n\t\t2\n\t\t118\n\t\t62\n\t\t56\n\t\t8\n\t\n\t\n\t\tEL OLVERA\n\t\t2\n\t\t92\n\t\t55\n\t\t37\n\t\t7\n\t\n\t\n\t\tEL PUERTO LÁZARO CÁRDENAS\n\t\t2\n\t\t90\n\t\t45\n\t\t45\n\t\t8\n\t\n\t\n\t\tEL RODRIGO\n\t\t2\n\t\t77\n\t\t29\n\t\t48\n\t\t6\n\t\n\t\n\t\tEL TABLÓN\n\t\t2\n\t\t81\n\t\t42\n\t\t39\n\t\t7\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t36\n\t\t15\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA FLOR\n\t\t3\n\t\t83\n\t\t43\n\t\t40\n\t\t6\n\t\n\t\n\t\tLAGUNILLA\n\t\t4\n\t\t286\n\t\t122\n\t\t164\n\t\t13\n\t\n\t\n\t\tLEANDRO VALLE\n\t\t2\n\t\t118\n\t\t47\n\t\t71\n\t\t7\n\t\n\t\n\t\tPACHECO DE ALLENDE\n\t\t2\n\t\t66\n\t\t31\n\t\t35\n\t\t7\n\t\n\t\n\t\tPOXINDEJE DE MORELOS\n\t\t4\n\t\t1,331\n\t\t841\n\t\t490\n\t\t115\n\t\n\t\n\t\tQUEMTHA\n\t\t2\n\t\t117\n\t\t62\n\t\t55\n\t\t9\n\t\n\t\n\t\tRINCÓN SANTA MARÍA\n\t\t3\n\t\t25\n\t\t11\n\t\t14\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO ABAD\n\t\t2\n\t\t21\n\t\t6\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO ZARAGOZA\n\t\t5\n\t\t830\n\t\t423\n\t\t407\n\t\t42\n\t\n\t\n\t\tSAN MIGUEL ACAMBAY\n\t\t3\n\t\t168\n\t\t81\n\t\t87\n\t\t11\n\t\n\t\n\t\tSAN SALVADOR\n\t\t5\n\t\t547\n\t\t266\n\t\t281\n\t\t34\n\t\n\t\n\t\tSANTA MARÍA AMAJAC\n\t\t7\n\t\t1,193\n\t\t587\n\t\t606\n\t\t59\n\t\n\t\n\t\tTEOFANI\n\t\t2\n\t\t132\n\t\t57\n\t\t75\n\t\t8\n\t\n\t\n\t\tTOTHIE DE ROJO GÓMEZ\n\t\t2\n\t\t91\n\t\t48\n\t\t43\n\t\t7\n\t\n\t\n\t\tVIXTHA DE MADERO\n\t\t2\n\t\t86\n\t\t42\n\t\t44\n\t\t6\n\t\n\t\n\t\tXUCHITLÁN\n\t\t4\n\t\t574\n\t\t274\n\t\t300\n\t\t32\n\t\n\t\n\t\tTOTAL\n\t\t100\n\t\t8,173\n\t\t4,189\n\t\t3,984\n\t\t539\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SAN SALVADOR",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BOCAJA",
+          "2",
+          "76",
+          "41",
+          "35",
+          "7",
+          "BOMINTHZA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "5",
+          "BOXAXNI",
+          "2",
+          "131",
+          "61",
+          "70",
+          "7",
+          "BÓXTHA CHICO",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2",
+          "CAÑADA GRANDE",
+          "2",
+          "115",
+          "57",
+          "58",
+          "7",
+          "CASA BLANCA",
+          "1",
+          "23",
+          "15",
+          "8",
+          "2",
+          "CASA GRANDE",
+          "2",
+          "61",
+          "27",
+          "34",
+          "4",
+          "CAXUXI",
+          "3",
+          "737",
+          "364",
+          "373",
+          "36",
+          "CERRO BLANCO",
+          "2",
+          "29",
+          "18",
+          "11",
+          "4",
+          "CHICHIMECAS",
+          "3",
+          "75",
+          "35",
+          "40",
+          "9",
+          "DEMACU",
+          "2",
+          "97",
+          "51",
+          "46",
+          "8",
+          "DENGANDHÓ DE JUÁREZ",
+          "2",
+          "94",
+          "56",
+          "38",
+          "8",
+          "DÉXTHO DE VICTORIA",
+          "3",
+          "153",
+          "82",
+          "71",
+          "11",
+          "EL BONDHO",
+          "2",
+          "75",
+          "31",
+          "44",
+          "6",
+          "EL COLORADO",
+          "2",
+          "131",
+          "57",
+          "74",
+          "8",
+          "EL FRESNO",
+          "2",
+          "75",
+          "34",
+          "41",
+          "8",
+          "EL MEZQUITAL",
+          "2",
+          "55",
+          "28",
+          "27",
+          "5",
+          "EL MOTHÉ",
+          "2",
+          "118",
+          "62",
+          "56",
+          "8",
+          "EL OLVERA",
+          "2",
+          "92",
+          "55",
+          "37",
+          "7",
+          "EL PUERTO LÁZARO CÁRDENAS",
+          "2",
+          "90",
+          "45",
+          "45",
+          "8",
+          "EL RODRIGO",
+          "2",
+          "77",
+          "29",
+          "48",
+          "6",
+          "EL TABLÓN",
+          "2",
+          "81",
+          "42",
+          "39",
+          "7",
+          "FRANCISCO VILLA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4",
+          "LA FLOR",
+          "3",
+          "83",
+          "43",
+          "40",
+          "6",
+          "LAGUNILLA",
+          "4",
+          "286",
+          "122",
+          "164",
+          "13",
+          "LEANDRO VALLE",
+          "2",
+          "118",
+          "47",
+          "71",
+          "7",
+          "PACHECO DE ALLENDE",
+          "2",
+          "66",
+          "31",
+          "35",
+          "7",
+          "POXINDEJE DE MORELOS",
+          "4",
+          "1,331",
+          "841",
+          "490",
+          "115",
+          "QUEMTHA",
+          "2",
+          "117",
+          "62",
+          "55",
+          "9",
+          "RINCÓN SANTA MARÍA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3",
+          "SAN ANTONIO ABAD",
+          "2",
+          "21",
+          "6",
+          "15",
+          "3",
+          "SAN ANTONIO ZARAGOZA",
+          "5",
+          "830",
+          "423",
+          "407",
+          "42",
+          "SAN MIGUEL ACAMBAY",
+          "3",
+          "168",
+          "81",
+          "87",
+          "11",
+          "SAN SALVADOR",
+          "5",
+          "547",
+          "266",
+          "281",
+          "34",
+          "SANTA MARÍA AMAJAC",
+          "7",
+          "1,193",
+          "587",
+          "606",
+          "59",
+          "TEOFANI",
+          "2",
+          "132",
+          "57",
+          "75",
+          "8",
+          "TOTHIE DE ROJO GÓMEZ",
+          "2",
+          "91",
+          "48",
+          "43",
+          "7",
+          "VIXTHA DE MADERO",
+          "2",
+          "86",
+          "42",
+          "44",
+          "6",
+          "XUCHITLÁN",
+          "4",
+          "574",
+          "274",
+          "300",
+          "32",
+          "TOTAL",
+          "100",
+          "8,173",
+          "4,189",
+          "3,984",
+          "539",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SAN SALVADOR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCAJA",
+          "2",
+          "76",
+          "41",
+          "35",
+          "7"
+        ],
+        [
+          "BOMINTHZA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "5"
+        ],
+        [
+          "BOXAXNI",
+          "2",
+          "131",
+          "61",
+          "70",
+          "7"
+        ],
+        [
+          "BÓXTHA CHICO",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "CAÑADA GRANDE",
+          "2",
+          "115",
+          "57",
+          "58",
+          "7"
+        ],
+        [
+          "CASA BLANCA",
+          "1",
+          "23",
+          "15",
+          "8",
+          "2"
+        ],
+        [
+          "CASA GRANDE",
+          "2",
+          "61",
+          "27",
+          "34",
+          "4"
+        ],
+        [
+          "CAXUXI",
+          "3",
+          "737",
+          "364",
+          "373",
+          "36"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "29",
+          "18",
+          "11",
+          "4"
+        ],
+        [
+          "CHICHIMECAS",
+          "3",
+          "75",
+          "35",
+          "40",
+          "9"
+        ],
+        [
+          "DEMACU",
+          "2",
+          "97",
+          "51",
+          "46",
+          "8"
+        ],
+        [
+          "DENGANDHÓ DE JUÁREZ",
+          "2",
+          "94",
+          "56",
+          "38",
+          "8"
+        ],
+        [
+          "DÉXTHO DE VICTORIA",
+          "3",
+          "153",
+          "82",
+          "71",
+          "11"
+        ],
+        [
+          "EL BONDHO",
+          "2",
+          "75",
+          "31",
+          "44",
+          "6"
+        ],
+        [
+          "EL COLORADO",
+          "2",
+          "131",
+          "57",
+          "74",
+          "8"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "75",
+          "34",
+          "41",
+          "8"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "55",
+          "28",
+          "27",
+          "5"
+        ],
+        [
+          "EL MOTHÉ",
+          "2",
+          "118",
+          "62",
+          "56",
+          "8"
+        ],
+        [
+          "EL OLVERA",
+          "2",
+          "92",
+          "55",
+          "37",
+          "7"
+        ],
+        [
+          "EL PUERTO LÁZARO CÁRDENAS",
+          "2",
+          "90",
+          "45",
+          "45",
+          "8"
+        ],
+        [
+          "EL RODRIGO",
+          "2",
+          "77",
+          "29",
+          "48",
+          "6"
+        ],
+        [
+          "EL TABLÓN",
+          "2",
+          "81",
+          "42",
+          "39",
+          "7"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "LA FLOR",
+          "3",
+          "83",
+          "43",
+          "40",
+          "6"
+        ],
+        [
+          "LAGUNILLA",
+          "4",
+          "286",
+          "122",
+          "164",
+          "13"
+        ],
+        [
+          "LEANDRO VALLE",
+          "2",
+          "118",
+          "47",
+          "71",
+          "7"
+        ],
+        [
+          "PACHECO DE ALLENDE",
+          "2",
+          "66",
+          "31",
+          "35",
+          "7"
+        ],
+        [
+          "POXINDEJE DE MORELOS",
+          "4",
+          "1,331",
+          "841",
+          "490",
+          "115"
+        ],
+        [
+          "QUEMTHA",
+          "2",
+          "117",
+          "62",
+          "55",
+          "9"
+        ],
+        [
+          "RINCÓN SANTA MARÍA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "SAN ANTONIO ABAD",
+          "2",
+          "21",
+          "6",
+          "15",
+          "3"
+        ],
+        [
+          "SAN ANTONIO ZARAGOZA",
+          "5",
+          "830",
+          "423",
+          "407",
+          "42"
+        ],
+        [
+          "SAN MIGUEL ACAMBAY",
+          "3",
+          "168",
+          "81",
+          "87",
+          "11"
+        ],
+        [
+          "SAN SALVADOR",
+          "5",
+          "547",
+          "266",
+          "281",
+          "34"
+        ],
+        [
+          "SANTA MARÍA AMAJAC",
+          "7",
+          "1,193",
+          "587",
+          "606",
+          "59"
+        ],
+        [
+          "TEOFANI",
+          "2",
+          "132",
+          "57",
+          "75",
+          "8"
+        ],
+        [
+          "TOTHIE DE ROJO GÓMEZ",
+          "2",
+          "91",
+          "48",
+          "43",
+          "7"
+        ],
+        [
+          "VIXTHA DE MADERO",
+          "2",
+          "86",
+          "42",
+          "44",
+          "6"
+        ],
+        [
+          "XUCHITLÁN",
+          "4",
+          "574",
+          "274",
+          "300",
+          "32"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "8,173",
+          "4,189",
+          "3,984",
+          "539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: HIDALGO;    MUNICIPIO: SAN SALVADOR"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BOCAJA",
+          "2",
+          "76",
+          "41",
+          "35",
+          "7"
+        ],
+        [
+          "BOMINTHZA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "5"
+        ],
+        [
+          "BOXAXNI",
+          "2",
+          "131",
+          "61",
+          "70",
+          "7"
+        ],
+        [
+          "BÓXTHA CHICO",
+          "2",
+          "32",
+          "15",
+          "17",
+          "2"
+        ],
+        [
+          "CAÑADA GRANDE",
+          "2",
+          "115",
+          "57",
+          "58",
+          "7"
+        ],
+        [
+          "CASA BLANCA",
+          "1",
+          "23",
+          "15",
+          "8",
+          "2"
+        ],
+        [
+          "CASA GRANDE",
+          "2",
+          "61",
+          "27",
+          "34",
+          "4"
+        ],
+        [
+          "CAXUXI",
+          "3",
+          "737",
+          "364",
+          "373",
+          "36"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "29",
+          "18",
+          "11",
+          "4"
+        ],
+        [
+          "CHICHIMECAS",
+          "3",
+          "75",
+          "35",
+          "40",
+          "9"
+        ],
+        [
+          "DEMACU",
+          "2",
+          "97",
+          "51",
+          "46",
+          "8"
+        ],
+        [
+          "DENGANDHÓ DE JUÁREZ",
+          "2",
+          "94",
+          "56",
+          "38",
+          "8"
+        ],
+        [
+          "DÉXTHO DE VICTORIA",
+          "3",
+          "153",
+          "82",
+          "71",
+          "11"
+        ],
+        [
+          "EL BONDHO",
+          "2",
+          "75",
+          "31",
+          "44",
+          "6"
+        ],
+        [
+          "EL COLORADO",
+          "2",
+          "131",
+          "57",
+          "74",
+          "8"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "75",
+          "34",
+          "41",
+          "8"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "55",
+          "28",
+          "27",
+          "5"
+        ],
+        [
+          "EL MOTHÉ",
+          "2",
+          "118",
+          "62",
+          "56",
+          "8"
+        ],
+        [
+          "EL OLVERA",
+          "2",
+          "92",
+          "55",
+          "37",
+          "7"
+        ],
+        [
+          "EL PUERTO LÁZARO CÁRDENAS",
+          "2",
+          "90",
+          "45",
+          "45",
+          "8"
+        ],
+        [
+          "EL RODRIGO",
+          "2",
+          "77",
+          "29",
+          "48",
+          "6"
+        ],
+        [
+          "EL TABLÓN",
+          "2",
+          "81",
+          "42",
+          "39",
+          "7"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "LA FLOR",
+          "3",
+          "83",
+          "43",
+          "40",
+          "6"
+        ],
+        [
+          "LAGUNILLA",
+          "4",
+          "286",
+          "122",
+          "164",
+          "13"
+        ],
+        [
+          "LEANDRO VALLE",
+          "2",
+          "118",
+          "47",
+          "71",
+          "7"
+        ],
+        [
+          "PACHECO DE ALLENDE",
+          "2",
+          "66",
+          "31",
+          "35",
+          "7"
+        ],
+        [
+          "POXINDEJE DE MORELOS",
+          "4",
+          "1,331",
+          "841",
+          "490",
+          "115"
+        ],
+        [
+          "QUEMTHA",
+          "2",
+          "117",
+          "62",
+          "55",
+          "9"
+        ],
+        [
+          "RINCÓN SANTA MARÍA",
+          "3",
+          "25",
+          "11",
+          "14",
+          "3"
+        ],
+        [
+          "SAN ANTONIO ABAD",
+          "2",
+          "21",
+          "6",
+          "15",
+          "3"
+        ],
+        [
+          "SAN ANTONIO ZARAGOZA",
+          "5",
+          "830",
+          "423",
+          "407",
+          "42"
+        ],
+        [
+          "SAN MIGUEL ACAMBAY",
+          "3",
+          "168",
+          "81",
+          "87",
+          "11"
+        ],
+        [
+          "SAN SALVADOR",
+          "5",
+          "547",
+          "266",
+          "281",
+          "34"
+        ],
+        [
+          "SANTA MARÍA AMAJAC",
+          "7",
+          "1,193",
+          "587",
+          "606",
+          "59"
+        ],
+        [
+          "TEOFANI",
+          "2",
+          "132",
+          "57",
+          "75",
+          "8"
+        ],
+        [
+          "TOTHIE DE ROJO GÓMEZ",
+          "2",
+          "91",
+          "48",
+          "43",
+          "7"
+        ],
+        [
+          "VIXTHA DE MADERO",
+          "2",
+          "86",
+          "42",
+          "44",
+          "6"
+        ],
+        [
+          "XUCHITLÁN",
+          "4",
+          "574",
+          "274",
+          "300",
+          "32"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "8,173",
+          "4,189",
+          "3,984",
+          "539"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:09.666Z"
+}

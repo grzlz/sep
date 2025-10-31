@@ -1,0 +1,1198 @@
+{
+  "municipality": "LÁZARO CÁRDENAS",
+  "municipalityCode": "052",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LÁZARO CÁRDENAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACALPICAN DE MORELOS\n\t\t4\n\t\t369\n\t\t182\n\t\t187\n\t\t26\n\t\n\t\n\t\tBAHÍA BUFADERO (CALETA DE CAMPOS)\n\t\t6\n\t\t816\n\t\t416\n\t\t400\n\t\t43\n\t\n\t\n\t\tBORDONAL\n\t\t3\n\t\t135\n\t\t55\n\t\t80\n\t\t12\n\t\n\t\n\t\tBRISAMAR\n\t\t1\n\t\t68\n\t\t30\n\t\t38\n\t\t6\n\t\n\t\n\t\tBRUNO CUEVAS\n\t\t1\n\t\t60\n\t\t28\n\t\t32\n\t\t3\n\t\n\t\n\t\tBUENOS AIRES\n\t\t10\n\t\t1,726\n\t\t865\n\t\t861\n\t\t101\n\t\n\t\n\t\tCAMICHINES\n\t\t1\n\t\t12\n\t\t10\n\t\t2\n\t\t1\n\t\n\t\n\t\tCHUCUTITÁN\n\t\t4\n\t\t423\n\t\t219\n\t\t204\n\t\t25\n\t\n\t\n\t\tCHUQUIAPAN\n\t\t4\n\t\t90\n\t\t37\n\t\t53\n\t\t12\n\t\n\t\n\t\tCHUTA\n\t\t1\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tCIUDAD LÁZARO CÁRDENAS\n\t\t156\n\t\t28,605\n\t\t14,281\n\t\t14,324\n\t\t2,060\n\t\n\t\n\t\tEL AHIJADERO\n\t\t1\n\t\t114\n\t\t57\n\t\t57\n\t\t6\n\t\n\t\n\t\tEL ARENAL\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL BORDÓN DE POPOYUTA (LOS BORDONES)\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL COLOMO (SAN MIGUEL)\n\t\t2\n\t\t38\n\t\t15\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL GUAYABO SUR\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL HABILLAL\n\t\t5\n\t\t422\n\t\t199\n\t\t223\n\t\t27\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t105\n\t\t40\n\t\t65\n\t\t6\n\t\n\t\n\t\tEL NARANJITO\n\t\t2\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL REYNO\n\t\t2\n\t\t35\n\t\t22\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL TAHUAZAL\n\t\t4\n\t\t162\n\t\t78\n\t\t84\n\t\t12\n\t\n\t\n\t\tLA MANZANILLA UNO\n\t\t1\n\t\t21\n\t\t12\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA MIRA\n\t\t21\n\t\t2,780\n\t\t1,349\n\t\t1,431\n\t\t190\n\t\n\t\n\t\tLA ORILLA\n\t\t11\n\t\t1,893\n\t\t926\n\t\t967\n\t\t127\n\t\n\t\n\t\tLA PALMITA\n\t\t1\n\t\t66\n\t\t25\n\t\t41\n\t\t6\n\t\n\t\n\t\tLA SOLEDAD\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA VILLITA\n\t\t3\n\t\t411\n\t\t190\n\t\t221\n\t\t22\n\t\n\t\n\t\tLAS CALABACILLAS\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS CALABAZAS\n\t\t1\n\t\t8\n\t\t6\n\t\t2\n\t\t2\n\t\n\t\n\t\tLAS GUACAMAYAS\n\t\t77\n\t\t12,689\n\t\t6,504\n\t\t6,185\n\t\t790\n\t\n\t\n\t\tLAS HIGUERAS\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tLAS MESAS DEL LIMÓN\n\t\t1\n\t\t46\n\t\t25\n\t\t21\n\t\t4\n\t\n\t\n\t\tLAS PEÑAS\n\t\t2\n\t\t27\n\t\t17\n\t\t10\n\t\t3\n\t\n\t\n\t\tLOS AMATES\n\t\t3\n\t\t52\n\t\t21\n\t\t31\n\t\t7\n\t\n\t\n\t\tLOS COYOTES\n\t\t4\n\t\t283\n\t\t131\n\t\t152\n\t\t20\n\t\n\t\n\t\tLOS LLANOS DEL BEJUCO\n\t\t3\n\t\t57\n\t\t27\n\t\t30\n\t\t10\n\t\n\t\n\t\tMEXCALHUACÁN\n\t\t3\n\t\t158\n\t\t61\n\t\t97\n\t\t10\n\t\n\t\n\t\tMOVIMIENTO URBANO POPULAR [COLONIA]\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tNEXPA (NEIXPA)\n\t\t3\n\t\t66\n\t\t31\n\t\t35\n\t\t7\n\t\n\t\n\t\tPLAYA AZUL\n\t\t6\n\t\t637\n\t\t306\n\t\t331\n\t\t44\n\t\n\t\n\t\tPLAYA DE GUERRA\n\t\t1\n\t\t33\n\t\t13\n\t\t20\n\t\t3\n\t\n\t\n\t\tPOPOYUTA\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tPUENTE DE LA VÍA\n\t\t2\n\t\t163\n\t\t86\n\t\t77\n\t\t12\n\t\n\t\n\t\tPUERTO NUEVO\n\t\t1\n\t\t106\n\t\t56\n\t\t50\n\t\t6\n\t\n\t\n\t\tRANCHO PANAMÁ\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN BLAS\n\t\t1\n\t\t246\n\t\t108\n\t\t138\n\t\t14\n\t\n\t\n\t\tSAN JUAN BOSCO\n\t\t3\n\t\t162\n\t\t75\n\t\t87\n\t\t13\n\t\n\t\n\t\tSAN RAFAEL\n\t\t4\n\t\t145\n\t\t84\n\t\t61\n\t\t17\n\t\n\t\n\t\tSOLERA DE AGUA\n\t\t2\n\t\t65\n\t\t29\n\t\t36\n\t\t6\n\t\n\t\n\t\tTEOLÁN\n\t\t3\n\t\t40\n\t\t21\n\t\t19\n\t\t5\n\t\n\t\n\t\tTOTAL\n\t\t375\n\t\t53,445\n\t\t26,695\n\t\t26,750\n\t\t3,681\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LÁZARO CÁRDENAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACALPICAN DE MORELOS",
+          "4",
+          "369",
+          "182",
+          "187",
+          "26",
+          "BAHÍA BUFADERO (CALETA DE CAMPOS)",
+          "6",
+          "816",
+          "416",
+          "400",
+          "43",
+          "BORDONAL",
+          "3",
+          "135",
+          "55",
+          "80",
+          "12",
+          "BRISAMAR",
+          "1",
+          "68",
+          "30",
+          "38",
+          "6",
+          "BRUNO CUEVAS",
+          "1",
+          "60",
+          "28",
+          "32",
+          "3",
+          "BUENOS AIRES",
+          "10",
+          "1,726",
+          "865",
+          "861",
+          "101",
+          "CAMICHINES",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1",
+          "CHUCUTITÁN",
+          "4",
+          "423",
+          "219",
+          "204",
+          "25",
+          "CHUQUIAPAN",
+          "4",
+          "90",
+          "37",
+          "53",
+          "12",
+          "CHUTA",
+          "1",
+          "21",
+          "11",
+          "10",
+          "2",
+          "CIUDAD LÁZARO CÁRDENAS",
+          "156",
+          "28,605",
+          "14,281",
+          "14,324",
+          "2,060",
+          "EL AHIJADERO",
+          "1",
+          "114",
+          "57",
+          "57",
+          "6",
+          "EL ARENAL",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "EL BORDÓN DE POPOYUTA (LOS BORDONES)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL COLOMO (SAN MIGUEL)",
+          "2",
+          "38",
+          "15",
+          "23",
+          "3",
+          "EL GUAYABO SUR",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL HABILLAL",
+          "5",
+          "422",
+          "199",
+          "223",
+          "27",
+          "EL MIRADOR",
+          "1",
+          "105",
+          "40",
+          "65",
+          "6",
+          "EL NARANJITO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1",
+          "EL REYNO",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3",
+          "EL TAHUAZAL",
+          "4",
+          "162",
+          "78",
+          "84",
+          "12",
+          "LA MANZANILLA UNO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "2",
+          "LA MIRA",
+          "21",
+          "2,780",
+          "1,349",
+          "1,431",
+          "190",
+          "LA ORILLA",
+          "11",
+          "1,893",
+          "926",
+          "967",
+          "127",
+          "LA PALMITA",
+          "1",
+          "66",
+          "25",
+          "41",
+          "6",
+          "LA SOLEDAD",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1",
+          "LA VILLITA",
+          "3",
+          "411",
+          "190",
+          "221",
+          "22",
+          "LAS CALABACILLAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "LAS CALABAZAS",
+          "1",
+          "8",
+          "6",
+          "2",
+          "2",
+          "LAS GUACAMAYAS",
+          "77",
+          "12,689",
+          "6,504",
+          "6,185",
+          "790",
+          "LAS HIGUERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "2",
+          "LAS MESAS DEL LIMÓN",
+          "1",
+          "46",
+          "25",
+          "21",
+          "4",
+          "LAS PEÑAS",
+          "2",
+          "27",
+          "17",
+          "10",
+          "3",
+          "LOS AMATES",
+          "3",
+          "52",
+          "21",
+          "31",
+          "7",
+          "LOS COYOTES",
+          "4",
+          "283",
+          "131",
+          "152",
+          "20",
+          "LOS LLANOS DEL BEJUCO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "10",
+          "MEXCALHUACÁN",
+          "3",
+          "158",
+          "61",
+          "97",
+          "10",
+          "MOVIMIENTO URBANO POPULAR [COLONIA]",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2",
+          "NEXPA (NEIXPA)",
+          "3",
+          "66",
+          "31",
+          "35",
+          "7",
+          "PLAYA AZUL",
+          "6",
+          "637",
+          "306",
+          "331",
+          "44",
+          "PLAYA DE GUERRA",
+          "1",
+          "33",
+          "13",
+          "20",
+          "3",
+          "POPOYUTA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "PUENTE DE LA VÍA",
+          "2",
+          "163",
+          "86",
+          "77",
+          "12",
+          "PUERTO NUEVO",
+          "1",
+          "106",
+          "56",
+          "50",
+          "6",
+          "RANCHO PANAMÁ",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "SAN BLAS",
+          "1",
+          "246",
+          "108",
+          "138",
+          "14",
+          "SAN JUAN BOSCO",
+          "3",
+          "162",
+          "75",
+          "87",
+          "13",
+          "SAN RAFAEL",
+          "4",
+          "145",
+          "84",
+          "61",
+          "17",
+          "SOLERA DE AGUA",
+          "2",
+          "65",
+          "29",
+          "36",
+          "6",
+          "TEOLÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "5",
+          "TOTAL",
+          "375",
+          "53,445",
+          "26,695",
+          "26,750",
+          "3,681",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LÁZARO CÁRDENAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACALPICAN DE MORELOS",
+          "4",
+          "369",
+          "182",
+          "187",
+          "26"
+        ],
+        [
+          "BAHÍA BUFADERO (CALETA DE CAMPOS)",
+          "6",
+          "816",
+          "416",
+          "400",
+          "43"
+        ],
+        [
+          "BORDONAL",
+          "3",
+          "135",
+          "55",
+          "80",
+          "12"
+        ],
+        [
+          "BRISAMAR",
+          "1",
+          "68",
+          "30",
+          "38",
+          "6"
+        ],
+        [
+          "BRUNO CUEVAS",
+          "1",
+          "60",
+          "28",
+          "32",
+          "3"
+        ],
+        [
+          "BUENOS AIRES",
+          "10",
+          "1,726",
+          "865",
+          "861",
+          "101"
+        ],
+        [
+          "CAMICHINES",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "CHUCUTITÁN",
+          "4",
+          "423",
+          "219",
+          "204",
+          "25"
+        ],
+        [
+          "CHUQUIAPAN",
+          "4",
+          "90",
+          "37",
+          "53",
+          "12"
+        ],
+        [
+          "CHUTA",
+          "1",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "CIUDAD LÁZARO CÁRDENAS",
+          "156",
+          "28,605",
+          "14,281",
+          "14,324",
+          "2,060"
+        ],
+        [
+          "EL AHIJADERO",
+          "1",
+          "114",
+          "57",
+          "57",
+          "6"
+        ],
+        [
+          "EL ARENAL",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL BORDÓN DE POPOYUTA (LOS BORDONES)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL COLOMO (SAN MIGUEL)",
+          "2",
+          "38",
+          "15",
+          "23",
+          "3"
+        ],
+        [
+          "EL GUAYABO SUR",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL HABILLAL",
+          "5",
+          "422",
+          "199",
+          "223",
+          "27"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "105",
+          "40",
+          "65",
+          "6"
+        ],
+        [
+          "EL NARANJITO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL REYNO",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3"
+        ],
+        [
+          "EL TAHUAZAL",
+          "4",
+          "162",
+          "78",
+          "84",
+          "12"
+        ],
+        [
+          "LA MANZANILLA UNO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "LA MIRA",
+          "21",
+          "2,780",
+          "1,349",
+          "1,431",
+          "190"
+        ],
+        [
+          "LA ORILLA",
+          "11",
+          "1,893",
+          "926",
+          "967",
+          "127"
+        ],
+        [
+          "LA PALMITA",
+          "1",
+          "66",
+          "25",
+          "41",
+          "6"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "LA VILLITA",
+          "3",
+          "411",
+          "190",
+          "221",
+          "22"
+        ],
+        [
+          "LAS CALABACILLAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "LAS CALABAZAS",
+          "1",
+          "8",
+          "6",
+          "2",
+          "2"
+        ],
+        [
+          "LAS GUACAMAYAS",
+          "77",
+          "12,689",
+          "6,504",
+          "6,185",
+          "790"
+        ],
+        [
+          "LAS HIGUERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MESAS DEL LIMÓN",
+          "1",
+          "46",
+          "25",
+          "21",
+          "4"
+        ],
+        [
+          "LAS PEÑAS",
+          "2",
+          "27",
+          "17",
+          "10",
+          "3"
+        ],
+        [
+          "LOS AMATES",
+          "3",
+          "52",
+          "21",
+          "31",
+          "7"
+        ],
+        [
+          "LOS COYOTES",
+          "4",
+          "283",
+          "131",
+          "152",
+          "20"
+        ],
+        [
+          "LOS LLANOS DEL BEJUCO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "10"
+        ],
+        [
+          "MEXCALHUACÁN",
+          "3",
+          "158",
+          "61",
+          "97",
+          "10"
+        ],
+        [
+          "MOVIMIENTO URBANO POPULAR [COLONIA]",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "NEXPA (NEIXPA)",
+          "3",
+          "66",
+          "31",
+          "35",
+          "7"
+        ],
+        [
+          "PLAYA AZUL",
+          "6",
+          "637",
+          "306",
+          "331",
+          "44"
+        ],
+        [
+          "PLAYA DE GUERRA",
+          "1",
+          "33",
+          "13",
+          "20",
+          "3"
+        ],
+        [
+          "POPOYUTA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "PUENTE DE LA VÍA",
+          "2",
+          "163",
+          "86",
+          "77",
+          "12"
+        ],
+        [
+          "PUERTO NUEVO",
+          "1",
+          "106",
+          "56",
+          "50",
+          "6"
+        ],
+        [
+          "RANCHO PANAMÁ",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN BLAS",
+          "1",
+          "246",
+          "108",
+          "138",
+          "14"
+        ],
+        [
+          "SAN JUAN BOSCO",
+          "3",
+          "162",
+          "75",
+          "87",
+          "13"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "145",
+          "84",
+          "61",
+          "17"
+        ],
+        [
+          "SOLERA DE AGUA",
+          "2",
+          "65",
+          "29",
+          "36",
+          "6"
+        ],
+        [
+          "TEOLÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "375",
+          "53,445",
+          "26,695",
+          "26,750",
+          "3,681"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: LÁZARO CÁRDENAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACALPICAN DE MORELOS",
+          "4",
+          "369",
+          "182",
+          "187",
+          "26"
+        ],
+        [
+          "BAHÍA BUFADERO (CALETA DE CAMPOS)",
+          "6",
+          "816",
+          "416",
+          "400",
+          "43"
+        ],
+        [
+          "BORDONAL",
+          "3",
+          "135",
+          "55",
+          "80",
+          "12"
+        ],
+        [
+          "BRISAMAR",
+          "1",
+          "68",
+          "30",
+          "38",
+          "6"
+        ],
+        [
+          "BRUNO CUEVAS",
+          "1",
+          "60",
+          "28",
+          "32",
+          "3"
+        ],
+        [
+          "BUENOS AIRES",
+          "10",
+          "1,726",
+          "865",
+          "861",
+          "101"
+        ],
+        [
+          "CAMICHINES",
+          "1",
+          "12",
+          "10",
+          "2",
+          "1"
+        ],
+        [
+          "CHUCUTITÁN",
+          "4",
+          "423",
+          "219",
+          "204",
+          "25"
+        ],
+        [
+          "CHUQUIAPAN",
+          "4",
+          "90",
+          "37",
+          "53",
+          "12"
+        ],
+        [
+          "CHUTA",
+          "1",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "CIUDAD LÁZARO CÁRDENAS",
+          "156",
+          "28,605",
+          "14,281",
+          "14,324",
+          "2,060"
+        ],
+        [
+          "EL AHIJADERO",
+          "1",
+          "114",
+          "57",
+          "57",
+          "6"
+        ],
+        [
+          "EL ARENAL",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "EL BORDÓN DE POPOYUTA (LOS BORDONES)",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL COLOMO (SAN MIGUEL)",
+          "2",
+          "38",
+          "15",
+          "23",
+          "3"
+        ],
+        [
+          "EL GUAYABO SUR",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL HABILLAL",
+          "5",
+          "422",
+          "199",
+          "223",
+          "27"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "105",
+          "40",
+          "65",
+          "6"
+        ],
+        [
+          "EL NARANJITO",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "EL REYNO",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3"
+        ],
+        [
+          "EL TAHUAZAL",
+          "4",
+          "162",
+          "78",
+          "84",
+          "12"
+        ],
+        [
+          "LA MANZANILLA UNO",
+          "1",
+          "21",
+          "12",
+          "9",
+          "2"
+        ],
+        [
+          "LA MIRA",
+          "21",
+          "2,780",
+          "1,349",
+          "1,431",
+          "190"
+        ],
+        [
+          "LA ORILLA",
+          "11",
+          "1,893",
+          "926",
+          "967",
+          "127"
+        ],
+        [
+          "LA PALMITA",
+          "1",
+          "66",
+          "25",
+          "41",
+          "6"
+        ],
+        [
+          "LA SOLEDAD",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "LA VILLITA",
+          "3",
+          "411",
+          "190",
+          "221",
+          "22"
+        ],
+        [
+          "LAS CALABACILLAS",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "LAS CALABAZAS",
+          "1",
+          "8",
+          "6",
+          "2",
+          "2"
+        ],
+        [
+          "LAS GUACAMAYAS",
+          "77",
+          "12,689",
+          "6,504",
+          "6,185",
+          "790"
+        ],
+        [
+          "LAS HIGUERAS",
+          "1",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MESAS DEL LIMÓN",
+          "1",
+          "46",
+          "25",
+          "21",
+          "4"
+        ],
+        [
+          "LAS PEÑAS",
+          "2",
+          "27",
+          "17",
+          "10",
+          "3"
+        ],
+        [
+          "LOS AMATES",
+          "3",
+          "52",
+          "21",
+          "31",
+          "7"
+        ],
+        [
+          "LOS COYOTES",
+          "4",
+          "283",
+          "131",
+          "152",
+          "20"
+        ],
+        [
+          "LOS LLANOS DEL BEJUCO",
+          "3",
+          "57",
+          "27",
+          "30",
+          "10"
+        ],
+        [
+          "MEXCALHUACÁN",
+          "3",
+          "158",
+          "61",
+          "97",
+          "10"
+        ],
+        [
+          "MOVIMIENTO URBANO POPULAR [COLONIA]",
+          "1",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "NEXPA (NEIXPA)",
+          "3",
+          "66",
+          "31",
+          "35",
+          "7"
+        ],
+        [
+          "PLAYA AZUL",
+          "6",
+          "637",
+          "306",
+          "331",
+          "44"
+        ],
+        [
+          "PLAYA DE GUERRA",
+          "1",
+          "33",
+          "13",
+          "20",
+          "3"
+        ],
+        [
+          "POPOYUTA",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "PUENTE DE LA VÍA",
+          "2",
+          "163",
+          "86",
+          "77",
+          "12"
+        ],
+        [
+          "PUERTO NUEVO",
+          "1",
+          "106",
+          "56",
+          "50",
+          "6"
+        ],
+        [
+          "RANCHO PANAMÁ",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "SAN BLAS",
+          "1",
+          "246",
+          "108",
+          "138",
+          "14"
+        ],
+        [
+          "SAN JUAN BOSCO",
+          "3",
+          "162",
+          "75",
+          "87",
+          "13"
+        ],
+        [
+          "SAN RAFAEL",
+          "4",
+          "145",
+          "84",
+          "61",
+          "17"
+        ],
+        [
+          "SOLERA DE AGUA",
+          "2",
+          "65",
+          "29",
+          "36",
+          "6"
+        ],
+        [
+          "TEOLÁN",
+          "3",
+          "40",
+          "21",
+          "19",
+          "5"
+        ],
+        [
+          "TOTAL",
+          "375",
+          "53,445",
+          "26,695",
+          "26,750",
+          "3,681"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:28.076Z"
+}

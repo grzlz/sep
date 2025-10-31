@@ -1,0 +1,890 @@
+{
+  "municipality": "TLACUILOTEPEC",
+  "municipalityCode": "178",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TLACUILOTEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA BLANCA\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tCERRO PRIETO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tCUAUTEPEC\n\t\t3\n\t\t224\n\t\t105\n\t\t119\n\t\t11\n\t\n\t\n\t\tEL COJOLITE\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL ENCINAL\n\t\t2\n\t\t32\n\t\t19\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL JERICÓ\n\t\t3\n\t\t93\n\t\t41\n\t\t52\n\t\t7\n\t\n\t\n\t\tEL MUÑECO (CRISTO REY)\n\t\t4\n\t\t148\n\t\t75\n\t\t73\n\t\t9\n\t\n\t\n\t\tEL RINCÓN\n\t\t4\n\t\t150\n\t\t71\n\t\t79\n\t\t10\n\t\n\t\n\t\tEL SALTILLO\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL TEMAXCAL\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL ZACATAL\n\t\t4\n\t\t229\n\t\t113\n\t\t116\n\t\t13\n\t\n\t\n\t\tHULA\n\t\t3\n\t\t75\n\t\t35\n\t\t40\n\t\t5\n\t\n\t\n\t\tITZATLÁN\n\t\t4\n\t\t306\n\t\t152\n\t\t154\n\t\t16\n\t\n\t\n\t\tLA CAMPANA\n\t\t3\n\t\t44\n\t\t19\n\t\t25\n\t\t4\n\t\n\t\n\t\tLA CUEVA\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t40\n\t\t23\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA JOYA\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA LAGUNILLA\n\t\t4\n\t\t177\n\t\t105\n\t\t72\n\t\t8\n\t\n\t\n\t\tLA LOMA DE LA COLMENA\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tNUEVO TENANCINGO\n\t\t3\n\t\t96\n\t\t65\n\t\t31\n\t\t5\n\t\n\t\n\t\tPALO BLANCO\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t4\n\t\n\t\n\t\tPAPALOCTIPAN\n\t\t3\n\t\t347\n\t\t164\n\t\t183\n\t\t16\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t4\n\t\t310\n\t\t156\n\t\t154\n\t\t17\n\t\n\t\n\t\tSAN ANDRÉS\n\t\t2\n\t\t32\n\t\t18\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO ACATLÁN\n\t\t3\n\t\t46\n\t\t27\n\t\t19\n\t\t4\n\t\n\t\n\t\tSAN JOSÉ\n\t\t2\n\t\t20\n\t\t10\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JUAN TIHUACÁN\n\t\t3\n\t\t123\n\t\t60\n\t\t63\n\t\t7\n\t\n\t\n\t\tSAN PEDRO PETLACOTLA\n\t\t3\n\t\t235\n\t\t103\n\t\t132\n\t\t11\n\t\n\t\n\t\tSANTA MARÍA\n\t\t3\n\t\t211\n\t\t105\n\t\t106\n\t\t10\n\t\n\t\n\t\tTACUBAYA\n\t\t3\n\t\t82\n\t\t40\n\t\t42\n\t\t7\n\t\n\t\n\t\tTANCHITLA (BUENAVISTA)\n\t\t3\n\t\t52\n\t\t31\n\t\t21\n\t\t4\n\t\n\t\n\t\tTEMAXCALAPA\n\t\t5\n\t\t110\n\t\t60\n\t\t50\n\t\t9\n\t\n\t\n\t\tTETELOLOYA\n\t\t3\n\t\t66\n\t\t32\n\t\t34\n\t\t5\n\t\n\t\n\t\tTLACUILOTEPEC\n\t\t10\n\t\t834\n\t\t412\n\t\t422\n\t\t40\n\t\n\t\n\t\tTLAPEHUALITA\n\t\t4\n\t\t63\n\t\t32\n\t\t31\n\t\t5\n\t\n\t\n\t\tTLILTEPEC\n\t\t3\n\t\t68\n\t\t30\n\t\t38\n\t\t6\n\t\n\t\n\t\tTOTAL\n\t\t108\n\t\t4,408\n\t\t2,199\n\t\t2,209\n\t\t255\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TLACUILOTEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA BLANCA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "CERRO PRIETO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1",
+          "CUAUTEPEC",
+          "3",
+          "224",
+          "105",
+          "119",
+          "11",
+          "EL COJOLITE",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "EL ENCINAL",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2",
+          "EL JERICÓ",
+          "3",
+          "93",
+          "41",
+          "52",
+          "7",
+          "EL MUÑECO (CRISTO REY)",
+          "4",
+          "148",
+          "75",
+          "73",
+          "9",
+          "EL RINCÓN",
+          "4",
+          "150",
+          "71",
+          "79",
+          "10",
+          "EL SALTILLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "EL TEMAXCAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "EL ZACATAL",
+          "4",
+          "229",
+          "113",
+          "116",
+          "13",
+          "HULA",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5",
+          "ITZATLÁN",
+          "4",
+          "306",
+          "152",
+          "154",
+          "16",
+          "LA CAMPANA",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4",
+          "LA CUEVA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3",
+          "LA ESPERANZA",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3",
+          "LA JOYA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "LA LAGUNILLA",
+          "4",
+          "177",
+          "105",
+          "72",
+          "8",
+          "LA LOMA DE LA COLMENA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "NUEVO TENANCINGO",
+          "3",
+          "96",
+          "65",
+          "31",
+          "5",
+          "PALO BLANCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4",
+          "PAPALOCTIPAN",
+          "3",
+          "347",
+          "164",
+          "183",
+          "16",
+          "PLAN DE AYALA",
+          "4",
+          "310",
+          "156",
+          "154",
+          "17",
+          "SAN ANDRÉS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2",
+          "SAN ANTONIO ACATLÁN",
+          "3",
+          "46",
+          "27",
+          "19",
+          "4",
+          "SAN JOSÉ",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2",
+          "SAN JUAN TIHUACÁN",
+          "3",
+          "123",
+          "60",
+          "63",
+          "7",
+          "SAN PEDRO PETLACOTLA",
+          "3",
+          "235",
+          "103",
+          "132",
+          "11",
+          "SANTA MARÍA",
+          "3",
+          "211",
+          "105",
+          "106",
+          "10",
+          "TACUBAYA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "7",
+          "TANCHITLA (BUENAVISTA)",
+          "3",
+          "52",
+          "31",
+          "21",
+          "4",
+          "TEMAXCALAPA",
+          "5",
+          "110",
+          "60",
+          "50",
+          "9",
+          "TETELOLOYA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5",
+          "TLACUILOTEPEC",
+          "10",
+          "834",
+          "412",
+          "422",
+          "40",
+          "TLAPEHUALITA",
+          "4",
+          "63",
+          "32",
+          "31",
+          "5",
+          "TLILTEPEC",
+          "3",
+          "68",
+          "30",
+          "38",
+          "6",
+          "TOTAL",
+          "108",
+          "4,408",
+          "2,199",
+          "2,209",
+          "255",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TLACUILOTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BLANCA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "CERRO PRIETO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "CUAUTEPEC",
+          "3",
+          "224",
+          "105",
+          "119",
+          "11"
+        ],
+        [
+          "EL COJOLITE",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL ENCINAL",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "EL JERICÓ",
+          "3",
+          "93",
+          "41",
+          "52",
+          "7"
+        ],
+        [
+          "EL MUÑECO (CRISTO REY)",
+          "4",
+          "148",
+          "75",
+          "73",
+          "9"
+        ],
+        [
+          "EL RINCÓN",
+          "4",
+          "150",
+          "71",
+          "79",
+          "10"
+        ],
+        [
+          "EL SALTILLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "EL TEMAXCAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZACATAL",
+          "4",
+          "229",
+          "113",
+          "116",
+          "13"
+        ],
+        [
+          "HULA",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "ITZATLÁN",
+          "4",
+          "306",
+          "152",
+          "154",
+          "16"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4"
+        ],
+        [
+          "LA CUEVA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LA LAGUNILLA",
+          "4",
+          "177",
+          "105",
+          "72",
+          "8"
+        ],
+        [
+          "LA LOMA DE LA COLMENA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVO TENANCINGO",
+          "3",
+          "96",
+          "65",
+          "31",
+          "5"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "PAPALOCTIPAN",
+          "3",
+          "347",
+          "164",
+          "183",
+          "16"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "310",
+          "156",
+          "154",
+          "17"
+        ],
+        [
+          "SAN ANDRÉS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ANTONIO ACATLÁN",
+          "3",
+          "46",
+          "27",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN TIHUACÁN",
+          "3",
+          "123",
+          "60",
+          "63",
+          "7"
+        ],
+        [
+          "SAN PEDRO PETLACOTLA",
+          "3",
+          "235",
+          "103",
+          "132",
+          "11"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "211",
+          "105",
+          "106",
+          "10"
+        ],
+        [
+          "TACUBAYA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "7"
+        ],
+        [
+          "TANCHITLA (BUENAVISTA)",
+          "3",
+          "52",
+          "31",
+          "21",
+          "4"
+        ],
+        [
+          "TEMAXCALAPA",
+          "5",
+          "110",
+          "60",
+          "50",
+          "9"
+        ],
+        [
+          "TETELOLOYA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "TLACUILOTEPEC",
+          "10",
+          "834",
+          "412",
+          "422",
+          "40"
+        ],
+        [
+          "TLAPEHUALITA",
+          "4",
+          "63",
+          "32",
+          "31",
+          "5"
+        ],
+        [
+          "TLILTEPEC",
+          "3",
+          "68",
+          "30",
+          "38",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "108",
+          "4,408",
+          "2,199",
+          "2,209",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TLACUILOTEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BLANCA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "CERRO PRIETO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "CUAUTEPEC",
+          "3",
+          "224",
+          "105",
+          "119",
+          "11"
+        ],
+        [
+          "EL COJOLITE",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "EL ENCINAL",
+          "2",
+          "32",
+          "19",
+          "13",
+          "2"
+        ],
+        [
+          "EL JERICÓ",
+          "3",
+          "93",
+          "41",
+          "52",
+          "7"
+        ],
+        [
+          "EL MUÑECO (CRISTO REY)",
+          "4",
+          "148",
+          "75",
+          "73",
+          "9"
+        ],
+        [
+          "EL RINCÓN",
+          "4",
+          "150",
+          "71",
+          "79",
+          "10"
+        ],
+        [
+          "EL SALTILLO",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "EL TEMAXCAL",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "EL ZACATAL",
+          "4",
+          "229",
+          "113",
+          "116",
+          "13"
+        ],
+        [
+          "HULA",
+          "3",
+          "75",
+          "35",
+          "40",
+          "5"
+        ],
+        [
+          "ITZATLÁN",
+          "4",
+          "306",
+          "152",
+          "154",
+          "16"
+        ],
+        [
+          "LA CAMPANA",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4"
+        ],
+        [
+          "LA CUEVA",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LA LAGUNILLA",
+          "4",
+          "177",
+          "105",
+          "72",
+          "8"
+        ],
+        [
+          "LA LOMA DE LA COLMENA",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "NUEVO TENANCINGO",
+          "3",
+          "96",
+          "65",
+          "31",
+          "5"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "4"
+        ],
+        [
+          "PAPALOCTIPAN",
+          "3",
+          "347",
+          "164",
+          "183",
+          "16"
+        ],
+        [
+          "PLAN DE AYALA",
+          "4",
+          "310",
+          "156",
+          "154",
+          "17"
+        ],
+        [
+          "SAN ANDRÉS",
+          "2",
+          "32",
+          "18",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ANTONIO ACATLÁN",
+          "3",
+          "46",
+          "27",
+          "19",
+          "4"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "20",
+          "10",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN TIHUACÁN",
+          "3",
+          "123",
+          "60",
+          "63",
+          "7"
+        ],
+        [
+          "SAN PEDRO PETLACOTLA",
+          "3",
+          "235",
+          "103",
+          "132",
+          "11"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "211",
+          "105",
+          "106",
+          "10"
+        ],
+        [
+          "TACUBAYA",
+          "3",
+          "82",
+          "40",
+          "42",
+          "7"
+        ],
+        [
+          "TANCHITLA (BUENAVISTA)",
+          "3",
+          "52",
+          "31",
+          "21",
+          "4"
+        ],
+        [
+          "TEMAXCALAPA",
+          "5",
+          "110",
+          "60",
+          "50",
+          "9"
+        ],
+        [
+          "TETELOLOYA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "TLACUILOTEPEC",
+          "10",
+          "834",
+          "412",
+          "422",
+          "40"
+        ],
+        [
+          "TLAPEHUALITA",
+          "4",
+          "63",
+          "32",
+          "31",
+          "5"
+        ],
+        [
+          "TLILTEPEC",
+          "3",
+          "68",
+          "30",
+          "38",
+          "6"
+        ],
+        [
+          "TOTAL",
+          "108",
+          "4,408",
+          "2,199",
+          "2,209",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:36:06.041Z"
+}

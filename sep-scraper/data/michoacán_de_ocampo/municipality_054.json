@@ -1,0 +1,648 @@
+{
+  "municipality": "MORELOS",
+  "municipalityCode": "054",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: MORELOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA EL GRANJENO (SAN JUAN DE ULÚA)\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL DESMONTE\n\t\t2\n\t\t34\n\t\t20\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL FRESNO\n\t\t2\n\t\t28\n\t\t15\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL GRANJENO\n\t\t1\n\t\t53\n\t\t18\n\t\t35\n\t\t1\n\t\n\t\n\t\tEL PROGRESO MORELOS (LA ESTANCIA)\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t2\n\t\n\t\n\t\tJURUREMBA\n\t\t2\n\t\t32\n\t\t18\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA CRUZ DEL NIÑO\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA LUZ\n\t\t4\n\t\t144\n\t\t76\n\t\t68\n\t\t15\n\t\n\t\n\t\tLA NORIA\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA PALMA\n\t\t2\n\t\t26\n\t\t14\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA PUERTA DEL DESMONTE\n\t\t2\n\t\t28\n\t\t19\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA SALUD\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA VIGA\n\t\t3\n\t\t31\n\t\t18\n\t\t13\n\t\t5\n\t\n\t\n\t\tRANCHO DE GUADALUPE\n\t\t2\n\t\t21\n\t\t7\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN ÁNGEL\n\t\t3\n\t\t49\n\t\t28\n\t\t21\n\t\t7\n\t\n\t\n\t\tSAN ISIDRO (SAN ISIDRO DE LA VUELTA)\n\t\t2\n\t\t21\n\t\t14\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL NARANJO (PUERTA DE HUANGO VIEJO)\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSAN MIGUEL (HUANGO EL VIEJO)\n\t\t3\n\t\t29\n\t\t10\n\t\t19\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL TUMBASTATIRO\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN NICOLÁS TUMBASTATIRO (CAÑADA DE ABAJO)\n\t\t3\n\t\t117\n\t\t54\n\t\t63\n\t\t10\n\t\n\t\n\t\tSAN RAFAEL (RANCHO VIEJO)\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tSAN VICENTE (LA CRUZ DE SAN VICENTE)\n\t\t1\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tVILLA MORELOS\n\t\t7\n\t\t731\n\t\t377\n\t\t354\n\t\t46\n\t\n\t\n\t\tZÁRATE\n\t\t3\n\t\t61\n\t\t24\n\t\t37\n\t\t8\n\t\n\t\n\t\tZIRACUARÉNDIRO\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t57\n\t\t1,565\n\t\t792\n\t\t773\n\t\t134\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: MORELOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA EL GRANJENO (SAN JUAN DE ULÚA)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "EL DESMONTE",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3",
+          "EL FRESNO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3",
+          "EL GRANJENO",
+          "1",
+          "53",
+          "18",
+          "35",
+          "1",
+          "EL PROGRESO MORELOS (LA ESTANCIA)",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2",
+          "JURUREMBA",
+          "2",
+          "32",
+          "18",
+          "14",
+          "3",
+          "LA CRUZ DEL NIÑO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3",
+          "LA LUZ",
+          "4",
+          "144",
+          "76",
+          "68",
+          "15",
+          "LA NORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "LA PALMA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "2",
+          "LA PUERTA DEL DESMONTE",
+          "2",
+          "28",
+          "19",
+          "9",
+          "3",
+          "LA SALUD",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3",
+          "LA VIGA",
+          "3",
+          "31",
+          "18",
+          "13",
+          "5",
+          "RANCHO DE GUADALUPE",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2",
+          "SAN ÁNGEL",
+          "3",
+          "49",
+          "28",
+          "21",
+          "7",
+          "SAN ISIDRO (SAN ISIDRO DE LA VUELTA)",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2",
+          "SAN JOSÉ DEL NARANJO (PUERTA DE HUANGO VIEJO)",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SAN MIGUEL (HUANGO EL VIEJO)",
+          "3",
+          "29",
+          "10",
+          "19",
+          "4",
+          "SAN MIGUEL TUMBASTATIRO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "SAN NICOLÁS TUMBASTATIRO (CAÑADA DE ABAJO)",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10",
+          "SAN RAFAEL (RANCHO VIEJO)",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "SAN VICENTE (LA CRUZ DE SAN VICENTE)",
+          "1",
+          "23",
+          "10",
+          "13",
+          "3",
+          "VILLA MORELOS",
+          "7",
+          "731",
+          "377",
+          "354",
+          "46",
+          "ZÁRATE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "8",
+          "ZIRACUARÉNDIRO",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "TOTAL",
+          "57",
+          "1,565",
+          "792",
+          "773",
+          "134",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA EL GRANJENO (SAN JUAN DE ULÚA)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL DESMONTE",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "EL GRANJENO",
+          "1",
+          "53",
+          "18",
+          "35",
+          "1"
+        ],
+        [
+          "EL PROGRESO MORELOS (LA ESTANCIA)",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "JURUREMBA",
+          "2",
+          "32",
+          "18",
+          "14",
+          "3"
+        ],
+        [
+          "LA CRUZ DEL NIÑO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "144",
+          "76",
+          "68",
+          "15"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "2"
+        ],
+        [
+          "LA PUERTA DEL DESMONTE",
+          "2",
+          "28",
+          "19",
+          "9",
+          "3"
+        ],
+        [
+          "LA SALUD",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "LA VIGA",
+          "3",
+          "31",
+          "18",
+          "13",
+          "5"
+        ],
+        [
+          "RANCHO DE GUADALUPE",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ÁNGEL",
+          "3",
+          "49",
+          "28",
+          "21",
+          "7"
+        ],
+        [
+          "SAN ISIDRO (SAN ISIDRO DE LA VUELTA)",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL NARANJO (PUERTA DE HUANGO VIEJO)",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN MIGUEL (HUANGO EL VIEJO)",
+          "3",
+          "29",
+          "10",
+          "19",
+          "4"
+        ],
+        [
+          "SAN MIGUEL TUMBASTATIRO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS TUMBASTATIRO (CAÑADA DE ABAJO)",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10"
+        ],
+        [
+          "SAN RAFAEL (RANCHO VIEJO)",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "SAN VICENTE (LA CRUZ DE SAN VICENTE)",
+          "1",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "VILLA MORELOS",
+          "7",
+          "731",
+          "377",
+          "354",
+          "46"
+        ],
+        [
+          "ZÁRATE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "8"
+        ],
+        [
+          "ZIRACUARÉNDIRO",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "1,565",
+          "792",
+          "773",
+          "134"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: MORELOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA EL GRANJENO (SAN JUAN DE ULÚA)",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL DESMONTE",
+          "2",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL FRESNO",
+          "2",
+          "28",
+          "15",
+          "13",
+          "3"
+        ],
+        [
+          "EL GRANJENO",
+          "1",
+          "53",
+          "18",
+          "35",
+          "1"
+        ],
+        [
+          "EL PROGRESO MORELOS (LA ESTANCIA)",
+          "2",
+          "10",
+          "3",
+          "7",
+          "2"
+        ],
+        [
+          "JURUREMBA",
+          "2",
+          "32",
+          "18",
+          "14",
+          "3"
+        ],
+        [
+          "LA CRUZ DEL NIÑO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "LA LUZ",
+          "4",
+          "144",
+          "76",
+          "68",
+          "15"
+        ],
+        [
+          "LA NORIA",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "LA PALMA",
+          "2",
+          "26",
+          "14",
+          "12",
+          "2"
+        ],
+        [
+          "LA PUERTA DEL DESMONTE",
+          "2",
+          "28",
+          "19",
+          "9",
+          "3"
+        ],
+        [
+          "LA SALUD",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "LA VIGA",
+          "3",
+          "31",
+          "18",
+          "13",
+          "5"
+        ],
+        [
+          "RANCHO DE GUADALUPE",
+          "2",
+          "21",
+          "7",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ÁNGEL",
+          "3",
+          "49",
+          "28",
+          "21",
+          "7"
+        ],
+        [
+          "SAN ISIDRO (SAN ISIDRO DE LA VUELTA)",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL NARANJO (PUERTA DE HUANGO VIEJO)",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SAN MIGUEL (HUANGO EL VIEJO)",
+          "3",
+          "29",
+          "10",
+          "19",
+          "4"
+        ],
+        [
+          "SAN MIGUEL TUMBASTATIRO",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "SAN NICOLÁS TUMBASTATIRO (CAÑADA DE ABAJO)",
+          "3",
+          "117",
+          "54",
+          "63",
+          "10"
+        ],
+        [
+          "SAN RAFAEL (RANCHO VIEJO)",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "SAN VICENTE (LA CRUZ DE SAN VICENTE)",
+          "1",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "VILLA MORELOS",
+          "7",
+          "731",
+          "377",
+          "354",
+          "46"
+        ],
+        [
+          "ZÁRATE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "8"
+        ],
+        [
+          "ZIRACUARÉNDIRO",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "57",
+          "1,565",
+          "792",
+          "773",
+          "134"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:51.412Z"
+}

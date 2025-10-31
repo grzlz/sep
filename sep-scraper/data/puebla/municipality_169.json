@@ -1,0 +1,648 @@
+{
+  "municipality": "TEPEXI DE RODRÍGUEZ",
+  "municipalityCode": "169",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TEPEXI DE RODRÍGUEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA DE LA LUNA\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t2\n\t\n\t\n\t\tAGUA SANTA ANA\n\t\t4\n\t\t182\n\t\t81\n\t\t101\n\t\t10\n\t\n\t\n\t\tALMOLONGA (TODOS SANTOS)\n\t\t5\n\t\t338\n\t\t166\n\t\t172\n\t\t19\n\t\n\t\n\t\tAXAMILPA\n\t\t2\n\t\t13\n\t\t8\n\t\t5\n\t\t3\n\t\n\t\n\t\tCAÑADA COYOTE\n\t\t2\n\t\t35\n\t\t21\n\t\t14\n\t\t2\n\t\n\t\n\t\tCAÑADA XÓCHITL (SECCIÓN PRIMERA)\n\t\t3\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tCHAPULTEPEC (SANTO DOMINGO)\n\t\t3\n\t\t143\n\t\t83\n\t\t60\n\t\t7\n\t\n\t\n\t\tCOLONIA MORELOS (PIE DE VACA)\n\t\t1\n\t\t66\n\t\t31\n\t\t35\n\t\t3\n\t\n\t\n\t\tEL PROGRESO (SAN ANTONIO)\n\t\t4\n\t\t321\n\t\t162\n\t\t159\n\t\t14\n\t\n\t\n\t\tHUAJOYUCA (HUAJOYUCA DE PALACIOS)\n\t\t4\n\t\t212\n\t\t99\n\t\t113\n\t\t11\n\t\n\t\n\t\tHUEJONAPAN (SAN ANTONIO)\n\t\t4\n\t\t301\n\t\t170\n\t\t131\n\t\t15\n\t\n\t\n\t\tLAS FLORES\n\t\t4\n\t\t153\n\t\t73\n\t\t80\n\t\t9\n\t\n\t\n\t\tLAS YEGUAS (SAN ISIDRO)\n\t\t2\n\t\t50\n\t\t25\n\t\t25\n\t\t3\n\t\n\t\n\t\tLOMA CAJÓN\n\t\t2\n\t\t55\n\t\t26\n\t\t29\n\t\t3\n\t\n\t\n\t\tLOMA SAN FRANCISCO\n\t\t8\n\t\t129\n\t\t58\n\t\t71\n\t\t10\n\t\n\t\n\t\tMARISCALA\n\t\t3\n\t\t109\n\t\t53\n\t\t56\n\t\t7\n\t\n\t\n\t\tMONTÓN DE ARENA\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tMORALILLO\n\t\t3\n\t\t201\n\t\t94\n\t\t107\n\t\t10\n\t\n\t\n\t\tRANCHO ALEGRE\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN FELIPE OTLALTEPEC\n\t\t4\n\t\t377\n\t\t194\n\t\t183\n\t\t17\n\t\n\t\n\t\tSAN MIGUEL IPALTEPEC\n\t\t2\n\t\t27\n\t\t16\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN PABLO AMEYALTEPEC\n\t\t2\n\t\t28\n\t\t17\n\t\t11\n\t\t2\n\t\n\t\n\t\tTEPEXI DE RODRÍGUEZ\n\t\t24\n\t\t3,170\n\t\t1,595\n\t\t1,575\n\t\t177\n\t\n\t\n\t\tTULA\n\t\t4\n\t\t351\n\t\t146\n\t\t205\n\t\t14\n\t\n\t\n\t\tZACATEPEC\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t96\n\t\t6,349\n\t\t3,160\n\t\t3,189\n\t\t347\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TEPEXI DE RODRÍGUEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA DE LA LUNA",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2",
+          "AGUA SANTA ANA",
+          "4",
+          "182",
+          "81",
+          "101",
+          "10",
+          "ALMOLONGA (TODOS SANTOS)",
+          "5",
+          "338",
+          "166",
+          "172",
+          "19",
+          "AXAMILPA",
+          "2",
+          "13",
+          "8",
+          "5",
+          "3",
+          "CAÑADA COYOTE",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2",
+          "CAÑADA XÓCHITL (SECCIÓN PRIMERA)",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3",
+          "CHAPULTEPEC (SANTO DOMINGO)",
+          "3",
+          "143",
+          "83",
+          "60",
+          "7",
+          "COLONIA MORELOS (PIE DE VACA)",
+          "1",
+          "66",
+          "31",
+          "35",
+          "3",
+          "EL PROGRESO (SAN ANTONIO)",
+          "4",
+          "321",
+          "162",
+          "159",
+          "14",
+          "HUAJOYUCA (HUAJOYUCA DE PALACIOS)",
+          "4",
+          "212",
+          "99",
+          "113",
+          "11",
+          "HUEJONAPAN (SAN ANTONIO)",
+          "4",
+          "301",
+          "170",
+          "131",
+          "15",
+          "LAS FLORES",
+          "4",
+          "153",
+          "73",
+          "80",
+          "9",
+          "LAS YEGUAS (SAN ISIDRO)",
+          "2",
+          "50",
+          "25",
+          "25",
+          "3",
+          "LOMA CAJÓN",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3",
+          "LOMA SAN FRANCISCO",
+          "8",
+          "129",
+          "58",
+          "71",
+          "10",
+          "MARISCALA",
+          "3",
+          "109",
+          "53",
+          "56",
+          "7",
+          "MONTÓN DE ARENA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "MORALILLO",
+          "3",
+          "201",
+          "94",
+          "107",
+          "10",
+          "RANCHO ALEGRE",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "SAN FELIPE OTLALTEPEC",
+          "4",
+          "377",
+          "194",
+          "183",
+          "17",
+          "SAN MIGUEL IPALTEPEC",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2",
+          "SAN PABLO AMEYALTEPEC",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2",
+          "TEPEXI DE RODRÍGUEZ",
+          "24",
+          "3,170",
+          "1,595",
+          "1,575",
+          "177",
+          "TULA",
+          "4",
+          "351",
+          "146",
+          "205",
+          "14",
+          "ZACATEPEC",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "TOTAL",
+          "96",
+          "6,349",
+          "3,160",
+          "3,189",
+          "347",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TEPEXI DE RODRÍGUEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE LA LUNA",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "AGUA SANTA ANA",
+          "4",
+          "182",
+          "81",
+          "101",
+          "10"
+        ],
+        [
+          "ALMOLONGA (TODOS SANTOS)",
+          "5",
+          "338",
+          "166",
+          "172",
+          "19"
+        ],
+        [
+          "AXAMILPA",
+          "2",
+          "13",
+          "8",
+          "5",
+          "3"
+        ],
+        [
+          "CAÑADA COYOTE",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "CAÑADA XÓCHITL (SECCIÓN PRIMERA)",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "CHAPULTEPEC (SANTO DOMINGO)",
+          "3",
+          "143",
+          "83",
+          "60",
+          "7"
+        ],
+        [
+          "COLONIA MORELOS (PIE DE VACA)",
+          "1",
+          "66",
+          "31",
+          "35",
+          "3"
+        ],
+        [
+          "EL PROGRESO (SAN ANTONIO)",
+          "4",
+          "321",
+          "162",
+          "159",
+          "14"
+        ],
+        [
+          "HUAJOYUCA (HUAJOYUCA DE PALACIOS)",
+          "4",
+          "212",
+          "99",
+          "113",
+          "11"
+        ],
+        [
+          "HUEJONAPAN (SAN ANTONIO)",
+          "4",
+          "301",
+          "170",
+          "131",
+          "15"
+        ],
+        [
+          "LAS FLORES",
+          "4",
+          "153",
+          "73",
+          "80",
+          "9"
+        ],
+        [
+          "LAS YEGUAS (SAN ISIDRO)",
+          "2",
+          "50",
+          "25",
+          "25",
+          "3"
+        ],
+        [
+          "LOMA CAJÓN",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "LOMA SAN FRANCISCO",
+          "8",
+          "129",
+          "58",
+          "71",
+          "10"
+        ],
+        [
+          "MARISCALA",
+          "3",
+          "109",
+          "53",
+          "56",
+          "7"
+        ],
+        [
+          "MONTÓN DE ARENA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "MORALILLO",
+          "3",
+          "201",
+          "94",
+          "107",
+          "10"
+        ],
+        [
+          "RANCHO ALEGRE",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "SAN FELIPE OTLALTEPEC",
+          "4",
+          "377",
+          "194",
+          "183",
+          "17"
+        ],
+        [
+          "SAN MIGUEL IPALTEPEC",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PABLO AMEYALTEPEC",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "TEPEXI DE RODRÍGUEZ",
+          "24",
+          "3,170",
+          "1,595",
+          "1,575",
+          "177"
+        ],
+        [
+          "TULA",
+          "4",
+          "351",
+          "146",
+          "205",
+          "14"
+        ],
+        [
+          "ZACATEPEC",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "6,349",
+          "3,160",
+          "3,189",
+          "347"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TEPEXI DE RODRÍGUEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA DE LA LUNA",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "AGUA SANTA ANA",
+          "4",
+          "182",
+          "81",
+          "101",
+          "10"
+        ],
+        [
+          "ALMOLONGA (TODOS SANTOS)",
+          "5",
+          "338",
+          "166",
+          "172",
+          "19"
+        ],
+        [
+          "AXAMILPA",
+          "2",
+          "13",
+          "8",
+          "5",
+          "3"
+        ],
+        [
+          "CAÑADA COYOTE",
+          "2",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "CAÑADA XÓCHITL (SECCIÓN PRIMERA)",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "CHAPULTEPEC (SANTO DOMINGO)",
+          "3",
+          "143",
+          "83",
+          "60",
+          "7"
+        ],
+        [
+          "COLONIA MORELOS (PIE DE VACA)",
+          "1",
+          "66",
+          "31",
+          "35",
+          "3"
+        ],
+        [
+          "EL PROGRESO (SAN ANTONIO)",
+          "4",
+          "321",
+          "162",
+          "159",
+          "14"
+        ],
+        [
+          "HUAJOYUCA (HUAJOYUCA DE PALACIOS)",
+          "4",
+          "212",
+          "99",
+          "113",
+          "11"
+        ],
+        [
+          "HUEJONAPAN (SAN ANTONIO)",
+          "4",
+          "301",
+          "170",
+          "131",
+          "15"
+        ],
+        [
+          "LAS FLORES",
+          "4",
+          "153",
+          "73",
+          "80",
+          "9"
+        ],
+        [
+          "LAS YEGUAS (SAN ISIDRO)",
+          "2",
+          "50",
+          "25",
+          "25",
+          "3"
+        ],
+        [
+          "LOMA CAJÓN",
+          "2",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "LOMA SAN FRANCISCO",
+          "8",
+          "129",
+          "58",
+          "71",
+          "10"
+        ],
+        [
+          "MARISCALA",
+          "3",
+          "109",
+          "53",
+          "56",
+          "7"
+        ],
+        [
+          "MONTÓN DE ARENA",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "MORALILLO",
+          "3",
+          "201",
+          "94",
+          "107",
+          "10"
+        ],
+        [
+          "RANCHO ALEGRE",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "SAN FELIPE OTLALTEPEC",
+          "4",
+          "377",
+          "194",
+          "183",
+          "17"
+        ],
+        [
+          "SAN MIGUEL IPALTEPEC",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "SAN PABLO AMEYALTEPEC",
+          "2",
+          "28",
+          "17",
+          "11",
+          "2"
+        ],
+        [
+          "TEPEXI DE RODRÍGUEZ",
+          "24",
+          "3,170",
+          "1,595",
+          "1,575",
+          "177"
+        ],
+        [
+          "TULA",
+          "4",
+          "351",
+          "146",
+          "205",
+          "14"
+        ],
+        [
+          "ZACATEPEC",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "96",
+          "6,349",
+          "3,160",
+          "3,189",
+          "347"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:35:26.857Z"
+}

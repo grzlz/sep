@@ -1,0 +1,1264 @@
+{
+  "municipality": "SABANILLA",
+  "municipalityCode": "076",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SABANILLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t12 DE OCTUBRE\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\t20 DE NOVIEMBRE\n\t\t3\n\t\t173\n\t\t74\n\t\t99\n\t\t8\n\t\n\t\n\t\t6 DE SEPTIEMBRE\n\t\t2\n\t\t19\n\t\t6\n\t\t13\n\t\t2\n\t\n\t\n\t\tALEGRÍA\n\t\t2\n\t\t31\n\t\t18\n\t\t13\n\t\t3\n\t\n\t\n\t\tANDRÉS QUINTANA ROO\n\t\t6\n\t\t576\n\t\t279\n\t\t297\n\t\t20\n\t\n\t\n\t\tASUNCIÓN HUITIUPAN\n\t\t4\n\t\t197\n\t\t93\n\t\t104\n\t\t11\n\t\n\t\n\t\tATOYAC NAYLUM\n\t\t3\n\t\t186\n\t\t94\n\t\t92\n\t\t10\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ 2DA. SECCIÓN\n\t\t3\n\t\t45\n\t\t22\n\t\t23\n\t\t4\n\t\n\t\n\t\tBUENAVISTA\n\t\t3\n\t\t370\n\t\t178\n\t\t192\n\t\t13\n\t\n\t\n\t\tCERRO BLANCO\n\t\t2\n\t\t67\n\t\t36\n\t\t31\n\t\t4\n\t\n\t\n\t\tCERRO DE NAVA\n\t\t2\n\t\t87\n\t\t42\n\t\t45\n\t\t3\n\t\n\t\n\t\tCHILINTIEL DE JUÁREZ\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tCRISTÓBAL COLÓN\n\t\t3\n\t\t288\n\t\t148\n\t\t140\n\t\t10\n\t\n\t\n\t\tDOCTOR MANUEL VELASCO SUÁREZ\n\t\t2\n\t\t69\n\t\t37\n\t\t32\n\t\t3\n\t\n\t\n\t\tEL BEBEDERO\n\t\t3\n\t\t214\n\t\t102\n\t\t112\n\t\t8\n\t\n\t\n\t\tEL CALVARIO\n\t\t5\n\t\t623\n\t\t315\n\t\t308\n\t\t19\n\t\n\t\n\t\tEL CAPUYIL\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL MIRADOR\n\t\t2\n\t\t153\n\t\t72\n\t\t81\n\t\t4\n\t\n\t\n\t\tEL PARAÍSO\n\t\t3\n\t\t302\n\t\t148\n\t\t154\n\t\t12\n\t\n\t\n\t\tEL VERGEL\n\t\t2\n\t\t23\n\t\t8\n\t\t15\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t69\n\t\t34\n\t\t35\n\t\t3\n\t\n\t\n\t\tFLOR DE GUACAMAYA\n\t\t1\n\t\t14\n\t\t8\n\t\t6\n\t\t1\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t95\n\t\t56\n\t\t39\n\t\t6\n\t\n\t\n\t\tFRONTERA EMILIANO ZAPATA\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tGENERAL CASTELLANOS DOMÍNGUEZ\n\t\t2\n\t\t51\n\t\t21\n\t\t30\n\t\t5\n\t\n\t\n\t\tJESÚS CARRANZA\n\t\t4\n\t\t295\n\t\t154\n\t\t141\n\t\t13\n\t\n\t\n\t\tJUAN GONZÁLEZ ESPONDA\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t48\n\t\t25\n\t\t23\n\t\t2\n\t\n\t\n\t\tLAS ADELITAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS PALMAS SANTA CATARINA\n\t\t2\n\t\t133\n\t\t59\n\t\t74\n\t\t6\n\t\n\t\n\t\tLÁZARO CÁRDENAS DEL RÍO\n\t\t3\n\t\t116\n\t\t51\n\t\t65\n\t\t5\n\t\n\t\n\t\tLOS MANGOS\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS MARTÍNEZ\n\t\t2\n\t\t92\n\t\t42\n\t\t50\n\t\t2\n\t\n\t\n\t\tLOS NARANJOS\n\t\t7\n\t\t975\n\t\t489\n\t\t486\n\t\t36\n\t\n\t\n\t\tMAJASTIC\n\t\t4\n\t\t487\n\t\t227\n\t\t260\n\t\t13\n\t\n\t\n\t\tMOYOS\n\t\t5\n\t\t770\n\t\t379\n\t\t391\n\t\t45\n\t\n\t\n\t\tNUEVO MÉXICO\n\t\t2\n\t\t77\n\t\t46\n\t\t31\n\t\t4\n\t\n\t\n\t\tNUEVO POBLADO SAKIJA\n\t\t2\n\t\t86\n\t\t39\n\t\t47\n\t\t3\n\t\n\t\n\t\tPASIJA DE MORELOS 1RA. SECCIÓN\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tPASIJÁ DE MORELOS 2DA. SECCIÓN\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tQUIOICH\n\t\t2\n\t\t85\n\t\t43\n\t\t42\n\t\t3\n\t\n\t\n\t\tSABANILLA\n\t\t11\n\t\t1,966\n\t\t925\n\t\t1,041\n\t\t76\n\t\n\t\n\t\tSAN JUAN EL MIRADOR\n\t\t2\n\t\t129\n\t\t68\n\t\t61\n\t\t2\n\t\n\t\n\t\tSAN MARCOS\n\t\t1\n\t\t39\n\t\t19\n\t\t20\n\t\t3\n\t\n\t\n\t\tSAN PATRICIO\n\t\t2\n\t\t66\n\t\t34\n\t\t32\n\t\t3\n\t\n\t\n\t\tSAN PEDRO\n\t\t2\n\t\t30\n\t\t18\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t30\n\t\t17\n\t\t13\n\t\t2\n\t\n\t\n\t\tSANTANA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tSHUSHUPÁ\n\t\t3\n\t\t61\n\t\t28\n\t\t33\n\t\t3\n\t\n\t\n\t\tUNIÓN HIDALGO (EL CHORRO)\n\t\t3\n\t\t519\n\t\t268\n\t\t251\n\t\t7\n\t\n\t\n\t\tUNIÓN JUÁREZ\n\t\t3\n\t\t496\n\t\t252\n\t\t244\n\t\t12\n\t\n\t\n\t\tVILLAFLORES\n\t\t2\n\t\t62\n\t\t30\n\t\t32\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t139\n\t\t10,321\n\t\t5,059\n\t\t5,262\n\t\t411\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SABANILLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "12 DE OCTUBRE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "20 DE NOVIEMBRE",
+          "3",
+          "173",
+          "74",
+          "99",
+          "8",
+          "6 DE SEPTIEMBRE",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2",
+          "ALEGRÍA",
+          "2",
+          "31",
+          "18",
+          "13",
+          "3",
+          "ANDRÉS QUINTANA ROO",
+          "6",
+          "576",
+          "279",
+          "297",
+          "20",
+          "ASUNCIÓN HUITIUPAN",
+          "4",
+          "197",
+          "93",
+          "104",
+          "11",
+          "ATOYAC NAYLUM",
+          "3",
+          "186",
+          "94",
+          "92",
+          "10",
+          "BENITO JUÁREZ",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "3",
+          "45",
+          "22",
+          "23",
+          "4",
+          "BUENAVISTA",
+          "3",
+          "370",
+          "178",
+          "192",
+          "13",
+          "CERRO BLANCO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4",
+          "CERRO DE NAVA",
+          "2",
+          "87",
+          "42",
+          "45",
+          "3",
+          "CHILINTIEL DE JUÁREZ",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "CRISTÓBAL COLÓN",
+          "3",
+          "288",
+          "148",
+          "140",
+          "10",
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "2",
+          "69",
+          "37",
+          "32",
+          "3",
+          "EL BEBEDERO",
+          "3",
+          "214",
+          "102",
+          "112",
+          "8",
+          "EL CALVARIO",
+          "5",
+          "623",
+          "315",
+          "308",
+          "19",
+          "EL CAPUYIL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "EL MIRADOR",
+          "2",
+          "153",
+          "72",
+          "81",
+          "4",
+          "EL PARAÍSO",
+          "3",
+          "302",
+          "148",
+          "154",
+          "12",
+          "EL VERGEL",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2",
+          "EMILIANO ZAPATA",
+          "3",
+          "69",
+          "34",
+          "35",
+          "3",
+          "FLOR DE GUACAMAYA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "1",
+          "FRANCISCO VILLA",
+          "2",
+          "95",
+          "56",
+          "39",
+          "6",
+          "FRONTERA EMILIANO ZAPATA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "GENERAL CASTELLANOS DOMÍNGUEZ",
+          "2",
+          "51",
+          "21",
+          "30",
+          "5",
+          "JESÚS CARRANZA",
+          "4",
+          "295",
+          "154",
+          "141",
+          "13",
+          "JUAN GONZÁLEZ ESPONDA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2",
+          "LA PROVIDENCIA",
+          "2",
+          "48",
+          "25",
+          "23",
+          "2",
+          "LAS ADELITAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LAS PALMAS SANTA CATARINA",
+          "2",
+          "133",
+          "59",
+          "74",
+          "6",
+          "LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "116",
+          "51",
+          "65",
+          "5",
+          "LOS MANGOS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1",
+          "LOS MARTÍNEZ",
+          "2",
+          "92",
+          "42",
+          "50",
+          "2",
+          "LOS NARANJOS",
+          "7",
+          "975",
+          "489",
+          "486",
+          "36",
+          "MAJASTIC",
+          "4",
+          "487",
+          "227",
+          "260",
+          "13",
+          "MOYOS",
+          "5",
+          "770",
+          "379",
+          "391",
+          "45",
+          "NUEVO MÉXICO",
+          "2",
+          "77",
+          "46",
+          "31",
+          "4",
+          "NUEVO POBLADO SAKIJA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "3",
+          "PASIJA DE MORELOS 1RA. SECCIÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "PASIJÁ DE MORELOS 2DA. SECCIÓN",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "QUIOICH",
+          "2",
+          "85",
+          "43",
+          "42",
+          "3",
+          "SABANILLA",
+          "11",
+          "1,966",
+          "925",
+          "1,041",
+          "76",
+          "SAN JUAN EL MIRADOR",
+          "2",
+          "129",
+          "68",
+          "61",
+          "2",
+          "SAN MARCOS",
+          "1",
+          "39",
+          "19",
+          "20",
+          "3",
+          "SAN PATRICIO",
+          "2",
+          "66",
+          "34",
+          "32",
+          "3",
+          "SAN PEDRO",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2",
+          "SAN RAFAEL",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2",
+          "SANTANA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "SHUSHUPÁ",
+          "3",
+          "61",
+          "28",
+          "33",
+          "3",
+          "UNIÓN HIDALGO (EL CHORRO)",
+          "3",
+          "519",
+          "268",
+          "251",
+          "7",
+          "UNIÓN JUÁREZ",
+          "3",
+          "496",
+          "252",
+          "244",
+          "12",
+          "VILLAFLORES",
+          "2",
+          "62",
+          "30",
+          "32",
+          "4",
+          "TOTAL",
+          "139",
+          "10,321",
+          "5,059",
+          "5,262",
+          "411",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SABANILLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "12 DE OCTUBRE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "20 DE NOVIEMBRE",
+          "3",
+          "173",
+          "74",
+          "99",
+          "8"
+        ],
+        [
+          "6 DE SEPTIEMBRE",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "ALEGRÍA",
+          "2",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO",
+          "6",
+          "576",
+          "279",
+          "297",
+          "20"
+        ],
+        [
+          "ASUNCIÓN HUITIUPAN",
+          "4",
+          "197",
+          "93",
+          "104",
+          "11"
+        ],
+        [
+          "ATOYAC NAYLUM",
+          "3",
+          "186",
+          "94",
+          "92",
+          "10"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "3",
+          "45",
+          "22",
+          "23",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "370",
+          "178",
+          "192",
+          "13"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "CERRO DE NAVA",
+          "2",
+          "87",
+          "42",
+          "45",
+          "3"
+        ],
+        [
+          "CHILINTIEL DE JUÁREZ",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "3",
+          "288",
+          "148",
+          "140",
+          "10"
+        ],
+        [
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "2",
+          "69",
+          "37",
+          "32",
+          "3"
+        ],
+        [
+          "EL BEBEDERO",
+          "3",
+          "214",
+          "102",
+          "112",
+          "8"
+        ],
+        [
+          "EL CALVARIO",
+          "5",
+          "623",
+          "315",
+          "308",
+          "19"
+        ],
+        [
+          "EL CAPUYIL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "153",
+          "72",
+          "81",
+          "4"
+        ],
+        [
+          "EL PARAÍSO",
+          "3",
+          "302",
+          "148",
+          "154",
+          "12"
+        ],
+        [
+          "EL VERGEL",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "69",
+          "34",
+          "35",
+          "3"
+        ],
+        [
+          "FLOR DE GUACAMAYA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "95",
+          "56",
+          "39",
+          "6"
+        ],
+        [
+          "FRONTERA EMILIANO ZAPATA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GENERAL CASTELLANOS DOMÍNGUEZ",
+          "2",
+          "51",
+          "21",
+          "30",
+          "5"
+        ],
+        [
+          "JESÚS CARRANZA",
+          "4",
+          "295",
+          "154",
+          "141",
+          "13"
+        ],
+        [
+          "JUAN GONZÁLEZ ESPONDA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "48",
+          "25",
+          "23",
+          "2"
+        ],
+        [
+          "LAS ADELITAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS PALMAS SANTA CATARINA",
+          "2",
+          "133",
+          "59",
+          "74",
+          "6"
+        ],
+        [
+          "LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "116",
+          "51",
+          "65",
+          "5"
+        ],
+        [
+          "LOS MANGOS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS MARTÍNEZ",
+          "2",
+          "92",
+          "42",
+          "50",
+          "2"
+        ],
+        [
+          "LOS NARANJOS",
+          "7",
+          "975",
+          "489",
+          "486",
+          "36"
+        ],
+        [
+          "MAJASTIC",
+          "4",
+          "487",
+          "227",
+          "260",
+          "13"
+        ],
+        [
+          "MOYOS",
+          "5",
+          "770",
+          "379",
+          "391",
+          "45"
+        ],
+        [
+          "NUEVO MÉXICO",
+          "2",
+          "77",
+          "46",
+          "31",
+          "4"
+        ],
+        [
+          "NUEVO POBLADO SAKIJA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "3"
+        ],
+        [
+          "PASIJA DE MORELOS 1RA. SECCIÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "PASIJÁ DE MORELOS 2DA. SECCIÓN",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "QUIOICH",
+          "2",
+          "85",
+          "43",
+          "42",
+          "3"
+        ],
+        [
+          "SABANILLA",
+          "11",
+          "1,966",
+          "925",
+          "1,041",
+          "76"
+        ],
+        [
+          "SAN JUAN EL MIRADOR",
+          "2",
+          "129",
+          "68",
+          "61",
+          "2"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "39",
+          "19",
+          "20",
+          "3"
+        ],
+        [
+          "SAN PATRICIO",
+          "2",
+          "66",
+          "34",
+          "32",
+          "3"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "SANTANA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SHUSHUPÁ",
+          "3",
+          "61",
+          "28",
+          "33",
+          "3"
+        ],
+        [
+          "UNIÓN HIDALGO (EL CHORRO)",
+          "3",
+          "519",
+          "268",
+          "251",
+          "7"
+        ],
+        [
+          "UNIÓN JUÁREZ",
+          "3",
+          "496",
+          "252",
+          "244",
+          "12"
+        ],
+        [
+          "VILLAFLORES",
+          "2",
+          "62",
+          "30",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "139",
+          "10,321",
+          "5,059",
+          "5,262",
+          "411"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: SABANILLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "12 DE OCTUBRE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "20 DE NOVIEMBRE",
+          "3",
+          "173",
+          "74",
+          "99",
+          "8"
+        ],
+        [
+          "6 DE SEPTIEMBRE",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "ALEGRÍA",
+          "2",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "ANDRÉS QUINTANA ROO",
+          "6",
+          "576",
+          "279",
+          "297",
+          "20"
+        ],
+        [
+          "ASUNCIÓN HUITIUPAN",
+          "4",
+          "197",
+          "93",
+          "104",
+          "11"
+        ],
+        [
+          "ATOYAC NAYLUM",
+          "3",
+          "186",
+          "94",
+          "92",
+          "10"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ 2DA. SECCIÓN",
+          "3",
+          "45",
+          "22",
+          "23",
+          "4"
+        ],
+        [
+          "BUENAVISTA",
+          "3",
+          "370",
+          "178",
+          "192",
+          "13"
+        ],
+        [
+          "CERRO BLANCO",
+          "2",
+          "67",
+          "36",
+          "31",
+          "4"
+        ],
+        [
+          "CERRO DE NAVA",
+          "2",
+          "87",
+          "42",
+          "45",
+          "3"
+        ],
+        [
+          "CHILINTIEL DE JUÁREZ",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "3",
+          "288",
+          "148",
+          "140",
+          "10"
+        ],
+        [
+          "DOCTOR MANUEL VELASCO SUÁREZ",
+          "2",
+          "69",
+          "37",
+          "32",
+          "3"
+        ],
+        [
+          "EL BEBEDERO",
+          "3",
+          "214",
+          "102",
+          "112",
+          "8"
+        ],
+        [
+          "EL CALVARIO",
+          "5",
+          "623",
+          "315",
+          "308",
+          "19"
+        ],
+        [
+          "EL CAPUYIL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "153",
+          "72",
+          "81",
+          "4"
+        ],
+        [
+          "EL PARAÍSO",
+          "3",
+          "302",
+          "148",
+          "154",
+          "12"
+        ],
+        [
+          "EL VERGEL",
+          "2",
+          "23",
+          "8",
+          "15",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "69",
+          "34",
+          "35",
+          "3"
+        ],
+        [
+          "FLOR DE GUACAMAYA",
+          "1",
+          "14",
+          "8",
+          "6",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "95",
+          "56",
+          "39",
+          "6"
+        ],
+        [
+          "FRONTERA EMILIANO ZAPATA",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GENERAL CASTELLANOS DOMÍNGUEZ",
+          "2",
+          "51",
+          "21",
+          "30",
+          "5"
+        ],
+        [
+          "JESÚS CARRANZA",
+          "4",
+          "295",
+          "154",
+          "141",
+          "13"
+        ],
+        [
+          "JUAN GONZÁLEZ ESPONDA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "48",
+          "25",
+          "23",
+          "2"
+        ],
+        [
+          "LAS ADELITAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS PALMAS SANTA CATARINA",
+          "2",
+          "133",
+          "59",
+          "74",
+          "6"
+        ],
+        [
+          "LÁZARO CÁRDENAS DEL RÍO",
+          "3",
+          "116",
+          "51",
+          "65",
+          "5"
+        ],
+        [
+          "LOS MANGOS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "1"
+        ],
+        [
+          "LOS MARTÍNEZ",
+          "2",
+          "92",
+          "42",
+          "50",
+          "2"
+        ],
+        [
+          "LOS NARANJOS",
+          "7",
+          "975",
+          "489",
+          "486",
+          "36"
+        ],
+        [
+          "MAJASTIC",
+          "4",
+          "487",
+          "227",
+          "260",
+          "13"
+        ],
+        [
+          "MOYOS",
+          "5",
+          "770",
+          "379",
+          "391",
+          "45"
+        ],
+        [
+          "NUEVO MÉXICO",
+          "2",
+          "77",
+          "46",
+          "31",
+          "4"
+        ],
+        [
+          "NUEVO POBLADO SAKIJA",
+          "2",
+          "86",
+          "39",
+          "47",
+          "3"
+        ],
+        [
+          "PASIJA DE MORELOS 1RA. SECCIÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "PASIJÁ DE MORELOS 2DA. SECCIÓN",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "QUIOICH",
+          "2",
+          "85",
+          "43",
+          "42",
+          "3"
+        ],
+        [
+          "SABANILLA",
+          "11",
+          "1,966",
+          "925",
+          "1,041",
+          "76"
+        ],
+        [
+          "SAN JUAN EL MIRADOR",
+          "2",
+          "129",
+          "68",
+          "61",
+          "2"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "39",
+          "19",
+          "20",
+          "3"
+        ],
+        [
+          "SAN PATRICIO",
+          "2",
+          "66",
+          "34",
+          "32",
+          "3"
+        ],
+        [
+          "SAN PEDRO",
+          "2",
+          "30",
+          "18",
+          "12",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "30",
+          "17",
+          "13",
+          "2"
+        ],
+        [
+          "SANTANA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "SHUSHUPÁ",
+          "3",
+          "61",
+          "28",
+          "33",
+          "3"
+        ],
+        [
+          "UNIÓN HIDALGO (EL CHORRO)",
+          "3",
+          "519",
+          "268",
+          "251",
+          "7"
+        ],
+        [
+          "UNIÓN JUÁREZ",
+          "3",
+          "496",
+          "252",
+          "244",
+          "12"
+        ],
+        [
+          "VILLAFLORES",
+          "2",
+          "62",
+          "30",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "139",
+          "10,321",
+          "5,059",
+          "5,262",
+          "411"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:32.444Z"
+}

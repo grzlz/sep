@@ -1,0 +1,802 @@
+{
+  "municipality": "AYALA",
+  "municipalityCode": "004",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AYALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tABELARDO L. RODRÍGUEZ\n\t\t3\n\t\t270\n\t\t131\n\t\t139\n\t\t12\n\t\n\t\n\t\tANENECUILCO\n\t\t13\n\t\t1,561\n\t\t807\n\t\t754\n\t\t83\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t1\n\t\t64\n\t\t31\n\t\t33\n\t\t3\n\t\n\t\n\t\tBUENA VISTA\n\t\t4\n\t\t1,888\n\t\t1,146\n\t\t742\n\t\t87\n\t\n\t\n\t\tCHINAMECA\n\t\t5\n\t\t700\n\t\t359\n\t\t341\n\t\t45\n\t\n\t\n\t\tCIUDAD AYALA\n\t\t23\n\t\t2,146\n\t\t1,025\n\t\t1,121\n\t\t172\n\t\n\t\n\t\tCOLONIA AMPLIACIÓN CRUZ VERDE\n\t\t1\n\t\t77\n\t\t36\n\t\t41\n\t\t4\n\t\n\t\n\t\tCOLONIA EJIDAL RAFAEL MERINO\n\t\t1\n\t\t454\n\t\t332\n\t\t122\n\t\t22\n\t\n\t\n\t\tCOLONIA GENERAL EMILIANO ZAPATA (EL CHIVATERO)\n\t\t2\n\t\t68\n\t\t37\n\t\t31\n\t\t4\n\t\n\t\n\t\tCOLONIA LAS ARBOLEDAS\n\t\t2\n\t\t246\n\t\t116\n\t\t130\n\t\t8\n\t\n\t\n\t\tCOLONIA LEOPOLDO HEREDIA\n\t\t2\n\t\t425\n\t\t200\n\t\t225\n\t\t16\n\t\n\t\n\t\tCONSTANCIO FARFÁN (LA PASCUALA)\n\t\t3\n\t\t375\n\t\t185\n\t\t190\n\t\t15\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL SALITRE\n\t\t3\n\t\t280\n\t\t127\n\t\t153\n\t\t12\n\t\n\t\n\t\tEL VERGEL\n\t\t2\n\t\t129\n\t\t61\n\t\t68\n\t\t8\n\t\n\t\n\t\tHUACATLACO (LOS ANONOS)\n\t\t3\n\t\t71\n\t\t32\n\t\t39\n\t\t6\n\t\n\t\n\t\tHUITZILILLA\n\t\t5\n\t\t510\n\t\t255\n\t\t255\n\t\t24\n\t\n\t\n\t\tJALOXTOC\n\t\t6\n\t\t943\n\t\t462\n\t\t481\n\t\t49\n\t\n\t\n\t\tMOYOTEPEC\n\t\t5\n\t\t849\n\t\t415\n\t\t434\n\t\t49\n\t\n\t\n\t\tNIÑOS HÉROES\n\t\t3\n\t\t207\n\t\t94\n\t\t113\n\t\t9\n\t\n\t\n\t\tOLINTEPEC\n\t\t6\n\t\t428\n\t\t207\n\t\t221\n\t\t20\n\t\n\t\n\t\tPALO BLANCO\n\t\t2\n\t\t56\n\t\t33\n\t\t23\n\t\t3\n\t\n\t\n\t\tRANCHO EL PAÑUELO\n\t\t3\n\t\t54\n\t\t23\n\t\t31\n\t\t4\n\t\n\t\n\t\tSAN JUAN AHUEHUEYO\n\t\t4\n\t\t434\n\t\t214\n\t\t220\n\t\t21\n\t\n\t\n\t\tSAN PEDRO APATLACO\n\t\t12\n\t\t1,547\n\t\t802\n\t\t745\n\t\t74\n\t\n\t\n\t\tSAN VICENTE DE JUÁREZ (LAS PIEDRAS)\n\t\t3\n\t\t259\n\t\t132\n\t\t127\n\t\t11\n\t\n\t\n\t\tTECOMALCO\n\t\t3\n\t\t75\n\t\t34\n\t\t41\n\t\t7\n\t\n\t\n\t\tTENEXTEPANGO\n\t\t17\n\t\t2,588\n\t\t1,252\n\t\t1,336\n\t\t117\n\t\n\t\n\t\tTLAYECAC\n\t\t7\n\t\t1,103\n\t\t544\n\t\t559\n\t\t46\n\t\n\t\n\t\tUNIDAD HABITACIONAL 10 DE ABRIL\n\t\t3\n\t\t362\n\t\t169\n\t\t193\n\t\t17\n\t\n\t\n\t\tUNIDAD HABITACIONAL MARIANO MATAMOROS\n\t\t2\n\t\t126\n\t\t58\n\t\t68\n\t\t7\n\t\n\t\n\t\tVALLE DE MORELOS\n\t\t1\n\t\t68\n\t\t31\n\t\t37\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t151\n\t\t18,373\n\t\t9,355\n\t\t9,018\n\t\t959\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AYALA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ABELARDO L. RODRÍGUEZ",
+          "3",
+          "270",
+          "131",
+          "139",
+          "12",
+          "ANENECUILCO",
+          "13",
+          "1,561",
+          "807",
+          "754",
+          "83",
+          "BENITO JUÁREZ",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3",
+          "BUENA VISTA",
+          "4",
+          "1,888",
+          "1,146",
+          "742",
+          "87",
+          "CHINAMECA",
+          "5",
+          "700",
+          "359",
+          "341",
+          "45",
+          "CIUDAD AYALA",
+          "23",
+          "2,146",
+          "1,025",
+          "1,121",
+          "172",
+          "COLONIA AMPLIACIÓN CRUZ VERDE",
+          "1",
+          "77",
+          "36",
+          "41",
+          "4",
+          "COLONIA EJIDAL RAFAEL MERINO",
+          "1",
+          "454",
+          "332",
+          "122",
+          "22",
+          "COLONIA GENERAL EMILIANO ZAPATA (EL CHIVATERO)",
+          "2",
+          "68",
+          "37",
+          "31",
+          "4",
+          "COLONIA LAS ARBOLEDAS",
+          "2",
+          "246",
+          "116",
+          "130",
+          "8",
+          "COLONIA LEOPOLDO HEREDIA",
+          "2",
+          "425",
+          "200",
+          "225",
+          "16",
+          "CONSTANCIO FARFÁN (LA PASCUALA)",
+          "3",
+          "375",
+          "185",
+          "190",
+          "15",
+          "EL MIRADOR",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "EL SALITRE",
+          "3",
+          "280",
+          "127",
+          "153",
+          "12",
+          "EL VERGEL",
+          "2",
+          "129",
+          "61",
+          "68",
+          "8",
+          "HUACATLACO (LOS ANONOS)",
+          "3",
+          "71",
+          "32",
+          "39",
+          "6",
+          "HUITZILILLA",
+          "5",
+          "510",
+          "255",
+          "255",
+          "24",
+          "JALOXTOC",
+          "6",
+          "943",
+          "462",
+          "481",
+          "49",
+          "MOYOTEPEC",
+          "5",
+          "849",
+          "415",
+          "434",
+          "49",
+          "NIÑOS HÉROES",
+          "3",
+          "207",
+          "94",
+          "113",
+          "9",
+          "OLINTEPEC",
+          "6",
+          "428",
+          "207",
+          "221",
+          "20",
+          "PALO BLANCO",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3",
+          "RANCHO EL PAÑUELO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "4",
+          "SAN JUAN AHUEHUEYO",
+          "4",
+          "434",
+          "214",
+          "220",
+          "21",
+          "SAN PEDRO APATLACO",
+          "12",
+          "1,547",
+          "802",
+          "745",
+          "74",
+          "SAN VICENTE DE JUÁREZ (LAS PIEDRAS)",
+          "3",
+          "259",
+          "132",
+          "127",
+          "11",
+          "TECOMALCO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "7",
+          "TENEXTEPANGO",
+          "17",
+          "2,588",
+          "1,252",
+          "1,336",
+          "117",
+          "TLAYECAC",
+          "7",
+          "1,103",
+          "544",
+          "559",
+          "46",
+          "UNIDAD HABITACIONAL 10 DE ABRIL",
+          "3",
+          "362",
+          "169",
+          "193",
+          "17",
+          "UNIDAD HABITACIONAL MARIANO MATAMOROS",
+          "2",
+          "126",
+          "58",
+          "68",
+          "7",
+          "VALLE DE MORELOS",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3",
+          "TOTAL",
+          "151",
+          "18,373",
+          "9,355",
+          "9,018",
+          "959",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AYALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ",
+          "3",
+          "270",
+          "131",
+          "139",
+          "12"
+        ],
+        [
+          "ANENECUILCO",
+          "13",
+          "1,561",
+          "807",
+          "754",
+          "83"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3"
+        ],
+        [
+          "BUENA VISTA",
+          "4",
+          "1,888",
+          "1,146",
+          "742",
+          "87"
+        ],
+        [
+          "CHINAMECA",
+          "5",
+          "700",
+          "359",
+          "341",
+          "45"
+        ],
+        [
+          "CIUDAD AYALA",
+          "23",
+          "2,146",
+          "1,025",
+          "1,121",
+          "172"
+        ],
+        [
+          "COLONIA AMPLIACIÓN CRUZ VERDE",
+          "1",
+          "77",
+          "36",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA EJIDAL RAFAEL MERINO",
+          "1",
+          "454",
+          "332",
+          "122",
+          "22"
+        ],
+        [
+          "COLONIA GENERAL EMILIANO ZAPATA (EL CHIVATERO)",
+          "2",
+          "68",
+          "37",
+          "31",
+          "4"
+        ],
+        [
+          "COLONIA LAS ARBOLEDAS",
+          "2",
+          "246",
+          "116",
+          "130",
+          "8"
+        ],
+        [
+          "COLONIA LEOPOLDO HEREDIA",
+          "2",
+          "425",
+          "200",
+          "225",
+          "16"
+        ],
+        [
+          "CONSTANCIO FARFÁN (LA PASCUALA)",
+          "3",
+          "375",
+          "185",
+          "190",
+          "15"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "280",
+          "127",
+          "153",
+          "12"
+        ],
+        [
+          "EL VERGEL",
+          "2",
+          "129",
+          "61",
+          "68",
+          "8"
+        ],
+        [
+          "HUACATLACO (LOS ANONOS)",
+          "3",
+          "71",
+          "32",
+          "39",
+          "6"
+        ],
+        [
+          "HUITZILILLA",
+          "5",
+          "510",
+          "255",
+          "255",
+          "24"
+        ],
+        [
+          "JALOXTOC",
+          "6",
+          "943",
+          "462",
+          "481",
+          "49"
+        ],
+        [
+          "MOYOTEPEC",
+          "5",
+          "849",
+          "415",
+          "434",
+          "49"
+        ],
+        [
+          "NIÑOS HÉROES",
+          "3",
+          "207",
+          "94",
+          "113",
+          "9"
+        ],
+        [
+          "OLINTEPEC",
+          "6",
+          "428",
+          "207",
+          "221",
+          "20"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "RANCHO EL PAÑUELO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "4"
+        ],
+        [
+          "SAN JUAN AHUEHUEYO",
+          "4",
+          "434",
+          "214",
+          "220",
+          "21"
+        ],
+        [
+          "SAN PEDRO APATLACO",
+          "12",
+          "1,547",
+          "802",
+          "745",
+          "74"
+        ],
+        [
+          "SAN VICENTE DE JUÁREZ (LAS PIEDRAS)",
+          "3",
+          "259",
+          "132",
+          "127",
+          "11"
+        ],
+        [
+          "TECOMALCO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "7"
+        ],
+        [
+          "TENEXTEPANGO",
+          "17",
+          "2,588",
+          "1,252",
+          "1,336",
+          "117"
+        ],
+        [
+          "TLAYECAC",
+          "7",
+          "1,103",
+          "544",
+          "559",
+          "46"
+        ],
+        [
+          "UNIDAD HABITACIONAL 10 DE ABRIL",
+          "3",
+          "362",
+          "169",
+          "193",
+          "17"
+        ],
+        [
+          "UNIDAD HABITACIONAL MARIANO MATAMOROS",
+          "2",
+          "126",
+          "58",
+          "68",
+          "7"
+        ],
+        [
+          "VALLE DE MORELOS",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "18,373",
+          "9,355",
+          "9,018",
+          "959"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: AYALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ABELARDO L. RODRÍGUEZ",
+          "3",
+          "270",
+          "131",
+          "139",
+          "12"
+        ],
+        [
+          "ANENECUILCO",
+          "13",
+          "1,561",
+          "807",
+          "754",
+          "83"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "1",
+          "64",
+          "31",
+          "33",
+          "3"
+        ],
+        [
+          "BUENA VISTA",
+          "4",
+          "1,888",
+          "1,146",
+          "742",
+          "87"
+        ],
+        [
+          "CHINAMECA",
+          "5",
+          "700",
+          "359",
+          "341",
+          "45"
+        ],
+        [
+          "CIUDAD AYALA",
+          "23",
+          "2,146",
+          "1,025",
+          "1,121",
+          "172"
+        ],
+        [
+          "COLONIA AMPLIACIÓN CRUZ VERDE",
+          "1",
+          "77",
+          "36",
+          "41",
+          "4"
+        ],
+        [
+          "COLONIA EJIDAL RAFAEL MERINO",
+          "1",
+          "454",
+          "332",
+          "122",
+          "22"
+        ],
+        [
+          "COLONIA GENERAL EMILIANO ZAPATA (EL CHIVATERO)",
+          "2",
+          "68",
+          "37",
+          "31",
+          "4"
+        ],
+        [
+          "COLONIA LAS ARBOLEDAS",
+          "2",
+          "246",
+          "116",
+          "130",
+          "8"
+        ],
+        [
+          "COLONIA LEOPOLDO HEREDIA",
+          "2",
+          "425",
+          "200",
+          "225",
+          "16"
+        ],
+        [
+          "CONSTANCIO FARFÁN (LA PASCUALA)",
+          "3",
+          "375",
+          "185",
+          "190",
+          "15"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "EL SALITRE",
+          "3",
+          "280",
+          "127",
+          "153",
+          "12"
+        ],
+        [
+          "EL VERGEL",
+          "2",
+          "129",
+          "61",
+          "68",
+          "8"
+        ],
+        [
+          "HUACATLACO (LOS ANONOS)",
+          "3",
+          "71",
+          "32",
+          "39",
+          "6"
+        ],
+        [
+          "HUITZILILLA",
+          "5",
+          "510",
+          "255",
+          "255",
+          "24"
+        ],
+        [
+          "JALOXTOC",
+          "6",
+          "943",
+          "462",
+          "481",
+          "49"
+        ],
+        [
+          "MOYOTEPEC",
+          "5",
+          "849",
+          "415",
+          "434",
+          "49"
+        ],
+        [
+          "NIÑOS HÉROES",
+          "3",
+          "207",
+          "94",
+          "113",
+          "9"
+        ],
+        [
+          "OLINTEPEC",
+          "6",
+          "428",
+          "207",
+          "221",
+          "20"
+        ],
+        [
+          "PALO BLANCO",
+          "2",
+          "56",
+          "33",
+          "23",
+          "3"
+        ],
+        [
+          "RANCHO EL PAÑUELO",
+          "3",
+          "54",
+          "23",
+          "31",
+          "4"
+        ],
+        [
+          "SAN JUAN AHUEHUEYO",
+          "4",
+          "434",
+          "214",
+          "220",
+          "21"
+        ],
+        [
+          "SAN PEDRO APATLACO",
+          "12",
+          "1,547",
+          "802",
+          "745",
+          "74"
+        ],
+        [
+          "SAN VICENTE DE JUÁREZ (LAS PIEDRAS)",
+          "3",
+          "259",
+          "132",
+          "127",
+          "11"
+        ],
+        [
+          "TECOMALCO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "7"
+        ],
+        [
+          "TENEXTEPANGO",
+          "17",
+          "2,588",
+          "1,252",
+          "1,336",
+          "117"
+        ],
+        [
+          "TLAYECAC",
+          "7",
+          "1,103",
+          "544",
+          "559",
+          "46"
+        ],
+        [
+          "UNIDAD HABITACIONAL 10 DE ABRIL",
+          "3",
+          "362",
+          "169",
+          "193",
+          "17"
+        ],
+        [
+          "UNIDAD HABITACIONAL MARIANO MATAMOROS",
+          "2",
+          "126",
+          "58",
+          "68",
+          "7"
+        ],
+        [
+          "VALLE DE MORELOS",
+          "1",
+          "68",
+          "31",
+          "37",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "18,373",
+          "9,355",
+          "9,018",
+          "959"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:16.404Z"
+}

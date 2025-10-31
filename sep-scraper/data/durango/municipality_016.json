@@ -1,0 +1,714 @@
+{
+  "municipality": "NOMBRE DE DIOS",
+  "municipalityCode": "016",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NOMBRE DE DIOS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMADO NERVO\n\t\t2\n\t\t155\n\t\t83\n\t\t72\n\t\t8\n\t\n\t\n\t\tCUEVA BLANCA\n\t\t2\n\t\t62\n\t\t31\n\t\t31\n\t\t5\n\t\n\t\n\t\tEL LLANO\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t5\n\t\n\t\n\t\tEL MOLINO DEL PUEBLO\n\t\t2\n\t\t30\n\t\t16\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL PARTIDOR\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t3\n\t\n\t\n\t\tEL PUEBLITO VEINTE DE NOVIEMBRE (LA FÁBRICA)\n\t\t2\n\t\t47\n\t\t24\n\t\t23\n\t\t5\n\t\n\t\n\t\tEL TOBE\n\t\t2\n\t\t43\n\t\t19\n\t\t24\n\t\t4\n\t\n\t\n\t\tEMILIO PORTES GIL\n\t\t2\n\t\t36\n\t\t16\n\t\t20\n\t\t3\n\t\n\t\n\t\tFRANCISCO VILLA (SAN ISIDRO)\n\t\t2\n\t\t38\n\t\t16\n\t\t22\n\t\t3\n\t\n\t\n\t\tGABRIEL HERNÁNDEZ (MANCINAS)\n\t\t3\n\t\t218\n\t\t110\n\t\t108\n\t\t19\n\t\n\t\n\t\tGENERAL FRANCISCO MURGUÍA\n\t\t3\n\t\t263\n\t\t135\n\t\t128\n\t\t16\n\t\n\t\n\t\tGENERAL FRANCISCO VILLA (PASO REAL)\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tIGNACIO ZARAGOZA (LAS COTORRAS)\n\t\t2\n\t\t54\n\t\t25\n\t\t29\n\t\t4\n\t\n\t\n\t\tLA CONSTANCIA\n\t\t4\n\t\t241\n\t\t123\n\t\t118\n\t\t20\n\t\n\t\n\t\tLAS CORRIENTES\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tLAURO DEL VILLAR\n\t\t3\n\t\t90\n\t\t44\n\t\t46\n\t\t8\n\t\n\t\n\t\tLUMBRERAS\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t4\n\t\n\t\n\t\tNIXTALPAN\n\t\t2\n\t\t37\n\t\t17\n\t\t20\n\t\t3\n\t\n\t\n\t\tNOMBRE DE DIOS\n\t\t13\n\t\t1,986\n\t\t1,014\n\t\t972\n\t\t123\n\t\n\t\n\t\tOJO DE AGUA DE SAN JUAN\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA LOS BERROS (LOS BERROS)\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tREVOLUCIÓN SOCIAL\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tROJAS\n\t\t3\n\t\t152\n\t\t74\n\t\t78\n\t\t10\n\t\n\t\n\t\tSAN JOSÉ DE ACEVEDO (LA GALERA)\n\t\t2\n\t\t14\n\t\t10\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN JOSÉ DE LA PARRILLA (LA PARRILLA)\n\t\t4\n\t\t314\n\t\t146\n\t\t168\n\t\t26\n\t\n\t\n\t\tSANTA CRUZ DE GUADALUPE\n\t\t3\n\t\t268\n\t\t133\n\t\t135\n\t\t14\n\t\n\t\n\t\tTEXCALILLO\n\t\t2\n\t\t53\n\t\t23\n\t\t30\n\t\t4\n\t\n\t\n\t\tTUITÁN (SAN JOSÉ DE TUITÁN)\n\t\t4\n\t\t139\n\t\t76\n\t\t63\n\t\t18\n\t\n\t\n\t\tTOTAL\n\t\t78\n\t\t4,429\n\t\t2,228\n\t\t2,201\n\t\t318\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NOMBRE DE DIOS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMADO NERVO",
+          "2",
+          "155",
+          "83",
+          "72",
+          "8",
+          "CUEVA BLANCA",
+          "2",
+          "62",
+          "31",
+          "31",
+          "5",
+          "EL LLANO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "5",
+          "EL MOLINO DEL PUEBLO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3",
+          "EL PARTIDOR",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3",
+          "EL PUEBLITO VEINTE DE NOVIEMBRE (LA FÁBRICA)",
+          "2",
+          "47",
+          "24",
+          "23",
+          "5",
+          "EL TOBE",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4",
+          "EMILIO PORTES GIL",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3",
+          "FRANCISCO VILLA (SAN ISIDRO)",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3",
+          "GABRIEL HERNÁNDEZ (MANCINAS)",
+          "3",
+          "218",
+          "110",
+          "108",
+          "19",
+          "GENERAL FRANCISCO MURGUÍA",
+          "3",
+          "263",
+          "135",
+          "128",
+          "16",
+          "GENERAL FRANCISCO VILLA (PASO REAL)",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2",
+          "IGNACIO ZARAGOZA (LAS COTORRAS)",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4",
+          "LA CONSTANCIA",
+          "4",
+          "241",
+          "123",
+          "118",
+          "20",
+          "LAS CORRIENTES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "LAURO DEL VILLAR",
+          "3",
+          "90",
+          "44",
+          "46",
+          "8",
+          "LUMBRERAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4",
+          "NIXTALPAN",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3",
+          "NOMBRE DE DIOS",
+          "13",
+          "1,986",
+          "1,014",
+          "972",
+          "123",
+          "OJO DE AGUA DE SAN JUAN",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "OJO DE AGUA LOS BERROS (LOS BERROS)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "REVOLUCIÓN SOCIAL",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "ROJAS",
+          "3",
+          "152",
+          "74",
+          "78",
+          "10",
+          "SAN JOSÉ DE ACEVEDO (LA GALERA)",
+          "2",
+          "14",
+          "10",
+          "4",
+          "1",
+          "SAN JOSÉ DE LA PARRILLA (LA PARRILLA)",
+          "4",
+          "314",
+          "146",
+          "168",
+          "26",
+          "SANTA CRUZ DE GUADALUPE",
+          "3",
+          "268",
+          "133",
+          "135",
+          "14",
+          "TEXCALILLO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4",
+          "TUITÁN (SAN JOSÉ DE TUITÁN)",
+          "4",
+          "139",
+          "76",
+          "63",
+          "18",
+          "TOTAL",
+          "78",
+          "4,429",
+          "2,228",
+          "2,201",
+          "318",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NOMBRE DE DIOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMADO NERVO",
+          "2",
+          "155",
+          "83",
+          "72",
+          "8"
+        ],
+        [
+          "CUEVA BLANCA",
+          "2",
+          "62",
+          "31",
+          "31",
+          "5"
+        ],
+        [
+          "EL LLANO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "5"
+        ],
+        [
+          "EL MOLINO DEL PUEBLO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "EL PARTIDOR",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "EL PUEBLITO VEINTE DE NOVIEMBRE (LA FÁBRICA)",
+          "2",
+          "47",
+          "24",
+          "23",
+          "5"
+        ],
+        [
+          "EL TOBE",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA (SAN ISIDRO)",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "GABRIEL HERNÁNDEZ (MANCINAS)",
+          "3",
+          "218",
+          "110",
+          "108",
+          "19"
+        ],
+        [
+          "GENERAL FRANCISCO MURGUÍA",
+          "3",
+          "263",
+          "135",
+          "128",
+          "16"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA (PASO REAL)",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "IGNACIO ZARAGOZA (LAS COTORRAS)",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "LA CONSTANCIA",
+          "4",
+          "241",
+          "123",
+          "118",
+          "20"
+        ],
+        [
+          "LAS CORRIENTES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LAURO DEL VILLAR",
+          "3",
+          "90",
+          "44",
+          "46",
+          "8"
+        ],
+        [
+          "LUMBRERAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "NIXTALPAN",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "NOMBRE DE DIOS",
+          "13",
+          "1,986",
+          "1,014",
+          "972",
+          "123"
+        ],
+        [
+          "OJO DE AGUA DE SAN JUAN",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "OJO DE AGUA LOS BERROS (LOS BERROS)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "REVOLUCIÓN SOCIAL",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "ROJAS",
+          "3",
+          "152",
+          "74",
+          "78",
+          "10"
+        ],
+        [
+          "SAN JOSÉ DE ACEVEDO (LA GALERA)",
+          "2",
+          "14",
+          "10",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA PARRILLA (LA PARRILLA)",
+          "4",
+          "314",
+          "146",
+          "168",
+          "26"
+        ],
+        [
+          "SANTA CRUZ DE GUADALUPE",
+          "3",
+          "268",
+          "133",
+          "135",
+          "14"
+        ],
+        [
+          "TEXCALILLO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "TUITÁN (SAN JOSÉ DE TUITÁN)",
+          "4",
+          "139",
+          "76",
+          "63",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "4,429",
+          "2,228",
+          "2,201",
+          "318"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NOMBRE DE DIOS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMADO NERVO",
+          "2",
+          "155",
+          "83",
+          "72",
+          "8"
+        ],
+        [
+          "CUEVA BLANCA",
+          "2",
+          "62",
+          "31",
+          "31",
+          "5"
+        ],
+        [
+          "EL LLANO",
+          "2",
+          "42",
+          "18",
+          "24",
+          "5"
+        ],
+        [
+          "EL MOLINO DEL PUEBLO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "3"
+        ],
+        [
+          "EL PARTIDOR",
+          "2",
+          "18",
+          "9",
+          "9",
+          "3"
+        ],
+        [
+          "EL PUEBLITO VEINTE DE NOVIEMBRE (LA FÁBRICA)",
+          "2",
+          "47",
+          "24",
+          "23",
+          "5"
+        ],
+        [
+          "EL TOBE",
+          "2",
+          "43",
+          "19",
+          "24",
+          "4"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "2",
+          "36",
+          "16",
+          "20",
+          "3"
+        ],
+        [
+          "FRANCISCO VILLA (SAN ISIDRO)",
+          "2",
+          "38",
+          "16",
+          "22",
+          "3"
+        ],
+        [
+          "GABRIEL HERNÁNDEZ (MANCINAS)",
+          "3",
+          "218",
+          "110",
+          "108",
+          "19"
+        ],
+        [
+          "GENERAL FRANCISCO MURGUÍA",
+          "3",
+          "263",
+          "135",
+          "128",
+          "16"
+        ],
+        [
+          "GENERAL FRANCISCO VILLA (PASO REAL)",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "IGNACIO ZARAGOZA (LAS COTORRAS)",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "LA CONSTANCIA",
+          "4",
+          "241",
+          "123",
+          "118",
+          "20"
+        ],
+        [
+          "LAS CORRIENTES",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LAURO DEL VILLAR",
+          "3",
+          "90",
+          "44",
+          "46",
+          "8"
+        ],
+        [
+          "LUMBRERAS",
+          "3",
+          "29",
+          "14",
+          "15",
+          "4"
+        ],
+        [
+          "NIXTALPAN",
+          "2",
+          "37",
+          "17",
+          "20",
+          "3"
+        ],
+        [
+          "NOMBRE DE DIOS",
+          "13",
+          "1,986",
+          "1,014",
+          "972",
+          "123"
+        ],
+        [
+          "OJO DE AGUA DE SAN JUAN",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "OJO DE AGUA LOS BERROS (LOS BERROS)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "REVOLUCIÓN SOCIAL",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "ROJAS",
+          "3",
+          "152",
+          "74",
+          "78",
+          "10"
+        ],
+        [
+          "SAN JOSÉ DE ACEVEDO (LA GALERA)",
+          "2",
+          "14",
+          "10",
+          "4",
+          "1"
+        ],
+        [
+          "SAN JOSÉ DE LA PARRILLA (LA PARRILLA)",
+          "4",
+          "314",
+          "146",
+          "168",
+          "26"
+        ],
+        [
+          "SANTA CRUZ DE GUADALUPE",
+          "3",
+          "268",
+          "133",
+          "135",
+          "14"
+        ],
+        [
+          "TEXCALILLO",
+          "2",
+          "53",
+          "23",
+          "30",
+          "4"
+        ],
+        [
+          "TUITÁN (SAN JOSÉ DE TUITÁN)",
+          "4",
+          "139",
+          "76",
+          "63",
+          "18"
+        ],
+        [
+          "TOTAL",
+          "78",
+          "4,429",
+          "2,228",
+          "2,201",
+          "318"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:49.280Z"
+}

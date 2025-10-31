@@ -1,0 +1,758 @@
+{
+  "municipality": "MAPIMÍ",
+  "municipalityCode": "013",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: MAPIMÍ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBERMEJILLO\n\t\t13\n\t\t2,595\n\t\t1,281\n\t\t1,314\n\t\t177\n\t\n\t\n\t\tBUEN DÍA\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tCEBALLOS\n\t\t6\n\t\t1,142\n\t\t572\n\t\t570\n\t\t55\n\t\n\t\n\t\tEL DIAMANTE\n\t\t3\n\t\t38\n\t\t20\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL MIXTECO (SPR LÁZARO CÁRDENAS)\n\t\t2\n\t\t26\n\t\t15\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL VEINTICUATRO\n\t\t3\n\t\t40\n\t\t18\n\t\t22\n\t\t4\n\t\n\t\n\t\tEMILIANO ZAPATA (EL DERRAME)\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA (EL SETENTA)\n\t\t1\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tESTACIÓN YERMO\n\t\t2\n\t\t30\n\t\t16\n\t\t14\n\t\t2\n\t\n\t\n\t\tFRANCISCO MONTES DE OCA (EL ZORRILLO)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tJARALITO\n\t\t3\n\t\t42\n\t\t21\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA CADENA\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA ESPERANZA (PALOMAS)\n\t\t2\n\t\t51\n\t\t29\n\t\t22\n\t\t3\n\t\n\t\n\t\tLAS MARÍAS\n\t\t3\n\t\t72\n\t\t37\n\t\t35\n\t\t4\n\t\n\t\n\t\tLINDAVISTA (BALTAZAR) [PROPIEDAD PRIVADA]\n\t\t1\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tMAPIMÍ\n\t\t8\n\t\t1,790\n\t\t933\n\t\t857\n\t\t89\n\t\n\t\n\t\tMARTHA\n\t\t4\n\t\t367\n\t\t195\n\t\t172\n\t\t19\n\t\n\t\n\t\tNUEVA ESTRELLA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t3\n\t\t26\n\t\t11\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN ISIDRO DE YERMO\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN ISIDRO DEL DERRAME\n\t\t3\n\t\t33\n\t\t15\n\t\t18\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE BELLAVISTA\n\t\t3\n\t\t107\n\t\t47\n\t\t60\n\t\t7\n\t\n\t\n\t\tSAN JUAN DE CAÑITAS\n\t\t3\n\t\t88\n\t\t43\n\t\t45\n\t\t5\n\t\n\t\n\t\tSAN MARTÍN\n\t\t3\n\t\t26\n\t\t14\n\t\t12\n\t\t3\n\t\n\t\n\t\tSANTA ELENA\n\t\t3\n\t\t28\n\t\t10\n\t\t18\n\t\t3\n\t\n\t\n\t\tSANTA INÉS\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tSANTA MARÍA DE LA PAZ (VIEJO)\n\t\t3\n\t\t28\n\t\t16\n\t\t12\n\t\t3\n\t\n\t\n\t\tTREINTA DE NOVIEMBRE\n\t\t3\n\t\t37\n\t\t21\n\t\t16\n\t\t3\n\t\n\t\n\t\tVEINTIDÓS DE FEBRERO\n\t\t4\n\t\t232\n\t\t103\n\t\t129\n\t\t14\n\t\n\t\n\t\tVENUSTIANO CARRANZA (EL SEIS)\n\t\t3\n\t\t17\n\t\t6\n\t\t11\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t90\n\t\t6,914\n\t\t3,474\n\t\t3,440\n\t\t420\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: MAPIMÍ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BERMEJILLO",
+          "13",
+          "2,595",
+          "1,281",
+          "1,314",
+          "177",
+          "BUEN DÍA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "CEBALLOS",
+          "6",
+          "1,142",
+          "572",
+          "570",
+          "55",
+          "EL DIAMANTE",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3",
+          "EL MIXTECO (SPR LÁZARO CÁRDENAS)",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2",
+          "EL VEINTICUATRO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4",
+          "EMILIANO ZAPATA (EL DERRAME)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "EMILIANO ZAPATA (EL SETENTA)",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2",
+          "ESTACIÓN YERMO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2",
+          "FRANCISCO MONTES DE OCA (EL ZORRILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "JARALITO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4",
+          "LA CADENA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "LA ESPERANZA (PALOMAS)",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3",
+          "LAS MARÍAS",
+          "3",
+          "72",
+          "37",
+          "35",
+          "4",
+          "LINDAVISTA (BALTAZAR) [PROPIEDAD PRIVADA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1",
+          "MAPIMÍ",
+          "8",
+          "1,790",
+          "933",
+          "857",
+          "89",
+          "MARTHA",
+          "4",
+          "367",
+          "195",
+          "172",
+          "19",
+          "NUEVA ESTRELLA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "11",
+          "15",
+          "3",
+          "SAN ISIDRO DE YERMO",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "SAN ISIDRO DEL DERRAME",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3",
+          "SAN JOSÉ DE BELLAVISTA",
+          "3",
+          "107",
+          "47",
+          "60",
+          "7",
+          "SAN JUAN DE CAÑITAS",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5",
+          "SAN MARTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3",
+          "SANTA ELENA",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3",
+          "SANTA INÉS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "SANTA MARÍA DE LA PAZ (VIEJO)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3",
+          "TREINTA DE NOVIEMBRE",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3",
+          "VEINTIDÓS DE FEBRERO",
+          "4",
+          "232",
+          "103",
+          "129",
+          "14",
+          "VENUSTIANO CARRANZA (EL SEIS)",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3",
+          "TOTAL",
+          "90",
+          "6,914",
+          "3,474",
+          "3,440",
+          "420",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: MAPIMÍ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BERMEJILLO",
+          "13",
+          "2,595",
+          "1,281",
+          "1,314",
+          "177"
+        ],
+        [
+          "BUEN DÍA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CEBALLOS",
+          "6",
+          "1,142",
+          "572",
+          "570",
+          "55"
+        ],
+        [
+          "EL DIAMANTE",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "EL MIXTECO (SPR LÁZARO CÁRDENAS)",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2"
+        ],
+        [
+          "EL VEINTICUATRO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA (EL DERRAME)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (EL SETENTA)",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "ESTACIÓN YERMO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "FRANCISCO MONTES DE OCA (EL ZORRILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "JARALITO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "LA CADENA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LA ESPERANZA (PALOMAS)",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3"
+        ],
+        [
+          "LAS MARÍAS",
+          "3",
+          "72",
+          "37",
+          "35",
+          "4"
+        ],
+        [
+          "LINDAVISTA (BALTAZAR) [PROPIEDAD PRIVADA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "MAPIMÍ",
+          "8",
+          "1,790",
+          "933",
+          "857",
+          "89"
+        ],
+        [
+          "MARTHA",
+          "4",
+          "367",
+          "195",
+          "172",
+          "19"
+        ],
+        [
+          "NUEVA ESTRELLA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "SAN ISIDRO DE YERMO",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ISIDRO DEL DERRAME",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE BELLAVISTA",
+          "3",
+          "107",
+          "47",
+          "60",
+          "7"
+        ],
+        [
+          "SAN JUAN DE CAÑITAS",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5"
+        ],
+        [
+          "SAN MARTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "SANTA ELENA",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "SANTA INÉS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA MARÍA DE LA PAZ (VIEJO)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "TREINTA DE NOVIEMBRE",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "VEINTIDÓS DE FEBRERO",
+          "4",
+          "232",
+          "103",
+          "129",
+          "14"
+        ],
+        [
+          "VENUSTIANO CARRANZA (EL SEIS)",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "6,914",
+          "3,474",
+          "3,440",
+          "420"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: MAPIMÍ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BERMEJILLO",
+          "13",
+          "2,595",
+          "1,281",
+          "1,314",
+          "177"
+        ],
+        [
+          "BUEN DÍA",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CEBALLOS",
+          "6",
+          "1,142",
+          "572",
+          "570",
+          "55"
+        ],
+        [
+          "EL DIAMANTE",
+          "3",
+          "38",
+          "20",
+          "18",
+          "3"
+        ],
+        [
+          "EL MIXTECO (SPR LÁZARO CÁRDENAS)",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2"
+        ],
+        [
+          "EL VEINTICUATRO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "4"
+        ],
+        [
+          "EMILIANO ZAPATA (EL DERRAME)",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (EL SETENTA)",
+          "1",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "ESTACIÓN YERMO",
+          "2",
+          "30",
+          "16",
+          "14",
+          "2"
+        ],
+        [
+          "FRANCISCO MONTES DE OCA (EL ZORRILLO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "JARALITO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "LA CADENA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "LA ESPERANZA (PALOMAS)",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3"
+        ],
+        [
+          "LAS MARÍAS",
+          "3",
+          "72",
+          "37",
+          "35",
+          "4"
+        ],
+        [
+          "LINDAVISTA (BALTAZAR) [PROPIEDAD PRIVADA]",
+          "1",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "MAPIMÍ",
+          "8",
+          "1,790",
+          "933",
+          "857",
+          "89"
+        ],
+        [
+          "MARTHA",
+          "4",
+          "367",
+          "195",
+          "172",
+          "19"
+        ],
+        [
+          "NUEVA ESTRELLA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "3",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "SAN ISIDRO DE YERMO",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ISIDRO DEL DERRAME",
+          "3",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE BELLAVISTA",
+          "3",
+          "107",
+          "47",
+          "60",
+          "7"
+        ],
+        [
+          "SAN JUAN DE CAÑITAS",
+          "3",
+          "88",
+          "43",
+          "45",
+          "5"
+        ],
+        [
+          "SAN MARTÍN",
+          "3",
+          "26",
+          "14",
+          "12",
+          "3"
+        ],
+        [
+          "SANTA ELENA",
+          "3",
+          "28",
+          "10",
+          "18",
+          "3"
+        ],
+        [
+          "SANTA INÉS",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA MARÍA DE LA PAZ (VIEJO)",
+          "3",
+          "28",
+          "16",
+          "12",
+          "3"
+        ],
+        [
+          "TREINTA DE NOVIEMBRE",
+          "3",
+          "37",
+          "21",
+          "16",
+          "3"
+        ],
+        [
+          "VEINTIDÓS DE FEBRERO",
+          "4",
+          "232",
+          "103",
+          "129",
+          "14"
+        ],
+        [
+          "VENUSTIANO CARRANZA (EL SEIS)",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "90",
+          "6,914",
+          "3,474",
+          "3,440",
+          "420"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:37.775Z"
+}

@@ -1,0 +1,670 @@
+{
+  "municipality": "TECAMACHALCO",
+  "municipalityCode": "154",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TECAMACHALCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE JALACINGO (SAN MATEO SECCIÓN 23)\n\t\t2\n\t\t401\n\t\t187\n\t\t214\n\t\t12\n\t\n\t\n\t\tBARRIO LA PROVIDENCIA\n\t\t2\n\t\t384\n\t\t183\n\t\t201\n\t\t13\n\t\n\t\n\t\tCOLONIA CUAUHTÉMOC\n\t\t2\n\t\t60\n\t\t36\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL SALADO\n\t\t3\n\t\t128\n\t\t59\n\t\t69\n\t\t18\n\t\n\t\n\t\tEL TEPEYAC\n\t\t1\n\t\t27\n\t\t12\n\t\t15\n\t\t1\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t246\n\t\t121\n\t\t125\n\t\t9\n\t\n\t\n\t\tJOSÉ MARÍA PINO SUÁREZ\n\t\t2\n\t\t76\n\t\t33\n\t\t43\n\t\t4\n\t\n\t\n\t\tLA LAGUNA\n\t\t3\n\t\t353\n\t\t168\n\t\t185\n\t\t12\n\t\n\t\n\t\tLA PURÍSIMA DE HIDALGO\n\t\t5\n\t\t815\n\t\t414\n\t\t401\n\t\t33\n\t\n\t\n\t\tLA SOLEDAD\n\t\t2\n\t\t236\n\t\t129\n\t\t107\n\t\t9\n\t\n\t\n\t\tLA VILLITA (KILÓMETRO 59)\n\t\t3\n\t\t377\n\t\t177\n\t\t200\n\t\t15\n\t\n\t\n\t\tLOMAS DE ROMERO\n\t\t3\n\t\t294\n\t\t139\n\t\t155\n\t\t13\n\t\n\t\n\t\tLOMAS DE SANTA CRUZ\n\t\t1\n\t\t36\n\t\t9\n\t\t27\n\t\t2\n\t\n\t\n\t\tRANCHERÍA LOS SILVAS\n\t\t2\n\t\t15\n\t\t10\n\t\t5\n\t\t2\n\t\n\t\n\t\tRUBÉN JARAMILLO\n\t\t2\n\t\t206\n\t\t96\n\t\t110\n\t\t10\n\t\n\t\n\t\tSAN ANTONIO LA PORTILLA\n\t\t4\n\t\t696\n\t\t346\n\t\t350\n\t\t24\n\t\n\t\n\t\tSAN ANTONIO TECOLCO\n\t\t4\n\t\t563\n\t\t282\n\t\t281\n\t\t21\n\t\n\t\n\t\tSAN BALTAZAR\n\t\t2\n\t\t167\n\t\t82\n\t\t85\n\t\t8\n\t\n\t\n\t\tSAN JOSÉ LA PORTILLA\n\t\t2\n\t\t86\n\t\t45\n\t\t41\n\t\t5\n\t\n\t\n\t\tSAN MATEO TLAIXPAN\n\t\t9\n\t\t3,402\n\t\t1,773\n\t\t1,629\n\t\t126\n\t\n\t\n\t\tSAN SEBASTIÁN\n\t\t1\n\t\t130\n\t\t66\n\t\t64\n\t\t7\n\t\n\t\n\t\tSANTA ROSA\n\t\t4\n\t\t965\n\t\t470\n\t\t495\n\t\t39\n\t\n\t\n\t\tSANTIAGO ALSESECA\n\t\t8\n\t\t2,301\n\t\t1,172\n\t\t1,129\n\t\t80\n\t\n\t\n\t\tTECAMACHALCO\n\t\t53\n\t\t17,614\n\t\t9,192\n\t\t8,422\n\t\t905\n\t\n\t\n\t\tVERACRUCITO\n\t\t2\n\t\t133\n\t\t68\n\t\t65\n\t\t5\n\t\n\t\n\t\tXOCHIMILCO\n\t\t3\n\t\t551\n\t\t260\n\t\t291\n\t\t22\n\t\n\t\n\t\tTOTAL\n\t\t127\n\t\t30,262\n\t\t15,529\n\t\t14,733\n\t\t1,398\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TECAMACHALCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE JALACINGO (SAN MATEO SECCIÓN 23)",
+          "2",
+          "401",
+          "187",
+          "214",
+          "12",
+          "BARRIO LA PROVIDENCIA",
+          "2",
+          "384",
+          "183",
+          "201",
+          "13",
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "60",
+          "36",
+          "24",
+          "3",
+          "EL SALADO",
+          "3",
+          "128",
+          "59",
+          "69",
+          "18",
+          "EL TEPEYAC",
+          "1",
+          "27",
+          "12",
+          "15",
+          "1",
+          "FRANCISCO VILLA",
+          "2",
+          "246",
+          "121",
+          "125",
+          "9",
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4",
+          "LA LAGUNA",
+          "3",
+          "353",
+          "168",
+          "185",
+          "12",
+          "LA PURÍSIMA DE HIDALGO",
+          "5",
+          "815",
+          "414",
+          "401",
+          "33",
+          "LA SOLEDAD",
+          "2",
+          "236",
+          "129",
+          "107",
+          "9",
+          "LA VILLITA (KILÓMETRO 59)",
+          "3",
+          "377",
+          "177",
+          "200",
+          "15",
+          "LOMAS DE ROMERO",
+          "3",
+          "294",
+          "139",
+          "155",
+          "13",
+          "LOMAS DE SANTA CRUZ",
+          "1",
+          "36",
+          "9",
+          "27",
+          "2",
+          "RANCHERÍA LOS SILVAS",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2",
+          "RUBÉN JARAMILLO",
+          "2",
+          "206",
+          "96",
+          "110",
+          "10",
+          "SAN ANTONIO LA PORTILLA",
+          "4",
+          "696",
+          "346",
+          "350",
+          "24",
+          "SAN ANTONIO TECOLCO",
+          "4",
+          "563",
+          "282",
+          "281",
+          "21",
+          "SAN BALTAZAR",
+          "2",
+          "167",
+          "82",
+          "85",
+          "8",
+          "SAN JOSÉ LA PORTILLA",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5",
+          "SAN MATEO TLAIXPAN",
+          "9",
+          "3,402",
+          "1,773",
+          "1,629",
+          "126",
+          "SAN SEBASTIÁN",
+          "1",
+          "130",
+          "66",
+          "64",
+          "7",
+          "SANTA ROSA",
+          "4",
+          "965",
+          "470",
+          "495",
+          "39",
+          "SANTIAGO ALSESECA",
+          "8",
+          "2,301",
+          "1,172",
+          "1,129",
+          "80",
+          "TECAMACHALCO",
+          "53",
+          "17,614",
+          "9,192",
+          "8,422",
+          "905",
+          "VERACRUCITO",
+          "2",
+          "133",
+          "68",
+          "65",
+          "5",
+          "XOCHIMILCO",
+          "3",
+          "551",
+          "260",
+          "291",
+          "22",
+          "TOTAL",
+          "127",
+          "30,262",
+          "15,529",
+          "14,733",
+          "1,398",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TECAMACHALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE JALACINGO (SAN MATEO SECCIÓN 23)",
+          "2",
+          "401",
+          "187",
+          "214",
+          "12"
+        ],
+        [
+          "BARRIO LA PROVIDENCIA",
+          "2",
+          "384",
+          "183",
+          "201",
+          "13"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "60",
+          "36",
+          "24",
+          "3"
+        ],
+        [
+          "EL SALADO",
+          "3",
+          "128",
+          "59",
+          "69",
+          "18"
+        ],
+        [
+          "EL TEPEYAC",
+          "1",
+          "27",
+          "12",
+          "15",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "246",
+          "121",
+          "125",
+          "9"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "353",
+          "168",
+          "185",
+          "12"
+        ],
+        [
+          "LA PURÍSIMA DE HIDALGO",
+          "5",
+          "815",
+          "414",
+          "401",
+          "33"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "236",
+          "129",
+          "107",
+          "9"
+        ],
+        [
+          "LA VILLITA (KILÓMETRO 59)",
+          "3",
+          "377",
+          "177",
+          "200",
+          "15"
+        ],
+        [
+          "LOMAS DE ROMERO",
+          "3",
+          "294",
+          "139",
+          "155",
+          "13"
+        ],
+        [
+          "LOMAS DE SANTA CRUZ",
+          "1",
+          "36",
+          "9",
+          "27",
+          "2"
+        ],
+        [
+          "RANCHERÍA LOS SILVAS",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "RUBÉN JARAMILLO",
+          "2",
+          "206",
+          "96",
+          "110",
+          "10"
+        ],
+        [
+          "SAN ANTONIO LA PORTILLA",
+          "4",
+          "696",
+          "346",
+          "350",
+          "24"
+        ],
+        [
+          "SAN ANTONIO TECOLCO",
+          "4",
+          "563",
+          "282",
+          "281",
+          "21"
+        ],
+        [
+          "SAN BALTAZAR",
+          "2",
+          "167",
+          "82",
+          "85",
+          "8"
+        ],
+        [
+          "SAN JOSÉ LA PORTILLA",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5"
+        ],
+        [
+          "SAN MATEO TLAIXPAN",
+          "9",
+          "3,402",
+          "1,773",
+          "1,629",
+          "126"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "1",
+          "130",
+          "66",
+          "64",
+          "7"
+        ],
+        [
+          "SANTA ROSA",
+          "4",
+          "965",
+          "470",
+          "495",
+          "39"
+        ],
+        [
+          "SANTIAGO ALSESECA",
+          "8",
+          "2,301",
+          "1,172",
+          "1,129",
+          "80"
+        ],
+        [
+          "TECAMACHALCO",
+          "53",
+          "17,614",
+          "9,192",
+          "8,422",
+          "905"
+        ],
+        [
+          "VERACRUCITO",
+          "2",
+          "133",
+          "68",
+          "65",
+          "5"
+        ],
+        [
+          "XOCHIMILCO",
+          "3",
+          "551",
+          "260",
+          "291",
+          "22"
+        ],
+        [
+          "TOTAL",
+          "127",
+          "30,262",
+          "15,529",
+          "14,733",
+          "1,398"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: TECAMACHALCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE JALACINGO (SAN MATEO SECCIÓN 23)",
+          "2",
+          "401",
+          "187",
+          "214",
+          "12"
+        ],
+        [
+          "BARRIO LA PROVIDENCIA",
+          "2",
+          "384",
+          "183",
+          "201",
+          "13"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "2",
+          "60",
+          "36",
+          "24",
+          "3"
+        ],
+        [
+          "EL SALADO",
+          "3",
+          "128",
+          "59",
+          "69",
+          "18"
+        ],
+        [
+          "EL TEPEYAC",
+          "1",
+          "27",
+          "12",
+          "15",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "246",
+          "121",
+          "125",
+          "9"
+        ],
+        [
+          "JOSÉ MARÍA PINO SUÁREZ",
+          "2",
+          "76",
+          "33",
+          "43",
+          "4"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "353",
+          "168",
+          "185",
+          "12"
+        ],
+        [
+          "LA PURÍSIMA DE HIDALGO",
+          "5",
+          "815",
+          "414",
+          "401",
+          "33"
+        ],
+        [
+          "LA SOLEDAD",
+          "2",
+          "236",
+          "129",
+          "107",
+          "9"
+        ],
+        [
+          "LA VILLITA (KILÓMETRO 59)",
+          "3",
+          "377",
+          "177",
+          "200",
+          "15"
+        ],
+        [
+          "LOMAS DE ROMERO",
+          "3",
+          "294",
+          "139",
+          "155",
+          "13"
+        ],
+        [
+          "LOMAS DE SANTA CRUZ",
+          "1",
+          "36",
+          "9",
+          "27",
+          "2"
+        ],
+        [
+          "RANCHERÍA LOS SILVAS",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "RUBÉN JARAMILLO",
+          "2",
+          "206",
+          "96",
+          "110",
+          "10"
+        ],
+        [
+          "SAN ANTONIO LA PORTILLA",
+          "4",
+          "696",
+          "346",
+          "350",
+          "24"
+        ],
+        [
+          "SAN ANTONIO TECOLCO",
+          "4",
+          "563",
+          "282",
+          "281",
+          "21"
+        ],
+        [
+          "SAN BALTAZAR",
+          "2",
+          "167",
+          "82",
+          "85",
+          "8"
+        ],
+        [
+          "SAN JOSÉ LA PORTILLA",
+          "2",
+          "86",
+          "45",
+          "41",
+          "5"
+        ],
+        [
+          "SAN MATEO TLAIXPAN",
+          "9",
+          "3,402",
+          "1,773",
+          "1,629",
+          "126"
+        ],
+        [
+          "SAN SEBASTIÁN",
+          "1",
+          "130",
+          "66",
+          "64",
+          "7"
+        ],
+        [
+          "SANTA ROSA",
+          "4",
+          "965",
+          "470",
+          "495",
+          "39"
+        ],
+        [
+          "SANTIAGO ALSESECA",
+          "8",
+          "2,301",
+          "1,172",
+          "1,129",
+          "80"
+        ],
+        [
+          "TECAMACHALCO",
+          "53",
+          "17,614",
+          "9,192",
+          "8,422",
+          "905"
+        ],
+        [
+          "VERACRUCITO",
+          "2",
+          "133",
+          "68",
+          "65",
+          "5"
+        ],
+        [
+          "XOCHIMILCO",
+          "3",
+          "551",
+          "260",
+          "291",
+          "22"
+        ],
+        [
+          "TOTAL",
+          "127",
+          "30,262",
+          "15,529",
+          "14,733",
+          "1,398"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:34:28.528Z"
+}

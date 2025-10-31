@@ -1,0 +1,1286 @@
+{
+  "municipality": "CIUDAD DEL MAÍZ",
+  "municipalityCode": "010",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CIUDAD DEL MAÍZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA NUEVA DEL NORTE\n\t\t3\n\t\t63\n\t\t29\n\t\t34\n\t\t3\n\t\n\t\n\t\tAQUILES SERDÁN\n\t\t4\n\t\t178\n\t\t80\n\t\t98\n\t\t9\n\t\n\t\n\t\tBUENAVISTA\n\t\t4\n\t\t54\n\t\t32\n\t\t22\n\t\t4\n\t\n\t\n\t\tCARRIZAL GRANDE\n\t\t3\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tCIUDAD DEL MAÍZ\n\t\t17\n\t\t2,909\n\t\t1,438\n\t\t1,471\n\t\t174\n\t\n\t\n\t\tCOLONIA AGRÍCOLA MAGDALENO CEDILLO\n\t\t4\n\t\t356\n\t\t181\n\t\t175\n\t\t18\n\t\n\t\n\t\tCOLONIA AGRÍCOLA OLLITAS DE LAS VACAS\n\t\t3\n\t\t49\n\t\t27\n\t\t22\n\t\t3\n\t\n\t\n\t\tCOLONIA ÁLVARO OBREGÓN\n\t\t3\n\t\t167\n\t\t86\n\t\t81\n\t\t11\n\t\n\t\n\t\tCOLONIA CARLOS DIEZ GUTIÉRREZ (LA ITALIANA)\n\t\t2\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tCOLONIA LA LIBERTAD\n\t\t3\n\t\t98\n\t\t47\n\t\t51\n\t\t6\n\t\n\t\n\t\tCOLONIA LA MORITA\n\t\t3\n\t\t112\n\t\t47\n\t\t65\n\t\t7\n\t\n\t\n\t\tCOLONIA LAGUNILLAS\n\t\t3\n\t\t132\n\t\t64\n\t\t68\n\t\t6\n\t\n\t\n\t\tEJIDO SAN JOSÉ\n\t\t3\n\t\t324\n\t\t163\n\t\t161\n\t\t20\n\t\n\t\n\t\tEL CAPULÍN\n\t\t3\n\t\t24\n\t\t12\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL CUSTODIO\n\t\t3\n\t\t90\n\t\t50\n\t\t40\n\t\t6\n\t\n\t\n\t\tEL DIVISADERO (LA GARRA)\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL DURO\n\t\t3\n\t\t32\n\t\t20\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL OLIVO\n\t\t3\n\t\t70\n\t\t35\n\t\t35\n\t\t5\n\t\n\t\n\t\tEL PORVENIR\n\t\t3\n\t\t59\n\t\t30\n\t\t29\n\t\t4\n\t\n\t\n\t\tEL PUERTO SANTA GERTRUDIS\n\t\t3\n\t\t52\n\t\t17\n\t\t35\n\t\t4\n\t\n\t\n\t\tEL TEPEYAC\n\t\t3\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tESTACIÓN LAS TABLAS\n\t\t3\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tFRANCIA CHICA\n\t\t2\n\t\t10\n\t\t3\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA CALZADA DE SAN RAFAEL\n\t\t3\n\t\t132\n\t\t68\n\t\t64\n\t\t7\n\t\n\t\n\t\tLA ENCARNACIÓN\n\t\t3\n\t\t85\n\t\t39\n\t\t46\n\t\t4\n\t\n\t\n\t\tLA MANZANA (AMPLIACIÓN BUENAVISTA Y OLIVO)\n\t\t2\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tLA PENDENCIA\n\t\t3\n\t\t71\n\t\t38\n\t\t33\n\t\t5\n\t\n\t\n\t\tLAS GAVIAS\n\t\t2\n\t\t9\n\t\t6\n\t\t3\n\t\t2\n\t\n\t\n\t\tLAS MESAS DE DON LUIS\n\t\t3\n\t\t39\n\t\t19\n\t\t20\n\t\t3\n\t\n\t\n\t\tLAS MORAS\n\t\t1\n\t\t15\n\t\t5\n\t\t10\n\t\t1\n\t\n\t\n\t\tLOS ÁVALOS\n\t\t2\n\t\t52\n\t\t26\n\t\t26\n\t\t3\n\t\n\t\n\t\tLOS CHARCOS DEL PONIENTE\n\t\t3\n\t\t49\n\t\t15\n\t\t34\n\t\t3\n\t\n\t\n\t\tMEMELA\n\t\t3\n\t\t72\n\t\t40\n\t\t32\n\t\t4\n\t\n\t\n\t\tMONTEBELLO\n\t\t3\n\t\t66\n\t\t40\n\t\t26\n\t\t4\n\t\n\t\n\t\tNUEVO CENTRO DE POBLACIÓN GANADERO PAPAGAYOS\n\t\t3\n\t\t111\n\t\t48\n\t\t63\n\t\t6\n\t\n\t\n\t\tNUEVO SAN RAFAEL\n\t\t2\n\t\t52\n\t\t26\n\t\t26\n\t\t3\n\t\n\t\n\t\tPALOMAS\n\t\t6\n\t\t959\n\t\t486\n\t\t473\n\t\t40\n\t\n\t\n\t\tPAPAGAYOS (EJIDO PAPAGAYOS)\n\t\t3\n\t\t62\n\t\t29\n\t\t33\n\t\t4\n\t\n\t\n\t\tPOTRERITOS DE LOS LLANOS\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t3\n\t\n\t\n\t\tPUERTO DE SAN JUAN DE DIOS\n\t\t2\n\t\t25\n\t\t16\n\t\t9\n\t\t2\n\t\n\t\n\t\tPUERTO DEL ZAMANDOQUE\n\t\t3\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t1\n\t\t1\n\t\t1\n\t\t0\n\t\t1\n\t\n\t\n\t\tRINCÓN SECO\n\t\t3\n\t\t15\n\t\t10\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t66\n\t\t33\n\t\t33\n\t\t5\n\t\n\t\n\t\tSAN ANTONIO DEL TORO (CABEZA DEL TORO)\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSAN JUAN DEL LLANO\n\t\t3\n\t\t75\n\t\t38\n\t\t37\n\t\t4\n\t\n\t\n\t\tSAN JUAN DEL MECO\n\t\t3\n\t\t42\n\t\t17\n\t\t25\n\t\t3\n\t\n\t\n\t\tSAN MATEO\n\t\t3\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN RAFAEL CARRETERA\n\t\t4\n\t\t104\n\t\t49\n\t\t55\n\t\t7\n\t\n\t\n\t\tSAN RAFAEL MATRIZ\n\t\t3\n\t\t160\n\t\t94\n\t\t66\n\t\t8\n\t\n\t\n\t\tSARTENEJO\n\t\t3\n\t\t54\n\t\t25\n\t\t29\n\t\t4\n\t\n\t\n\t\tSECCIÓN SETENTA Y NUEVE LOS ANTEOJOS\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tTANQUE DE LOS ÁNGELES (EL VENADITO)\n\t\t4\n\t\t207\n\t\t107\n\t\t100\n\t\t13\n\t\n\t\n\t\tZAMACHIHUE\n\t\t4\n\t\t384\n\t\t191\n\t\t193\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t169\n\t\t7,828\n\t\t3,897\n\t\t3,931\n\t\t466\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CIUDAD DEL MAÍZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA NUEVA DEL NORTE",
+          "3",
+          "63",
+          "29",
+          "34",
+          "3",
+          "AQUILES SERDÁN",
+          "4",
+          "178",
+          "80",
+          "98",
+          "9",
+          "BUENAVISTA",
+          "4",
+          "54",
+          "32",
+          "22",
+          "4",
+          "CARRIZAL GRANDE",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3",
+          "CIUDAD DEL MAÍZ",
+          "17",
+          "2,909",
+          "1,438",
+          "1,471",
+          "174",
+          "COLONIA AGRÍCOLA MAGDALENO CEDILLO",
+          "4",
+          "356",
+          "181",
+          "175",
+          "18",
+          "COLONIA AGRÍCOLA OLLITAS DE LAS VACAS",
+          "3",
+          "49",
+          "27",
+          "22",
+          "3",
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "167",
+          "86",
+          "81",
+          "11",
+          "COLONIA CARLOS DIEZ GUTIÉRREZ (LA ITALIANA)",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1",
+          "COLONIA LA LIBERTAD",
+          "3",
+          "98",
+          "47",
+          "51",
+          "6",
+          "COLONIA LA MORITA",
+          "3",
+          "112",
+          "47",
+          "65",
+          "7",
+          "COLONIA LAGUNILLAS",
+          "3",
+          "132",
+          "64",
+          "68",
+          "6",
+          "EJIDO SAN JOSÉ",
+          "3",
+          "324",
+          "163",
+          "161",
+          "20",
+          "EL CAPULÍN",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3",
+          "EL CUSTODIO",
+          "3",
+          "90",
+          "50",
+          "40",
+          "6",
+          "EL DIVISADERO (LA GARRA)",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL DURO",
+          "3",
+          "32",
+          "20",
+          "12",
+          "3",
+          "EL OLIVO",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5",
+          "EL PORVENIR",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4",
+          "EL PUERTO SANTA GERTRUDIS",
+          "3",
+          "52",
+          "17",
+          "35",
+          "4",
+          "EL TEPEYAC",
+          "3",
+          "29",
+          "16",
+          "13",
+          "3",
+          "ESTACIÓN LAS TABLAS",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2",
+          "FRANCIA CHICA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1",
+          "LA CALZADA DE SAN RAFAEL",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7",
+          "LA ENCARNACIÓN",
+          "3",
+          "85",
+          "39",
+          "46",
+          "4",
+          "LA MANZANA (AMPLIACIÓN BUENAVISTA Y OLIVO)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "LA PENDENCIA",
+          "3",
+          "71",
+          "38",
+          "33",
+          "5",
+          "LAS GAVIAS",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2",
+          "LAS MESAS DE DON LUIS",
+          "3",
+          "39",
+          "19",
+          "20",
+          "3",
+          "LAS MORAS",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1",
+          "LOS ÁVALOS",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3",
+          "LOS CHARCOS DEL PONIENTE",
+          "3",
+          "49",
+          "15",
+          "34",
+          "3",
+          "MEMELA",
+          "3",
+          "72",
+          "40",
+          "32",
+          "4",
+          "MONTEBELLO",
+          "3",
+          "66",
+          "40",
+          "26",
+          "4",
+          "NUEVO CENTRO DE POBLACIÓN GANADERO PAPAGAYOS",
+          "3",
+          "111",
+          "48",
+          "63",
+          "6",
+          "NUEVO SAN RAFAEL",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3",
+          "PALOMAS",
+          "6",
+          "959",
+          "486",
+          "473",
+          "40",
+          "PAPAGAYOS (EJIDO PAPAGAYOS)",
+          "3",
+          "62",
+          "29",
+          "33",
+          "4",
+          "POTRERITOS DE LOS LLANOS",
+          "2",
+          "18",
+          "7",
+          "11",
+          "3",
+          "PUERTO DE SAN JUAN DE DIOS",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2",
+          "PUERTO DEL ZAMANDOQUE",
+          "3",
+          "13",
+          "5",
+          "8",
+          "2",
+          "RANCHO NUEVO",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1",
+          "RINCÓN SECO",
+          "3",
+          "15",
+          "10",
+          "5",
+          "2",
+          "SAN ANTONIO",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5",
+          "SAN ANTONIO DEL TORO (CABEZA DEL TORO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SAN JUAN DEL LLANO",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4",
+          "SAN JUAN DEL MECO",
+          "3",
+          "42",
+          "17",
+          "25",
+          "3",
+          "SAN MATEO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3",
+          "SAN RAFAEL CARRETERA",
+          "4",
+          "104",
+          "49",
+          "55",
+          "7",
+          "SAN RAFAEL MATRIZ",
+          "3",
+          "160",
+          "94",
+          "66",
+          "8",
+          "SARTENEJO",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4",
+          "SECCIÓN SETENTA Y NUEVE LOS ANTEOJOS",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "TANQUE DE LOS ÁNGELES (EL VENADITO)",
+          "4",
+          "207",
+          "107",
+          "100",
+          "13",
+          "ZAMACHIHUE",
+          "4",
+          "384",
+          "191",
+          "193",
+          "20",
+          "TOTAL",
+          "169",
+          "7,828",
+          "3,897",
+          "3,931",
+          "466",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CIUDAD DEL MAÍZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA NUEVA DEL NORTE",
+          "3",
+          "63",
+          "29",
+          "34",
+          "3"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "4",
+          "178",
+          "80",
+          "98",
+          "9"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "54",
+          "32",
+          "22",
+          "4"
+        ],
+        [
+          "CARRIZAL GRANDE",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "CIUDAD DEL MAÍZ",
+          "17",
+          "2,909",
+          "1,438",
+          "1,471",
+          "174"
+        ],
+        [
+          "COLONIA AGRÍCOLA MAGDALENO CEDILLO",
+          "4",
+          "356",
+          "181",
+          "175",
+          "18"
+        ],
+        [
+          "COLONIA AGRÍCOLA OLLITAS DE LAS VACAS",
+          "3",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "167",
+          "86",
+          "81",
+          "11"
+        ],
+        [
+          "COLONIA CARLOS DIEZ GUTIÉRREZ (LA ITALIANA)",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "COLONIA LA LIBERTAD",
+          "3",
+          "98",
+          "47",
+          "51",
+          "6"
+        ],
+        [
+          "COLONIA LA MORITA",
+          "3",
+          "112",
+          "47",
+          "65",
+          "7"
+        ],
+        [
+          "COLONIA LAGUNILLAS",
+          "3",
+          "132",
+          "64",
+          "68",
+          "6"
+        ],
+        [
+          "EJIDO SAN JOSÉ",
+          "3",
+          "324",
+          "163",
+          "161",
+          "20"
+        ],
+        [
+          "EL CAPULÍN",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "EL CUSTODIO",
+          "3",
+          "90",
+          "50",
+          "40",
+          "6"
+        ],
+        [
+          "EL DIVISADERO (LA GARRA)",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL DURO",
+          "3",
+          "32",
+          "20",
+          "12",
+          "3"
+        ],
+        [
+          "EL OLIVO",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "EL PUERTO SANTA GERTRUDIS",
+          "3",
+          "52",
+          "17",
+          "35",
+          "4"
+        ],
+        [
+          "EL TEPEYAC",
+          "3",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "ESTACIÓN LAS TABLAS",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "FRANCIA CHICA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "LA CALZADA DE SAN RAFAEL",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7"
+        ],
+        [
+          "LA ENCARNACIÓN",
+          "3",
+          "85",
+          "39",
+          "46",
+          "4"
+        ],
+        [
+          "LA MANZANA (AMPLIACIÓN BUENAVISTA Y OLIVO)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LA PENDENCIA",
+          "3",
+          "71",
+          "38",
+          "33",
+          "5"
+        ],
+        [
+          "LAS GAVIAS",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LAS MESAS DE DON LUIS",
+          "3",
+          "39",
+          "19",
+          "20",
+          "3"
+        ],
+        [
+          "LAS MORAS",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "LOS ÁVALOS",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3"
+        ],
+        [
+          "LOS CHARCOS DEL PONIENTE",
+          "3",
+          "49",
+          "15",
+          "34",
+          "3"
+        ],
+        [
+          "MEMELA",
+          "3",
+          "72",
+          "40",
+          "32",
+          "4"
+        ],
+        [
+          "MONTEBELLO",
+          "3",
+          "66",
+          "40",
+          "26",
+          "4"
+        ],
+        [
+          "NUEVO CENTRO DE POBLACIÓN GANADERO PAPAGAYOS",
+          "3",
+          "111",
+          "48",
+          "63",
+          "6"
+        ],
+        [
+          "NUEVO SAN RAFAEL",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3"
+        ],
+        [
+          "PALOMAS",
+          "6",
+          "959",
+          "486",
+          "473",
+          "40"
+        ],
+        [
+          "PAPAGAYOS (EJIDO PAPAGAYOS)",
+          "3",
+          "62",
+          "29",
+          "33",
+          "4"
+        ],
+        [
+          "POTRERITOS DE LOS LLANOS",
+          "2",
+          "18",
+          "7",
+          "11",
+          "3"
+        ],
+        [
+          "PUERTO DE SAN JUAN DE DIOS",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTO DEL ZAMANDOQUE",
+          "3",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "RINCÓN SECO",
+          "3",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5"
+        ],
+        [
+          "SAN ANTONIO DEL TORO (CABEZA DEL TORO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JUAN DEL LLANO",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "SAN JUAN DEL MECO",
+          "3",
+          "42",
+          "17",
+          "25",
+          "3"
+        ],
+        [
+          "SAN MATEO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "SAN RAFAEL CARRETERA",
+          "4",
+          "104",
+          "49",
+          "55",
+          "7"
+        ],
+        [
+          "SAN RAFAEL MATRIZ",
+          "3",
+          "160",
+          "94",
+          "66",
+          "8"
+        ],
+        [
+          "SARTENEJO",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "SECCIÓN SETENTA Y NUEVE LOS ANTEOJOS",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TANQUE DE LOS ÁNGELES (EL VENADITO)",
+          "4",
+          "207",
+          "107",
+          "100",
+          "13"
+        ],
+        [
+          "ZAMACHIHUE",
+          "4",
+          "384",
+          "191",
+          "193",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "169",
+          "7,828",
+          "3,897",
+          "3,931",
+          "466"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: CIUDAD DEL MAÍZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA NUEVA DEL NORTE",
+          "3",
+          "63",
+          "29",
+          "34",
+          "3"
+        ],
+        [
+          "AQUILES SERDÁN",
+          "4",
+          "178",
+          "80",
+          "98",
+          "9"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "54",
+          "32",
+          "22",
+          "4"
+        ],
+        [
+          "CARRIZAL GRANDE",
+          "3",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "CIUDAD DEL MAÍZ",
+          "17",
+          "2,909",
+          "1,438",
+          "1,471",
+          "174"
+        ],
+        [
+          "COLONIA AGRÍCOLA MAGDALENO CEDILLO",
+          "4",
+          "356",
+          "181",
+          "175",
+          "18"
+        ],
+        [
+          "COLONIA AGRÍCOLA OLLITAS DE LAS VACAS",
+          "3",
+          "49",
+          "27",
+          "22",
+          "3"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "167",
+          "86",
+          "81",
+          "11"
+        ],
+        [
+          "COLONIA CARLOS DIEZ GUTIÉRREZ (LA ITALIANA)",
+          "2",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "COLONIA LA LIBERTAD",
+          "3",
+          "98",
+          "47",
+          "51",
+          "6"
+        ],
+        [
+          "COLONIA LA MORITA",
+          "3",
+          "112",
+          "47",
+          "65",
+          "7"
+        ],
+        [
+          "COLONIA LAGUNILLAS",
+          "3",
+          "132",
+          "64",
+          "68",
+          "6"
+        ],
+        [
+          "EJIDO SAN JOSÉ",
+          "3",
+          "324",
+          "163",
+          "161",
+          "20"
+        ],
+        [
+          "EL CAPULÍN",
+          "3",
+          "24",
+          "12",
+          "12",
+          "3"
+        ],
+        [
+          "EL CUSTODIO",
+          "3",
+          "90",
+          "50",
+          "40",
+          "6"
+        ],
+        [
+          "EL DIVISADERO (LA GARRA)",
+          "2",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL DURO",
+          "3",
+          "32",
+          "20",
+          "12",
+          "3"
+        ],
+        [
+          "EL OLIVO",
+          "3",
+          "70",
+          "35",
+          "35",
+          "5"
+        ],
+        [
+          "EL PORVENIR",
+          "3",
+          "59",
+          "30",
+          "29",
+          "4"
+        ],
+        [
+          "EL PUERTO SANTA GERTRUDIS",
+          "3",
+          "52",
+          "17",
+          "35",
+          "4"
+        ],
+        [
+          "EL TEPEYAC",
+          "3",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "ESTACIÓN LAS TABLAS",
+          "3",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "FRANCIA CHICA",
+          "2",
+          "10",
+          "3",
+          "7",
+          "1"
+        ],
+        [
+          "LA CALZADA DE SAN RAFAEL",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7"
+        ],
+        [
+          "LA ENCARNACIÓN",
+          "3",
+          "85",
+          "39",
+          "46",
+          "4"
+        ],
+        [
+          "LA MANZANA (AMPLIACIÓN BUENAVISTA Y OLIVO)",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "LA PENDENCIA",
+          "3",
+          "71",
+          "38",
+          "33",
+          "5"
+        ],
+        [
+          "LAS GAVIAS",
+          "2",
+          "9",
+          "6",
+          "3",
+          "2"
+        ],
+        [
+          "LAS MESAS DE DON LUIS",
+          "3",
+          "39",
+          "19",
+          "20",
+          "3"
+        ],
+        [
+          "LAS MORAS",
+          "1",
+          "15",
+          "5",
+          "10",
+          "1"
+        ],
+        [
+          "LOS ÁVALOS",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3"
+        ],
+        [
+          "LOS CHARCOS DEL PONIENTE",
+          "3",
+          "49",
+          "15",
+          "34",
+          "3"
+        ],
+        [
+          "MEMELA",
+          "3",
+          "72",
+          "40",
+          "32",
+          "4"
+        ],
+        [
+          "MONTEBELLO",
+          "3",
+          "66",
+          "40",
+          "26",
+          "4"
+        ],
+        [
+          "NUEVO CENTRO DE POBLACIÓN GANADERO PAPAGAYOS",
+          "3",
+          "111",
+          "48",
+          "63",
+          "6"
+        ],
+        [
+          "NUEVO SAN RAFAEL",
+          "2",
+          "52",
+          "26",
+          "26",
+          "3"
+        ],
+        [
+          "PALOMAS",
+          "6",
+          "959",
+          "486",
+          "473",
+          "40"
+        ],
+        [
+          "PAPAGAYOS (EJIDO PAPAGAYOS)",
+          "3",
+          "62",
+          "29",
+          "33",
+          "4"
+        ],
+        [
+          "POTRERITOS DE LOS LLANOS",
+          "2",
+          "18",
+          "7",
+          "11",
+          "3"
+        ],
+        [
+          "PUERTO DE SAN JUAN DE DIOS",
+          "2",
+          "25",
+          "16",
+          "9",
+          "2"
+        ],
+        [
+          "PUERTO DEL ZAMANDOQUE",
+          "3",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "1",
+          "1",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "RINCÓN SECO",
+          "3",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "66",
+          "33",
+          "33",
+          "5"
+        ],
+        [
+          "SAN ANTONIO DEL TORO (CABEZA DEL TORO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SAN JUAN DEL LLANO",
+          "3",
+          "75",
+          "38",
+          "37",
+          "4"
+        ],
+        [
+          "SAN JUAN DEL MECO",
+          "3",
+          "42",
+          "17",
+          "25",
+          "3"
+        ],
+        [
+          "SAN MATEO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "SAN RAFAEL CARRETERA",
+          "4",
+          "104",
+          "49",
+          "55",
+          "7"
+        ],
+        [
+          "SAN RAFAEL MATRIZ",
+          "3",
+          "160",
+          "94",
+          "66",
+          "8"
+        ],
+        [
+          "SARTENEJO",
+          "3",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "SECCIÓN SETENTA Y NUEVE LOS ANTEOJOS",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "TANQUE DE LOS ÁNGELES (EL VENADITO)",
+          "4",
+          "207",
+          "107",
+          "100",
+          "13"
+        ],
+        [
+          "ZAMACHIHUE",
+          "4",
+          "384",
+          "191",
+          "193",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "169",
+          "7,828",
+          "3,897",
+          "3,931",
+          "466"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:28:59.942Z"
+}

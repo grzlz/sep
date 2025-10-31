@@ -1,0 +1,846 @@
+{
+  "municipality": "IXTAPA",
+  "municipalityCode": "044",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAZTLÁN (RANCHO NUEVO)\n\t\t4\n\t\t479\n\t\t217\n\t\t262\n\t\t18\n\t\n\t\n\t\tCACATÉ\n\t\t4\n\t\t554\n\t\t267\n\t\t287\n\t\t25\n\t\n\t\n\t\tCARLOS A. VIDAL\n\t\t3\n\t\t224\n\t\t117\n\t\t107\n\t\t11\n\t\n\t\n\t\tCHIGTÓN\n\t\t2\n\t\t208\n\t\t102\n\t\t106\n\t\t9\n\t\n\t\n\t\tCINCO DE FEBRERO\n\t\t3\n\t\t145\n\t\t59\n\t\t86\n\t\t8\n\t\n\t\n\t\tCONCEPCIÓN\n\t\t3\n\t\t316\n\t\t157\n\t\t159\n\t\t16\n\t\n\t\n\t\tCONGREGACIÓN LAS PILAS\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t6\n\t\n\t\n\t\tCUAUHTÉMOC (SAN NICOLÁS)\n\t\t2\n\t\t137\n\t\t66\n\t\t71\n\t\t7\n\t\n\t\n\t\tEL CALVARIO\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL LIMÓN\n\t\t2\n\t\t34\n\t\t21\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MANGUITO BUENAVISTA\n\t\t1\n\t\t62\n\t\t30\n\t\t32\n\t\t3\n\t\n\t\n\t\tEL NOPAL\n\t\t4\n\t\t853\n\t\t403\n\t\t450\n\t\t30\n\t\n\t\n\t\tEL PARAÍSO\n\t\t2\n\t\t10\n\t\t7\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL ROBLÓN\n\t\t2\n\t\t51\n\t\t22\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL ZAPOTILLO\n\t\t5\n\t\t335\n\t\t168\n\t\t167\n\t\t15\n\t\n\t\n\t\tFRANCISCO JAVIER MINA\n\t\t3\n\t\t183\n\t\t80\n\t\t103\n\t\t9\n\t\n\t\n\t\tFRANCISCO ROMO SERRANO\n\t\t2\n\t\t27\n\t\t15\n\t\t12\n\t\t2\n\t\n\t\n\t\tIXTAPA\n\t\t12\n\t\t1,921\n\t\t974\n\t\t947\n\t\t104\n\t\n\t\n\t\tLA TRAYA\n\t\t2\n\t\t86\n\t\t43\n\t\t43\n\t\t3\n\t\n\t\n\t\tLAS CAÑITAS\n\t\t2\n\t\t119\n\t\t61\n\t\t58\n\t\t5\n\t\n\t\n\t\tLINDAVISTA\n\t\t2\n\t\t38\n\t\t22\n\t\t16\n\t\t2\n\t\n\t\n\t\tLLANO ALTO\n\t\t2\n\t\t89\n\t\t42\n\t\t47\n\t\t4\n\t\n\t\n\t\tLLANO BAJO\n\t\t2\n\t\t127\n\t\t70\n\t\t57\n\t\t6\n\t\n\t\n\t\tMAZANILHO\n\t\t3\n\t\t184\n\t\t86\n\t\t98\n\t\t8\n\t\n\t\n\t\tMODELO (EL ZAPOTAL)\n\t\t3\n\t\t311\n\t\t144\n\t\t167\n\t\t12\n\t\n\t\n\t\tMULTAJO\n\t\t3\n\t\t244\n\t\t113\n\t\t131\n\t\t11\n\t\n\t\n\t\tNUEVO POBLADO LA CIÉNEGA\n\t\t3\n\t\t70\n\t\t24\n\t\t46\n\t\t5\n\t\n\t\n\t\tNUEVO SAN JUAN CHAMULA\n\t\t2\n\t\t65\n\t\t24\n\t\t41\n\t\t2\n\t\n\t\n\t\tNUEVO SAN MIGUEL MITONTIC (PUNTA DE PIEDAD)\n\t\t4\n\t\t489\n\t\t245\n\t\t244\n\t\t15\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t2\n\t\t104\n\t\t60\n\t\t44\n\t\t5\n\t\n\t\n\t\tSAN GABRIEL\n\t\t2\n\t\t58\n\t\t36\n\t\t22\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ PUENTE DE TIERRA\n\t\t2\n\t\t38\n\t\t18\n\t\t20\n\t\t2\n\t\n\t\n\t\tTELESTAQUÍN\n\t\t2\n\t\t107\n\t\t59\n\t\t48\n\t\t5\n\t\n\t\n\t\tVICTÓRICO R. GRAJALES (IGLESIA VIEJA)\n\t\t3\n\t\t352\n\t\t174\n\t\t178\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t98\n\t\t8,097\n\t\t3,965\n\t\t4,132\n\t\t372\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AZTLÁN (RANCHO NUEVO)",
+          "4",
+          "479",
+          "217",
+          "262",
+          "18",
+          "CACATÉ",
+          "4",
+          "554",
+          "267",
+          "287",
+          "25",
+          "CARLOS A. VIDAL",
+          "3",
+          "224",
+          "117",
+          "107",
+          "11",
+          "CHIGTÓN",
+          "2",
+          "208",
+          "102",
+          "106",
+          "9",
+          "CINCO DE FEBRERO",
+          "3",
+          "145",
+          "59",
+          "86",
+          "8",
+          "CONCEPCIÓN",
+          "3",
+          "316",
+          "157",
+          "159",
+          "16",
+          "CONGREGACIÓN LAS PILAS",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6",
+          "CUAUHTÉMOC (SAN NICOLÁS)",
+          "2",
+          "137",
+          "66",
+          "71",
+          "7",
+          "EL CALVARIO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "EL LIMÓN",
+          "2",
+          "34",
+          "21",
+          "13",
+          "2",
+          "EL MANGUITO BUENAVISTA",
+          "1",
+          "62",
+          "30",
+          "32",
+          "3",
+          "EL NOPAL",
+          "4",
+          "853",
+          "403",
+          "450",
+          "30",
+          "EL PARAÍSO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2",
+          "EL ROBLÓN",
+          "2",
+          "51",
+          "22",
+          "29",
+          "3",
+          "EL ZAPOTILLO",
+          "5",
+          "335",
+          "168",
+          "167",
+          "15",
+          "FRANCISCO JAVIER MINA",
+          "3",
+          "183",
+          "80",
+          "103",
+          "9",
+          "FRANCISCO ROMO SERRANO",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2",
+          "IXTAPA",
+          "12",
+          "1,921",
+          "974",
+          "947",
+          "104",
+          "LA TRAYA",
+          "2",
+          "86",
+          "43",
+          "43",
+          "3",
+          "LAS CAÑITAS",
+          "2",
+          "119",
+          "61",
+          "58",
+          "5",
+          "LINDAVISTA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2",
+          "LLANO ALTO",
+          "2",
+          "89",
+          "42",
+          "47",
+          "4",
+          "LLANO BAJO",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6",
+          "MAZANILHO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "8",
+          "MODELO (EL ZAPOTAL)",
+          "3",
+          "311",
+          "144",
+          "167",
+          "12",
+          "MULTAJO",
+          "3",
+          "244",
+          "113",
+          "131",
+          "11",
+          "NUEVO POBLADO LA CIÉNEGA",
+          "3",
+          "70",
+          "24",
+          "46",
+          "5",
+          "NUEVO SAN JUAN CHAMULA",
+          "2",
+          "65",
+          "24",
+          "41",
+          "2",
+          "NUEVO SAN MIGUEL MITONTIC (PUNTA DE PIEDAD)",
+          "4",
+          "489",
+          "245",
+          "244",
+          "15",
+          "PLAN DE AYALA",
+          "2",
+          "104",
+          "60",
+          "44",
+          "5",
+          "SAN GABRIEL",
+          "2",
+          "58",
+          "36",
+          "22",
+          "3",
+          "SAN JOSÉ PUENTE DE TIERRA",
+          "2",
+          "38",
+          "18",
+          "20",
+          "2",
+          "TELESTAQUÍN",
+          "2",
+          "107",
+          "59",
+          "48",
+          "5",
+          "VICTÓRICO R. GRAJALES (IGLESIA VIEJA)",
+          "3",
+          "352",
+          "174",
+          "178",
+          "12",
+          "TOTAL",
+          "98",
+          "8,097",
+          "3,965",
+          "4,132",
+          "372",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZTLÁN (RANCHO NUEVO)",
+          "4",
+          "479",
+          "217",
+          "262",
+          "18"
+        ],
+        [
+          "CACATÉ",
+          "4",
+          "554",
+          "267",
+          "287",
+          "25"
+        ],
+        [
+          "CARLOS A. VIDAL",
+          "3",
+          "224",
+          "117",
+          "107",
+          "11"
+        ],
+        [
+          "CHIGTÓN",
+          "2",
+          "208",
+          "102",
+          "106",
+          "9"
+        ],
+        [
+          "CINCO DE FEBRERO",
+          "3",
+          "145",
+          "59",
+          "86",
+          "8"
+        ],
+        [
+          "CONCEPCIÓN",
+          "3",
+          "316",
+          "157",
+          "159",
+          "16"
+        ],
+        [
+          "CONGREGACIÓN LAS PILAS",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6"
+        ],
+        [
+          "CUAUHTÉMOC (SAN NICOLÁS)",
+          "2",
+          "137",
+          "66",
+          "71",
+          "7"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "34",
+          "21",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANGUITO BUENAVISTA",
+          "1",
+          "62",
+          "30",
+          "32",
+          "3"
+        ],
+        [
+          "EL NOPAL",
+          "4",
+          "853",
+          "403",
+          "450",
+          "30"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2"
+        ],
+        [
+          "EL ROBLÓN",
+          "2",
+          "51",
+          "22",
+          "29",
+          "3"
+        ],
+        [
+          "EL ZAPOTILLO",
+          "5",
+          "335",
+          "168",
+          "167",
+          "15"
+        ],
+        [
+          "FRANCISCO JAVIER MINA",
+          "3",
+          "183",
+          "80",
+          "103",
+          "9"
+        ],
+        [
+          "FRANCISCO ROMO SERRANO",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "IXTAPA",
+          "12",
+          "1,921",
+          "974",
+          "947",
+          "104"
+        ],
+        [
+          "LA TRAYA",
+          "2",
+          "86",
+          "43",
+          "43",
+          "3"
+        ],
+        [
+          "LAS CAÑITAS",
+          "2",
+          "119",
+          "61",
+          "58",
+          "5"
+        ],
+        [
+          "LINDAVISTA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2"
+        ],
+        [
+          "LLANO ALTO",
+          "2",
+          "89",
+          "42",
+          "47",
+          "4"
+        ],
+        [
+          "LLANO BAJO",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "MAZANILHO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "8"
+        ],
+        [
+          "MODELO (EL ZAPOTAL)",
+          "3",
+          "311",
+          "144",
+          "167",
+          "12"
+        ],
+        [
+          "MULTAJO",
+          "3",
+          "244",
+          "113",
+          "131",
+          "11"
+        ],
+        [
+          "NUEVO POBLADO LA CIÉNEGA",
+          "3",
+          "70",
+          "24",
+          "46",
+          "5"
+        ],
+        [
+          "NUEVO SAN JUAN CHAMULA",
+          "2",
+          "65",
+          "24",
+          "41",
+          "2"
+        ],
+        [
+          "NUEVO SAN MIGUEL MITONTIC (PUNTA DE PIEDAD)",
+          "4",
+          "489",
+          "245",
+          "244",
+          "15"
+        ],
+        [
+          "PLAN DE AYALA",
+          "2",
+          "104",
+          "60",
+          "44",
+          "5"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "58",
+          "36",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PUENTE DE TIERRA",
+          "2",
+          "38",
+          "18",
+          "20",
+          "2"
+        ],
+        [
+          "TELESTAQUÍN",
+          "2",
+          "107",
+          "59",
+          "48",
+          "5"
+        ],
+        [
+          "VICTÓRICO R. GRAJALES (IGLESIA VIEJA)",
+          "3",
+          "352",
+          "174",
+          "178",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "8,097",
+          "3,965",
+          "4,132",
+          "372"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: IXTAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZTLÁN (RANCHO NUEVO)",
+          "4",
+          "479",
+          "217",
+          "262",
+          "18"
+        ],
+        [
+          "CACATÉ",
+          "4",
+          "554",
+          "267",
+          "287",
+          "25"
+        ],
+        [
+          "CARLOS A. VIDAL",
+          "3",
+          "224",
+          "117",
+          "107",
+          "11"
+        ],
+        [
+          "CHIGTÓN",
+          "2",
+          "208",
+          "102",
+          "106",
+          "9"
+        ],
+        [
+          "CINCO DE FEBRERO",
+          "3",
+          "145",
+          "59",
+          "86",
+          "8"
+        ],
+        [
+          "CONCEPCIÓN",
+          "3",
+          "316",
+          "157",
+          "159",
+          "16"
+        ],
+        [
+          "CONGREGACIÓN LAS PILAS",
+          "3",
+          "68",
+          "35",
+          "33",
+          "6"
+        ],
+        [
+          "CUAUHTÉMOC (SAN NICOLÁS)",
+          "2",
+          "137",
+          "66",
+          "71",
+          "7"
+        ],
+        [
+          "EL CALVARIO",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "EL LIMÓN",
+          "2",
+          "34",
+          "21",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANGUITO BUENAVISTA",
+          "1",
+          "62",
+          "30",
+          "32",
+          "3"
+        ],
+        [
+          "EL NOPAL",
+          "4",
+          "853",
+          "403",
+          "450",
+          "30"
+        ],
+        [
+          "EL PARAÍSO",
+          "2",
+          "10",
+          "7",
+          "3",
+          "2"
+        ],
+        [
+          "EL ROBLÓN",
+          "2",
+          "51",
+          "22",
+          "29",
+          "3"
+        ],
+        [
+          "EL ZAPOTILLO",
+          "5",
+          "335",
+          "168",
+          "167",
+          "15"
+        ],
+        [
+          "FRANCISCO JAVIER MINA",
+          "3",
+          "183",
+          "80",
+          "103",
+          "9"
+        ],
+        [
+          "FRANCISCO ROMO SERRANO",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "IXTAPA",
+          "12",
+          "1,921",
+          "974",
+          "947",
+          "104"
+        ],
+        [
+          "LA TRAYA",
+          "2",
+          "86",
+          "43",
+          "43",
+          "3"
+        ],
+        [
+          "LAS CAÑITAS",
+          "2",
+          "119",
+          "61",
+          "58",
+          "5"
+        ],
+        [
+          "LINDAVISTA",
+          "2",
+          "38",
+          "22",
+          "16",
+          "2"
+        ],
+        [
+          "LLANO ALTO",
+          "2",
+          "89",
+          "42",
+          "47",
+          "4"
+        ],
+        [
+          "LLANO BAJO",
+          "2",
+          "127",
+          "70",
+          "57",
+          "6"
+        ],
+        [
+          "MAZANILHO",
+          "3",
+          "184",
+          "86",
+          "98",
+          "8"
+        ],
+        [
+          "MODELO (EL ZAPOTAL)",
+          "3",
+          "311",
+          "144",
+          "167",
+          "12"
+        ],
+        [
+          "MULTAJO",
+          "3",
+          "244",
+          "113",
+          "131",
+          "11"
+        ],
+        [
+          "NUEVO POBLADO LA CIÉNEGA",
+          "3",
+          "70",
+          "24",
+          "46",
+          "5"
+        ],
+        [
+          "NUEVO SAN JUAN CHAMULA",
+          "2",
+          "65",
+          "24",
+          "41",
+          "2"
+        ],
+        [
+          "NUEVO SAN MIGUEL MITONTIC (PUNTA DE PIEDAD)",
+          "4",
+          "489",
+          "245",
+          "244",
+          "15"
+        ],
+        [
+          "PLAN DE AYALA",
+          "2",
+          "104",
+          "60",
+          "44",
+          "5"
+        ],
+        [
+          "SAN GABRIEL",
+          "2",
+          "58",
+          "36",
+          "22",
+          "3"
+        ],
+        [
+          "SAN JOSÉ PUENTE DE TIERRA",
+          "2",
+          "38",
+          "18",
+          "20",
+          "2"
+        ],
+        [
+          "TELESTAQUÍN",
+          "2",
+          "107",
+          "59",
+          "48",
+          "5"
+        ],
+        [
+          "VICTÓRICO R. GRAJALES (IGLESIA VIEJA)",
+          "3",
+          "352",
+          "174",
+          "178",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "8,097",
+          "3,965",
+          "4,132",
+          "372"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:01.353Z"
+}

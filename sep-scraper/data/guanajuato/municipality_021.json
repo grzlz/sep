@@ -1,0 +1,428 @@
+{
+  "municipality": "MOROLEÓN",
+  "municipalityCode": "021",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: MOROLEÓN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMOLES\n\t\t4\n\t\t73\n\t\t32\n\t\t41\n\t\t6\n\t\n\t\n\t\tCARICHEO\n\t\t2\n\t\t11\n\t\t3\n\t\t8\n\t\t2\n\t\n\t\n\t\tCEPIO\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tCUANAMUCO\n\t\t2\n\t\t73\n\t\t33\n\t\t40\n\t\t6\n\t\n\t\n\t\tEL SALTO\n\t\t3\n\t\t161\n\t\t85\n\t\t76\n\t\t9\n\t\n\t\n\t\tLA BARRANCA\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA LOMA\n\t\t3\n\t\t66\n\t\t32\n\t\t34\n\t\t5\n\t\n\t\n\t\tLA ORDEÑA\n\t\t4\n\t\t173\n\t\t99\n\t\t74\n\t\t11\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t262\n\t\t131\n\t\t131\n\t\t9\n\t\n\t\n\t\tMOROLEÓN\n\t\t62\n\t\t11,698\n\t\t6,169\n\t\t5,529\n\t\t889\n\t\n\t\n\t\tOJO DE AGUA DE EN MEDIO\n\t\t3\n\t\t60\n\t\t29\n\t\t31\n\t\t4\n\t\n\t\n\t\tPIÑÍCUARO\n\t\t2\n\t\t128\n\t\t71\n\t\t57\n\t\t7\n\t\n\t\n\t\tQUIAHUYO\n\t\t2\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tSANTA GERTRUDIS\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t98\n\t\t12,818\n\t\t6,737\n\t\t6,081\n\t\t958\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: MOROLEÓN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMOLES",
+          "4",
+          "73",
+          "32",
+          "41",
+          "6",
+          "CARICHEO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2",
+          "CEPIO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2",
+          "CUANAMUCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "6",
+          "EL SALTO",
+          "3",
+          "161",
+          "85",
+          "76",
+          "9",
+          "LA BARRANCA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "LA LOMA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5",
+          "LA ORDEÑA",
+          "4",
+          "173",
+          "99",
+          "74",
+          "11",
+          "LA SOLEDAD",
+          "3",
+          "262",
+          "131",
+          "131",
+          "9",
+          "MOROLEÓN",
+          "62",
+          "11,698",
+          "6,169",
+          "5,529",
+          "889",
+          "OJO DE AGUA DE EN MEDIO",
+          "3",
+          "60",
+          "29",
+          "31",
+          "4",
+          "PIÑÍCUARO",
+          "2",
+          "128",
+          "71",
+          "57",
+          "7",
+          "QUIAHUYO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2",
+          "RANCHO NUEVO",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "SANTA GERTRUDIS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "TOTAL",
+          "98",
+          "12,818",
+          "6,737",
+          "6,081",
+          "958",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: MOROLEÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOLES",
+          "4",
+          "73",
+          "32",
+          "41",
+          "6"
+        ],
+        [
+          "CARICHEO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "CEPIO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "CUANAMUCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "6"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "161",
+          "85",
+          "76",
+          "9"
+        ],
+        [
+          "LA BARRANCA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "LA ORDEÑA",
+          "4",
+          "173",
+          "99",
+          "74",
+          "11"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "262",
+          "131",
+          "131",
+          "9"
+        ],
+        [
+          "MOROLEÓN",
+          "62",
+          "11,698",
+          "6,169",
+          "5,529",
+          "889"
+        ],
+        [
+          "OJO DE AGUA DE EN MEDIO",
+          "3",
+          "60",
+          "29",
+          "31",
+          "4"
+        ],
+        [
+          "PIÑÍCUARO",
+          "2",
+          "128",
+          "71",
+          "57",
+          "7"
+        ],
+        [
+          "QUIAHUYO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "12,818",
+          "6,737",
+          "6,081",
+          "958"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: MOROLEÓN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMOLES",
+          "4",
+          "73",
+          "32",
+          "41",
+          "6"
+        ],
+        [
+          "CARICHEO",
+          "2",
+          "11",
+          "3",
+          "8",
+          "2"
+        ],
+        [
+          "CEPIO",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "CUANAMUCO",
+          "2",
+          "73",
+          "33",
+          "40",
+          "6"
+        ],
+        [
+          "EL SALTO",
+          "3",
+          "161",
+          "85",
+          "76",
+          "9"
+        ],
+        [
+          "LA BARRANCA",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "66",
+          "32",
+          "34",
+          "5"
+        ],
+        [
+          "LA ORDEÑA",
+          "4",
+          "173",
+          "99",
+          "74",
+          "11"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "262",
+          "131",
+          "131",
+          "9"
+        ],
+        [
+          "MOROLEÓN",
+          "62",
+          "11,698",
+          "6,169",
+          "5,529",
+          "889"
+        ],
+        [
+          "OJO DE AGUA DE EN MEDIO",
+          "3",
+          "60",
+          "29",
+          "31",
+          "4"
+        ],
+        [
+          "PIÑÍCUARO",
+          "2",
+          "128",
+          "71",
+          "57",
+          "7"
+        ],
+        [
+          "QUIAHUYO",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "12,818",
+          "6,737",
+          "6,081",
+          "958"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:58.368Z"
+}

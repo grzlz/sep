@@ -1,0 +1,912 @@
+{
+  "municipality": "TLALTENANGO DE SÁNCHEZ ROMÁN",
+  "municipalityCode": "048",
+  "state": "ZACATECAS",
+  "stateCode": "32",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAPOZOL\n\tAPULCO\n\tATOLINGA\n\tBENITO JUÁREZ\n\tCALERA\n\tCAÑITAS DE FELIPE PESCADOR\n\tCHALCHIHUITES\n\tCONCEPCIÓN DEL ORO\n\tCUAUHTÉMOC\n\tEL PLATEADO DE JOAQUÍN AMARO\n\tEL SALVADOR\n\tFRESNILLO\n\tGENARO CODINA\n\tGENERAL ENRIQUE ESTRADA\n\tGENERAL FRANCISCO R. MURGUÍA\n\tGENERAL PÁNFILO NATERA\n\tGUADALUPE\n\tHUANUSCO\n\tJALPA\n\tJEREZ\n\tJIMÉNEZ DEL TEUL\n\tJUAN ALDAMA\n\tJUCHIPILA\n\tLORETO\n\tLUIS MOYA\n\tMAZAPIL\n\tMELCHOR OCAMPO\n\tMEZQUITAL DEL ORO\n\tMIGUEL AUZA\n\tMOMAX\n\tMONTE ESCOBEDO\n\tMORELOS\n\tMOYAHUA DE ESTRADA\n\tNOCHISTLÁN DE MEJÍA\n\tNORIA DE ÁNGELES\n\tOJOCALIENTE\n\tPÁNUCO\n\tPINOS\n\tRÍO GRANDE\n\tSAIN ALTO\n\tSANTA MARÍA DE LA PAZ\n\tSOMBRERETE\n\tSUSTICACÁN\n\tTABASCO\n\tTEPECHITLÁN\n\tTEPETONGO\n\tTEÚL DE GONZÁLEZ ORTEGA\n\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\tTRANCOSO\n\tTRINIDAD GARCÍA DE LA CADENA\n\tVALPARAÍSO\n\tVETAGRANDE\n\tVILLA DE COS\n\tVILLA GARCÍA\n\tVILLA GONZÁLEZ ORTEGA\n\tVILLA HIDALGO\n\tVILLANUEVA\n\tZACATECAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: TLALTENANGO DE SÁNCHEZ ROMÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUAJES DE ARRIBA\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t2\n\t\n\t\n\t\tBANCO DE AGUA BLANCA\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t2\n\t\n\t\n\t\tCANOAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tCARRIZALILLO\n\t\t3\n\t\t40\n\t\t22\n\t\t18\n\t\t3\n\t\n\t\n\t\tCICACALCO\n\t\t4\n\t\t298\n\t\t145\n\t\t153\n\t\t17\n\t\n\t\n\t\tCONTRERAS\n\t\t3\n\t\t26\n\t\t14\n\t\t12\n\t\t4\n\t\n\t\n\t\tEL AGUACATE\n\t\t3\n\t\t17\n\t\t7\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL PUERTECITO\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL SAUZ MOCHO\n\t\t3\n\t\t32\n\t\t18\n\t\t14\n\t\t3\n\t\n\t\n\t\tFRACCIONAMIENTO SANTO SANTIAGO\n\t\t1\n\t\t109\n\t\t53\n\t\t56\n\t\t5\n\t\n\t\n\t\tGUADALUPE VICTORIA (LA MEZQUITERA)\n\t\t3\n\t\t32\n\t\t11\n\t\t21\n\t\t3\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t3\n\t\t35\n\t\t18\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA ERA\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tLAS AZUCENAS\n\t\t3\n\t\t45\n\t\t21\n\t\t24\n\t\t3\n\t\n\t\n\t\tLAS HUERTAS\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tLAS MESITAS\n\t\t3\n\t\t22\n\t\t6\n\t\t16\n\t\t3\n\t\n\t\n\t\tLOS CARDOS\n\t\t3\n\t\t27\n\t\t9\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOS FRESNOS\n\t\t3\n\t\t127\n\t\t66\n\t\t61\n\t\t7\n\t\n\t\n\t\tLOS GUAPOS\n\t\t2\n\t\t26\n\t\t15\n\t\t11\n\t\t2\n\t\n\t\n\t\tLOS LLAMAS\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS RAMOS\n\t\t3\n\t\t50\n\t\t25\n\t\t25\n\t\t4\n\t\n\t\n\t\tLOS RANCHITOS\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tLOS SAUCES\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tLOS SEDANOS\n\t\t3\n\t\t31\n\t\t19\n\t\t12\n\t\t3\n\t\n\t\n\t\tMESA DE PALMIRA (MESA DE LA VIRGEN)\n\t\t3\n\t\t53\n\t\t30\n\t\t23\n\t\t4\n\t\n\t\n\t\tMORONES\n\t\t3\n\t\t56\n\t\t27\n\t\t29\n\t\t4\n\t\n\t\n\t\tRINCÓN GRANDE\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tSALAZARES\n\t\t3\n\t\t88\n\t\t48\n\t\t40\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO DE LA COFRADÍA\n\t\t3\n\t\t44\n\t\t26\n\t\t18\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ DE VELADORES\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t2\n\t\n\t\n\t\tSANTA GERTRUDIS (LA VICTORIA)\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSANTO NIÑO (LA SAUCEDA)\n\t\t2\n\t\t34\n\t\t14\n\t\t20\n\t\t3\n\t\n\t\n\t\tTEOCALTICHE\n\t\t3\n\t\t51\n\t\t30\n\t\t21\n\t\t4\n\t\n\t\n\t\tTIERRAS MORADAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tTLALTENANGO DE SÁNCHEZ ROMÁN\n\t\t27\n\t\t6,004\n\t\t3,136\n\t\t2,868\n\t\t340\n\t\n\t\n\t\tTOCATIC (SANTA ANA)\n\t\t3\n\t\t116\n\t\t51\n\t\t65\n\t\t7\n\t\n\t\n\t\tVILLARREALES (SAN ISIDRO)\n\t\t5\n\t\t110\n\t\t53\n\t\t57\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t115\n\t\t7,628\n\t\t3,947\n\t\t3,681\n\t\t462\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: TLALTENANGO DE SÁNCHEZ ROMÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUAJES DE ARRIBA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2",
+          "BANCO DE AGUA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2",
+          "CANOAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "CARRIZALILLO",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3",
+          "CICACALCO",
+          "4",
+          "298",
+          "145",
+          "153",
+          "17",
+          "CONTRERAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "4",
+          "EL AGUACATE",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3",
+          "EL PUERTECITO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "EL SAUZ MOCHO",
+          "3",
+          "32",
+          "18",
+          "14",
+          "3",
+          "FRACCIONAMIENTO SANTO SANTIAGO",
+          "1",
+          "109",
+          "53",
+          "56",
+          "5",
+          "GUADALUPE VICTORIA (LA MEZQUITERA)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3",
+          "JESÚS MARÍA",
+          "3",
+          "35",
+          "18",
+          "17",
+          "3",
+          "LA ERA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "LAS AZUCENAS",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3",
+          "LAS HUERTAS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "LAS MESITAS",
+          "3",
+          "22",
+          "6",
+          "16",
+          "3",
+          "LOS CARDOS",
+          "3",
+          "27",
+          "9",
+          "18",
+          "3",
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7",
+          "LOS GUAPOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2",
+          "LOS LLAMAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "LOS RAMOS",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4",
+          "LOS RANCHITOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "LOS SAUCES",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "LOS SEDANOS",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3",
+          "MESA DE PALMIRA (MESA DE LA VIRGEN)",
+          "3",
+          "53",
+          "30",
+          "23",
+          "4",
+          "MORONES",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4",
+          "RINCÓN GRANDE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "SALAZARES",
+          "3",
+          "88",
+          "48",
+          "40",
+          "4",
+          "SAN ANTONIO DE LA COFRADÍA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3",
+          "SAN JOSÉ DE VELADORES",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2",
+          "SANTA GERTRUDIS (LA VICTORIA)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SANTO NIÑO (LA SAUCEDA)",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3",
+          "TEOCALTICHE",
+          "3",
+          "51",
+          "30",
+          "21",
+          "4",
+          "TIERRAS MORADAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "TLALTENANGO DE SÁNCHEZ ROMÁN",
+          "27",
+          "6,004",
+          "3,136",
+          "2,868",
+          "340",
+          "TOCATIC (SANTA ANA)",
+          "3",
+          "116",
+          "51",
+          "65",
+          "7",
+          "VILLARREALES (SAN ISIDRO)",
+          "5",
+          "110",
+          "53",
+          "57",
+          "7",
+          "TOTAL",
+          "115",
+          "7,628",
+          "3,947",
+          "3,681",
+          "462",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: TLALTENANGO DE SÁNCHEZ ROMÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAJES DE ARRIBA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "BANCO DE AGUA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "CANOAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CARRIZALILLO",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "CICACALCO",
+          "4",
+          "298",
+          "145",
+          "153",
+          "17"
+        ],
+        [
+          "CONTRERAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "4"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "EL PUERTECITO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL SAUZ MOCHO",
+          "3",
+          "32",
+          "18",
+          "14",
+          "3"
+        ],
+        [
+          "FRACCIONAMIENTO SANTO SANTIAGO",
+          "1",
+          "109",
+          "53",
+          "56",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA (LA MEZQUITERA)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "JESÚS MARÍA",
+          "3",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "LA ERA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LAS AZUCENAS",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3"
+        ],
+        [
+          "LAS HUERTAS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MESITAS",
+          "3",
+          "22",
+          "6",
+          "16",
+          "3"
+        ],
+        [
+          "LOS CARDOS",
+          "3",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7"
+        ],
+        [
+          "LOS GUAPOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2"
+        ],
+        [
+          "LOS LLAMAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LOS RAMOS",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "LOS RANCHITOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LOS SEDANOS",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE PALMIRA (MESA DE LA VIRGEN)",
+          "3",
+          "53",
+          "30",
+          "23",
+          "4"
+        ],
+        [
+          "MORONES",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "RINCÓN GRANDE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "SALAZARES",
+          "3",
+          "88",
+          "48",
+          "40",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LA COFRADÍA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE VELADORES",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS (LA VICTORIA)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SANTO NIÑO (LA SAUCEDA)",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "TEOCALTICHE",
+          "3",
+          "51",
+          "30",
+          "21",
+          "4"
+        ],
+        [
+          "TIERRAS MORADAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TLALTENANGO DE SÁNCHEZ ROMÁN",
+          "27",
+          "6,004",
+          "3,136",
+          "2,868",
+          "340"
+        ],
+        [
+          "TOCATIC (SANTA ANA)",
+          "3",
+          "116",
+          "51",
+          "65",
+          "7"
+        ],
+        [
+          "VILLARREALES (SAN ISIDRO)",
+          "5",
+          "110",
+          "53",
+          "57",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "115",
+          "7,628",
+          "3,947",
+          "3,681",
+          "462"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: ZACATECAS;    MUNICIPIO: TLALTENANGO DE SÁNCHEZ ROMÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAJES DE ARRIBA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "2"
+        ],
+        [
+          "BANCO DE AGUA BLANCA",
+          "2",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "CANOAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CARRIZALILLO",
+          "3",
+          "40",
+          "22",
+          "18",
+          "3"
+        ],
+        [
+          "CICACALCO",
+          "4",
+          "298",
+          "145",
+          "153",
+          "17"
+        ],
+        [
+          "CONTRERAS",
+          "3",
+          "26",
+          "14",
+          "12",
+          "4"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "17",
+          "7",
+          "10",
+          "3"
+        ],
+        [
+          "EL PUERTECITO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL SAUZ MOCHO",
+          "3",
+          "32",
+          "18",
+          "14",
+          "3"
+        ],
+        [
+          "FRACCIONAMIENTO SANTO SANTIAGO",
+          "1",
+          "109",
+          "53",
+          "56",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA (LA MEZQUITERA)",
+          "3",
+          "32",
+          "11",
+          "21",
+          "3"
+        ],
+        [
+          "JESÚS MARÍA",
+          "3",
+          "35",
+          "18",
+          "17",
+          "3"
+        ],
+        [
+          "LA ERA",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "LAS AZUCENAS",
+          "3",
+          "45",
+          "21",
+          "24",
+          "3"
+        ],
+        [
+          "LAS HUERTAS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "LAS MESITAS",
+          "3",
+          "22",
+          "6",
+          "16",
+          "3"
+        ],
+        [
+          "LOS CARDOS",
+          "3",
+          "27",
+          "9",
+          "18",
+          "3"
+        ],
+        [
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "66",
+          "61",
+          "7"
+        ],
+        [
+          "LOS GUAPOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "2"
+        ],
+        [
+          "LOS LLAMAS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "LOS RAMOS",
+          "3",
+          "50",
+          "25",
+          "25",
+          "4"
+        ],
+        [
+          "LOS RANCHITOS",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "LOS SAUCES",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LOS SEDANOS",
+          "3",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "MESA DE PALMIRA (MESA DE LA VIRGEN)",
+          "3",
+          "53",
+          "30",
+          "23",
+          "4"
+        ],
+        [
+          "MORONES",
+          "3",
+          "56",
+          "27",
+          "29",
+          "4"
+        ],
+        [
+          "RINCÓN GRANDE",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "SALAZARES",
+          "3",
+          "88",
+          "48",
+          "40",
+          "4"
+        ],
+        [
+          "SAN ANTONIO DE LA COFRADÍA",
+          "3",
+          "44",
+          "26",
+          "18",
+          "3"
+        ],
+        [
+          "SAN JOSÉ DE VELADORES",
+          "2",
+          "22",
+          "11",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA GERTRUDIS (LA VICTORIA)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SANTO NIÑO (LA SAUCEDA)",
+          "2",
+          "34",
+          "14",
+          "20",
+          "3"
+        ],
+        [
+          "TEOCALTICHE",
+          "3",
+          "51",
+          "30",
+          "21",
+          "4"
+        ],
+        [
+          "TIERRAS MORADAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TLALTENANGO DE SÁNCHEZ ROMÁN",
+          "27",
+          "6,004",
+          "3,136",
+          "2,868",
+          "340"
+        ],
+        [
+          "TOCATIC (SANTA ANA)",
+          "3",
+          "116",
+          "51",
+          "65",
+          "7"
+        ],
+        [
+          "VILLARREALES (SAN ISIDRO)",
+          "5",
+          "110",
+          "53",
+          "57",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "115",
+          "7,628",
+          "3,947",
+          "3,681",
+          "462"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:53:13.039Z"
+}

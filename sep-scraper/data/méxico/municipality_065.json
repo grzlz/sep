@@ -1,0 +1,362 @@
+{
+  "municipality": "OTUMBA",
+  "municipalityCode": "065",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: OTUMBA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBELÉM\n\t\t4\n\t\t359\n\t\t171\n\t\t188\n\t\t19\n\t\n\t\n\t\tCUAUTLACINGO\n\t\t3\n\t\t652\n\t\t316\n\t\t336\n\t\t24\n\t\n\t\n\t\tOTUMBA DE GÓMEZ FARÍAS\n\t\t20\n\t\t2,939\n\t\t1,438\n\t\t1,501\n\t\t176\n\t\n\t\n\t\tOXTOTIPAC\n\t\t4\n\t\t808\n\t\t403\n\t\t405\n\t\t54\n\t\n\t\n\t\tSAN FRANCISCO TLALTICA\n\t\t4\n\t\t482\n\t\t233\n\t\t249\n\t\t24\n\t\n\t\n\t\tSAN JUAN TOCUILA (TOCUILA)\n\t\t1\n\t\t16\n\t\t6\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN MARCOS (SAN MARCOS TLAXUCHILCO)\n\t\t3\n\t\t191\n\t\t88\n\t\t103\n\t\t12\n\t\n\t\n\t\tSAN MARTÍN AHUATEPEC\n\t\t4\n\t\t471\n\t\t230\n\t\t241\n\t\t25\n\t\n\t\n\t\tSAN MIGUEL XOLCO\n\t\t3\n\t\t164\n\t\t90\n\t\t74\n\t\t11\n\t\n\t\n\t\tSANTA BÁRBARA\n\t\t4\n\t\t156\n\t\t74\n\t\t82\n\t\t13\n\t\n\t\n\t\tSANTIAGO TOLMAN\n\t\t7\n\t\t1,429\n\t\t723\n\t\t706\n\t\t57\n\t\n\t\n\t\tTLALMIMILOLPA\n\t\t3\n\t\t315\n\t\t155\n\t\t160\n\t\t28\n\t\n\t\n\t\tTOTAL\n\t\t60\n\t\t7,982\n\t\t3,927\n\t\t4,055\n\t\t444\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: OTUMBA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BELÉM",
+          "4",
+          "359",
+          "171",
+          "188",
+          "19",
+          "CUAUTLACINGO",
+          "3",
+          "652",
+          "316",
+          "336",
+          "24",
+          "OTUMBA DE GÓMEZ FARÍAS",
+          "20",
+          "2,939",
+          "1,438",
+          "1,501",
+          "176",
+          "OXTOTIPAC",
+          "4",
+          "808",
+          "403",
+          "405",
+          "54",
+          "SAN FRANCISCO TLALTICA",
+          "4",
+          "482",
+          "233",
+          "249",
+          "24",
+          "SAN JUAN TOCUILA (TOCUILA)",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1",
+          "SAN MARCOS (SAN MARCOS TLAXUCHILCO)",
+          "3",
+          "191",
+          "88",
+          "103",
+          "12",
+          "SAN MARTÍN AHUATEPEC",
+          "4",
+          "471",
+          "230",
+          "241",
+          "25",
+          "SAN MIGUEL XOLCO",
+          "3",
+          "164",
+          "90",
+          "74",
+          "11",
+          "SANTA BÁRBARA",
+          "4",
+          "156",
+          "74",
+          "82",
+          "13",
+          "SANTIAGO TOLMAN",
+          "7",
+          "1,429",
+          "723",
+          "706",
+          "57",
+          "TLALMIMILOLPA",
+          "3",
+          "315",
+          "155",
+          "160",
+          "28",
+          "TOTAL",
+          "60",
+          "7,982",
+          "3,927",
+          "4,055",
+          "444",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: OTUMBA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BELÉM",
+          "4",
+          "359",
+          "171",
+          "188",
+          "19"
+        ],
+        [
+          "CUAUTLACINGO",
+          "3",
+          "652",
+          "316",
+          "336",
+          "24"
+        ],
+        [
+          "OTUMBA DE GÓMEZ FARÍAS",
+          "20",
+          "2,939",
+          "1,438",
+          "1,501",
+          "176"
+        ],
+        [
+          "OXTOTIPAC",
+          "4",
+          "808",
+          "403",
+          "405",
+          "54"
+        ],
+        [
+          "SAN FRANCISCO TLALTICA",
+          "4",
+          "482",
+          "233",
+          "249",
+          "24"
+        ],
+        [
+          "SAN JUAN TOCUILA (TOCUILA)",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MARCOS (SAN MARCOS TLAXUCHILCO)",
+          "3",
+          "191",
+          "88",
+          "103",
+          "12"
+        ],
+        [
+          "SAN MARTÍN AHUATEPEC",
+          "4",
+          "471",
+          "230",
+          "241",
+          "25"
+        ],
+        [
+          "SAN MIGUEL XOLCO",
+          "3",
+          "164",
+          "90",
+          "74",
+          "11"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "4",
+          "156",
+          "74",
+          "82",
+          "13"
+        ],
+        [
+          "SANTIAGO TOLMAN",
+          "7",
+          "1,429",
+          "723",
+          "706",
+          "57"
+        ],
+        [
+          "TLALMIMILOLPA",
+          "3",
+          "315",
+          "155",
+          "160",
+          "28"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "7,982",
+          "3,927",
+          "4,055",
+          "444"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: OTUMBA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BELÉM",
+          "4",
+          "359",
+          "171",
+          "188",
+          "19"
+        ],
+        [
+          "CUAUTLACINGO",
+          "3",
+          "652",
+          "316",
+          "336",
+          "24"
+        ],
+        [
+          "OTUMBA DE GÓMEZ FARÍAS",
+          "20",
+          "2,939",
+          "1,438",
+          "1,501",
+          "176"
+        ],
+        [
+          "OXTOTIPAC",
+          "4",
+          "808",
+          "403",
+          "405",
+          "54"
+        ],
+        [
+          "SAN FRANCISCO TLALTICA",
+          "4",
+          "482",
+          "233",
+          "249",
+          "24"
+        ],
+        [
+          "SAN JUAN TOCUILA (TOCUILA)",
+          "1",
+          "16",
+          "6",
+          "10",
+          "1"
+        ],
+        [
+          "SAN MARCOS (SAN MARCOS TLAXUCHILCO)",
+          "3",
+          "191",
+          "88",
+          "103",
+          "12"
+        ],
+        [
+          "SAN MARTÍN AHUATEPEC",
+          "4",
+          "471",
+          "230",
+          "241",
+          "25"
+        ],
+        [
+          "SAN MIGUEL XOLCO",
+          "3",
+          "164",
+          "90",
+          "74",
+          "11"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "4",
+          "156",
+          "74",
+          "82",
+          "13"
+        ],
+        [
+          "SANTIAGO TOLMAN",
+          "7",
+          "1,429",
+          "723",
+          "706",
+          "57"
+        ],
+        [
+          "TLALMIMILOLPA",
+          "3",
+          "315",
+          "155",
+          "160",
+          "28"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "7,982",
+          "3,927",
+          "4,055",
+          "444"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:19:06.351Z"
+}

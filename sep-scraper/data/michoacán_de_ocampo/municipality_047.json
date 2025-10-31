@@ -1,0 +1,890 @@
+{
+  "municipality": "JUNGAPEO",
+  "municipalityCode": "047",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: JUNGAPEO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA SALADA\n\t\t4\n\t\t250\n\t\t117\n\t\t133\n\t\t16\n\t\n\t\n\t\tCERRITO DEL MUERTO\n\t\t2\n\t\t167\n\t\t90\n\t\t77\n\t\t9\n\t\n\t\n\t\tCOLONIA NUEVA\n\t\t2\n\t\t68\n\t\t25\n\t\t43\n\t\t4\n\t\n\t\n\t\tCÓPORO\n\t\t2\n\t\t12\n\t\t9\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL ARENAL\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL BARRO\n\t\t3\n\t\t47\n\t\t32\n\t\t15\n\t\t5\n\t\n\t\n\t\tEL CARRIZAL\n\t\t3\n\t\t66\n\t\t31\n\t\t35\n\t\t4\n\t\n\t\n\t\tEL CIRIÁN\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL ESPINAL\n\t\t2\n\t\t20\n\t\t7\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL MANGO\n\t\t2\n\t\t109\n\t\t49\n\t\t60\n\t\t6\n\t\n\t\n\t\tEL PASO\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL PUERTO DE JUNGAPEO\n\t\t4\n\t\t254\n\t\t138\n\t\t116\n\t\t12\n\t\n\t\n\t\tEL TAMARINDO\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL TEPEHUAJE\n\t\t1\n\t\t6\n\t\t5\n\t\t1\n\t\t1\n\t\n\t\n\t\tHUANGUITÍO\n\t\t4\n\t\t312\n\t\t170\n\t\t142\n\t\t14\n\t\n\t\n\t\tJUNGAPEO DE JUÁREZ\n\t\t12\n\t\t1,767\n\t\t922\n\t\t845\n\t\t110\n\t\n\t\n\t\tLA FLORIDA\n\t\t3\n\t\t154\n\t\t69\n\t\t85\n\t\t9\n\t\n\t\n\t\tLA GARITA\n\t\t4\n\t\t259\n\t\t140\n\t\t119\n\t\t17\n\t\n\t\n\t\tLA LAJA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA MESA DEL CAMPO\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA MORA\n\t\t3\n\t\t213\n\t\t113\n\t\t100\n\t\t10\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t208\n\t\t103\n\t\t105\n\t\t9\n\t\n\t\n\t\tLA VEGA\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tLA YERBABUENA\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS ANONAS\n\t\t3\n\t\t105\n\t\t52\n\t\t53\n\t\t7\n\t\n\t\n\t\tLAS CANOAS\n\t\t2\n\t\t12\n\t\t8\n\t\t4\n\t\t2\n\t\n\t\n\t\tLAS CUCHILLAS\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t2\n\t\n\t\n\t\tLAS ESCOBAS\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t3\n\t\n\t\n\t\tLAS GUÁSIMAS\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t4\n\t\t375\n\t\t181\n\t\t194\n\t\t23\n\t\n\t\n\t\tLOS SAUCES\n\t\t1\n\t\t10\n\t\t1\n\t\t9\n\t\t1\n\t\n\t\n\t\tPIEDRAS DE LUMBRE\n\t\t2\n\t\t56\n\t\t33\n\t\t23\n\t\t5\n\t\n\t\n\t\tPÚCUARO\n\t\t2\n\t\t36\n\t\t14\n\t\t22\n\t\t3\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t3\n\t\t43\n\t\t18\n\t\t25\n\t\t3\n\t\n\t\n\t\tPUERTO ITZIAPO\n\t\t3\n\t\t40\n\t\t18\n\t\t22\n\t\t3\n\t\n\t\n\t\tVEINTE DE NOVIEMBRE\n\t\t2\n\t\t17\n\t\t10\n\t\t7\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t94\n\t\t4,744\n\t\t2,423\n\t\t2,321\n\t\t297\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: JUNGAPEO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA SALADA",
+          "4",
+          "250",
+          "117",
+          "133",
+          "16",
+          "CERRITO DEL MUERTO",
+          "2",
+          "167",
+          "90",
+          "77",
+          "9",
+          "COLONIA NUEVA",
+          "2",
+          "68",
+          "25",
+          "43",
+          "4",
+          "CÓPORO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2",
+          "EL ARENAL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2",
+          "EL BARRO",
+          "3",
+          "47",
+          "32",
+          "15",
+          "5",
+          "EL CARRIZAL",
+          "3",
+          "66",
+          "31",
+          "35",
+          "4",
+          "EL CIRIÁN",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EL ESPINAL",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2",
+          "EL MANGO",
+          "2",
+          "109",
+          "49",
+          "60",
+          "6",
+          "EL PASO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2",
+          "EL PUERTO DE JUNGAPEO",
+          "4",
+          "254",
+          "138",
+          "116",
+          "12",
+          "EL TAMARINDO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1",
+          "HUANGUITÍO",
+          "4",
+          "312",
+          "170",
+          "142",
+          "14",
+          "JUNGAPEO DE JUÁREZ",
+          "12",
+          "1,767",
+          "922",
+          "845",
+          "110",
+          "LA FLORIDA",
+          "3",
+          "154",
+          "69",
+          "85",
+          "9",
+          "LA GARITA",
+          "4",
+          "259",
+          "140",
+          "119",
+          "17",
+          "LA LAJA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LA MESA DEL CAMPO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "LA MORA",
+          "3",
+          "213",
+          "113",
+          "100",
+          "10",
+          "LA SOLEDAD",
+          "3",
+          "208",
+          "103",
+          "105",
+          "9",
+          "LA VEGA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "LA YERBABUENA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1",
+          "LAS ANONAS",
+          "3",
+          "105",
+          "52",
+          "53",
+          "7",
+          "LAS CANOAS",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2",
+          "LAS CUCHILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2",
+          "LAS ESCOBAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "3",
+          "LAS GUÁSIMAS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "LÁZARO CÁRDENAS",
+          "4",
+          "375",
+          "181",
+          "194",
+          "23",
+          "LOS SAUCES",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1",
+          "PIEDRAS DE LUMBRE",
+          "2",
+          "56",
+          "33",
+          "23",
+          "5",
+          "PÚCUARO",
+          "2",
+          "36",
+          "14",
+          "22",
+          "3",
+          "PUEBLO VIEJO",
+          "3",
+          "43",
+          "18",
+          "25",
+          "3",
+          "PUERTO ITZIAPO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3",
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2",
+          "TOTAL",
+          "94",
+          "4,744",
+          "2,423",
+          "2,321",
+          "297",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: JUNGAPEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA SALADA",
+          "4",
+          "250",
+          "117",
+          "133",
+          "16"
+        ],
+        [
+          "CERRITO DEL MUERTO",
+          "2",
+          "167",
+          "90",
+          "77",
+          "9"
+        ],
+        [
+          "COLONIA NUEVA",
+          "2",
+          "68",
+          "25",
+          "43",
+          "4"
+        ],
+        [
+          "CÓPORO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "EL BARRO",
+          "3",
+          "47",
+          "32",
+          "15",
+          "5"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "66",
+          "31",
+          "35",
+          "4"
+        ],
+        [
+          "EL CIRIÁN",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL ESPINAL",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANGO",
+          "2",
+          "109",
+          "49",
+          "60",
+          "6"
+        ],
+        [
+          "EL PASO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL PUERTO DE JUNGAPEO",
+          "4",
+          "254",
+          "138",
+          "116",
+          "12"
+        ],
+        [
+          "EL TAMARINDO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "HUANGUITÍO",
+          "4",
+          "312",
+          "170",
+          "142",
+          "14"
+        ],
+        [
+          "JUNGAPEO DE JUÁREZ",
+          "12",
+          "1,767",
+          "922",
+          "845",
+          "110"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "154",
+          "69",
+          "85",
+          "9"
+        ],
+        [
+          "LA GARITA",
+          "4",
+          "259",
+          "140",
+          "119",
+          "17"
+        ],
+        [
+          "LA LAJA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA MESA DEL CAMPO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA MORA",
+          "3",
+          "213",
+          "113",
+          "100",
+          "10"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "208",
+          "103",
+          "105",
+          "9"
+        ],
+        [
+          "LA VEGA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LA YERBABUENA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LAS ANONAS",
+          "3",
+          "105",
+          "52",
+          "53",
+          "7"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "LAS CUCHILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "LAS ESCOBAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "3"
+        ],
+        [
+          "LAS GUÁSIMAS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "4",
+          "375",
+          "181",
+          "194",
+          "23"
+        ],
+        [
+          "LOS SAUCES",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1"
+        ],
+        [
+          "PIEDRAS DE LUMBRE",
+          "2",
+          "56",
+          "33",
+          "23",
+          "5"
+        ],
+        [
+          "PÚCUARO",
+          "2",
+          "36",
+          "14",
+          "22",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "3",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "PUERTO ITZIAPO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "4,744",
+          "2,423",
+          "2,321",
+          "297"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: JUNGAPEO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA SALADA",
+          "4",
+          "250",
+          "117",
+          "133",
+          "16"
+        ],
+        [
+          "CERRITO DEL MUERTO",
+          "2",
+          "167",
+          "90",
+          "77",
+          "9"
+        ],
+        [
+          "COLONIA NUEVA",
+          "2",
+          "68",
+          "25",
+          "43",
+          "4"
+        ],
+        [
+          "CÓPORO",
+          "2",
+          "12",
+          "9",
+          "3",
+          "2"
+        ],
+        [
+          "EL ARENAL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "EL BARRO",
+          "3",
+          "47",
+          "32",
+          "15",
+          "5"
+        ],
+        [
+          "EL CARRIZAL",
+          "3",
+          "66",
+          "31",
+          "35",
+          "4"
+        ],
+        [
+          "EL CIRIÁN",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EL ESPINAL",
+          "2",
+          "20",
+          "7",
+          "13",
+          "2"
+        ],
+        [
+          "EL MANGO",
+          "2",
+          "109",
+          "49",
+          "60",
+          "6"
+        ],
+        [
+          "EL PASO",
+          "2",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL PUERTO DE JUNGAPEO",
+          "4",
+          "254",
+          "138",
+          "116",
+          "12"
+        ],
+        [
+          "EL TAMARINDO",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL TEPEHUAJE",
+          "1",
+          "6",
+          "5",
+          "1",
+          "1"
+        ],
+        [
+          "HUANGUITÍO",
+          "4",
+          "312",
+          "170",
+          "142",
+          "14"
+        ],
+        [
+          "JUNGAPEO DE JUÁREZ",
+          "12",
+          "1,767",
+          "922",
+          "845",
+          "110"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "154",
+          "69",
+          "85",
+          "9"
+        ],
+        [
+          "LA GARITA",
+          "4",
+          "259",
+          "140",
+          "119",
+          "17"
+        ],
+        [
+          "LA LAJA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA MESA DEL CAMPO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA MORA",
+          "3",
+          "213",
+          "113",
+          "100",
+          "10"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "208",
+          "103",
+          "105",
+          "9"
+        ],
+        [
+          "LA VEGA",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "LA YERBABUENA",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LAS ANONAS",
+          "3",
+          "105",
+          "52",
+          "53",
+          "7"
+        ],
+        [
+          "LAS CANOAS",
+          "2",
+          "12",
+          "8",
+          "4",
+          "2"
+        ],
+        [
+          "LAS CUCHILLAS",
+          "2",
+          "14",
+          "6",
+          "8",
+          "2"
+        ],
+        [
+          "LAS ESCOBAS",
+          "2",
+          "15",
+          "8",
+          "7",
+          "3"
+        ],
+        [
+          "LAS GUÁSIMAS",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "4",
+          "375",
+          "181",
+          "194",
+          "23"
+        ],
+        [
+          "LOS SAUCES",
+          "1",
+          "10",
+          "1",
+          "9",
+          "1"
+        ],
+        [
+          "PIEDRAS DE LUMBRE",
+          "2",
+          "56",
+          "33",
+          "23",
+          "5"
+        ],
+        [
+          "PÚCUARO",
+          "2",
+          "36",
+          "14",
+          "22",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "3",
+          "43",
+          "18",
+          "25",
+          "3"
+        ],
+        [
+          "PUERTO ITZIAPO",
+          "3",
+          "40",
+          "18",
+          "22",
+          "3"
+        ],
+        [
+          "VEINTE DE NOVIEMBRE",
+          "2",
+          "17",
+          "10",
+          "7",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "94",
+          "4,744",
+          "2,423",
+          "2,321",
+          "297"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:12.547Z"
+}

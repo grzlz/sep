@@ -1,0 +1,274 @@
+{
+  "municipality": "SAN JUAN DE SABINAS",
+  "municipalityCode": "032",
+  "state": "COAHUILA DE ZARAGOZA",
+  "stateCode": "5",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACUÑA\n\tALLENDE\n\tARTEAGA\n\tCANDELA\n\tCASTAÑOS\n\tCUATRO CIÉNEGAS\n\tESCOBEDO\n\tFRANCISCO I. MADERO\n\tFRONTERA\n\tGENERAL CEPEDA\n\tGUERRERO\n\tHIDALGO\n\tJIMÉNEZ\n\tJUÁREZ\n\tLAMADRID\n\tMATAMOROS\n\tMONCLOVA\n\tMORELOS\n\tMÚZQUIZ\n\tNADADORES\n\tNAVA\n\tOCAMPO\n\tPARRAS\n\tPIEDRAS NEGRAS\n\tPROGRESO\n\tRAMOS ARIZPE\n\tSABINAS\n\tSACRAMENTO\n\tSALTILLO\n\tSAN BUENAVENTURA\n\tSAN JUAN DE SABINAS\n\tSAN PEDRO\n\tSIERRA MOJADA\n\tTORREÓN\n\tVIESCA\n\tVILLA UNIÓN\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SAN JUAN DE SABINAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t3\n\t\t49\n\t\t30\n\t\t19\n\t\t3\n\t\n\t\n\t\tNUEVA ROSITA\n\t\t61\n\t\t8,225\n\t\t4,090\n\t\t4,135\n\t\t489\n\t\n\t\n\t\tPASO DEL COYOTE\n\t\t2\n\t\t57\n\t\t31\n\t\t26\n\t\t3\n\t\n\t\n\t\tPASO DEL COYOTE (PREDIO PURÍSIMA)\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t0\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t27\n\t\t8\n\t\t19\n\t\t2\n\t\n\t\n\t\tSAN JUAN DE SABINAS\n\t\t7\n\t\t1,852\n\t\t948\n\t\t904\n\t\t135\n\t\n\t\n\t\tSANTA MARÍA\n\t\t3\n\t\t161\n\t\t81\n\t\t80\n\t\t11\n\t\n\t\n\t\tSAUCEDA DEL NARANJO\n\t\t2\n\t\t35\n\t\t14\n\t\t21\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t81\n\t\t10,411\n\t\t5,203\n\t\t5,208\n\t\t646\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SAN JUAN DE SABINAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "IGNACIO ZARAGOZA",
+          "3",
+          "49",
+          "30",
+          "19",
+          "3",
+          "NUEVA ROSITA",
+          "61",
+          "8,225",
+          "4,090",
+          "4,135",
+          "489",
+          "PASO DEL COYOTE",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3",
+          "PASO DEL COYOTE (PREDIO PURÍSIMA)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "0",
+          "RANCHO NUEVO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2",
+          "SAN JUAN DE SABINAS",
+          "7",
+          "1,852",
+          "948",
+          "904",
+          "135",
+          "SANTA MARÍA",
+          "3",
+          "161",
+          "81",
+          "80",
+          "11",
+          "SAUCEDA DEL NARANJO",
+          "2",
+          "35",
+          "14",
+          "21",
+          "3",
+          "TOTAL",
+          "81",
+          "10,411",
+          "5,203",
+          "5,208",
+          "646",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SAN JUAN DE SABINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "3",
+          "49",
+          "30",
+          "19",
+          "3"
+        ],
+        [
+          "NUEVA ROSITA",
+          "61",
+          "8,225",
+          "4,090",
+          "4,135",
+          "489"
+        ],
+        [
+          "PASO DEL COYOTE",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3"
+        ],
+        [
+          "PASO DEL COYOTE (PREDIO PURÍSIMA)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "0"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JUAN DE SABINAS",
+          "7",
+          "1,852",
+          "948",
+          "904",
+          "135"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "161",
+          "81",
+          "80",
+          "11"
+        ],
+        [
+          "SAUCEDA DEL NARANJO",
+          "2",
+          "35",
+          "14",
+          "21",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "10,411",
+          "5,203",
+          "5,208",
+          "646"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COAHUILA DE ZARAGOZA;    MUNICIPIO: SAN JUAN DE SABINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "3",
+          "49",
+          "30",
+          "19",
+          "3"
+        ],
+        [
+          "NUEVA ROSITA",
+          "61",
+          "8,225",
+          "4,090",
+          "4,135",
+          "489"
+        ],
+        [
+          "PASO DEL COYOTE",
+          "2",
+          "57",
+          "31",
+          "26",
+          "3"
+        ],
+        [
+          "PASO DEL COYOTE (PREDIO PURÍSIMA)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "0"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JUAN DE SABINAS",
+          "7",
+          "1,852",
+          "948",
+          "904",
+          "135"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "161",
+          "81",
+          "80",
+          "11"
+        ],
+        [
+          "SAUCEDA DEL NARANJO",
+          "2",
+          "35",
+          "14",
+          "21",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "81",
+          "10,411",
+          "5,203",
+          "5,208",
+          "646"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:13.001Z"
+}

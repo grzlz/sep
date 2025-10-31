@@ -1,0 +1,1022 @@
+{
+  "municipality": "SALINAS",
+  "municipalityCode": "025",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: SALINAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAZOGUEROS\n\t\t3\n\t\t117\n\t\t54\n\t\t63\n\t\t7\n\t\n\t\n\t\tBAJÍO DE LOS ENCINOS (LOS ENCINITOS)\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t1\n\t\n\t\n\t\tCOLONIA ZARAGOZA (GARABATILLO)\n\t\t3\n\t\t79\n\t\t37\n\t\t42\n\t\t4\n\t\n\t\n\t\tCONEJILLO\n\t\t5\n\t\t265\n\t\t144\n\t\t121\n\t\t19\n\t\n\t\n\t\tEL ALEGRE\n\t\t3\n\t\t80\n\t\t40\n\t\t40\n\t\t5\n\t\n\t\n\t\tEL CAMARÓN\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL ESTRIBO\n\t\t3\n\t\t120\n\t\t57\n\t\t63\n\t\t5\n\t\n\t\n\t\tEL JABONERO\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL LLANO DEL CONEJILLO\n\t\t2\n\t\t34\n\t\t16\n\t\t18\n\t\t4\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t2\n\t\t15\n\t\t10\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL MEZQUITE\n\t\t3\n\t\t44\n\t\t18\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL POTRO\n\t\t3\n\t\t51\n\t\t28\n\t\t23\n\t\t5\n\t\n\t\n\t\tEL TECOLOTE\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tGUADALUPE VICTORIA (LA NORIA DEL JACALÓN)\n\t\t3\n\t\t34\n\t\t19\n\t\t15\n\t\t3\n\t\n\t\n\t\tGUADALUPITO\n\t\t2\n\t\t15\n\t\t8\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA BOLSA\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA MANTENEDORA\n\t\t3\n\t\t42\n\t\t15\n\t\t27\n\t\t3\n\t\n\t\n\t\tLA MESILLA\n\t\t3\n\t\t63\n\t\t32\n\t\t31\n\t\t4\n\t\n\t\n\t\tLA REFORMA\n\t\t4\n\t\t230\n\t\t130\n\t\t100\n\t\t16\n\t\n\t\n\t\tLAS COLONIAS (COLONIA JUÁREZ)\n\t\t10\n\t\t418\n\t\t205\n\t\t213\n\t\t25\n\t\n\t\n\t\tLOS MONTECITOS\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tNORIA DE CAÑAS\n\t\t4\n\t\t165\n\t\t81\n\t\t84\n\t\t10\n\t\n\t\n\t\tPALMA PEGADA\n\t\t4\n\t\t305\n\t\t165\n\t\t140\n\t\t20\n\t\n\t\n\t\tPIEDRAS NEGRAS\n\t\t3\n\t\t22\n\t\t9\n\t\t13\n\t\t3\n\t\n\t\n\t\tPOZO SECO\n\t\t3\n\t\t40\n\t\t20\n\t\t20\n\t\t4\n\t\n\t\n\t\tPUNTEROS (SAN JOSÉ DE PUNTEROS)\n\t\t3\n\t\t156\n\t\t73\n\t\t83\n\t\t10\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t14\n\t\t6\n\t\t8\n\t\t1\n\t\n\t\n\t\tSALINAS DE HIDALGO\n\t\t24\n\t\t4,669\n\t\t2,396\n\t\t2,273\n\t\t285\n\t\n\t\n\t\tSALITRILLO\n\t\t3\n\t\t156\n\t\t91\n\t\t65\n\t\t10\n\t\n\t\n\t\tSALTO MATORRAL\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO DE LA PAZ\n\t\t3\n\t\t29\n\t\t14\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN EVARISTO\n\t\t3\n\t\t65\n\t\t29\n\t\t36\n\t\t5\n\t\n\t\n\t\tSAN EXPEDITO\n\t\t3\n\t\t27\n\t\t11\n\t\t16\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO PEÑÓN BLANCO\n\t\t3\n\t\t122\n\t\t57\n\t\t65\n\t\t7\n\t\n\t\n\t\tSAN JUAN SIN AGUA\n\t\t3\n\t\t23\n\t\t13\n\t\t10\n\t\t3\n\t\n\t\n\t\tSAN PEDRO DE ALCÁNTAR\n\t\t3\n\t\t20\n\t\t10\n\t\t10\n\t\t4\n\t\n\t\n\t\tSANTA ELENA\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSANTA MARÍA\n\t\t3\n\t\t64\n\t\t31\n\t\t33\n\t\t5\n\t\n\t\n\t\tSOTOL\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tTRIANA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tVIBORILLAS\n\t\t3\n\t\t23\n\t\t13\n\t\t10\n\t\t3\n\t\n\t\n\t\tVICENTE GUERRERO (LA CÓCONA)\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t140\n\t\t7,630\n\t\t3,895\n\t\t3,735\n\t\t496\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: SALINAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AZOGUEROS",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7",
+          "BAJÍO DE LOS ENCINOS (LOS ENCINITOS)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "1",
+          "COLONIA ZARAGOZA (GARABATILLO)",
+          "3",
+          "79",
+          "37",
+          "42",
+          "4",
+          "CONEJILLO",
+          "5",
+          "265",
+          "144",
+          "121",
+          "19",
+          "EL ALEGRE",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5",
+          "EL CAMARÓN",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1",
+          "EL ESTRIBO",
+          "3",
+          "120",
+          "57",
+          "63",
+          "5",
+          "EL JABONERO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "EL LLANO DEL CONEJILLO",
+          "2",
+          "34",
+          "16",
+          "18",
+          "4",
+          "EL MEZQUITAL",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2",
+          "EL MEZQUITE",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3",
+          "EL POTRO",
+          "3",
+          "51",
+          "28",
+          "23",
+          "5",
+          "EL TECOLOTE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1",
+          "GUADALUPE VICTORIA (LA NORIA DEL JACALÓN)",
+          "3",
+          "34",
+          "19",
+          "15",
+          "3",
+          "GUADALUPITO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "1",
+          "LA BOLSA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2",
+          "LA MANTENEDORA",
+          "3",
+          "42",
+          "15",
+          "27",
+          "3",
+          "LA MESILLA",
+          "3",
+          "63",
+          "32",
+          "31",
+          "4",
+          "LA REFORMA",
+          "4",
+          "230",
+          "130",
+          "100",
+          "16",
+          "LAS COLONIAS (COLONIA JUÁREZ)",
+          "10",
+          "418",
+          "205",
+          "213",
+          "25",
+          "LOS MONTECITOS",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "NORIA DE CAÑAS",
+          "4",
+          "165",
+          "81",
+          "84",
+          "10",
+          "PALMA PEGADA",
+          "4",
+          "305",
+          "165",
+          "140",
+          "20",
+          "PIEDRAS NEGRAS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3",
+          "POZO SECO",
+          "3",
+          "40",
+          "20",
+          "20",
+          "4",
+          "PUNTEROS (SAN JOSÉ DE PUNTEROS)",
+          "3",
+          "156",
+          "73",
+          "83",
+          "10",
+          "RANCHO NUEVO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1",
+          "SALINAS DE HIDALGO",
+          "24",
+          "4,669",
+          "2,396",
+          "2,273",
+          "285",
+          "SALITRILLO",
+          "3",
+          "156",
+          "91",
+          "65",
+          "10",
+          "SALTO MATORRAL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SAN ANTONIO DE LA PAZ",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3",
+          "SAN EVARISTO",
+          "3",
+          "65",
+          "29",
+          "36",
+          "5",
+          "SAN EXPEDITO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "4",
+          "SAN ISIDRO PEÑÓN BLANCO",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7",
+          "SAN JUAN SIN AGUA",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3",
+          "SAN PEDRO DE ALCÁNTAR",
+          "3",
+          "20",
+          "10",
+          "10",
+          "4",
+          "SANTA ELENA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SANTA MARÍA",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5",
+          "SOTOL",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "TRIANA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "1",
+          "VIBORILLAS",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3",
+          "VICENTE GUERRERO (LA CÓCONA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "TOTAL",
+          "140",
+          "7,630",
+          "3,895",
+          "3,735",
+          "496",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: SALINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZOGUEROS",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7"
+        ],
+        [
+          "BAJÍO DE LOS ENCINOS (LOS ENCINITOS)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "COLONIA ZARAGOZA (GARABATILLO)",
+          "3",
+          "79",
+          "37",
+          "42",
+          "4"
+        ],
+        [
+          "CONEJILLO",
+          "5",
+          "265",
+          "144",
+          "121",
+          "19"
+        ],
+        [
+          "EL ALEGRE",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5"
+        ],
+        [
+          "EL CAMARÓN",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EL ESTRIBO",
+          "3",
+          "120",
+          "57",
+          "63",
+          "5"
+        ],
+        [
+          "EL JABONERO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL LLANO DEL CONEJILLO",
+          "2",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "EL POTRO",
+          "3",
+          "51",
+          "28",
+          "23",
+          "5"
+        ],
+        [
+          "EL TECOLOTE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GUADALUPE VICTORIA (LA NORIA DEL JACALÓN)",
+          "3",
+          "34",
+          "19",
+          "15",
+          "3"
+        ],
+        [
+          "GUADALUPITO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "LA BOLSA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "LA MANTENEDORA",
+          "3",
+          "42",
+          "15",
+          "27",
+          "3"
+        ],
+        [
+          "LA MESILLA",
+          "3",
+          "63",
+          "32",
+          "31",
+          "4"
+        ],
+        [
+          "LA REFORMA",
+          "4",
+          "230",
+          "130",
+          "100",
+          "16"
+        ],
+        [
+          "LAS COLONIAS (COLONIA JUÁREZ)",
+          "10",
+          "418",
+          "205",
+          "213",
+          "25"
+        ],
+        [
+          "LOS MONTECITOS",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "NORIA DE CAÑAS",
+          "4",
+          "165",
+          "81",
+          "84",
+          "10"
+        ],
+        [
+          "PALMA PEGADA",
+          "4",
+          "305",
+          "165",
+          "140",
+          "20"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "POZO SECO",
+          "3",
+          "40",
+          "20",
+          "20",
+          "4"
+        ],
+        [
+          "PUNTEROS (SAN JOSÉ DE PUNTEROS)",
+          "3",
+          "156",
+          "73",
+          "83",
+          "10"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SALINAS DE HIDALGO",
+          "24",
+          "4,669",
+          "2,396",
+          "2,273",
+          "285"
+        ],
+        [
+          "SALITRILLO",
+          "3",
+          "156",
+          "91",
+          "65",
+          "10"
+        ],
+        [
+          "SALTO MATORRAL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LA PAZ",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "SAN EVARISTO",
+          "3",
+          "65",
+          "29",
+          "36",
+          "5"
+        ],
+        [
+          "SAN EXPEDITO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "4"
+        ],
+        [
+          "SAN ISIDRO PEÑÓN BLANCO",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7"
+        ],
+        [
+          "SAN JUAN SIN AGUA",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "SAN PEDRO DE ALCÁNTAR",
+          "3",
+          "20",
+          "10",
+          "10",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5"
+        ],
+        [
+          "SOTOL",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "TRIANA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "VIBORILLAS",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (LA CÓCONA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "140",
+          "7,630",
+          "3,895",
+          "3,735",
+          "496"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: SALINAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZOGUEROS",
+          "3",
+          "117",
+          "54",
+          "63",
+          "7"
+        ],
+        [
+          "BAJÍO DE LOS ENCINOS (LOS ENCINITOS)",
+          "2",
+          "20",
+          "9",
+          "11",
+          "1"
+        ],
+        [
+          "COLONIA ZARAGOZA (GARABATILLO)",
+          "3",
+          "79",
+          "37",
+          "42",
+          "4"
+        ],
+        [
+          "CONEJILLO",
+          "5",
+          "265",
+          "144",
+          "121",
+          "19"
+        ],
+        [
+          "EL ALEGRE",
+          "3",
+          "80",
+          "40",
+          "40",
+          "5"
+        ],
+        [
+          "EL CAMARÓN",
+          "2",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "EL ESTRIBO",
+          "3",
+          "120",
+          "57",
+          "63",
+          "5"
+        ],
+        [
+          "EL JABONERO",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "EL LLANO DEL CONEJILLO",
+          "2",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "EL MEZQUITAL",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "44",
+          "18",
+          "26",
+          "3"
+        ],
+        [
+          "EL POTRO",
+          "3",
+          "51",
+          "28",
+          "23",
+          "5"
+        ],
+        [
+          "EL TECOLOTE",
+          "2",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GUADALUPE VICTORIA (LA NORIA DEL JACALÓN)",
+          "3",
+          "34",
+          "19",
+          "15",
+          "3"
+        ],
+        [
+          "GUADALUPITO",
+          "2",
+          "15",
+          "8",
+          "7",
+          "1"
+        ],
+        [
+          "LA BOLSA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "LA MANTENEDORA",
+          "3",
+          "42",
+          "15",
+          "27",
+          "3"
+        ],
+        [
+          "LA MESILLA",
+          "3",
+          "63",
+          "32",
+          "31",
+          "4"
+        ],
+        [
+          "LA REFORMA",
+          "4",
+          "230",
+          "130",
+          "100",
+          "16"
+        ],
+        [
+          "LAS COLONIAS (COLONIA JUÁREZ)",
+          "10",
+          "418",
+          "205",
+          "213",
+          "25"
+        ],
+        [
+          "LOS MONTECITOS",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "NORIA DE CAÑAS",
+          "4",
+          "165",
+          "81",
+          "84",
+          "10"
+        ],
+        [
+          "PALMA PEGADA",
+          "4",
+          "305",
+          "165",
+          "140",
+          "20"
+        ],
+        [
+          "PIEDRAS NEGRAS",
+          "3",
+          "22",
+          "9",
+          "13",
+          "3"
+        ],
+        [
+          "POZO SECO",
+          "3",
+          "40",
+          "20",
+          "20",
+          "4"
+        ],
+        [
+          "PUNTEROS (SAN JOSÉ DE PUNTEROS)",
+          "3",
+          "156",
+          "73",
+          "83",
+          "10"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "14",
+          "6",
+          "8",
+          "1"
+        ],
+        [
+          "SALINAS DE HIDALGO",
+          "24",
+          "4,669",
+          "2,396",
+          "2,273",
+          "285"
+        ],
+        [
+          "SALITRILLO",
+          "3",
+          "156",
+          "91",
+          "65",
+          "10"
+        ],
+        [
+          "SALTO MATORRAL",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN ANTONIO DE LA PAZ",
+          "3",
+          "29",
+          "14",
+          "15",
+          "3"
+        ],
+        [
+          "SAN EVARISTO",
+          "3",
+          "65",
+          "29",
+          "36",
+          "5"
+        ],
+        [
+          "SAN EXPEDITO",
+          "3",
+          "27",
+          "11",
+          "16",
+          "4"
+        ],
+        [
+          "SAN ISIDRO PEÑÓN BLANCO",
+          "3",
+          "122",
+          "57",
+          "65",
+          "7"
+        ],
+        [
+          "SAN JUAN SIN AGUA",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "SAN PEDRO DE ALCÁNTAR",
+          "3",
+          "20",
+          "10",
+          "10",
+          "4"
+        ],
+        [
+          "SANTA ELENA",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SANTA MARÍA",
+          "3",
+          "64",
+          "31",
+          "33",
+          "5"
+        ],
+        [
+          "SOTOL",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "TRIANA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "VIBORILLAS",
+          "3",
+          "23",
+          "13",
+          "10",
+          "3"
+        ],
+        [
+          "VICENTE GUERRERO (LA CÓCONA)",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "140",
+          "7,630",
+          "3,895",
+          "3,735",
+          "496"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:29:58.718Z"
+}

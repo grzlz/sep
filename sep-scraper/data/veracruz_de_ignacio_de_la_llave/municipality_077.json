@@ -1,0 +1,1286 @@
+{
+  "municipality": "ISLA",
+  "municipalityCode": "077",
+  "state": "VERACRUZ DE IGNACIO DE LA LLAVE",
+  "stateCode": "30",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATLÁN\n\tACAYUCAN\n\tACTOPAN\n\tACULA\n\tACULTZINGO\n\tAGUA DULCE\n\tÁLAMO TEMAPACHE\n\tALPATLÁHUAC\n\tALTO LUCERO DE GUTIÉRREZ BARRIOS\n\tALTOTONGA\n\tALVARADO\n\tAMATITLÁN\n\tAMATLÁN DE LOS REYES\n\tANGEL R. CABADA\n\tAPAZAPAN\n\tAQUILA\n\tASTACINGA\n\tATLAHUILCO\n\tATOYAC\n\tATZACAN\n\tATZALAN\n\tAYAHUALULCO\n\tBANDERILLA\n\tBENITO JUÁREZ\n\tBOCA DEL RÍO\n\tCALCAHUALCO\n\tCAMARÓN DE TEJEDA\n\tCAMERINO Z. MENDOZA\n\tCARLOS A. CARRILLO\n\tCARRILLO PUERTO\n\tCASTILLO DE TEAYO\n\tCATEMACO\n\tCAZONES DE HERRERA\n\tCERRO AZUL\n\tCHACALTIANGUIS\n\tCHALMA\n\tCHICONAMEL\n\tCHICONQUIACO\n\tCHICONTEPEC\n\tCHINAMECA\n\tCHINAMPA DE GOROSTIZA\n\tCHOCAMÁN\n\tCHONTLA\n\tCHUMATLÁN\n\tCITLALTÉPETL\n\tCOACOATZINTLA\n\tCOAHUITLÁN\n\tCOATEPEC\n\tCOATZACOALCOS\n\tCOATZINTLA\n\tCOETZALA\n\tCOLIPA\n\tCOMAPA\n\tCÓRDOBA\n\tCOSAMALOAPAN DE CARPIO\n\tCOSAUTLÁN DE CARVAJAL\n\tCOSCOMATEPEC\n\tCOSOLEACAQUE\n\tCOTAXTLA\n\tCOXQUIHUI\n\tCOYUTLA\n\tCUICHAPA\n\tCUITLÁHUAC\n\tEL HIGO\n\tEMILIANO ZAPATA\n\tESPINAL\n\tFILOMENO MATA\n\tFORTÍN\n\tGUTIÉRREZ ZAMORA\n\tHIDALGOTITLÁN\n\tHUATUSCO\n\tHUAYACOCOTLA\n\tHUEYAPAN DE OCAMPO\n\tHUILOAPAN DE CUAUHTÉMOC\n\tIGNACIO DE LA LLAVE\n\tILAMATLÁN\n\tISLA\n\tIXCATEPEC\n\tIXHUACÁN DE LOS REYES\n\tIXHUATLÁN DE MADERO\n\tIXHUATLÁN DEL CAFÉ\n\tIXHUATLÁN DEL SURESTE\n\tIXHUATLANCILLO\n\tIXMATLAHUACAN\n\tIXTACZOQUITLÁN\n\tJALACINGO\n\tJALCOMULCO\n\tJÁLTIPAN\n\tJAMAPA\n\tJESÚS CARRANZA\n\tJILOTEPEC\n\tJOSÉ AZUETA\n\tJUAN RODRÍGUEZ CLARA\n\tJUCHIQUE DE FERRER\n\tLA ANTIGUA\n\tLA PERLA\n\tLANDERO Y COSS\n\tLAS CHOAPAS\n\tLAS MINAS\n\tLAS VIGAS DE RAMÍREZ\n\tLERDO DE TEJADA\n\tLOS REYES\n\tMAGDALENA\n\tMALTRATA\n\tMANLIO FABIO ALTAMIRANO\n\tMARIANO ESCOBEDO\n\tMARTÍNEZ DE LA TORRE\n\tMECATLÁN\n\tMECAYAPAN\n\tMEDELLÍN DE BRAVO\n\tMIAHUATLÁN\n\tMINATITLÁN\n\tMISANTLA\n\tMIXTLA DE ALTAMIRANO\n\tMOLOACÁN\n\tNANCHITAL DE LÁZARO CÁRDENAS DEL RÍO\n\tNAOLINCO\n\tNARANJAL\n\tNARANJOS AMATLÁN\n\tNAUTLA\n\tNOGALES\n\tOLUTA\n\tOMEALCA\n\tORIZABA\n\tOTATITLÁN\n\tOTEAPAN\n\tOZULUAMA DE MASCAREÑAS\n\tPAJAPAN\n\tPÁNUCO\n\tPAPANTLA\n\tPASO DE OVEJAS\n\tPASO DEL MACHO\n\tPEROTE\n\tPLATÓN SÁNCHEZ\n\tPLAYA VICENTE\n\tPOZA RICA DE HIDALGO\n\tPUEBLO VIEJO\n\tPUENTE NACIONAL\n\tRAFAEL DELGADO\n\tRAFAEL LUCIO\n\tRÍO BLANCO\n\tSALTABARRANCA\n\tSAN ANDRÉS TENEJAPAN\n\tSAN ANDRÉS TUXTLA\n\tSAN JUAN EVANGELISTA\n\tSAN RAFAEL\n\tSANTIAGO SOCHIAPAN\n\tSANTIAGO TUXTLA\n\tSAYULA DE ALEMÁN\n\tSOCHIAPA\n\tSOCONUSCO\n\tSOLEDAD ATZOMPA\n\tSOLEDAD DE DOBLADO\n\tSOTEAPAN\n\tTAMALÍN\n\tTAMIAHUA\n\tTAMPICO ALTO\n\tTANCOCO\n\tTANTIMA\n\tTANTOYUCA\n\tTATAHUICAPAN DE JUÁREZ\n\tTATATILA\n\tTECOLUTLA\n\tTEHUIPANGO\n\tTEMPOAL\n\tTENAMPA\n\tTENOCHTITLÁN\n\tTEOCELO\n\tTEPATLAXCO\n\tTEPETLÁN\n\tTEPETZINTLA\n\tTEQUILA\n\tTEXCATEPEC\n\tTEXHUACÁN\n\tTEXISTEPEC\n\tTEZONAPA\n\tTIERRA BLANCA\n\tTIHUATLÁN\n\tTLACHICHILCO\n\tTLACOJALPAN\n\tTLACOLULAN\n\tTLACOTALPAN\n\tTLACOTEPEC DE MEJÍA\n\tTLALIXCOYAN\n\tTLALNELHUAYOCAN\n\tTLALTETELA\n\tTLAPACOYAN\n\tTLAQUILPA\n\tTLILAPAN\n\tTOMATLÁN\n\tTONAYÁN\n\tTOTUTLA\n\tTRES VALLES\n\tTUXPAN\n\tTUXTILLA\n\tURSULO GALVÁN\n\tUXPANAPA\n\tVEGA DE ALATORRE\n\tVERACRUZ\n\tVILLA ALDAMA\n\tXALAPA\n\tXICO\n\tXOXOCOTLA\n\tYANGA\n\tYECUATLA\n\tZACUALPAN\n\tZARAGOZA\n\tZENTLA\n\tZONGOLICA\n\tZONTECOMATLÁN DE LÓPEZ Y FUENTES\n\tZOZOCOLCO DE HIDALGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ISLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUAS PRIETAS (LOS CERROS)\n\t\t3\n\t\t55\n\t\t23\n\t\t32\n\t\t6\n\t\n\t\n\t\tBALBOA\n\t\t2\n\t\t21\n\t\t13\n\t\t8\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t2\n\t\t33\n\t\t11\n\t\t22\n\t\t2\n\t\n\t\n\t\tCHAPOPOAPAN\n\t\t1\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tCHILTEPEC\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tCOAPA\n\t\t3\n\t\t82\n\t\t48\n\t\t34\n\t\t6\n\t\n\t\n\t\tCUJULUAPAN (EL GUAYABO)\n\t\t4\n\t\t82\n\t\t38\n\t\t44\n\t\t7\n\t\n\t\n\t\tEL CARRIZO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL COCO\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL COCO (SAN JUAN DEL RÍO)\n\t\t1\n\t\t19\n\t\t10\n\t\t9\n\t\t1\n\t\n\t\n\t\tEL CORTE\n\t\t1\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tEL MAGUIAL (LA LAGUNA)\n\t\t3\n\t\t25\n\t\t8\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL MARCIAL (EL COYOLAR)\n\t\t4\n\t\t142\n\t\t74\n\t\t68\n\t\t9\n\t\n\t\n\t\tEL MOSQUITO\n\t\t1\n\t\t11\n\t\t6\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL ÑAPE\n\t\t2\n\t\t49\n\t\t26\n\t\t23\n\t\t3\n\t\n\t\n\t\tEL PAISAJE\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t3\n\t\n\t\n\t\tEL POZÓN\n\t\t2\n\t\t21\n\t\t11\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL TESORO\n\t\t4\n\t\t136\n\t\t70\n\t\t66\n\t\t8\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tGARRO\n\t\t4\n\t\t221\n\t\t99\n\t\t122\n\t\t12\n\t\n\t\n\t\tGARZA BLANCA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tIGNACIO RAMÍREZ\n\t\t3\n\t\t85\n\t\t43\n\t\t42\n\t\t7\n\t\n\t\n\t\tISLA\n\t\t42\n\t\t6,008\n\t\t3,051\n\t\t2,957\n\t\t350\n\t\n\t\n\t\tLA ESPERANZA\n\t\t1\n\t\t70\n\t\t27\n\t\t43\n\t\t3\n\t\n\t\n\t\tLA FLORIDA (NUEVO TENEJAPAN)\n\t\t2\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA LOMA\n\t\t1\n\t\t123\n\t\t60\n\t\t63\n\t\t9\n\t\n\t\n\t\tLA PEÑA\n\t\t3\n\t\t50\n\t\t26\n\t\t24\n\t\t4\n\t\n\t\n\t\tLAS GARZAS\n\t\t1\n\t\t17\n\t\t11\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS GOLONDRINAS\n\t\t1\n\t\t43\n\t\t21\n\t\t22\n\t\t3\n\t\n\t\n\t\tLAS MACAYAS\n\t\t1\n\t\t22\n\t\t12\n\t\t10\n\t\t1\n\t\n\t\n\t\tLAS PLAYAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLEYES DE REFORMA\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tLICENCIADO ALFREDO V. BONFIL\n\t\t2\n\t\t7\n\t\t5\n\t\t2\n\t\t1\n\t\n\t\n\t\tLOMA ALTA\n\t\t4\n\t\t178\n\t\t81\n\t\t97\n\t\t11\n\t\n\t\n\t\tMACUILE\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tMATA LIMONES\n\t\t2\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tMAZOCO\n\t\t4\n\t\t232\n\t\t105\n\t\t127\n\t\t13\n\t\n\t\n\t\tNUEVO CANTÓN\n\t\t3\n\t\t82\n\t\t43\n\t\t39\n\t\t7\n\t\n\t\n\t\tNUEVO POTRERO\n\t\t3\n\t\t169\n\t\t78\n\t\t91\n\t\t10\n\t\n\t\n\t\tNUEVO VILORIA\n\t\t2\n\t\t31\n\t\t13\n\t\t18\n\t\t2\n\t\n\t\n\t\tORO VERDE (EL ARENAL)\n\t\t3\n\t\t72\n\t\t35\n\t\t37\n\t\t6\n\t\n\t\n\t\tPALMARILLO\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tPALO BLANCO\n\t\t1\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tPOTRERILLOS\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tRODOLFO FIERRO\n\t\t2\n\t\t23\n\t\t10\n\t\t13\n\t\t3\n\t\n\t\n\t\tSALSIPUEDES\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN ANASTACIO (TACHICÓN)\n\t\t2\n\t\t40\n\t\t20\n\t\t20\n\t\t3\n\t\n\t\n\t\tSAN NICOLÁS ZACAPEXCO\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN PEDRO MÁRTIR\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN SIMÓN II\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tSOLERILLA\n\t\t2\n\t\t15\n\t\t9\n\t\t6\n\t\t2\n\t\n\t\n\t\tTOTOLOCHE\n\t\t4\n\t\t154\n\t\t86\n\t\t68\n\t\t12\n\t\n\t\n\t\tVILORIA VIEJO\n\t\t3\n\t\t88\n\t\t48\n\t\t40\n\t\t7\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t1\n\t\t16\n\t\t7\n\t\t9\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t151\n\t\t8,634\n\t\t4,324\n\t\t4,310\n\t\t544\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ISLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUAS PRIETAS (LOS CERROS)",
+          "3",
+          "55",
+          "23",
+          "32",
+          "6",
+          "BALBOA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2",
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "11",
+          "22",
+          "2",
+          "CHAPOPOAPAN",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1",
+          "CHILTEPEC",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "COAPA",
+          "3",
+          "82",
+          "48",
+          "34",
+          "6",
+          "CUJULUAPAN (EL GUAYABO)",
+          "4",
+          "82",
+          "38",
+          "44",
+          "7",
+          "EL CARRIZO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "EL COCO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "EL COCO (SAN JUAN DEL RÍO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1",
+          "EL CORTE",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2",
+          "EL MAGUIAL (LA LAGUNA)",
+          "3",
+          "25",
+          "8",
+          "17",
+          "3",
+          "EL MARCIAL (EL COYOLAR)",
+          "4",
+          "142",
+          "74",
+          "68",
+          "9",
+          "EL MOSQUITO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1",
+          "EL ÑAPE",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3",
+          "EL PAISAJE",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3",
+          "EL POZÓN",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2",
+          "EL TESORO",
+          "4",
+          "136",
+          "70",
+          "66",
+          "8",
+          "FRANCISCO VILLA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "GARRO",
+          "4",
+          "221",
+          "99",
+          "122",
+          "12",
+          "GARZA BLANCA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "IGNACIO RAMÍREZ",
+          "3",
+          "85",
+          "43",
+          "42",
+          "7",
+          "ISLA",
+          "42",
+          "6,008",
+          "3,051",
+          "2,957",
+          "350",
+          "LA ESPERANZA",
+          "1",
+          "70",
+          "27",
+          "43",
+          "3",
+          "LA FLORIDA (NUEVO TENEJAPAN)",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1",
+          "LA LOMA",
+          "1",
+          "123",
+          "60",
+          "63",
+          "9",
+          "LA PEÑA",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4",
+          "LAS GARZAS",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1",
+          "LAS GOLONDRINAS",
+          "1",
+          "43",
+          "21",
+          "22",
+          "3",
+          "LAS MACAYAS",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1",
+          "LAS PLAYAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LEYES DE REFORMA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "LICENCIADO ALFREDO V. BONFIL",
+          "2",
+          "7",
+          "5",
+          "2",
+          "1",
+          "LOMA ALTA",
+          "4",
+          "178",
+          "81",
+          "97",
+          "11",
+          "MACUILE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "MATA LIMONES",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1",
+          "MAZOCO",
+          "4",
+          "232",
+          "105",
+          "127",
+          "13",
+          "NUEVO CANTÓN",
+          "3",
+          "82",
+          "43",
+          "39",
+          "7",
+          "NUEVO POTRERO",
+          "3",
+          "169",
+          "78",
+          "91",
+          "10",
+          "NUEVO VILORIA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2",
+          "ORO VERDE (EL ARENAL)",
+          "3",
+          "72",
+          "35",
+          "37",
+          "6",
+          "PALMARILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "PALO BLANCO",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1",
+          "POTRERILLOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "RODOLFO FIERRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3",
+          "SALSIPUEDES",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "SAN ANASTACIO (TACHICÓN)",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3",
+          "SAN NICOLÁS ZACAPEXCO",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2",
+          "SAN PEDRO MÁRTIR",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "SAN SIMÓN II",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "SOLERILLA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2",
+          "TOTOLOCHE",
+          "4",
+          "154",
+          "86",
+          "68",
+          "12",
+          "VILORIA VIEJO",
+          "3",
+          "88",
+          "48",
+          "40",
+          "7",
+          "VISTA HERMOSA",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1",
+          "TOTAL",
+          "151",
+          "8,634",
+          "4,324",
+          "4,310",
+          "544",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ISLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAS PRIETAS (LOS CERROS)",
+          "3",
+          "55",
+          "23",
+          "32",
+          "6"
+        ],
+        [
+          "BALBOA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "11",
+          "22",
+          "2"
+        ],
+        [
+          "CHAPOPOAPAN",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "CHILTEPEC",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "COAPA",
+          "3",
+          "82",
+          "48",
+          "34",
+          "6"
+        ],
+        [
+          "CUJULUAPAN (EL GUAYABO)",
+          "4",
+          "82",
+          "38",
+          "44",
+          "7"
+        ],
+        [
+          "EL CARRIZO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL COCO (SAN JUAN DEL RÍO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "EL CORTE",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "EL MAGUIAL (LA LAGUNA)",
+          "3",
+          "25",
+          "8",
+          "17",
+          "3"
+        ],
+        [
+          "EL MARCIAL (EL COYOLAR)",
+          "4",
+          "142",
+          "74",
+          "68",
+          "9"
+        ],
+        [
+          "EL MOSQUITO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL ÑAPE",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "EL PAISAJE",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "EL POZÓN",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EL TESORO",
+          "4",
+          "136",
+          "70",
+          "66",
+          "8"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "GARRO",
+          "4",
+          "221",
+          "99",
+          "122",
+          "12"
+        ],
+        [
+          "GARZA BLANCA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "IGNACIO RAMÍREZ",
+          "3",
+          "85",
+          "43",
+          "42",
+          "7"
+        ],
+        [
+          "ISLA",
+          "42",
+          "6,008",
+          "3,051",
+          "2,957",
+          "350"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "70",
+          "27",
+          "43",
+          "3"
+        ],
+        [
+          "LA FLORIDA (NUEVO TENEJAPAN)",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA LOMA",
+          "1",
+          "123",
+          "60",
+          "63",
+          "9"
+        ],
+        [
+          "LA PEÑA",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4"
+        ],
+        [
+          "LAS GARZAS",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "LAS GOLONDRINAS",
+          "1",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LAS MACAYAS",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1"
+        ],
+        [
+          "LAS PLAYAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LEYES DE REFORMA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LICENCIADO ALFREDO V. BONFIL",
+          "2",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "LOMA ALTA",
+          "4",
+          "178",
+          "81",
+          "97",
+          "11"
+        ],
+        [
+          "MACUILE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "MATA LIMONES",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "MAZOCO",
+          "4",
+          "232",
+          "105",
+          "127",
+          "13"
+        ],
+        [
+          "NUEVO CANTÓN",
+          "3",
+          "82",
+          "43",
+          "39",
+          "7"
+        ],
+        [
+          "NUEVO POTRERO",
+          "3",
+          "169",
+          "78",
+          "91",
+          "10"
+        ],
+        [
+          "NUEVO VILORIA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "ORO VERDE (EL ARENAL)",
+          "3",
+          "72",
+          "35",
+          "37",
+          "6"
+        ],
+        [
+          "PALMARILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "POTRERILLOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "RODOLFO FIERRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "SALSIPUEDES",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ANASTACIO (TACHICÓN)",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "SAN NICOLÁS ZACAPEXCO",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "SAN PEDRO MÁRTIR",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN SIMÓN II",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "SOLERILLA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "TOTOLOCHE",
+          "4",
+          "154",
+          "86",
+          "68",
+          "12"
+        ],
+        [
+          "VILORIA VIEJO",
+          "3",
+          "88",
+          "48",
+          "40",
+          "7"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "8,634",
+          "4,324",
+          "4,310",
+          "544"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: VERACRUZ DE IGNACIO DE LA LLAVE;    MUNICIPIO: ISLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUAS PRIETAS (LOS CERROS)",
+          "3",
+          "55",
+          "23",
+          "32",
+          "6"
+        ],
+        [
+          "BALBOA",
+          "2",
+          "21",
+          "13",
+          "8",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "2",
+          "33",
+          "11",
+          "22",
+          "2"
+        ],
+        [
+          "CHAPOPOAPAN",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "CHILTEPEC",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "COAPA",
+          "3",
+          "82",
+          "48",
+          "34",
+          "6"
+        ],
+        [
+          "CUJULUAPAN (EL GUAYABO)",
+          "4",
+          "82",
+          "38",
+          "44",
+          "7"
+        ],
+        [
+          "EL CARRIZO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "EL COCO",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "EL COCO (SAN JUAN DEL RÍO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "1"
+        ],
+        [
+          "EL CORTE",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "EL MAGUIAL (LA LAGUNA)",
+          "3",
+          "25",
+          "8",
+          "17",
+          "3"
+        ],
+        [
+          "EL MARCIAL (EL COYOLAR)",
+          "4",
+          "142",
+          "74",
+          "68",
+          "9"
+        ],
+        [
+          "EL MOSQUITO",
+          "1",
+          "11",
+          "6",
+          "5",
+          "1"
+        ],
+        [
+          "EL ÑAPE",
+          "2",
+          "49",
+          "26",
+          "23",
+          "3"
+        ],
+        [
+          "EL PAISAJE",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "EL POZÓN",
+          "2",
+          "21",
+          "11",
+          "10",
+          "2"
+        ],
+        [
+          "EL TESORO",
+          "4",
+          "136",
+          "70",
+          "66",
+          "8"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "GARRO",
+          "4",
+          "221",
+          "99",
+          "122",
+          "12"
+        ],
+        [
+          "GARZA BLANCA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "IGNACIO RAMÍREZ",
+          "3",
+          "85",
+          "43",
+          "42",
+          "7"
+        ],
+        [
+          "ISLA",
+          "42",
+          "6,008",
+          "3,051",
+          "2,957",
+          "350"
+        ],
+        [
+          "LA ESPERANZA",
+          "1",
+          "70",
+          "27",
+          "43",
+          "3"
+        ],
+        [
+          "LA FLORIDA (NUEVO TENEJAPAN)",
+          "2",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA LOMA",
+          "1",
+          "123",
+          "60",
+          "63",
+          "9"
+        ],
+        [
+          "LA PEÑA",
+          "3",
+          "50",
+          "26",
+          "24",
+          "4"
+        ],
+        [
+          "LAS GARZAS",
+          "1",
+          "17",
+          "11",
+          "6",
+          "1"
+        ],
+        [
+          "LAS GOLONDRINAS",
+          "1",
+          "43",
+          "21",
+          "22",
+          "3"
+        ],
+        [
+          "LAS MACAYAS",
+          "1",
+          "22",
+          "12",
+          "10",
+          "1"
+        ],
+        [
+          "LAS PLAYAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LEYES DE REFORMA",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LICENCIADO ALFREDO V. BONFIL",
+          "2",
+          "7",
+          "5",
+          "2",
+          "1"
+        ],
+        [
+          "LOMA ALTA",
+          "4",
+          "178",
+          "81",
+          "97",
+          "11"
+        ],
+        [
+          "MACUILE",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "MATA LIMONES",
+          "2",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "MAZOCO",
+          "4",
+          "232",
+          "105",
+          "127",
+          "13"
+        ],
+        [
+          "NUEVO CANTÓN",
+          "3",
+          "82",
+          "43",
+          "39",
+          "7"
+        ],
+        [
+          "NUEVO POTRERO",
+          "3",
+          "169",
+          "78",
+          "91",
+          "10"
+        ],
+        [
+          "NUEVO VILORIA",
+          "2",
+          "31",
+          "13",
+          "18",
+          "2"
+        ],
+        [
+          "ORO VERDE (EL ARENAL)",
+          "3",
+          "72",
+          "35",
+          "37",
+          "6"
+        ],
+        [
+          "PALMARILLO",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "POTRERILLOS",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "RODOLFO FIERRO",
+          "2",
+          "23",
+          "10",
+          "13",
+          "3"
+        ],
+        [
+          "SALSIPUEDES",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "SAN ANASTACIO (TACHICÓN)",
+          "2",
+          "40",
+          "20",
+          "20",
+          "3"
+        ],
+        [
+          "SAN NICOLÁS ZACAPEXCO",
+          "2",
+          "13",
+          "6",
+          "7",
+          "2"
+        ],
+        [
+          "SAN PEDRO MÁRTIR",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "SAN SIMÓN II",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "SOLERILLA",
+          "2",
+          "15",
+          "9",
+          "6",
+          "2"
+        ],
+        [
+          "TOTOLOCHE",
+          "4",
+          "154",
+          "86",
+          "68",
+          "12"
+        ],
+        [
+          "VILORIA VIEJO",
+          "3",
+          "88",
+          "48",
+          "40",
+          "7"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "16",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "151",
+          "8,634",
+          "4,324",
+          "4,310",
+          "544"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:46:29.070Z"
+}

@@ -1,0 +1,1418 @@
+{
+  "municipality": "BOCHIL",
+  "municipalityCode": "013",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: BOCHIL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA BENDITA\n\t\t2\n\t\t51\n\t\t24\n\t\t27\n\t\t4\n\t\n\t\n\t\tAJILÓ\n\t\t4\n\t\t524\n\t\t270\n\t\t254\n\t\t20\n\t\n\t\n\t\tALLENDE ESQUIPULAS\n\t\t5\n\t\t358\n\t\t187\n\t\t171\n\t\t16\n\t\n\t\n\t\tBOCHIL\n\t\t30\n\t\t5,843\n\t\t2,964\n\t\t2,879\n\t\t304\n\t\n\t\n\t\tCANTÉ\n\t\t1\n\t\t10\n\t\t2\n\t\t8\n\t\t1\n\t\n\t\n\t\tCERRO MATASANO\n\t\t3\n\t\t22\n\t\t12\n\t\t10\n\t\t3\n\t\n\t\n\t\tCERRO PALMITA\n\t\t2\n\t\t52\n\t\t27\n\t\t25\n\t\t3\n\t\n\t\n\t\tEL AMATE\n\t\t4\n\t\t232\n\t\t111\n\t\t121\n\t\t13\n\t\n\t\n\t\tEL CERRO\n\t\t2\n\t\t35\n\t\t18\n\t\t17\n\t\t2\n\t\n\t\n\t\tEL COPAL\n\t\t4\n\t\t535\n\t\t285\n\t\t250\n\t\t19\n\t\n\t\n\t\tEL MIRADOR\n\t\t1\n\t\t109\n\t\t56\n\t\t53\n\t\t6\n\t\n\t\n\t\tEL OCOTAL\n\t\t2\n\t\t26\n\t\t16\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL OCOTE\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL PALMARCITO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t153\n\t\t80\n\t\t73\n\t\t6\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tGARRIDO CANAVAL (CHAVARRÍA)\n\t\t4\n\t\t324\n\t\t161\n\t\t163\n\t\t15\n\t\n\t\n\t\tGUADALUPE\n\t\t5\n\t\t37\n\t\t15\n\t\t22\n\t\t5\n\t\n\t\n\t\tHIERBABUENA EL NARANJO\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA CAÑADA\n\t\t2\n\t\t118\n\t\t56\n\t\t62\n\t\t4\n\t\n\t\n\t\tLA LAGUNA\n\t\t3\n\t\t228\n\t\t113\n\t\t115\n\t\t9\n\t\n\t\n\t\tLA LAGUNITA\n\t\t2\n\t\t75\n\t\t37\n\t\t38\n\t\t2\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t22\n\t\t15\n\t\t7\n\t\t2\n\t\n\t\n\t\tLA NARANJA\n\t\t1\n\t\t59\n\t\t35\n\t\t24\n\t\t2\n\t\n\t\n\t\tLA PITAHAYA\n\t\t3\n\t\t59\n\t\t24\n\t\t35\n\t\t4\n\t\n\t\n\t\tLA YERBABUENA\n\t\t3\n\t\t220\n\t\t124\n\t\t96\n\t\t11\n\t\n\t\n\t\tLAS LIMAS\n\t\t3\n\t\t32\n\t\t15\n\t\t17\n\t\t3\n\t\n\t\n\t\tLAS LOMAS\n\t\t3\n\t\t35\n\t\t20\n\t\t15\n\t\t4\n\t\n\t\n\t\tLLANO GRANDE\n\t\t3\n\t\t271\n\t\t122\n\t\t149\n\t\t11\n\t\n\t\n\t\tLOS PINITOS\n\t\t1\n\t\t18\n\t\t8\n\t\t10\n\t\t1\n\t\n\t\n\t\tLUIS ESPINOZA\n\t\t4\n\t\t512\n\t\t250\n\t\t262\n\t\t24\n\t\n\t\n\t\tMONTE CHICO\n\t\t2\n\t\t54\n\t\t29\n\t\t25\n\t\t2\n\t\n\t\n\t\tMONTE GRANDE\n\t\t2\n\t\t270\n\t\t144\n\t\t126\n\t\t9\n\t\n\t\n\t\tMONTE VERDE\n\t\t3\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tNÍHO\n\t\t5\n\t\t230\n\t\t117\n\t\t113\n\t\t13\n\t\n\t\n\t\tNUEVA ESPERANZA\n\t\t3\n\t\t31\n\t\t15\n\t\t16\n\t\t3\n\t\n\t\n\t\tNUEVA LIBERTAD\n\t\t1\n\t\t60\n\t\t34\n\t\t26\n\t\t2\n\t\n\t\n\t\tNUEVO CHUCHILTÓN\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tPALMA REAL\n\t\t3\n\t\t39\n\t\t22\n\t\t17\n\t\t4\n\t\n\t\n\t\tPASHAMUM\n\t\t3\n\t\t21\n\t\t12\n\t\t9\n\t\t3\n\t\n\t\n\t\tPLAN DE AYALA\n\t\t3\n\t\t74\n\t\t37\n\t\t37\n\t\t6\n\t\n\t\n\t\tPOCITO CAULOTE\n\t\t3\n\t\t102\n\t\t43\n\t\t59\n\t\t5\n\t\n\t\n\t\tPOMILÓ\n\t\t2\n\t\t87\n\t\t40\n\t\t47\n\t\t3\n\t\n\t\n\t\tREFORMA 2000\n\t\t2\n\t\t91\n\t\t39\n\t\t52\n\t\t6\n\t\n\t\n\t\tSAN ANTONIO LA PITAHAYA\n\t\t2\n\t\t78\n\t\t46\n\t\t32\n\t\t3\n\t\n\t\n\t\tSAN ANTONIO POMILÓ\n\t\t2\n\t\t29\n\t\t19\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN GREGORIO\n\t\t2\n\t\t38\n\t\t19\n\t\t19\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ EL EDÉN\n\t\t2\n\t\t27\n\t\t11\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN JOSÉ MORELOS\n\t\t2\n\t\t83\n\t\t41\n\t\t42\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ MUJULAR\n\t\t1\n\t\t32\n\t\t14\n\t\t18\n\t\t1\n\t\n\t\n\t\tSAN PEDRO EL ACHIOTE (SAN PEDRO MÁRTIR)\n\t\t2\n\t\t219\n\t\t105\n\t\t114\n\t\t9\n\t\n\t\n\t\tSAN VICENTE\n\t\t3\n\t\t203\n\t\t95\n\t\t108\n\t\t11\n\t\n\t\n\t\tSANTA CRUZ BUENAVISTA\n\t\t3\n\t\t42\n\t\t26\n\t\t16\n\t\t4\n\t\n\t\n\t\tSANTA CRUZ NIHO\n\t\t1\n\t\t18\n\t\t11\n\t\t7\n\t\t1\n\t\n\t\n\t\tSANTO DOMINGO\n\t\t2\n\t\t169\n\t\t86\n\t\t83\n\t\t6\n\t\n\t\n\t\tSHASHALPA\n\t\t3\n\t\t138\n\t\t78\n\t\t60\n\t\t5\n\t\n\t\n\t\tSITETIC\n\t\t2\n\t\t83\n\t\t39\n\t\t44\n\t\t3\n\t\n\t\n\t\tTIERRA COLORADA\n\t\t2\n\t\t345\n\t\t168\n\t\t177\n\t\t13\n\t\n\t\n\t\tVENUSTIANO CARRANZA\n\t\t2\n\t\t253\n\t\t139\n\t\t114\n\t\t9\n\t\n\t\n\t\tYERBABUENA ISBONTICK\n\t\t3\n\t\t576\n\t\t266\n\t\t310\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t176\n\t\t13,428\n\t\t6,778\n\t\t6,650\n\t\t660\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: BOCHIL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA BENDITA",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4",
+          "AJILÓ",
+          "4",
+          "524",
+          "270",
+          "254",
+          "20",
+          "ALLENDE ESQUIPULAS",
+          "5",
+          "358",
+          "187",
+          "171",
+          "16",
+          "BOCHIL",
+          "30",
+          "5,843",
+          "2,964",
+          "2,879",
+          "304",
+          "CANTÉ",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1",
+          "CERRO MATASANO",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3",
+          "CERRO PALMITA",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3",
+          "EL AMATE",
+          "4",
+          "232",
+          "111",
+          "121",
+          "13",
+          "EL CERRO",
+          "2",
+          "35",
+          "18",
+          "17",
+          "2",
+          "EL COPAL",
+          "4",
+          "535",
+          "285",
+          "250",
+          "19",
+          "EL MIRADOR",
+          "1",
+          "109",
+          "56",
+          "53",
+          "6",
+          "EL OCOTAL",
+          "2",
+          "26",
+          "16",
+          "10",
+          "3",
+          "EL OCOTE",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "EL PALMARCITO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EMILIANO ZAPATA",
+          "3",
+          "153",
+          "80",
+          "73",
+          "6",
+          "FRANCISCO VILLA",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "GARRIDO CANAVAL (CHAVARRÍA)",
+          "4",
+          "324",
+          "161",
+          "163",
+          "15",
+          "GUADALUPE",
+          "5",
+          "37",
+          "15",
+          "22",
+          "5",
+          "HIERBABUENA EL NARANJO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "LA CAÑADA",
+          "2",
+          "118",
+          "56",
+          "62",
+          "4",
+          "LA LAGUNA",
+          "3",
+          "228",
+          "113",
+          "115",
+          "9",
+          "LA LAGUNITA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "2",
+          "LA LIBERTAD",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2",
+          "LA NARANJA",
+          "1",
+          "59",
+          "35",
+          "24",
+          "2",
+          "LA PITAHAYA",
+          "3",
+          "59",
+          "24",
+          "35",
+          "4",
+          "LA YERBABUENA",
+          "3",
+          "220",
+          "124",
+          "96",
+          "11",
+          "LAS LIMAS",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3",
+          "LAS LOMAS",
+          "3",
+          "35",
+          "20",
+          "15",
+          "4",
+          "LLANO GRANDE",
+          "3",
+          "271",
+          "122",
+          "149",
+          "11",
+          "LOS PINITOS",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1",
+          "LUIS ESPINOZA",
+          "4",
+          "512",
+          "250",
+          "262",
+          "24",
+          "MONTE CHICO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2",
+          "MONTE GRANDE",
+          "2",
+          "270",
+          "144",
+          "126",
+          "9",
+          "MONTE VERDE",
+          "3",
+          "16",
+          "8",
+          "8",
+          "2",
+          "NÍHO",
+          "5",
+          "230",
+          "117",
+          "113",
+          "13",
+          "NUEVA ESPERANZA",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3",
+          "NUEVA LIBERTAD",
+          "1",
+          "60",
+          "34",
+          "26",
+          "2",
+          "NUEVO CHUCHILTÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "PALMA REAL",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4",
+          "PASHAMUM",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3",
+          "PLAN DE AYALA",
+          "3",
+          "74",
+          "37",
+          "37",
+          "6",
+          "POCITO CAULOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "5",
+          "POMILÓ",
+          "2",
+          "87",
+          "40",
+          "47",
+          "3",
+          "REFORMA 2000",
+          "2",
+          "91",
+          "39",
+          "52",
+          "6",
+          "SAN ANTONIO LA PITAHAYA",
+          "2",
+          "78",
+          "46",
+          "32",
+          "3",
+          "SAN ANTONIO POMILÓ",
+          "2",
+          "29",
+          "19",
+          "10",
+          "2",
+          "SAN GREGORIO",
+          "2",
+          "38",
+          "19",
+          "19",
+          "2",
+          "SAN JOSÉ EL EDÉN",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3",
+          "SAN JOSÉ MORELOS",
+          "2",
+          "83",
+          "41",
+          "42",
+          "5",
+          "SAN JOSÉ MUJULAR",
+          "1",
+          "32",
+          "14",
+          "18",
+          "1",
+          "SAN PEDRO EL ACHIOTE (SAN PEDRO MÁRTIR)",
+          "2",
+          "219",
+          "105",
+          "114",
+          "9",
+          "SAN VICENTE",
+          "3",
+          "203",
+          "95",
+          "108",
+          "11",
+          "SANTA CRUZ BUENAVISTA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4",
+          "SANTA CRUZ NIHO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1",
+          "SANTO DOMINGO",
+          "2",
+          "169",
+          "86",
+          "83",
+          "6",
+          "SHASHALPA",
+          "3",
+          "138",
+          "78",
+          "60",
+          "5",
+          "SITETIC",
+          "2",
+          "83",
+          "39",
+          "44",
+          "3",
+          "TIERRA COLORADA",
+          "2",
+          "345",
+          "168",
+          "177",
+          "13",
+          "VENUSTIANO CARRANZA",
+          "2",
+          "253",
+          "139",
+          "114",
+          "9",
+          "YERBABUENA ISBONTICK",
+          "3",
+          "576",
+          "266",
+          "310",
+          "20",
+          "TOTAL",
+          "176",
+          "13,428",
+          "6,778",
+          "6,650",
+          "660",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: BOCHIL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BENDITA",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "AJILÓ",
+          "4",
+          "524",
+          "270",
+          "254",
+          "20"
+        ],
+        [
+          "ALLENDE ESQUIPULAS",
+          "5",
+          "358",
+          "187",
+          "171",
+          "16"
+        ],
+        [
+          "BOCHIL",
+          "30",
+          "5,843",
+          "2,964",
+          "2,879",
+          "304"
+        ],
+        [
+          "CANTÉ",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "CERRO MATASANO",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "CERRO PALMITA",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3"
+        ],
+        [
+          "EL AMATE",
+          "4",
+          "232",
+          "111",
+          "121",
+          "13"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "35",
+          "18",
+          "17",
+          "2"
+        ],
+        [
+          "EL COPAL",
+          "4",
+          "535",
+          "285",
+          "250",
+          "19"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "109",
+          "56",
+          "53",
+          "6"
+        ],
+        [
+          "EL OCOTAL",
+          "2",
+          "26",
+          "16",
+          "10",
+          "3"
+        ],
+        [
+          "EL OCOTE",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL PALMARCITO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "153",
+          "80",
+          "73",
+          "6"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "GARRIDO CANAVAL (CHAVARRÍA)",
+          "4",
+          "324",
+          "161",
+          "163",
+          "15"
+        ],
+        [
+          "GUADALUPE",
+          "5",
+          "37",
+          "15",
+          "22",
+          "5"
+        ],
+        [
+          "HIERBABUENA EL NARANJO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "118",
+          "56",
+          "62",
+          "4"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "228",
+          "113",
+          "115",
+          "9"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "2"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LA NARANJA",
+          "1",
+          "59",
+          "35",
+          "24",
+          "2"
+        ],
+        [
+          "LA PITAHAYA",
+          "3",
+          "59",
+          "24",
+          "35",
+          "4"
+        ],
+        [
+          "LA YERBABUENA",
+          "3",
+          "220",
+          "124",
+          "96",
+          "11"
+        ],
+        [
+          "LAS LIMAS",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3"
+        ],
+        [
+          "LAS LOMAS",
+          "3",
+          "35",
+          "20",
+          "15",
+          "4"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "271",
+          "122",
+          "149",
+          "11"
+        ],
+        [
+          "LOS PINITOS",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "LUIS ESPINOZA",
+          "4",
+          "512",
+          "250",
+          "262",
+          "24"
+        ],
+        [
+          "MONTE CHICO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2"
+        ],
+        [
+          "MONTE GRANDE",
+          "2",
+          "270",
+          "144",
+          "126",
+          "9"
+        ],
+        [
+          "MONTE VERDE",
+          "3",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "NÍHO",
+          "5",
+          "230",
+          "117",
+          "113",
+          "13"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "1",
+          "60",
+          "34",
+          "26",
+          "2"
+        ],
+        [
+          "NUEVO CHUCHILTÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "PALMA REAL",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4"
+        ],
+        [
+          "PASHAMUM",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "PLAN DE AYALA",
+          "3",
+          "74",
+          "37",
+          "37",
+          "6"
+        ],
+        [
+          "POCITO CAULOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "5"
+        ],
+        [
+          "POMILÓ",
+          "2",
+          "87",
+          "40",
+          "47",
+          "3"
+        ],
+        [
+          "REFORMA 2000",
+          "2",
+          "91",
+          "39",
+          "52",
+          "6"
+        ],
+        [
+          "SAN ANTONIO LA PITAHAYA",
+          "2",
+          "78",
+          "46",
+          "32",
+          "3"
+        ],
+        [
+          "SAN ANTONIO POMILÓ",
+          "2",
+          "29",
+          "19",
+          "10",
+          "2"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "38",
+          "19",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JOSÉ EL EDÉN",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "SAN JOSÉ MORELOS",
+          "2",
+          "83",
+          "41",
+          "42",
+          "5"
+        ],
+        [
+          "SAN JOSÉ MUJULAR",
+          "1",
+          "32",
+          "14",
+          "18",
+          "1"
+        ],
+        [
+          "SAN PEDRO EL ACHIOTE (SAN PEDRO MÁRTIR)",
+          "2",
+          "219",
+          "105",
+          "114",
+          "9"
+        ],
+        [
+          "SAN VICENTE",
+          "3",
+          "203",
+          "95",
+          "108",
+          "11"
+        ],
+        [
+          "SANTA CRUZ BUENAVISTA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA CRUZ NIHO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "169",
+          "86",
+          "83",
+          "6"
+        ],
+        [
+          "SHASHALPA",
+          "3",
+          "138",
+          "78",
+          "60",
+          "5"
+        ],
+        [
+          "SITETIC",
+          "2",
+          "83",
+          "39",
+          "44",
+          "3"
+        ],
+        [
+          "TIERRA COLORADA",
+          "2",
+          "345",
+          "168",
+          "177",
+          "13"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "2",
+          "253",
+          "139",
+          "114",
+          "9"
+        ],
+        [
+          "YERBABUENA ISBONTICK",
+          "3",
+          "576",
+          "266",
+          "310",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "176",
+          "13,428",
+          "6,778",
+          "6,650",
+          "660"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: BOCHIL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA BENDITA",
+          "2",
+          "51",
+          "24",
+          "27",
+          "4"
+        ],
+        [
+          "AJILÓ",
+          "4",
+          "524",
+          "270",
+          "254",
+          "20"
+        ],
+        [
+          "ALLENDE ESQUIPULAS",
+          "5",
+          "358",
+          "187",
+          "171",
+          "16"
+        ],
+        [
+          "BOCHIL",
+          "30",
+          "5,843",
+          "2,964",
+          "2,879",
+          "304"
+        ],
+        [
+          "CANTÉ",
+          "1",
+          "10",
+          "2",
+          "8",
+          "1"
+        ],
+        [
+          "CERRO MATASANO",
+          "3",
+          "22",
+          "12",
+          "10",
+          "3"
+        ],
+        [
+          "CERRO PALMITA",
+          "2",
+          "52",
+          "27",
+          "25",
+          "3"
+        ],
+        [
+          "EL AMATE",
+          "4",
+          "232",
+          "111",
+          "121",
+          "13"
+        ],
+        [
+          "EL CERRO",
+          "2",
+          "35",
+          "18",
+          "17",
+          "2"
+        ],
+        [
+          "EL COPAL",
+          "4",
+          "535",
+          "285",
+          "250",
+          "19"
+        ],
+        [
+          "EL MIRADOR",
+          "1",
+          "109",
+          "56",
+          "53",
+          "6"
+        ],
+        [
+          "EL OCOTAL",
+          "2",
+          "26",
+          "16",
+          "10",
+          "3"
+        ],
+        [
+          "EL OCOTE",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "EL PALMARCITO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "153",
+          "80",
+          "73",
+          "6"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "GARRIDO CANAVAL (CHAVARRÍA)",
+          "4",
+          "324",
+          "161",
+          "163",
+          "15"
+        ],
+        [
+          "GUADALUPE",
+          "5",
+          "37",
+          "15",
+          "22",
+          "5"
+        ],
+        [
+          "HIERBABUENA EL NARANJO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "118",
+          "56",
+          "62",
+          "4"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "228",
+          "113",
+          "115",
+          "9"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "2"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "22",
+          "15",
+          "7",
+          "2"
+        ],
+        [
+          "LA NARANJA",
+          "1",
+          "59",
+          "35",
+          "24",
+          "2"
+        ],
+        [
+          "LA PITAHAYA",
+          "3",
+          "59",
+          "24",
+          "35",
+          "4"
+        ],
+        [
+          "LA YERBABUENA",
+          "3",
+          "220",
+          "124",
+          "96",
+          "11"
+        ],
+        [
+          "LAS LIMAS",
+          "3",
+          "32",
+          "15",
+          "17",
+          "3"
+        ],
+        [
+          "LAS LOMAS",
+          "3",
+          "35",
+          "20",
+          "15",
+          "4"
+        ],
+        [
+          "LLANO GRANDE",
+          "3",
+          "271",
+          "122",
+          "149",
+          "11"
+        ],
+        [
+          "LOS PINITOS",
+          "1",
+          "18",
+          "8",
+          "10",
+          "1"
+        ],
+        [
+          "LUIS ESPINOZA",
+          "4",
+          "512",
+          "250",
+          "262",
+          "24"
+        ],
+        [
+          "MONTE CHICO",
+          "2",
+          "54",
+          "29",
+          "25",
+          "2"
+        ],
+        [
+          "MONTE GRANDE",
+          "2",
+          "270",
+          "144",
+          "126",
+          "9"
+        ],
+        [
+          "MONTE VERDE",
+          "3",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "NÍHO",
+          "5",
+          "230",
+          "117",
+          "113",
+          "13"
+        ],
+        [
+          "NUEVA ESPERANZA",
+          "3",
+          "31",
+          "15",
+          "16",
+          "3"
+        ],
+        [
+          "NUEVA LIBERTAD",
+          "1",
+          "60",
+          "34",
+          "26",
+          "2"
+        ],
+        [
+          "NUEVO CHUCHILTÓN",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "PALMA REAL",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4"
+        ],
+        [
+          "PASHAMUM",
+          "3",
+          "21",
+          "12",
+          "9",
+          "3"
+        ],
+        [
+          "PLAN DE AYALA",
+          "3",
+          "74",
+          "37",
+          "37",
+          "6"
+        ],
+        [
+          "POCITO CAULOTE",
+          "3",
+          "102",
+          "43",
+          "59",
+          "5"
+        ],
+        [
+          "POMILÓ",
+          "2",
+          "87",
+          "40",
+          "47",
+          "3"
+        ],
+        [
+          "REFORMA 2000",
+          "2",
+          "91",
+          "39",
+          "52",
+          "6"
+        ],
+        [
+          "SAN ANTONIO LA PITAHAYA",
+          "2",
+          "78",
+          "46",
+          "32",
+          "3"
+        ],
+        [
+          "SAN ANTONIO POMILÓ",
+          "2",
+          "29",
+          "19",
+          "10",
+          "2"
+        ],
+        [
+          "SAN GREGORIO",
+          "2",
+          "38",
+          "19",
+          "19",
+          "2"
+        ],
+        [
+          "SAN JOSÉ EL EDÉN",
+          "2",
+          "27",
+          "11",
+          "16",
+          "3"
+        ],
+        [
+          "SAN JOSÉ MORELOS",
+          "2",
+          "83",
+          "41",
+          "42",
+          "5"
+        ],
+        [
+          "SAN JOSÉ MUJULAR",
+          "1",
+          "32",
+          "14",
+          "18",
+          "1"
+        ],
+        [
+          "SAN PEDRO EL ACHIOTE (SAN PEDRO MÁRTIR)",
+          "2",
+          "219",
+          "105",
+          "114",
+          "9"
+        ],
+        [
+          "SAN VICENTE",
+          "3",
+          "203",
+          "95",
+          "108",
+          "11"
+        ],
+        [
+          "SANTA CRUZ BUENAVISTA",
+          "3",
+          "42",
+          "26",
+          "16",
+          "4"
+        ],
+        [
+          "SANTA CRUZ NIHO",
+          "1",
+          "18",
+          "11",
+          "7",
+          "1"
+        ],
+        [
+          "SANTO DOMINGO",
+          "2",
+          "169",
+          "86",
+          "83",
+          "6"
+        ],
+        [
+          "SHASHALPA",
+          "3",
+          "138",
+          "78",
+          "60",
+          "5"
+        ],
+        [
+          "SITETIC",
+          "2",
+          "83",
+          "39",
+          "44",
+          "3"
+        ],
+        [
+          "TIERRA COLORADA",
+          "2",
+          "345",
+          "168",
+          "177",
+          "13"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "2",
+          "253",
+          "139",
+          "114",
+          "9"
+        ],
+        [
+          "YERBABUENA ISBONTICK",
+          "3",
+          "576",
+          "266",
+          "310",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "176",
+          "13,428",
+          "6,778",
+          "6,650",
+          "660"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:04:53.034Z"
+}

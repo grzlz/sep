@@ -1,0 +1,384 @@
+{
+  "municipality": "CUAUHTÉMOC",
+  "municipalityCode": "005",
+  "state": "COLIMA",
+  "stateCode": "6",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tARMERÍA\n\tCOLIMA\n\tCOMALA\n\tCOQUIMATLÁN\n\tCUAUHTÉMOC\n\tIXTLAHUACÁN\n\tMANZANILLO\n\tMINATITLÁN\n\tTECOMÁN\n\tVILLA DE ÁLVAREZ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALCARACES\n\t\t4\n\t\t366\n\t\t174\n\t\t192\n\t\t30\n\t\n\t\n\t\tALZADA\n\t\t3\n\t\t68\n\t\t35\n\t\t33\n\t\t8\n\t\n\t\n\t\tBUENAVISTA\n\t\t4\n\t\t193\n\t\t91\n\t\t102\n\t\t24\n\t\n\t\n\t\tCERRO COLORADO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tCHIAPA\n\t\t4\n\t\t184\n\t\t76\n\t\t108\n\t\t14\n\t\n\t\n\t\tCUAUHTÉMOC\n\t\t16\n\t\t3,026\n\t\t1,521\n\t\t1,505\n\t\t246\n\t\n\t\n\t\tEL CÓBANO\n\t\t4\n\t\t56\n\t\t31\n\t\t25\n\t\t6\n\t\n\t\n\t\tEL TRAPICHE\n\t\t6\n\t\t506\n\t\t243\n\t\t263\n\t\t41\n\t\n\t\n\t\tISENCO\n\t\t1\n\t\t646\n\t\t511\n\t\t135\n\t\t114\n\t\n\t\n\t\tOCOTILLO\n\t\t2\n\t\t34\n\t\t18\n\t\t16\n\t\t3\n\t\n\t\n\t\tPALMILLAS\n\t\t2\n\t\t105\n\t\t51\n\t\t54\n\t\t7\n\t\n\t\n\t\tQUESERÍA\n\t\t20\n\t\t1,997\n\t\t977\n\t\t1,020\n\t\t142\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t2\n\t\t26\n\t\t12\n\t\t14\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t69\n\t\t7,212\n\t\t3,743\n\t\t3,469\n\t\t638\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALCARACES",
+          "4",
+          "366",
+          "174",
+          "192",
+          "30",
+          "ALZADA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "8",
+          "BUENAVISTA",
+          "4",
+          "193",
+          "91",
+          "102",
+          "24",
+          "CERRO COLORADO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "CHIAPA",
+          "4",
+          "184",
+          "76",
+          "108",
+          "14",
+          "CUAUHTÉMOC",
+          "16",
+          "3,026",
+          "1,521",
+          "1,505",
+          "246",
+          "EL CÓBANO",
+          "4",
+          "56",
+          "31",
+          "25",
+          "6",
+          "EL TRAPICHE",
+          "6",
+          "506",
+          "243",
+          "263",
+          "41",
+          "ISENCO",
+          "1",
+          "646",
+          "511",
+          "135",
+          "114",
+          "OCOTILLO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3",
+          "PALMILLAS",
+          "2",
+          "105",
+          "51",
+          "54",
+          "7",
+          "QUESERÍA",
+          "20",
+          "1,997",
+          "977",
+          "1,020",
+          "142",
+          "SAN JOAQUÍN",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2",
+          "TOTAL",
+          "69",
+          "7,212",
+          "3,743",
+          "3,469",
+          "638",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALCARACES",
+          "4",
+          "366",
+          "174",
+          "192",
+          "30"
+        ],
+        [
+          "ALZADA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "8"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "193",
+          "91",
+          "102",
+          "24"
+        ],
+        [
+          "CERRO COLORADO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CHIAPA",
+          "4",
+          "184",
+          "76",
+          "108",
+          "14"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "16",
+          "3,026",
+          "1,521",
+          "1,505",
+          "246"
+        ],
+        [
+          "EL CÓBANO",
+          "4",
+          "56",
+          "31",
+          "25",
+          "6"
+        ],
+        [
+          "EL TRAPICHE",
+          "6",
+          "506",
+          "243",
+          "263",
+          "41"
+        ],
+        [
+          "ISENCO",
+          "1",
+          "646",
+          "511",
+          "135",
+          "114"
+        ],
+        [
+          "OCOTILLO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "PALMILLAS",
+          "2",
+          "105",
+          "51",
+          "54",
+          "7"
+        ],
+        [
+          "QUESERÍA",
+          "20",
+          "1,997",
+          "977",
+          "1,020",
+          "142"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "7,212",
+          "3,743",
+          "3,469",
+          "638"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: COLIMA;    MUNICIPIO: CUAUHTÉMOC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALCARACES",
+          "4",
+          "366",
+          "174",
+          "192",
+          "30"
+        ],
+        [
+          "ALZADA",
+          "3",
+          "68",
+          "35",
+          "33",
+          "8"
+        ],
+        [
+          "BUENAVISTA",
+          "4",
+          "193",
+          "91",
+          "102",
+          "24"
+        ],
+        [
+          "CERRO COLORADO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "CHIAPA",
+          "4",
+          "184",
+          "76",
+          "108",
+          "14"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "16",
+          "3,026",
+          "1,521",
+          "1,505",
+          "246"
+        ],
+        [
+          "EL CÓBANO",
+          "4",
+          "56",
+          "31",
+          "25",
+          "6"
+        ],
+        [
+          "EL TRAPICHE",
+          "6",
+          "506",
+          "243",
+          "263",
+          "41"
+        ],
+        [
+          "ISENCO",
+          "1",
+          "646",
+          "511",
+          "135",
+          "114"
+        ],
+        [
+          "OCOTILLO",
+          "2",
+          "34",
+          "18",
+          "16",
+          "3"
+        ],
+        [
+          "PALMILLAS",
+          "2",
+          "105",
+          "51",
+          "54",
+          "7"
+        ],
+        [
+          "QUESERÍA",
+          "20",
+          "1,997",
+          "977",
+          "1,020",
+          "142"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "2",
+          "26",
+          "12",
+          "14",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "69",
+          "7,212",
+          "3,743",
+          "3,469",
+          "638"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:55.825Z"
+}

@@ -1,0 +1,780 @@
+{
+  "municipality": "TECUALA",
+  "municipalityCode": "016",
+  "state": "NAYARIT",
+  "stateCode": "18",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPONETA\n\tAHUACATLÁN\n\tAMATLÁN DE CAÑAS\n\tBAHÍA DE BANDERAS\n\tCOMPOSTELA\n\tDEL NAYAR\n\tHUAJICORI\n\tIXTLÁN DEL RÍO\n\tJALA\n\tLA YESCA\n\tROSAMORADA\n\tRUÍZ\n\tSAN BLAS\n\tSAN PEDRO LAGUNILLAS\n\tSANTA MARÍA DEL ORO\n\tSANTIAGO IXCUINTLA\n\tTECUALA\n\tTEPIC\n\tTUXPAN\n\tXALISCO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TECUALA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA VERDE\n\t\t2\n\t\t58\n\t\t32\n\t\t26\n\t\t4\n\t\n\t\n\t\tAGUA VERDE (EL SALTO)\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tANTONIO R. LAURELES\n\t\t3\n\t\t94\n\t\t54\n\t\t40\n\t\t6\n\t\n\t\n\t\tARENITAS\n\t\t2\n\t\t35\n\t\t22\n\t\t13\n\t\t3\n\t\n\t\n\t\tATOTONILCO\n\t\t3\n\t\t113\n\t\t47\n\t\t66\n\t\t8\n\t\n\t\n\t\tCAMALOTITA\n\t\t4\n\t\t260\n\t\t108\n\t\t152\n\t\t15\n\t\n\t\n\t\tEL ARRAYÁN\n\t\t4\n\t\t226\n\t\t106\n\t\t120\n\t\t13\n\t\n\t\n\t\tEL FILO\n\t\t3\n\t\t151\n\t\t65\n\t\t86\n\t\t16\n\t\n\t\n\t\tEL LIMÓN\n\t\t3\n\t\t143\n\t\t69\n\t\t74\n\t\t13\n\t\n\t\n\t\tEL MACHO (POZO DE HIGUERAS II)\n\t\t1\n\t\t69\n\t\t34\n\t\t35\n\t\t4\n\t\n\t\n\t\tEL MACHO VIEJO\n\t\t3\n\t\t174\n\t\t84\n\t\t90\n\t\t11\n\t\n\t\n\t\tEL ROBLITO\n\t\t3\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tGUAMUCHILITO\n\t\t2\n\t\t27\n\t\t10\n\t\t17\n\t\t2\n\t\n\t\n\t\tHUAJUQUILLA\n\t\t3\n\t\t73\n\t\t35\n\t\t38\n\t\t5\n\t\n\t\n\t\tLA PRESA\n\t\t3\n\t\t224\n\t\t104\n\t\t120\n\t\t17\n\t\n\t\n\t\tLA PUNTILLA\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tLAS ANONAS\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLAS LUMBRES\n\t\t3\n\t\t74\n\t\t41\n\t\t33\n\t\t5\n\t\n\t\n\t\tLOS MORILLOS\n\t\t3\n\t\t97\n\t\t52\n\t\t45\n\t\t6\n\t\n\t\n\t\tMILPAS VIEJAS\n\t\t3\n\t\t255\n\t\t126\n\t\t129\n\t\t18\n\t\n\t\n\t\tNOVILLERO\n\t\t4\n\t\t292\n\t\t140\n\t\t152\n\t\t18\n\t\n\t\n\t\tPAJARITOS\n\t\t4\n\t\t188\n\t\t91\n\t\t97\n\t\t12\n\t\n\t\n\t\tPALO BLANCO\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tPASO HONDO\n\t\t3\n\t\t86\n\t\t48\n\t\t38\n\t\t6\n\t\n\t\n\t\tPLAYA NOVILLERO\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tQUIMICHIS\n\t\t7\n\t\t896\n\t\t436\n\t\t460\n\t\t74\n\t\n\t\n\t\tRÍO VIEJO\n\t\t3\n\t\t173\n\t\t81\n\t\t92\n\t\t11\n\t\n\t\n\t\tSAN CAYETANO\n\t\t4\n\t\t187\n\t\t92\n\t\t95\n\t\t12\n\t\n\t\n\t\tSAN FELIPE AZTATÁN\n\t\t8\n\t\t1,150\n\t\t587\n\t\t563\n\t\t77\n\t\n\t\n\t\tTECUALA\n\t\t18\n\t\t3,210\n\t\t1,600\n\t\t1,610\n\t\t177\n\t\n\t\n\t\tTIERRA GENEROSA\n\t\t3\n\t\t56\n\t\t24\n\t\t32\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t108\n\t\t8,418\n\t\t4,142\n\t\t4,276\n\t\t545\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TECUALA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA VERDE",
+          "2",
+          "58",
+          "32",
+          "26",
+          "4",
+          "AGUA VERDE (EL SALTO)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "ANTONIO R. LAURELES",
+          "3",
+          "94",
+          "54",
+          "40",
+          "6",
+          "ARENITAS",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3",
+          "ATOTONILCO",
+          "3",
+          "113",
+          "47",
+          "66",
+          "8",
+          "CAMALOTITA",
+          "4",
+          "260",
+          "108",
+          "152",
+          "15",
+          "EL ARRAYÁN",
+          "4",
+          "226",
+          "106",
+          "120",
+          "13",
+          "EL FILO",
+          "3",
+          "151",
+          "65",
+          "86",
+          "16",
+          "EL LIMÓN",
+          "3",
+          "143",
+          "69",
+          "74",
+          "13",
+          "EL MACHO (POZO DE HIGUERAS II)",
+          "1",
+          "69",
+          "34",
+          "35",
+          "4",
+          "EL MACHO VIEJO",
+          "3",
+          "174",
+          "84",
+          "90",
+          "11",
+          "EL ROBLITO",
+          "3",
+          "47",
+          "23",
+          "24",
+          "3",
+          "GUAMUCHILITO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2",
+          "HUAJUQUILLA",
+          "3",
+          "73",
+          "35",
+          "38",
+          "5",
+          "LA PRESA",
+          "3",
+          "224",
+          "104",
+          "120",
+          "17",
+          "LA PUNTILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "LAS ANONAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LAS LUMBRES",
+          "3",
+          "74",
+          "41",
+          "33",
+          "5",
+          "LOS MORILLOS",
+          "3",
+          "97",
+          "52",
+          "45",
+          "6",
+          "MILPAS VIEJAS",
+          "3",
+          "255",
+          "126",
+          "129",
+          "18",
+          "NOVILLERO",
+          "4",
+          "292",
+          "140",
+          "152",
+          "18",
+          "PAJARITOS",
+          "4",
+          "188",
+          "91",
+          "97",
+          "12",
+          "PALO BLANCO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "PASO HONDO",
+          "3",
+          "86",
+          "48",
+          "38",
+          "6",
+          "PLAYA NOVILLERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "QUIMICHIS",
+          "7",
+          "896",
+          "436",
+          "460",
+          "74",
+          "RÍO VIEJO",
+          "3",
+          "173",
+          "81",
+          "92",
+          "11",
+          "SAN CAYETANO",
+          "4",
+          "187",
+          "92",
+          "95",
+          "12",
+          "SAN FELIPE AZTATÁN",
+          "8",
+          "1,150",
+          "587",
+          "563",
+          "77",
+          "TECUALA",
+          "18",
+          "3,210",
+          "1,600",
+          "1,610",
+          "177",
+          "TIERRA GENEROSA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "3",
+          "TOTAL",
+          "108",
+          "8,418",
+          "4,142",
+          "4,276",
+          "545",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TECUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA VERDE",
+          "2",
+          "58",
+          "32",
+          "26",
+          "4"
+        ],
+        [
+          "AGUA VERDE (EL SALTO)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "ANTONIO R. LAURELES",
+          "3",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "ARENITAS",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3"
+        ],
+        [
+          "ATOTONILCO",
+          "3",
+          "113",
+          "47",
+          "66",
+          "8"
+        ],
+        [
+          "CAMALOTITA",
+          "4",
+          "260",
+          "108",
+          "152",
+          "15"
+        ],
+        [
+          "EL ARRAYÁN",
+          "4",
+          "226",
+          "106",
+          "120",
+          "13"
+        ],
+        [
+          "EL FILO",
+          "3",
+          "151",
+          "65",
+          "86",
+          "16"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "143",
+          "69",
+          "74",
+          "13"
+        ],
+        [
+          "EL MACHO (POZO DE HIGUERAS II)",
+          "1",
+          "69",
+          "34",
+          "35",
+          "4"
+        ],
+        [
+          "EL MACHO VIEJO",
+          "3",
+          "174",
+          "84",
+          "90",
+          "11"
+        ],
+        [
+          "EL ROBLITO",
+          "3",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "GUAMUCHILITO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "HUAJUQUILLA",
+          "3",
+          "73",
+          "35",
+          "38",
+          "5"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "224",
+          "104",
+          "120",
+          "17"
+        ],
+        [
+          "LA PUNTILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "LAS ANONAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LAS LUMBRES",
+          "3",
+          "74",
+          "41",
+          "33",
+          "5"
+        ],
+        [
+          "LOS MORILLOS",
+          "3",
+          "97",
+          "52",
+          "45",
+          "6"
+        ],
+        [
+          "MILPAS VIEJAS",
+          "3",
+          "255",
+          "126",
+          "129",
+          "18"
+        ],
+        [
+          "NOVILLERO",
+          "4",
+          "292",
+          "140",
+          "152",
+          "18"
+        ],
+        [
+          "PAJARITOS",
+          "4",
+          "188",
+          "91",
+          "97",
+          "12"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PASO HONDO",
+          "3",
+          "86",
+          "48",
+          "38",
+          "6"
+        ],
+        [
+          "PLAYA NOVILLERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "QUIMICHIS",
+          "7",
+          "896",
+          "436",
+          "460",
+          "74"
+        ],
+        [
+          "RÍO VIEJO",
+          "3",
+          "173",
+          "81",
+          "92",
+          "11"
+        ],
+        [
+          "SAN CAYETANO",
+          "4",
+          "187",
+          "92",
+          "95",
+          "12"
+        ],
+        [
+          "SAN FELIPE AZTATÁN",
+          "8",
+          "1,150",
+          "587",
+          "563",
+          "77"
+        ],
+        [
+          "TECUALA",
+          "18",
+          "3,210",
+          "1,600",
+          "1,610",
+          "177"
+        ],
+        [
+          "TIERRA GENEROSA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "108",
+          "8,418",
+          "4,142",
+          "4,276",
+          "545"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NAYARIT;    MUNICIPIO: TECUALA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA VERDE",
+          "2",
+          "58",
+          "32",
+          "26",
+          "4"
+        ],
+        [
+          "AGUA VERDE (EL SALTO)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "ANTONIO R. LAURELES",
+          "3",
+          "94",
+          "54",
+          "40",
+          "6"
+        ],
+        [
+          "ARENITAS",
+          "2",
+          "35",
+          "22",
+          "13",
+          "3"
+        ],
+        [
+          "ATOTONILCO",
+          "3",
+          "113",
+          "47",
+          "66",
+          "8"
+        ],
+        [
+          "CAMALOTITA",
+          "4",
+          "260",
+          "108",
+          "152",
+          "15"
+        ],
+        [
+          "EL ARRAYÁN",
+          "4",
+          "226",
+          "106",
+          "120",
+          "13"
+        ],
+        [
+          "EL FILO",
+          "3",
+          "151",
+          "65",
+          "86",
+          "16"
+        ],
+        [
+          "EL LIMÓN",
+          "3",
+          "143",
+          "69",
+          "74",
+          "13"
+        ],
+        [
+          "EL MACHO (POZO DE HIGUERAS II)",
+          "1",
+          "69",
+          "34",
+          "35",
+          "4"
+        ],
+        [
+          "EL MACHO VIEJO",
+          "3",
+          "174",
+          "84",
+          "90",
+          "11"
+        ],
+        [
+          "EL ROBLITO",
+          "3",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "GUAMUCHILITO",
+          "2",
+          "27",
+          "10",
+          "17",
+          "2"
+        ],
+        [
+          "HUAJUQUILLA",
+          "3",
+          "73",
+          "35",
+          "38",
+          "5"
+        ],
+        [
+          "LA PRESA",
+          "3",
+          "224",
+          "104",
+          "120",
+          "17"
+        ],
+        [
+          "LA PUNTILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "LAS ANONAS",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LAS LUMBRES",
+          "3",
+          "74",
+          "41",
+          "33",
+          "5"
+        ],
+        [
+          "LOS MORILLOS",
+          "3",
+          "97",
+          "52",
+          "45",
+          "6"
+        ],
+        [
+          "MILPAS VIEJAS",
+          "3",
+          "255",
+          "126",
+          "129",
+          "18"
+        ],
+        [
+          "NOVILLERO",
+          "4",
+          "292",
+          "140",
+          "152",
+          "18"
+        ],
+        [
+          "PAJARITOS",
+          "4",
+          "188",
+          "91",
+          "97",
+          "12"
+        ],
+        [
+          "PALO BLANCO",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "PASO HONDO",
+          "3",
+          "86",
+          "48",
+          "38",
+          "6"
+        ],
+        [
+          "PLAYA NOVILLERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "QUIMICHIS",
+          "7",
+          "896",
+          "436",
+          "460",
+          "74"
+        ],
+        [
+          "RÍO VIEJO",
+          "3",
+          "173",
+          "81",
+          "92",
+          "11"
+        ],
+        [
+          "SAN CAYETANO",
+          "4",
+          "187",
+          "92",
+          "95",
+          "12"
+        ],
+        [
+          "SAN FELIPE AZTATÁN",
+          "8",
+          "1,150",
+          "587",
+          "563",
+          "77"
+        ],
+        [
+          "TECUALA",
+          "18",
+          "3,210",
+          "1,600",
+          "1,610",
+          "177"
+        ],
+        [
+          "TIERRA GENEROSA",
+          "3",
+          "56",
+          "24",
+          "32",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "108",
+          "8,418",
+          "4,142",
+          "4,276",
+          "545"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:30.404Z"
+}

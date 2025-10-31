@@ -1,0 +1,824 @@
+{
+  "municipality": "OCAMPO",
+  "municipalityCode": "022",
+  "state": "GUANAJUATO",
+  "stateCode": "11",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tACÁMBARO\n\tAPASEO EL ALTO\n\tAPASEO EL GRANDE\n\tATARJEA\n\tCELAYA\n\tCOMONFORT\n\tCORONEO\n\tCORTAZAR\n\tCUERÁMARO\n\tDOCTOR MORA\n\tDOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL\n\tGUANAJUATO\n\tHUANÍMARO\n\tIRAPUATO\n\tJARAL DEL PROGRESO\n\tJERÉCUARO\n\tLEÓN\n\tMANUEL DOBLADO\n\tMOROLEÓN\n\tOCAMPO\n\tPÉNJAMO\n\tPUEBLO NUEVO\n\tPURÍSIMA DEL RINCÓN\n\tROMITA\n\tSALAMANCA\n\tSALVATIERRA\n\tSAN DIEGO DE LA UNIÓN\n\tSAN FELIPE\n\tSAN FRANCISCO DEL RINCÓN\n\tSAN JOSÉ ITURBIDE\n\tSAN LUIS DE LA PAZ\n\tSAN MIGUEL DE ALLENDE\n\tSANTA CATARINA\n\tSANTA CRUZ DE JUVENTINO ROSAS\n\tSANTIAGO MARAVATÍO\n\tSILAO DE LA VICTORIA\n\tTARANDACUAO\n\tTARIMORO\n\tTIERRA BLANCA\n\tURIANGATO\n\tVALLE DE SANTIAGO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICHÚ\n\tYURIRIA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: OCAMPO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\t20 DE NOVIEMBRE (EL VEINTE)\n\t\t3\n\t\t129\n\t\t61\n\t\t68\n\t\t7\n\t\n\t\n\t\tARRONA\n\t\t2\n\t\t4\n\t\t3\n\t\t1\n\t\t2\n\t\n\t\n\t\tCABRAS DE GUADALUPE\n\t\t3\n\t\t52\n\t\t32\n\t\t20\n\t\t4\n\t\n\t\n\t\tCALLEJÓN DEL CONEJO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CERRITO DE LA CRUZ\n\t\t3\n\t\t46\n\t\t29\n\t\t17\n\t\t4\n\t\n\t\n\t\tEL COLORADO\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL MEZQUITE\n\t\t3\n\t\t66\n\t\t34\n\t\t32\n\t\t4\n\t\n\t\n\t\tEL PÁJARO\n\t\t2\n\t\t34\n\t\t20\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL POTRERO\n\t\t4\n\t\t165\n\t\t87\n\t\t78\n\t\t9\n\t\n\t\n\t\tEL PUERQUITO\n\t\t2\n\t\t34\n\t\t13\n\t\t21\n\t\t2\n\t\n\t\n\t\tEL TROPEZÓN\n\t\t2\n\t\t8\n\t\t0\n\t\t8\n\t\t1\n\t\n\t\n\t\tGACHUPINES\n\t\t4\n\t\t217\n\t\t103\n\t\t114\n\t\t13\n\t\n\t\n\t\tJESÚS MARÍA\n\t\t3\n\t\t90\n\t\t50\n\t\t40\n\t\t5\n\t\n\t\n\t\tLA CALAVERA\n\t\t1\n\t\t21\n\t\t9\n\t\t12\n\t\t1\n\t\n\t\n\t\tLA ESCONDIDA\n\t\t4\n\t\t520\n\t\t266\n\t\t254\n\t\t27\n\t\n\t\n\t\tLA HACIENDITA\n\t\t3\n\t\t118\n\t\t57\n\t\t61\n\t\t7\n\t\n\t\n\t\tLA LAGUNA CERCADA\n\t\t2\n\t\t65\n\t\t35\n\t\t30\n\t\t3\n\t\n\t\n\t\tLA TINAJA\n\t\t3\n\t\t203\n\t\t114\n\t\t89\n\t\t11\n\t\n\t\n\t\tLAS TROJES\n\t\t3\n\t\t182\n\t\t82\n\t\t100\n\t\t10\n\t\n\t\n\t\tLOMA ALTA\n\t\t2\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tOCAMPO\n\t\t18\n\t\t2,455\n\t\t1,252\n\t\t1,203\n\t\t116\n\t\n\t\n\t\tPUERTA DE LA AGUILILLA\n\t\t2\n\t\t51\n\t\t21\n\t\t30\n\t\t3\n\t\n\t\n\t\tPUERTA DE LOS GUZMÁN (LOS GUZMANES)\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tPUERTA DEL TIGRE\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t2\n\t\n\t\n\t\tPUERTO DE PLATA\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tRANCHO NUEVO\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t3\n\t\t43\n\t\t20\n\t\t23\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t118\n\t\t56\n\t\t62\n\t\t5\n\t\n\t\n\t\tSAN JOSÉ DEL TORREÓN\n\t\t4\n\t\t423\n\t\t213\n\t\t210\n\t\t19\n\t\n\t\n\t\tSAN PEDRO DE IBARRA\n\t\t4\n\t\t385\n\t\t190\n\t\t195\n\t\t17\n\t\n\t\n\t\tSANTA BÁRBARA\n\t\t6\n\t\t614\n\t\t281\n\t\t333\n\t\t26\n\t\n\t\n\t\tSANTA REGINA\n\t\t3\n\t\t120\n\t\t61\n\t\t59\n\t\t5\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t2\n\t\t48\n\t\t17\n\t\t31\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t102\n\t\t6,271\n\t\t3,139\n\t\t3,132\n\t\t320\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: OCAMPO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "20 DE NOVIEMBRE (EL VEINTE)",
+          "3",
+          "129",
+          "61",
+          "68",
+          "7",
+          "ARRONA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2",
+          "CABRAS DE GUADALUPE",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4",
+          "CALLEJÓN DEL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL CERRITO DE LA CRUZ",
+          "3",
+          "46",
+          "29",
+          "17",
+          "4",
+          "EL COLORADO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL MEZQUITE",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4",
+          "EL PÁJARO",
+          "2",
+          "34",
+          "20",
+          "14",
+          "2",
+          "EL POTRERO",
+          "4",
+          "165",
+          "87",
+          "78",
+          "9",
+          "EL PUERQUITO",
+          "2",
+          "34",
+          "13",
+          "21",
+          "2",
+          "EL TROPEZÓN",
+          "2",
+          "8",
+          "0",
+          "8",
+          "1",
+          "GACHUPINES",
+          "4",
+          "217",
+          "103",
+          "114",
+          "13",
+          "JESÚS MARÍA",
+          "3",
+          "90",
+          "50",
+          "40",
+          "5",
+          "LA CALAVERA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "1",
+          "LA ESCONDIDA",
+          "4",
+          "520",
+          "266",
+          "254",
+          "27",
+          "LA HACIENDITA",
+          "3",
+          "118",
+          "57",
+          "61",
+          "7",
+          "LA LAGUNA CERCADA",
+          "2",
+          "65",
+          "35",
+          "30",
+          "3",
+          "LA TINAJA",
+          "3",
+          "203",
+          "114",
+          "89",
+          "11",
+          "LAS TROJES",
+          "3",
+          "182",
+          "82",
+          "100",
+          "10",
+          "LOMA ALTA",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2",
+          "OCAMPO",
+          "18",
+          "2,455",
+          "1,252",
+          "1,203",
+          "116",
+          "PUERTA DE LA AGUILILLA",
+          "2",
+          "51",
+          "21",
+          "30",
+          "3",
+          "PUERTA DE LOS GUZMÁN (LOS GUZMANES)",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "PUERTA DEL TIGRE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2",
+          "PUERTO DE PLATA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "RANCHO NUEVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "SAN FRANCISCO",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4",
+          "SAN ISIDRO",
+          "3",
+          "118",
+          "56",
+          "62",
+          "5",
+          "SAN JOSÉ DEL TORREÓN",
+          "4",
+          "423",
+          "213",
+          "210",
+          "19",
+          "SAN PEDRO DE IBARRA",
+          "4",
+          "385",
+          "190",
+          "195",
+          "17",
+          "SANTA BÁRBARA",
+          "6",
+          "614",
+          "281",
+          "333",
+          "26",
+          "SANTA REGINA",
+          "3",
+          "120",
+          "61",
+          "59",
+          "5",
+          "VISTA HERMOSA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3",
+          "TOTAL",
+          "102",
+          "6,271",
+          "3,139",
+          "3,132",
+          "320",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "20 DE NOVIEMBRE (EL VEINTE)",
+          "3",
+          "129",
+          "61",
+          "68",
+          "7"
+        ],
+        [
+          "ARRONA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "CABRAS DE GUADALUPE",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4"
+        ],
+        [
+          "CALLEJÓN DEL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CERRITO DE LA CRUZ",
+          "3",
+          "46",
+          "29",
+          "17",
+          "4"
+        ],
+        [
+          "EL COLORADO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "EL PÁJARO",
+          "2",
+          "34",
+          "20",
+          "14",
+          "2"
+        ],
+        [
+          "EL POTRERO",
+          "4",
+          "165",
+          "87",
+          "78",
+          "9"
+        ],
+        [
+          "EL PUERQUITO",
+          "2",
+          "34",
+          "13",
+          "21",
+          "2"
+        ],
+        [
+          "EL TROPEZÓN",
+          "2",
+          "8",
+          "0",
+          "8",
+          "1"
+        ],
+        [
+          "GACHUPINES",
+          "4",
+          "217",
+          "103",
+          "114",
+          "13"
+        ],
+        [
+          "JESÚS MARÍA",
+          "3",
+          "90",
+          "50",
+          "40",
+          "5"
+        ],
+        [
+          "LA CALAVERA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "1"
+        ],
+        [
+          "LA ESCONDIDA",
+          "4",
+          "520",
+          "266",
+          "254",
+          "27"
+        ],
+        [
+          "LA HACIENDITA",
+          "3",
+          "118",
+          "57",
+          "61",
+          "7"
+        ],
+        [
+          "LA LAGUNA CERCADA",
+          "2",
+          "65",
+          "35",
+          "30",
+          "3"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "203",
+          "114",
+          "89",
+          "11"
+        ],
+        [
+          "LAS TROJES",
+          "3",
+          "182",
+          "82",
+          "100",
+          "10"
+        ],
+        [
+          "LOMA ALTA",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "OCAMPO",
+          "18",
+          "2,455",
+          "1,252",
+          "1,203",
+          "116"
+        ],
+        [
+          "PUERTA DE LA AGUILILLA",
+          "2",
+          "51",
+          "21",
+          "30",
+          "3"
+        ],
+        [
+          "PUERTA DE LOS GUZMÁN (LOS GUZMANES)",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "PUERTA DEL TIGRE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTO DE PLATA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "118",
+          "56",
+          "62",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL TORREÓN",
+          "4",
+          "423",
+          "213",
+          "210",
+          "19"
+        ],
+        [
+          "SAN PEDRO DE IBARRA",
+          "4",
+          "385",
+          "190",
+          "195",
+          "17"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "6",
+          "614",
+          "281",
+          "333",
+          "26"
+        ],
+        [
+          "SANTA REGINA",
+          "3",
+          "120",
+          "61",
+          "59",
+          "5"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "6,271",
+          "3,139",
+          "3,132",
+          "320"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUANAJUATO;    MUNICIPIO: OCAMPO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "20 DE NOVIEMBRE (EL VEINTE)",
+          "3",
+          "129",
+          "61",
+          "68",
+          "7"
+        ],
+        [
+          "ARRONA",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ],
+        [
+          "CABRAS DE GUADALUPE",
+          "3",
+          "52",
+          "32",
+          "20",
+          "4"
+        ],
+        [
+          "CALLEJÓN DEL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CERRITO DE LA CRUZ",
+          "3",
+          "46",
+          "29",
+          "17",
+          "4"
+        ],
+        [
+          "EL COLORADO",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL MEZQUITE",
+          "3",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "EL PÁJARO",
+          "2",
+          "34",
+          "20",
+          "14",
+          "2"
+        ],
+        [
+          "EL POTRERO",
+          "4",
+          "165",
+          "87",
+          "78",
+          "9"
+        ],
+        [
+          "EL PUERQUITO",
+          "2",
+          "34",
+          "13",
+          "21",
+          "2"
+        ],
+        [
+          "EL TROPEZÓN",
+          "2",
+          "8",
+          "0",
+          "8",
+          "1"
+        ],
+        [
+          "GACHUPINES",
+          "4",
+          "217",
+          "103",
+          "114",
+          "13"
+        ],
+        [
+          "JESÚS MARÍA",
+          "3",
+          "90",
+          "50",
+          "40",
+          "5"
+        ],
+        [
+          "LA CALAVERA",
+          "1",
+          "21",
+          "9",
+          "12",
+          "1"
+        ],
+        [
+          "LA ESCONDIDA",
+          "4",
+          "520",
+          "266",
+          "254",
+          "27"
+        ],
+        [
+          "LA HACIENDITA",
+          "3",
+          "118",
+          "57",
+          "61",
+          "7"
+        ],
+        [
+          "LA LAGUNA CERCADA",
+          "2",
+          "65",
+          "35",
+          "30",
+          "3"
+        ],
+        [
+          "LA TINAJA",
+          "3",
+          "203",
+          "114",
+          "89",
+          "11"
+        ],
+        [
+          "LAS TROJES",
+          "3",
+          "182",
+          "82",
+          "100",
+          "10"
+        ],
+        [
+          "LOMA ALTA",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "OCAMPO",
+          "18",
+          "2,455",
+          "1,252",
+          "1,203",
+          "116"
+        ],
+        [
+          "PUERTA DE LA AGUILILLA",
+          "2",
+          "51",
+          "21",
+          "30",
+          "3"
+        ],
+        [
+          "PUERTA DE LOS GUZMÁN (LOS GUZMANES)",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "PUERTA DEL TIGRE",
+          "2",
+          "8",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "PUERTO DE PLATA",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "RANCHO NUEVO",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO",
+          "3",
+          "43",
+          "20",
+          "23",
+          "4"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "118",
+          "56",
+          "62",
+          "5"
+        ],
+        [
+          "SAN JOSÉ DEL TORREÓN",
+          "4",
+          "423",
+          "213",
+          "210",
+          "19"
+        ],
+        [
+          "SAN PEDRO DE IBARRA",
+          "4",
+          "385",
+          "190",
+          "195",
+          "17"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "6",
+          "614",
+          "281",
+          "333",
+          "26"
+        ],
+        [
+          "SANTA REGINA",
+          "3",
+          "120",
+          "61",
+          "59",
+          "5"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "102",
+          "6,271",
+          "3,139",
+          "3,132",
+          "320"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:10:02.189Z"
+}

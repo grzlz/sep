@@ -1,0 +1,736 @@
+{
+  "municipality": "TLAQUILTENANGO",
+  "municipalityCode": "025",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TLAQUILTENANGO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAJUCHITLÁN\n\t\t3\n\t\t37\n\t\t20\n\t\t17\n\t\t3\n\t\n\t\n\t\tALFREDO V. BONFIL (CHACAMPALCO)\n\t\t5\n\t\t537\n\t\t252\n\t\t285\n\t\t27\n\t\n\t\n\t\tCHIMALACATLÁN\n\t\t3\n\t\t61\n\t\t35\n\t\t26\n\t\t5\n\t\n\t\n\t\tCOAXITLÁN\n\t\t3\n\t\t84\n\t\t41\n\t\t43\n\t\t6\n\t\n\t\n\t\tCOLONIA 3 DE MAYO (EL TEPIOLOL)\n\t\t3\n\t\t165\n\t\t75\n\t\t90\n\t\t8\n\t\n\t\n\t\tCOLONIA MANZANAREZ\n\t\t2\n\t\t121\n\t\t73\n\t\t48\n\t\t9\n\t\n\t\n\t\tHUAUTLA\n\t\t4\n\t\t423\n\t\t253\n\t\t170\n\t\t14\n\t\n\t\n\t\tHUAXTLA\n\t\t1\n\t\t4\n\t\t2\n\t\t2\n\t\t1\n\t\n\t\n\t\tHUIXASTLA\n\t\t3\n\t\t40\n\t\t22\n\t\t18\n\t\t4\n\t\n\t\n\t\tLA ERA (CALALPA)\n\t\t3\n\t\t113\n\t\t57\n\t\t56\n\t\t7\n\t\n\t\n\t\tLA MEZQUITERA (EL ASTILLERO)\n\t\t3\n\t\t105\n\t\t57\n\t\t48\n\t\t7\n\t\n\t\n\t\tLAS BÓVEDAS\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t2\n\t\n\t\n\t\tLAS CARPAS\n\t\t1\n\t\t40\n\t\t16\n\t\t24\n\t\t2\n\t\n\t\n\t\tLORENZO VÁZQUEZ (SANTA CRUZ)\n\t\t3\n\t\t150\n\t\t76\n\t\t74\n\t\t11\n\t\n\t\n\t\tLOS DORMIDOS\n\t\t2\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOS ELOTES (SAN MIGUEL DE LOS ELOTES)\n\t\t1\n\t\t9\n\t\t6\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS PRESIDENTES\n\t\t2\n\t\t249\n\t\t123\n\t\t126\n\t\t10\n\t\n\t\n\t\tNEXPA\n\t\t3\n\t\t94\n\t\t39\n\t\t55\n\t\t7\n\t\n\t\n\t\tPALO GRANDE\n\t\t2\n\t\t39\n\t\t17\n\t\t22\n\t\t3\n\t\n\t\n\t\tPUEBLO VIEJO\n\t\t4\n\t\t169\n\t\t74\n\t\t95\n\t\t10\n\t\n\t\n\t\tQUILAMULA\n\t\t3\n\t\t123\n\t\t53\n\t\t70\n\t\t8\n\t\n\t\n\t\tRANCHO VIEJO\n\t\t2\n\t\t9\n\t\t5\n\t\t4\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DE PALA\n\t\t3\n\t\t101\n\t\t60\n\t\t41\n\t\t7\n\t\n\t\n\t\tSANTIOPA\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tTLAQUILTENANGO\n\t\t19\n\t\t2,418\n\t\t1,168\n\t\t1,250\n\t\t171\n\t\n\t\n\t\tUNIDAD HABITACIONAL EMILIANO ZAPATA\n\t\t2\n\t\t48\n\t\t17\n\t\t31\n\t\t3\n\t\n\t\n\t\tVALLE DE VÁZQUEZ (LOS HORNOS)\n\t\t4\n\t\t304\n\t\t156\n\t\t148\n\t\t22\n\t\n\t\n\t\tXICATLACOTLA\n\t\t2\n\t\t50\n\t\t23\n\t\t27\n\t\t3\n\t\n\t\n\t\tXOCHIPALA\n\t\t2\n\t\t15\n\t\t10\n\t\t5\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t92\n\t\t5,553\n\t\t2,753\n\t\t2,800\n\t\t358\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TLAQUILTENANGO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AJUCHITLÁN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "3",
+          "ALFREDO V. BONFIL (CHACAMPALCO)",
+          "5",
+          "537",
+          "252",
+          "285",
+          "27",
+          "CHIMALACATLÁN",
+          "3",
+          "61",
+          "35",
+          "26",
+          "5",
+          "COAXITLÁN",
+          "3",
+          "84",
+          "41",
+          "43",
+          "6",
+          "COLONIA 3 DE MAYO (EL TEPIOLOL)",
+          "3",
+          "165",
+          "75",
+          "90",
+          "8",
+          "COLONIA MANZANAREZ",
+          "2",
+          "121",
+          "73",
+          "48",
+          "9",
+          "HUAUTLA",
+          "4",
+          "423",
+          "253",
+          "170",
+          "14",
+          "HUAXTLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1",
+          "HUIXASTLA",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4",
+          "LA ERA (CALALPA)",
+          "3",
+          "113",
+          "57",
+          "56",
+          "7",
+          "LA MEZQUITERA (EL ASTILLERO)",
+          "3",
+          "105",
+          "57",
+          "48",
+          "7",
+          "LAS BÓVEDAS",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2",
+          "LAS CARPAS",
+          "1",
+          "40",
+          "16",
+          "24",
+          "2",
+          "LORENZO VÁZQUEZ (SANTA CRUZ)",
+          "3",
+          "150",
+          "76",
+          "74",
+          "11",
+          "LOS DORMIDOS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1",
+          "LOS ELOTES (SAN MIGUEL DE LOS ELOTES)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1",
+          "LOS PRESIDENTES",
+          "2",
+          "249",
+          "123",
+          "126",
+          "10",
+          "NEXPA",
+          "3",
+          "94",
+          "39",
+          "55",
+          "7",
+          "PALO GRANDE",
+          "2",
+          "39",
+          "17",
+          "22",
+          "3",
+          "PUEBLO VIEJO",
+          "4",
+          "169",
+          "74",
+          "95",
+          "10",
+          "QUILAMULA",
+          "3",
+          "123",
+          "53",
+          "70",
+          "8",
+          "RANCHO VIEJO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2",
+          "SAN JOSÉ DE PALA",
+          "3",
+          "101",
+          "60",
+          "41",
+          "7",
+          "SANTIOPA",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "TLAQUILTENANGO",
+          "19",
+          "2,418",
+          "1,168",
+          "1,250",
+          "171",
+          "UNIDAD HABITACIONAL EMILIANO ZAPATA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3",
+          "VALLE DE VÁZQUEZ (LOS HORNOS)",
+          "4",
+          "304",
+          "156",
+          "148",
+          "22",
+          "XICATLACOTLA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3",
+          "XOCHIPALA",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2",
+          "TOTAL",
+          "92",
+          "5,553",
+          "2,753",
+          "2,800",
+          "358",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TLAQUILTENANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AJUCHITLÁN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "ALFREDO V. BONFIL (CHACAMPALCO)",
+          "5",
+          "537",
+          "252",
+          "285",
+          "27"
+        ],
+        [
+          "CHIMALACATLÁN",
+          "3",
+          "61",
+          "35",
+          "26",
+          "5"
+        ],
+        [
+          "COAXITLÁN",
+          "3",
+          "84",
+          "41",
+          "43",
+          "6"
+        ],
+        [
+          "COLONIA 3 DE MAYO (EL TEPIOLOL)",
+          "3",
+          "165",
+          "75",
+          "90",
+          "8"
+        ],
+        [
+          "COLONIA MANZANAREZ",
+          "2",
+          "121",
+          "73",
+          "48",
+          "9"
+        ],
+        [
+          "HUAUTLA",
+          "4",
+          "423",
+          "253",
+          "170",
+          "14"
+        ],
+        [
+          "HUAXTLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "HUIXASTLA",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4"
+        ],
+        [
+          "LA ERA (CALALPA)",
+          "3",
+          "113",
+          "57",
+          "56",
+          "7"
+        ],
+        [
+          "LA MEZQUITERA (EL ASTILLERO)",
+          "3",
+          "105",
+          "57",
+          "48",
+          "7"
+        ],
+        [
+          "LAS BÓVEDAS",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LAS CARPAS",
+          "1",
+          "40",
+          "16",
+          "24",
+          "2"
+        ],
+        [
+          "LORENZO VÁZQUEZ (SANTA CRUZ)",
+          "3",
+          "150",
+          "76",
+          "74",
+          "11"
+        ],
+        [
+          "LOS DORMIDOS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS ELOTES (SAN MIGUEL DE LOS ELOTES)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LOS PRESIDENTES",
+          "2",
+          "249",
+          "123",
+          "126",
+          "10"
+        ],
+        [
+          "NEXPA",
+          "3",
+          "94",
+          "39",
+          "55",
+          "7"
+        ],
+        [
+          "PALO GRANDE",
+          "2",
+          "39",
+          "17",
+          "22",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "4",
+          "169",
+          "74",
+          "95",
+          "10"
+        ],
+        [
+          "QUILAMULA",
+          "3",
+          "123",
+          "53",
+          "70",
+          "8"
+        ],
+        [
+          "RANCHO VIEJO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE PALA",
+          "3",
+          "101",
+          "60",
+          "41",
+          "7"
+        ],
+        [
+          "SANTIOPA",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "TLAQUILTENANGO",
+          "19",
+          "2,418",
+          "1,168",
+          "1,250",
+          "171"
+        ],
+        [
+          "UNIDAD HABITACIONAL EMILIANO ZAPATA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3"
+        ],
+        [
+          "VALLE DE VÁZQUEZ (LOS HORNOS)",
+          "4",
+          "304",
+          "156",
+          "148",
+          "22"
+        ],
+        [
+          "XICATLACOTLA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "XOCHIPALA",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "92",
+          "5,553",
+          "2,753",
+          "2,800",
+          "358"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TLAQUILTENANGO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AJUCHITLÁN",
+          "3",
+          "37",
+          "20",
+          "17",
+          "3"
+        ],
+        [
+          "ALFREDO V. BONFIL (CHACAMPALCO)",
+          "5",
+          "537",
+          "252",
+          "285",
+          "27"
+        ],
+        [
+          "CHIMALACATLÁN",
+          "3",
+          "61",
+          "35",
+          "26",
+          "5"
+        ],
+        [
+          "COAXITLÁN",
+          "3",
+          "84",
+          "41",
+          "43",
+          "6"
+        ],
+        [
+          "COLONIA 3 DE MAYO (EL TEPIOLOL)",
+          "3",
+          "165",
+          "75",
+          "90",
+          "8"
+        ],
+        [
+          "COLONIA MANZANAREZ",
+          "2",
+          "121",
+          "73",
+          "48",
+          "9"
+        ],
+        [
+          "HUAUTLA",
+          "4",
+          "423",
+          "253",
+          "170",
+          "14"
+        ],
+        [
+          "HUAXTLA",
+          "1",
+          "4",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "HUIXASTLA",
+          "3",
+          "40",
+          "22",
+          "18",
+          "4"
+        ],
+        [
+          "LA ERA (CALALPA)",
+          "3",
+          "113",
+          "57",
+          "56",
+          "7"
+        ],
+        [
+          "LA MEZQUITERA (EL ASTILLERO)",
+          "3",
+          "105",
+          "57",
+          "48",
+          "7"
+        ],
+        [
+          "LAS BÓVEDAS",
+          "2",
+          "18",
+          "11",
+          "7",
+          "2"
+        ],
+        [
+          "LAS CARPAS",
+          "1",
+          "40",
+          "16",
+          "24",
+          "2"
+        ],
+        [
+          "LORENZO VÁZQUEZ (SANTA CRUZ)",
+          "3",
+          "150",
+          "76",
+          "74",
+          "11"
+        ],
+        [
+          "LOS DORMIDOS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOS ELOTES (SAN MIGUEL DE LOS ELOTES)",
+          "1",
+          "9",
+          "6",
+          "3",
+          "1"
+        ],
+        [
+          "LOS PRESIDENTES",
+          "2",
+          "249",
+          "123",
+          "126",
+          "10"
+        ],
+        [
+          "NEXPA",
+          "3",
+          "94",
+          "39",
+          "55",
+          "7"
+        ],
+        [
+          "PALO GRANDE",
+          "2",
+          "39",
+          "17",
+          "22",
+          "3"
+        ],
+        [
+          "PUEBLO VIEJO",
+          "4",
+          "169",
+          "74",
+          "95",
+          "10"
+        ],
+        [
+          "QUILAMULA",
+          "3",
+          "123",
+          "53",
+          "70",
+          "8"
+        ],
+        [
+          "RANCHO VIEJO",
+          "2",
+          "9",
+          "5",
+          "4",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DE PALA",
+          "3",
+          "101",
+          "60",
+          "41",
+          "7"
+        ],
+        [
+          "SANTIOPA",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "TLAQUILTENANGO",
+          "19",
+          "2,418",
+          "1,168",
+          "1,250",
+          "171"
+        ],
+        [
+          "UNIDAD HABITACIONAL EMILIANO ZAPATA",
+          "2",
+          "48",
+          "17",
+          "31",
+          "3"
+        ],
+        [
+          "VALLE DE VÁZQUEZ (LOS HORNOS)",
+          "4",
+          "304",
+          "156",
+          "148",
+          "22"
+        ],
+        [
+          "XICATLACOTLA",
+          "2",
+          "50",
+          "23",
+          "27",
+          "3"
+        ],
+        [
+          "XOCHIPALA",
+          "2",
+          "15",
+          "10",
+          "5",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "92",
+          "5,553",
+          "2,753",
+          "2,800",
+          "358"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:50.094Z"
+}

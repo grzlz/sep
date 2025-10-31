@@ -1,0 +1,538 @@
+{
+  "municipality": "ESCUINAPA",
+  "municipalityCode": "009",
+  "state": "SINALOA",
+  "stateCode": "25",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHOME\n\tANGOSTURA\n\tBADIRAGUATO\n\tCHOIX\n\tCONCORDIA\n\tCOSALÁ\n\tCULIACÁN\n\tEL FUERTE\n\tELDORADO\n\tELOTA\n\tESCUINAPA\n\tGUASAVE\n\tJUAN JOSÉ RÍOS\n\tMAZATLÁN\n\tMOCORITO\n\tNAVOLATO\n\tROSARIO\n\tSALVADOR ALVARADO\n\tSAN IGNACIO\n\tSINALOA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ESCUINAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA CALIENTE\n\t\t2\n\t\t19\n\t\t5\n\t\t14\n\t\t2\n\t\n\t\n\t\tCELAYA\n\t\t2\n\t\t82\n\t\t47\n\t\t35\n\t\t4\n\t\n\t\n\t\tCOPALES\n\t\t3\n\t\t101\n\t\t44\n\t\t57\n\t\t7\n\t\n\t\n\t\tCRISTO REY\n\t\t5\n\t\t384\n\t\t188\n\t\t196\n\t\t27\n\t\n\t\n\t\tEJIDO DE LA CAMPANA NÚMERO UNO\n\t\t3\n\t\t305\n\t\t149\n\t\t156\n\t\t31\n\t\n\t\n\t\tEL TECOMATILLO\n\t\t3\n\t\t44\n\t\t19\n\t\t25\n\t\t4\n\t\n\t\n\t\tEL TRÉBOL\n\t\t2\n\t\t113\n\t\t59\n\t\t54\n\t\t5\n\t\n\t\n\t\tEL TRÉBOL DOS\n\t\t3\n\t\t76\n\t\t37\n\t\t39\n\t\t4\n\t\n\t\n\t\tESCUINAPA DE HIDALGO\n\t\t47\n\t\t9,194\n\t\t4,594\n\t\t4,600\n\t\t684\n\t\n\t\n\t\tISLA DEL BOSQUE\n\t\t9\n\t\t1,760\n\t\t835\n\t\t925\n\t\t84\n\t\n\t\n\t\tLA CAMPANA NÚMERO DOS (EL POCHOTE)\n\t\t2\n\t\t32\n\t\t13\n\t\t19\n\t\t3\n\t\n\t\n\t\tLA CONCHA (LA CONCEPCIÓN)\n\t\t5\n\t\t444\n\t\t216\n\t\t228\n\t\t29\n\t\n\t\n\t\tLA LOMA (GABRIEL LEYVA SOLANO)\n\t\t2\n\t\t47\n\t\t26\n\t\t21\n\t\t3\n\t\n\t\n\t\tLAS PILAS\n\t\t3\n\t\t40\n\t\t23\n\t\t17\n\t\t3\n\t\n\t\n\t\tOJO DE AGUA DE PALMILLAS\n\t\t6\n\t\t681\n\t\t337\n\t\t344\n\t\t46\n\t\n\t\n\t\tPALMITO DEL VERDE\n\t\t5\n\t\t530\n\t\t258\n\t\t272\n\t\t33\n\t\n\t\n\t\tRINCÓN DEL VERDE\n\t\t3\n\t\t61\n\t\t24\n\t\t37\n\t\t4\n\t\n\t\n\t\tSAN MIGUEL DE LA ATARJEA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tTEACAPÁN\n\t\t8\n\t\t1,011\n\t\t499\n\t\t512\n\t\t119\n\t\n\t\n\t\tTECUALILLA\n\t\t4\n\t\t450\n\t\t212\n\t\t238\n\t\t20\n\t\n\t\n\t\tTOTAL\n\t\t118\n\t\t15,379\n\t\t7,588\n\t\t7,791\n\t\t1,113\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ESCUINAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA CALIENTE",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2",
+          "CELAYA",
+          "2",
+          "82",
+          "47",
+          "35",
+          "4",
+          "COPALES",
+          "3",
+          "101",
+          "44",
+          "57",
+          "7",
+          "CRISTO REY",
+          "5",
+          "384",
+          "188",
+          "196",
+          "27",
+          "EJIDO DE LA CAMPANA NÚMERO UNO",
+          "3",
+          "305",
+          "149",
+          "156",
+          "31",
+          "EL TECOMATILLO",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4",
+          "EL TRÉBOL",
+          "2",
+          "113",
+          "59",
+          "54",
+          "5",
+          "EL TRÉBOL DOS",
+          "3",
+          "76",
+          "37",
+          "39",
+          "4",
+          "ESCUINAPA DE HIDALGO",
+          "47",
+          "9,194",
+          "4,594",
+          "4,600",
+          "684",
+          "ISLA DEL BOSQUE",
+          "9",
+          "1,760",
+          "835",
+          "925",
+          "84",
+          "LA CAMPANA NÚMERO DOS (EL POCHOTE)",
+          "2",
+          "32",
+          "13",
+          "19",
+          "3",
+          "LA CONCHA (LA CONCEPCIÓN)",
+          "5",
+          "444",
+          "216",
+          "228",
+          "29",
+          "LA LOMA (GABRIEL LEYVA SOLANO)",
+          "2",
+          "47",
+          "26",
+          "21",
+          "3",
+          "LAS PILAS",
+          "3",
+          "40",
+          "23",
+          "17",
+          "3",
+          "OJO DE AGUA DE PALMILLAS",
+          "6",
+          "681",
+          "337",
+          "344",
+          "46",
+          "PALMITO DEL VERDE",
+          "5",
+          "530",
+          "258",
+          "272",
+          "33",
+          "RINCÓN DEL VERDE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4",
+          "SAN MIGUEL DE LA ATARJEA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "TEACAPÁN",
+          "8",
+          "1,011",
+          "499",
+          "512",
+          "119",
+          "TECUALILLA",
+          "4",
+          "450",
+          "212",
+          "238",
+          "20",
+          "TOTAL",
+          "118",
+          "15,379",
+          "7,588",
+          "7,791",
+          "1,113",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ESCUINAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2"
+        ],
+        [
+          "CELAYA",
+          "2",
+          "82",
+          "47",
+          "35",
+          "4"
+        ],
+        [
+          "COPALES",
+          "3",
+          "101",
+          "44",
+          "57",
+          "7"
+        ],
+        [
+          "CRISTO REY",
+          "5",
+          "384",
+          "188",
+          "196",
+          "27"
+        ],
+        [
+          "EJIDO DE LA CAMPANA NÚMERO UNO",
+          "3",
+          "305",
+          "149",
+          "156",
+          "31"
+        ],
+        [
+          "EL TECOMATILLO",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4"
+        ],
+        [
+          "EL TRÉBOL",
+          "2",
+          "113",
+          "59",
+          "54",
+          "5"
+        ],
+        [
+          "EL TRÉBOL DOS",
+          "3",
+          "76",
+          "37",
+          "39",
+          "4"
+        ],
+        [
+          "ESCUINAPA DE HIDALGO",
+          "47",
+          "9,194",
+          "4,594",
+          "4,600",
+          "684"
+        ],
+        [
+          "ISLA DEL BOSQUE",
+          "9",
+          "1,760",
+          "835",
+          "925",
+          "84"
+        ],
+        [
+          "LA CAMPANA NÚMERO DOS (EL POCHOTE)",
+          "2",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "LA CONCHA (LA CONCEPCIÓN)",
+          "5",
+          "444",
+          "216",
+          "228",
+          "29"
+        ],
+        [
+          "LA LOMA (GABRIEL LEYVA SOLANO)",
+          "2",
+          "47",
+          "26",
+          "21",
+          "3"
+        ],
+        [
+          "LAS PILAS",
+          "3",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE PALMILLAS",
+          "6",
+          "681",
+          "337",
+          "344",
+          "46"
+        ],
+        [
+          "PALMITO DEL VERDE",
+          "5",
+          "530",
+          "258",
+          "272",
+          "33"
+        ],
+        [
+          "RINCÓN DEL VERDE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4"
+        ],
+        [
+          "SAN MIGUEL DE LA ATARJEA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TEACAPÁN",
+          "8",
+          "1,011",
+          "499",
+          "512",
+          "119"
+        ],
+        [
+          "TECUALILLA",
+          "4",
+          "450",
+          "212",
+          "238",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "118",
+          "15,379",
+          "7,588",
+          "7,791",
+          "1,113"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SINALOA;    MUNICIPIO: ESCUINAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA CALIENTE",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2"
+        ],
+        [
+          "CELAYA",
+          "2",
+          "82",
+          "47",
+          "35",
+          "4"
+        ],
+        [
+          "COPALES",
+          "3",
+          "101",
+          "44",
+          "57",
+          "7"
+        ],
+        [
+          "CRISTO REY",
+          "5",
+          "384",
+          "188",
+          "196",
+          "27"
+        ],
+        [
+          "EJIDO DE LA CAMPANA NÚMERO UNO",
+          "3",
+          "305",
+          "149",
+          "156",
+          "31"
+        ],
+        [
+          "EL TECOMATILLO",
+          "3",
+          "44",
+          "19",
+          "25",
+          "4"
+        ],
+        [
+          "EL TRÉBOL",
+          "2",
+          "113",
+          "59",
+          "54",
+          "5"
+        ],
+        [
+          "EL TRÉBOL DOS",
+          "3",
+          "76",
+          "37",
+          "39",
+          "4"
+        ],
+        [
+          "ESCUINAPA DE HIDALGO",
+          "47",
+          "9,194",
+          "4,594",
+          "4,600",
+          "684"
+        ],
+        [
+          "ISLA DEL BOSQUE",
+          "9",
+          "1,760",
+          "835",
+          "925",
+          "84"
+        ],
+        [
+          "LA CAMPANA NÚMERO DOS (EL POCHOTE)",
+          "2",
+          "32",
+          "13",
+          "19",
+          "3"
+        ],
+        [
+          "LA CONCHA (LA CONCEPCIÓN)",
+          "5",
+          "444",
+          "216",
+          "228",
+          "29"
+        ],
+        [
+          "LA LOMA (GABRIEL LEYVA SOLANO)",
+          "2",
+          "47",
+          "26",
+          "21",
+          "3"
+        ],
+        [
+          "LAS PILAS",
+          "3",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "OJO DE AGUA DE PALMILLAS",
+          "6",
+          "681",
+          "337",
+          "344",
+          "46"
+        ],
+        [
+          "PALMITO DEL VERDE",
+          "5",
+          "530",
+          "258",
+          "272",
+          "33"
+        ],
+        [
+          "RINCÓN DEL VERDE",
+          "3",
+          "61",
+          "24",
+          "37",
+          "4"
+        ],
+        [
+          "SAN MIGUEL DE LA ATARJEA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "TEACAPÁN",
+          "8",
+          "1,011",
+          "499",
+          "512",
+          "119"
+        ],
+        [
+          "TECUALILLA",
+          "4",
+          "450",
+          "212",
+          "238",
+          "20"
+        ],
+        [
+          "TOTAL",
+          "118",
+          "15,379",
+          "7,588",
+          "7,791",
+          "1,113"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:32:49.677Z"
+}

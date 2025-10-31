@@ -1,0 +1,912 @@
+{
+  "municipality": "TAMPACÁN",
+  "municipalityCode": "038",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPACÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN NUEVO HULERO\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tBARRIO ARRIBA (FÁTIMA)\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tBARRIO VIBORITAS\n\t\t2\n\t\t14\n\t\t8\n\t\t6\n\t\t2\n\t\n\t\n\t\tCHICONAMEL\n\t\t4\n\t\t194\n\t\t102\n\t\t92\n\t\t12\n\t\n\t\n\t\tCHILILILLO\n\t\t4\n\t\t97\n\t\t41\n\t\t56\n\t\t8\n\t\n\t\n\t\tCHIMIMEXCO\n\t\t2\n\t\t40\n\t\t24\n\t\t16\n\t\t3\n\t\n\t\n\t\tCHUPADERO\n\t\t2\n\t\t39\n\t\t26\n\t\t13\n\t\t3\n\t\n\t\n\t\tCUAYAHUAL\n\t\t3\n\t\t60\n\t\t27\n\t\t33\n\t\t5\n\t\n\t\n\t\tDOCTOR SALVADOR NAVA MARTÍNEZ (NUEVO SANTA RITA)\n\t\t2\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL CEDRAL\n\t\t3\n\t\t110\n\t\t52\n\t\t58\n\t\t8\n\t\n\t\n\t\tEL HUEXCO\n\t\t4\n\t\t233\n\t\t92\n\t\t141\n\t\t18\n\t\n\t\n\t\tEL HULERO\n\t\t4\n\t\t209\n\t\t103\n\t\t106\n\t\t17\n\t\n\t\n\t\tEL REFUGIO\n\t\t3\n\t\t42\n\t\t21\n\t\t21\n\t\t4\n\t\n\t\n\t\tLA BAJADA (JAIME RAMÍREZ)\n\t\t1\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA FINCA MIRAFLORES\n\t\t3\n\t\t74\n\t\t42\n\t\t32\n\t\t5\n\t\n\t\n\t\tLA MATA\n\t\t4\n\t\t136\n\t\t70\n\t\t66\n\t\t12\n\t\n\t\n\t\tLA SOLEDAD\n\t\t4\n\t\t433\n\t\t206\n\t\t227\n\t\t25\n\t\n\t\n\t\tLAGUNILLAS\n\t\t1\n\t\t10\n\t\t4\n\t\t6\n\t\t1\n\t\n\t\n\t\tLAS MESAS\n\t\t3\n\t\t77\n\t\t39\n\t\t38\n\t\t5\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t3\n\t\t57\n\t\t28\n\t\t29\n\t\t5\n\t\n\t\n\t\tLOS COYOLES\n\t\t3\n\t\t76\n\t\t37\n\t\t39\n\t\t5\n\t\n\t\n\t\tLOS CUES\n\t\t3\n\t\t78\n\t\t46\n\t\t32\n\t\t6\n\t\n\t\n\t\tLOS SABINOS\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t1\n\t\n\t\n\t\tMACUILOCATL\n\t\t3\n\t\t69\n\t\t38\n\t\t31\n\t\t4\n\t\n\t\n\t\tNUEVO HULERO (LA CURVA)\n\t\t2\n\t\t38\n\t\t14\n\t\t24\n\t\t2\n\t\n\t\n\t\tNUEVO JALPILLA\n\t\t3\n\t\t79\n\t\t38\n\t\t41\n\t\t4\n\t\n\t\n\t\tPALANTITLA\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tPALOLCO\n\t\t3\n\t\t69\n\t\t31\n\t\t38\n\t\t5\n\t\n\t\n\t\tPUYÉCATL\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t2\n\t\n\t\n\t\tSANTOMILA\n\t\t2\n\t\t26\n\t\t10\n\t\t16\n\t\t2\n\t\n\t\n\t\tTAMPACÁN\n\t\t3\n\t\t712\n\t\t330\n\t\t382\n\t\t23\n\t\n\t\n\t\tTENEXTITLA DOS\n\t\t2\n\t\t57\n\t\t29\n\t\t28\n\t\t4\n\t\n\t\n\t\tTENEXTITLA UNO\n\t\t3\n\t\t66\n\t\t29\n\t\t37\n\t\t4\n\t\n\t\n\t\tTOTOMOXTLA DOS (HUEXCO)\n\t\t3\n\t\t138\n\t\t62\n\t\t76\n\t\t9\n\t\n\t\n\t\tTOTOMOXTLA TRES (HUEXCO)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tXOCHIAYO\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tXOCHICUATLA\n\t\t4\n\t\t180\n\t\t76\n\t\t104\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t99\n\t\t3,523\n\t\t1,677\n\t\t1,846\n\t\t225\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPACÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN NUEVO HULERO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "BARRIO ARRIBA (FÁTIMA)",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "BARRIO VIBORITAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2",
+          "CHICONAMEL",
+          "4",
+          "194",
+          "102",
+          "92",
+          "12",
+          "CHILILILLO",
+          "4",
+          "97",
+          "41",
+          "56",
+          "8",
+          "CHIMIMEXCO",
+          "2",
+          "40",
+          "24",
+          "16",
+          "3",
+          "CHUPADERO",
+          "2",
+          "39",
+          "26",
+          "13",
+          "3",
+          "CUAYAHUAL",
+          "3",
+          "60",
+          "27",
+          "33",
+          "5",
+          "DOCTOR SALVADOR NAVA MARTÍNEZ (NUEVO SANTA RITA)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1",
+          "EL CEDRAL",
+          "3",
+          "110",
+          "52",
+          "58",
+          "8",
+          "EL HUEXCO",
+          "4",
+          "233",
+          "92",
+          "141",
+          "18",
+          "EL HULERO",
+          "4",
+          "209",
+          "103",
+          "106",
+          "17",
+          "EL REFUGIO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4",
+          "LA BAJADA (JAIME RAMÍREZ)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1",
+          "LA FINCA MIRAFLORES",
+          "3",
+          "74",
+          "42",
+          "32",
+          "5",
+          "LA MATA",
+          "4",
+          "136",
+          "70",
+          "66",
+          "12",
+          "LA SOLEDAD",
+          "4",
+          "433",
+          "206",
+          "227",
+          "25",
+          "LAGUNILLAS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1",
+          "LAS MESAS",
+          "3",
+          "77",
+          "39",
+          "38",
+          "5",
+          "LÁZARO CÁRDENAS",
+          "3",
+          "57",
+          "28",
+          "29",
+          "5",
+          "LOS COYOLES",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5",
+          "LOS CUES",
+          "3",
+          "78",
+          "46",
+          "32",
+          "6",
+          "LOS SABINOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1",
+          "MACUILOCATL",
+          "3",
+          "69",
+          "38",
+          "31",
+          "4",
+          "NUEVO HULERO (LA CURVA)",
+          "2",
+          "38",
+          "14",
+          "24",
+          "2",
+          "NUEVO JALPILLA",
+          "3",
+          "79",
+          "38",
+          "41",
+          "4",
+          "PALANTITLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "PALOLCO",
+          "3",
+          "69",
+          "31",
+          "38",
+          "5",
+          "PUYÉCATL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2",
+          "SANTOMILA",
+          "2",
+          "26",
+          "10",
+          "16",
+          "2",
+          "TAMPACÁN",
+          "3",
+          "712",
+          "330",
+          "382",
+          "23",
+          "TENEXTITLA DOS",
+          "2",
+          "57",
+          "29",
+          "28",
+          "4",
+          "TENEXTITLA UNO",
+          "3",
+          "66",
+          "29",
+          "37",
+          "4",
+          "TOTOMOXTLA DOS (HUEXCO)",
+          "3",
+          "138",
+          "62",
+          "76",
+          "9",
+          "TOTOMOXTLA TRES (HUEXCO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "XOCHIAYO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "XOCHICUATLA",
+          "4",
+          "180",
+          "76",
+          "104",
+          "11",
+          "TOTAL",
+          "99",
+          "3,523",
+          "1,677",
+          "1,846",
+          "225",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPACÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN NUEVO HULERO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "BARRIO ARRIBA (FÁTIMA)",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "BARRIO VIBORITAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "CHICONAMEL",
+          "4",
+          "194",
+          "102",
+          "92",
+          "12"
+        ],
+        [
+          "CHILILILLO",
+          "4",
+          "97",
+          "41",
+          "56",
+          "8"
+        ],
+        [
+          "CHIMIMEXCO",
+          "2",
+          "40",
+          "24",
+          "16",
+          "3"
+        ],
+        [
+          "CHUPADERO",
+          "2",
+          "39",
+          "26",
+          "13",
+          "3"
+        ],
+        [
+          "CUAYAHUAL",
+          "3",
+          "60",
+          "27",
+          "33",
+          "5"
+        ],
+        [
+          "DOCTOR SALVADOR NAVA MARTÍNEZ (NUEVO SANTA RITA)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL CEDRAL",
+          "3",
+          "110",
+          "52",
+          "58",
+          "8"
+        ],
+        [
+          "EL HUEXCO",
+          "4",
+          "233",
+          "92",
+          "141",
+          "18"
+        ],
+        [
+          "EL HULERO",
+          "4",
+          "209",
+          "103",
+          "106",
+          "17"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "LA BAJADA (JAIME RAMÍREZ)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA FINCA MIRAFLORES",
+          "3",
+          "74",
+          "42",
+          "32",
+          "5"
+        ],
+        [
+          "LA MATA",
+          "4",
+          "136",
+          "70",
+          "66",
+          "12"
+        ],
+        [
+          "LA SOLEDAD",
+          "4",
+          "433",
+          "206",
+          "227",
+          "25"
+        ],
+        [
+          "LAGUNILLAS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LAS MESAS",
+          "3",
+          "77",
+          "39",
+          "38",
+          "5"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "57",
+          "28",
+          "29",
+          "5"
+        ],
+        [
+          "LOS COYOLES",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5"
+        ],
+        [
+          "LOS CUES",
+          "3",
+          "78",
+          "46",
+          "32",
+          "6"
+        ],
+        [
+          "LOS SABINOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "MACUILOCATL",
+          "3",
+          "69",
+          "38",
+          "31",
+          "4"
+        ],
+        [
+          "NUEVO HULERO (LA CURVA)",
+          "2",
+          "38",
+          "14",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVO JALPILLA",
+          "3",
+          "79",
+          "38",
+          "41",
+          "4"
+        ],
+        [
+          "PALANTITLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PALOLCO",
+          "3",
+          "69",
+          "31",
+          "38",
+          "5"
+        ],
+        [
+          "PUYÉCATL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "SANTOMILA",
+          "2",
+          "26",
+          "10",
+          "16",
+          "2"
+        ],
+        [
+          "TAMPACÁN",
+          "3",
+          "712",
+          "330",
+          "382",
+          "23"
+        ],
+        [
+          "TENEXTITLA DOS",
+          "2",
+          "57",
+          "29",
+          "28",
+          "4"
+        ],
+        [
+          "TENEXTITLA UNO",
+          "3",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "TOTOMOXTLA DOS (HUEXCO)",
+          "3",
+          "138",
+          "62",
+          "76",
+          "9"
+        ],
+        [
+          "TOTOMOXTLA TRES (HUEXCO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "XOCHIAYO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "XOCHICUATLA",
+          "4",
+          "180",
+          "76",
+          "104",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "3,523",
+          "1,677",
+          "1,846",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: TAMPACÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN NUEVO HULERO",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "BARRIO ARRIBA (FÁTIMA)",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "BARRIO VIBORITAS",
+          "2",
+          "14",
+          "8",
+          "6",
+          "2"
+        ],
+        [
+          "CHICONAMEL",
+          "4",
+          "194",
+          "102",
+          "92",
+          "12"
+        ],
+        [
+          "CHILILILLO",
+          "4",
+          "97",
+          "41",
+          "56",
+          "8"
+        ],
+        [
+          "CHIMIMEXCO",
+          "2",
+          "40",
+          "24",
+          "16",
+          "3"
+        ],
+        [
+          "CHUPADERO",
+          "2",
+          "39",
+          "26",
+          "13",
+          "3"
+        ],
+        [
+          "CUAYAHUAL",
+          "3",
+          "60",
+          "27",
+          "33",
+          "5"
+        ],
+        [
+          "DOCTOR SALVADOR NAVA MARTÍNEZ (NUEVO SANTA RITA)",
+          "2",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "EL CEDRAL",
+          "3",
+          "110",
+          "52",
+          "58",
+          "8"
+        ],
+        [
+          "EL HUEXCO",
+          "4",
+          "233",
+          "92",
+          "141",
+          "18"
+        ],
+        [
+          "EL HULERO",
+          "4",
+          "209",
+          "103",
+          "106",
+          "17"
+        ],
+        [
+          "EL REFUGIO",
+          "3",
+          "42",
+          "21",
+          "21",
+          "4"
+        ],
+        [
+          "LA BAJADA (JAIME RAMÍREZ)",
+          "1",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "LA FINCA MIRAFLORES",
+          "3",
+          "74",
+          "42",
+          "32",
+          "5"
+        ],
+        [
+          "LA MATA",
+          "4",
+          "136",
+          "70",
+          "66",
+          "12"
+        ],
+        [
+          "LA SOLEDAD",
+          "4",
+          "433",
+          "206",
+          "227",
+          "25"
+        ],
+        [
+          "LAGUNILLAS",
+          "1",
+          "10",
+          "4",
+          "6",
+          "1"
+        ],
+        [
+          "LAS MESAS",
+          "3",
+          "77",
+          "39",
+          "38",
+          "5"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "3",
+          "57",
+          "28",
+          "29",
+          "5"
+        ],
+        [
+          "LOS COYOLES",
+          "3",
+          "76",
+          "37",
+          "39",
+          "5"
+        ],
+        [
+          "LOS CUES",
+          "3",
+          "78",
+          "46",
+          "32",
+          "6"
+        ],
+        [
+          "LOS SABINOS",
+          "2",
+          "7",
+          "3",
+          "4",
+          "1"
+        ],
+        [
+          "MACUILOCATL",
+          "3",
+          "69",
+          "38",
+          "31",
+          "4"
+        ],
+        [
+          "NUEVO HULERO (LA CURVA)",
+          "2",
+          "38",
+          "14",
+          "24",
+          "2"
+        ],
+        [
+          "NUEVO JALPILLA",
+          "3",
+          "79",
+          "38",
+          "41",
+          "4"
+        ],
+        [
+          "PALANTITLA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "PALOLCO",
+          "3",
+          "69",
+          "31",
+          "38",
+          "5"
+        ],
+        [
+          "PUYÉCATL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "2"
+        ],
+        [
+          "SANTOMILA",
+          "2",
+          "26",
+          "10",
+          "16",
+          "2"
+        ],
+        [
+          "TAMPACÁN",
+          "3",
+          "712",
+          "330",
+          "382",
+          "23"
+        ],
+        [
+          "TENEXTITLA DOS",
+          "2",
+          "57",
+          "29",
+          "28",
+          "4"
+        ],
+        [
+          "TENEXTITLA UNO",
+          "3",
+          "66",
+          "29",
+          "37",
+          "4"
+        ],
+        [
+          "TOTOMOXTLA DOS (HUEXCO)",
+          "3",
+          "138",
+          "62",
+          "76",
+          "9"
+        ],
+        [
+          "TOTOMOXTLA TRES (HUEXCO)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "XOCHIAYO",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "XOCHICUATLA",
+          "4",
+          "180",
+          "76",
+          "104",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "3,523",
+          "1,677",
+          "1,846",
+          "225"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:30:48.986Z"
+}

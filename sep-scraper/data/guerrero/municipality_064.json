@@ -1,0 +1,538 @@
+{
+  "municipality": "TLALCHAPA",
+  "municipalityCode": "064",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLALCHAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHAPULTEPEC (EL CHAPUL)\n\t\t4\n\t\t115\n\t\t62\n\t\t53\n\t\t9\n\t\n\t\n\t\tCOLONIA CUAUHTÉMOC\n\t\t5\n\t\t140\n\t\t71\n\t\t69\n\t\t22\n\t\n\t\n\t\tCUAUHLOTITLÁN\n\t\t4\n\t\t174\n\t\t94\n\t\t80\n\t\t21\n\t\n\t\n\t\tEL AGUACATE\n\t\t3\n\t\t58\n\t\t37\n\t\t21\n\t\t6\n\t\n\t\n\t\tEL CHUCUMPÚN\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL PASO DE AMATITLÁN\n\t\t1\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL TAMARINDO DEL RÍO\n\t\t2\n\t\t11\n\t\t9\n\t\t2\n\t\t3\n\t\n\t\n\t\tHUAXQUIAL\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tLA CACÁNICUA DE ARRIBA\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA MONTAÑA\n\t\t3\n\t\t80\n\t\t37\n\t\t43\n\t\t9\n\t\n\t\n\t\tLOS NOPALES\n\t\t3\n\t\t41\n\t\t16\n\t\t25\n\t\t5\n\t\n\t\n\t\tOTLATEPEC (AGUA DEL PADRE)\n\t\t4\n\t\t137\n\t\t56\n\t\t81\n\t\t11\n\t\n\t\n\t\tPUERTO DE ALLENDE (PUERTA DE ARRIBA)\n\t\t2\n\t\t27\n\t\t17\n\t\t10\n\t\t2\n\t\n\t\n\t\tSAN JUAN\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN MIGUEL TECOMATLÁN\n\t\t6\n\t\t264\n\t\t123\n\t\t141\n\t\t21\n\t\n\t\n\t\tSAN VICENTE\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t1\n\t\n\t\n\t\tTENANCINGO\n\t\t2\n\t\t27\n\t\t11\n\t\t16\n\t\t2\n\t\n\t\n\t\tTLALCHAPA\n\t\t9\n\t\t1,323\n\t\t662\n\t\t661\n\t\t80\n\t\n\t\n\t\tTLANEXPA\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tVILLA MADERO (EL POTRERO)\n\t\t5\n\t\t263\n\t\t113\n\t\t150\n\t\t19\n\t\n\t\n\t\tTOTAL\n\t\t62\n\t\t2,746\n\t\t1,348\n\t\t1,398\n\t\t221\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLALCHAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHAPULTEPEC (EL CHAPUL)",
+          "4",
+          "115",
+          "62",
+          "53",
+          "9",
+          "COLONIA CUAUHTÉMOC",
+          "5",
+          "140",
+          "71",
+          "69",
+          "22",
+          "CUAUHLOTITLÁN",
+          "4",
+          "174",
+          "94",
+          "80",
+          "21",
+          "EL AGUACATE",
+          "3",
+          "58",
+          "37",
+          "21",
+          "6",
+          "EL CHUCUMPÚN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "EL PASO DE AMATITLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "2",
+          "EL TAMARINDO DEL RÍO",
+          "2",
+          "11",
+          "9",
+          "2",
+          "3",
+          "HUAXQUIAL",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "LA CACÁNICUA DE ARRIBA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "LA MONTAÑA",
+          "3",
+          "80",
+          "37",
+          "43",
+          "9",
+          "LOS NOPALES",
+          "3",
+          "41",
+          "16",
+          "25",
+          "5",
+          "OTLATEPEC (AGUA DEL PADRE)",
+          "4",
+          "137",
+          "56",
+          "81",
+          "11",
+          "PUERTO DE ALLENDE (PUERTA DE ARRIBA)",
+          "2",
+          "27",
+          "17",
+          "10",
+          "2",
+          "SAN JUAN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "SAN MIGUEL TECOMATLÁN",
+          "6",
+          "264",
+          "123",
+          "141",
+          "21",
+          "SAN VICENTE",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1",
+          "TENANCINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2",
+          "TLALCHAPA",
+          "9",
+          "1,323",
+          "662",
+          "661",
+          "80",
+          "TLANEXPA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "VILLA MADERO (EL POTRERO)",
+          "5",
+          "263",
+          "113",
+          "150",
+          "19",
+          "TOTAL",
+          "62",
+          "2,746",
+          "1,348",
+          "1,398",
+          "221",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLALCHAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHAPULTEPEC (EL CHAPUL)",
+          "4",
+          "115",
+          "62",
+          "53",
+          "9"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "5",
+          "140",
+          "71",
+          "69",
+          "22"
+        ],
+        [
+          "CUAUHLOTITLÁN",
+          "4",
+          "174",
+          "94",
+          "80",
+          "21"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "58",
+          "37",
+          "21",
+          "6"
+        ],
+        [
+          "EL CHUCUMPÚN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL PASO DE AMATITLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL TAMARINDO DEL RÍO",
+          "2",
+          "11",
+          "9",
+          "2",
+          "3"
+        ],
+        [
+          "HUAXQUIAL",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LA CACÁNICUA DE ARRIBA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA MONTAÑA",
+          "3",
+          "80",
+          "37",
+          "43",
+          "9"
+        ],
+        [
+          "LOS NOPALES",
+          "3",
+          "41",
+          "16",
+          "25",
+          "5"
+        ],
+        [
+          "OTLATEPEC (AGUA DEL PADRE)",
+          "4",
+          "137",
+          "56",
+          "81",
+          "11"
+        ],
+        [
+          "PUERTO DE ALLENDE (PUERTA DE ARRIBA)",
+          "2",
+          "27",
+          "17",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SAN MIGUEL TECOMATLÁN",
+          "6",
+          "264",
+          "123",
+          "141",
+          "21"
+        ],
+        [
+          "SAN VICENTE",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "TENANCINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2"
+        ],
+        [
+          "TLALCHAPA",
+          "9",
+          "1,323",
+          "662",
+          "661",
+          "80"
+        ],
+        [
+          "TLANEXPA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "VILLA MADERO (EL POTRERO)",
+          "5",
+          "263",
+          "113",
+          "150",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "62",
+          "2,746",
+          "1,348",
+          "1,398",
+          "221"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: TLALCHAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHAPULTEPEC (EL CHAPUL)",
+          "4",
+          "115",
+          "62",
+          "53",
+          "9"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC",
+          "5",
+          "140",
+          "71",
+          "69",
+          "22"
+        ],
+        [
+          "CUAUHLOTITLÁN",
+          "4",
+          "174",
+          "94",
+          "80",
+          "21"
+        ],
+        [
+          "EL AGUACATE",
+          "3",
+          "58",
+          "37",
+          "21",
+          "6"
+        ],
+        [
+          "EL CHUCUMPÚN",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "EL PASO DE AMATITLÁN",
+          "1",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL TAMARINDO DEL RÍO",
+          "2",
+          "11",
+          "9",
+          "2",
+          "3"
+        ],
+        [
+          "HUAXQUIAL",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "LA CACÁNICUA DE ARRIBA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LA MONTAÑA",
+          "3",
+          "80",
+          "37",
+          "43",
+          "9"
+        ],
+        [
+          "LOS NOPALES",
+          "3",
+          "41",
+          "16",
+          "25",
+          "5"
+        ],
+        [
+          "OTLATEPEC (AGUA DEL PADRE)",
+          "4",
+          "137",
+          "56",
+          "81",
+          "11"
+        ],
+        [
+          "PUERTO DE ALLENDE (PUERTA DE ARRIBA)",
+          "2",
+          "27",
+          "17",
+          "10",
+          "2"
+        ],
+        [
+          "SAN JUAN",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SAN MIGUEL TECOMATLÁN",
+          "6",
+          "264",
+          "123",
+          "141",
+          "21"
+        ],
+        [
+          "SAN VICENTE",
+          "1",
+          "17",
+          "7",
+          "10",
+          "1"
+        ],
+        [
+          "TENANCINGO",
+          "2",
+          "27",
+          "11",
+          "16",
+          "2"
+        ],
+        [
+          "TLALCHAPA",
+          "9",
+          "1,323",
+          "662",
+          "661",
+          "80"
+        ],
+        [
+          "TLANEXPA",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "VILLA MADERO (EL POTRERO)",
+          "5",
+          "263",
+          "113",
+          "150",
+          "19"
+        ],
+        [
+          "TOTAL",
+          "62",
+          "2,746",
+          "1,348",
+          "1,398",
+          "221"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:14:06.473Z"
+}

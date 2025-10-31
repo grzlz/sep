@@ -1,0 +1,1044 @@
+{
+  "municipality": "CALVILLO",
+  "municipalityCode": "003",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: CALVILLO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRANCA DE PORTALES\n\t\t2\n\t\t48\n\t\t26\n\t\t22\n\t\t3\n\t\n\t\n\t\tCALVILLO\n\t\t27\n\t\t6,729\n\t\t3,503\n\t\t3,226\n\t\t410\n\t\n\t\n\t\tCERRO BLANCO\n\t\t3\n\t\t8\n\t\t2\n\t\t6\n\t\t2\n\t\n\t\n\t\tCHIQUIHUITERO (SAN ISIDRO)\n\t\t4\n\t\t425\n\t\t220\n\t\t205\n\t\t19\n\t\n\t\n\t\tCOLOMOS\n\t\t2\n\t\t64\n\t\t35\n\t\t29\n\t\t4\n\t\n\t\n\t\tCRUCERO LAS PILAS\n\t\t3\n\t\t267\n\t\t123\n\t\t144\n\t\t11\n\t\n\t\n\t\tEL CUERVERO (CUERVEROS)\n\t\t4\n\t\t486\n\t\t249\n\t\t237\n\t\t21\n\t\n\t\n\t\tEL MAGUEY\n\t\t3\n\t\t34\n\t\t20\n\t\t14\n\t\t3\n\t\n\t\n\t\tEL MORANCILLO (LOS ARCOS)\n\t\t1\n\t\t45\n\t\t27\n\t\t18\n\t\t2\n\t\n\t\n\t\tEL RODEO\n\t\t2\n\t\t105\n\t\t57\n\t\t48\n\t\t4\n\t\n\t\n\t\tEL SALITRE\n\t\t5\n\t\t654\n\t\t359\n\t\t295\n\t\t41\n\t\n\t\n\t\tEL SAUZ\n\t\t2\n\t\t30\n\t\t15\n\t\t15\n\t\t2\n\t\n\t\n\t\tEL SAUZ DE LA LABOR\n\t\t2\n\t\t15\n\t\t5\n\t\t10\n\t\t2\n\t\n\t\n\t\tEL TEPETATE DE ABAJO\n\t\t2\n\t\t7\n\t\t4\n\t\t3\n\t\t2\n\t\n\t\n\t\tEL TERRERO DE LA LABOR\n\t\t3\n\t\t69\n\t\t30\n\t\t39\n\t\t4\n\t\n\t\n\t\tEL TERRERO DEL REFUGIO\n\t\t2\n\t\t29\n\t\t17\n\t\t12\n\t\t2\n\t\n\t\n\t\tEL ZAPOTE DE LA LABOR\n\t\t3\n\t\t31\n\t\t18\n\t\t13\n\t\t3\n\t\n\t\n\t\tJALTICHE DE ABAJO\n\t\t3\n\t\t48\n\t\t26\n\t\t22\n\t\t3\n\t\n\t\n\t\tJALTICHE DE ARRIBA\n\t\t3\n\t\t174\n\t\t83\n\t\t91\n\t\t8\n\t\n\t\n\t\tJARDINES DE SAN ISIDRO (COLONIA LIMÓN)\n\t\t1\n\t\t81\n\t\t35\n\t\t46\n\t\t3\n\t\n\t\n\t\tLA FRAGUA\n\t\t2\n\t\t26\n\t\t13\n\t\t13\n\t\t3\n\t\n\t\n\t\tLA LABOR\n\t\t4\n\t\t589\n\t\t294\n\t\t295\n\t\t36\n\t\n\t\n\t\tLA MEDIA LUNA\n\t\t2\n\t\t81\n\t\t37\n\t\t44\n\t\t4\n\t\n\t\n\t\tLA PANADERA\n\t\t5\n\t\t357\n\t\t160\n\t\t197\n\t\t16\n\t\n\t\n\t\tLA RINCONADA\n\t\t4\n\t\t131\n\t\t65\n\t\t66\n\t\t7\n\t\n\t\n\t\tLA TERESA\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tLAS ÁNIMAS\n\t\t2\n\t\t59\n\t\t27\n\t\t32\n\t\t3\n\t\n\t\n\t\tLAS TINAJAS\n\t\t2\n\t\t23\n\t\t13\n\t\t10\n\t\t2\n\t\n\t\n\t\tLOS MUÑOZ\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tLOS PATOS\n\t\t4\n\t\t168\n\t\t90\n\t\t78\n\t\t9\n\t\n\t\n\t\tMALPASO\n\t\t3\n\t\t251\n\t\t118\n\t\t133\n\t\t22\n\t\n\t\n\t\tMESA DEL MÁRQUEZ\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tMESA DEL ROBLE\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tMESA GRANDE\n\t\t4\n\t\t341\n\t\t171\n\t\t170\n\t\t16\n\t\n\t\n\t\tOJO DE AGUA\n\t\t4\n\t\t240\n\t\t123\n\t\t117\n\t\t18\n\t\n\t\n\t\tOJOCALIENTE\n\t\t11\n\t\t1,628\n\t\t797\n\t\t831\n\t\t76\n\t\n\t\n\t\tPIEDRAS CHINAS\n\t\t2\n\t\t19\n\t\t5\n\t\t14\n\t\t2\n\t\n\t\n\t\tPOTRERO DE LOS LÓPEZ\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tPRESA DE LOS SERNA\n\t\t3\n\t\t113\n\t\t59\n\t\t54\n\t\t6\n\t\n\t\n\t\tPUERTA DE FRAGUA (PRESA LA CODORNIZ)\n\t\t2\n\t\t40\n\t\t21\n\t\t19\n\t\t2\n\t\n\t\n\t\tSAN TADEO\n\t\t5\n\t\t478\n\t\t229\n\t\t249\n\t\t20\n\t\n\t\n\t\tSOLIDARIDAD [FRACCIONAMIENTO]\n\t\t1\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tTEMAZCAL\n\t\t2\n\t\t31\n\t\t23\n\t\t8\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t147\n\t\t13,994\n\t\t7,132\n\t\t6,862\n\t\t802\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: CALVILLO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRANCA DE PORTALES",
+          "2",
+          "48",
+          "26",
+          "22",
+          "3",
+          "CALVILLO",
+          "27",
+          "6,729",
+          "3,503",
+          "3,226",
+          "410",
+          "CERRO BLANCO",
+          "3",
+          "8",
+          "2",
+          "6",
+          "2",
+          "CHIQUIHUITERO (SAN ISIDRO)",
+          "4",
+          "425",
+          "220",
+          "205",
+          "19",
+          "COLOMOS",
+          "2",
+          "64",
+          "35",
+          "29",
+          "4",
+          "CRUCERO LAS PILAS",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11",
+          "EL CUERVERO (CUERVEROS)",
+          "4",
+          "486",
+          "249",
+          "237",
+          "21",
+          "EL MAGUEY",
+          "3",
+          "34",
+          "20",
+          "14",
+          "3",
+          "EL MORANCILLO (LOS ARCOS)",
+          "1",
+          "45",
+          "27",
+          "18",
+          "2",
+          "EL RODEO",
+          "2",
+          "105",
+          "57",
+          "48",
+          "4",
+          "EL SALITRE",
+          "5",
+          "654",
+          "359",
+          "295",
+          "41",
+          "EL SAUZ",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2",
+          "EL SAUZ DE LA LABOR",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2",
+          "EL TEPETATE DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2",
+          "EL TERRERO DE LA LABOR",
+          "3",
+          "69",
+          "30",
+          "39",
+          "4",
+          "EL TERRERO DEL REFUGIO",
+          "2",
+          "29",
+          "17",
+          "12",
+          "2",
+          "EL ZAPOTE DE LA LABOR",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3",
+          "JALTICHE DE ABAJO",
+          "3",
+          "48",
+          "26",
+          "22",
+          "3",
+          "JALTICHE DE ARRIBA",
+          "3",
+          "174",
+          "83",
+          "91",
+          "8",
+          "JARDINES DE SAN ISIDRO (COLONIA LIMÓN)",
+          "1",
+          "81",
+          "35",
+          "46",
+          "3",
+          "LA FRAGUA",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3",
+          "LA LABOR",
+          "4",
+          "589",
+          "294",
+          "295",
+          "36",
+          "LA MEDIA LUNA",
+          "2",
+          "81",
+          "37",
+          "44",
+          "4",
+          "LA PANADERA",
+          "5",
+          "357",
+          "160",
+          "197",
+          "16",
+          "LA RINCONADA",
+          "4",
+          "131",
+          "65",
+          "66",
+          "7",
+          "LA TERESA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "LAS ÁNIMAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3",
+          "LAS TINAJAS",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2",
+          "LOS MUÑOZ",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "LOS PATOS",
+          "4",
+          "168",
+          "90",
+          "78",
+          "9",
+          "MALPASO",
+          "3",
+          "251",
+          "118",
+          "133",
+          "22",
+          "MESA DEL MÁRQUEZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "MESA DEL ROBLE",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "MESA GRANDE",
+          "4",
+          "341",
+          "171",
+          "170",
+          "16",
+          "OJO DE AGUA",
+          "4",
+          "240",
+          "123",
+          "117",
+          "18",
+          "OJOCALIENTE",
+          "11",
+          "1,628",
+          "797",
+          "831",
+          "76",
+          "PIEDRAS CHINAS",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2",
+          "POTRERO DE LOS LÓPEZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "PRESA DE LOS SERNA",
+          "3",
+          "113",
+          "59",
+          "54",
+          "6",
+          "PUERTA DE FRAGUA (PRESA LA CODORNIZ)",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2",
+          "SAN TADEO",
+          "5",
+          "478",
+          "229",
+          "249",
+          "20",
+          "SOLIDARIDAD [FRACCIONAMIENTO]",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1",
+          "TEMAZCAL",
+          "2",
+          "31",
+          "23",
+          "8",
+          "3",
+          "TOTAL",
+          "147",
+          "13,994",
+          "7,132",
+          "6,862",
+          "802",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: CALVILLO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRANCA DE PORTALES",
+          "2",
+          "48",
+          "26",
+          "22",
+          "3"
+        ],
+        [
+          "CALVILLO",
+          "27",
+          "6,729",
+          "3,503",
+          "3,226",
+          "410"
+        ],
+        [
+          "CERRO BLANCO",
+          "3",
+          "8",
+          "2",
+          "6",
+          "2"
+        ],
+        [
+          "CHIQUIHUITERO (SAN ISIDRO)",
+          "4",
+          "425",
+          "220",
+          "205",
+          "19"
+        ],
+        [
+          "COLOMOS",
+          "2",
+          "64",
+          "35",
+          "29",
+          "4"
+        ],
+        [
+          "CRUCERO LAS PILAS",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11"
+        ],
+        [
+          "EL CUERVERO (CUERVEROS)",
+          "4",
+          "486",
+          "249",
+          "237",
+          "21"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL MORANCILLO (LOS ARCOS)",
+          "1",
+          "45",
+          "27",
+          "18",
+          "2"
+        ],
+        [
+          "EL RODEO",
+          "2",
+          "105",
+          "57",
+          "48",
+          "4"
+        ],
+        [
+          "EL SALITRE",
+          "5",
+          "654",
+          "359",
+          "295",
+          "41"
+        ],
+        [
+          "EL SAUZ",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "EL SAUZ DE LA LABOR",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "EL TEPETATE DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "EL TERRERO DE LA LABOR",
+          "3",
+          "69",
+          "30",
+          "39",
+          "4"
+        ],
+        [
+          "EL TERRERO DEL REFUGIO",
+          "2",
+          "29",
+          "17",
+          "12",
+          "2"
+        ],
+        [
+          "EL ZAPOTE DE LA LABOR",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "JALTICHE DE ABAJO",
+          "3",
+          "48",
+          "26",
+          "22",
+          "3"
+        ],
+        [
+          "JALTICHE DE ARRIBA",
+          "3",
+          "174",
+          "83",
+          "91",
+          "8"
+        ],
+        [
+          "JARDINES DE SAN ISIDRO (COLONIA LIMÓN)",
+          "1",
+          "81",
+          "35",
+          "46",
+          "3"
+        ],
+        [
+          "LA FRAGUA",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "LA LABOR",
+          "4",
+          "589",
+          "294",
+          "295",
+          "36"
+        ],
+        [
+          "LA MEDIA LUNA",
+          "2",
+          "81",
+          "37",
+          "44",
+          "4"
+        ],
+        [
+          "LA PANADERA",
+          "5",
+          "357",
+          "160",
+          "197",
+          "16"
+        ],
+        [
+          "LA RINCONADA",
+          "4",
+          "131",
+          "65",
+          "66",
+          "7"
+        ],
+        [
+          "LA TERESA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3"
+        ],
+        [
+          "LAS TINAJAS",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "LOS MUÑOZ",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LOS PATOS",
+          "4",
+          "168",
+          "90",
+          "78",
+          "9"
+        ],
+        [
+          "MALPASO",
+          "3",
+          "251",
+          "118",
+          "133",
+          "22"
+        ],
+        [
+          "MESA DEL MÁRQUEZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "MESA DEL ROBLE",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MESA GRANDE",
+          "4",
+          "341",
+          "171",
+          "170",
+          "16"
+        ],
+        [
+          "OJO DE AGUA",
+          "4",
+          "240",
+          "123",
+          "117",
+          "18"
+        ],
+        [
+          "OJOCALIENTE",
+          "11",
+          "1,628",
+          "797",
+          "831",
+          "76"
+        ],
+        [
+          "PIEDRAS CHINAS",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2"
+        ],
+        [
+          "POTRERO DE LOS LÓPEZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "PRESA DE LOS SERNA",
+          "3",
+          "113",
+          "59",
+          "54",
+          "6"
+        ],
+        [
+          "PUERTA DE FRAGUA (PRESA LA CODORNIZ)",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2"
+        ],
+        [
+          "SAN TADEO",
+          "5",
+          "478",
+          "229",
+          "249",
+          "20"
+        ],
+        [
+          "SOLIDARIDAD [FRACCIONAMIENTO]",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "TEMAZCAL",
+          "2",
+          "31",
+          "23",
+          "8",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "147",
+          "13,994",
+          "7,132",
+          "6,862",
+          "802"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: CALVILLO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRANCA DE PORTALES",
+          "2",
+          "48",
+          "26",
+          "22",
+          "3"
+        ],
+        [
+          "CALVILLO",
+          "27",
+          "6,729",
+          "3,503",
+          "3,226",
+          "410"
+        ],
+        [
+          "CERRO BLANCO",
+          "3",
+          "8",
+          "2",
+          "6",
+          "2"
+        ],
+        [
+          "CHIQUIHUITERO (SAN ISIDRO)",
+          "4",
+          "425",
+          "220",
+          "205",
+          "19"
+        ],
+        [
+          "COLOMOS",
+          "2",
+          "64",
+          "35",
+          "29",
+          "4"
+        ],
+        [
+          "CRUCERO LAS PILAS",
+          "3",
+          "267",
+          "123",
+          "144",
+          "11"
+        ],
+        [
+          "EL CUERVERO (CUERVEROS)",
+          "4",
+          "486",
+          "249",
+          "237",
+          "21"
+        ],
+        [
+          "EL MAGUEY",
+          "3",
+          "34",
+          "20",
+          "14",
+          "3"
+        ],
+        [
+          "EL MORANCILLO (LOS ARCOS)",
+          "1",
+          "45",
+          "27",
+          "18",
+          "2"
+        ],
+        [
+          "EL RODEO",
+          "2",
+          "105",
+          "57",
+          "48",
+          "4"
+        ],
+        [
+          "EL SALITRE",
+          "5",
+          "654",
+          "359",
+          "295",
+          "41"
+        ],
+        [
+          "EL SAUZ",
+          "2",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "EL SAUZ DE LA LABOR",
+          "2",
+          "15",
+          "5",
+          "10",
+          "2"
+        ],
+        [
+          "EL TEPETATE DE ABAJO",
+          "2",
+          "7",
+          "4",
+          "3",
+          "2"
+        ],
+        [
+          "EL TERRERO DE LA LABOR",
+          "3",
+          "69",
+          "30",
+          "39",
+          "4"
+        ],
+        [
+          "EL TERRERO DEL REFUGIO",
+          "2",
+          "29",
+          "17",
+          "12",
+          "2"
+        ],
+        [
+          "EL ZAPOTE DE LA LABOR",
+          "3",
+          "31",
+          "18",
+          "13",
+          "3"
+        ],
+        [
+          "JALTICHE DE ABAJO",
+          "3",
+          "48",
+          "26",
+          "22",
+          "3"
+        ],
+        [
+          "JALTICHE DE ARRIBA",
+          "3",
+          "174",
+          "83",
+          "91",
+          "8"
+        ],
+        [
+          "JARDINES DE SAN ISIDRO (COLONIA LIMÓN)",
+          "1",
+          "81",
+          "35",
+          "46",
+          "3"
+        ],
+        [
+          "LA FRAGUA",
+          "2",
+          "26",
+          "13",
+          "13",
+          "3"
+        ],
+        [
+          "LA LABOR",
+          "4",
+          "589",
+          "294",
+          "295",
+          "36"
+        ],
+        [
+          "LA MEDIA LUNA",
+          "2",
+          "81",
+          "37",
+          "44",
+          "4"
+        ],
+        [
+          "LA PANADERA",
+          "5",
+          "357",
+          "160",
+          "197",
+          "16"
+        ],
+        [
+          "LA RINCONADA",
+          "4",
+          "131",
+          "65",
+          "66",
+          "7"
+        ],
+        [
+          "LA TERESA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LAS ÁNIMAS",
+          "2",
+          "59",
+          "27",
+          "32",
+          "3"
+        ],
+        [
+          "LAS TINAJAS",
+          "2",
+          "23",
+          "13",
+          "10",
+          "2"
+        ],
+        [
+          "LOS MUÑOZ",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "LOS PATOS",
+          "4",
+          "168",
+          "90",
+          "78",
+          "9"
+        ],
+        [
+          "MALPASO",
+          "3",
+          "251",
+          "118",
+          "133",
+          "22"
+        ],
+        [
+          "MESA DEL MÁRQUEZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "MESA DEL ROBLE",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MESA GRANDE",
+          "4",
+          "341",
+          "171",
+          "170",
+          "16"
+        ],
+        [
+          "OJO DE AGUA",
+          "4",
+          "240",
+          "123",
+          "117",
+          "18"
+        ],
+        [
+          "OJOCALIENTE",
+          "11",
+          "1,628",
+          "797",
+          "831",
+          "76"
+        ],
+        [
+          "PIEDRAS CHINAS",
+          "2",
+          "19",
+          "5",
+          "14",
+          "2"
+        ],
+        [
+          "POTRERO DE LOS LÓPEZ",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "PRESA DE LOS SERNA",
+          "3",
+          "113",
+          "59",
+          "54",
+          "6"
+        ],
+        [
+          "PUERTA DE FRAGUA (PRESA LA CODORNIZ)",
+          "2",
+          "40",
+          "21",
+          "19",
+          "2"
+        ],
+        [
+          "SAN TADEO",
+          "5",
+          "478",
+          "229",
+          "249",
+          "20"
+        ],
+        [
+          "SOLIDARIDAD [FRACCIONAMIENTO]",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "TEMAZCAL",
+          "2",
+          "31",
+          "23",
+          "8",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "147",
+          "13,994",
+          "7,132",
+          "6,862",
+          "802"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:50.603Z"
+}

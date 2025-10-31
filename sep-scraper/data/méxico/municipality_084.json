@@ -1,0 +1,450 @@
+{
+  "municipality": "TEMASCALAPA",
+  "municipalityCode": "084",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMASCALAPA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA ÁLVARO OBREGÓN\n\t\t3\n\t\t31\n\t\t11\n\t\t20\n\t\t4\n\t\n\t\n\t\tCOLONIA SAN LUIS\n\t\t2\n\t\t41\n\t\t22\n\t\t19\n\t\t9\n\t\n\t\n\t\tEX HACIENDA DE PAULA [CONJUNTO URBANO]\n\t\t2\n\t\t169\n\t\t94\n\t\t75\n\t\t14\n\t\n\t\n\t\tIXTLAHUACA DE CUAUHTÉMOC\n\t\t5\n\t\t1,067\n\t\t547\n\t\t520\n\t\t55\n\t\n\t\n\t\tLAS PINTAS\n\t\t4\n\t\t455\n\t\t204\n\t\t251\n\t\t21\n\t\n\t\n\t\tPRESA DEL REY\n\t\t4\n\t\t236\n\t\t113\n\t\t123\n\t\t12\n\t\n\t\n\t\tRANCHO MIHUACÁN\n\t\t2\n\t\t59\n\t\t32\n\t\t27\n\t\t4\n\t\n\t\n\t\tSAN BARTOLOMÉ ACTOPAN\n\t\t6\n\t\t853\n\t\t422\n\t\t431\n\t\t40\n\t\n\t\n\t\tSAN CRISTÓBAL COLHUACÁN\n\t\t4\n\t\t235\n\t\t95\n\t\t140\n\t\t14\n\t\n\t\n\t\tSAN JUAN TEACALCO\n\t\t5\n\t\t945\n\t\t454\n\t\t491\n\t\t51\n\t\n\t\n\t\tSAN LUIS TECUAUTITLÁN\n\t\t6\n\t\t1,464\n\t\t755\n\t\t709\n\t\t85\n\t\n\t\n\t\tSAN MATEO TEOPANCALA\n\t\t3\n\t\t313\n\t\t156\n\t\t157\n\t\t12\n\t\n\t\n\t\tSAN MIGUEL ATLAMAJAC\n\t\t4\n\t\t598\n\t\t277\n\t\t321\n\t\t21\n\t\n\t\n\t\tSANTA ANA TLACHIHUALPA\n\t\t7\n\t\t1,492\n\t\t744\n\t\t748\n\t\t59\n\t\n\t\n\t\tSANTA MARÍA MAQUIXCO (EL ALTO)\n\t\t3\n\t\t141\n\t\t75\n\t\t66\n\t\t10\n\t\n\t\n\t\tTEMASCALAPA\n\t\t10\n\t\t2,256\n\t\t1,181\n\t\t1,075\n\t\t184\n\t\n\t\n\t\tTOTAL\n\t\t70\n\t\t10,355\n\t\t5,182\n\t\t5,173\n\t\t595\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMASCALAPA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "31",
+          "11",
+          "20",
+          "4",
+          "COLONIA SAN LUIS",
+          "2",
+          "41",
+          "22",
+          "19",
+          "9",
+          "EX HACIENDA DE PAULA [CONJUNTO URBANO]",
+          "2",
+          "169",
+          "94",
+          "75",
+          "14",
+          "IXTLAHUACA DE CUAUHTÉMOC",
+          "5",
+          "1,067",
+          "547",
+          "520",
+          "55",
+          "LAS PINTAS",
+          "4",
+          "455",
+          "204",
+          "251",
+          "21",
+          "PRESA DEL REY",
+          "4",
+          "236",
+          "113",
+          "123",
+          "12",
+          "RANCHO MIHUACÁN",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4",
+          "SAN BARTOLOMÉ ACTOPAN",
+          "6",
+          "853",
+          "422",
+          "431",
+          "40",
+          "SAN CRISTÓBAL COLHUACÁN",
+          "4",
+          "235",
+          "95",
+          "140",
+          "14",
+          "SAN JUAN TEACALCO",
+          "5",
+          "945",
+          "454",
+          "491",
+          "51",
+          "SAN LUIS TECUAUTITLÁN",
+          "6",
+          "1,464",
+          "755",
+          "709",
+          "85",
+          "SAN MATEO TEOPANCALA",
+          "3",
+          "313",
+          "156",
+          "157",
+          "12",
+          "SAN MIGUEL ATLAMAJAC",
+          "4",
+          "598",
+          "277",
+          "321",
+          "21",
+          "SANTA ANA TLACHIHUALPA",
+          "7",
+          "1,492",
+          "744",
+          "748",
+          "59",
+          "SANTA MARÍA MAQUIXCO (EL ALTO)",
+          "3",
+          "141",
+          "75",
+          "66",
+          "10",
+          "TEMASCALAPA",
+          "10",
+          "2,256",
+          "1,181",
+          "1,075",
+          "184",
+          "TOTAL",
+          "70",
+          "10,355",
+          "5,182",
+          "5,173",
+          "595",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMASCALAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "31",
+          "11",
+          "20",
+          "4"
+        ],
+        [
+          "COLONIA SAN LUIS",
+          "2",
+          "41",
+          "22",
+          "19",
+          "9"
+        ],
+        [
+          "EX HACIENDA DE PAULA [CONJUNTO URBANO]",
+          "2",
+          "169",
+          "94",
+          "75",
+          "14"
+        ],
+        [
+          "IXTLAHUACA DE CUAUHTÉMOC",
+          "5",
+          "1,067",
+          "547",
+          "520",
+          "55"
+        ],
+        [
+          "LAS PINTAS",
+          "4",
+          "455",
+          "204",
+          "251",
+          "21"
+        ],
+        [
+          "PRESA DEL REY",
+          "4",
+          "236",
+          "113",
+          "123",
+          "12"
+        ],
+        [
+          "RANCHO MIHUACÁN",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4"
+        ],
+        [
+          "SAN BARTOLOMÉ ACTOPAN",
+          "6",
+          "853",
+          "422",
+          "431",
+          "40"
+        ],
+        [
+          "SAN CRISTÓBAL COLHUACÁN",
+          "4",
+          "235",
+          "95",
+          "140",
+          "14"
+        ],
+        [
+          "SAN JUAN TEACALCO",
+          "5",
+          "945",
+          "454",
+          "491",
+          "51"
+        ],
+        [
+          "SAN LUIS TECUAUTITLÁN",
+          "6",
+          "1,464",
+          "755",
+          "709",
+          "85"
+        ],
+        [
+          "SAN MATEO TEOPANCALA",
+          "3",
+          "313",
+          "156",
+          "157",
+          "12"
+        ],
+        [
+          "SAN MIGUEL ATLAMAJAC",
+          "4",
+          "598",
+          "277",
+          "321",
+          "21"
+        ],
+        [
+          "SANTA ANA TLACHIHUALPA",
+          "7",
+          "1,492",
+          "744",
+          "748",
+          "59"
+        ],
+        [
+          "SANTA MARÍA MAQUIXCO (EL ALTO)",
+          "3",
+          "141",
+          "75",
+          "66",
+          "10"
+        ],
+        [
+          "TEMASCALAPA",
+          "10",
+          "2,256",
+          "1,181",
+          "1,075",
+          "184"
+        ],
+        [
+          "TOTAL",
+          "70",
+          "10,355",
+          "5,182",
+          "5,173",
+          "595"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMASCALAPA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA ÁLVARO OBREGÓN",
+          "3",
+          "31",
+          "11",
+          "20",
+          "4"
+        ],
+        [
+          "COLONIA SAN LUIS",
+          "2",
+          "41",
+          "22",
+          "19",
+          "9"
+        ],
+        [
+          "EX HACIENDA DE PAULA [CONJUNTO URBANO]",
+          "2",
+          "169",
+          "94",
+          "75",
+          "14"
+        ],
+        [
+          "IXTLAHUACA DE CUAUHTÉMOC",
+          "5",
+          "1,067",
+          "547",
+          "520",
+          "55"
+        ],
+        [
+          "LAS PINTAS",
+          "4",
+          "455",
+          "204",
+          "251",
+          "21"
+        ],
+        [
+          "PRESA DEL REY",
+          "4",
+          "236",
+          "113",
+          "123",
+          "12"
+        ],
+        [
+          "RANCHO MIHUACÁN",
+          "2",
+          "59",
+          "32",
+          "27",
+          "4"
+        ],
+        [
+          "SAN BARTOLOMÉ ACTOPAN",
+          "6",
+          "853",
+          "422",
+          "431",
+          "40"
+        ],
+        [
+          "SAN CRISTÓBAL COLHUACÁN",
+          "4",
+          "235",
+          "95",
+          "140",
+          "14"
+        ],
+        [
+          "SAN JUAN TEACALCO",
+          "5",
+          "945",
+          "454",
+          "491",
+          "51"
+        ],
+        [
+          "SAN LUIS TECUAUTITLÁN",
+          "6",
+          "1,464",
+          "755",
+          "709",
+          "85"
+        ],
+        [
+          "SAN MATEO TEOPANCALA",
+          "3",
+          "313",
+          "156",
+          "157",
+          "12"
+        ],
+        [
+          "SAN MIGUEL ATLAMAJAC",
+          "4",
+          "598",
+          "277",
+          "321",
+          "21"
+        ],
+        [
+          "SANTA ANA TLACHIHUALPA",
+          "7",
+          "1,492",
+          "744",
+          "748",
+          "59"
+        ],
+        [
+          "SANTA MARÍA MAQUIXCO (EL ALTO)",
+          "3",
+          "141",
+          "75",
+          "66",
+          "10"
+        ],
+        [
+          "TEMASCALAPA",
+          "10",
+          "2,256",
+          "1,181",
+          "1,075",
+          "184"
+        ],
+        [
+          "TOTAL",
+          "70",
+          "10,355",
+          "5,182",
+          "5,173",
+          "595"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:19.780Z"
+}

@@ -1,0 +1,1396 @@
+{
+  "municipality": "CADEREYTA JIMÉNEZ",
+  "municipalityCode": "009",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CADEREYTA JIMÉNEZ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN SAN JUAN\n\t\t2\n\t\t23\n\t\t10\n\t\t13\n\t\t2\n\t\n\t\n\t\tATONGO DE ABAJO\n\t\t3\n\t\t395\n\t\t212\n\t\t183\n\t\t22\n\t\n\t\n\t\tCADEREYTA\n\t\t2\n\t\t687\n\t\t274\n\t\t413\n\t\t102\n\t\n\t\n\t\tCADEREYTA JIMÉNEZ\n\t\t135\n\t\t22,195\n\t\t10,810\n\t\t11,385\n\t\t1,411\n\t\n\t\n\t\tCAÑITAS\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tCASAS VIEJAS (LA FLORIDA)\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tCHIHUAHUA\n\t\t3\n\t\t37\n\t\t17\n\t\t20\n\t\t4\n\t\n\t\n\t\tCIENEGUITA DEL RÍO\n\t\t2\n\t\t48\n\t\t22\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL BARCO\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL BARRANQUITO\n\t\t3\n\t\t75\n\t\t34\n\t\t41\n\t\t6\n\t\n\t\n\t\tEL CASTILLO\n\t\t1\n\t\t10\n\t\t6\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL EBANAL\n\t\t2\n\t\t58\n\t\t29\n\t\t29\n\t\t4\n\t\n\t\n\t\tEL MEZCAL\n\t\t2\n\t\t68\n\t\t43\n\t\t25\n\t\t5\n\t\n\t\n\t\tEL REFUGIO\n\t\t1\n\t\t10\n\t\t7\n\t\t3\n\t\t1\n\t\n\t\n\t\tEL REFUGIO (EL NOPALITO)\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tEL TORDILLO\n\t\t2\n\t\t224\n\t\t94\n\t\t130\n\t\t8\n\t\n\t\n\t\tFRACCIONAMIENTO CAMPESTRE LA COLMENA\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t3\n\t\n\t\n\t\tGENERAL TREVIÑO (ESCONDIDA)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tHACIENDA LAS TRANCAS\n\t\t3\n\t\t39\n\t\t22\n\t\t17\n\t\t4\n\t\n\t\n\t\tHIDALGO (LA PRESA)\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA CHUECA\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t58\n\t\t21\n\t\t37\n\t\t5\n\t\n\t\n\t\tLA PRESA (LA PRESITA)\n\t\t1\n\t\t8\n\t\t4\n\t\t4\n\t\t1\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t2\n\t\t27\n\t\t13\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA TRINIDAD\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA UNIÓN\n\t\t5\n\t\t154\n\t\t79\n\t\t75\n\t\t13\n\t\n\t\n\t\tLAJITAS DE ARRIBA\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t2\n\t\n\t\n\t\tLAS ABRAS DE ABAJO\n\t\t2\n\t\t33\n\t\t15\n\t\t18\n\t\t3\n\t\n\t\n\t\tLAS ADJUNTAS\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tLAS LAJITAS\n\t\t1\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tLAS PALOMITAS (LA FRAGUA)\n\t\t2\n\t\t9\n\t\t4\n\t\t5\n\t\t2\n\t\n\t\n\t\tLAS SABINAS\n\t\t2\n\t\t21\n\t\t10\n\t\t11\n\t\t2\n\t\n\t\n\t\tLOMA BONITA\n\t\t1\n\t\t9\n\t\t5\n\t\t4\n\t\t1\n\t\n\t\n\t\tLOS CERRITOS\n\t\t2\n\t\t29\n\t\t16\n\t\t13\n\t\t2\n\t\n\t\n\t\tLOS COCUYOS\n\t\t2\n\t\t57\n\t\t22\n\t\t35\n\t\t4\n\t\n\t\n\t\tNINGUNO\n\t\t8\n\t\t519\n\t\t262\n\t\t257\n\t\t31\n\t\n\t\n\t\tPALMITOS\n\t\t3\n\t\t137\n\t\t67\n\t\t70\n\t\t13\n\t\n\t\n\t\tPALMITOS (HACIENDA PALMITOS)\n\t\t2\n\t\t229\n\t\t115\n\t\t114\n\t\t13\n\t\n\t\n\t\tPUEBLO NUEVO (TEPEHUAJE)\n\t\t1\n\t\t35\n\t\t12\n\t\t23\n\t\t2\n\t\n\t\n\t\tRANCHO VIEJO\n\t\t2\n\t\t46\n\t\t19\n\t\t27\n\t\t4\n\t\n\t\n\t\tRICARDO GONZÁLEZ RODRÍGUEZ\n\t\t3\n\t\t445\n\t\t275\n\t\t170\n\t\t68\n\t\n\t\n\t\tSAN DIEGO Y MOLINO VIEJO\n\t\t2\n\t\t29\n\t\t13\n\t\t16\n\t\t3\n\t\n\t\n\t\tSAN FELIPE\n\t\t2\n\t\t21\n\t\t9\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN JUAN DE LOS GARZA (SAN JUANITO)\n\t\t1\n\t\t19\n\t\t10\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN LORENZO\n\t\t2\n\t\t49\n\t\t24\n\t\t25\n\t\t4\n\t\n\t\n\t\tSAN MIGUELITO\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN RAFAEL\n\t\t2\n\t\t23\n\t\t9\n\t\t14\n\t\t2\n\t\n\t\n\t\tSANTA EFIGENIA\n\t\t1\n\t\t69\n\t\t31\n\t\t38\n\t\t7\n\t\n\t\n\t\tSANTA EFIGENIA (CAMPESTRE)\n\t\t2\n\t\t23\n\t\t11\n\t\t12\n\t\t2\n\t\n\t\n\t\tSANTA FE\n\t\t2\n\t\t22\n\t\t11\n\t\t11\n\t\t3\n\t\n\t\n\t\tSANTA ISABEL\n\t\t2\n\t\t33\n\t\t16\n\t\t17\n\t\t3\n\t\n\t\n\t\tSANTA ISABEL Y DOLORES\n\t\t3\n\t\t202\n\t\t127\n\t\t75\n\t\t11\n\t\n\t\n\t\tSOLEDAD HERRERA\n\t\t2\n\t\t60\n\t\t28\n\t\t32\n\t\t5\n\t\n\t\n\t\tTEPEHUAJE\n\t\t1\n\t\t62\n\t\t38\n\t\t24\n\t\t5\n\t\n\t\n\t\tTRANCAS Y SABARADO\n\t\t2\n\t\t60\n\t\t31\n\t\t29\n\t\t6\n\t\n\t\n\t\tVALLE DEL ROBLE\n\t\t12\n\t\t6,565\n\t\t3,276\n\t\t3,289\n\t\t212\n\t\n\t\n\t\tVALLE HIDALGO (EL QUEMADO)\n\t\t3\n\t\t121\n\t\t61\n\t\t60\n\t\t10\n\t\n\t\n\t\tVAQUEROS [ESTACIÓN]\n\t\t3\n\t\t41\n\t\t14\n\t\t27\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t264\n\t\t33,316\n\t\t16,341\n\t\t16,975\n\t\t2,047\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CADEREYTA JIMÉNEZ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN SAN JUAN",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2",
+          "ATONGO DE ABAJO",
+          "3",
+          "395",
+          "212",
+          "183",
+          "22",
+          "CADEREYTA",
+          "2",
+          "687",
+          "274",
+          "413",
+          "102",
+          "CADEREYTA JIMÉNEZ",
+          "135",
+          "22,195",
+          "10,810",
+          "11,385",
+          "1,411",
+          "CAÑITAS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "CASAS VIEJAS (LA FLORIDA)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3",
+          "CHIHUAHUA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "4",
+          "CIENEGUITA DEL RÍO",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3",
+          "EL BARCO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "EL BARRANQUITO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "6",
+          "EL CASTILLO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1",
+          "EL EBANAL",
+          "2",
+          "58",
+          "29",
+          "29",
+          "4",
+          "EL MEZCAL",
+          "2",
+          "68",
+          "43",
+          "25",
+          "5",
+          "EL REFUGIO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1",
+          "EL REFUGIO (EL NOPALITO)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3",
+          "EL TORDILLO",
+          "2",
+          "224",
+          "94",
+          "130",
+          "8",
+          "FRACCIONAMIENTO CAMPESTRE LA COLMENA",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3",
+          "GENERAL TREVIÑO (ESCONDIDA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "HACIENDA LAS TRANCAS",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4",
+          "HIDALGO (LA PRESA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LA CHUECA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "LA ESPERANZA",
+          "2",
+          "58",
+          "21",
+          "37",
+          "5",
+          "LA PRESA (LA PRESITA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1",
+          "LA PURÍSIMA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3",
+          "LA TRINIDAD",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3",
+          "LA UNIÓN",
+          "5",
+          "154",
+          "79",
+          "75",
+          "13",
+          "LAJITAS DE ARRIBA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2",
+          "LAS ABRAS DE ABAJO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3",
+          "LAS ADJUNTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "LAS LAJITAS",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2",
+          "LAS PALOMITAS (LA FRAGUA)",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2",
+          "LAS SABINAS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2",
+          "LOMA BONITA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1",
+          "LOS CERRITOS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2",
+          "LOS COCUYOS",
+          "2",
+          "57",
+          "22",
+          "35",
+          "4",
+          "NINGUNO",
+          "8",
+          "519",
+          "262",
+          "257",
+          "31",
+          "PALMITOS",
+          "3",
+          "137",
+          "67",
+          "70",
+          "13",
+          "PALMITOS (HACIENDA PALMITOS)",
+          "2",
+          "229",
+          "115",
+          "114",
+          "13",
+          "PUEBLO NUEVO (TEPEHUAJE)",
+          "1",
+          "35",
+          "12",
+          "23",
+          "2",
+          "RANCHO VIEJO",
+          "2",
+          "46",
+          "19",
+          "27",
+          "4",
+          "RICARDO GONZÁLEZ RODRÍGUEZ",
+          "3",
+          "445",
+          "275",
+          "170",
+          "68",
+          "SAN DIEGO Y MOLINO VIEJO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3",
+          "SAN FELIPE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2",
+          "SAN ISIDRO",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2",
+          "SAN JUAN DE LOS GARZA (SAN JUANITO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2",
+          "SAN LORENZO",
+          "2",
+          "49",
+          "24",
+          "25",
+          "4",
+          "SAN MIGUELITO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "SAN RAFAEL",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2",
+          "SANTA EFIGENIA",
+          "1",
+          "69",
+          "31",
+          "38",
+          "7",
+          "SANTA EFIGENIA (CAMPESTRE)",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2",
+          "SANTA FE",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3",
+          "SANTA ISABEL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3",
+          "SANTA ISABEL Y DOLORES",
+          "3",
+          "202",
+          "127",
+          "75",
+          "11",
+          "SOLEDAD HERRERA",
+          "2",
+          "60",
+          "28",
+          "32",
+          "5",
+          "TEPEHUAJE",
+          "1",
+          "62",
+          "38",
+          "24",
+          "5",
+          "TRANCAS Y SABARADO",
+          "2",
+          "60",
+          "31",
+          "29",
+          "6",
+          "VALLE DEL ROBLE",
+          "12",
+          "6,565",
+          "3,276",
+          "3,289",
+          "212",
+          "VALLE HIDALGO (EL QUEMADO)",
+          "3",
+          "121",
+          "61",
+          "60",
+          "10",
+          "VAQUEROS [ESTACIÓN]",
+          "3",
+          "41",
+          "14",
+          "27",
+          "4",
+          "TOTAL",
+          "264",
+          "33,316",
+          "16,341",
+          "16,975",
+          "2,047",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CADEREYTA JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN SAN JUAN",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "ATONGO DE ABAJO",
+          "3",
+          "395",
+          "212",
+          "183",
+          "22"
+        ],
+        [
+          "CADEREYTA",
+          "2",
+          "687",
+          "274",
+          "413",
+          "102"
+        ],
+        [
+          "CADEREYTA JIMÉNEZ",
+          "135",
+          "22,195",
+          "10,810",
+          "11,385",
+          "1,411"
+        ],
+        [
+          "CAÑITAS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CASAS VIEJAS (LA FLORIDA)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "CHIHUAHUA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "4"
+        ],
+        [
+          "CIENEGUITA DEL RÍO",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3"
+        ],
+        [
+          "EL BARCO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "EL BARRANQUITO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "6"
+        ],
+        [
+          "EL CASTILLO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "EL EBANAL",
+          "2",
+          "58",
+          "29",
+          "29",
+          "4"
+        ],
+        [
+          "EL MEZCAL",
+          "2",
+          "68",
+          "43",
+          "25",
+          "5"
+        ],
+        [
+          "EL REFUGIO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL NOPALITO)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "EL TORDILLO",
+          "2",
+          "224",
+          "94",
+          "130",
+          "8"
+        ],
+        [
+          "FRACCIONAMIENTO CAMPESTRE LA COLMENA",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "GENERAL TREVIÑO (ESCONDIDA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "HACIENDA LAS TRANCAS",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4"
+        ],
+        [
+          "HIDALGO (LA PRESA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA CHUECA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "58",
+          "21",
+          "37",
+          "5"
+        ],
+        [
+          "LA PRESA (LA PRESITA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "5",
+          "154",
+          "79",
+          "75",
+          "13"
+        ],
+        [
+          "LAJITAS DE ARRIBA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LAS ABRAS DE ABAJO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "LAS LAJITAS",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LAS PALOMITAS (LA FRAGUA)",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "LAS SABINAS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "LOS COCUYOS",
+          "2",
+          "57",
+          "22",
+          "35",
+          "4"
+        ],
+        [
+          "NINGUNO",
+          "8",
+          "519",
+          "262",
+          "257",
+          "31"
+        ],
+        [
+          "PALMITOS",
+          "3",
+          "137",
+          "67",
+          "70",
+          "13"
+        ],
+        [
+          "PALMITOS (HACIENDA PALMITOS)",
+          "2",
+          "229",
+          "115",
+          "114",
+          "13"
+        ],
+        [
+          "PUEBLO NUEVO (TEPEHUAJE)",
+          "1",
+          "35",
+          "12",
+          "23",
+          "2"
+        ],
+        [
+          "RANCHO VIEJO",
+          "2",
+          "46",
+          "19",
+          "27",
+          "4"
+        ],
+        [
+          "RICARDO GONZÁLEZ RODRÍGUEZ",
+          "3",
+          "445",
+          "275",
+          "170",
+          "68"
+        ],
+        [
+          "SAN DIEGO Y MOLINO VIEJO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "SAN FELIPE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JUAN DE LOS GARZA (SAN JUANITO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA EFIGENIA",
+          "1",
+          "69",
+          "31",
+          "38",
+          "7"
+        ],
+        [
+          "SANTA EFIGENIA (CAMPESTRE)",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3"
+        ],
+        [
+          "SANTA ISABEL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "SANTA ISABEL Y DOLORES",
+          "3",
+          "202",
+          "127",
+          "75",
+          "11"
+        ],
+        [
+          "SOLEDAD HERRERA",
+          "2",
+          "60",
+          "28",
+          "32",
+          "5"
+        ],
+        [
+          "TEPEHUAJE",
+          "1",
+          "62",
+          "38",
+          "24",
+          "5"
+        ],
+        [
+          "TRANCAS Y SABARADO",
+          "2",
+          "60",
+          "31",
+          "29",
+          "6"
+        ],
+        [
+          "VALLE DEL ROBLE",
+          "12",
+          "6,565",
+          "3,276",
+          "3,289",
+          "212"
+        ],
+        [
+          "VALLE HIDALGO (EL QUEMADO)",
+          "3",
+          "121",
+          "61",
+          "60",
+          "10"
+        ],
+        [
+          "VAQUEROS [ESTACIÓN]",
+          "3",
+          "41",
+          "14",
+          "27",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "264",
+          "33,316",
+          "16,341",
+          "16,975",
+          "2,047"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CADEREYTA JIMÉNEZ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN SAN JUAN",
+          "2",
+          "23",
+          "10",
+          "13",
+          "2"
+        ],
+        [
+          "ATONGO DE ABAJO",
+          "3",
+          "395",
+          "212",
+          "183",
+          "22"
+        ],
+        [
+          "CADEREYTA",
+          "2",
+          "687",
+          "274",
+          "413",
+          "102"
+        ],
+        [
+          "CADEREYTA JIMÉNEZ",
+          "135",
+          "22,195",
+          "10,810",
+          "11,385",
+          "1,411"
+        ],
+        [
+          "CAÑITAS",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "CASAS VIEJAS (LA FLORIDA)",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "CHIHUAHUA",
+          "3",
+          "37",
+          "17",
+          "20",
+          "4"
+        ],
+        [
+          "CIENEGUITA DEL RÍO",
+          "2",
+          "48",
+          "22",
+          "26",
+          "3"
+        ],
+        [
+          "EL BARCO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "EL BARRANQUITO",
+          "3",
+          "75",
+          "34",
+          "41",
+          "6"
+        ],
+        [
+          "EL CASTILLO",
+          "1",
+          "10",
+          "6",
+          "4",
+          "1"
+        ],
+        [
+          "EL EBANAL",
+          "2",
+          "58",
+          "29",
+          "29",
+          "4"
+        ],
+        [
+          "EL MEZCAL",
+          "2",
+          "68",
+          "43",
+          "25",
+          "5"
+        ],
+        [
+          "EL REFUGIO",
+          "1",
+          "10",
+          "7",
+          "3",
+          "1"
+        ],
+        [
+          "EL REFUGIO (EL NOPALITO)",
+          "2",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "EL TORDILLO",
+          "2",
+          "224",
+          "94",
+          "130",
+          "8"
+        ],
+        [
+          "FRACCIONAMIENTO CAMPESTRE LA COLMENA",
+          "2",
+          "29",
+          "16",
+          "13",
+          "3"
+        ],
+        [
+          "GENERAL TREVIÑO (ESCONDIDA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "HACIENDA LAS TRANCAS",
+          "3",
+          "39",
+          "22",
+          "17",
+          "4"
+        ],
+        [
+          "HIDALGO (LA PRESA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA CHUECA",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "58",
+          "21",
+          "37",
+          "5"
+        ],
+        [
+          "LA PRESA (LA PRESITA)",
+          "1",
+          "8",
+          "4",
+          "4",
+          "1"
+        ],
+        [
+          "LA PURÍSIMA",
+          "2",
+          "27",
+          "13",
+          "14",
+          "3"
+        ],
+        [
+          "LA TRINIDAD",
+          "2",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "LA UNIÓN",
+          "5",
+          "154",
+          "79",
+          "75",
+          "13"
+        ],
+        [
+          "LAJITAS DE ARRIBA",
+          "2",
+          "14",
+          "7",
+          "7",
+          "2"
+        ],
+        [
+          "LAS ABRAS DE ABAJO",
+          "2",
+          "33",
+          "15",
+          "18",
+          "3"
+        ],
+        [
+          "LAS ADJUNTAS",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "LAS LAJITAS",
+          "1",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "LAS PALOMITAS (LA FRAGUA)",
+          "2",
+          "9",
+          "4",
+          "5",
+          "2"
+        ],
+        [
+          "LAS SABINAS",
+          "2",
+          "21",
+          "10",
+          "11",
+          "2"
+        ],
+        [
+          "LOMA BONITA",
+          "1",
+          "9",
+          "5",
+          "4",
+          "1"
+        ],
+        [
+          "LOS CERRITOS",
+          "2",
+          "29",
+          "16",
+          "13",
+          "2"
+        ],
+        [
+          "LOS COCUYOS",
+          "2",
+          "57",
+          "22",
+          "35",
+          "4"
+        ],
+        [
+          "NINGUNO",
+          "8",
+          "519",
+          "262",
+          "257",
+          "31"
+        ],
+        [
+          "PALMITOS",
+          "3",
+          "137",
+          "67",
+          "70",
+          "13"
+        ],
+        [
+          "PALMITOS (HACIENDA PALMITOS)",
+          "2",
+          "229",
+          "115",
+          "114",
+          "13"
+        ],
+        [
+          "PUEBLO NUEVO (TEPEHUAJE)",
+          "1",
+          "35",
+          "12",
+          "23",
+          "2"
+        ],
+        [
+          "RANCHO VIEJO",
+          "2",
+          "46",
+          "19",
+          "27",
+          "4"
+        ],
+        [
+          "RICARDO GONZÁLEZ RODRÍGUEZ",
+          "3",
+          "445",
+          "275",
+          "170",
+          "68"
+        ],
+        [
+          "SAN DIEGO Y MOLINO VIEJO",
+          "2",
+          "29",
+          "13",
+          "16",
+          "3"
+        ],
+        [
+          "SAN FELIPE",
+          "2",
+          "21",
+          "9",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "17",
+          "12",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JUAN DE LOS GARZA (SAN JUANITO)",
+          "1",
+          "19",
+          "10",
+          "9",
+          "2"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "49",
+          "24",
+          "25",
+          "4"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "SAN RAFAEL",
+          "2",
+          "23",
+          "9",
+          "14",
+          "2"
+        ],
+        [
+          "SANTA EFIGENIA",
+          "1",
+          "69",
+          "31",
+          "38",
+          "7"
+        ],
+        [
+          "SANTA EFIGENIA (CAMPESTRE)",
+          "2",
+          "23",
+          "11",
+          "12",
+          "2"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "22",
+          "11",
+          "11",
+          "3"
+        ],
+        [
+          "SANTA ISABEL",
+          "2",
+          "33",
+          "16",
+          "17",
+          "3"
+        ],
+        [
+          "SANTA ISABEL Y DOLORES",
+          "3",
+          "202",
+          "127",
+          "75",
+          "11"
+        ],
+        [
+          "SOLEDAD HERRERA",
+          "2",
+          "60",
+          "28",
+          "32",
+          "5"
+        ],
+        [
+          "TEPEHUAJE",
+          "1",
+          "62",
+          "38",
+          "24",
+          "5"
+        ],
+        [
+          "TRANCAS Y SABARADO",
+          "2",
+          "60",
+          "31",
+          "29",
+          "6"
+        ],
+        [
+          "VALLE DEL ROBLE",
+          "12",
+          "6,565",
+          "3,276",
+          "3,289",
+          "212"
+        ],
+        [
+          "VALLE HIDALGO (EL QUEMADO)",
+          "3",
+          "121",
+          "61",
+          "60",
+          "10"
+        ],
+        [
+          "VAQUEROS [ESTACIÓN]",
+          "3",
+          "41",
+          "14",
+          "27",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "264",
+          "33,316",
+          "16,341",
+          "16,975",
+          "2,047"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:24.981Z"
+}

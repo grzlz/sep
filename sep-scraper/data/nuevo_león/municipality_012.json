@@ -1,0 +1,186 @@
+{
+  "municipality": "CIÉNEGA DE FLORES",
+  "municipalityCode": "012",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CIÉNEGA DE FLORES\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCIÉNEGA DE FLORES\n\t\t77\n\t\t23,324\n\t\t11,340\n\t\t11,984\n\t\t897\n\t\n\t\n\t\tLOS HÉROES MONTERREY\n\t\t2\n\t\t407\n\t\t195\n\t\t212\n\t\t19\n\t\n\t\n\t\tPORTAL DE LAS SALINAS\n\t\t2\n\t\t203\n\t\t89\n\t\t114\n\t\t8\n\t\n\t\n\t\tVILLAS CAMPESTRES\n\t\t3\n\t\t48\n\t\t20\n\t\t28\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t84\n\t\t23,982\n\t\t11,644\n\t\t12,338\n\t\t928\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CIÉNEGA DE FLORES",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CIÉNEGA DE FLORES",
+          "77",
+          "23,324",
+          "11,340",
+          "11,984",
+          "897",
+          "LOS HÉROES MONTERREY",
+          "2",
+          "407",
+          "195",
+          "212",
+          "19",
+          "PORTAL DE LAS SALINAS",
+          "2",
+          "203",
+          "89",
+          "114",
+          "8",
+          "VILLAS CAMPESTRES",
+          "3",
+          "48",
+          "20",
+          "28",
+          "4",
+          "TOTAL",
+          "84",
+          "23,982",
+          "11,644",
+          "12,338",
+          "928",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CIÉNEGA DE FLORES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CIÉNEGA DE FLORES",
+          "77",
+          "23,324",
+          "11,340",
+          "11,984",
+          "897"
+        ],
+        [
+          "LOS HÉROES MONTERREY",
+          "2",
+          "407",
+          "195",
+          "212",
+          "19"
+        ],
+        [
+          "PORTAL DE LAS SALINAS",
+          "2",
+          "203",
+          "89",
+          "114",
+          "8"
+        ],
+        [
+          "VILLAS CAMPESTRES",
+          "3",
+          "48",
+          "20",
+          "28",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "23,982",
+          "11,644",
+          "12,338",
+          "928"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: CIÉNEGA DE FLORES"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CIÉNEGA DE FLORES",
+          "77",
+          "23,324",
+          "11,340",
+          "11,984",
+          "897"
+        ],
+        [
+          "LOS HÉROES MONTERREY",
+          "2",
+          "407",
+          "195",
+          "212",
+          "19"
+        ],
+        [
+          "PORTAL DE LAS SALINAS",
+          "2",
+          "203",
+          "89",
+          "114",
+          "8"
+        ],
+        [
+          "VILLAS CAMPESTRES",
+          "3",
+          "48",
+          "20",
+          "28",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "23,982",
+          "11,644",
+          "12,338",
+          "928"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:36.550Z"
+}

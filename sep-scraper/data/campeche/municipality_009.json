@@ -1,0 +1,1176 @@
+{
+  "municipality": "ESCÁRCEGA",
+  "municipalityCode": "009",
+  "state": "CAMPECHE",
+  "stateCode": "4",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCALAKMUL\n\tCALKINÍ\n\tCAMPECHE\n\tCANDELARIA\n\tCARMEN\n\tCHAMPOTÓN\n\tDZITBALCHÉ\n\tESCÁRCEGA\n\tHECELCHAKÁN\n\tHOPELCHÉN\n\tPALIZADA\n\tSEYBAPLAYA\n\tTENABO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: ESCÁRCEGA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t3\n\t\t242\n\t\t139\n\t\t103\n\t\t15\n\t\n\t\n\t\tALTAMIRA DE ZINÁPARO\n\t\t3\n\t\t276\n\t\t131\n\t\t145\n\t\t12\n\t\n\t\n\t\tBELÉN\n\t\t2\n\t\t50\n\t\t26\n\t\t24\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ NÚMERO 2 (LA POLLA)\n\t\t3\n\t\t152\n\t\t74\n\t\t78\n\t\t7\n\t\n\t\n\t\tBENITO JUÁREZ NÚMERO 3\n\t\t3\n\t\t82\n\t\t45\n\t\t37\n\t\t5\n\t\n\t\n\t\tCENTENARIO\n\t\t3\n\t\t355\n\t\t174\n\t\t181\n\t\t21\n\t\n\t\n\t\tCHAN LAGUNA\n\t\t3\n\t\t134\n\t\t63\n\t\t71\n\t\t7\n\t\n\t\n\t\tCOLONIA SAN FRANCISCO (EL CINCO)\n\t\t2\n\t\t28\n\t\t10\n\t\t18\n\t\t2\n\t\n\t\n\t\tDIVISIÓN DEL NORTE\n\t\t4\n\t\t774\n\t\t382\n\t\t392\n\t\t44\n\t\n\t\n\t\tDON SAMUEL\n\t\t4\n\t\t531\n\t\t266\n\t\t265\n\t\t25\n\t\n\t\n\t\tEL CORRIENTAL\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL GALLO\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL HUIRO\n\t\t3\n\t\t97\n\t\t44\n\t\t53\n\t\t5\n\t\n\t\n\t\tEL JOBAL\n\t\t3\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL LECHUGAL\n\t\t3\n\t\t155\n\t\t71\n\t\t84\n\t\t11\n\t\n\t\n\t\tESCÁRCEGA\n\t\t52\n\t\t9,822\n\t\t5,040\n\t\t4,782\n\t\t640\n\t\n\t\n\t\tFLOR DE CHIAPAS\n\t\t3\n\t\t91\n\t\t40\n\t\t51\n\t\t5\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t2\n\t\t66\n\t\t25\n\t\t41\n\t\t3\n\t\n\t\n\t\tGENERAL RODOLFO FIERROS\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tGUADALAJARA\n\t\t2\n\t\t20\n\t\t13\n\t\t7\n\t\t2\n\t\n\t\n\t\tHARO\n\t\t3\n\t\t258\n\t\t122\n\t\t136\n\t\t13\n\t\n\t\n\t\tJOSÉ DE LA CRUZ BLANCO\n\t\t3\n\t\t337\n\t\t175\n\t\t162\n\t\t13\n\t\n\t\n\t\tJOSÉ LÓPEZ PORTILLO\n\t\t3\n\t\t100\n\t\t50\n\t\t50\n\t\t6\n\t\n\t\n\t\tJUAN DE LA BARRERA\n\t\t3\n\t\t56\n\t\t26\n\t\t30\n\t\t4\n\t\n\t\n\t\tJUAN ESCUTIA\n\t\t2\n\t\t59\n\t\t36\n\t\t23\n\t\t3\n\t\n\t\n\t\tJUSTICIA SOCIAL\n\t\t3\n\t\t178\n\t\t89\n\t\t89\n\t\t11\n\t\n\t\n\t\tKILÓMETRO SETENTA Y CUATRO\n\t\t3\n\t\t103\n\t\t49\n\t\t54\n\t\t6\n\t\n\t\n\t\tKILÓMETRO TREINTA Y SEIS\n\t\t3\n\t\t186\n\t\t85\n\t\t101\n\t\t11\n\t\n\t\n\t\tLA ASUNCIÓN\n\t\t3\n\t\t72\n\t\t38\n\t\t34\n\t\t5\n\t\n\t\n\t\tLA CHIQUITA\n\t\t2\n\t\t51\n\t\t29\n\t\t22\n\t\t3\n\t\n\t\n\t\tLA ESPERANZA\n\t\t2\n\t\t30\n\t\t12\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA FLOR\n\t\t1\n\t\t36\n\t\t12\n\t\t24\n\t\t2\n\t\n\t\n\t\tLA JERINGA\n\t\t2\n\t\t52\n\t\t28\n\t\t24\n\t\t4\n\t\n\t\n\t\tLA LIBERTAD\n\t\t4\n\t\t555\n\t\t267\n\t\t288\n\t\t32\n\t\n\t\n\t\tLA VICTORIA\n\t\t4\n\t\t312\n\t\t155\n\t\t157\n\t\t15\n\t\n\t\n\t\tLAGUNA GRANDE\n\t\t4\n\t\t341\n\t\t170\n\t\t171\n\t\t16\n\t\n\t\n\t\tLAS MARAVILLAS\n\t\t2\n\t\t21\n\t\t14\n\t\t7\n\t\t2\n\t\n\t\n\t\tLICENCIADO ANDRÉS MANUEL LÓPEZ OBRADOR\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tLUNA\n\t\t3\n\t\t185\n\t\t86\n\t\t99\n\t\t11\n\t\n\t\n\t\tMATAMOROS\n\t\t3\n\t\t388\n\t\t201\n\t\t187\n\t\t21\n\t\n\t\n\t\tMIGUEL DE LA MADRID\n\t\t2\n\t\t54\n\t\t22\n\t\t32\n\t\t4\n\t\n\t\n\t\tMIGUEL HIDALGO (CARACOL)\n\t\t3\n\t\t71\n\t\t36\n\t\t35\n\t\t5\n\t\n\t\n\t\tMIGUEL HIDALGO Y COSTILLA\n\t\t2\n\t\t211\n\t\t120\n\t\t91\n\t\t9\n\t\n\t\n\t\tNUEVO CAMPECHE (TRES AGUADAS)\n\t\t3\n\t\t124\n\t\t62\n\t\t62\n\t\t7\n\t\n\t\n\t\tNUEVO PROGRESO DOS\n\t\t3\n\t\t177\n\t\t78\n\t\t99\n\t\t9\n\t\n\t\n\t\tSAN JOSÉ\n\t\t2\n\t\t28\n\t\t11\n\t\t17\n\t\t2\n\t\n\t\n\t\tSANTA ISABEL\n\t\t3\n\t\t12\n\t\t10\n\t\t2\n\t\t3\n\t\n\t\n\t\tSANTA MARTHA (EL NARANJITO)\n\t\t1\n\t\t5\n\t\t1\n\t\t4\n\t\t1\n\t\n\t\n\t\tSILVITUC\n\t\t2\n\t\t224\n\t\t103\n\t\t121\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t179\n\t\t17,223\n\t\t8,694\n\t\t8,529\n\t\t1,046\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: ESCÁRCEGA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "242",
+          "139",
+          "103",
+          "15",
+          "ALTAMIRA DE ZINÁPARO",
+          "3",
+          "276",
+          "131",
+          "145",
+          "12",
+          "BELÉN",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3",
+          "BENITO JUÁREZ NÚMERO 2 (LA POLLA)",
+          "3",
+          "152",
+          "74",
+          "78",
+          "7",
+          "BENITO JUÁREZ NÚMERO 3",
+          "3",
+          "82",
+          "45",
+          "37",
+          "5",
+          "CENTENARIO",
+          "3",
+          "355",
+          "174",
+          "181",
+          "21",
+          "CHAN LAGUNA",
+          "3",
+          "134",
+          "63",
+          "71",
+          "7",
+          "COLONIA SAN FRANCISCO (EL CINCO)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2",
+          "DIVISIÓN DEL NORTE",
+          "4",
+          "774",
+          "382",
+          "392",
+          "44",
+          "DON SAMUEL",
+          "4",
+          "531",
+          "266",
+          "265",
+          "25",
+          "EL CORRIENTAL",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "EL GALLO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "EL HUIRO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5",
+          "EL JOBAL",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3",
+          "EL LECHUGAL",
+          "3",
+          "155",
+          "71",
+          "84",
+          "11",
+          "ESCÁRCEGA",
+          "52",
+          "9,822",
+          "5,040",
+          "4,782",
+          "640",
+          "FLOR DE CHIAPAS",
+          "3",
+          "91",
+          "40",
+          "51",
+          "5",
+          "FRANCISCO I. MADERO",
+          "2",
+          "66",
+          "25",
+          "41",
+          "3",
+          "GENERAL RODOLFO FIERROS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "GUADALAJARA",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2",
+          "HARO",
+          "3",
+          "258",
+          "122",
+          "136",
+          "13",
+          "JOSÉ DE LA CRUZ BLANCO",
+          "3",
+          "337",
+          "175",
+          "162",
+          "13",
+          "JOSÉ LÓPEZ PORTILLO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "6",
+          "JUAN DE LA BARRERA",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4",
+          "JUAN ESCUTIA",
+          "2",
+          "59",
+          "36",
+          "23",
+          "3",
+          "JUSTICIA SOCIAL",
+          "3",
+          "178",
+          "89",
+          "89",
+          "11",
+          "KILÓMETRO SETENTA Y CUATRO",
+          "3",
+          "103",
+          "49",
+          "54",
+          "6",
+          "KILÓMETRO TREINTA Y SEIS",
+          "3",
+          "186",
+          "85",
+          "101",
+          "11",
+          "LA ASUNCIÓN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "5",
+          "LA CHIQUITA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3",
+          "LA ESPERANZA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2",
+          "LA FLOR",
+          "1",
+          "36",
+          "12",
+          "24",
+          "2",
+          "LA JERINGA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "4",
+          "LA LIBERTAD",
+          "4",
+          "555",
+          "267",
+          "288",
+          "32",
+          "LA VICTORIA",
+          "4",
+          "312",
+          "155",
+          "157",
+          "15",
+          "LAGUNA GRANDE",
+          "4",
+          "341",
+          "170",
+          "171",
+          "16",
+          "LAS MARAVILLAS",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2",
+          "LICENCIADO ANDRÉS MANUEL LÓPEZ OBRADOR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "LUNA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "11",
+          "MATAMOROS",
+          "3",
+          "388",
+          "201",
+          "187",
+          "21",
+          "MIGUEL DE LA MADRID",
+          "2",
+          "54",
+          "22",
+          "32",
+          "4",
+          "MIGUEL HIDALGO (CARACOL)",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5",
+          "MIGUEL HIDALGO Y COSTILLA",
+          "2",
+          "211",
+          "120",
+          "91",
+          "9",
+          "NUEVO CAMPECHE (TRES AGUADAS)",
+          "3",
+          "124",
+          "62",
+          "62",
+          "7",
+          "NUEVO PROGRESO DOS",
+          "3",
+          "177",
+          "78",
+          "99",
+          "9",
+          "SAN JOSÉ",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2",
+          "SANTA ISABEL",
+          "3",
+          "12",
+          "10",
+          "2",
+          "3",
+          "SANTA MARTHA (EL NARANJITO)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1",
+          "SILVITUC",
+          "2",
+          "224",
+          "103",
+          "121",
+          "8",
+          "TOTAL",
+          "179",
+          "17,223",
+          "8,694",
+          "8,529",
+          "1,046",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: ESCÁRCEGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "242",
+          "139",
+          "103",
+          "15"
+        ],
+        [
+          "ALTAMIRA DE ZINÁPARO",
+          "3",
+          "276",
+          "131",
+          "145",
+          "12"
+        ],
+        [
+          "BELÉN",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ NÚMERO 2 (LA POLLA)",
+          "3",
+          "152",
+          "74",
+          "78",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ NÚMERO 3",
+          "3",
+          "82",
+          "45",
+          "37",
+          "5"
+        ],
+        [
+          "CENTENARIO",
+          "3",
+          "355",
+          "174",
+          "181",
+          "21"
+        ],
+        [
+          "CHAN LAGUNA",
+          "3",
+          "134",
+          "63",
+          "71",
+          "7"
+        ],
+        [
+          "COLONIA SAN FRANCISCO (EL CINCO)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "DIVISIÓN DEL NORTE",
+          "4",
+          "774",
+          "382",
+          "392",
+          "44"
+        ],
+        [
+          "DON SAMUEL",
+          "4",
+          "531",
+          "266",
+          "265",
+          "25"
+        ],
+        [
+          "EL CORRIENTAL",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "EL GALLO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "EL HUIRO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5"
+        ],
+        [
+          "EL JOBAL",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "EL LECHUGAL",
+          "3",
+          "155",
+          "71",
+          "84",
+          "11"
+        ],
+        [
+          "ESCÁRCEGA",
+          "52",
+          "9,822",
+          "5,040",
+          "4,782",
+          "640"
+        ],
+        [
+          "FLOR DE CHIAPAS",
+          "3",
+          "91",
+          "40",
+          "51",
+          "5"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "2",
+          "66",
+          "25",
+          "41",
+          "3"
+        ],
+        [
+          "GENERAL RODOLFO FIERROS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "GUADALAJARA",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "HARO",
+          "3",
+          "258",
+          "122",
+          "136",
+          "13"
+        ],
+        [
+          "JOSÉ DE LA CRUZ BLANCO",
+          "3",
+          "337",
+          "175",
+          "162",
+          "13"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "6"
+        ],
+        [
+          "JUAN DE LA BARRERA",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "JUAN ESCUTIA",
+          "2",
+          "59",
+          "36",
+          "23",
+          "3"
+        ],
+        [
+          "JUSTICIA SOCIAL",
+          "3",
+          "178",
+          "89",
+          "89",
+          "11"
+        ],
+        [
+          "KILÓMETRO SETENTA Y CUATRO",
+          "3",
+          "103",
+          "49",
+          "54",
+          "6"
+        ],
+        [
+          "KILÓMETRO TREINTA Y SEIS",
+          "3",
+          "186",
+          "85",
+          "101",
+          "11"
+        ],
+        [
+          "LA ASUNCIÓN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "5"
+        ],
+        [
+          "LA CHIQUITA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "LA FLOR",
+          "1",
+          "36",
+          "12",
+          "24",
+          "2"
+        ],
+        [
+          "LA JERINGA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "4"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "555",
+          "267",
+          "288",
+          "32"
+        ],
+        [
+          "LA VICTORIA",
+          "4",
+          "312",
+          "155",
+          "157",
+          "15"
+        ],
+        [
+          "LAGUNA GRANDE",
+          "4",
+          "341",
+          "170",
+          "171",
+          "16"
+        ],
+        [
+          "LAS MARAVILLAS",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "LICENCIADO ANDRÉS MANUEL LÓPEZ OBRADOR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LUNA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "11"
+        ],
+        [
+          "MATAMOROS",
+          "3",
+          "388",
+          "201",
+          "187",
+          "21"
+        ],
+        [
+          "MIGUEL DE LA MADRID",
+          "2",
+          "54",
+          "22",
+          "32",
+          "4"
+        ],
+        [
+          "MIGUEL HIDALGO (CARACOL)",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5"
+        ],
+        [
+          "MIGUEL HIDALGO Y COSTILLA",
+          "2",
+          "211",
+          "120",
+          "91",
+          "9"
+        ],
+        [
+          "NUEVO CAMPECHE (TRES AGUADAS)",
+          "3",
+          "124",
+          "62",
+          "62",
+          "7"
+        ],
+        [
+          "NUEVO PROGRESO DOS",
+          "3",
+          "177",
+          "78",
+          "99",
+          "9"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "SANTA ISABEL",
+          "3",
+          "12",
+          "10",
+          "2",
+          "3"
+        ],
+        [
+          "SANTA MARTHA (EL NARANJITO)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "SILVITUC",
+          "2",
+          "224",
+          "103",
+          "121",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "179",
+          "17,223",
+          "8,694",
+          "8,529",
+          "1,046"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CAMPECHE;    MUNICIPIO: ESCÁRCEGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "3",
+          "242",
+          "139",
+          "103",
+          "15"
+        ],
+        [
+          "ALTAMIRA DE ZINÁPARO",
+          "3",
+          "276",
+          "131",
+          "145",
+          "12"
+        ],
+        [
+          "BELÉN",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ NÚMERO 2 (LA POLLA)",
+          "3",
+          "152",
+          "74",
+          "78",
+          "7"
+        ],
+        [
+          "BENITO JUÁREZ NÚMERO 3",
+          "3",
+          "82",
+          "45",
+          "37",
+          "5"
+        ],
+        [
+          "CENTENARIO",
+          "3",
+          "355",
+          "174",
+          "181",
+          "21"
+        ],
+        [
+          "CHAN LAGUNA",
+          "3",
+          "134",
+          "63",
+          "71",
+          "7"
+        ],
+        [
+          "COLONIA SAN FRANCISCO (EL CINCO)",
+          "2",
+          "28",
+          "10",
+          "18",
+          "2"
+        ],
+        [
+          "DIVISIÓN DEL NORTE",
+          "4",
+          "774",
+          "382",
+          "392",
+          "44"
+        ],
+        [
+          "DON SAMUEL",
+          "4",
+          "531",
+          "266",
+          "265",
+          "25"
+        ],
+        [
+          "EL CORRIENTAL",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "EL GALLO",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "EL HUIRO",
+          "3",
+          "97",
+          "44",
+          "53",
+          "5"
+        ],
+        [
+          "EL JOBAL",
+          "3",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "EL LECHUGAL",
+          "3",
+          "155",
+          "71",
+          "84",
+          "11"
+        ],
+        [
+          "ESCÁRCEGA",
+          "52",
+          "9,822",
+          "5,040",
+          "4,782",
+          "640"
+        ],
+        [
+          "FLOR DE CHIAPAS",
+          "3",
+          "91",
+          "40",
+          "51",
+          "5"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "2",
+          "66",
+          "25",
+          "41",
+          "3"
+        ],
+        [
+          "GENERAL RODOLFO FIERROS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "GUADALAJARA",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "HARO",
+          "3",
+          "258",
+          "122",
+          "136",
+          "13"
+        ],
+        [
+          "JOSÉ DE LA CRUZ BLANCO",
+          "3",
+          "337",
+          "175",
+          "162",
+          "13"
+        ],
+        [
+          "JOSÉ LÓPEZ PORTILLO",
+          "3",
+          "100",
+          "50",
+          "50",
+          "6"
+        ],
+        [
+          "JUAN DE LA BARRERA",
+          "3",
+          "56",
+          "26",
+          "30",
+          "4"
+        ],
+        [
+          "JUAN ESCUTIA",
+          "2",
+          "59",
+          "36",
+          "23",
+          "3"
+        ],
+        [
+          "JUSTICIA SOCIAL",
+          "3",
+          "178",
+          "89",
+          "89",
+          "11"
+        ],
+        [
+          "KILÓMETRO SETENTA Y CUATRO",
+          "3",
+          "103",
+          "49",
+          "54",
+          "6"
+        ],
+        [
+          "KILÓMETRO TREINTA Y SEIS",
+          "3",
+          "186",
+          "85",
+          "101",
+          "11"
+        ],
+        [
+          "LA ASUNCIÓN",
+          "3",
+          "72",
+          "38",
+          "34",
+          "5"
+        ],
+        [
+          "LA CHIQUITA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "3"
+        ],
+        [
+          "LA ESPERANZA",
+          "2",
+          "30",
+          "12",
+          "18",
+          "2"
+        ],
+        [
+          "LA FLOR",
+          "1",
+          "36",
+          "12",
+          "24",
+          "2"
+        ],
+        [
+          "LA JERINGA",
+          "2",
+          "52",
+          "28",
+          "24",
+          "4"
+        ],
+        [
+          "LA LIBERTAD",
+          "4",
+          "555",
+          "267",
+          "288",
+          "32"
+        ],
+        [
+          "LA VICTORIA",
+          "4",
+          "312",
+          "155",
+          "157",
+          "15"
+        ],
+        [
+          "LAGUNA GRANDE",
+          "4",
+          "341",
+          "170",
+          "171",
+          "16"
+        ],
+        [
+          "LAS MARAVILLAS",
+          "2",
+          "21",
+          "14",
+          "7",
+          "2"
+        ],
+        [
+          "LICENCIADO ANDRÉS MANUEL LÓPEZ OBRADOR",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "LUNA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "11"
+        ],
+        [
+          "MATAMOROS",
+          "3",
+          "388",
+          "201",
+          "187",
+          "21"
+        ],
+        [
+          "MIGUEL DE LA MADRID",
+          "2",
+          "54",
+          "22",
+          "32",
+          "4"
+        ],
+        [
+          "MIGUEL HIDALGO (CARACOL)",
+          "3",
+          "71",
+          "36",
+          "35",
+          "5"
+        ],
+        [
+          "MIGUEL HIDALGO Y COSTILLA",
+          "2",
+          "211",
+          "120",
+          "91",
+          "9"
+        ],
+        [
+          "NUEVO CAMPECHE (TRES AGUADAS)",
+          "3",
+          "124",
+          "62",
+          "62",
+          "7"
+        ],
+        [
+          "NUEVO PROGRESO DOS",
+          "3",
+          "177",
+          "78",
+          "99",
+          "9"
+        ],
+        [
+          "SAN JOSÉ",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "SANTA ISABEL",
+          "3",
+          "12",
+          "10",
+          "2",
+          "3"
+        ],
+        [
+          "SANTA MARTHA (EL NARANJITO)",
+          "1",
+          "5",
+          "1",
+          "4",
+          "1"
+        ],
+        [
+          "SILVITUC",
+          "2",
+          "224",
+          "103",
+          "121",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "179",
+          "17,223",
+          "8,694",
+          "8,529",
+          "1,046"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:32.347Z"
+}

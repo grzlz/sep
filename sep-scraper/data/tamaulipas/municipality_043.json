@@ -1,0 +1,1022 @@
+{
+  "municipality": "XICOTÉNCATL",
+  "municipalityCode": "043",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: XICOTÉNCATL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS (EL JOPOY)\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tÁGUILAS DE LA VICTORIA\n\t\t2\n\t\t41\n\t\t28\n\t\t13\n\t\t3\n\t\n\t\n\t\tALIANZA AGRARIA\n\t\t2\n\t\t47\n\t\t19\n\t\t28\n\t\t4\n\t\n\t\n\t\tAMPLIACIÓN LA GLORIA\n\t\t2\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t3\n\t\t101\n\t\t57\n\t\t44\n\t\t5\n\t\n\t\n\t\tCARRERA TORRES\n\t\t2\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tDOCTOR NORBERTO TREVIÑO ZAPATA\n\t\t1\n\t\t16\n\t\t11\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL AZÚCAR\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL CONEJO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CONEJO (EL CONEJITO)\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL MIRADOR\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t129\n\t\t57\n\t\t72\n\t\t12\n\t\n\t\n\t\tFELIPE ÁNGELES\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tFÉLIX CABAÑAS\n\t\t2\n\t\t25\n\t\t12\n\t\t13\n\t\t3\n\t\n\t\n\t\tFRANCISCO CASTELLANOS\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t3\n\t\t136\n\t\t62\n\t\t74\n\t\t10\n\t\n\t\n\t\tINDUSTRIAL [COLONIA]\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tJ. GUADALUPE RODRÍGUEZ\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t2\n\t\n\t\n\t\tJOSÉ ASCENSIÓN RODRÍGUEZ MARTÍNEZ (LAS AMARILLAS)\n\t\t3\n\t\t60\n\t\t24\n\t\t36\n\t\t6\n\t\n\t\n\t\tLA NUEVA REFORMA\n\t\t1\n\t\t9\n\t\t4\n\t\t5\n\t\t1\n\t\n\t\n\t\tLA PRESA\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tLOS KIKOS\n\t\t2\n\t\t22\n\t\t12\n\t\t10\n\t\t2\n\t\n\t\n\t\tLUCIO BLANCO\n\t\t2\n\t\t16\n\t\t8\n\t\t8\n\t\t2\n\t\n\t\n\t\tMANUEL CASTAÑOS VALIENTE (EL SETENTA)\n\t\t2\n\t\t24\n\t\t10\n\t\t14\n\t\t3\n\t\n\t\n\t\tMÁRTIRES DE RÍO BLANCO (LA REFORMA)\n\t\t2\n\t\t46\n\t\t20\n\t\t26\n\t\t3\n\t\n\t\n\t\tMELCHOR OCAMPO\n\t\t1\n\t\t26\n\t\t14\n\t\t12\n\t\t2\n\t\n\t\n\t\tMIGUEL ALEMÁN\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tMOCTEZUMA\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t3\n\t\n\t\n\t\tNARCISO MENDOZA NÚMERO DOS\n\t\t1\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tNARCISO MENDOZA UNO\n\t\t2\n\t\t7\n\t\t3\n\t\t4\n\t\t2\n\t\n\t\n\t\tPRAXEDIS BALBOA (LA POZA)\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tPRIMERA UNIDAD EJIDO XICOTÉNCATL (ZOYATE)\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tPRIMERO DE MAYO\n\t\t6\n\t\t710\n\t\t367\n\t\t343\n\t\t49\n\t\n\t\n\t\tSAN MANUEL\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t2\n\t\n\t\n\t\tSANTA ANITA\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA MARTHA\n\t\t3\n\t\t8\n\t\t4\n\t\t4\n\t\t2\n\t\n\t\n\t\tSEGUNDA UNIDAD XICOTÉNCATL (EL AQUICHE)\n\t\t4\n\t\t237\n\t\t112\n\t\t125\n\t\t17\n\t\n\t\n\t\tSERVANDO CANALES DOS (LA LOMA)\n\t\t2\n\t\t7\n\t\t5\n\t\t2\n\t\t2\n\t\n\t\n\t\tTRANCAS Y SAUZAL (SAUZAL)\n\t\t2\n\t\t27\n\t\t16\n\t\t11\n\t\t2\n\t\n\t\n\t\tTRIUNFO DEL PORVENIR\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tVICENTE GUERRERO\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tXICOTÉNCATL\n\t\t16\n\t\t2,658\n\t\t1,339\n\t\t1,319\n\t\t143\n\t\n\t\n\t\tTOTAL\n\t\t100\n\t\t4,583\n\t\t2,296\n\t\t2,287\n\t\t309\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: XICOTÉNCATL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS (EL JOPOY)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "ÁGUILAS DE LA VICTORIA",
+          "2",
+          "41",
+          "28",
+          "13",
+          "3",
+          "ALIANZA AGRARIA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4",
+          "AMPLIACIÓN LA GLORIA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2",
+          "BENITO JUÁREZ",
+          "3",
+          "101",
+          "57",
+          "44",
+          "5",
+          "CARRERA TORRES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1",
+          "DOCTOR NORBERTO TREVIÑO ZAPATA",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1",
+          "EL AZÚCAR",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "EL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL CONEJO (EL CONEJITO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL MIRADOR",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2",
+          "EMILIANO ZAPATA",
+          "3",
+          "129",
+          "57",
+          "72",
+          "12",
+          "FELIPE ÁNGELES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "FÉLIX CABAÑAS",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3",
+          "FRANCISCO CASTELLANOS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "FRANCISCO VILLA",
+          "3",
+          "136",
+          "62",
+          "74",
+          "10",
+          "INDUSTRIAL [COLONIA]",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "J. GUADALUPE RODRÍGUEZ",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2",
+          "JOSÉ ASCENSIÓN RODRÍGUEZ MARTÍNEZ (LAS AMARILLAS)",
+          "3",
+          "60",
+          "24",
+          "36",
+          "6",
+          "LA NUEVA REFORMA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1",
+          "LA PRESA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2",
+          "LOS KIKOS",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2",
+          "LUCIO BLANCO",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2",
+          "MANUEL CASTAÑOS VALIENTE (EL SETENTA)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3",
+          "MÁRTIRES DE RÍO BLANCO (LA REFORMA)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3",
+          "MELCHOR OCAMPO",
+          "1",
+          "26",
+          "14",
+          "12",
+          "2",
+          "MIGUEL ALEMÁN",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "MOCTEZUMA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3",
+          "NARCISO MENDOZA NÚMERO DOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1",
+          "NARCISO MENDOZA UNO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2",
+          "PRAXEDIS BALBOA (LA POZA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "PRIMERA UNIDAD EJIDO XICOTÉNCATL (ZOYATE)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "PRIMERO DE MAYO",
+          "6",
+          "710",
+          "367",
+          "343",
+          "49",
+          "SAN MANUEL",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2",
+          "SANTA ANITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1",
+          "SANTA MARTHA",
+          "3",
+          "8",
+          "4",
+          "4",
+          "2",
+          "SEGUNDA UNIDAD XICOTÉNCATL (EL AQUICHE)",
+          "4",
+          "237",
+          "112",
+          "125",
+          "17",
+          "SERVANDO CANALES DOS (LA LOMA)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2",
+          "TRANCAS Y SAUZAL (SAUZAL)",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2",
+          "TRIUNFO DEL PORVENIR",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "VICENTE GUERRERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "XICOTÉNCATL",
+          "16",
+          "2,658",
+          "1,339",
+          "1,319",
+          "143",
+          "TOTAL",
+          "100",
+          "4,583",
+          "2,296",
+          "2,287",
+          "309",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: XICOTÉNCATL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (EL JOPOY)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "ÁGUILAS DE LA VICTORIA",
+          "2",
+          "41",
+          "28",
+          "13",
+          "3"
+        ],
+        [
+          "ALIANZA AGRARIA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN LA GLORIA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "101",
+          "57",
+          "44",
+          "5"
+        ],
+        [
+          "CARRERA TORRES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "DOCTOR NORBERTO TREVIÑO ZAPATA",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "EL AZÚCAR",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CONEJO (EL CONEJITO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "129",
+          "57",
+          "72",
+          "12"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "FÉLIX CABAÑAS",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "FRANCISCO CASTELLANOS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "136",
+          "62",
+          "74",
+          "10"
+        ],
+        [
+          "INDUSTRIAL [COLONIA]",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "J. GUADALUPE RODRÍGUEZ",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2"
+        ],
+        [
+          "JOSÉ ASCENSIÓN RODRÍGUEZ MARTÍNEZ (LAS AMARILLAS)",
+          "3",
+          "60",
+          "24",
+          "36",
+          "6"
+        ],
+        [
+          "LA NUEVA REFORMA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LA PRESA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LOS KIKOS",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MANUEL CASTAÑOS VALIENTE (EL SETENTA)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "MÁRTIRES DE RÍO BLANCO (LA REFORMA)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "1",
+          "26",
+          "14",
+          "12",
+          "2"
+        ],
+        [
+          "MIGUEL ALEMÁN",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "MOCTEZUMA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "NARCISO MENDOZA NÚMERO DOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "NARCISO MENDOZA UNO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "PRAXEDIS BALBOA (LA POZA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "PRIMERA UNIDAD EJIDO XICOTÉNCATL (ZOYATE)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "PRIMERO DE MAYO",
+          "6",
+          "710",
+          "367",
+          "343",
+          "49"
+        ],
+        [
+          "SAN MANUEL",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA ANITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA MARTHA",
+          "3",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "SEGUNDA UNIDAD XICOTÉNCATL (EL AQUICHE)",
+          "4",
+          "237",
+          "112",
+          "125",
+          "17"
+        ],
+        [
+          "SERVANDO CANALES DOS (LA LOMA)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "TRANCAS Y SAUZAL (SAUZAL)",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "TRIUNFO DEL PORVENIR",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "XICOTÉNCATL",
+          "16",
+          "2,658",
+          "1,339",
+          "1,319",
+          "143"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "4,583",
+          "2,296",
+          "2,287",
+          "309"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: XICOTÉNCATL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS (EL JOPOY)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "ÁGUILAS DE LA VICTORIA",
+          "2",
+          "41",
+          "28",
+          "13",
+          "3"
+        ],
+        [
+          "ALIANZA AGRARIA",
+          "2",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "AMPLIACIÓN LA GLORIA",
+          "2",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "101",
+          "57",
+          "44",
+          "5"
+        ],
+        [
+          "CARRERA TORRES",
+          "2",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "DOCTOR NORBERTO TREVIÑO ZAPATA",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "EL AZÚCAR",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "EL CONEJO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CONEJO (EL CONEJITO)",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL MIRADOR",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "129",
+          "57",
+          "72",
+          "12"
+        ],
+        [
+          "FELIPE ÁNGELES",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "FÉLIX CABAÑAS",
+          "2",
+          "25",
+          "12",
+          "13",
+          "3"
+        ],
+        [
+          "FRANCISCO CASTELLANOS",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "3",
+          "136",
+          "62",
+          "74",
+          "10"
+        ],
+        [
+          "INDUSTRIAL [COLONIA]",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "J. GUADALUPE RODRÍGUEZ",
+          "2",
+          "7",
+          "2",
+          "5",
+          "2"
+        ],
+        [
+          "JOSÉ ASCENSIÓN RODRÍGUEZ MARTÍNEZ (LAS AMARILLAS)",
+          "3",
+          "60",
+          "24",
+          "36",
+          "6"
+        ],
+        [
+          "LA NUEVA REFORMA",
+          "1",
+          "9",
+          "4",
+          "5",
+          "1"
+        ],
+        [
+          "LA PRESA",
+          "2",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LOS KIKOS",
+          "2",
+          "22",
+          "12",
+          "10",
+          "2"
+        ],
+        [
+          "LUCIO BLANCO",
+          "2",
+          "16",
+          "8",
+          "8",
+          "2"
+        ],
+        [
+          "MANUEL CASTAÑOS VALIENTE (EL SETENTA)",
+          "2",
+          "24",
+          "10",
+          "14",
+          "3"
+        ],
+        [
+          "MÁRTIRES DE RÍO BLANCO (LA REFORMA)",
+          "2",
+          "46",
+          "20",
+          "26",
+          "3"
+        ],
+        [
+          "MELCHOR OCAMPO",
+          "1",
+          "26",
+          "14",
+          "12",
+          "2"
+        ],
+        [
+          "MIGUEL ALEMÁN",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "MOCTEZUMA",
+          "2",
+          "27",
+          "14",
+          "13",
+          "3"
+        ],
+        [
+          "NARCISO MENDOZA NÚMERO DOS",
+          "1",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "NARCISO MENDOZA UNO",
+          "2",
+          "7",
+          "3",
+          "4",
+          "2"
+        ],
+        [
+          "PRAXEDIS BALBOA (LA POZA)",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "PRIMERA UNIDAD EJIDO XICOTÉNCATL (ZOYATE)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "PRIMERO DE MAYO",
+          "6",
+          "710",
+          "367",
+          "343",
+          "49"
+        ],
+        [
+          "SAN MANUEL",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "SANTA ANITA",
+          "2",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA MARTHA",
+          "3",
+          "8",
+          "4",
+          "4",
+          "2"
+        ],
+        [
+          "SEGUNDA UNIDAD XICOTÉNCATL (EL AQUICHE)",
+          "4",
+          "237",
+          "112",
+          "125",
+          "17"
+        ],
+        [
+          "SERVANDO CANALES DOS (LA LOMA)",
+          "2",
+          "7",
+          "5",
+          "2",
+          "2"
+        ],
+        [
+          "TRANCAS Y SAUZAL (SAUZAL)",
+          "2",
+          "27",
+          "16",
+          "11",
+          "2"
+        ],
+        [
+          "TRIUNFO DEL PORVENIR",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "VICENTE GUERRERO",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "XICOTÉNCATL",
+          "16",
+          "2,658",
+          "1,339",
+          "1,319",
+          "143"
+        ],
+        [
+          "TOTAL",
+          "100",
+          "4,583",
+          "2,296",
+          "2,287",
+          "309"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:41:23.900Z"
+}

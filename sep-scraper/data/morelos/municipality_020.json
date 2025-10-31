@@ -1,0 +1,362 @@
+{
+  "municipality": "TEPOZTLÁN",
+  "municipalityCode": "020",
+  "state": "MORELOS",
+  "stateCode": "17",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAMACUZAC\n\tATLATLAHUCAN\n\tAXOCHIAPAN\n\tAYALA\n\tCOATETELCO\n\tCOATLÁN DEL RÍO\n\tCUAUTLA\n\tCUERNAVACA\n\tEMILIANO ZAPATA\n\tHUEYAPAN\n\tHUITZILAC\n\tJANTETELCO\n\tJIUTEPEC\n\tJOJUTLA\n\tJONACATEPEC DE LEANDRO VALLE\n\tMAZATEPEC\n\tMIACATLÁN\n\tOCUITUCO\n\tPUENTE DE IXTLA\n\tTEMIXCO\n\tTEMOAC\n\tTEPALCINGO\n\tTEPOZTLÁN\n\tTETECALA\n\tTETELA DEL VOLCÁN\n\tTLALNEPANTLA\n\tTLALTIZAPÁN DE ZAPATA\n\tTLAQUILTENANGO\n\tTLAYACAPAN\n\tTOTOLAPAN\n\tXOCHITEPEC\n\tXOXOCOTLA\n\tYAUTEPEC\n\tYECAPIXTLA\n\tZACATEPEC\n\tZACUALPAN DE AMILPAS"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPOZTLÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACOLAPAN\n\t\t2\n\t\t258\n\t\t123\n\t\t135\n\t\t9\n\t\n\t\n\t\tAMATLÁN DE QUETZALCÓATL\n\t\t3\n\t\t177\n\t\t96\n\t\t81\n\t\t11\n\t\n\t\n\t\tCOLONIA ÁNGEL BOCANEGRA (ADOLFO LÓPEZ MATEOS)\n\t\t1\n\t\t195\n\t\t105\n\t\t90\n\t\t7\n\t\n\t\n\t\tCOLONIA LOMA ESMERALDA\n\t\t1\n\t\t184\n\t\t90\n\t\t94\n\t\t6\n\t\n\t\n\t\tSAN ANDRÉS DE LA CAL\n\t\t4\n\t\t245\n\t\t108\n\t\t137\n\t\t12\n\t\n\t\n\t\tSAN JUAN TLACOTENCO\n\t\t4\n\t\t400\n\t\t184\n\t\t216\n\t\t24\n\t\n\t\n\t\tSANTA CATARINA\n\t\t5\n\t\t1,178\n\t\t600\n\t\t578\n\t\t47\n\t\n\t\n\t\tSANTIAGO TEPETLAPA\n\t\t3\n\t\t768\n\t\t398\n\t\t370\n\t\t33\n\t\n\t\n\t\tSANTO DOMINGO OCOTITLÁN\n\t\t3\n\t\t201\n\t\t91\n\t\t110\n\t\t12\n\t\n\t\n\t\tTEPOZTLÁN\n\t\t37\n\t\t3,685\n\t\t1,866\n\t\t1,819\n\t\t202\n\t\n\t\n\t\tTEXIO\n\t\t1\n\t\t575\n\t\t238\n\t\t337\n\t\t26\n\t\n\t\n\t\tTLALTÉPETL\n\t\t2\n\t\t22\n\t\t10\n\t\t12\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t66\n\t\t7,888\n\t\t3,909\n\t\t3,979\n\t\t391\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPOZTLÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACOLAPAN",
+          "2",
+          "258",
+          "123",
+          "135",
+          "9",
+          "AMATLÁN DE QUETZALCÓATL",
+          "3",
+          "177",
+          "96",
+          "81",
+          "11",
+          "COLONIA ÁNGEL BOCANEGRA (ADOLFO LÓPEZ MATEOS)",
+          "1",
+          "195",
+          "105",
+          "90",
+          "7",
+          "COLONIA LOMA ESMERALDA",
+          "1",
+          "184",
+          "90",
+          "94",
+          "6",
+          "SAN ANDRÉS DE LA CAL",
+          "4",
+          "245",
+          "108",
+          "137",
+          "12",
+          "SAN JUAN TLACOTENCO",
+          "4",
+          "400",
+          "184",
+          "216",
+          "24",
+          "SANTA CATARINA",
+          "5",
+          "1,178",
+          "600",
+          "578",
+          "47",
+          "SANTIAGO TEPETLAPA",
+          "3",
+          "768",
+          "398",
+          "370",
+          "33",
+          "SANTO DOMINGO OCOTITLÁN",
+          "3",
+          "201",
+          "91",
+          "110",
+          "12",
+          "TEPOZTLÁN",
+          "37",
+          "3,685",
+          "1,866",
+          "1,819",
+          "202",
+          "TEXIO",
+          "1",
+          "575",
+          "238",
+          "337",
+          "26",
+          "TLALTÉPETL",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2",
+          "TOTAL",
+          "66",
+          "7,888",
+          "3,909",
+          "3,979",
+          "391",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPOZTLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACOLAPAN",
+          "2",
+          "258",
+          "123",
+          "135",
+          "9"
+        ],
+        [
+          "AMATLÁN DE QUETZALCÓATL",
+          "3",
+          "177",
+          "96",
+          "81",
+          "11"
+        ],
+        [
+          "COLONIA ÁNGEL BOCANEGRA (ADOLFO LÓPEZ MATEOS)",
+          "1",
+          "195",
+          "105",
+          "90",
+          "7"
+        ],
+        [
+          "COLONIA LOMA ESMERALDA",
+          "1",
+          "184",
+          "90",
+          "94",
+          "6"
+        ],
+        [
+          "SAN ANDRÉS DE LA CAL",
+          "4",
+          "245",
+          "108",
+          "137",
+          "12"
+        ],
+        [
+          "SAN JUAN TLACOTENCO",
+          "4",
+          "400",
+          "184",
+          "216",
+          "24"
+        ],
+        [
+          "SANTA CATARINA",
+          "5",
+          "1,178",
+          "600",
+          "578",
+          "47"
+        ],
+        [
+          "SANTIAGO TEPETLAPA",
+          "3",
+          "768",
+          "398",
+          "370",
+          "33"
+        ],
+        [
+          "SANTO DOMINGO OCOTITLÁN",
+          "3",
+          "201",
+          "91",
+          "110",
+          "12"
+        ],
+        [
+          "TEPOZTLÁN",
+          "37",
+          "3,685",
+          "1,866",
+          "1,819",
+          "202"
+        ],
+        [
+          "TEXIO",
+          "1",
+          "575",
+          "238",
+          "337",
+          "26"
+        ],
+        [
+          "TLALTÉPETL",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "66",
+          "7,888",
+          "3,909",
+          "3,979",
+          "391"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MORELOS;    MUNICIPIO: TEPOZTLÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACOLAPAN",
+          "2",
+          "258",
+          "123",
+          "135",
+          "9"
+        ],
+        [
+          "AMATLÁN DE QUETZALCÓATL",
+          "3",
+          "177",
+          "96",
+          "81",
+          "11"
+        ],
+        [
+          "COLONIA ÁNGEL BOCANEGRA (ADOLFO LÓPEZ MATEOS)",
+          "1",
+          "195",
+          "105",
+          "90",
+          "7"
+        ],
+        [
+          "COLONIA LOMA ESMERALDA",
+          "1",
+          "184",
+          "90",
+          "94",
+          "6"
+        ],
+        [
+          "SAN ANDRÉS DE LA CAL",
+          "4",
+          "245",
+          "108",
+          "137",
+          "12"
+        ],
+        [
+          "SAN JUAN TLACOTENCO",
+          "4",
+          "400",
+          "184",
+          "216",
+          "24"
+        ],
+        [
+          "SANTA CATARINA",
+          "5",
+          "1,178",
+          "600",
+          "578",
+          "47"
+        ],
+        [
+          "SANTIAGO TEPETLAPA",
+          "3",
+          "768",
+          "398",
+          "370",
+          "33"
+        ],
+        [
+          "SANTO DOMINGO OCOTITLÁN",
+          "3",
+          "201",
+          "91",
+          "110",
+          "12"
+        ],
+        [
+          "TEPOZTLÁN",
+          "37",
+          "3,685",
+          "1,866",
+          "1,819",
+          "202"
+        ],
+        [
+          "TEXIO",
+          "1",
+          "575",
+          "238",
+          "337",
+          "26"
+        ],
+        [
+          "TLALTÉPETL",
+          "2",
+          "22",
+          "10",
+          "12",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "66",
+          "7,888",
+          "3,909",
+          "3,979",
+          "391"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:21:30.460Z"
+}

@@ -1,0 +1,736 @@
+{
+  "municipality": "GENERAL TERÁN",
+  "municipalityCode": "022",
+  "state": "NUEVO LEÓN",
+  "stateCode": "19",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tAGUALEGUAS\n\tALLENDE\n\tANÁHUAC\n\tAPODACA\n\tARAMBERRI\n\tBUSTAMANTE\n\tCADEREYTA JIMÉNEZ\n\tCERRALVO\n\tCHINA\n\tCIÉNEGA DE FLORES\n\tDOCTOR ARROYO\n\tDOCTOR COSS\n\tDOCTOR GONZÁLEZ\n\tEL CARMEN\n\tGALEANA\n\tGARCÍA\n\tGENERAL BRAVO\n\tGENERAL ESCOBEDO\n\tGENERAL TERÁN\n\tGENERAL TREVIÑO\n\tGENERAL ZARAGOZA\n\tGENERAL ZUAZUA\n\tGUADALUPE\n\tHIDALGO\n\tHIGUERAS\n\tHUALAHUISES\n\tITURBIDE\n\tJUÁREZ\n\tLAMPAZOS DE NARANJO\n\tLINARES\n\tLOS ALDAMAS\n\tLOS HERRERAS\n\tLOS RAMONES\n\tMARÍN\n\tMELCHOR OCAMPO\n\tMIER Y NORIEGA\n\tMINA\n\tMONTEMORELOS\n\tMONTERREY\n\tPARÁS\n\tPESQUERÍA\n\tRAYONES\n\tSABINAS HIDALGO\n\tSALINAS VICTORIA\n\tSAN NICOLÁS DE LOS GARZA\n\tSAN PEDRO GARZA GARCÍA\n\tSANTA CATARINA\n\tSANTIAGO\n\tVALLECILLO\n\tVILLALDAMA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: GENERAL TERÁN\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBUENAVISTA DE JIMÉNEZ\n\t\t3\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tCALIFORNIA\n\t\t2\n\t\t59\n\t\t35\n\t\t24\n\t\t5\n\t\n\t\n\t\tEL ENCADENADO\n\t\t1\n\t\t16\n\t\t9\n\t\t7\n\t\t1\n\t\n\t\n\t\tEL ESPÍRITU\n\t\t2\n\t\t64\n\t\t29\n\t\t35\n\t\t4\n\t\n\t\n\t\tEL GRANJENAL\n\t\t3\n\t\t25\n\t\t13\n\t\t12\n\t\t3\n\t\n\t\n\t\tEL LLANO (SAN RAFAEL DEL LLANO)\n\t\t4\n\t\t94\n\t\t47\n\t\t47\n\t\t10\n\t\n\t\n\t\tEL TORO\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t3\n\t\t8\n\t\t5\n\t\t3\n\t\t2\n\t\n\t\n\t\tGENERAL TERÁN\n\t\t26\n\t\t1,796\n\t\t911\n\t\t885\n\t\t152\n\t\n\t\n\t\tGUADALUPE LA JOYA\n\t\t3\n\t\t16\n\t\t10\n\t\t6\n\t\t3\n\t\n\t\n\t\tLA BRISA\n\t\t1\n\t\t17\n\t\t10\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA CORONA [HACIENDA]\n\t\t5\n\t\t200\n\t\t93\n\t\t107\n\t\t17\n\t\n\t\n\t\tLA GRANJA\n\t\t1\n\t\t28\n\t\t12\n\t\t16\n\t\t2\n\t\n\t\n\t\tLA PURÍSIMA\n\t\t4\n\t\t58\n\t\t30\n\t\t28\n\t\t5\n\t\n\t\n\t\tLA UNIÓN\n\t\t2\n\t\t35\n\t\t19\n\t\t16\n\t\t3\n\t\n\t\n\t\tLAS ANACUAS\n\t\t3\n\t\t36\n\t\t15\n\t\t21\n\t\t4\n\t\n\t\n\t\tLAS ANACUITAS\n\t\t2\n\t\t101\n\t\t46\n\t\t55\n\t\t9\n\t\n\t\n\t\tLAS BRISAS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLAS TÓRTOLAS\n\t\t2\n\t\t28\n\t\t8\n\t\t20\n\t\t3\n\t\n\t\n\t\tLOS LIRIOS\n\t\t2\n\t\t11\n\t\t8\n\t\t3\n\t\t2\n\t\n\t\n\t\tNUEVO SANTA ANA\n\t\t1\n\t\t85\n\t\t44\n\t\t41\n\t\t6\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tRAMÍREZ\n\t\t2\n\t\t39\n\t\t18\n\t\t21\n\t\t3\n\t\n\t\n\t\tSAN JOAQUÍN\n\t\t1\n\t\t23\n\t\t7\n\t\t16\n\t\t2\n\t\n\t\n\t\tSAN JUAN DE VAQUERÍAS\n\t\t4\n\t\t141\n\t\t79\n\t\t62\n\t\t13\n\t\n\t\n\t\tSAN JULIÁN\n\t\t2\n\t\t29\n\t\t14\n\t\t15\n\t\t2\n\t\n\t\n\t\tSANTA ANA VIEJO\n\t\t1\n\t\t6\n\t\t1\n\t\t5\n\t\t1\n\t\n\t\n\t\tSANTA ENGRACIA [HACIENDA]\n\t\t2\n\t\t18\n\t\t7\n\t\t11\n\t\t2\n\t\n\t\n\t\tSANTA RITA\n\t\t1\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t88\n\t\t3,001\n\t\t1,503\n\t\t1,498\n\t\t265\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: GENERAL TERÁN",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BUENAVISTA DE JIMÉNEZ",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2",
+          "CALIFORNIA",
+          "2",
+          "59",
+          "35",
+          "24",
+          "5",
+          "EL ENCADENADO",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1",
+          "EL ESPÍRITU",
+          "2",
+          "64",
+          "29",
+          "35",
+          "4",
+          "EL GRANJENAL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3",
+          "EL LLANO (SAN RAFAEL DEL LLANO)",
+          "4",
+          "94",
+          "47",
+          "47",
+          "10",
+          "EL TORO",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "EMILIANO ZAPATA",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2",
+          "GENERAL TERÁN",
+          "26",
+          "1,796",
+          "911",
+          "885",
+          "152",
+          "GUADALUPE LA JOYA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3",
+          "LA BRISA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1",
+          "LA CORONA [HACIENDA]",
+          "5",
+          "200",
+          "93",
+          "107",
+          "17",
+          "LA GRANJA",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2",
+          "LA PURÍSIMA",
+          "4",
+          "58",
+          "30",
+          "28",
+          "5",
+          "LA UNIÓN",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3",
+          "LAS ANACUAS",
+          "3",
+          "36",
+          "15",
+          "21",
+          "4",
+          "LAS ANACUITAS",
+          "2",
+          "101",
+          "46",
+          "55",
+          "9",
+          "LAS BRISAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LAS TÓRTOLAS",
+          "2",
+          "28",
+          "8",
+          "20",
+          "3",
+          "LOS LIRIOS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2",
+          "NUEVO SANTA ANA",
+          "1",
+          "85",
+          "44",
+          "41",
+          "6",
+          "OJO DE AGUA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "RAMÍREZ",
+          "2",
+          "39",
+          "18",
+          "21",
+          "3",
+          "SAN JOAQUÍN",
+          "1",
+          "23",
+          "7",
+          "16",
+          "2",
+          "SAN JUAN DE VAQUERÍAS",
+          "4",
+          "141",
+          "79",
+          "62",
+          "13",
+          "SAN JULIÁN",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2",
+          "SANTA ANA VIEJO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1",
+          "SANTA ENGRACIA [HACIENDA]",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2",
+          "SANTA RITA",
+          "1",
+          "33",
+          "14",
+          "19",
+          "3",
+          "TOTAL",
+          "88",
+          "3,001",
+          "1,503",
+          "1,498",
+          "265",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: GENERAL TERÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENAVISTA DE JIMÉNEZ",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "59",
+          "35",
+          "24",
+          "5"
+        ],
+        [
+          "EL ENCADENADO",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "EL ESPÍRITU",
+          "2",
+          "64",
+          "29",
+          "35",
+          "4"
+        ],
+        [
+          "EL GRANJENAL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "EL LLANO (SAN RAFAEL DEL LLANO)",
+          "4",
+          "94",
+          "47",
+          "47",
+          "10"
+        ],
+        [
+          "EL TORO",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "GENERAL TERÁN",
+          "26",
+          "1,796",
+          "911",
+          "885",
+          "152"
+        ],
+        [
+          "GUADALUPE LA JOYA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3"
+        ],
+        [
+          "LA BRISA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LA CORONA [HACIENDA]",
+          "5",
+          "200",
+          "93",
+          "107",
+          "17"
+        ],
+        [
+          "LA GRANJA",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "LA PURÍSIMA",
+          "4",
+          "58",
+          "30",
+          "28",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LAS ANACUAS",
+          "3",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "LAS ANACUITAS",
+          "2",
+          "101",
+          "46",
+          "55",
+          "9"
+        ],
+        [
+          "LAS BRISAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS TÓRTOLAS",
+          "2",
+          "28",
+          "8",
+          "20",
+          "3"
+        ],
+        [
+          "LOS LIRIOS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "NUEVO SANTA ANA",
+          "1",
+          "85",
+          "44",
+          "41",
+          "6"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "RAMÍREZ",
+          "2",
+          "39",
+          "18",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "23",
+          "7",
+          "16",
+          "2"
+        ],
+        [
+          "SAN JUAN DE VAQUERÍAS",
+          "4",
+          "141",
+          "79",
+          "62",
+          "13"
+        ],
+        [
+          "SAN JULIÁN",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "SANTA ANA VIEJO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA ENGRACIA [HACIENDA]",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA RITA",
+          "1",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "3,001",
+          "1,503",
+          "1,498",
+          "265"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: NUEVO LEÓN;    MUNICIPIO: GENERAL TERÁN"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENAVISTA DE JIMÉNEZ",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "CALIFORNIA",
+          "2",
+          "59",
+          "35",
+          "24",
+          "5"
+        ],
+        [
+          "EL ENCADENADO",
+          "1",
+          "16",
+          "9",
+          "7",
+          "1"
+        ],
+        [
+          "EL ESPÍRITU",
+          "2",
+          "64",
+          "29",
+          "35",
+          "4"
+        ],
+        [
+          "EL GRANJENAL",
+          "3",
+          "25",
+          "13",
+          "12",
+          "3"
+        ],
+        [
+          "EL LLANO (SAN RAFAEL DEL LLANO)",
+          "4",
+          "94",
+          "47",
+          "47",
+          "10"
+        ],
+        [
+          "EL TORO",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "3",
+          "8",
+          "5",
+          "3",
+          "2"
+        ],
+        [
+          "GENERAL TERÁN",
+          "26",
+          "1,796",
+          "911",
+          "885",
+          "152"
+        ],
+        [
+          "GUADALUPE LA JOYA",
+          "3",
+          "16",
+          "10",
+          "6",
+          "3"
+        ],
+        [
+          "LA BRISA",
+          "1",
+          "17",
+          "10",
+          "7",
+          "1"
+        ],
+        [
+          "LA CORONA [HACIENDA]",
+          "5",
+          "200",
+          "93",
+          "107",
+          "17"
+        ],
+        [
+          "LA GRANJA",
+          "1",
+          "28",
+          "12",
+          "16",
+          "2"
+        ],
+        [
+          "LA PURÍSIMA",
+          "4",
+          "58",
+          "30",
+          "28",
+          "5"
+        ],
+        [
+          "LA UNIÓN",
+          "2",
+          "35",
+          "19",
+          "16",
+          "3"
+        ],
+        [
+          "LAS ANACUAS",
+          "3",
+          "36",
+          "15",
+          "21",
+          "4"
+        ],
+        [
+          "LAS ANACUITAS",
+          "2",
+          "101",
+          "46",
+          "55",
+          "9"
+        ],
+        [
+          "LAS BRISAS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LAS TÓRTOLAS",
+          "2",
+          "28",
+          "8",
+          "20",
+          "3"
+        ],
+        [
+          "LOS LIRIOS",
+          "2",
+          "11",
+          "8",
+          "3",
+          "2"
+        ],
+        [
+          "NUEVO SANTA ANA",
+          "1",
+          "85",
+          "44",
+          "41",
+          "6"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "RAMÍREZ",
+          "2",
+          "39",
+          "18",
+          "21",
+          "3"
+        ],
+        [
+          "SAN JOAQUÍN",
+          "1",
+          "23",
+          "7",
+          "16",
+          "2"
+        ],
+        [
+          "SAN JUAN DE VAQUERÍAS",
+          "4",
+          "141",
+          "79",
+          "62",
+          "13"
+        ],
+        [
+          "SAN JULIÁN",
+          "2",
+          "29",
+          "14",
+          "15",
+          "2"
+        ],
+        [
+          "SANTA ANA VIEJO",
+          "1",
+          "6",
+          "1",
+          "5",
+          "1"
+        ],
+        [
+          "SANTA ENGRACIA [HACIENDA]",
+          "2",
+          "18",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "SANTA RITA",
+          "1",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "3,001",
+          "1,503",
+          "1,498",
+          "265"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:24:11.450Z"
+}

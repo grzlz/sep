@@ -1,0 +1,1242 @@
+{
+  "municipality": "TEMOAYA",
+  "municipalityCode": "087",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMOAYA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBARRIO DE LAUREL 1RA. SECCIÓN\n\t\t3\n\t\t574\n\t\t293\n\t\t281\n\t\t32\n\t\n\t\n\t\tBARRIO DE LAUREL 2DA. SECCIÓN\n\t\t1\n\t\t36\n\t\t21\n\t\t15\n\t\t3\n\t\n\t\n\t\tCALLE REAL\n\t\t5\n\t\t382\n\t\t190\n\t\t192\n\t\t18\n\t\n\t\n\t\tCAMPAMENTO KILÓMETRO 48\n\t\t3\n\t\t37\n\t\t12\n\t\t25\n\t\t4\n\t\n\t\n\t\tCERRITO DEL PANAL\n\t\t4\n\t\t252\n\t\t130\n\t\t122\n\t\t11\n\t\n\t\n\t\tCOLONIA ADOLFO LÓPEZ MATEOS\n\t\t3\n\t\t87\n\t\t42\n\t\t45\n\t\t5\n\t\n\t\n\t\tCOLONIA CENTRO CEREMONIAL OTOMÍ\n\t\t2\n\t\t81\n\t\t43\n\t\t38\n\t\t4\n\t\n\t\n\t\tCOLONIA MORELOS\n\t\t2\n\t\t258\n\t\t123\n\t\t135\n\t\t8\n\t\n\t\n\t\tEJIDO DE ALLENDE\n\t\t3\n\t\t348\n\t\t178\n\t\t170\n\t\t18\n\t\n\t\n\t\tEJIDO DE DOLORES\n\t\t3\n\t\t478\n\t\t219\n\t\t259\n\t\t17\n\t\n\t\n\t\tEJIDO DE MIMBRES\n\t\t2\n\t\t170\n\t\t83\n\t\t87\n\t\t7\n\t\n\t\n\t\tEJIDO DE TABORDA\n\t\t3\n\t\t669\n\t\t326\n\t\t343\n\t\t32\n\t\n\t\n\t\tENTHAVI\n\t\t15\n\t\t1,378\n\t\t714\n\t\t664\n\t\t79\n\t\n\t\n\t\tFRACCIONAMIENTO RINCONADA DEL VALLE\n\t\t1\n\t\t143\n\t\t52\n\t\t91\n\t\t25\n\t\n\t\n\t\tHACIENDA LAS TROJES\n\t\t3\n\t\t314\n\t\t157\n\t\t157\n\t\t21\n\t\n\t\n\t\tJIQUIPILCO EL VIEJO\n\t\t8\n\t\t1,414\n\t\t747\n\t\t667\n\t\t93\n\t\n\t\n\t\tLA CAÑADA\n\t\t4\n\t\t278\n\t\t139\n\t\t139\n\t\t20\n\t\n\t\n\t\tLA MAGDALENA TENEXPAN\n\t\t11\n\t\t1,094\n\t\t543\n\t\t551\n\t\t69\n\t\n\t\n\t\tLLANO DE LA Y\n\t\t2\n\t\t483\n\t\t255\n\t\t228\n\t\t19\n\t\n\t\n\t\tLOMA ALTA\n\t\t2\n\t\t75\n\t\t37\n\t\t38\n\t\t5\n\t\n\t\n\t\tLOMA DE PROGRESO\n\t\t2\n\t\t56\n\t\t23\n\t\t33\n\t\t3\n\t\n\t\n\t\tLOMA DE SAN NICOLÁS\n\t\t2\n\t\t343\n\t\t171\n\t\t172\n\t\t12\n\t\n\t\n\t\tLUIS DONALDO COLOSIO MURRIETA\n\t\t1\n\t\t96\n\t\t45\n\t\t51\n\t\t6\n\t\n\t\n\t\tMOLINO ABAJO\n\t\t4\n\t\t846\n\t\t437\n\t\t409\n\t\t27\n\t\n\t\n\t\tPOTHÉ\n\t\t2\n\t\t233\n\t\t111\n\t\t122\n\t\t8\n\t\n\t\n\t\tRANCHERÍA DE TROJES (SAN ANTONIO DEL PUENTE)\n\t\t3\n\t\t786\n\t\t401\n\t\t385\n\t\t31\n\t\n\t\n\t\tRANCHERÍA LAS LOMAS\n\t\t3\n\t\t445\n\t\t232\n\t\t213\n\t\t32\n\t\n\t\n\t\tSAN ANTONIO DEL PUENTE\n\t\t4\n\t\t1,195\n\t\t608\n\t\t587\n\t\t51\n\t\n\t\n\t\tSAN DIEGO ALCALÁ\n\t\t9\n\t\t1,590\n\t\t854\n\t\t736\n\t\t75\n\t\n\t\n\t\tSAN JOSÉ BUENAVISTA EL GRANDE\n\t\t6\n\t\t1,341\n\t\t661\n\t\t680\n\t\t51\n\t\n\t\n\t\tSAN JOSÉ COMALCO\n\t\t4\n\t\t477\n\t\t251\n\t\t226\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ LAS LOMAS\n\t\t3\n\t\t479\n\t\t224\n\t\t255\n\t\t24\n\t\n\t\n\t\tSAN JOSÉ PATHÉ\n\t\t3\n\t\t243\n\t\t108\n\t\t135\n\t\t16\n\t\n\t\n\t\tSAN LORENZO OYAMEL\n\t\t7\n\t\t1,588\n\t\t808\n\t\t780\n\t\t62\n\t\n\t\n\t\tSAN LUCAS\n\t\t1\n\t\t38\n\t\t14\n\t\t24\n\t\t1\n\t\n\t\n\t\tSAN MATEO ALCALÁ\n\t\t1\n\t\t143\n\t\t74\n\t\t69\n\t\t6\n\t\n\t\n\t\tSAN PEDRO ABAJO\n\t\t4\n\t\t936\n\t\t458\n\t\t478\n\t\t39\n\t\n\t\n\t\tSAN PEDRO ABAJO 2DA. SECCIÓN (LOMA LARGA)\n\t\t3\n\t\t626\n\t\t322\n\t\t304\n\t\t31\n\t\n\t\n\t\tSAN PEDRO ARRIBA\n\t\t8\n\t\t1,863\n\t\t918\n\t\t945\n\t\t97\n\t\n\t\n\t\tSAN PEDRO ARRIBA 1RA. SECCIÓN\n\t\t3\n\t\t252\n\t\t126\n\t\t126\n\t\t12\n\t\n\t\n\t\tSAN PEDRO ARRIBA 2DA. SECCIÓN\n\t\t3\n\t\t574\n\t\t289\n\t\t285\n\t\t34\n\t\n\t\n\t\tSAN PEDRO ARRIBA 3RA. SECCIÓN\n\t\t1\n\t\t478\n\t\t264\n\t\t214\n\t\t41\n\t\n\t\n\t\tSAN PEDRO ARRIBA 4TA. SECCIÓN (CINCO REALES)\n\t\t1\n\t\t52\n\t\t24\n\t\t28\n\t\t3\n\t\n\t\n\t\tSAN PEDRO ARRIBA 5TA. SECCIÓN (SAN LORENCITO)\n\t\t3\n\t\t73\n\t\t37\n\t\t36\n\t\t5\n\t\n\t\n\t\tSAN PEDRO ARRIBA 6TA. SECCIÓN\n\t\t4\n\t\t87\n\t\t48\n\t\t39\n\t\t5\n\t\n\t\n\t\tSOLALPAN 1RA. SECCIÓN\n\t\t3\n\t\t305\n\t\t150\n\t\t155\n\t\t20\n\t\n\t\n\t\tTEMOAYA\n\t\t12\n\t\t3,657\n\t\t2,070\n\t\t1,587\n\t\t273\n\t\n\t\n\t\tTIERRA BLANCA\n\t\t1\n\t\t181\n\t\t87\n\t\t94\n\t\t6\n\t\n\t\n\t\tTLALTENANGO ARRIBA\n\t\t4\n\t\t2,197\n\t\t1,165\n\t\t1,032\n\t\t149\n\t\n\t\n\t\tTLALTENANGUITO\n\t\t4\n\t\t383\n\t\t185\n\t\t198\n\t\t22\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t1\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tZANJA VIEJA\n\t\t2\n\t\t115\n\t\t56\n\t\t59\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t192\n\t\t30,247\n\t\t15,534\n\t\t14,713\n\t\t1,665\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMOAYA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BARRIO DE LAUREL 1RA. SECCIÓN",
+          "3",
+          "574",
+          "293",
+          "281",
+          "32",
+          "BARRIO DE LAUREL 2DA. SECCIÓN",
+          "1",
+          "36",
+          "21",
+          "15",
+          "3",
+          "CALLE REAL",
+          "5",
+          "382",
+          "190",
+          "192",
+          "18",
+          "CAMPAMENTO KILÓMETRO 48",
+          "3",
+          "37",
+          "12",
+          "25",
+          "4",
+          "CERRITO DEL PANAL",
+          "4",
+          "252",
+          "130",
+          "122",
+          "11",
+          "COLONIA ADOLFO LÓPEZ MATEOS",
+          "3",
+          "87",
+          "42",
+          "45",
+          "5",
+          "COLONIA CENTRO CEREMONIAL OTOMÍ",
+          "2",
+          "81",
+          "43",
+          "38",
+          "4",
+          "COLONIA MORELOS",
+          "2",
+          "258",
+          "123",
+          "135",
+          "8",
+          "EJIDO DE ALLENDE",
+          "3",
+          "348",
+          "178",
+          "170",
+          "18",
+          "EJIDO DE DOLORES",
+          "3",
+          "478",
+          "219",
+          "259",
+          "17",
+          "EJIDO DE MIMBRES",
+          "2",
+          "170",
+          "83",
+          "87",
+          "7",
+          "EJIDO DE TABORDA",
+          "3",
+          "669",
+          "326",
+          "343",
+          "32",
+          "ENTHAVI",
+          "15",
+          "1,378",
+          "714",
+          "664",
+          "79",
+          "FRACCIONAMIENTO RINCONADA DEL VALLE",
+          "1",
+          "143",
+          "52",
+          "91",
+          "25",
+          "HACIENDA LAS TROJES",
+          "3",
+          "314",
+          "157",
+          "157",
+          "21",
+          "JIQUIPILCO EL VIEJO",
+          "8",
+          "1,414",
+          "747",
+          "667",
+          "93",
+          "LA CAÑADA",
+          "4",
+          "278",
+          "139",
+          "139",
+          "20",
+          "LA MAGDALENA TENEXPAN",
+          "11",
+          "1,094",
+          "543",
+          "551",
+          "69",
+          "LLANO DE LA Y",
+          "2",
+          "483",
+          "255",
+          "228",
+          "19",
+          "LOMA ALTA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "5",
+          "LOMA DE PROGRESO",
+          "2",
+          "56",
+          "23",
+          "33",
+          "3",
+          "LOMA DE SAN NICOLÁS",
+          "2",
+          "343",
+          "171",
+          "172",
+          "12",
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "96",
+          "45",
+          "51",
+          "6",
+          "MOLINO ABAJO",
+          "4",
+          "846",
+          "437",
+          "409",
+          "27",
+          "POTHÉ",
+          "2",
+          "233",
+          "111",
+          "122",
+          "8",
+          "RANCHERÍA DE TROJES (SAN ANTONIO DEL PUENTE)",
+          "3",
+          "786",
+          "401",
+          "385",
+          "31",
+          "RANCHERÍA LAS LOMAS",
+          "3",
+          "445",
+          "232",
+          "213",
+          "32",
+          "SAN ANTONIO DEL PUENTE",
+          "4",
+          "1,195",
+          "608",
+          "587",
+          "51",
+          "SAN DIEGO ALCALÁ",
+          "9",
+          "1,590",
+          "854",
+          "736",
+          "75",
+          "SAN JOSÉ BUENAVISTA EL GRANDE",
+          "6",
+          "1,341",
+          "661",
+          "680",
+          "51",
+          "SAN JOSÉ COMALCO",
+          "4",
+          "477",
+          "251",
+          "226",
+          "24",
+          "SAN JOSÉ LAS LOMAS",
+          "3",
+          "479",
+          "224",
+          "255",
+          "24",
+          "SAN JOSÉ PATHÉ",
+          "3",
+          "243",
+          "108",
+          "135",
+          "16",
+          "SAN LORENZO OYAMEL",
+          "7",
+          "1,588",
+          "808",
+          "780",
+          "62",
+          "SAN LUCAS",
+          "1",
+          "38",
+          "14",
+          "24",
+          "1",
+          "SAN MATEO ALCALÁ",
+          "1",
+          "143",
+          "74",
+          "69",
+          "6",
+          "SAN PEDRO ABAJO",
+          "4",
+          "936",
+          "458",
+          "478",
+          "39",
+          "SAN PEDRO ABAJO 2DA. SECCIÓN (LOMA LARGA)",
+          "3",
+          "626",
+          "322",
+          "304",
+          "31",
+          "SAN PEDRO ARRIBA",
+          "8",
+          "1,863",
+          "918",
+          "945",
+          "97",
+          "SAN PEDRO ARRIBA 1RA. SECCIÓN",
+          "3",
+          "252",
+          "126",
+          "126",
+          "12",
+          "SAN PEDRO ARRIBA 2DA. SECCIÓN",
+          "3",
+          "574",
+          "289",
+          "285",
+          "34",
+          "SAN PEDRO ARRIBA 3RA. SECCIÓN",
+          "1",
+          "478",
+          "264",
+          "214",
+          "41",
+          "SAN PEDRO ARRIBA 4TA. SECCIÓN (CINCO REALES)",
+          "1",
+          "52",
+          "24",
+          "28",
+          "3",
+          "SAN PEDRO ARRIBA 5TA. SECCIÓN (SAN LORENCITO)",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5",
+          "SAN PEDRO ARRIBA 6TA. SECCIÓN",
+          "4",
+          "87",
+          "48",
+          "39",
+          "5",
+          "SOLALPAN 1RA. SECCIÓN",
+          "3",
+          "305",
+          "150",
+          "155",
+          "20",
+          "TEMOAYA",
+          "12",
+          "3,657",
+          "2,070",
+          "1,587",
+          "273",
+          "TIERRA BLANCA",
+          "1",
+          "181",
+          "87",
+          "94",
+          "6",
+          "TLALTENANGO ARRIBA",
+          "4",
+          "2,197",
+          "1,165",
+          "1,032",
+          "149",
+          "TLALTENANGUITO",
+          "4",
+          "383",
+          "185",
+          "198",
+          "22",
+          "VISTA HERMOSA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2",
+          "ZANJA VIEJA",
+          "2",
+          "115",
+          "56",
+          "59",
+          "7",
+          "TOTAL",
+          "192",
+          "30,247",
+          "15,534",
+          "14,713",
+          "1,665",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMOAYA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE LAUREL 1RA. SECCIÓN",
+          "3",
+          "574",
+          "293",
+          "281",
+          "32"
+        ],
+        [
+          "BARRIO DE LAUREL 2DA. SECCIÓN",
+          "1",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "CALLE REAL",
+          "5",
+          "382",
+          "190",
+          "192",
+          "18"
+        ],
+        [
+          "CAMPAMENTO KILÓMETRO 48",
+          "3",
+          "37",
+          "12",
+          "25",
+          "4"
+        ],
+        [
+          "CERRITO DEL PANAL",
+          "4",
+          "252",
+          "130",
+          "122",
+          "11"
+        ],
+        [
+          "COLONIA ADOLFO LÓPEZ MATEOS",
+          "3",
+          "87",
+          "42",
+          "45",
+          "5"
+        ],
+        [
+          "COLONIA CENTRO CEREMONIAL OTOMÍ",
+          "2",
+          "81",
+          "43",
+          "38",
+          "4"
+        ],
+        [
+          "COLONIA MORELOS",
+          "2",
+          "258",
+          "123",
+          "135",
+          "8"
+        ],
+        [
+          "EJIDO DE ALLENDE",
+          "3",
+          "348",
+          "178",
+          "170",
+          "18"
+        ],
+        [
+          "EJIDO DE DOLORES",
+          "3",
+          "478",
+          "219",
+          "259",
+          "17"
+        ],
+        [
+          "EJIDO DE MIMBRES",
+          "2",
+          "170",
+          "83",
+          "87",
+          "7"
+        ],
+        [
+          "EJIDO DE TABORDA",
+          "3",
+          "669",
+          "326",
+          "343",
+          "32"
+        ],
+        [
+          "ENTHAVI",
+          "15",
+          "1,378",
+          "714",
+          "664",
+          "79"
+        ],
+        [
+          "FRACCIONAMIENTO RINCONADA DEL VALLE",
+          "1",
+          "143",
+          "52",
+          "91",
+          "25"
+        ],
+        [
+          "HACIENDA LAS TROJES",
+          "3",
+          "314",
+          "157",
+          "157",
+          "21"
+        ],
+        [
+          "JIQUIPILCO EL VIEJO",
+          "8",
+          "1,414",
+          "747",
+          "667",
+          "93"
+        ],
+        [
+          "LA CAÑADA",
+          "4",
+          "278",
+          "139",
+          "139",
+          "20"
+        ],
+        [
+          "LA MAGDALENA TENEXPAN",
+          "11",
+          "1,094",
+          "543",
+          "551",
+          "69"
+        ],
+        [
+          "LLANO DE LA Y",
+          "2",
+          "483",
+          "255",
+          "228",
+          "19"
+        ],
+        [
+          "LOMA ALTA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "5"
+        ],
+        [
+          "LOMA DE PROGRESO",
+          "2",
+          "56",
+          "23",
+          "33",
+          "3"
+        ],
+        [
+          "LOMA DE SAN NICOLÁS",
+          "2",
+          "343",
+          "171",
+          "172",
+          "12"
+        ],
+        [
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "96",
+          "45",
+          "51",
+          "6"
+        ],
+        [
+          "MOLINO ABAJO",
+          "4",
+          "846",
+          "437",
+          "409",
+          "27"
+        ],
+        [
+          "POTHÉ",
+          "2",
+          "233",
+          "111",
+          "122",
+          "8"
+        ],
+        [
+          "RANCHERÍA DE TROJES (SAN ANTONIO DEL PUENTE)",
+          "3",
+          "786",
+          "401",
+          "385",
+          "31"
+        ],
+        [
+          "RANCHERÍA LAS LOMAS",
+          "3",
+          "445",
+          "232",
+          "213",
+          "32"
+        ],
+        [
+          "SAN ANTONIO DEL PUENTE",
+          "4",
+          "1,195",
+          "608",
+          "587",
+          "51"
+        ],
+        [
+          "SAN DIEGO ALCALÁ",
+          "9",
+          "1,590",
+          "854",
+          "736",
+          "75"
+        ],
+        [
+          "SAN JOSÉ BUENAVISTA EL GRANDE",
+          "6",
+          "1,341",
+          "661",
+          "680",
+          "51"
+        ],
+        [
+          "SAN JOSÉ COMALCO",
+          "4",
+          "477",
+          "251",
+          "226",
+          "24"
+        ],
+        [
+          "SAN JOSÉ LAS LOMAS",
+          "3",
+          "479",
+          "224",
+          "255",
+          "24"
+        ],
+        [
+          "SAN JOSÉ PATHÉ",
+          "3",
+          "243",
+          "108",
+          "135",
+          "16"
+        ],
+        [
+          "SAN LORENZO OYAMEL",
+          "7",
+          "1,588",
+          "808",
+          "780",
+          "62"
+        ],
+        [
+          "SAN LUCAS",
+          "1",
+          "38",
+          "14",
+          "24",
+          "1"
+        ],
+        [
+          "SAN MATEO ALCALÁ",
+          "1",
+          "143",
+          "74",
+          "69",
+          "6"
+        ],
+        [
+          "SAN PEDRO ABAJO",
+          "4",
+          "936",
+          "458",
+          "478",
+          "39"
+        ],
+        [
+          "SAN PEDRO ABAJO 2DA. SECCIÓN (LOMA LARGA)",
+          "3",
+          "626",
+          "322",
+          "304",
+          "31"
+        ],
+        [
+          "SAN PEDRO ARRIBA",
+          "8",
+          "1,863",
+          "918",
+          "945",
+          "97"
+        ],
+        [
+          "SAN PEDRO ARRIBA 1RA. SECCIÓN",
+          "3",
+          "252",
+          "126",
+          "126",
+          "12"
+        ],
+        [
+          "SAN PEDRO ARRIBA 2DA. SECCIÓN",
+          "3",
+          "574",
+          "289",
+          "285",
+          "34"
+        ],
+        [
+          "SAN PEDRO ARRIBA 3RA. SECCIÓN",
+          "1",
+          "478",
+          "264",
+          "214",
+          "41"
+        ],
+        [
+          "SAN PEDRO ARRIBA 4TA. SECCIÓN (CINCO REALES)",
+          "1",
+          "52",
+          "24",
+          "28",
+          "3"
+        ],
+        [
+          "SAN PEDRO ARRIBA 5TA. SECCIÓN (SAN LORENCITO)",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5"
+        ],
+        [
+          "SAN PEDRO ARRIBA 6TA. SECCIÓN",
+          "4",
+          "87",
+          "48",
+          "39",
+          "5"
+        ],
+        [
+          "SOLALPAN 1RA. SECCIÓN",
+          "3",
+          "305",
+          "150",
+          "155",
+          "20"
+        ],
+        [
+          "TEMOAYA",
+          "12",
+          "3,657",
+          "2,070",
+          "1,587",
+          "273"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "181",
+          "87",
+          "94",
+          "6"
+        ],
+        [
+          "TLALTENANGO ARRIBA",
+          "4",
+          "2,197",
+          "1,165",
+          "1,032",
+          "149"
+        ],
+        [
+          "TLALTENANGUITO",
+          "4",
+          "383",
+          "185",
+          "198",
+          "22"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "ZANJA VIEJA",
+          "2",
+          "115",
+          "56",
+          "59",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "192",
+          "30,247",
+          "15,534",
+          "14,713",
+          "1,665"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: TEMOAYA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BARRIO DE LAUREL 1RA. SECCIÓN",
+          "3",
+          "574",
+          "293",
+          "281",
+          "32"
+        ],
+        [
+          "BARRIO DE LAUREL 2DA. SECCIÓN",
+          "1",
+          "36",
+          "21",
+          "15",
+          "3"
+        ],
+        [
+          "CALLE REAL",
+          "5",
+          "382",
+          "190",
+          "192",
+          "18"
+        ],
+        [
+          "CAMPAMENTO KILÓMETRO 48",
+          "3",
+          "37",
+          "12",
+          "25",
+          "4"
+        ],
+        [
+          "CERRITO DEL PANAL",
+          "4",
+          "252",
+          "130",
+          "122",
+          "11"
+        ],
+        [
+          "COLONIA ADOLFO LÓPEZ MATEOS",
+          "3",
+          "87",
+          "42",
+          "45",
+          "5"
+        ],
+        [
+          "COLONIA CENTRO CEREMONIAL OTOMÍ",
+          "2",
+          "81",
+          "43",
+          "38",
+          "4"
+        ],
+        [
+          "COLONIA MORELOS",
+          "2",
+          "258",
+          "123",
+          "135",
+          "8"
+        ],
+        [
+          "EJIDO DE ALLENDE",
+          "3",
+          "348",
+          "178",
+          "170",
+          "18"
+        ],
+        [
+          "EJIDO DE DOLORES",
+          "3",
+          "478",
+          "219",
+          "259",
+          "17"
+        ],
+        [
+          "EJIDO DE MIMBRES",
+          "2",
+          "170",
+          "83",
+          "87",
+          "7"
+        ],
+        [
+          "EJIDO DE TABORDA",
+          "3",
+          "669",
+          "326",
+          "343",
+          "32"
+        ],
+        [
+          "ENTHAVI",
+          "15",
+          "1,378",
+          "714",
+          "664",
+          "79"
+        ],
+        [
+          "FRACCIONAMIENTO RINCONADA DEL VALLE",
+          "1",
+          "143",
+          "52",
+          "91",
+          "25"
+        ],
+        [
+          "HACIENDA LAS TROJES",
+          "3",
+          "314",
+          "157",
+          "157",
+          "21"
+        ],
+        [
+          "JIQUIPILCO EL VIEJO",
+          "8",
+          "1,414",
+          "747",
+          "667",
+          "93"
+        ],
+        [
+          "LA CAÑADA",
+          "4",
+          "278",
+          "139",
+          "139",
+          "20"
+        ],
+        [
+          "LA MAGDALENA TENEXPAN",
+          "11",
+          "1,094",
+          "543",
+          "551",
+          "69"
+        ],
+        [
+          "LLANO DE LA Y",
+          "2",
+          "483",
+          "255",
+          "228",
+          "19"
+        ],
+        [
+          "LOMA ALTA",
+          "2",
+          "75",
+          "37",
+          "38",
+          "5"
+        ],
+        [
+          "LOMA DE PROGRESO",
+          "2",
+          "56",
+          "23",
+          "33",
+          "3"
+        ],
+        [
+          "LOMA DE SAN NICOLÁS",
+          "2",
+          "343",
+          "171",
+          "172",
+          "12"
+        ],
+        [
+          "LUIS DONALDO COLOSIO MURRIETA",
+          "1",
+          "96",
+          "45",
+          "51",
+          "6"
+        ],
+        [
+          "MOLINO ABAJO",
+          "4",
+          "846",
+          "437",
+          "409",
+          "27"
+        ],
+        [
+          "POTHÉ",
+          "2",
+          "233",
+          "111",
+          "122",
+          "8"
+        ],
+        [
+          "RANCHERÍA DE TROJES (SAN ANTONIO DEL PUENTE)",
+          "3",
+          "786",
+          "401",
+          "385",
+          "31"
+        ],
+        [
+          "RANCHERÍA LAS LOMAS",
+          "3",
+          "445",
+          "232",
+          "213",
+          "32"
+        ],
+        [
+          "SAN ANTONIO DEL PUENTE",
+          "4",
+          "1,195",
+          "608",
+          "587",
+          "51"
+        ],
+        [
+          "SAN DIEGO ALCALÁ",
+          "9",
+          "1,590",
+          "854",
+          "736",
+          "75"
+        ],
+        [
+          "SAN JOSÉ BUENAVISTA EL GRANDE",
+          "6",
+          "1,341",
+          "661",
+          "680",
+          "51"
+        ],
+        [
+          "SAN JOSÉ COMALCO",
+          "4",
+          "477",
+          "251",
+          "226",
+          "24"
+        ],
+        [
+          "SAN JOSÉ LAS LOMAS",
+          "3",
+          "479",
+          "224",
+          "255",
+          "24"
+        ],
+        [
+          "SAN JOSÉ PATHÉ",
+          "3",
+          "243",
+          "108",
+          "135",
+          "16"
+        ],
+        [
+          "SAN LORENZO OYAMEL",
+          "7",
+          "1,588",
+          "808",
+          "780",
+          "62"
+        ],
+        [
+          "SAN LUCAS",
+          "1",
+          "38",
+          "14",
+          "24",
+          "1"
+        ],
+        [
+          "SAN MATEO ALCALÁ",
+          "1",
+          "143",
+          "74",
+          "69",
+          "6"
+        ],
+        [
+          "SAN PEDRO ABAJO",
+          "4",
+          "936",
+          "458",
+          "478",
+          "39"
+        ],
+        [
+          "SAN PEDRO ABAJO 2DA. SECCIÓN (LOMA LARGA)",
+          "3",
+          "626",
+          "322",
+          "304",
+          "31"
+        ],
+        [
+          "SAN PEDRO ARRIBA",
+          "8",
+          "1,863",
+          "918",
+          "945",
+          "97"
+        ],
+        [
+          "SAN PEDRO ARRIBA 1RA. SECCIÓN",
+          "3",
+          "252",
+          "126",
+          "126",
+          "12"
+        ],
+        [
+          "SAN PEDRO ARRIBA 2DA. SECCIÓN",
+          "3",
+          "574",
+          "289",
+          "285",
+          "34"
+        ],
+        [
+          "SAN PEDRO ARRIBA 3RA. SECCIÓN",
+          "1",
+          "478",
+          "264",
+          "214",
+          "41"
+        ],
+        [
+          "SAN PEDRO ARRIBA 4TA. SECCIÓN (CINCO REALES)",
+          "1",
+          "52",
+          "24",
+          "28",
+          "3"
+        ],
+        [
+          "SAN PEDRO ARRIBA 5TA. SECCIÓN (SAN LORENCITO)",
+          "3",
+          "73",
+          "37",
+          "36",
+          "5"
+        ],
+        [
+          "SAN PEDRO ARRIBA 6TA. SECCIÓN",
+          "4",
+          "87",
+          "48",
+          "39",
+          "5"
+        ],
+        [
+          "SOLALPAN 1RA. SECCIÓN",
+          "3",
+          "305",
+          "150",
+          "155",
+          "20"
+        ],
+        [
+          "TEMOAYA",
+          "12",
+          "3,657",
+          "2,070",
+          "1,587",
+          "273"
+        ],
+        [
+          "TIERRA BLANCA",
+          "1",
+          "181",
+          "87",
+          "94",
+          "6"
+        ],
+        [
+          "TLALTENANGO ARRIBA",
+          "4",
+          "2,197",
+          "1,165",
+          "1,032",
+          "149"
+        ],
+        [
+          "TLALTENANGUITO",
+          "4",
+          "383",
+          "185",
+          "198",
+          "22"
+        ],
+        [
+          "VISTA HERMOSA",
+          "1",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "ZANJA VIEJA",
+          "2",
+          "115",
+          "56",
+          "59",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "192",
+          "30,247",
+          "15,534",
+          "14,713",
+          "1,665"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:20:31.427Z"
+}

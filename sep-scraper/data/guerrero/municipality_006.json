@@ -1,0 +1,494 @@
+{
+  "municipality": "APAXTLA",
+  "municipalityCode": "006",
+  "state": "GUERRERO",
+  "stateCode": "12",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAPULCO DE JUÁREZ\n\tACATEPEC\n\tAHUACUOTZINGO\n\tAJUCHITLÁN DEL PROGRESO\n\tALCOZAUCA DE GUERRERO\n\tALPOYECA\n\tAPAXTLA\n\tARCELIA\n\tATENANGO DEL RÍO\n\tATLAMAJALCINGO DEL MONTE\n\tATLIXTAC\n\tATOYAC DE ÁLVAREZ\n\tAYUTLA DE LOS LIBRES\n\tAZOYÚ\n\tBENITO JUÁREZ\n\tBUENAVISTA DE CUÉLLAR\n\tCHILAPA DE ÁLVAREZ\n\tCHILPANCINGO DE LOS BRAVO\n\tCOAHUAYUTLA DE JOSÉ MARÍA IZAZAGA\n\tCOCHOAPA EL GRANDE\n\tCOCULA\n\tCOPALA\n\tCOPALILLO\n\tCOPANATOYAC\n\tCOYUCA DE BENÍTEZ\n\tCOYUCA DE CATALÁN\n\tCUAJINICUILAPA\n\tCUALÁC\n\tCUAUTEPEC\n\tCUETZALA DEL PROGRESO\n\tCUTZAMALA DE PINZÓN\n\tEDUARDO NERI\n\tFLORENCIO VILLARREAL\n\tGENERAL CANUTO A. NERI\n\tGENERAL HELIODORO CASTILLO\n\tHUAMUXTITLÁN\n\tHUITZUCO DE LOS FIGUEROA\n\tIGUALA DE LA INDEPENDENCIA\n\tIGUALAPA\n\tILIATENCO\n\tIXCATEOPAN DE CUAUHTÉMOC\n\tJOSÉ JOAQUÍN DE HERRERA\n\tJUAN R. ESCUDERO\n\tJUCHITÁN\n\tLA UNIÓN DE ISIDORO MONTES DE OCA\n\tLAS VIGAS\n\tLEONARDO BRAVO\n\tMALINALTEPEC\n\tMARQUELIA\n\tMÁRTIR DE CUILAPAN\n\tMETLATÓNOC\n\tMOCHITLÁN\n\tÑUU SAVI\n\tOLINALÁ\n\tOMETEPEC\n\tPEDRO ASCENCIO ALQUISIRAS\n\tPETATLÁN\n\tPILCAYA\n\tPUNGARABATO\n\tQUECHULTENANGO\n\tSAN LUIS ACATLÁN\n\tSAN MARCOS\n\tSAN MIGUEL TOTOLAPAN\n\tSAN NICOLÁS\n\tSANTA CRUZ DEL RINCÓN\n\tTAXCO DE ALARCÓN\n\tTECOANAPA\n\tTÉCPAN DE GALEANA\n\tTELOLOAPAN\n\tTEPECOACUILCO DE TRUJANO\n\tTETIPAC\n\tTIXTLA DE GUERRERO\n\tTLACOACHISTLAHUACA\n\tTLACOAPA\n\tTLALCHAPA\n\tTLALIXTAQUILLA DE MALDONADO\n\tTLAPA DE COMONFORT\n\tTLAPEHUALA\n\tXALPATLÁHUAC\n\tXOCHIHUEHUETLÁN\n\tXOCHISTLAHUACA\n\tZAPOTITLÁN TABLAS\n\tZIHUATANEJO DE AZUETA\n\tZIRÁNDARO\n\tZITLALA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: APAXTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCACALOTEPEC\n\t\t4\n\t\t111\n\t\t54\n\t\t57\n\t\t13\n\t\n\t\n\t\tCIUDAD APAXTLA DE CASTREJÓN\n\t\t15\n\t\t1,971\n\t\t1,018\n\t\t953\n\t\t138\n\t\n\t\n\t\tCOLONIA EMILIANO ZAPATA II (CUADRILLA NUEVA)\n\t\t2\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tIGLESIA VIEJA\n\t\t3\n\t\t57\n\t\t33\n\t\t24\n\t\t7\n\t\n\t\n\t\tLA LAGUNITA\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t3\n\t\n\t\n\t\tLIBERALTEPEC\n\t\t3\n\t\t64\n\t\t24\n\t\t40\n\t\t5\n\t\n\t\n\t\tLOS AMATES\n\t\t2\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tNEJAPA\n\t\t1\n\t\t2\n\t\t1\n\t\t1\n\t\t1\n\t\n\t\n\t\tPETLACALA\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tPUEBLO NUEVO SANTA MARÍA\n\t\t2\n\t\t19\n\t\t10\n\t\t9\n\t\t3\n\t\n\t\n\t\tSAN MARCOS\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tTEPOXTEPEC (TEPOZTEPEC)\n\t\t4\n\t\t116\n\t\t65\n\t\t51\n\t\t13\n\t\n\t\n\t\tTEXOCOTLA\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t3\n\t\n\t\n\t\tTLATZALA\n\t\t4\n\t\t102\n\t\t46\n\t\t56\n\t\t12\n\t\n\t\n\t\tTRAPICHAL\n\t\t2\n\t\t11\n\t\t6\n\t\t5\n\t\t2\n\t\n\t\n\t\tXOCHITEPEC\n\t\t4\n\t\t134\n\t\t59\n\t\t75\n\t\t8\n\t\n\t\n\t\tYETLA DOS\n\t\t2\n\t\t54\n\t\t25\n\t\t29\n\t\t4\n\t\n\t\n\t\tZACAPOSTEPEC\n\t\t4\n\t\t113\n\t\t59\n\t\t54\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t59\n\t\t2,838\n\t\t1,440\n\t\t1,398\n\t\t232\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: APAXTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CACALOTEPEC",
+          "4",
+          "111",
+          "54",
+          "57",
+          "13",
+          "CIUDAD APAXTLA DE CASTREJÓN",
+          "15",
+          "1,971",
+          "1,018",
+          "953",
+          "138",
+          "COLONIA EMILIANO ZAPATA II (CUADRILLA NUEVA)",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2",
+          "IGLESIA VIEJA",
+          "3",
+          "57",
+          "33",
+          "24",
+          "7",
+          "LA LAGUNITA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "3",
+          "LIBERALTEPEC",
+          "3",
+          "64",
+          "24",
+          "40",
+          "5",
+          "LOS AMATES",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2",
+          "NEJAPA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "PETLACALA",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3",
+          "PUEBLO NUEVO SANTA MARÍA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3",
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "TEPOXTEPEC (TEPOZTEPEC)",
+          "4",
+          "116",
+          "65",
+          "51",
+          "13",
+          "TEXOCOTLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "3",
+          "TLATZALA",
+          "4",
+          "102",
+          "46",
+          "56",
+          "12",
+          "TRAPICHAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2",
+          "XOCHITEPEC",
+          "4",
+          "134",
+          "59",
+          "75",
+          "8",
+          "YETLA DOS",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4",
+          "ZACAPOSTEPEC",
+          "4",
+          "113",
+          "59",
+          "54",
+          "12",
+          "TOTAL",
+          "59",
+          "2,838",
+          "1,440",
+          "1,398",
+          "232",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: APAXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CACALOTEPEC",
+          "4",
+          "111",
+          "54",
+          "57",
+          "13"
+        ],
+        [
+          "CIUDAD APAXTLA DE CASTREJÓN",
+          "15",
+          "1,971",
+          "1,018",
+          "953",
+          "138"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA II (CUADRILLA NUEVA)",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "IGLESIA VIEJA",
+          "3",
+          "57",
+          "33",
+          "24",
+          "7"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "3"
+        ],
+        [
+          "LIBERALTEPEC",
+          "3",
+          "64",
+          "24",
+          "40",
+          "5"
+        ],
+        [
+          "LOS AMATES",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "NEJAPA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "PETLACALA",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "PUEBLO NUEVO SANTA MARÍA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "TEPOXTEPEC (TEPOZTEPEC)",
+          "4",
+          "116",
+          "65",
+          "51",
+          "13"
+        ],
+        [
+          "TEXOCOTLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "3"
+        ],
+        [
+          "TLATZALA",
+          "4",
+          "102",
+          "46",
+          "56",
+          "12"
+        ],
+        [
+          "TRAPICHAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "XOCHITEPEC",
+          "4",
+          "134",
+          "59",
+          "75",
+          "8"
+        ],
+        [
+          "YETLA DOS",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "ZACAPOSTEPEC",
+          "4",
+          "113",
+          "59",
+          "54",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "59",
+          "2,838",
+          "1,440",
+          "1,398",
+          "232"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: GUERRERO;    MUNICIPIO: APAXTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CACALOTEPEC",
+          "4",
+          "111",
+          "54",
+          "57",
+          "13"
+        ],
+        [
+          "CIUDAD APAXTLA DE CASTREJÓN",
+          "15",
+          "1,971",
+          "1,018",
+          "953",
+          "138"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA II (CUADRILLA NUEVA)",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "IGLESIA VIEJA",
+          "3",
+          "57",
+          "33",
+          "24",
+          "7"
+        ],
+        [
+          "LA LAGUNITA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "3"
+        ],
+        [
+          "LIBERALTEPEC",
+          "3",
+          "64",
+          "24",
+          "40",
+          "5"
+        ],
+        [
+          "LOS AMATES",
+          "2",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "NEJAPA",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "PETLACALA",
+          "2",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "PUEBLO NUEVO SANTA MARÍA",
+          "2",
+          "19",
+          "10",
+          "9",
+          "3"
+        ],
+        [
+          "SAN MARCOS",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "TEPOXTEPEC (TEPOZTEPEC)",
+          "4",
+          "116",
+          "65",
+          "51",
+          "13"
+        ],
+        [
+          "TEXOCOTLA",
+          "2",
+          "11",
+          "6",
+          "5",
+          "3"
+        ],
+        [
+          "TLATZALA",
+          "4",
+          "102",
+          "46",
+          "56",
+          "12"
+        ],
+        [
+          "TRAPICHAL",
+          "2",
+          "11",
+          "6",
+          "5",
+          "2"
+        ],
+        [
+          "XOCHITEPEC",
+          "4",
+          "134",
+          "59",
+          "75",
+          "8"
+        ],
+        [
+          "YETLA DOS",
+          "2",
+          "54",
+          "25",
+          "29",
+          "4"
+        ],
+        [
+          "ZACAPOSTEPEC",
+          "4",
+          "113",
+          "59",
+          "54",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "59",
+          "2,838",
+          "1,440",
+          "1,398",
+          "232"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:09:44.563Z"
+}

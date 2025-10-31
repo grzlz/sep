@@ -1,0 +1,714 @@
+{
+  "municipality": "TEPALCATEPEC",
+  "municipalityCode": "089",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TEPALCATEPEC\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tÁLVARO OBREGÓN\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tCANSANGÜE\n\t\t2\n\t\t31\n\t\t15\n\t\t16\n\t\t2\n\t\n\t\n\t\tCARAPUATO\n\t\t2\n\t\t31\n\t\t17\n\t\t14\n\t\t2\n\t\n\t\n\t\tCOLOMOTITÁN\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t6\n\t\n\t\n\t\tEL BEJUCO\n\t\t4\n\t\t72\n\t\t39\n\t\t33\n\t\t9\n\t\n\t\n\t\tEL CAJÓN\n\t\t1\n\t\t16\n\t\t11\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL MONTOSO\n\t\t3\n\t\t17\n\t\t6\n\t\t11\n\t\t3\n\t\n\t\n\t\tLA BOCANDA\n\t\t1\n\t\t15\n\t\t6\n\t\t9\n\t\t1\n\t\n\t\n\t\tLA ESTANZUELA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA LIMONERA DEL TERRENATE\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA ORDEÑITA\n\t\t3\n\t\t27\n\t\t19\n\t\t8\n\t\t3\n\t\n\t\n\t\tLA RAYA (CAPRICHO)\n\t\t3\n\t\t27\n\t\t18\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA ROMERA\n\t\t2\n\t\t41\n\t\t20\n\t\t21\n\t\t3\n\t\n\t\n\t\tLAS JUNTAS\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t3\n\t\n\t\n\t\tLAS MESAS DEL TERRENATE\n\t\t3\n\t\t24\n\t\t11\n\t\t13\n\t\t4\n\t\n\t\n\t\tLOMA BLANCA\n\t\t3\n\t\t76\n\t\t38\n\t\t38\n\t\t11\n\t\n\t\n\t\tLOS ANONILLOS\n\t\t2\n\t\t17\n\t\t12\n\t\t5\n\t\t3\n\t\n\t\n\t\tLOS AVILLOS\n\t\t3\n\t\t25\n\t\t10\n\t\t15\n\t\t4\n\t\n\t\n\t\tLOS HORCONES\n\t\t1\n\t\t25\n\t\t14\n\t\t11\n\t\t2\n\t\n\t\n\t\tNUEVO CORONGOROS\n\t\t3\n\t\t73\n\t\t41\n\t\t32\n\t\t7\n\t\n\t\n\t\tPANCHA LÓPEZ\n\t\t3\n\t\t47\n\t\t29\n\t\t18\n\t\t3\n\t\n\t\n\t\tPINOLAPA\n\t\t1\n\t\t5\n\t\t4\n\t\t1\n\t\t1\n\t\n\t\n\t\tPLAZA VIEJA\n\t\t2\n\t\t36\n\t\t20\n\t\t16\n\t\t4\n\t\n\t\n\t\tSAN ISIDRO TECUILUCA\n\t\t4\n\t\t214\n\t\t111\n\t\t103\n\t\t22\n\t\n\t\n\t\tTAIXTÁN\n\t\t3\n\t\t105\n\t\t53\n\t\t52\n\t\t6\n\t\n\t\n\t\tTEPALCATEPEC\n\t\t28\n\t\t4,042\n\t\t2,088\n\t\t1,954\n\t\t257\n\t\n\t\n\t\tTEPEMEZQUITES\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tZOQUITITA\n\t\t2\n\t\t8\n\t\t3\n\t\t5\n\t\t1\n\t\n\t\n\t\tTOTAL\n\t\t88\n\t\t5,076\n\t\t2,637\n\t\t2,439\n\t\t366\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TEPALCATEPEC",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ÁLVARO OBREGÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "CANSANGÜE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2",
+          "CARAPUATO",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2",
+          "COLOMOTITÁN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "6",
+          "EL BEJUCO",
+          "4",
+          "72",
+          "39",
+          "33",
+          "9",
+          "EL CAJÓN",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1",
+          "EL MONTOSO",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3",
+          "LA BOCANDA",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1",
+          "LA ESTANZUELA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LA LIMONERA DEL TERRENATE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA ORDEÑITA",
+          "3",
+          "27",
+          "19",
+          "8",
+          "3",
+          "LA RAYA (CAPRICHO)",
+          "3",
+          "27",
+          "18",
+          "9",
+          "3",
+          "LA ROMERA",
+          "2",
+          "41",
+          "20",
+          "21",
+          "3",
+          "LAS JUNTAS",
+          "2",
+          "17",
+          "9",
+          "8",
+          "3",
+          "LAS MESAS DEL TERRENATE",
+          "3",
+          "24",
+          "11",
+          "13",
+          "4",
+          "LOMA BLANCA",
+          "3",
+          "76",
+          "38",
+          "38",
+          "11",
+          "LOS ANONILLOS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "3",
+          "LOS AVILLOS",
+          "3",
+          "25",
+          "10",
+          "15",
+          "4",
+          "LOS HORCONES",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2",
+          "NUEVO CORONGOROS",
+          "3",
+          "73",
+          "41",
+          "32",
+          "7",
+          "PANCHA LÓPEZ",
+          "3",
+          "47",
+          "29",
+          "18",
+          "3",
+          "PINOLAPA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1",
+          "PLAZA VIEJA",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4",
+          "SAN ISIDRO TECUILUCA",
+          "4",
+          "214",
+          "111",
+          "103",
+          "22",
+          "TAIXTÁN",
+          "3",
+          "105",
+          "53",
+          "52",
+          "6",
+          "TEPALCATEPEC",
+          "28",
+          "4,042",
+          "2,088",
+          "1,954",
+          "257",
+          "TEPEMEZQUITES",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "ZOQUITITA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1",
+          "TOTAL",
+          "88",
+          "5,076",
+          "2,637",
+          "2,439",
+          "366",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TEPALCATEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CANSANGÜE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "CARAPUATO",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2"
+        ],
+        [
+          "COLOMOTITÁN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "6"
+        ],
+        [
+          "EL BEJUCO",
+          "4",
+          "72",
+          "39",
+          "33",
+          "9"
+        ],
+        [
+          "EL CAJÓN",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "EL MONTOSO",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "LA BOCANDA",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "LA ESTANZUELA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA LIMONERA DEL TERRENATE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA ORDEÑITA",
+          "3",
+          "27",
+          "19",
+          "8",
+          "3"
+        ],
+        [
+          "LA RAYA (CAPRICHO)",
+          "3",
+          "27",
+          "18",
+          "9",
+          "3"
+        ],
+        [
+          "LA ROMERA",
+          "2",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "LAS JUNTAS",
+          "2",
+          "17",
+          "9",
+          "8",
+          "3"
+        ],
+        [
+          "LAS MESAS DEL TERRENATE",
+          "3",
+          "24",
+          "11",
+          "13",
+          "4"
+        ],
+        [
+          "LOMA BLANCA",
+          "3",
+          "76",
+          "38",
+          "38",
+          "11"
+        ],
+        [
+          "LOS ANONILLOS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "3"
+        ],
+        [
+          "LOS AVILLOS",
+          "3",
+          "25",
+          "10",
+          "15",
+          "4"
+        ],
+        [
+          "LOS HORCONES",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO CORONGOROS",
+          "3",
+          "73",
+          "41",
+          "32",
+          "7"
+        ],
+        [
+          "PANCHA LÓPEZ",
+          "3",
+          "47",
+          "29",
+          "18",
+          "3"
+        ],
+        [
+          "PINOLAPA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "PLAZA VIEJA",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SAN ISIDRO TECUILUCA",
+          "4",
+          "214",
+          "111",
+          "103",
+          "22"
+        ],
+        [
+          "TAIXTÁN",
+          "3",
+          "105",
+          "53",
+          "52",
+          "6"
+        ],
+        [
+          "TEPALCATEPEC",
+          "28",
+          "4,042",
+          "2,088",
+          "1,954",
+          "257"
+        ],
+        [
+          "TEPEMEZQUITES",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "ZOQUITITA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "5,076",
+          "2,637",
+          "2,439",
+          "366"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TEPALCATEPEC"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ÁLVARO OBREGÓN",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "CANSANGÜE",
+          "2",
+          "31",
+          "15",
+          "16",
+          "2"
+        ],
+        [
+          "CARAPUATO",
+          "2",
+          "31",
+          "17",
+          "14",
+          "2"
+        ],
+        [
+          "COLOMOTITÁN",
+          "2",
+          "51",
+          "26",
+          "25",
+          "6"
+        ],
+        [
+          "EL BEJUCO",
+          "4",
+          "72",
+          "39",
+          "33",
+          "9"
+        ],
+        [
+          "EL CAJÓN",
+          "1",
+          "16",
+          "11",
+          "5",
+          "1"
+        ],
+        [
+          "EL MONTOSO",
+          "3",
+          "17",
+          "6",
+          "11",
+          "3"
+        ],
+        [
+          "LA BOCANDA",
+          "1",
+          "15",
+          "6",
+          "9",
+          "1"
+        ],
+        [
+          "LA ESTANZUELA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA LIMONERA DEL TERRENATE",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA ORDEÑITA",
+          "3",
+          "27",
+          "19",
+          "8",
+          "3"
+        ],
+        [
+          "LA RAYA (CAPRICHO)",
+          "3",
+          "27",
+          "18",
+          "9",
+          "3"
+        ],
+        [
+          "LA ROMERA",
+          "2",
+          "41",
+          "20",
+          "21",
+          "3"
+        ],
+        [
+          "LAS JUNTAS",
+          "2",
+          "17",
+          "9",
+          "8",
+          "3"
+        ],
+        [
+          "LAS MESAS DEL TERRENATE",
+          "3",
+          "24",
+          "11",
+          "13",
+          "4"
+        ],
+        [
+          "LOMA BLANCA",
+          "3",
+          "76",
+          "38",
+          "38",
+          "11"
+        ],
+        [
+          "LOS ANONILLOS",
+          "2",
+          "17",
+          "12",
+          "5",
+          "3"
+        ],
+        [
+          "LOS AVILLOS",
+          "3",
+          "25",
+          "10",
+          "15",
+          "4"
+        ],
+        [
+          "LOS HORCONES",
+          "1",
+          "25",
+          "14",
+          "11",
+          "2"
+        ],
+        [
+          "NUEVO CORONGOROS",
+          "3",
+          "73",
+          "41",
+          "32",
+          "7"
+        ],
+        [
+          "PANCHA LÓPEZ",
+          "3",
+          "47",
+          "29",
+          "18",
+          "3"
+        ],
+        [
+          "PINOLAPA",
+          "1",
+          "5",
+          "4",
+          "1",
+          "1"
+        ],
+        [
+          "PLAZA VIEJA",
+          "2",
+          "36",
+          "20",
+          "16",
+          "4"
+        ],
+        [
+          "SAN ISIDRO TECUILUCA",
+          "4",
+          "214",
+          "111",
+          "103",
+          "22"
+        ],
+        [
+          "TAIXTÁN",
+          "3",
+          "105",
+          "53",
+          "52",
+          "6"
+        ],
+        [
+          "TEPALCATEPEC",
+          "28",
+          "4,042",
+          "2,088",
+          "1,954",
+          "257"
+        ],
+        [
+          "TEPEMEZQUITES",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "ZOQUITITA",
+          "2",
+          "8",
+          "3",
+          "5",
+          "1"
+        ],
+        [
+          "TOTAL",
+          "88",
+          "5,076",
+          "2,637",
+          "2,439",
+          "366"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:22:56.141Z"
+}

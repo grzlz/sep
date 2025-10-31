@@ -1,0 +1,780 @@
+{
+  "municipality": "SAN GABRIEL",
+  "municipalityCode": "113",
+  "state": "JALISCO",
+  "stateCode": "14",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACATIC\n\tACATLÁN DE JUÁREZ\n\tAHUALULCO DE MERCADO\n\tAMACUECA\n\tAMATITÁN\n\tAMECA\n\tARANDAS\n\tATEMAJAC DE BRIZUELA\n\tATENGO\n\tATENGUILLO\n\tATOTONILCO EL ALTO\n\tATOYAC\n\tAUTLÁN DE NAVARRO\n\tAYOTLÁN\n\tAYUTLA\n\tBOLAÑOS\n\tCABO CORRIENTES\n\tCAÑADAS DE OBREGÓN\n\tCASIMIRO CASTILLO\n\tCHAPALA\n\tCHIMALTITÁN\n\tCHIQUILISTLÁN\n\tCIHUATLÁN\n\tCOCULA\n\tCOLOTLÁN\n\tCONCEPCIÓN DE BUENOS AIRES\n\tCUAUTITLÁN DE GARCÍA BARRAGÁN\n\tCUAUTLA\n\tCUQUÍO\n\tDEGOLLADO\n\tEJUTLA\n\tEL ARENAL\n\tEL GRULLO\n\tEL LIMÓN\n\tEL SALTO\n\tENCARNACIÓN DE DÍAZ\n\tETZATLÁN\n\tGÓMEZ FARÍAS\n\tGUACHINANGO\n\tGUADALAJARA\n\tHOSTOTIPAQUILLO\n\tHUEJÚCAR\n\tHUEJUQUILLA EL ALTO\n\tIXTLAHUACÁN DE LOS MEMBRILLOS\n\tIXTLAHUACÁN DEL RÍO\n\tJALOSTOTITLÁN\n\tJAMAY\n\tJESÚS MARÍA\n\tJILOTLÁN DE LOS DOLORES\n\tJOCOTEPEC\n\tJUANACATLÁN\n\tJUCHITLÁN\n\tLA BARCA\n\tLA HUERTA\n\tLA MANZANILLA DE LA PAZ\n\tLAGOS DE MORENO\n\tMAGDALENA\n\tMASCOTA\n\tMAZAMITLA\n\tMEXTICACÁN\n\tMEZQUITIC\n\tMIXTLÁN\n\tOCOTLÁN\n\tOJUELOS DE JALISCO\n\tPIHUAMO\n\tPONCITLÁN\n\tPUERTO VALLARTA\n\tQUITUPAN\n\tSAN CRISTÓBAL DE LA BARRANCA\n\tSAN DIEGO DE ALEJANDRÍA\n\tSAN GABRIEL\n\tSAN IGNACIO CERRO GORDO\n\tSAN JUAN DE LOS LAGOS\n\tSAN JUANITO DE ESCOBEDO\n\tSAN JULIÁN\n\tSAN MARCOS\n\tSAN MARTÍN DE BOLAÑOS\n\tSAN MARTÍN HIDALGO\n\tSAN MIGUEL EL ALTO\n\tSAN PEDRO TLAQUEPAQUE\n\tSAN SEBASTIÁN DEL OESTE\n\tSANTA MARÍA DE LOS ÁNGELES\n\tSANTA MARÍA DEL ORO\n\tSAYULA\n\tTALA\n\tTALPA DE ALLENDE\n\tTAMAZULA DE GORDIANO\n\tTAPALPA\n\tTECALITLÁN\n\tTECHALUTA DE MONTENEGRO\n\tTECOLOTLÁN\n\tTENAMAXTLÁN\n\tTEOCALTICHE\n\tTEOCUITATLÁN DE CORONA\n\tTEPATITLÁN DE MORELOS\n\tTEQUILA\n\tTEUCHITLÁN\n\tTIZAPÁN EL ALTO\n\tTLAJOMULCO DE ZÚÑIGA\n\tTOLIMÁN\n\tTOMATLÁN\n\tTONALÁ\n\tTONAYA\n\tTONILA\n\tTOTATICHE\n\tTOTOTLÁN\n\tTUXCACUESCO\n\tTUXCUECA\n\tTUXPAN\n\tUNIÓN DE SAN ANTONIO\n\tUNIÓN DE TULA\n\tVALLE DE GUADALUPE\n\tVALLE DE JUÁREZ\n\tVILLA CORONA\n\tVILLA GUERRERO\n\tVILLA HIDALGO\n\tVILLA PURIFICACIÓN\n\tYAHUALICA DE GONZÁLEZ GALLO\n\tZACOALCO DE TORRES\n\tZAPOPAN\n\tZAPOTILTIC\n\tZAPOTITLÁN DE VADILLO\n\tZAPOTLÁN DEL REY\n\tZAPOTLÁN EL GRANDE\n\tZAPOTLANEJO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN GABRIEL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALISTA\n\t\t2\n\t\t153\n\t\t65\n\t\t88\n\t\t14\n\t\n\t\n\t\tAPANGO\n\t\t2\n\t\t261\n\t\t136\n\t\t125\n\t\t12\n\t\n\t\n\t\tEL AGUAJE\n\t\t4\n\t\t155\n\t\t80\n\t\t75\n\t\t8\n\t\n\t\n\t\tEL JARDÍN\n\t\t2\n\t\t29\n\t\t15\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL JAZMÍN\n\t\t3\n\t\t269\n\t\t145\n\t\t124\n\t\t13\n\t\n\t\n\t\tEL PENAL\n\t\t2\n\t\t132\n\t\t65\n\t\t67\n\t\t7\n\t\n\t\n\t\tEL TEPOZAL\n\t\t2\n\t\t27\n\t\t15\n\t\t12\n\t\t2\n\t\n\t\n\t\tHACIENDA VIEJA\n\t\t1\n\t\t13\n\t\t7\n\t\t6\n\t\t1\n\t\n\t\n\t\tJAHUIQUES\n\t\t2\n\t\t6\n\t\t2\n\t\t4\n\t\t1\n\t\n\t\n\t\tJIQUILPAN\n\t\t5\n\t\t347\n\t\t166\n\t\t181\n\t\t22\n\t\n\t\n\t\tLA CAÑADA\n\t\t2\n\t\t47\n\t\t25\n\t\t22\n\t\t4\n\t\n\t\n\t\tLA CROIX\n\t\t4\n\t\t373\n\t\t190\n\t\t183\n\t\t13\n\t\n\t\n\t\tLA GUADALUPE\n\t\t1\n\t\t45\n\t\t17\n\t\t28\n\t\t2\n\t\n\t\n\t\tLA MANZANILLA\n\t\t1\n\t\t114\n\t\t48\n\t\t66\n\t\t6\n\t\n\t\n\t\tLA TINAJA\n\t\t1\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tLAS VARILLAS\n\t\t1\n\t\t23\n\t\t9\n\t\t14\n\t\t1\n\t\n\t\n\t\tLOS CAMICHINES\n\t\t3\n\t\t67\n\t\t30\n\t\t37\n\t\t4\n\t\n\t\n\t\tLOS FRESNOS\n\t\t3\n\t\t127\n\t\t70\n\t\t57\n\t\t7\n\t\n\t\n\t\tLOS GALLOS\n\t\t1\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS GARCÍA\n\t\t4\n\t\t50\n\t\t30\n\t\t20\n\t\t5\n\t\n\t\n\t\tLOS RANCHITOS\n\t\t1\n\t\t10\n\t\t5\n\t\t5\n\t\t1\n\t\n\t\n\t\tOJO DE AGUA DE APANGO\n\t\t2\n\t\t101\n\t\t48\n\t\t53\n\t\t6\n\t\n\t\n\t\tPRESA DE TIERRA\n\t\t3\n\t\t23\n\t\t8\n\t\t15\n\t\t3\n\t\n\t\n\t\tPUERTO DE LA ESTACADA\n\t\t2\n\t\t3\n\t\t1\n\t\t2\n\t\t1\n\t\n\t\n\t\tSALSIPUEDES\n\t\t1\n\t\t35\n\t\t21\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO\n\t\t2\n\t\t122\n\t\t64\n\t\t58\n\t\t8\n\t\n\t\n\t\tSAN GABRIEL\n\t\t9\n\t\t1,658\n\t\t867\n\t\t791\n\t\t97\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t100\n\t\t46\n\t\t54\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ DEL RINCÓN (SAN JOSÉ DE LAS BURRAS)\n\t\t2\n\t\t98\n\t\t49\n\t\t49\n\t\t7\n\t\n\t\n\t\tSAYULAPAN\n\t\t1\n\t\t18\n\t\t13\n\t\t5\n\t\t1\n\t\n\t\n\t\tTOTOLIMIXPA\n\t\t2\n\t\t230\n\t\t109\n\t\t121\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t74\n\t\t4,663\n\t\t2,356\n\t\t2,307\n\t\t269\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN GABRIEL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALISTA",
+          "2",
+          "153",
+          "65",
+          "88",
+          "14",
+          "APANGO",
+          "2",
+          "261",
+          "136",
+          "125",
+          "12",
+          "EL AGUAJE",
+          "4",
+          "155",
+          "80",
+          "75",
+          "8",
+          "EL JARDÍN",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2",
+          "EL JAZMÍN",
+          "3",
+          "269",
+          "145",
+          "124",
+          "13",
+          "EL PENAL",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7",
+          "EL TEPOZAL",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2",
+          "HACIENDA VIEJA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1",
+          "JAHUIQUES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1",
+          "JIQUILPAN",
+          "5",
+          "347",
+          "166",
+          "181",
+          "22",
+          "LA CAÑADA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "4",
+          "LA CROIX",
+          "4",
+          "373",
+          "190",
+          "183",
+          "13",
+          "LA GUADALUPE",
+          "1",
+          "45",
+          "17",
+          "28",
+          "2",
+          "LA MANZANILLA",
+          "1",
+          "114",
+          "48",
+          "66",
+          "6",
+          "LA TINAJA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "2",
+          "LAS VARILLAS",
+          "1",
+          "23",
+          "9",
+          "14",
+          "1",
+          "LOS CAMICHINES",
+          "3",
+          "67",
+          "30",
+          "37",
+          "4",
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "70",
+          "57",
+          "7",
+          "LOS GALLOS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1",
+          "LOS GARCÍA",
+          "4",
+          "50",
+          "30",
+          "20",
+          "5",
+          "LOS RANCHITOS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1",
+          "OJO DE AGUA DE APANGO",
+          "2",
+          "101",
+          "48",
+          "53",
+          "6",
+          "PRESA DE TIERRA",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3",
+          "PUERTO DE LA ESTACADA",
+          "2",
+          "3",
+          "1",
+          "2",
+          "1",
+          "SALSIPUEDES",
+          "1",
+          "35",
+          "21",
+          "14",
+          "2",
+          "SAN ANTONIO",
+          "2",
+          "122",
+          "64",
+          "58",
+          "8",
+          "SAN GABRIEL",
+          "9",
+          "1,658",
+          "867",
+          "791",
+          "97",
+          "SAN ISIDRO",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6",
+          "SAN JOSÉ DEL RINCÓN (SAN JOSÉ DE LAS BURRAS)",
+          "2",
+          "98",
+          "49",
+          "49",
+          "7",
+          "SAYULAPAN",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1",
+          "TOTOLIMIXPA",
+          "2",
+          "230",
+          "109",
+          "121",
+          "10",
+          "TOTAL",
+          "74",
+          "4,663",
+          "2,356",
+          "2,307",
+          "269",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN GABRIEL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALISTA",
+          "2",
+          "153",
+          "65",
+          "88",
+          "14"
+        ],
+        [
+          "APANGO",
+          "2",
+          "261",
+          "136",
+          "125",
+          "12"
+        ],
+        [
+          "EL AGUAJE",
+          "4",
+          "155",
+          "80",
+          "75",
+          "8"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "EL JAZMÍN",
+          "3",
+          "269",
+          "145",
+          "124",
+          "13"
+        ],
+        [
+          "EL PENAL",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "EL TEPOZAL",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "HACIENDA VIEJA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "JAHUIQUES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "JIQUILPAN",
+          "5",
+          "347",
+          "166",
+          "181",
+          "22"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "4"
+        ],
+        [
+          "LA CROIX",
+          "4",
+          "373",
+          "190",
+          "183",
+          "13"
+        ],
+        [
+          "LA GUADALUPE",
+          "1",
+          "45",
+          "17",
+          "28",
+          "2"
+        ],
+        [
+          "LA MANZANILLA",
+          "1",
+          "114",
+          "48",
+          "66",
+          "6"
+        ],
+        [
+          "LA TINAJA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LAS VARILLAS",
+          "1",
+          "23",
+          "9",
+          "14",
+          "1"
+        ],
+        [
+          "LOS CAMICHINES",
+          "3",
+          "67",
+          "30",
+          "37",
+          "4"
+        ],
+        [
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "70",
+          "57",
+          "7"
+        ],
+        [
+          "LOS GALLOS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LOS GARCÍA",
+          "4",
+          "50",
+          "30",
+          "20",
+          "5"
+        ],
+        [
+          "LOS RANCHITOS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "OJO DE AGUA DE APANGO",
+          "2",
+          "101",
+          "48",
+          "53",
+          "6"
+        ],
+        [
+          "PRESA DE TIERRA",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "PUERTO DE LA ESTACADA",
+          "2",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SALSIPUEDES",
+          "1",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "122",
+          "64",
+          "58",
+          "8"
+        ],
+        [
+          "SAN GABRIEL",
+          "9",
+          "1,658",
+          "867",
+          "791",
+          "97"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6"
+        ],
+        [
+          "SAN JOSÉ DEL RINCÓN (SAN JOSÉ DE LAS BURRAS)",
+          "2",
+          "98",
+          "49",
+          "49",
+          "7"
+        ],
+        [
+          "SAYULAPAN",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1"
+        ],
+        [
+          "TOTOLIMIXPA",
+          "2",
+          "230",
+          "109",
+          "121",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "74",
+          "4,663",
+          "2,356",
+          "2,307",
+          "269"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: JALISCO;    MUNICIPIO: SAN GABRIEL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALISTA",
+          "2",
+          "153",
+          "65",
+          "88",
+          "14"
+        ],
+        [
+          "APANGO",
+          "2",
+          "261",
+          "136",
+          "125",
+          "12"
+        ],
+        [
+          "EL AGUAJE",
+          "4",
+          "155",
+          "80",
+          "75",
+          "8"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "29",
+          "15",
+          "14",
+          "2"
+        ],
+        [
+          "EL JAZMÍN",
+          "3",
+          "269",
+          "145",
+          "124",
+          "13"
+        ],
+        [
+          "EL PENAL",
+          "2",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "EL TEPOZAL",
+          "2",
+          "27",
+          "15",
+          "12",
+          "2"
+        ],
+        [
+          "HACIENDA VIEJA",
+          "1",
+          "13",
+          "7",
+          "6",
+          "1"
+        ],
+        [
+          "JAHUIQUES",
+          "2",
+          "6",
+          "2",
+          "4",
+          "1"
+        ],
+        [
+          "JIQUILPAN",
+          "5",
+          "347",
+          "166",
+          "181",
+          "22"
+        ],
+        [
+          "LA CAÑADA",
+          "2",
+          "47",
+          "25",
+          "22",
+          "4"
+        ],
+        [
+          "LA CROIX",
+          "4",
+          "373",
+          "190",
+          "183",
+          "13"
+        ],
+        [
+          "LA GUADALUPE",
+          "1",
+          "45",
+          "17",
+          "28",
+          "2"
+        ],
+        [
+          "LA MANZANILLA",
+          "1",
+          "114",
+          "48",
+          "66",
+          "6"
+        ],
+        [
+          "LA TINAJA",
+          "1",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "LAS VARILLAS",
+          "1",
+          "23",
+          "9",
+          "14",
+          "1"
+        ],
+        [
+          "LOS CAMICHINES",
+          "3",
+          "67",
+          "30",
+          "37",
+          "4"
+        ],
+        [
+          "LOS FRESNOS",
+          "3",
+          "127",
+          "70",
+          "57",
+          "7"
+        ],
+        [
+          "LOS GALLOS",
+          "1",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "LOS GARCÍA",
+          "4",
+          "50",
+          "30",
+          "20",
+          "5"
+        ],
+        [
+          "LOS RANCHITOS",
+          "1",
+          "10",
+          "5",
+          "5",
+          "1"
+        ],
+        [
+          "OJO DE AGUA DE APANGO",
+          "2",
+          "101",
+          "48",
+          "53",
+          "6"
+        ],
+        [
+          "PRESA DE TIERRA",
+          "3",
+          "23",
+          "8",
+          "15",
+          "3"
+        ],
+        [
+          "PUERTO DE LA ESTACADA",
+          "2",
+          "3",
+          "1",
+          "2",
+          "1"
+        ],
+        [
+          "SALSIPUEDES",
+          "1",
+          "35",
+          "21",
+          "14",
+          "2"
+        ],
+        [
+          "SAN ANTONIO",
+          "2",
+          "122",
+          "64",
+          "58",
+          "8"
+        ],
+        [
+          "SAN GABRIEL",
+          "9",
+          "1,658",
+          "867",
+          "791",
+          "97"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "100",
+          "46",
+          "54",
+          "6"
+        ],
+        [
+          "SAN JOSÉ DEL RINCÓN (SAN JOSÉ DE LAS BURRAS)",
+          "2",
+          "98",
+          "49",
+          "49",
+          "7"
+        ],
+        [
+          "SAYULAPAN",
+          "1",
+          "18",
+          "13",
+          "5",
+          "1"
+        ],
+        [
+          "TOTOLIMIXPA",
+          "2",
+          "230",
+          "109",
+          "121",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "74",
+          "4,663",
+          "2,356",
+          "2,307",
+          "269"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:16:31.107Z"
+}

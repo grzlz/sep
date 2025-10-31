@@ -1,0 +1,1330 @@
+{
+  "municipality": "NACAJUCA",
+  "municipalityCode": "013",
+  "state": "TABASCO",
+  "stateCode": "27",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tBALANCÁN\n\tCÁRDENAS\n\tCENTLA\n\tCENTRO\n\tCOMALCALCO\n\tCUNDUACÁN\n\tEMILIANO ZAPATA\n\tHUIMANGUILLO\n\tJALAPA\n\tJALPA DE MÉNDEZ\n\tJONUTA\n\tMACUSPANA\n\tNACAJUCA\n\tPARAÍSO\n\tTACOTALPA\n\tTEAPA\n\tTENOSIQUE"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: NACAJUCA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tARROYO\n\t\t4\n\t\t238\n\t\t118\n\t\t120\n\t\t11\n\t\n\t\n\t\tBANDERAS (GUATACALCA 2DA. SECCIÓN)\n\t\t5\n\t\t319\n\t\t152\n\t\t167\n\t\t14\n\t\n\t\n\t\tBELÉN\n\t\t3\n\t\t56\n\t\t31\n\t\t25\n\t\t3\n\t\n\t\n\t\tBOSQUE DE SALOYA\n\t\t8\n\t\t2,398\n\t\t1,163\n\t\t1,235\n\t\t95\n\t\n\t\n\t\tBRISAS DEL CARRIZAL\n\t\t3\n\t\t521\n\t\t262\n\t\t259\n\t\t20\n\t\n\t\n\t\tCANTEMOC 1RA. SECCIÓN\n\t\t4\n\t\t214\n\t\t108\n\t\t106\n\t\t11\n\t\n\t\n\t\tCANTEMOC 2DA. SECCIÓN\n\t\t1\n\t\t26\n\t\t14\n\t\t12\n\t\t1\n\t\n\t\n\t\tCHICOZAPOTE\n\t\t4\n\t\t265\n\t\t122\n\t\t143\n\t\t12\n\t\n\t\n\t\tCORRIENTE 1RA. SECCIÓN\n\t\t2\n\t\t136\n\t\t71\n\t\t65\n\t\t6\n\t\n\t\n\t\tEL CEDRO\n\t\t6\n\t\t931\n\t\t433\n\t\t498\n\t\t48\n\t\n\t\n\t\tEL CHIFLÓN\n\t\t3\n\t\t91\n\t\t42\n\t\t49\n\t\t4\n\t\n\t\n\t\tEL COMETA\n\t\t2\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL GUANAL\n\t\t2\n\t\t16\n\t\t11\n\t\t5\n\t\t2\n\t\n\t\n\t\tEL GUÁSIMO\n\t\t3\n\t\t332\n\t\t155\n\t\t177\n\t\t14\n\t\n\t\n\t\tEL HORMIGUERO\n\t\t2\n\t\t59\n\t\t30\n\t\t29\n\t\t3\n\t\n\t\n\t\tEL PASTAL\n\t\t3\n\t\t124\n\t\t57\n\t\t67\n\t\t6\n\t\n\t\n\t\tEL SITIO\n\t\t3\n\t\t81\n\t\t45\n\t\t36\n\t\t4\n\t\n\t\n\t\tEL TIGRE\n\t\t3\n\t\t1,397\n\t\t667\n\t\t730\n\t\t46\n\t\n\t\n\t\tEL ZAPOTE\n\t\t3\n\t\t329\n\t\t150\n\t\t179\n\t\t14\n\t\n\t\n\t\tGUATACALCA\n\t\t9\n\t\t1,802\n\t\t859\n\t\t943\n\t\t70\n\t\n\t\n\t\tGUAYTALPA\n\t\t2\n\t\t147\n\t\t77\n\t\t70\n\t\t8\n\t\n\t\n\t\tISLA GUADALUPE\n\t\t3\n\t\t162\n\t\t88\n\t\t74\n\t\t8\n\t\n\t\n\t\tJIMÉNEZ\n\t\t5\n\t\t691\n\t\t347\n\t\t344\n\t\t29\n\t\n\t\n\t\tJUAN DIEGO\n\t\t1\n\t\t12\n\t\t5\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA CRUZ DE NACAJUCA\n\t\t2\n\t\t138\n\t\t71\n\t\t67\n\t\t7\n\t\n\t\n\t\tLA CRUZ DE OLCUATITÁN\n\t\t3\n\t\t80\n\t\t32\n\t\t48\n\t\t4\n\t\n\t\n\t\tLA CRUZ DEL SANDIAL\n\t\t3\n\t\t234\n\t\t118\n\t\t116\n\t\t10\n\t\n\t\n\t\tLA LOMA\n\t\t3\n\t\t148\n\t\t77\n\t\t71\n\t\t8\n\t\n\t\n\t\tLA SELVA\n\t\t3\n\t\t1,055\n\t\t500\n\t\t555\n\t\t33\n\t\n\t\n\t\tLIBERTAD\n\t\t1\n\t\t133\n\t\t66\n\t\t67\n\t\t7\n\t\n\t\n\t\tLOMITAS\n\t\t5\n\t\t1,035\n\t\t519\n\t\t516\n\t\t38\n\t\n\t\n\t\tMANUEL BUENDÍA TÉLLEZ GIRÓN\n\t\t2\n\t\t307\n\t\t134\n\t\t173\n\t\t10\n\t\n\t\n\t\tMAZATEUPA\n\t\t5\n\t\t1,103\n\t\t545\n\t\t558\n\t\t50\n\t\n\t\n\t\tNACAJUCA\n\t\t15\n\t\t4,747\n\t\t2,516\n\t\t2,231\n\t\t285\n\t\n\t\n\t\tOLCUATITÁN\n\t\t3\n\t\t424\n\t\t205\n\t\t219\n\t\t19\n\t\n\t\n\t\tOXIACAQUE\n\t\t6\n\t\t1,036\n\t\t501\n\t\t535\n\t\t50\n\t\n\t\n\t\tPALMIRA\n\t\t3\n\t\t452\n\t\t215\n\t\t237\n\t\t30\n\t\n\t\n\t\tPOMOCA\n\t\t13\n\t\t4,618\n\t\t2,335\n\t\t2,283\n\t\t161\n\t\n\t\n\t\tRIVERA ALTA\n\t\t2\n\t\t1,327\n\t\t473\n\t\t854\n\t\t17\n\t\n\t\n\t\tSALOYA 1RA. SECCIÓN\n\t\t3\n\t\t587\n\t\t286\n\t\t301\n\t\t22\n\t\n\t\n\t\tSALOYA 2DA. SECCIÓN\n\t\t2\n\t\t527\n\t\t271\n\t\t256\n\t\t18\n\t\n\t\n\t\tSALVADOR ALLENDE\n\t\t1\n\t\t19\n\t\t7\n\t\t12\n\t\t1\n\t\n\t\n\t\tSAMARKANDA\n\t\t3\n\t\t709\n\t\t351\n\t\t358\n\t\t26\n\t\n\t\n\t\tSAN ISIDRO 1RA. SECCIÓN\n\t\t3\n\t\t249\n\t\t128\n\t\t121\n\t\t11\n\t\n\t\n\t\tSAN ISIDRO 2DA. SECCIÓN\n\t\t3\n\t\t124\n\t\t58\n\t\t66\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ PAJONAL\n\t\t3\n\t\t55\n\t\t27\n\t\t28\n\t\t4\n\t\n\t\n\t\tSAN MARCOS\n\t\t4\n\t\t460\n\t\t244\n\t\t216\n\t\t22\n\t\n\t\n\t\tSAN SIMÓN\n\t\t3\n\t\t281\n\t\t143\n\t\t138\n\t\t14\n\t\n\t\n\t\tSANDIAL\n\t\t3\n\t\t684\n\t\t325\n\t\t359\n\t\t24\n\t\n\t\n\t\tSIMÓN BOLÍVAR\n\t\t3\n\t\t114\n\t\t62\n\t\t52\n\t\t5\n\t\n\t\n\t\tTAPOTZINGO\n\t\t6\n\t\t1,640\n\t\t832\n\t\t808\n\t\t96\n\t\n\t\n\t\tTAXCO\n\t\t3\n\t\t210\n\t\t104\n\t\t106\n\t\t9\n\t\n\t\n\t\tTECOLUTA 1RA. SECCIÓN\n\t\t5\n\t\t458\n\t\t224\n\t\t234\n\t\t19\n\t\n\t\n\t\tTECOLUTA 2DA. SECCIÓN\n\t\t3\n\t\t252\n\t\t123\n\t\t129\n\t\t13\n\t\n\t\n\t\tTUCTA\n\t\t3\n\t\t412\n\t\t196\n\t\t216\n\t\t17\n\t\n\t\n\t\tVAINILLA\n\t\t2\n\t\t158\n\t\t77\n\t\t81\n\t\t7\n\t\n\t\n\t\tTOTAL\n\t\t206\n\t\t34,130\n\t\t16,774\n\t\t17,356\n\t\t1,474\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: NACAJUCA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ARROYO",
+          "4",
+          "238",
+          "118",
+          "120",
+          "11",
+          "BANDERAS (GUATACALCA 2DA. SECCIÓN)",
+          "5",
+          "319",
+          "152",
+          "167",
+          "14",
+          "BELÉN",
+          "3",
+          "56",
+          "31",
+          "25",
+          "3",
+          "BOSQUE DE SALOYA",
+          "8",
+          "2,398",
+          "1,163",
+          "1,235",
+          "95",
+          "BRISAS DEL CARRIZAL",
+          "3",
+          "521",
+          "262",
+          "259",
+          "20",
+          "CANTEMOC 1RA. SECCIÓN",
+          "4",
+          "214",
+          "108",
+          "106",
+          "11",
+          "CANTEMOC 2DA. SECCIÓN",
+          "1",
+          "26",
+          "14",
+          "12",
+          "1",
+          "CHICOZAPOTE",
+          "4",
+          "265",
+          "122",
+          "143",
+          "12",
+          "CORRIENTE 1RA. SECCIÓN",
+          "2",
+          "136",
+          "71",
+          "65",
+          "6",
+          "EL CEDRO",
+          "6",
+          "931",
+          "433",
+          "498",
+          "48",
+          "EL CHIFLÓN",
+          "3",
+          "91",
+          "42",
+          "49",
+          "4",
+          "EL COMETA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1",
+          "EL GUANAL",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2",
+          "EL GUÁSIMO",
+          "3",
+          "332",
+          "155",
+          "177",
+          "14",
+          "EL HORMIGUERO",
+          "2",
+          "59",
+          "30",
+          "29",
+          "3",
+          "EL PASTAL",
+          "3",
+          "124",
+          "57",
+          "67",
+          "6",
+          "EL SITIO",
+          "3",
+          "81",
+          "45",
+          "36",
+          "4",
+          "EL TIGRE",
+          "3",
+          "1,397",
+          "667",
+          "730",
+          "46",
+          "EL ZAPOTE",
+          "3",
+          "329",
+          "150",
+          "179",
+          "14",
+          "GUATACALCA",
+          "9",
+          "1,802",
+          "859",
+          "943",
+          "70",
+          "GUAYTALPA",
+          "2",
+          "147",
+          "77",
+          "70",
+          "8",
+          "ISLA GUADALUPE",
+          "3",
+          "162",
+          "88",
+          "74",
+          "8",
+          "JIMÉNEZ",
+          "5",
+          "691",
+          "347",
+          "344",
+          "29",
+          "JUAN DIEGO",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1",
+          "LA CRUZ DE NACAJUCA",
+          "2",
+          "138",
+          "71",
+          "67",
+          "7",
+          "LA CRUZ DE OLCUATITÁN",
+          "3",
+          "80",
+          "32",
+          "48",
+          "4",
+          "LA CRUZ DEL SANDIAL",
+          "3",
+          "234",
+          "118",
+          "116",
+          "10",
+          "LA LOMA",
+          "3",
+          "148",
+          "77",
+          "71",
+          "8",
+          "LA SELVA",
+          "3",
+          "1,055",
+          "500",
+          "555",
+          "33",
+          "LIBERTAD",
+          "1",
+          "133",
+          "66",
+          "67",
+          "7",
+          "LOMITAS",
+          "5",
+          "1,035",
+          "519",
+          "516",
+          "38",
+          "MANUEL BUENDÍA TÉLLEZ GIRÓN",
+          "2",
+          "307",
+          "134",
+          "173",
+          "10",
+          "MAZATEUPA",
+          "5",
+          "1,103",
+          "545",
+          "558",
+          "50",
+          "NACAJUCA",
+          "15",
+          "4,747",
+          "2,516",
+          "2,231",
+          "285",
+          "OLCUATITÁN",
+          "3",
+          "424",
+          "205",
+          "219",
+          "19",
+          "OXIACAQUE",
+          "6",
+          "1,036",
+          "501",
+          "535",
+          "50",
+          "PALMIRA",
+          "3",
+          "452",
+          "215",
+          "237",
+          "30",
+          "POMOCA",
+          "13",
+          "4,618",
+          "2,335",
+          "2,283",
+          "161",
+          "RIVERA ALTA",
+          "2",
+          "1,327",
+          "473",
+          "854",
+          "17",
+          "SALOYA 1RA. SECCIÓN",
+          "3",
+          "587",
+          "286",
+          "301",
+          "22",
+          "SALOYA 2DA. SECCIÓN",
+          "2",
+          "527",
+          "271",
+          "256",
+          "18",
+          "SALVADOR ALLENDE",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1",
+          "SAMARKANDA",
+          "3",
+          "709",
+          "351",
+          "358",
+          "26",
+          "SAN ISIDRO 1RA. SECCIÓN",
+          "3",
+          "249",
+          "128",
+          "121",
+          "11",
+          "SAN ISIDRO 2DA. SECCIÓN",
+          "3",
+          "124",
+          "58",
+          "66",
+          "6",
+          "SAN JOSÉ PAJONAL",
+          "3",
+          "55",
+          "27",
+          "28",
+          "4",
+          "SAN MARCOS",
+          "4",
+          "460",
+          "244",
+          "216",
+          "22",
+          "SAN SIMÓN",
+          "3",
+          "281",
+          "143",
+          "138",
+          "14",
+          "SANDIAL",
+          "3",
+          "684",
+          "325",
+          "359",
+          "24",
+          "SIMÓN BOLÍVAR",
+          "3",
+          "114",
+          "62",
+          "52",
+          "5",
+          "TAPOTZINGO",
+          "6",
+          "1,640",
+          "832",
+          "808",
+          "96",
+          "TAXCO",
+          "3",
+          "210",
+          "104",
+          "106",
+          "9",
+          "TECOLUTA 1RA. SECCIÓN",
+          "5",
+          "458",
+          "224",
+          "234",
+          "19",
+          "TECOLUTA 2DA. SECCIÓN",
+          "3",
+          "252",
+          "123",
+          "129",
+          "13",
+          "TUCTA",
+          "3",
+          "412",
+          "196",
+          "216",
+          "17",
+          "VAINILLA",
+          "2",
+          "158",
+          "77",
+          "81",
+          "7",
+          "TOTAL",
+          "206",
+          "34,130",
+          "16,774",
+          "17,356",
+          "1,474",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: NACAJUCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO",
+          "4",
+          "238",
+          "118",
+          "120",
+          "11"
+        ],
+        [
+          "BANDERAS (GUATACALCA 2DA. SECCIÓN)",
+          "5",
+          "319",
+          "152",
+          "167",
+          "14"
+        ],
+        [
+          "BELÉN",
+          "3",
+          "56",
+          "31",
+          "25",
+          "3"
+        ],
+        [
+          "BOSQUE DE SALOYA",
+          "8",
+          "2,398",
+          "1,163",
+          "1,235",
+          "95"
+        ],
+        [
+          "BRISAS DEL CARRIZAL",
+          "3",
+          "521",
+          "262",
+          "259",
+          "20"
+        ],
+        [
+          "CANTEMOC 1RA. SECCIÓN",
+          "4",
+          "214",
+          "108",
+          "106",
+          "11"
+        ],
+        [
+          "CANTEMOC 2DA. SECCIÓN",
+          "1",
+          "26",
+          "14",
+          "12",
+          "1"
+        ],
+        [
+          "CHICOZAPOTE",
+          "4",
+          "265",
+          "122",
+          "143",
+          "12"
+        ],
+        [
+          "CORRIENTE 1RA. SECCIÓN",
+          "2",
+          "136",
+          "71",
+          "65",
+          "6"
+        ],
+        [
+          "EL CEDRO",
+          "6",
+          "931",
+          "433",
+          "498",
+          "48"
+        ],
+        [
+          "EL CHIFLÓN",
+          "3",
+          "91",
+          "42",
+          "49",
+          "4"
+        ],
+        [
+          "EL COMETA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL GUANAL",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "EL GUÁSIMO",
+          "3",
+          "332",
+          "155",
+          "177",
+          "14"
+        ],
+        [
+          "EL HORMIGUERO",
+          "2",
+          "59",
+          "30",
+          "29",
+          "3"
+        ],
+        [
+          "EL PASTAL",
+          "3",
+          "124",
+          "57",
+          "67",
+          "6"
+        ],
+        [
+          "EL SITIO",
+          "3",
+          "81",
+          "45",
+          "36",
+          "4"
+        ],
+        [
+          "EL TIGRE",
+          "3",
+          "1,397",
+          "667",
+          "730",
+          "46"
+        ],
+        [
+          "EL ZAPOTE",
+          "3",
+          "329",
+          "150",
+          "179",
+          "14"
+        ],
+        [
+          "GUATACALCA",
+          "9",
+          "1,802",
+          "859",
+          "943",
+          "70"
+        ],
+        [
+          "GUAYTALPA",
+          "2",
+          "147",
+          "77",
+          "70",
+          "8"
+        ],
+        [
+          "ISLA GUADALUPE",
+          "3",
+          "162",
+          "88",
+          "74",
+          "8"
+        ],
+        [
+          "JIMÉNEZ",
+          "5",
+          "691",
+          "347",
+          "344",
+          "29"
+        ],
+        [
+          "JUAN DIEGO",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "LA CRUZ DE NACAJUCA",
+          "2",
+          "138",
+          "71",
+          "67",
+          "7"
+        ],
+        [
+          "LA CRUZ DE OLCUATITÁN",
+          "3",
+          "80",
+          "32",
+          "48",
+          "4"
+        ],
+        [
+          "LA CRUZ DEL SANDIAL",
+          "3",
+          "234",
+          "118",
+          "116",
+          "10"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "148",
+          "77",
+          "71",
+          "8"
+        ],
+        [
+          "LA SELVA",
+          "3",
+          "1,055",
+          "500",
+          "555",
+          "33"
+        ],
+        [
+          "LIBERTAD",
+          "1",
+          "133",
+          "66",
+          "67",
+          "7"
+        ],
+        [
+          "LOMITAS",
+          "5",
+          "1,035",
+          "519",
+          "516",
+          "38"
+        ],
+        [
+          "MANUEL BUENDÍA TÉLLEZ GIRÓN",
+          "2",
+          "307",
+          "134",
+          "173",
+          "10"
+        ],
+        [
+          "MAZATEUPA",
+          "5",
+          "1,103",
+          "545",
+          "558",
+          "50"
+        ],
+        [
+          "NACAJUCA",
+          "15",
+          "4,747",
+          "2,516",
+          "2,231",
+          "285"
+        ],
+        [
+          "OLCUATITÁN",
+          "3",
+          "424",
+          "205",
+          "219",
+          "19"
+        ],
+        [
+          "OXIACAQUE",
+          "6",
+          "1,036",
+          "501",
+          "535",
+          "50"
+        ],
+        [
+          "PALMIRA",
+          "3",
+          "452",
+          "215",
+          "237",
+          "30"
+        ],
+        [
+          "POMOCA",
+          "13",
+          "4,618",
+          "2,335",
+          "2,283",
+          "161"
+        ],
+        [
+          "RIVERA ALTA",
+          "2",
+          "1,327",
+          "473",
+          "854",
+          "17"
+        ],
+        [
+          "SALOYA 1RA. SECCIÓN",
+          "3",
+          "587",
+          "286",
+          "301",
+          "22"
+        ],
+        [
+          "SALOYA 2DA. SECCIÓN",
+          "2",
+          "527",
+          "271",
+          "256",
+          "18"
+        ],
+        [
+          "SALVADOR ALLENDE",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "SAMARKANDA",
+          "3",
+          "709",
+          "351",
+          "358",
+          "26"
+        ],
+        [
+          "SAN ISIDRO 1RA. SECCIÓN",
+          "3",
+          "249",
+          "128",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ISIDRO 2DA. SECCIÓN",
+          "3",
+          "124",
+          "58",
+          "66",
+          "6"
+        ],
+        [
+          "SAN JOSÉ PAJONAL",
+          "3",
+          "55",
+          "27",
+          "28",
+          "4"
+        ],
+        [
+          "SAN MARCOS",
+          "4",
+          "460",
+          "244",
+          "216",
+          "22"
+        ],
+        [
+          "SAN SIMÓN",
+          "3",
+          "281",
+          "143",
+          "138",
+          "14"
+        ],
+        [
+          "SANDIAL",
+          "3",
+          "684",
+          "325",
+          "359",
+          "24"
+        ],
+        [
+          "SIMÓN BOLÍVAR",
+          "3",
+          "114",
+          "62",
+          "52",
+          "5"
+        ],
+        [
+          "TAPOTZINGO",
+          "6",
+          "1,640",
+          "832",
+          "808",
+          "96"
+        ],
+        [
+          "TAXCO",
+          "3",
+          "210",
+          "104",
+          "106",
+          "9"
+        ],
+        [
+          "TECOLUTA 1RA. SECCIÓN",
+          "5",
+          "458",
+          "224",
+          "234",
+          "19"
+        ],
+        [
+          "TECOLUTA 2DA. SECCIÓN",
+          "3",
+          "252",
+          "123",
+          "129",
+          "13"
+        ],
+        [
+          "TUCTA",
+          "3",
+          "412",
+          "196",
+          "216",
+          "17"
+        ],
+        [
+          "VAINILLA",
+          "2",
+          "158",
+          "77",
+          "81",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "206",
+          "34,130",
+          "16,774",
+          "17,356",
+          "1,474"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TABASCO;    MUNICIPIO: NACAJUCA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ARROYO",
+          "4",
+          "238",
+          "118",
+          "120",
+          "11"
+        ],
+        [
+          "BANDERAS (GUATACALCA 2DA. SECCIÓN)",
+          "5",
+          "319",
+          "152",
+          "167",
+          "14"
+        ],
+        [
+          "BELÉN",
+          "3",
+          "56",
+          "31",
+          "25",
+          "3"
+        ],
+        [
+          "BOSQUE DE SALOYA",
+          "8",
+          "2,398",
+          "1,163",
+          "1,235",
+          "95"
+        ],
+        [
+          "BRISAS DEL CARRIZAL",
+          "3",
+          "521",
+          "262",
+          "259",
+          "20"
+        ],
+        [
+          "CANTEMOC 1RA. SECCIÓN",
+          "4",
+          "214",
+          "108",
+          "106",
+          "11"
+        ],
+        [
+          "CANTEMOC 2DA. SECCIÓN",
+          "1",
+          "26",
+          "14",
+          "12",
+          "1"
+        ],
+        [
+          "CHICOZAPOTE",
+          "4",
+          "265",
+          "122",
+          "143",
+          "12"
+        ],
+        [
+          "CORRIENTE 1RA. SECCIÓN",
+          "2",
+          "136",
+          "71",
+          "65",
+          "6"
+        ],
+        [
+          "EL CEDRO",
+          "6",
+          "931",
+          "433",
+          "498",
+          "48"
+        ],
+        [
+          "EL CHIFLÓN",
+          "3",
+          "91",
+          "42",
+          "49",
+          "4"
+        ],
+        [
+          "EL COMETA",
+          "2",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL GUANAL",
+          "2",
+          "16",
+          "11",
+          "5",
+          "2"
+        ],
+        [
+          "EL GUÁSIMO",
+          "3",
+          "332",
+          "155",
+          "177",
+          "14"
+        ],
+        [
+          "EL HORMIGUERO",
+          "2",
+          "59",
+          "30",
+          "29",
+          "3"
+        ],
+        [
+          "EL PASTAL",
+          "3",
+          "124",
+          "57",
+          "67",
+          "6"
+        ],
+        [
+          "EL SITIO",
+          "3",
+          "81",
+          "45",
+          "36",
+          "4"
+        ],
+        [
+          "EL TIGRE",
+          "3",
+          "1,397",
+          "667",
+          "730",
+          "46"
+        ],
+        [
+          "EL ZAPOTE",
+          "3",
+          "329",
+          "150",
+          "179",
+          "14"
+        ],
+        [
+          "GUATACALCA",
+          "9",
+          "1,802",
+          "859",
+          "943",
+          "70"
+        ],
+        [
+          "GUAYTALPA",
+          "2",
+          "147",
+          "77",
+          "70",
+          "8"
+        ],
+        [
+          "ISLA GUADALUPE",
+          "3",
+          "162",
+          "88",
+          "74",
+          "8"
+        ],
+        [
+          "JIMÉNEZ",
+          "5",
+          "691",
+          "347",
+          "344",
+          "29"
+        ],
+        [
+          "JUAN DIEGO",
+          "1",
+          "12",
+          "5",
+          "7",
+          "1"
+        ],
+        [
+          "LA CRUZ DE NACAJUCA",
+          "2",
+          "138",
+          "71",
+          "67",
+          "7"
+        ],
+        [
+          "LA CRUZ DE OLCUATITÁN",
+          "3",
+          "80",
+          "32",
+          "48",
+          "4"
+        ],
+        [
+          "LA CRUZ DEL SANDIAL",
+          "3",
+          "234",
+          "118",
+          "116",
+          "10"
+        ],
+        [
+          "LA LOMA",
+          "3",
+          "148",
+          "77",
+          "71",
+          "8"
+        ],
+        [
+          "LA SELVA",
+          "3",
+          "1,055",
+          "500",
+          "555",
+          "33"
+        ],
+        [
+          "LIBERTAD",
+          "1",
+          "133",
+          "66",
+          "67",
+          "7"
+        ],
+        [
+          "LOMITAS",
+          "5",
+          "1,035",
+          "519",
+          "516",
+          "38"
+        ],
+        [
+          "MANUEL BUENDÍA TÉLLEZ GIRÓN",
+          "2",
+          "307",
+          "134",
+          "173",
+          "10"
+        ],
+        [
+          "MAZATEUPA",
+          "5",
+          "1,103",
+          "545",
+          "558",
+          "50"
+        ],
+        [
+          "NACAJUCA",
+          "15",
+          "4,747",
+          "2,516",
+          "2,231",
+          "285"
+        ],
+        [
+          "OLCUATITÁN",
+          "3",
+          "424",
+          "205",
+          "219",
+          "19"
+        ],
+        [
+          "OXIACAQUE",
+          "6",
+          "1,036",
+          "501",
+          "535",
+          "50"
+        ],
+        [
+          "PALMIRA",
+          "3",
+          "452",
+          "215",
+          "237",
+          "30"
+        ],
+        [
+          "POMOCA",
+          "13",
+          "4,618",
+          "2,335",
+          "2,283",
+          "161"
+        ],
+        [
+          "RIVERA ALTA",
+          "2",
+          "1,327",
+          "473",
+          "854",
+          "17"
+        ],
+        [
+          "SALOYA 1RA. SECCIÓN",
+          "3",
+          "587",
+          "286",
+          "301",
+          "22"
+        ],
+        [
+          "SALOYA 2DA. SECCIÓN",
+          "2",
+          "527",
+          "271",
+          "256",
+          "18"
+        ],
+        [
+          "SALVADOR ALLENDE",
+          "1",
+          "19",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "SAMARKANDA",
+          "3",
+          "709",
+          "351",
+          "358",
+          "26"
+        ],
+        [
+          "SAN ISIDRO 1RA. SECCIÓN",
+          "3",
+          "249",
+          "128",
+          "121",
+          "11"
+        ],
+        [
+          "SAN ISIDRO 2DA. SECCIÓN",
+          "3",
+          "124",
+          "58",
+          "66",
+          "6"
+        ],
+        [
+          "SAN JOSÉ PAJONAL",
+          "3",
+          "55",
+          "27",
+          "28",
+          "4"
+        ],
+        [
+          "SAN MARCOS",
+          "4",
+          "460",
+          "244",
+          "216",
+          "22"
+        ],
+        [
+          "SAN SIMÓN",
+          "3",
+          "281",
+          "143",
+          "138",
+          "14"
+        ],
+        [
+          "SANDIAL",
+          "3",
+          "684",
+          "325",
+          "359",
+          "24"
+        ],
+        [
+          "SIMÓN BOLÍVAR",
+          "3",
+          "114",
+          "62",
+          "52",
+          "5"
+        ],
+        [
+          "TAPOTZINGO",
+          "6",
+          "1,640",
+          "832",
+          "808",
+          "96"
+        ],
+        [
+          "TAXCO",
+          "3",
+          "210",
+          "104",
+          "106",
+          "9"
+        ],
+        [
+          "TECOLUTA 1RA. SECCIÓN",
+          "5",
+          "458",
+          "224",
+          "234",
+          "19"
+        ],
+        [
+          "TECOLUTA 2DA. SECCIÓN",
+          "3",
+          "252",
+          "123",
+          "129",
+          "13"
+        ],
+        [
+          "TUCTA",
+          "3",
+          "412",
+          "196",
+          "216",
+          "17"
+        ],
+        [
+          "VAINILLA",
+          "2",
+          "158",
+          "77",
+          "81",
+          "7"
+        ],
+        [
+          "TOTAL",
+          "206",
+          "34,130",
+          "16,774",
+          "17,356",
+          "1,474"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:00.981Z"
+}

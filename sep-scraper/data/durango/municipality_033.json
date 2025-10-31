@@ -1,0 +1,406 @@
+{
+  "municipality": "SÚCHIL",
+  "municipalityCode": "033",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SÚCHIL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tALEJANDRO\n\t\t3\n\t\t73\n\t\t34\n\t\t39\n\t\t4\n\t\n\t\n\t\tALEMÁN (ALEMÁN VIEJO)\n\t\t1\n\t\t27\n\t\t13\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL ALEMÁN (EL ALEMÁN NUEVO)\n\t\t2\n\t\t16\n\t\t9\n\t\t7\n\t\t2\n\t\n\t\n\t\tEMILIANO ZAPATA (LOS COCONOS)\n\t\t3\n\t\t29\n\t\t15\n\t\t14\n\t\t3\n\t\n\t\n\t\tHACIENDA EL MORTERO\n\t\t1\n\t\t2\n\t\t0\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA SOLEDAD\n\t\t3\n\t\t41\n\t\t18\n\t\t23\n\t\t4\n\t\n\t\n\t\tLAS MARGARITAS\n\t\t2\n\t\t9\n\t\t7\n\t\t2\n\t\t1\n\t\n\t\n\t\tLUIS ECHEVERRÍA (LA QUEMADA)\n\t\t2\n\t\t24\n\t\t9\n\t\t15\n\t\t2\n\t\n\t\n\t\tMESA DE SAN ANTONIO (EL LLANO)\n\t\t1\n\t\t41\n\t\t23\n\t\t18\n\t\t2\n\t\n\t\n\t\tMESA DE TABACOS\n\t\t4\n\t\t122\n\t\t47\n\t\t75\n\t\t6\n\t\n\t\n\t\tSAN JUAN DE MICHIS\n\t\t3\n\t\t79\n\t\t47\n\t\t32\n\t\t5\n\t\n\t\n\t\tSAN MIGUEL DE LA MICHILÍA\n\t\t4\n\t\t209\n\t\t117\n\t\t92\n\t\t12\n\t\n\t\n\t\tSANTA CRUZ\n\t\t2\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tSÚCHIL\n\t\t9\n\t\t1,169\n\t\t580\n\t\t589\n\t\t94\n\t\n\t\n\t\tTOTAL\n\t\t40\n\t\t1,846\n\t\t922\n\t\t924\n\t\t139\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SÚCHIL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ALEJANDRO",
+          "3",
+          "73",
+          "34",
+          "39",
+          "4",
+          "ALEMÁN (ALEMÁN VIEJO)",
+          "1",
+          "27",
+          "13",
+          "14",
+          "2",
+          "EL ALEMÁN (EL ALEMÁN NUEVO)",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2",
+          "EMILIANO ZAPATA (LOS COCONOS)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3",
+          "HACIENDA EL MORTERO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1",
+          "LA SOLEDAD",
+          "3",
+          "41",
+          "18",
+          "23",
+          "4",
+          "LAS MARGARITAS",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1",
+          "LUIS ECHEVERRÍA (LA QUEMADA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2",
+          "MESA DE SAN ANTONIO (EL LLANO)",
+          "1",
+          "41",
+          "23",
+          "18",
+          "2",
+          "MESA DE TABACOS",
+          "4",
+          "122",
+          "47",
+          "75",
+          "6",
+          "SAN JUAN DE MICHIS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "5",
+          "SAN MIGUEL DE LA MICHILÍA",
+          "4",
+          "209",
+          "117",
+          "92",
+          "12",
+          "SANTA CRUZ",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "SÚCHIL",
+          "9",
+          "1,169",
+          "580",
+          "589",
+          "94",
+          "TOTAL",
+          "40",
+          "1,846",
+          "922",
+          "924",
+          "139",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SÚCHIL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALEJANDRO",
+          "3",
+          "73",
+          "34",
+          "39",
+          "4"
+        ],
+        [
+          "ALEMÁN (ALEMÁN VIEJO)",
+          "1",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL ALEMÁN (EL ALEMÁN NUEVO)",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (LOS COCONOS)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "HACIENDA EL MORTERO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "41",
+          "18",
+          "23",
+          "4"
+        ],
+        [
+          "LAS MARGARITAS",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "LUIS ECHEVERRÍA (LA QUEMADA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "MESA DE SAN ANTONIO (EL LLANO)",
+          "1",
+          "41",
+          "23",
+          "18",
+          "2"
+        ],
+        [
+          "MESA DE TABACOS",
+          "4",
+          "122",
+          "47",
+          "75",
+          "6"
+        ],
+        [
+          "SAN JUAN DE MICHIS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "5"
+        ],
+        [
+          "SAN MIGUEL DE LA MICHILÍA",
+          "4",
+          "209",
+          "117",
+          "92",
+          "12"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SÚCHIL",
+          "9",
+          "1,169",
+          "580",
+          "589",
+          "94"
+        ],
+        [
+          "TOTAL",
+          "40",
+          "1,846",
+          "922",
+          "924",
+          "139"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: SÚCHIL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ALEJANDRO",
+          "3",
+          "73",
+          "34",
+          "39",
+          "4"
+        ],
+        [
+          "ALEMÁN (ALEMÁN VIEJO)",
+          "1",
+          "27",
+          "13",
+          "14",
+          "2"
+        ],
+        [
+          "EL ALEMÁN (EL ALEMÁN NUEVO)",
+          "2",
+          "16",
+          "9",
+          "7",
+          "2"
+        ],
+        [
+          "EMILIANO ZAPATA (LOS COCONOS)",
+          "3",
+          "29",
+          "15",
+          "14",
+          "3"
+        ],
+        [
+          "HACIENDA EL MORTERO",
+          "1",
+          "2",
+          "0",
+          "2",
+          "1"
+        ],
+        [
+          "LA SOLEDAD",
+          "3",
+          "41",
+          "18",
+          "23",
+          "4"
+        ],
+        [
+          "LAS MARGARITAS",
+          "2",
+          "9",
+          "7",
+          "2",
+          "1"
+        ],
+        [
+          "LUIS ECHEVERRÍA (LA QUEMADA)",
+          "2",
+          "24",
+          "9",
+          "15",
+          "2"
+        ],
+        [
+          "MESA DE SAN ANTONIO (EL LLANO)",
+          "1",
+          "41",
+          "23",
+          "18",
+          "2"
+        ],
+        [
+          "MESA DE TABACOS",
+          "4",
+          "122",
+          "47",
+          "75",
+          "6"
+        ],
+        [
+          "SAN JUAN DE MICHIS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "5"
+        ],
+        [
+          "SAN MIGUEL DE LA MICHILÍA",
+          "4",
+          "209",
+          "117",
+          "92",
+          "12"
+        ],
+        [
+          "SANTA CRUZ",
+          "2",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "SÚCHIL",
+          "9",
+          "1,169",
+          "580",
+          "589",
+          "94"
+        ],
+        [
+          "TOTAL",
+          "40",
+          "1,846",
+          "922",
+          "924",
+          "139"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:08:55.063Z"
+}

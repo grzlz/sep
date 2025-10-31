@@ -1,0 +1,890 @@
+{
+  "municipality": "TIJUANA",
+  "municipalityCode": "004",
+  "state": "BAJA CALIFORNIA",
+  "stateCode": "2",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tENSENADA\n\tMEXICALI\n\tPLAYAS DE ROSARITO\n\tSAN FELIPE\n\tSAN QUINTÍN\n\tTECATE\n\tTIJUANA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TIJUANA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tBUENOS AIRES\n\t\t3\n\t\t896\n\t\t449\n\t\t447\n\t\t29\n\t\n\t\n\t\tCOLINAS DEL FLORIDO\n\t\t2\n\t\t78\n\t\t46\n\t\t32\n\t\t4\n\t\n\t\n\t\tCOLINAS DEL SOL\n\t\t4\n\t\t590\n\t\t293\n\t\t297\n\t\t31\n\t\n\t\n\t\tCUEROS DE VENADOS [RANCHO]\n\t\t2\n\t\t35\n\t\t13\n\t\t22\n\t\t2\n\t\n\t\n\t\tEJIDO CARMEN SERDÁN\n\t\t3\n\t\t55\n\t\t26\n\t\t29\n\t\t3\n\t\n\t\n\t\tEJIDO JAVIER ROJO GÓMEZ\n\t\t6\n\t\t989\n\t\t481\n\t\t508\n\t\t36\n\t\n\t\n\t\tEJIDO LÁZARO CÁRDENAS\n\t\t2\n\t\t520\n\t\t278\n\t\t242\n\t\t17\n\t\n\t\n\t\tEJIDO OJO DE AGUA\n\t\t8\n\t\t2,110\n\t\t1,099\n\t\t1,011\n\t\t104\n\t\n\t\n\t\tEL CAMINO\n\t\t1\n\t\t78\n\t\t32\n\t\t46\n\t\t3\n\t\n\t\n\t\tEL GAVILÁN\n\t\t1\n\t\t84\n\t\t42\n\t\t42\n\t\t4\n\t\n\t\n\t\tEL NIÑO\n\t\t5\n\t\t2,245\n\t\t1,116\n\t\t1,129\n\t\t70\n\t\n\t\n\t\tEL REFUGIO\n\t\t13\n\t\t5,237\n\t\t2,646\n\t\t2,591\n\t\t209\n\t\n\t\n\t\tEL RINCONCITO\n\t\t2\n\t\t69\n\t\t30\n\t\t39\n\t\t3\n\t\n\t\n\t\tEL TRÉBOL\n\t\t2\n\t\t22\n\t\t8\n\t\t14\n\t\t2\n\t\n\t\n\t\tGENARO VÁZQUEZ SECCIÓN TRES\n\t\t3\n\t\t1,246\n\t\t615\n\t\t631\n\t\t42\n\t\n\t\n\t\tGRUPO MUZQUIZ\n\t\t1\n\t\t18\n\t\t10\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA ESPERANZA [GRANJAS FAMILIARES]\n\t\t2\n\t\t424\n\t\t224\n\t\t200\n\t\t16\n\t\n\t\n\t\tLA ESPERANZA [VIVERO]\n\t\t3\n\t\t16\n\t\t7\n\t\t9\n\t\t3\n\t\n\t\n\t\tLA JOYA\n\t\t16\n\t\t5,101\n\t\t2,542\n\t\t2,559\n\t\t208\n\t\n\t\n\t\tLAS DELICIAS\n\t\t10\n\t\t5,012\n\t\t2,525\n\t\t2,487\n\t\t190\n\t\n\t\n\t\tLOMAS DEL MAR\n\t\t2\n\t\t182\n\t\t82\n\t\t100\n\t\t8\n\t\n\t\n\t\tLOMAS DEL PEDREGAL\n\t\t1\n\t\t44\n\t\t28\n\t\t16\n\t\t3\n\t\n\t\n\t\tLOMAS DEL VALLE\n\t\t3\n\t\t870\n\t\t425\n\t\t445\n\t\t30\n\t\n\t\n\t\tLOS AGUAJITOS\n\t\t2\n\t\t450\n\t\t228\n\t\t222\n\t\t25\n\t\n\t\n\t\tMACLOVIO ROJAS\n\t\t9\n\t\t2,152\n\t\t1,016\n\t\t1,136\n\t\t76\n\t\n\t\n\t\tMARGARITA RESIDENCIAL [FRACCIONAMIENTO]\n\t\t2\n\t\t841\n\t\t409\n\t\t432\n\t\t30\n\t\n\t\n\t\tNATURA\n\t\t4\n\t\t1,581\n\t\t813\n\t\t768\n\t\t50\n\t\n\t\n\t\tPARAJES DEL VALLE\n\t\t14\n\t\t6,822\n\t\t3,376\n\t\t3,446\n\t\t250\n\t\n\t\n\t\tPÓRTICOS DE SAN ANTONIO\n\t\t14\n\t\t6,213\n\t\t3,106\n\t\t3,107\n\t\t276\n\t\n\t\n\t\tREAL DEL MAR\n\t\t2\n\t\t211\n\t\t116\n\t\t95\n\t\t9\n\t\n\t\n\t\tSAN LUIS\n\t\t17\n\t\t8,135\n\t\t4,007\n\t\t4,128\n\t\t295\n\t\n\t\n\t\tSANTA FE\n\t\t2\n\t\t27\n\t\t14\n\t\t13\n\t\t2\n\t\n\t\n\t\tTERRAZAS DEL VALLE\n\t\t9\n\t\t3,727\n\t\t1,849\n\t\t1,878\n\t\t159\n\t\n\t\n\t\tTIJUANA\n\t\t1,735\n\t\t428,033\n\t\t216,328\n\t\t211,705\n\t\t25,284\n\t\n\t\n\t\tVALLE BONITO\n\t\t3\n\t\t276\n\t\t132\n\t\t144\n\t\t10\n\t\n\t\n\t\tVALLE REDONDO\n\t\t6\n\t\t705\n\t\t331\n\t\t374\n\t\t30\n\t\n\t\n\t\tTOTAL\n\t\t1,914\n\t\t485,094\n\t\t244,742\n\t\t240,352\n\t\t27,514\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TIJUANA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "BUENOS AIRES",
+          "3",
+          "896",
+          "449",
+          "447",
+          "29",
+          "COLINAS DEL FLORIDO",
+          "2",
+          "78",
+          "46",
+          "32",
+          "4",
+          "COLINAS DEL SOL",
+          "4",
+          "590",
+          "293",
+          "297",
+          "31",
+          "CUEROS DE VENADOS [RANCHO]",
+          "2",
+          "35",
+          "13",
+          "22",
+          "2",
+          "EJIDO CARMEN SERDÁN",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3",
+          "EJIDO JAVIER ROJO GÓMEZ",
+          "6",
+          "989",
+          "481",
+          "508",
+          "36",
+          "EJIDO LÁZARO CÁRDENAS",
+          "2",
+          "520",
+          "278",
+          "242",
+          "17",
+          "EJIDO OJO DE AGUA",
+          "8",
+          "2,110",
+          "1,099",
+          "1,011",
+          "104",
+          "EL CAMINO",
+          "1",
+          "78",
+          "32",
+          "46",
+          "3",
+          "EL GAVILÁN",
+          "1",
+          "84",
+          "42",
+          "42",
+          "4",
+          "EL NIÑO",
+          "5",
+          "2,245",
+          "1,116",
+          "1,129",
+          "70",
+          "EL REFUGIO",
+          "13",
+          "5,237",
+          "2,646",
+          "2,591",
+          "209",
+          "EL RINCONCITO",
+          "2",
+          "69",
+          "30",
+          "39",
+          "3",
+          "EL TRÉBOL",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2",
+          "GENARO VÁZQUEZ SECCIÓN TRES",
+          "3",
+          "1,246",
+          "615",
+          "631",
+          "42",
+          "GRUPO MUZQUIZ",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1",
+          "LA ESPERANZA [GRANJAS FAMILIARES]",
+          "2",
+          "424",
+          "224",
+          "200",
+          "16",
+          "LA ESPERANZA [VIVERO]",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3",
+          "LA JOYA",
+          "16",
+          "5,101",
+          "2,542",
+          "2,559",
+          "208",
+          "LAS DELICIAS",
+          "10",
+          "5,012",
+          "2,525",
+          "2,487",
+          "190",
+          "LOMAS DEL MAR",
+          "2",
+          "182",
+          "82",
+          "100",
+          "8",
+          "LOMAS DEL PEDREGAL",
+          "1",
+          "44",
+          "28",
+          "16",
+          "3",
+          "LOMAS DEL VALLE",
+          "3",
+          "870",
+          "425",
+          "445",
+          "30",
+          "LOS AGUAJITOS",
+          "2",
+          "450",
+          "228",
+          "222",
+          "25",
+          "MACLOVIO ROJAS",
+          "9",
+          "2,152",
+          "1,016",
+          "1,136",
+          "76",
+          "MARGARITA RESIDENCIAL [FRACCIONAMIENTO]",
+          "2",
+          "841",
+          "409",
+          "432",
+          "30",
+          "NATURA",
+          "4",
+          "1,581",
+          "813",
+          "768",
+          "50",
+          "PARAJES DEL VALLE",
+          "14",
+          "6,822",
+          "3,376",
+          "3,446",
+          "250",
+          "PÓRTICOS DE SAN ANTONIO",
+          "14",
+          "6,213",
+          "3,106",
+          "3,107",
+          "276",
+          "REAL DEL MAR",
+          "2",
+          "211",
+          "116",
+          "95",
+          "9",
+          "SAN LUIS",
+          "17",
+          "8,135",
+          "4,007",
+          "4,128",
+          "295",
+          "SANTA FE",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2",
+          "TERRAZAS DEL VALLE",
+          "9",
+          "3,727",
+          "1,849",
+          "1,878",
+          "159",
+          "TIJUANA",
+          "1,735",
+          "428,033",
+          "216,328",
+          "211,705",
+          "25,284",
+          "VALLE BONITO",
+          "3",
+          "276",
+          "132",
+          "144",
+          "10",
+          "VALLE REDONDO",
+          "6",
+          "705",
+          "331",
+          "374",
+          "30",
+          "TOTAL",
+          "1,914",
+          "485,094",
+          "244,742",
+          "240,352",
+          "27,514",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TIJUANA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENOS AIRES",
+          "3",
+          "896",
+          "449",
+          "447",
+          "29"
+        ],
+        [
+          "COLINAS DEL FLORIDO",
+          "2",
+          "78",
+          "46",
+          "32",
+          "4"
+        ],
+        [
+          "COLINAS DEL SOL",
+          "4",
+          "590",
+          "293",
+          "297",
+          "31"
+        ],
+        [
+          "CUEROS DE VENADOS [RANCHO]",
+          "2",
+          "35",
+          "13",
+          "22",
+          "2"
+        ],
+        [
+          "EJIDO CARMEN SERDÁN",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EJIDO JAVIER ROJO GÓMEZ",
+          "6",
+          "989",
+          "481",
+          "508",
+          "36"
+        ],
+        [
+          "EJIDO LÁZARO CÁRDENAS",
+          "2",
+          "520",
+          "278",
+          "242",
+          "17"
+        ],
+        [
+          "EJIDO OJO DE AGUA",
+          "8",
+          "2,110",
+          "1,099",
+          "1,011",
+          "104"
+        ],
+        [
+          "EL CAMINO",
+          "1",
+          "78",
+          "32",
+          "46",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "84",
+          "42",
+          "42",
+          "4"
+        ],
+        [
+          "EL NIÑO",
+          "5",
+          "2,245",
+          "1,116",
+          "1,129",
+          "70"
+        ],
+        [
+          "EL REFUGIO",
+          "13",
+          "5,237",
+          "2,646",
+          "2,591",
+          "209"
+        ],
+        [
+          "EL RINCONCITO",
+          "2",
+          "69",
+          "30",
+          "39",
+          "3"
+        ],
+        [
+          "EL TRÉBOL",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "GENARO VÁZQUEZ SECCIÓN TRES",
+          "3",
+          "1,246",
+          "615",
+          "631",
+          "42"
+        ],
+        [
+          "GRUPO MUZQUIZ",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "LA ESPERANZA [GRANJAS FAMILIARES]",
+          "2",
+          "424",
+          "224",
+          "200",
+          "16"
+        ],
+        [
+          "LA ESPERANZA [VIVERO]",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "16",
+          "5,101",
+          "2,542",
+          "2,559",
+          "208"
+        ],
+        [
+          "LAS DELICIAS",
+          "10",
+          "5,012",
+          "2,525",
+          "2,487",
+          "190"
+        ],
+        [
+          "LOMAS DEL MAR",
+          "2",
+          "182",
+          "82",
+          "100",
+          "8"
+        ],
+        [
+          "LOMAS DEL PEDREGAL",
+          "1",
+          "44",
+          "28",
+          "16",
+          "3"
+        ],
+        [
+          "LOMAS DEL VALLE",
+          "3",
+          "870",
+          "425",
+          "445",
+          "30"
+        ],
+        [
+          "LOS AGUAJITOS",
+          "2",
+          "450",
+          "228",
+          "222",
+          "25"
+        ],
+        [
+          "MACLOVIO ROJAS",
+          "9",
+          "2,152",
+          "1,016",
+          "1,136",
+          "76"
+        ],
+        [
+          "MARGARITA RESIDENCIAL [FRACCIONAMIENTO]",
+          "2",
+          "841",
+          "409",
+          "432",
+          "30"
+        ],
+        [
+          "NATURA",
+          "4",
+          "1,581",
+          "813",
+          "768",
+          "50"
+        ],
+        [
+          "PARAJES DEL VALLE",
+          "14",
+          "6,822",
+          "3,376",
+          "3,446",
+          "250"
+        ],
+        [
+          "PÓRTICOS DE SAN ANTONIO",
+          "14",
+          "6,213",
+          "3,106",
+          "3,107",
+          "276"
+        ],
+        [
+          "REAL DEL MAR",
+          "2",
+          "211",
+          "116",
+          "95",
+          "9"
+        ],
+        [
+          "SAN LUIS",
+          "17",
+          "8,135",
+          "4,007",
+          "4,128",
+          "295"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "TERRAZAS DEL VALLE",
+          "9",
+          "3,727",
+          "1,849",
+          "1,878",
+          "159"
+        ],
+        [
+          "TIJUANA",
+          "1,735",
+          "428,033",
+          "216,328",
+          "211,705",
+          "25,284"
+        ],
+        [
+          "VALLE BONITO",
+          "3",
+          "276",
+          "132",
+          "144",
+          "10"
+        ],
+        [
+          "VALLE REDONDO",
+          "6",
+          "705",
+          "331",
+          "374",
+          "30"
+        ],
+        [
+          "TOTAL",
+          "1,914",
+          "485,094",
+          "244,742",
+          "240,352",
+          "27,514"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: BAJA CALIFORNIA;    MUNICIPIO: TIJUANA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "BUENOS AIRES",
+          "3",
+          "896",
+          "449",
+          "447",
+          "29"
+        ],
+        [
+          "COLINAS DEL FLORIDO",
+          "2",
+          "78",
+          "46",
+          "32",
+          "4"
+        ],
+        [
+          "COLINAS DEL SOL",
+          "4",
+          "590",
+          "293",
+          "297",
+          "31"
+        ],
+        [
+          "CUEROS DE VENADOS [RANCHO]",
+          "2",
+          "35",
+          "13",
+          "22",
+          "2"
+        ],
+        [
+          "EJIDO CARMEN SERDÁN",
+          "3",
+          "55",
+          "26",
+          "29",
+          "3"
+        ],
+        [
+          "EJIDO JAVIER ROJO GÓMEZ",
+          "6",
+          "989",
+          "481",
+          "508",
+          "36"
+        ],
+        [
+          "EJIDO LÁZARO CÁRDENAS",
+          "2",
+          "520",
+          "278",
+          "242",
+          "17"
+        ],
+        [
+          "EJIDO OJO DE AGUA",
+          "8",
+          "2,110",
+          "1,099",
+          "1,011",
+          "104"
+        ],
+        [
+          "EL CAMINO",
+          "1",
+          "78",
+          "32",
+          "46",
+          "3"
+        ],
+        [
+          "EL GAVILÁN",
+          "1",
+          "84",
+          "42",
+          "42",
+          "4"
+        ],
+        [
+          "EL NIÑO",
+          "5",
+          "2,245",
+          "1,116",
+          "1,129",
+          "70"
+        ],
+        [
+          "EL REFUGIO",
+          "13",
+          "5,237",
+          "2,646",
+          "2,591",
+          "209"
+        ],
+        [
+          "EL RINCONCITO",
+          "2",
+          "69",
+          "30",
+          "39",
+          "3"
+        ],
+        [
+          "EL TRÉBOL",
+          "2",
+          "22",
+          "8",
+          "14",
+          "2"
+        ],
+        [
+          "GENARO VÁZQUEZ SECCIÓN TRES",
+          "3",
+          "1,246",
+          "615",
+          "631",
+          "42"
+        ],
+        [
+          "GRUPO MUZQUIZ",
+          "1",
+          "18",
+          "10",
+          "8",
+          "1"
+        ],
+        [
+          "LA ESPERANZA [GRANJAS FAMILIARES]",
+          "2",
+          "424",
+          "224",
+          "200",
+          "16"
+        ],
+        [
+          "LA ESPERANZA [VIVERO]",
+          "3",
+          "16",
+          "7",
+          "9",
+          "3"
+        ],
+        [
+          "LA JOYA",
+          "16",
+          "5,101",
+          "2,542",
+          "2,559",
+          "208"
+        ],
+        [
+          "LAS DELICIAS",
+          "10",
+          "5,012",
+          "2,525",
+          "2,487",
+          "190"
+        ],
+        [
+          "LOMAS DEL MAR",
+          "2",
+          "182",
+          "82",
+          "100",
+          "8"
+        ],
+        [
+          "LOMAS DEL PEDREGAL",
+          "1",
+          "44",
+          "28",
+          "16",
+          "3"
+        ],
+        [
+          "LOMAS DEL VALLE",
+          "3",
+          "870",
+          "425",
+          "445",
+          "30"
+        ],
+        [
+          "LOS AGUAJITOS",
+          "2",
+          "450",
+          "228",
+          "222",
+          "25"
+        ],
+        [
+          "MACLOVIO ROJAS",
+          "9",
+          "2,152",
+          "1,016",
+          "1,136",
+          "76"
+        ],
+        [
+          "MARGARITA RESIDENCIAL [FRACCIONAMIENTO]",
+          "2",
+          "841",
+          "409",
+          "432",
+          "30"
+        ],
+        [
+          "NATURA",
+          "4",
+          "1,581",
+          "813",
+          "768",
+          "50"
+        ],
+        [
+          "PARAJES DEL VALLE",
+          "14",
+          "6,822",
+          "3,376",
+          "3,446",
+          "250"
+        ],
+        [
+          "PÓRTICOS DE SAN ANTONIO",
+          "14",
+          "6,213",
+          "3,106",
+          "3,107",
+          "276"
+        ],
+        [
+          "REAL DEL MAR",
+          "2",
+          "211",
+          "116",
+          "95",
+          "9"
+        ],
+        [
+          "SAN LUIS",
+          "17",
+          "8,135",
+          "4,007",
+          "4,128",
+          "295"
+        ],
+        [
+          "SANTA FE",
+          "2",
+          "27",
+          "14",
+          "13",
+          "2"
+        ],
+        [
+          "TERRAZAS DEL VALLE",
+          "9",
+          "3,727",
+          "1,849",
+          "1,878",
+          "159"
+        ],
+        [
+          "TIJUANA",
+          "1,735",
+          "428,033",
+          "216,328",
+          "211,705",
+          "25,284"
+        ],
+        [
+          "VALLE BONITO",
+          "3",
+          "276",
+          "132",
+          "144",
+          "10"
+        ],
+        [
+          "VALLE REDONDO",
+          "6",
+          "705",
+          "331",
+          "374",
+          "30"
+        ],
+        [
+          "TOTAL",
+          "1,914",
+          "485,094",
+          "244,742",
+          "240,352",
+          "27,514"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:06.450Z"
+}

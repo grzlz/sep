@@ -1,0 +1,1088 @@
+{
+  "municipality": "CATAZAJÁ",
+  "municipalityCode": "016",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CATAZAJÁ\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUA FRÍA\n\t\t4\n\t\t231\n\t\t124\n\t\t107\n\t\t12\n\t\n\t\n\t\tBAJO USUMACINTA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tBOCA DEL RÍO CHICO\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tBUENAVISTA DAMASCO\n\t\t2\n\t\t13\n\t\t10\n\t\t3\n\t\t2\n\t\n\t\n\t\tCATAZAJÁ\n\t\t11\n\t\t2,108\n\t\t970\n\t\t1,138\n\t\t106\n\t\n\t\n\t\tCRUCERO EL CUYO\n\t\t1\n\t\t48\n\t\t20\n\t\t28\n\t\t3\n\t\n\t\n\t\tCUAUHTÉMOC\n\t\t2\n\t\t117\n\t\t60\n\t\t57\n\t\t5\n\t\n\t\n\t\tCUAUHTEMOC QUEMADO\n\t\t2\n\t\t59\n\t\t28\n\t\t31\n\t\t4\n\t\n\t\n\t\tCUYO (ÁLVARO OBREGÓN)\n\t\t3\n\t\t173\n\t\t80\n\t\t93\n\t\t12\n\t\n\t\n\t\tCUYO SANTA CRUZ\n\t\t2\n\t\t18\n\t\t9\n\t\t9\n\t\t2\n\t\n\t\n\t\tDOBLE A\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL CAOBA\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL DESENGAÑO\n\t\t2\n\t\t9\n\t\t2\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL PAJONAL\n\t\t2\n\t\t36\n\t\t22\n\t\t14\n\t\t2\n\t\n\t\n\t\tEL PARAÍSO\n\t\t4\n\t\t153\n\t\t75\n\t\t78\n\t\t10\n\t\n\t\n\t\tEL REMOLINO 1RA. SECCIÓN\n\t\t2\n\t\t22\n\t\t13\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL REMOLINO 2DA. SECCIÓN\n\t\t2\n\t\t11\n\t\t5\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL ROSARIO\n\t\t5\n\t\t260\n\t\t132\n\t\t128\n\t\t14\n\t\n\t\n\t\tEL TINTO BONSHÁN\n\t\t3\n\t\t38\n\t\t27\n\t\t11\n\t\t3\n\t\n\t\n\t\tEMILIANO ZAPATA (SAN JOAQUÍN)\n\t\t2\n\t\t37\n\t\t19\n\t\t18\n\t\t3\n\t\n\t\n\t\tESTACIÓN LA UNIÓN\n\t\t3\n\t\t274\n\t\t126\n\t\t148\n\t\t11\n\t\n\t\n\t\tFAMILIA GONZÁLEZ RÍO\n\t\t1\n\t\t17\n\t\t7\n\t\t10\n\t\t2\n\t\n\t\n\t\tFRANCISCO J. GRAJALES\n\t\t3\n\t\t96\n\t\t54\n\t\t42\n\t\t5\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t3\n\t\t145\n\t\t63\n\t\t82\n\t\t9\n\t\n\t\n\t\tJICALANGO\n\t\t2\n\t\t12\n\t\t5\n\t\t7\n\t\t2\n\t\n\t\n\t\tJUAN ALDAMA\n\t\t2\n\t\t26\n\t\t11\n\t\t15\n\t\t3\n\t\n\t\n\t\tLA PERLA\n\t\t1\n\t\t42\n\t\t22\n\t\t20\n\t\t3\n\t\n\t\n\t\tLA SIRIA 1RA. SECCIÓN\n\t\t2\n\t\t50\n\t\t20\n\t\t30\n\t\t4\n\t\n\t\n\t\tLA SIRIA 2DA. SECCIÓN\n\t\t2\n\t\t23\n\t\t7\n\t\t16\n\t\t3\n\t\n\t\n\t\tLA TUZA (MACEO)\n\t\t3\n\t\t86\n\t\t38\n\t\t48\n\t\t7\n\t\n\t\n\t\tLANDERO CÁRDENAS\n\t\t2\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tLAS DELICIAS\n\t\t1\n\t\t11\n\t\t7\n\t\t4\n\t\t1\n\t\n\t\n\t\tLÁZARO CÁRDENAS\n\t\t2\n\t\t19\n\t\t9\n\t\t10\n\t\t2\n\t\n\t\n\t\tLINDA VISTA 1RA. SECCIÓN\n\t\t2\n\t\t21\n\t\t8\n\t\t13\n\t\t2\n\t\n\t\n\t\tLINDAVISTA 2DA. SECCIÓN\n\t\t1\n\t\t7\n\t\t1\n\t\t6\n\t\t1\n\t\n\t\n\t\tLOMA BONITA\n\t\t3\n\t\t206\n\t\t111\n\t\t95\n\t\t13\n\t\n\t\n\t\tPATRICIO LOS ÁNGELES\n\t\t2\n\t\t20\n\t\t11\n\t\t9\n\t\t2\n\t\n\t\n\t\tPATRICIO TAMARINDO\n\t\t2\n\t\t35\n\t\t17\n\t\t18\n\t\t2\n\t\n\t\n\t\tPUNTA ARENA\n\t\t4\n\t\t245\n\t\t107\n\t\t138\n\t\t11\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tSAN SIMÓN\n\t\t2\n\t\t17\n\t\t9\n\t\t8\n\t\t2\n\t\n\t\n\t\tSANTA CRUZ 2DA. SECCIÓN DE LOMA BONITA\n\t\t2\n\t\t58\n\t\t28\n\t\t30\n\t\t3\n\t\n\t\n\t\tSANTA ROSA\n\t\t1\n\t\t14\n\t\t7\n\t\t7\n\t\t1\n\t\n\t\n\t\tTECOLPA\n\t\t1\n\t\t22\n\t\t9\n\t\t13\n\t\t1\n\t\n\t\n\t\tVICTORICO R. GRAJALES\n\t\t2\n\t\t31\n\t\t19\n\t\t12\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t103\n\t\t4,867\n\t\t2,323\n\t\t2,544\n\t\t283\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CATAZAJÁ",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUA FRÍA",
+          "4",
+          "231",
+          "124",
+          "107",
+          "12",
+          "BAJO USUMACINTA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "BOCA DEL RÍO CHICO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "BUENAVISTA DAMASCO",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2",
+          "CATAZAJÁ",
+          "11",
+          "2,108",
+          "970",
+          "1,138",
+          "106",
+          "CRUCERO EL CUYO",
+          "1",
+          "48",
+          "20",
+          "28",
+          "3",
+          "CUAUHTÉMOC",
+          "2",
+          "117",
+          "60",
+          "57",
+          "5",
+          "CUAUHTEMOC QUEMADO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "4",
+          "CUYO (ÁLVARO OBREGÓN)",
+          "3",
+          "173",
+          "80",
+          "93",
+          "12",
+          "CUYO SANTA CRUZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2",
+          "DOBLE A",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "EL CAOBA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL DESENGAÑO",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2",
+          "EL PAJONAL",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2",
+          "EL PARAÍSO",
+          "4",
+          "153",
+          "75",
+          "78",
+          "10",
+          "EL REMOLINO 1RA. SECCIÓN",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2",
+          "EL REMOLINO 2DA. SECCIÓN",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2",
+          "EL ROSARIO",
+          "5",
+          "260",
+          "132",
+          "128",
+          "14",
+          "EL TINTO BONSHÁN",
+          "3",
+          "38",
+          "27",
+          "11",
+          "3",
+          "EMILIANO ZAPATA (SAN JOAQUÍN)",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3",
+          "ESTACIÓN LA UNIÓN",
+          "3",
+          "274",
+          "126",
+          "148",
+          "11",
+          "FAMILIA GONZÁLEZ RÍO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2",
+          "FRANCISCO J. GRAJALES",
+          "3",
+          "96",
+          "54",
+          "42",
+          "5",
+          "IGNACIO ZARAGOZA",
+          "3",
+          "145",
+          "63",
+          "82",
+          "9",
+          "JICALANGO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2",
+          "JUAN ALDAMA",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3",
+          "LA PERLA",
+          "1",
+          "42",
+          "22",
+          "20",
+          "3",
+          "LA SIRIA 1RA. SECCIÓN",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4",
+          "LA SIRIA 2DA. SECCIÓN",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3",
+          "LA TUZA (MACEO)",
+          "3",
+          "86",
+          "38",
+          "48",
+          "7",
+          "LANDERO CÁRDENAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "1",
+          "LAS DELICIAS",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1",
+          "LÁZARO CÁRDENAS",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2",
+          "LINDA VISTA 1RA. SECCIÓN",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2",
+          "LINDAVISTA 2DA. SECCIÓN",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1",
+          "LOMA BONITA",
+          "3",
+          "206",
+          "111",
+          "95",
+          "13",
+          "PATRICIO LOS ÁNGELES",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2",
+          "PATRICIO TAMARINDO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2",
+          "PUNTA ARENA",
+          "4",
+          "245",
+          "107",
+          "138",
+          "11",
+          "SAN AGUSTÍN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "SAN SIMÓN",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2",
+          "SANTA CRUZ 2DA. SECCIÓN DE LOMA BONITA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "3",
+          "SANTA ROSA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1",
+          "TECOLPA",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1",
+          "VICTORICO R. GRAJALES",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3",
+          "TOTAL",
+          "103",
+          "4,867",
+          "2,323",
+          "2,544",
+          "283",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CATAZAJÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "4",
+          "231",
+          "124",
+          "107",
+          "12"
+        ],
+        [
+          "BAJO USUMACINTA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "BOCA DEL RÍO CHICO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "BUENAVISTA DAMASCO",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "CATAZAJÁ",
+          "11",
+          "2,108",
+          "970",
+          "1,138",
+          "106"
+        ],
+        [
+          "CRUCERO EL CUYO",
+          "1",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "2",
+          "117",
+          "60",
+          "57",
+          "5"
+        ],
+        [
+          "CUAUHTEMOC QUEMADO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "4"
+        ],
+        [
+          "CUYO (ÁLVARO OBREGÓN)",
+          "3",
+          "173",
+          "80",
+          "93",
+          "12"
+        ],
+        [
+          "CUYO SANTA CRUZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "DOBLE A",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "EL CAOBA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL DESENGAÑO",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "EL PAJONAL",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2"
+        ],
+        [
+          "EL PARAÍSO",
+          "4",
+          "153",
+          "75",
+          "78",
+          "10"
+        ],
+        [
+          "EL REMOLINO 1RA. SECCIÓN",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "EL REMOLINO 2DA. SECCIÓN",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "5",
+          "260",
+          "132",
+          "128",
+          "14"
+        ],
+        [
+          "EL TINTO BONSHÁN",
+          "3",
+          "38",
+          "27",
+          "11",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA (SAN JOAQUÍN)",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "ESTACIÓN LA UNIÓN",
+          "3",
+          "274",
+          "126",
+          "148",
+          "11"
+        ],
+        [
+          "FAMILIA GONZÁLEZ RÍO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO J. GRAJALES",
+          "3",
+          "96",
+          "54",
+          "42",
+          "5"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "3",
+          "145",
+          "63",
+          "82",
+          "9"
+        ],
+        [
+          "JICALANGO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "JUAN ALDAMA",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "LA PERLA",
+          "1",
+          "42",
+          "22",
+          "20",
+          "3"
+        ],
+        [
+          "LA SIRIA 1RA. SECCIÓN",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "LA SIRIA 2DA. SECCIÓN",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "LA TUZA (MACEO)",
+          "3",
+          "86",
+          "38",
+          "48",
+          "7"
+        ],
+        [
+          "LANDERO CÁRDENAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "LAS DELICIAS",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "LINDA VISTA 1RA. SECCIÓN",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "LINDAVISTA 2DA. SECCIÓN",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "206",
+          "111",
+          "95",
+          "13"
+        ],
+        [
+          "PATRICIO LOS ÁNGELES",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "PATRICIO TAMARINDO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "PUNTA ARENA",
+          "4",
+          "245",
+          "107",
+          "138",
+          "11"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "SAN SIMÓN",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "SANTA CRUZ 2DA. SECCIÓN DE LOMA BONITA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "3"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TECOLPA",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1"
+        ],
+        [
+          "VICTORICO R. GRAJALES",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "4,867",
+          "2,323",
+          "2,544",
+          "283"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CATAZAJÁ"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUA FRÍA",
+          "4",
+          "231",
+          "124",
+          "107",
+          "12"
+        ],
+        [
+          "BAJO USUMACINTA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "BOCA DEL RÍO CHICO",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "BUENAVISTA DAMASCO",
+          "2",
+          "13",
+          "10",
+          "3",
+          "2"
+        ],
+        [
+          "CATAZAJÁ",
+          "11",
+          "2,108",
+          "970",
+          "1,138",
+          "106"
+        ],
+        [
+          "CRUCERO EL CUYO",
+          "1",
+          "48",
+          "20",
+          "28",
+          "3"
+        ],
+        [
+          "CUAUHTÉMOC",
+          "2",
+          "117",
+          "60",
+          "57",
+          "5"
+        ],
+        [
+          "CUAUHTEMOC QUEMADO",
+          "2",
+          "59",
+          "28",
+          "31",
+          "4"
+        ],
+        [
+          "CUYO (ÁLVARO OBREGÓN)",
+          "3",
+          "173",
+          "80",
+          "93",
+          "12"
+        ],
+        [
+          "CUYO SANTA CRUZ",
+          "2",
+          "18",
+          "9",
+          "9",
+          "2"
+        ],
+        [
+          "DOBLE A",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "EL CAOBA",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL DESENGAÑO",
+          "2",
+          "9",
+          "2",
+          "7",
+          "2"
+        ],
+        [
+          "EL PAJONAL",
+          "2",
+          "36",
+          "22",
+          "14",
+          "2"
+        ],
+        [
+          "EL PARAÍSO",
+          "4",
+          "153",
+          "75",
+          "78",
+          "10"
+        ],
+        [
+          "EL REMOLINO 1RA. SECCIÓN",
+          "2",
+          "22",
+          "13",
+          "9",
+          "2"
+        ],
+        [
+          "EL REMOLINO 2DA. SECCIÓN",
+          "2",
+          "11",
+          "5",
+          "6",
+          "2"
+        ],
+        [
+          "EL ROSARIO",
+          "5",
+          "260",
+          "132",
+          "128",
+          "14"
+        ],
+        [
+          "EL TINTO BONSHÁN",
+          "3",
+          "38",
+          "27",
+          "11",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA (SAN JOAQUÍN)",
+          "2",
+          "37",
+          "19",
+          "18",
+          "3"
+        ],
+        [
+          "ESTACIÓN LA UNIÓN",
+          "3",
+          "274",
+          "126",
+          "148",
+          "11"
+        ],
+        [
+          "FAMILIA GONZÁLEZ RÍO",
+          "1",
+          "17",
+          "7",
+          "10",
+          "2"
+        ],
+        [
+          "FRANCISCO J. GRAJALES",
+          "3",
+          "96",
+          "54",
+          "42",
+          "5"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "3",
+          "145",
+          "63",
+          "82",
+          "9"
+        ],
+        [
+          "JICALANGO",
+          "2",
+          "12",
+          "5",
+          "7",
+          "2"
+        ],
+        [
+          "JUAN ALDAMA",
+          "2",
+          "26",
+          "11",
+          "15",
+          "3"
+        ],
+        [
+          "LA PERLA",
+          "1",
+          "42",
+          "22",
+          "20",
+          "3"
+        ],
+        [
+          "LA SIRIA 1RA. SECCIÓN",
+          "2",
+          "50",
+          "20",
+          "30",
+          "4"
+        ],
+        [
+          "LA SIRIA 2DA. SECCIÓN",
+          "2",
+          "23",
+          "7",
+          "16",
+          "3"
+        ],
+        [
+          "LA TUZA (MACEO)",
+          "3",
+          "86",
+          "38",
+          "48",
+          "7"
+        ],
+        [
+          "LANDERO CÁRDENAS",
+          "2",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "LAS DELICIAS",
+          "1",
+          "11",
+          "7",
+          "4",
+          "1"
+        ],
+        [
+          "LÁZARO CÁRDENAS",
+          "2",
+          "19",
+          "9",
+          "10",
+          "2"
+        ],
+        [
+          "LINDA VISTA 1RA. SECCIÓN",
+          "2",
+          "21",
+          "8",
+          "13",
+          "2"
+        ],
+        [
+          "LINDAVISTA 2DA. SECCIÓN",
+          "1",
+          "7",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "206",
+          "111",
+          "95",
+          "13"
+        ],
+        [
+          "PATRICIO LOS ÁNGELES",
+          "2",
+          "20",
+          "11",
+          "9",
+          "2"
+        ],
+        [
+          "PATRICIO TAMARINDO",
+          "2",
+          "35",
+          "17",
+          "18",
+          "2"
+        ],
+        [
+          "PUNTA ARENA",
+          "4",
+          "245",
+          "107",
+          "138",
+          "11"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "SAN SIMÓN",
+          "2",
+          "17",
+          "9",
+          "8",
+          "2"
+        ],
+        [
+          "SANTA CRUZ 2DA. SECCIÓN DE LOMA BONITA",
+          "2",
+          "58",
+          "28",
+          "30",
+          "3"
+        ],
+        [
+          "SANTA ROSA",
+          "1",
+          "14",
+          "7",
+          "7",
+          "1"
+        ],
+        [
+          "TECOLPA",
+          "1",
+          "22",
+          "9",
+          "13",
+          "1"
+        ],
+        [
+          "VICTORICO R. GRAJALES",
+          "2",
+          "31",
+          "19",
+          "12",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "103",
+          "4,867",
+          "2,323",
+          "2,544",
+          "283"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:04.730Z"
+}

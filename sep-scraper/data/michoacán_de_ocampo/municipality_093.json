@@ -1,0 +1,824 @@
+{
+  "municipality": "TLALPUJAHUA",
+  "municipalityCode": "093",
+  "state": "MICHOACÁN DE OCAMPO",
+  "stateCode": "16",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACUITZIO\n\tAGUILILLA\n\tÁLVARO OBREGÓN\n\tANGAMACUTIRO\n\tANGANGUEO\n\tAPATZINGÁN\n\tAPORO\n\tAQUILA\n\tARIO\n\tARTEAGA\n\tBRISEÑAS\n\tBUENAVISTA\n\tCARÁCUARO\n\tCHARAPAN\n\tCHARO\n\tCHAVINDA\n\tCHERÁN\n\tCHILCHOTA\n\tCHINICUILA\n\tCHUCÁNDIRO\n\tCHURINTZIO\n\tCHURUMUCO\n\tCOAHUAYANA\n\tCOALCOMÁN DE VÁZQUEZ PALLARES\n\tCOENEO\n\tCOJUMATLÁN DE RÉGULES\n\tCONTEPEC\n\tCOPÁNDARO\n\tCOTIJA\n\tCUITZEO\n\tECUANDUREO\n\tEPITACIO HUERTA\n\tERONGARÍCUARO\n\tGABRIEL ZAMORA\n\tHIDALGO\n\tHUANDACAREO\n\tHUANIQUEO\n\tHUETAMO\n\tHUIRAMBA\n\tINDAPARAPEO\n\tIRIMBO\n\tIXTLÁN\n\tJACONA\n\tJIMÉNEZ\n\tJIQUILPAN\n\tJOSÉ SIXTO VERDUZCO\n\tJUÁREZ\n\tJUNGAPEO\n\tLA HUACANA\n\tLA PIEDAD\n\tLAGUNILLAS\n\tLÁZARO CÁRDENAS\n\tLOS REYES\n\tMADERO\n\tMARAVATÍO\n\tMARCOS CASTELLANOS\n\tMORELIA\n\tMORELOS\n\tMÚGICA\n\tNAHUATZEN\n\tNOCUPÉTARO\n\tNUEVO PARANGARICUTIRO\n\tNUEVO URECHO\n\tNUMARÁN\n\tOCAMPO\n\tPAJACUARÁN\n\tPANINDÍCUARO\n\tPARACHO\n\tPARÁCUARO\n\tPÁTZCUARO\n\tPENJAMILLO\n\tPERIBÁN\n\tPURÉPERO\n\tPURUÁNDIRO\n\tQUERÉNDARO\n\tQUIROGA\n\tSAHUAYO\n\tSALVADOR ESCALANTE\n\tSAN LUCAS\n\tSANTA ANA MAYA\n\tSENGUIO\n\tSUSUPUATO\n\tTACÁMBARO\n\tTANCÍTARO\n\tTANGAMANDAPIO\n\tTANGANCÍCUARO\n\tTANHUATO\n\tTARETAN\n\tTARÍMBARO\n\tTEPALCATEPEC\n\tTINGAMBATO\n\tTINGÜINDÍN\n\tTIQUICHEO DE NICOLÁS ROMERO\n\tTLALPUJAHUA\n\tTLAZAZALCA\n\tTOCUMBO\n\tTUMBISCATÍO\n\tTURICATO\n\tTUXPAN\n\tTUZANTLA\n\tTZINTZUNTZAN\n\tTZITZIO\n\tURUAPAN\n\tVENUSTIANO CARRANZA\n\tVILLAMAR\n\tVISTA HERMOSA\n\tYURÉCUARO\n\tZACAPU\n\tZAMORA\n\tZINÁPARO\n\tZINAPÉCUARO\n\tZIRACUARETIRO\n\tZITÁCUARO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TLALPUJAHUA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCERRO ALTO\n\t\t3\n\t\t84\n\t\t41\n\t\t43\n\t\t5\n\t\n\t\n\t\tCHALMITA (CHAZMITI)\n\t\t2\n\t\t72\n\t\t39\n\t\t33\n\t\t3\n\t\n\t\n\t\tEL JAZMÍN\n\t\t2\n\t\t66\n\t\t23\n\t\t43\n\t\t4\n\t\n\t\n\t\tEL LLANITO (SEÑOR DEL LLANO)\n\t\t3\n\t\t65\n\t\t31\n\t\t34\n\t\t4\n\t\n\t\n\t\tEL REAL (EL REAL DE ARRIBA)\n\t\t2\n\t\t87\n\t\t43\n\t\t44\n\t\t6\n\t\n\t\n\t\tESTANZUELA (LA HACIENDA)\n\t\t2\n\t\t84\n\t\t43\n\t\t41\n\t\t5\n\t\n\t\n\t\tGUADALUPE VICTORIA\n\t\t3\n\t\t182\n\t\t89\n\t\t93\n\t\t11\n\t\n\t\n\t\tLA AMÉRICA\n\t\t1\n\t\t13\n\t\t6\n\t\t7\n\t\t1\n\t\n\t\n\t\tLA GRANJA\n\t\t5\n\t\t219\n\t\t106\n\t\t113\n\t\t13\n\t\n\t\n\t\tLA MESA\n\t\t2\n\t\t105\n\t\t57\n\t\t48\n\t\t8\n\t\n\t\n\t\tLA TRAMPA\n\t\t2\n\t\t42\n\t\t18\n\t\t24\n\t\t2\n\t\n\t\n\t\tLOS REMEDIOS\n\t\t2\n\t\t203\n\t\t104\n\t\t99\n\t\t10\n\t\n\t\n\t\tLOS REYES\n\t\t3\n\t\t132\n\t\t68\n\t\t64\n\t\t7\n\t\n\t\n\t\tLOS TREJO (SANTO NIÑO)\n\t\t2\n\t\t42\n\t\t20\n\t\t22\n\t\t5\n\t\n\t\n\t\tPLAZA DE GALLOS\n\t\t1\n\t\t54\n\t\t28\n\t\t26\n\t\t2\n\t\n\t\n\t\tPUENTE DE TIERRA\n\t\t2\n\t\t76\n\t\t35\n\t\t41\n\t\t5\n\t\n\t\n\t\tPUERTO DE BERMEO\n\t\t3\n\t\t95\n\t\t55\n\t\t40\n\t\t6\n\t\n\t\n\t\tRINCÓN DEL SAGRADO CORAZÓN (RINCÓN DEL DIABLO)\n\t\t2\n\t\t15\n\t\t4\n\t\t11\n\t\t2\n\t\n\t\n\t\tROSA DE CASTILLA\n\t\t2\n\t\t28\n\t\t11\n\t\t17\n\t\t2\n\t\n\t\n\t\tSAN FRANCISCO DE LOS REYES\n\t\t5\n\t\t1,013\n\t\t535\n\t\t478\n\t\t55\n\t\n\t\n\t\tSAN ISIDRO\n\t\t2\n\t\t239\n\t\t115\n\t\t124\n\t\t13\n\t\n\t\n\t\tSAN JOAQUÍN MORELOS\n\t\t3\n\t\t109\n\t\t57\n\t\t52\n\t\t6\n\t\n\t\n\t\tSAN JOSÉ CORRALES\n\t\t2\n\t\t216\n\t\t107\n\t\t109\n\t\t9\n\t\n\t\n\t\tSAN JOSÉ DE GUADALUPE\n\t\t3\n\t\t186\n\t\t89\n\t\t97\n\t\t10\n\t\n\t\n\t\tSAN JUAN DE DIOS\n\t\t1\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN JUAN TLALPUJAHUILLA (TLALPUJAHUILLA)\n\t\t4\n\t\t225\n\t\t94\n\t\t131\n\t\t14\n\t\n\t\n\t\tSAN LORENZO SEGUNDO CUARTEL\n\t\t3\n\t\t223\n\t\t108\n\t\t115\n\t\t10\n\t\n\t\n\t\tSAN PEDRO TARÍMBARO\n\t\t5\n\t\t480\n\t\t228\n\t\t252\n\t\t24\n\t\n\t\n\t\tSAN RAFAEL\n\t\t3\n\t\t278\n\t\t139\n\t\t139\n\t\t17\n\t\n\t\n\t\tSANDÍA\n\t\t2\n\t\t93\n\t\t49\n\t\t44\n\t\t4\n\t\n\t\n\t\tSANTA MARÍA DE LOS ÁNGELES\n\t\t5\n\t\t335\n\t\t169\n\t\t166\n\t\t17\n\t\n\t\n\t\tTLACOTEPEC\n\t\t2\n\t\t60\n\t\t31\n\t\t29\n\t\t5\n\t\n\t\n\t\tTLALPUJAHUA DE RAYÓN\n\t\t15\n\t\t1,982\n\t\t1,077\n\t\t905\n\t\t171\n\t\n\t\n\t\tTOTAL\n\t\t99\n\t\t7,111\n\t\t3,624\n\t\t3,487\n\t\t457\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TLALPUJAHUA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CERRO ALTO",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5",
+          "CHALMITA (CHAZMITI)",
+          "2",
+          "72",
+          "39",
+          "33",
+          "3",
+          "EL JAZMÍN",
+          "2",
+          "66",
+          "23",
+          "43",
+          "4",
+          "EL LLANITO (SEÑOR DEL LLANO)",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4",
+          "EL REAL (EL REAL DE ARRIBA)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6",
+          "ESTANZUELA (LA HACIENDA)",
+          "2",
+          "84",
+          "43",
+          "41",
+          "5",
+          "GUADALUPE VICTORIA",
+          "3",
+          "182",
+          "89",
+          "93",
+          "11",
+          "LA AMÉRICA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1",
+          "LA GRANJA",
+          "5",
+          "219",
+          "106",
+          "113",
+          "13",
+          "LA MESA",
+          "2",
+          "105",
+          "57",
+          "48",
+          "8",
+          "LA TRAMPA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2",
+          "LOS REMEDIOS",
+          "2",
+          "203",
+          "104",
+          "99",
+          "10",
+          "LOS REYES",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7",
+          "LOS TREJO (SANTO NIÑO)",
+          "2",
+          "42",
+          "20",
+          "22",
+          "5",
+          "PLAZA DE GALLOS",
+          "1",
+          "54",
+          "28",
+          "26",
+          "2",
+          "PUENTE DE TIERRA",
+          "2",
+          "76",
+          "35",
+          "41",
+          "5",
+          "PUERTO DE BERMEO",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6",
+          "RINCÓN DEL SAGRADO CORAZÓN (RINCÓN DEL DIABLO)",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2",
+          "ROSA DE CASTILLA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2",
+          "SAN FRANCISCO DE LOS REYES",
+          "5",
+          "1,013",
+          "535",
+          "478",
+          "55",
+          "SAN ISIDRO",
+          "2",
+          "239",
+          "115",
+          "124",
+          "13",
+          "SAN JOAQUÍN MORELOS",
+          "3",
+          "109",
+          "57",
+          "52",
+          "6",
+          "SAN JOSÉ CORRALES",
+          "2",
+          "216",
+          "107",
+          "109",
+          "9",
+          "SAN JOSÉ DE GUADALUPE",
+          "3",
+          "186",
+          "89",
+          "97",
+          "10",
+          "SAN JUAN DE DIOS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1",
+          "SAN JUAN TLALPUJAHUILLA (TLALPUJAHUILLA)",
+          "4",
+          "225",
+          "94",
+          "131",
+          "14",
+          "SAN LORENZO SEGUNDO CUARTEL",
+          "3",
+          "223",
+          "108",
+          "115",
+          "10",
+          "SAN PEDRO TARÍMBARO",
+          "5",
+          "480",
+          "228",
+          "252",
+          "24",
+          "SAN RAFAEL",
+          "3",
+          "278",
+          "139",
+          "139",
+          "17",
+          "SANDÍA",
+          "2",
+          "93",
+          "49",
+          "44",
+          "4",
+          "SANTA MARÍA DE LOS ÁNGELES",
+          "5",
+          "335",
+          "169",
+          "166",
+          "17",
+          "TLACOTEPEC",
+          "2",
+          "60",
+          "31",
+          "29",
+          "5",
+          "TLALPUJAHUA DE RAYÓN",
+          "15",
+          "1,982",
+          "1,077",
+          "905",
+          "171",
+          "TOTAL",
+          "99",
+          "7,111",
+          "3,624",
+          "3,487",
+          "457",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TLALPUJAHUA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRO ALTO",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5"
+        ],
+        [
+          "CHALMITA (CHAZMITI)",
+          "2",
+          "72",
+          "39",
+          "33",
+          "3"
+        ],
+        [
+          "EL JAZMÍN",
+          "2",
+          "66",
+          "23",
+          "43",
+          "4"
+        ],
+        [
+          "EL LLANITO (SEÑOR DEL LLANO)",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4"
+        ],
+        [
+          "EL REAL (EL REAL DE ARRIBA)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6"
+        ],
+        [
+          "ESTANZUELA (LA HACIENDA)",
+          "2",
+          "84",
+          "43",
+          "41",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "3",
+          "182",
+          "89",
+          "93",
+          "11"
+        ],
+        [
+          "LA AMÉRICA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "LA GRANJA",
+          "5",
+          "219",
+          "106",
+          "113",
+          "13"
+        ],
+        [
+          "LA MESA",
+          "2",
+          "105",
+          "57",
+          "48",
+          "8"
+        ],
+        [
+          "LA TRAMPA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "LOS REMEDIOS",
+          "2",
+          "203",
+          "104",
+          "99",
+          "10"
+        ],
+        [
+          "LOS REYES",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7"
+        ],
+        [
+          "LOS TREJO (SANTO NIÑO)",
+          "2",
+          "42",
+          "20",
+          "22",
+          "5"
+        ],
+        [
+          "PLAZA DE GALLOS",
+          "1",
+          "54",
+          "28",
+          "26",
+          "2"
+        ],
+        [
+          "PUENTE DE TIERRA",
+          "2",
+          "76",
+          "35",
+          "41",
+          "5"
+        ],
+        [
+          "PUERTO DE BERMEO",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6"
+        ],
+        [
+          "RINCÓN DEL SAGRADO CORAZÓN (RINCÓN DEL DIABLO)",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2"
+        ],
+        [
+          "ROSA DE CASTILLA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE LOS REYES",
+          "5",
+          "1,013",
+          "535",
+          "478",
+          "55"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "239",
+          "115",
+          "124",
+          "13"
+        ],
+        [
+          "SAN JOAQUÍN MORELOS",
+          "3",
+          "109",
+          "57",
+          "52",
+          "6"
+        ],
+        [
+          "SAN JOSÉ CORRALES",
+          "2",
+          "216",
+          "107",
+          "109",
+          "9"
+        ],
+        [
+          "SAN JOSÉ DE GUADALUPE",
+          "3",
+          "186",
+          "89",
+          "97",
+          "10"
+        ],
+        [
+          "SAN JUAN DE DIOS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JUAN TLALPUJAHUILLA (TLALPUJAHUILLA)",
+          "4",
+          "225",
+          "94",
+          "131",
+          "14"
+        ],
+        [
+          "SAN LORENZO SEGUNDO CUARTEL",
+          "3",
+          "223",
+          "108",
+          "115",
+          "10"
+        ],
+        [
+          "SAN PEDRO TARÍMBARO",
+          "5",
+          "480",
+          "228",
+          "252",
+          "24"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "278",
+          "139",
+          "139",
+          "17"
+        ],
+        [
+          "SANDÍA",
+          "2",
+          "93",
+          "49",
+          "44",
+          "4"
+        ],
+        [
+          "SANTA MARÍA DE LOS ÁNGELES",
+          "5",
+          "335",
+          "169",
+          "166",
+          "17"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "60",
+          "31",
+          "29",
+          "5"
+        ],
+        [
+          "TLALPUJAHUA DE RAYÓN",
+          "15",
+          "1,982",
+          "1,077",
+          "905",
+          "171"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "7,111",
+          "3,624",
+          "3,487",
+          "457"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MICHOACÁN DE OCAMPO;    MUNICIPIO: TLALPUJAHUA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CERRO ALTO",
+          "3",
+          "84",
+          "41",
+          "43",
+          "5"
+        ],
+        [
+          "CHALMITA (CHAZMITI)",
+          "2",
+          "72",
+          "39",
+          "33",
+          "3"
+        ],
+        [
+          "EL JAZMÍN",
+          "2",
+          "66",
+          "23",
+          "43",
+          "4"
+        ],
+        [
+          "EL LLANITO (SEÑOR DEL LLANO)",
+          "3",
+          "65",
+          "31",
+          "34",
+          "4"
+        ],
+        [
+          "EL REAL (EL REAL DE ARRIBA)",
+          "2",
+          "87",
+          "43",
+          "44",
+          "6"
+        ],
+        [
+          "ESTANZUELA (LA HACIENDA)",
+          "2",
+          "84",
+          "43",
+          "41",
+          "5"
+        ],
+        [
+          "GUADALUPE VICTORIA",
+          "3",
+          "182",
+          "89",
+          "93",
+          "11"
+        ],
+        [
+          "LA AMÉRICA",
+          "1",
+          "13",
+          "6",
+          "7",
+          "1"
+        ],
+        [
+          "LA GRANJA",
+          "5",
+          "219",
+          "106",
+          "113",
+          "13"
+        ],
+        [
+          "LA MESA",
+          "2",
+          "105",
+          "57",
+          "48",
+          "8"
+        ],
+        [
+          "LA TRAMPA",
+          "2",
+          "42",
+          "18",
+          "24",
+          "2"
+        ],
+        [
+          "LOS REMEDIOS",
+          "2",
+          "203",
+          "104",
+          "99",
+          "10"
+        ],
+        [
+          "LOS REYES",
+          "3",
+          "132",
+          "68",
+          "64",
+          "7"
+        ],
+        [
+          "LOS TREJO (SANTO NIÑO)",
+          "2",
+          "42",
+          "20",
+          "22",
+          "5"
+        ],
+        [
+          "PLAZA DE GALLOS",
+          "1",
+          "54",
+          "28",
+          "26",
+          "2"
+        ],
+        [
+          "PUENTE DE TIERRA",
+          "2",
+          "76",
+          "35",
+          "41",
+          "5"
+        ],
+        [
+          "PUERTO DE BERMEO",
+          "3",
+          "95",
+          "55",
+          "40",
+          "6"
+        ],
+        [
+          "RINCÓN DEL SAGRADO CORAZÓN (RINCÓN DEL DIABLO)",
+          "2",
+          "15",
+          "4",
+          "11",
+          "2"
+        ],
+        [
+          "ROSA DE CASTILLA",
+          "2",
+          "28",
+          "11",
+          "17",
+          "2"
+        ],
+        [
+          "SAN FRANCISCO DE LOS REYES",
+          "5",
+          "1,013",
+          "535",
+          "478",
+          "55"
+        ],
+        [
+          "SAN ISIDRO",
+          "2",
+          "239",
+          "115",
+          "124",
+          "13"
+        ],
+        [
+          "SAN JOAQUÍN MORELOS",
+          "3",
+          "109",
+          "57",
+          "52",
+          "6"
+        ],
+        [
+          "SAN JOSÉ CORRALES",
+          "2",
+          "216",
+          "107",
+          "109",
+          "9"
+        ],
+        [
+          "SAN JOSÉ DE GUADALUPE",
+          "3",
+          "186",
+          "89",
+          "97",
+          "10"
+        ],
+        [
+          "SAN JUAN DE DIOS",
+          "1",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "SAN JUAN TLALPUJAHUILLA (TLALPUJAHUILLA)",
+          "4",
+          "225",
+          "94",
+          "131",
+          "14"
+        ],
+        [
+          "SAN LORENZO SEGUNDO CUARTEL",
+          "3",
+          "223",
+          "108",
+          "115",
+          "10"
+        ],
+        [
+          "SAN PEDRO TARÍMBARO",
+          "5",
+          "480",
+          "228",
+          "252",
+          "24"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "278",
+          "139",
+          "139",
+          "17"
+        ],
+        [
+          "SANDÍA",
+          "2",
+          "93",
+          "49",
+          "44",
+          "4"
+        ],
+        [
+          "SANTA MARÍA DE LOS ÁNGELES",
+          "5",
+          "335",
+          "169",
+          "166",
+          "17"
+        ],
+        [
+          "TLACOTEPEC",
+          "2",
+          "60",
+          "31",
+          "29",
+          "5"
+        ],
+        [
+          "TLALPUJAHUA DE RAYÓN",
+          "15",
+          "1,982",
+          "1,077",
+          "905",
+          "171"
+        ],
+        [
+          "TOTAL",
+          "99",
+          "7,111",
+          "3,624",
+          "3,487",
+          "457"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:23:11.692Z"
+}

@@ -1,0 +1,1044 @@
+{
+  "municipality": "LLERA",
+  "municipalityCode": "019",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: LLERA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tADOLFO LÓPEZ MATEOS\n\t\t2\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tADOLFO RUIZ CORTINES\n\t\t2\n\t\t25\n\t\t11\n\t\t14\n\t\t2\n\t\n\t\n\t\tAMPLIACIÓN LAS MINAS (JUAN PARRAS)\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tCAPITÁN EMILIO CARRANZA (FORLÓN)\n\t\t2\n\t\t42\n\t\t24\n\t\t18\n\t\t3\n\t\n\t\n\t\tCASA DEL CAMPESINO (LA CLEMENTINA)\n\t\t2\n\t\t62\n\t\t27\n\t\t35\n\t\t3\n\t\n\t\n\t\tCONRADO CASTILLO\n\t\t1\n\t\t3\n\t\t0\n\t\t3\n\t\t1\n\t\n\t\n\t\tDOS DE OCTUBRE\n\t\t2\n\t\t22\n\t\t9\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL AQUICHAL (EL PINTO)\n\t\t2\n\t\t13\n\t\t7\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL CIPRÉS\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tEL CIPRÉS (SANTA ROSA)\n\t\t3\n\t\t11\n\t\t4\n\t\t7\n\t\t2\n\t\n\t\n\t\tEL ÉBANO\n\t\t2\n\t\t19\n\t\t12\n\t\t7\n\t\t3\n\t\n\t\n\t\tEL GUAYABO\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL NUEVO ENCINO (EL ENCINO)\n\t\t4\n\t\t229\n\t\t119\n\t\t110\n\t\t19\n\t\n\t\n\t\tEL NUEVO PARAÍSO\n\t\t2\n\t\t29\n\t\t11\n\t\t18\n\t\t3\n\t\n\t\n\t\tEL PEÑÓN\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tEL PRADO\n\t\t2\n\t\t36\n\t\t18\n\t\t18\n\t\t3\n\t\n\t\n\t\tEMILIANO ZAPATA\n\t\t4\n\t\t291\n\t\t143\n\t\t148\n\t\t46\n\t\n\t\n\t\tEMILIO PORTES GIL\n\t\t1\n\t\t4\n\t\t1\n\t\t3\n\t\t1\n\t\n\t\n\t\tFELIPE CARRILLO PUERTO\n\t\t2\n\t\t10\n\t\t6\n\t\t4\n\t\t2\n\t\n\t\n\t\tFRANCISCO CASTELLANOS\n\t\t1\n\t\t4\n\t\t3\n\t\t1\n\t\t1\n\t\n\t\n\t\tFRANCISCO VILLA\n\t\t2\n\t\t75\n\t\t33\n\t\t42\n\t\t6\n\t\n\t\n\t\tGENERAL PEDRO JOSÉ MÉNDEZ\n\t\t2\n\t\t51\n\t\t26\n\t\t25\n\t\t4\n\t\n\t\n\t\tIGNACIO ZARAGOZA\n\t\t4\n\t\t328\n\t\t175\n\t\t153\n\t\t32\n\t\n\t\n\t\tJOSÉ SILVA SÁNCHEZ\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tLA ALBERCA\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA ANGOSTURA\n\t\t2\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA INDEPENDENCIA\n\t\t2\n\t\t56\n\t\t30\n\t\t26\n\t\t3\n\t\n\t\n\t\tLA LIBERTAD\n\t\t2\n\t\t47\n\t\t21\n\t\t26\n\t\t4\n\t\n\t\n\t\tLA MORITA\n\t\t2\n\t\t40\n\t\t19\n\t\t21\n\t\t4\n\t\n\t\n\t\tLAS COMPUERTAS\n\t\t3\n\t\t79\n\t\t47\n\t\t32\n\t\t6\n\t\n\t\n\t\tLAS TORTUGAS [NUEVO CENTRO DE POBLACIÓN]\n\t\t2\n\t\t16\n\t\t7\n\t\t9\n\t\t2\n\t\n\t\n\t\tLLERA DE CANALES\n\t\t6\n\t\t964\n\t\t467\n\t\t497\n\t\t75\n\t\n\t\n\t\tMARIANO ESCOBEDO\n\t\t2\n\t\t56\n\t\t16\n\t\t40\n\t\t4\n\t\n\t\n\t\tPORVENIR DEL CAMPESINO (LA PURÍSIMA)\n\t\t1\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tPRIMERO DE ABRIL\n\t\t2\n\t\t37\n\t\t21\n\t\t16\n\t\t4\n\t\n\t\n\t\tRANCHO NUEVO DEL SUR\n\t\t2\n\t\t20\n\t\t13\n\t\t7\n\t\t2\n\t\n\t\n\t\tSAN ISIDRO\n\t\t3\n\t\t68\n\t\t32\n\t\t36\n\t\t5\n\t\n\t\n\t\tSAN MIGUEL DEL OLIVO [CONGREGACIÓN]\n\t\t2\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tSAN PEDRO DE LA COLINA (EL RANCHITO)\n\t\t2\n\t\t6\n\t\t3\n\t\t3\n\t\t1\n\t\n\t\n\t\tSAN RAFAEL\n\t\t3\n\t\t226\n\t\t114\n\t\t112\n\t\t20\n\t\n\t\n\t\tSANTA INÉS\n\t\t2\n\t\t36\n\t\t11\n\t\t25\n\t\t3\n\t\n\t\n\t\tSANTA ISABEL (SARTENEJOS)\n\t\t1\n\t\t12\n\t\t6\n\t\t6\n\t\t1\n\t\n\t\n\t\tVOZ CAMPESINA (PROVIDENCIA)\n\t\t2\n\t\t47\n\t\t23\n\t\t24\n\t\t3\n\t\n\t\n\t\tTOTAL\n\t\t89\n\t\t3,046\n\t\t1,502\n\t\t1,544\n\t\t284\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: LLERA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3",
+          "ADOLFO RUIZ CORTINES",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2",
+          "AMPLIACIÓN LAS MINAS (JUAN PARRAS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "CAPITÁN EMILIO CARRANZA (FORLÓN)",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3",
+          "CASA DEL CAMPESINO (LA CLEMENTINA)",
+          "2",
+          "62",
+          "27",
+          "35",
+          "3",
+          "CONRADO CASTILLO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1",
+          "DOS DE OCTUBRE",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2",
+          "EL AQUICHAL (EL PINTO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2",
+          "EL CIPRÉS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "EL CIPRÉS (SANTA ROSA)",
+          "3",
+          "11",
+          "4",
+          "7",
+          "2",
+          "EL ÉBANO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "3",
+          "EL GUAYABO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EL NUEVO ENCINO (EL ENCINO)",
+          "4",
+          "229",
+          "119",
+          "110",
+          "19",
+          "EL NUEVO PARAÍSO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "3",
+          "EL PEÑÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "EL PRADO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3",
+          "EMILIANO ZAPATA",
+          "4",
+          "291",
+          "143",
+          "148",
+          "46",
+          "EMILIO PORTES GIL",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1",
+          "FELIPE CARRILLO PUERTO",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2",
+          "FRANCISCO CASTELLANOS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1",
+          "FRANCISCO VILLA",
+          "2",
+          "75",
+          "33",
+          "42",
+          "6",
+          "GENERAL PEDRO JOSÉ MÉNDEZ",
+          "2",
+          "51",
+          "26",
+          "25",
+          "4",
+          "IGNACIO ZARAGOZA",
+          "4",
+          "328",
+          "175",
+          "153",
+          "32",
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "LA ALBERCA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LA ANGOSTURA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1",
+          "LA INDEPENDENCIA",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3",
+          "LA LIBERTAD",
+          "2",
+          "47",
+          "21",
+          "26",
+          "4",
+          "LA MORITA",
+          "2",
+          "40",
+          "19",
+          "21",
+          "4",
+          "LAS COMPUERTAS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "6",
+          "LAS TORTUGAS [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2",
+          "LLERA DE CANALES",
+          "6",
+          "964",
+          "467",
+          "497",
+          "75",
+          "MARIANO ESCOBEDO",
+          "2",
+          "56",
+          "16",
+          "40",
+          "4",
+          "PORVENIR DEL CAMPESINO (LA PURÍSIMA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1",
+          "PRIMERO DE ABRIL",
+          "2",
+          "37",
+          "21",
+          "16",
+          "4",
+          "RANCHO NUEVO DEL SUR",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2",
+          "SAN ISIDRO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "5",
+          "SAN MIGUEL DEL OLIVO [CONGREGACIÓN]",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1",
+          "SAN PEDRO DE LA COLINA (EL RANCHITO)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1",
+          "SAN RAFAEL",
+          "3",
+          "226",
+          "114",
+          "112",
+          "20",
+          "SANTA INÉS",
+          "2",
+          "36",
+          "11",
+          "25",
+          "3",
+          "SANTA ISABEL (SARTENEJOS)",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1",
+          "VOZ CAMPESINA (PROVIDENCIA)",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3",
+          "TOTAL",
+          "89",
+          "3,046",
+          "1,502",
+          "1,544",
+          "284",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: LLERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "ADOLFO RUIZ CORTINES",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "AMPLIACIÓN LAS MINAS (JUAN PARRAS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "CAPITÁN EMILIO CARRANZA (FORLÓN)",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "CASA DEL CAMPESINO (LA CLEMENTINA)",
+          "2",
+          "62",
+          "27",
+          "35",
+          "3"
+        ],
+        [
+          "CONRADO CASTILLO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "DOS DE OCTUBRE",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL AQUICHAL (EL PINTO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "EL CIPRÉS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CIPRÉS (SANTA ROSA)",
+          "3",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "EL ÉBANO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "3"
+        ],
+        [
+          "EL GUAYABO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL NUEVO ENCINO (EL ENCINO)",
+          "4",
+          "229",
+          "119",
+          "110",
+          "19"
+        ],
+        [
+          "EL NUEVO PARAÍSO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "3"
+        ],
+        [
+          "EL PEÑÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL PRADO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "4",
+          "291",
+          "143",
+          "148",
+          "46"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "FRANCISCO CASTELLANOS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "75",
+          "33",
+          "42",
+          "6"
+        ],
+        [
+          "GENERAL PEDRO JOSÉ MÉNDEZ",
+          "2",
+          "51",
+          "26",
+          "25",
+          "4"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "4",
+          "328",
+          "175",
+          "153",
+          "32"
+        ],
+        [
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA ALBERCA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA ANGOSTURA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA INDEPENDENCIA",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "47",
+          "21",
+          "26",
+          "4"
+        ],
+        [
+          "LA MORITA",
+          "2",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "LAS COMPUERTAS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "6"
+        ],
+        [
+          "LAS TORTUGAS [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "LLERA DE CANALES",
+          "6",
+          "964",
+          "467",
+          "497",
+          "75"
+        ],
+        [
+          "MARIANO ESCOBEDO",
+          "2",
+          "56",
+          "16",
+          "40",
+          "4"
+        ],
+        [
+          "PORVENIR DEL CAMPESINO (LA PURÍSIMA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "PRIMERO DE ABRIL",
+          "2",
+          "37",
+          "21",
+          "16",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO DEL SUR",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "5"
+        ],
+        [
+          "SAN MIGUEL DEL OLIVO [CONGREGACIÓN]",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "SAN PEDRO DE LA COLINA (EL RANCHITO)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "226",
+          "114",
+          "112",
+          "20"
+        ],
+        [
+          "SANTA INÉS",
+          "2",
+          "36",
+          "11",
+          "25",
+          "3"
+        ],
+        [
+          "SANTA ISABEL (SARTENEJOS)",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "VOZ CAMPESINA (PROVIDENCIA)",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "89",
+          "3,046",
+          "1,502",
+          "1,544",
+          "284"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: LLERA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ADOLFO LÓPEZ MATEOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "ADOLFO RUIZ CORTINES",
+          "2",
+          "25",
+          "11",
+          "14",
+          "2"
+        ],
+        [
+          "AMPLIACIÓN LAS MINAS (JUAN PARRAS)",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "CAPITÁN EMILIO CARRANZA (FORLÓN)",
+          "2",
+          "42",
+          "24",
+          "18",
+          "3"
+        ],
+        [
+          "CASA DEL CAMPESINO (LA CLEMENTINA)",
+          "2",
+          "62",
+          "27",
+          "35",
+          "3"
+        ],
+        [
+          "CONRADO CASTILLO",
+          "1",
+          "3",
+          "0",
+          "3",
+          "1"
+        ],
+        [
+          "DOS DE OCTUBRE",
+          "2",
+          "22",
+          "9",
+          "13",
+          "2"
+        ],
+        [
+          "EL AQUICHAL (EL PINTO)",
+          "2",
+          "13",
+          "7",
+          "6",
+          "2"
+        ],
+        [
+          "EL CIPRÉS",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "EL CIPRÉS (SANTA ROSA)",
+          "3",
+          "11",
+          "4",
+          "7",
+          "2"
+        ],
+        [
+          "EL ÉBANO",
+          "2",
+          "19",
+          "12",
+          "7",
+          "3"
+        ],
+        [
+          "EL GUAYABO",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL NUEVO ENCINO (EL ENCINO)",
+          "4",
+          "229",
+          "119",
+          "110",
+          "19"
+        ],
+        [
+          "EL NUEVO PARAÍSO",
+          "2",
+          "29",
+          "11",
+          "18",
+          "3"
+        ],
+        [
+          "EL PEÑÓN",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "EL PRADO",
+          "2",
+          "36",
+          "18",
+          "18",
+          "3"
+        ],
+        [
+          "EMILIANO ZAPATA",
+          "4",
+          "291",
+          "143",
+          "148",
+          "46"
+        ],
+        [
+          "EMILIO PORTES GIL",
+          "1",
+          "4",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "FELIPE CARRILLO PUERTO",
+          "2",
+          "10",
+          "6",
+          "4",
+          "2"
+        ],
+        [
+          "FRANCISCO CASTELLANOS",
+          "1",
+          "4",
+          "3",
+          "1",
+          "1"
+        ],
+        [
+          "FRANCISCO VILLA",
+          "2",
+          "75",
+          "33",
+          "42",
+          "6"
+        ],
+        [
+          "GENERAL PEDRO JOSÉ MÉNDEZ",
+          "2",
+          "51",
+          "26",
+          "25",
+          "4"
+        ],
+        [
+          "IGNACIO ZARAGOZA",
+          "4",
+          "328",
+          "175",
+          "153",
+          "32"
+        ],
+        [
+          "JOSÉ SILVA SÁNCHEZ",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "LA ALBERCA",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LA ANGOSTURA",
+          "2",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "LA INDEPENDENCIA",
+          "2",
+          "56",
+          "30",
+          "26",
+          "3"
+        ],
+        [
+          "LA LIBERTAD",
+          "2",
+          "47",
+          "21",
+          "26",
+          "4"
+        ],
+        [
+          "LA MORITA",
+          "2",
+          "40",
+          "19",
+          "21",
+          "4"
+        ],
+        [
+          "LAS COMPUERTAS",
+          "3",
+          "79",
+          "47",
+          "32",
+          "6"
+        ],
+        [
+          "LAS TORTUGAS [NUEVO CENTRO DE POBLACIÓN]",
+          "2",
+          "16",
+          "7",
+          "9",
+          "2"
+        ],
+        [
+          "LLERA DE CANALES",
+          "6",
+          "964",
+          "467",
+          "497",
+          "75"
+        ],
+        [
+          "MARIANO ESCOBEDO",
+          "2",
+          "56",
+          "16",
+          "40",
+          "4"
+        ],
+        [
+          "PORVENIR DEL CAMPESINO (LA PURÍSIMA)",
+          "1",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "PRIMERO DE ABRIL",
+          "2",
+          "37",
+          "21",
+          "16",
+          "4"
+        ],
+        [
+          "RANCHO NUEVO DEL SUR",
+          "2",
+          "20",
+          "13",
+          "7",
+          "2"
+        ],
+        [
+          "SAN ISIDRO",
+          "3",
+          "68",
+          "32",
+          "36",
+          "5"
+        ],
+        [
+          "SAN MIGUEL DEL OLIVO [CONGREGACIÓN]",
+          "2",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "SAN PEDRO DE LA COLINA (EL RANCHITO)",
+          "2",
+          "6",
+          "3",
+          "3",
+          "1"
+        ],
+        [
+          "SAN RAFAEL",
+          "3",
+          "226",
+          "114",
+          "112",
+          "20"
+        ],
+        [
+          "SANTA INÉS",
+          "2",
+          "36",
+          "11",
+          "25",
+          "3"
+        ],
+        [
+          "SANTA ISABEL (SARTENEJOS)",
+          "1",
+          "12",
+          "6",
+          "6",
+          "1"
+        ],
+        [
+          "VOZ CAMPESINA (PROVIDENCIA)",
+          "2",
+          "47",
+          "23",
+          "24",
+          "3"
+        ],
+        [
+          "TOTAL",
+          "89",
+          "3,046",
+          "1,502",
+          "1,544",
+          "284"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:39:55.107Z"
+}

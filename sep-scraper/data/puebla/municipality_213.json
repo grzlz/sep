@@ -1,0 +1,670 @@
+{
+  "municipality": "ZIHUATEUTLA",
+  "municipalityCode": "213",
+  "state": "PUEBLA",
+  "stateCode": "21",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAJETE\n\tACATENO\n\tACATLÁN\n\tACATZINGO\n\tACTEOPAN\n\tAHUACATLÁN\n\tAHUATLÁN\n\tAHUAZOTEPEC\n\tAHUEHUETITLA\n\tAJALPAN\n\tALBINO ZERTUCHE\n\tALJOJUCA\n\tALTEPEXI\n\tAMIXTLÁN\n\tAMOZOC\n\tAQUIXTLA\n\tATEMPAN\n\tATEXCAL\n\tATLEQUIZAYAN\n\tATLIXCO\n\tATOYATEMPAN\n\tATZALA\n\tATZITZIHUACÁN\n\tATZITZINTLA\n\tAXUTLA\n\tAYOTOXCO DE GUERRERO\n\tCALPAN\n\tCALTEPEC\n\tCAMOCUAUTLA\n\tCAÑADA MORELOS\n\tCAXHUACAN\n\tCHALCHICOMULA DE SESMA\n\tCHAPULCO\n\tCHIAUTLA\n\tCHIAUTZINGO\n\tCHICHIQUILA\n\tCHICONCUAUTLA\n\tCHIETLA\n\tCHIGMECATITLÁN\n\tCHIGNAHUAPAN\n\tCHIGNAUTLA\n\tCHILA\n\tCHILA DE LA SAL\n\tCHILCHOTLA\n\tCHINANTLA\n\tCOATEPEC\n\tCOATZINGO\n\tCOHETZALA\n\tCOHUECAN\n\tCORONANGO\n\tCOXCATLÁN\n\tCOYOMEAPAN\n\tCOYOTEPEC\n\tCUAPIAXTLA DE MADERO\n\tCUAUTEMPAN\n\tCUAUTINCHÁN\n\tCUAUTLANCINGO\n\tCUAYUCA DE ANDRADE\n\tCUETZALAN DEL PROGRESO\n\tCUYOACO\n\tDOMINGO ARENAS\n\tELOXOCHITLÁN\n\tEPATLÁN\n\tESPERANZA\n\tFRANCISCO Z. MENA\n\tGENERAL FELIPE ÁNGELES\n\tGUADALUPE\n\tGUADALUPE VICTORIA\n\tHERMENEGILDO GALEANA\n\tHONEY\n\tHUAQUECHULA\n\tHUATLATLAUCA\n\tHUAUCHINANGO\n\tHUEHUETLA\n\tHUEHUETLÁN EL CHICO\n\tHUEHUETLÁN EL GRANDE\n\tHUEJOTZINGO\n\tHUEYAPAN\n\tHUEYTAMALCO\n\tHUEYTLALPAN\n\tHUITZILAN DE SERDÁN\n\tHUITZILTEPEC\n\tIXCAMILPA DE GUERRERO\n\tIXCAQUIXTLA\n\tIXTACAMAXTITLÁN\n\tIXTEPEC\n\tIZÚCAR DE MATAMOROS\n\tJALPAN\n\tJOLALPAN\n\tJONOTLA\n\tJOPALA\n\tJUAN C. BONILLA\n\tJUAN GALINDO\n\tJUAN N. MÉNDEZ\n\tLA MAGDALENA TLATLAUQUITEPEC\n\tLAFRAGUA\n\tLIBRES\n\tLOS REYES DE JUÁREZ\n\tMAZAPILTEPEC DE JUÁREZ\n\tMIXTLA\n\tMOLCAXAC\n\tNAUPAN\n\tNAUZONTLA\n\tNEALTICAN\n\tNICOLÁS BRAVO\n\tNOPALUCAN\n\tOCOTEPEC\n\tOCOYUCAN\n\tOLINTLA\n\tORIENTAL\n\tPAHUATLÁN\n\tPALMAR DE BRAVO\n\tPANTEPEC\n\tPETLALCINGO\n\tPIAXTLA\n\tPUEBLA\n\tQUECHOLAC\n\tQUIMIXTLÁN\n\tRAFAEL LARA GRAJALES\n\tSAN ANDRÉS CHOLULA\n\tSAN ANTONIO CAÑADA\n\tSAN DIEGO LA MESA TOCHIMILTZINGO\n\tSAN FELIPE TEOTLALCINGO\n\tSAN FELIPE TEPATLÁN\n\tSAN GABRIEL CHILAC\n\tSAN GREGORIO ATZOMPA\n\tSAN JERÓNIMO TECUANIPAN\n\tSAN JERÓNIMO XAYACATLÁN\n\tSAN JOSÉ CHIAPA\n\tSAN JOSÉ MIAHUATLÁN\n\tSAN JUAN ATENCO\n\tSAN JUAN ATZOMPA\n\tSAN MARTÍN TEXMELUCAN\n\tSAN MARTÍN TOTOLTEPEC\n\tSAN MATÍAS TLALANCALECA\n\tSAN MIGUEL IXITLÁN\n\tSAN MIGUEL XOXTLA\n\tSAN NICOLÁS BUENOS AIRES\n\tSAN NICOLÁS DE LOS RANCHOS\n\tSAN PABLO ANICANO\n\tSAN PEDRO CHOLULA\n\tSAN PEDRO YELOIXTLAHUACA\n\tSAN SALVADOR EL SECO\n\tSAN SALVADOR EL VERDE\n\tSAN SALVADOR HUIXCOLOTLA\n\tSAN SEBASTIÁN TLACOTEPEC\n\tSANTA CATARINA TLALTEMPAN\n\tSANTA INÉS AHUATEMPAN\n\tSANTA ISABEL CHOLULA\n\tSANTIAGO MIAHUATLÁN\n\tSANTO TOMÁS HUEYOTLIPAN\n\tSOLTEPEC\n\tTECALI DE HERRERA\n\tTECAMACHALCO\n\tTECOMATLÁN\n\tTEHUACÁN\n\tTEHUITZINGO\n\tTENAMPULCO\n\tTEOPANTLÁN\n\tTEOTLALCO\n\tTEPANCO DE LÓPEZ\n\tTEPANGO DE RODRÍGUEZ\n\tTEPATLAXCO DE HIDALGO\n\tTEPEACA\n\tTEPEMAXALCO\n\tTEPEOJUMA\n\tTEPETZINTLA\n\tTEPEXCO\n\tTEPEXI DE RODRÍGUEZ\n\tTEPEYAHUALCO\n\tTEPEYAHUALCO DE CUAUHTÉMOC\n\tTETELA DE OCAMPO\n\tTETELES DE ÁVILA CASTILLO\n\tTEZIUTLÁN\n\tTIANGUISMANALCO\n\tTILAPA\n\tTLACHICHUCA\n\tTLACOTEPEC DE BENITO JUÁREZ\n\tTLACUILOTEPEC\n\tTLAHUAPAN\n\tTLALTENANGO\n\tTLANEPANTLA\n\tTLAOLA\n\tTLAPACOYA\n\tTLAPANALÁ\n\tTLATLAUQUITEPEC\n\tTLAXCO\n\tTOCHIMILCO\n\tTOCHTEPEC\n\tTOTOLTEPEC DE GUERRERO\n\tTULCINGO\n\tTUZAMAPAN DE GALEANA\n\tTZICATLACOYAN\n\tVENUSTIANO CARRANZA\n\tVICENTE GUERRERO\n\tXAYACATLÁN DE BRAVO\n\tXICOTEPEC\n\tXICOTLÁN\n\tXIUTETELCO\n\tXOCHIAPULCO\n\tXOCHILTEPEC\n\tXOCHITLÁN DE VICENTE SUÁREZ\n\tXOCHITLÁN TODOS SANTOS\n\tYAONÁHUAC\n\tYEHUALTEPEC\n\tZACAPALA\n\tZACAPOAXTLA\n\tZACATLÁN\n\tZAPOTITLÁN\n\tZAPOTITLÁN DE MÉNDEZ\n\tZARAGOZA\n\tZAUTLA\n\tZIHUATEUTLA\n\tZINACATEPEC\n\tZONGOZOTLA\n\tZOQUIAPAN\n\tZOQUITLÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ZIHUATEUTLA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAZCATLÁN\n\t\t3\n\t\t67\n\t\t33\n\t\t34\n\t\t6\n\t\n\t\n\t\tCACAHUATLÁN\n\t\t2\n\t\t54\n\t\t25\n\t\t29\n\t\t3\n\t\n\t\n\t\tCERRO VERDE\n\t\t4\n\t\t214\n\t\t100\n\t\t114\n\t\t14\n\t\n\t\n\t\tCUATECHALOTLA\n\t\t2\n\t\t27\n\t\t8\n\t\t19\n\t\t2\n\t\n\t\n\t\tCUAUNEPIXCA (LA CUMBRE)\n\t\t2\n\t\t68\n\t\t31\n\t\t37\n\t\t4\n\t\n\t\n\t\tERNESTO HERNÁNDEZ (TLACOYUCO)\n\t\t3\n\t\t73\n\t\t34\n\t\t39\n\t\t6\n\t\n\t\n\t\tFINCA LOS PUENTES\n\t\t1\n\t\t34\n\t\t18\n\t\t16\n\t\t2\n\t\n\t\n\t\tLA FLORIDA\n\t\t3\n\t\t28\n\t\t14\n\t\t14\n\t\t3\n\t\n\t\n\t\tLA LAGUNA\n\t\t3\n\t\t85\n\t\t45\n\t\t40\n\t\t5\n\t\n\t\n\t\tLA MESA DEL CRUCERO (LA MESITA)\n\t\t2\n\t\t19\n\t\t7\n\t\t12\n\t\t2\n\t\n\t\n\t\tLA TRANCA DE FIERRO\n\t\t1\n\t\t30\n\t\t11\n\t\t19\n\t\t1\n\t\n\t\n\t\tLA UNIÓN\n\t\t4\n\t\t561\n\t\t307\n\t\t254\n\t\t27\n\t\n\t\n\t\tLAGUNILLAS\n\t\t3\n\t\t132\n\t\t65\n\t\t67\n\t\t7\n\t\n\t\n\t\tLOMA BONITA\n\t\t3\n\t\t159\n\t\t77\n\t\t82\n\t\t10\n\t\n\t\n\t\tLOS MANGUITOS\n\t\t2\n\t\t34\n\t\t16\n\t\t18\n\t\t3\n\t\n\t\n\t\tLOS PINOS\n\t\t2\n\t\t111\n\t\t63\n\t\t48\n\t\t4\n\t\n\t\n\t\tMAZACOATLÁN\n\t\t4\n\t\t345\n\t\t166\n\t\t179\n\t\t19\n\t\n\t\n\t\tNANACATEPEC\n\t\t2\n\t\t12\n\t\t6\n\t\t6\n\t\t2\n\t\n\t\n\t\tOCOMANTLA\n\t\t3\n\t\t155\n\t\t81\n\t\t74\n\t\t10\n\t\n\t\n\t\tOJO DE AGUA\n\t\t2\n\t\t32\n\t\t14\n\t\t18\n\t\t3\n\t\n\t\n\t\tSAN ANDRÉS\n\t\t1\n\t\t18\n\t\t12\n\t\t6\n\t\t1\n\t\n\t\n\t\tTECPATLÁN\n\t\t3\n\t\t233\n\t\t105\n\t\t128\n\t\t11\n\t\n\t\n\t\tTECUANTLA\n\t\t2\n\t\t38\n\t\t21\n\t\t17\n\t\t3\n\t\n\t\n\t\tTELOLOTLA\n\t\t4\n\t\t242\n\t\t124\n\t\t118\n\t\t14\n\t\n\t\n\t\tTENANGUITO\n\t\t4\n\t\t208\n\t\t96\n\t\t112\n\t\t10\n\t\n\t\n\t\tZIHUATEUTLA\n\t\t6\n\t\t595\n\t\t274\n\t\t321\n\t\t31\n\t\n\t\n\t\tTOTAL\n\t\t71\n\t\t3,574\n\t\t1,753\n\t\t1,821\n\t\t203\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ZIHUATEUTLA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AZCATLÁN",
+          "3",
+          "67",
+          "33",
+          "34",
+          "6",
+          "CACAHUATLÁN",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3",
+          "CERRO VERDE",
+          "4",
+          "214",
+          "100",
+          "114",
+          "14",
+          "CUATECHALOTLA",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2",
+          "CUAUNEPIXCA (LA CUMBRE)",
+          "2",
+          "68",
+          "31",
+          "37",
+          "4",
+          "ERNESTO HERNÁNDEZ (TLACOYUCO)",
+          "3",
+          "73",
+          "34",
+          "39",
+          "6",
+          "FINCA LOS PUENTES",
+          "1",
+          "34",
+          "18",
+          "16",
+          "2",
+          "LA FLORIDA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3",
+          "LA LAGUNA",
+          "3",
+          "85",
+          "45",
+          "40",
+          "5",
+          "LA MESA DEL CRUCERO (LA MESITA)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2",
+          "LA TRANCA DE FIERRO",
+          "1",
+          "30",
+          "11",
+          "19",
+          "1",
+          "LA UNIÓN",
+          "4",
+          "561",
+          "307",
+          "254",
+          "27",
+          "LAGUNILLAS",
+          "3",
+          "132",
+          "65",
+          "67",
+          "7",
+          "LOMA BONITA",
+          "3",
+          "159",
+          "77",
+          "82",
+          "10",
+          "LOS MANGUITOS",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3",
+          "LOS PINOS",
+          "2",
+          "111",
+          "63",
+          "48",
+          "4",
+          "MAZACOATLÁN",
+          "4",
+          "345",
+          "166",
+          "179",
+          "19",
+          "NANACATEPEC",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2",
+          "OCOMANTLA",
+          "3",
+          "155",
+          "81",
+          "74",
+          "10",
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3",
+          "SAN ANDRÉS",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1",
+          "TECPATLÁN",
+          "3",
+          "233",
+          "105",
+          "128",
+          "11",
+          "TECUANTLA",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3",
+          "TELOLOTLA",
+          "4",
+          "242",
+          "124",
+          "118",
+          "14",
+          "TENANGUITO",
+          "4",
+          "208",
+          "96",
+          "112",
+          "10",
+          "ZIHUATEUTLA",
+          "6",
+          "595",
+          "274",
+          "321",
+          "31",
+          "TOTAL",
+          "71",
+          "3,574",
+          "1,753",
+          "1,821",
+          "203",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ZIHUATEUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZCATLÁN",
+          "3",
+          "67",
+          "33",
+          "34",
+          "6"
+        ],
+        [
+          "CACAHUATLÁN",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3"
+        ],
+        [
+          "CERRO VERDE",
+          "4",
+          "214",
+          "100",
+          "114",
+          "14"
+        ],
+        [
+          "CUATECHALOTLA",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "CUAUNEPIXCA (LA CUMBRE)",
+          "2",
+          "68",
+          "31",
+          "37",
+          "4"
+        ],
+        [
+          "ERNESTO HERNÁNDEZ (TLACOYUCO)",
+          "3",
+          "73",
+          "34",
+          "39",
+          "6"
+        ],
+        [
+          "FINCA LOS PUENTES",
+          "1",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "85",
+          "45",
+          "40",
+          "5"
+        ],
+        [
+          "LA MESA DEL CRUCERO (LA MESITA)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "LA TRANCA DE FIERRO",
+          "1",
+          "30",
+          "11",
+          "19",
+          "1"
+        ],
+        [
+          "LA UNIÓN",
+          "4",
+          "561",
+          "307",
+          "254",
+          "27"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "159",
+          "77",
+          "82",
+          "10"
+        ],
+        [
+          "LOS MANGUITOS",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LOS PINOS",
+          "2",
+          "111",
+          "63",
+          "48",
+          "4"
+        ],
+        [
+          "MAZACOATLÁN",
+          "4",
+          "345",
+          "166",
+          "179",
+          "19"
+        ],
+        [
+          "NANACATEPEC",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "OCOMANTLA",
+          "3",
+          "155",
+          "81",
+          "74",
+          "10"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "SAN ANDRÉS",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "TECPATLÁN",
+          "3",
+          "233",
+          "105",
+          "128",
+          "11"
+        ],
+        [
+          "TECUANTLA",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "TELOLOTLA",
+          "4",
+          "242",
+          "124",
+          "118",
+          "14"
+        ],
+        [
+          "TENANGUITO",
+          "4",
+          "208",
+          "96",
+          "112",
+          "10"
+        ],
+        [
+          "ZIHUATEUTLA",
+          "6",
+          "595",
+          "274",
+          "321",
+          "31"
+        ],
+        [
+          "TOTAL",
+          "71",
+          "3,574",
+          "1,753",
+          "1,821",
+          "203"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: PUEBLA;    MUNICIPIO: ZIHUATEUTLA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AZCATLÁN",
+          "3",
+          "67",
+          "33",
+          "34",
+          "6"
+        ],
+        [
+          "CACAHUATLÁN",
+          "2",
+          "54",
+          "25",
+          "29",
+          "3"
+        ],
+        [
+          "CERRO VERDE",
+          "4",
+          "214",
+          "100",
+          "114",
+          "14"
+        ],
+        [
+          "CUATECHALOTLA",
+          "2",
+          "27",
+          "8",
+          "19",
+          "2"
+        ],
+        [
+          "CUAUNEPIXCA (LA CUMBRE)",
+          "2",
+          "68",
+          "31",
+          "37",
+          "4"
+        ],
+        [
+          "ERNESTO HERNÁNDEZ (TLACOYUCO)",
+          "3",
+          "73",
+          "34",
+          "39",
+          "6"
+        ],
+        [
+          "FINCA LOS PUENTES",
+          "1",
+          "34",
+          "18",
+          "16",
+          "2"
+        ],
+        [
+          "LA FLORIDA",
+          "3",
+          "28",
+          "14",
+          "14",
+          "3"
+        ],
+        [
+          "LA LAGUNA",
+          "3",
+          "85",
+          "45",
+          "40",
+          "5"
+        ],
+        [
+          "LA MESA DEL CRUCERO (LA MESITA)",
+          "2",
+          "19",
+          "7",
+          "12",
+          "2"
+        ],
+        [
+          "LA TRANCA DE FIERRO",
+          "1",
+          "30",
+          "11",
+          "19",
+          "1"
+        ],
+        [
+          "LA UNIÓN",
+          "4",
+          "561",
+          "307",
+          "254",
+          "27"
+        ],
+        [
+          "LAGUNILLAS",
+          "3",
+          "132",
+          "65",
+          "67",
+          "7"
+        ],
+        [
+          "LOMA BONITA",
+          "3",
+          "159",
+          "77",
+          "82",
+          "10"
+        ],
+        [
+          "LOS MANGUITOS",
+          "2",
+          "34",
+          "16",
+          "18",
+          "3"
+        ],
+        [
+          "LOS PINOS",
+          "2",
+          "111",
+          "63",
+          "48",
+          "4"
+        ],
+        [
+          "MAZACOATLÁN",
+          "4",
+          "345",
+          "166",
+          "179",
+          "19"
+        ],
+        [
+          "NANACATEPEC",
+          "2",
+          "12",
+          "6",
+          "6",
+          "2"
+        ],
+        [
+          "OCOMANTLA",
+          "3",
+          "155",
+          "81",
+          "74",
+          "10"
+        ],
+        [
+          "OJO DE AGUA",
+          "2",
+          "32",
+          "14",
+          "18",
+          "3"
+        ],
+        [
+          "SAN ANDRÉS",
+          "1",
+          "18",
+          "12",
+          "6",
+          "1"
+        ],
+        [
+          "TECPATLÁN",
+          "3",
+          "233",
+          "105",
+          "128",
+          "11"
+        ],
+        [
+          "TECUANTLA",
+          "2",
+          "38",
+          "21",
+          "17",
+          "3"
+        ],
+        [
+          "TELOLOTLA",
+          "4",
+          "242",
+          "124",
+          "118",
+          "14"
+        ],
+        [
+          "TENANGUITO",
+          "4",
+          "208",
+          "96",
+          "112",
+          "10"
+        ],
+        [
+          "ZIHUATEUTLA",
+          "6",
+          "595",
+          "274",
+          "321",
+          "31"
+        ],
+        [
+          "TOTAL",
+          "71",
+          "3,574",
+          "1,753",
+          "1,821",
+          "203"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:38:19.200Z"
+}

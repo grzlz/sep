@@ -1,0 +1,516 @@
+{
+  "municipality": "SAN FRANCISCO DE LOS ROMO",
+  "municipalityCode": "011",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: SAN FRANCISCO DE LOS ROMO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMAPOLAS DEL RÍO\n\t\t3\n\t\t95\n\t\t48\n\t\t47\n\t\t6\n\t\n\t\n\t\tBORROTES\n\t\t3\n\t\t94\n\t\t40\n\t\t54\n\t\t5\n\t\n\t\n\t\tCHICALOTE [ESTACIÓN]\n\t\t2\n\t\t57\n\t\t17\n\t\t40\n\t\t3\n\t\n\t\n\t\tEJIDO RANCHO NUEVO\n\t\t2\n\t\t67\n\t\t33\n\t\t34\n\t\t4\n\t\n\t\n\t\tEL CHAPARRAL\n\t\t2\n\t\t13\n\t\t4\n\t\t9\n\t\t2\n\t\n\t\n\t\tEL TEPETATE\n\t\t3\n\t\t101\n\t\t47\n\t\t54\n\t\t6\n\t\n\t\n\t\tEX-VIÑEDOS GUADALUPE\n\t\t2\n\t\t517\n\t\t277\n\t\t240\n\t\t15\n\t\n\t\n\t\tLA CONCEPCIÓN\n\t\t4\n\t\t447\n\t\t230\n\t\t217\n\t\t19\n\t\n\t\n\t\tLA ESCONDIDA (EL SALERO)\n\t\t6\n\t\t847\n\t\t427\n\t\t420\n\t\t30\n\t\n\t\n\t\tLA PROVIDENCIA\n\t\t2\n\t\t139\n\t\t66\n\t\t73\n\t\t5\n\t\n\t\n\t\tLA RIBERA [FRACCIONAMIENTO]\n\t\t9\n\t\t2,460\n\t\t1,212\n\t\t1,248\n\t\t123\n\t\n\t\n\t\tLORETITO (CHARCO DEL TORO)\n\t\t3\n\t\t326\n\t\t147\n\t\t179\n\t\t12\n\t\n\t\n\t\tMACARIO J. GÓMEZ [COLONIA]\n\t\t7\n\t\t839\n\t\t417\n\t\t422\n\t\t28\n\t\n\t\n\t\tMEDIO KILO\n\t\t1\n\t\t87\n\t\t39\n\t\t48\n\t\t6\n\t\n\t\n\t\tPASEOS DE LA PROVIDENCIA [FRACCIONAMIENTO]\n\t\t4\n\t\t777\n\t\t367\n\t\t410\n\t\t92\n\t\n\t\n\t\tPUERTECITO DE LA VIRGEN\n\t\t9\n\t\t2,125\n\t\t1,046\n\t\t1,079\n\t\t77\n\t\n\t\n\t\tSAN FRANCISCO DE LOS ROMO\n\t\t24\n\t\t6,875\n\t\t3,504\n\t\t3,371\n\t\t396\n\t\n\t\n\t\tURBIVILLA DEL VERGEL [FRACCIONAMIENTO]\n\t\t4\n\t\t970\n\t\t493\n\t\t477\n\t\t32\n\t\n\t\n\t\tVIÑEDOS RIVIER\n\t\t8\n\t\t343\n\t\t174\n\t\t169\n\t\t40\n\t\n\t\n\t\tTOTAL\n\t\t98\n\t\t17,179\n\t\t8,588\n\t\t8,591\n\t\t901\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: SAN FRANCISCO DE LOS ROMO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMAPOLAS DEL RÍO",
+          "3",
+          "95",
+          "48",
+          "47",
+          "6",
+          "BORROTES",
+          "3",
+          "94",
+          "40",
+          "54",
+          "5",
+          "CHICALOTE [ESTACIÓN]",
+          "2",
+          "57",
+          "17",
+          "40",
+          "3",
+          "EJIDO RANCHO NUEVO",
+          "2",
+          "67",
+          "33",
+          "34",
+          "4",
+          "EL CHAPARRAL",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2",
+          "EL TEPETATE",
+          "3",
+          "101",
+          "47",
+          "54",
+          "6",
+          "EX-VIÑEDOS GUADALUPE",
+          "2",
+          "517",
+          "277",
+          "240",
+          "15",
+          "LA CONCEPCIÓN",
+          "4",
+          "447",
+          "230",
+          "217",
+          "19",
+          "LA ESCONDIDA (EL SALERO)",
+          "6",
+          "847",
+          "427",
+          "420",
+          "30",
+          "LA PROVIDENCIA",
+          "2",
+          "139",
+          "66",
+          "73",
+          "5",
+          "LA RIBERA [FRACCIONAMIENTO]",
+          "9",
+          "2,460",
+          "1,212",
+          "1,248",
+          "123",
+          "LORETITO (CHARCO DEL TORO)",
+          "3",
+          "326",
+          "147",
+          "179",
+          "12",
+          "MACARIO J. GÓMEZ [COLONIA]",
+          "7",
+          "839",
+          "417",
+          "422",
+          "28",
+          "MEDIO KILO",
+          "1",
+          "87",
+          "39",
+          "48",
+          "6",
+          "PASEOS DE LA PROVIDENCIA [FRACCIONAMIENTO]",
+          "4",
+          "777",
+          "367",
+          "410",
+          "92",
+          "PUERTECITO DE LA VIRGEN",
+          "9",
+          "2,125",
+          "1,046",
+          "1,079",
+          "77",
+          "SAN FRANCISCO DE LOS ROMO",
+          "24",
+          "6,875",
+          "3,504",
+          "3,371",
+          "396",
+          "URBIVILLA DEL VERGEL [FRACCIONAMIENTO]",
+          "4",
+          "970",
+          "493",
+          "477",
+          "32",
+          "VIÑEDOS RIVIER",
+          "8",
+          "343",
+          "174",
+          "169",
+          "40",
+          "TOTAL",
+          "98",
+          "17,179",
+          "8,588",
+          "8,591",
+          "901",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: SAN FRANCISCO DE LOS ROMO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMAPOLAS DEL RÍO",
+          "3",
+          "95",
+          "48",
+          "47",
+          "6"
+        ],
+        [
+          "BORROTES",
+          "3",
+          "94",
+          "40",
+          "54",
+          "5"
+        ],
+        [
+          "CHICALOTE [ESTACIÓN]",
+          "2",
+          "57",
+          "17",
+          "40",
+          "3"
+        ],
+        [
+          "EJIDO RANCHO NUEVO",
+          "2",
+          "67",
+          "33",
+          "34",
+          "4"
+        ],
+        [
+          "EL CHAPARRAL",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "101",
+          "47",
+          "54",
+          "6"
+        ],
+        [
+          "EX-VIÑEDOS GUADALUPE",
+          "2",
+          "517",
+          "277",
+          "240",
+          "15"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "4",
+          "447",
+          "230",
+          "217",
+          "19"
+        ],
+        [
+          "LA ESCONDIDA (EL SALERO)",
+          "6",
+          "847",
+          "427",
+          "420",
+          "30"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "139",
+          "66",
+          "73",
+          "5"
+        ],
+        [
+          "LA RIBERA [FRACCIONAMIENTO]",
+          "9",
+          "2,460",
+          "1,212",
+          "1,248",
+          "123"
+        ],
+        [
+          "LORETITO (CHARCO DEL TORO)",
+          "3",
+          "326",
+          "147",
+          "179",
+          "12"
+        ],
+        [
+          "MACARIO J. GÓMEZ [COLONIA]",
+          "7",
+          "839",
+          "417",
+          "422",
+          "28"
+        ],
+        [
+          "MEDIO KILO",
+          "1",
+          "87",
+          "39",
+          "48",
+          "6"
+        ],
+        [
+          "PASEOS DE LA PROVIDENCIA [FRACCIONAMIENTO]",
+          "4",
+          "777",
+          "367",
+          "410",
+          "92"
+        ],
+        [
+          "PUERTECITO DE LA VIRGEN",
+          "9",
+          "2,125",
+          "1,046",
+          "1,079",
+          "77"
+        ],
+        [
+          "SAN FRANCISCO DE LOS ROMO",
+          "24",
+          "6,875",
+          "3,504",
+          "3,371",
+          "396"
+        ],
+        [
+          "URBIVILLA DEL VERGEL [FRACCIONAMIENTO]",
+          "4",
+          "970",
+          "493",
+          "477",
+          "32"
+        ],
+        [
+          "VIÑEDOS RIVIER",
+          "8",
+          "343",
+          "174",
+          "169",
+          "40"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "17,179",
+          "8,588",
+          "8,591",
+          "901"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: SAN FRANCISCO DE LOS ROMO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMAPOLAS DEL RÍO",
+          "3",
+          "95",
+          "48",
+          "47",
+          "6"
+        ],
+        [
+          "BORROTES",
+          "3",
+          "94",
+          "40",
+          "54",
+          "5"
+        ],
+        [
+          "CHICALOTE [ESTACIÓN]",
+          "2",
+          "57",
+          "17",
+          "40",
+          "3"
+        ],
+        [
+          "EJIDO RANCHO NUEVO",
+          "2",
+          "67",
+          "33",
+          "34",
+          "4"
+        ],
+        [
+          "EL CHAPARRAL",
+          "2",
+          "13",
+          "4",
+          "9",
+          "2"
+        ],
+        [
+          "EL TEPETATE",
+          "3",
+          "101",
+          "47",
+          "54",
+          "6"
+        ],
+        [
+          "EX-VIÑEDOS GUADALUPE",
+          "2",
+          "517",
+          "277",
+          "240",
+          "15"
+        ],
+        [
+          "LA CONCEPCIÓN",
+          "4",
+          "447",
+          "230",
+          "217",
+          "19"
+        ],
+        [
+          "LA ESCONDIDA (EL SALERO)",
+          "6",
+          "847",
+          "427",
+          "420",
+          "30"
+        ],
+        [
+          "LA PROVIDENCIA",
+          "2",
+          "139",
+          "66",
+          "73",
+          "5"
+        ],
+        [
+          "LA RIBERA [FRACCIONAMIENTO]",
+          "9",
+          "2,460",
+          "1,212",
+          "1,248",
+          "123"
+        ],
+        [
+          "LORETITO (CHARCO DEL TORO)",
+          "3",
+          "326",
+          "147",
+          "179",
+          "12"
+        ],
+        [
+          "MACARIO J. GÓMEZ [COLONIA]",
+          "7",
+          "839",
+          "417",
+          "422",
+          "28"
+        ],
+        [
+          "MEDIO KILO",
+          "1",
+          "87",
+          "39",
+          "48",
+          "6"
+        ],
+        [
+          "PASEOS DE LA PROVIDENCIA [FRACCIONAMIENTO]",
+          "4",
+          "777",
+          "367",
+          "410",
+          "92"
+        ],
+        [
+          "PUERTECITO DE LA VIRGEN",
+          "9",
+          "2,125",
+          "1,046",
+          "1,079",
+          "77"
+        ],
+        [
+          "SAN FRANCISCO DE LOS ROMO",
+          "24",
+          "6,875",
+          "3,504",
+          "3,371",
+          "396"
+        ],
+        [
+          "URBIVILLA DEL VERGEL [FRACCIONAMIENTO]",
+          "4",
+          "970",
+          "493",
+          "477",
+          "32"
+        ],
+        [
+          "VIÑEDOS RIVIER",
+          "8",
+          "343",
+          "174",
+          "169",
+          "40"
+        ],
+        [
+          "TOTAL",
+          "98",
+          "17,179",
+          "8,588",
+          "8,591",
+          "901"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:03:25.670Z"
+}

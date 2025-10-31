@@ -1,0 +1,340 @@
+{
+  "municipality": "COSÍO",
+  "municipalityCode": "004",
+  "state": "AGUASCALIENTES",
+  "stateCode": "1",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAGUASCALIENTES\n\tASIENTOS\n\tCALVILLO\n\tCOSÍO\n\tEL LLANO\n\tENCARNACIÓN DE DÍAZ\n\tJESÚS MARÍA\n\tLAGOS DE MORENO\n\tOJUELOS DE JALISCO\n\tPABELLÓN DE ARTEAGA\n\tRINCÓN DE ROMOS\n\tSAN FRANCISCO DE LOS ROMO\n\tSAN JOSÉ DE GRACIA\n\tTEPEZALÁ"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: COSÍO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOSÍO\n\t\t7\n\t\t1,815\n\t\t934\n\t\t881\n\t\t120\n\t\n\t\n\t\tEL DURAZNO\n\t\t2\n\t\t45\n\t\t21\n\t\t24\n\t\t2\n\t\n\t\n\t\tEL REFUGIO DE AGUA ZARCA\n\t\t4\n\t\t262\n\t\t133\n\t\t129\n\t\t11\n\t\n\t\n\t\tEL REFUGIO DE PROVIDENCIA (PROVIDENCIA)\n\t\t4\n\t\t443\n\t\t197\n\t\t246\n\t\t18\n\t\n\t\n\t\tEL SALERO\n\t\t4\n\t\t426\n\t\t213\n\t\t213\n\t\t16\n\t\n\t\n\t\tGUADALUPITO\n\t\t1\n\t\t5\n\t\t3\n\t\t2\n\t\t1\n\t\n\t\n\t\tLA PUNTA\n\t\t5\n\t\t907\n\t\t478\n\t\t429\n\t\t43\n\t\n\t\n\t\tSANTA MARÍA DE LA PAZ\n\t\t4\n\t\t349\n\t\t175\n\t\t174\n\t\t19\n\t\n\t\n\t\tSOLEDAD DE ABAJO [ESTACIÓN DE ADAMES]\n\t\t4\n\t\t208\n\t\t111\n\t\t97\n\t\t11\n\t\n\t\n\t\tSOLEDAD DE ARRIBA\n\t\t1\n\t\t67\n\t\t24\n\t\t43\n\t\t3\n\t\n\t\n\t\tZACATEQUILLAS\n\t\t3\n\t\t246\n\t\t123\n\t\t123\n\t\t11\n\t\n\t\n\t\tTOTAL\n\t\t39\n\t\t4,773\n\t\t2,412\n\t\t2,361\n\t\t255\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: COSÍO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COSÍO",
+          "7",
+          "1,815",
+          "934",
+          "881",
+          "120",
+          "EL DURAZNO",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2",
+          "EL REFUGIO DE AGUA ZARCA",
+          "4",
+          "262",
+          "133",
+          "129",
+          "11",
+          "EL REFUGIO DE PROVIDENCIA (PROVIDENCIA)",
+          "4",
+          "443",
+          "197",
+          "246",
+          "18",
+          "EL SALERO",
+          "4",
+          "426",
+          "213",
+          "213",
+          "16",
+          "GUADALUPITO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1",
+          "LA PUNTA",
+          "5",
+          "907",
+          "478",
+          "429",
+          "43",
+          "SANTA MARÍA DE LA PAZ",
+          "4",
+          "349",
+          "175",
+          "174",
+          "19",
+          "SOLEDAD DE ABAJO [ESTACIÓN DE ADAMES]",
+          "4",
+          "208",
+          "111",
+          "97",
+          "11",
+          "SOLEDAD DE ARRIBA",
+          "1",
+          "67",
+          "24",
+          "43",
+          "3",
+          "ZACATEQUILLAS",
+          "3",
+          "246",
+          "123",
+          "123",
+          "11",
+          "TOTAL",
+          "39",
+          "4,773",
+          "2,412",
+          "2,361",
+          "255",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: COSÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COSÍO",
+          "7",
+          "1,815",
+          "934",
+          "881",
+          "120"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2"
+        ],
+        [
+          "EL REFUGIO DE AGUA ZARCA",
+          "4",
+          "262",
+          "133",
+          "129",
+          "11"
+        ],
+        [
+          "EL REFUGIO DE PROVIDENCIA (PROVIDENCIA)",
+          "4",
+          "443",
+          "197",
+          "246",
+          "18"
+        ],
+        [
+          "EL SALERO",
+          "4",
+          "426",
+          "213",
+          "213",
+          "16"
+        ],
+        [
+          "GUADALUPITO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA PUNTA",
+          "5",
+          "907",
+          "478",
+          "429",
+          "43"
+        ],
+        [
+          "SANTA MARÍA DE LA PAZ",
+          "4",
+          "349",
+          "175",
+          "174",
+          "19"
+        ],
+        [
+          "SOLEDAD DE ABAJO [ESTACIÓN DE ADAMES]",
+          "4",
+          "208",
+          "111",
+          "97",
+          "11"
+        ],
+        [
+          "SOLEDAD DE ARRIBA",
+          "1",
+          "67",
+          "24",
+          "43",
+          "3"
+        ],
+        [
+          "ZACATEQUILLAS",
+          "3",
+          "246",
+          "123",
+          "123",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "4,773",
+          "2,412",
+          "2,361",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: AGUASCALIENTES;    MUNICIPIO: COSÍO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COSÍO",
+          "7",
+          "1,815",
+          "934",
+          "881",
+          "120"
+        ],
+        [
+          "EL DURAZNO",
+          "2",
+          "45",
+          "21",
+          "24",
+          "2"
+        ],
+        [
+          "EL REFUGIO DE AGUA ZARCA",
+          "4",
+          "262",
+          "133",
+          "129",
+          "11"
+        ],
+        [
+          "EL REFUGIO DE PROVIDENCIA (PROVIDENCIA)",
+          "4",
+          "443",
+          "197",
+          "246",
+          "18"
+        ],
+        [
+          "EL SALERO",
+          "4",
+          "426",
+          "213",
+          "213",
+          "16"
+        ],
+        [
+          "GUADALUPITO",
+          "1",
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        [
+          "LA PUNTA",
+          "5",
+          "907",
+          "478",
+          "429",
+          "43"
+        ],
+        [
+          "SANTA MARÍA DE LA PAZ",
+          "4",
+          "349",
+          "175",
+          "174",
+          "19"
+        ],
+        [
+          "SOLEDAD DE ABAJO [ESTACIÓN DE ADAMES]",
+          "4",
+          "208",
+          "111",
+          "97",
+          "11"
+        ],
+        [
+          "SOLEDAD DE ARRIBA",
+          "1",
+          "67",
+          "24",
+          "43",
+          "3"
+        ],
+        [
+          "ZACATEQUILLAS",
+          "3",
+          "246",
+          "123",
+          "123",
+          "11"
+        ],
+        [
+          "TOTAL",
+          "39",
+          "4,773",
+          "2,412",
+          "2,361",
+          "255"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:02:54.695Z"
+}

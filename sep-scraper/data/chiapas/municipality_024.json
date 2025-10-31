@@ -1,0 +1,494 @@
+{
+  "municipality": "CHANAL",
+  "municipalityCode": "024",
+  "state": "CHIAPAS",
+  "stateCode": "7",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACACOYAGUA\n\tACALA\n\tACAPETAHUA\n\tALDAMA\n\tALTAMIRANO\n\tAMATÁN\n\tAMATENANGO DE LA FRONTERA\n\tAMATENANGO DEL VALLE\n\tÁNGEL ALBINO CORZO\n\tARRIAGA\n\tBEJUCAL DE OCAMPO\n\tBELLA VISTA\n\tBENEMÉRITO DE LAS AMÉRICAS\n\tBERRIOZÁBAL\n\tBOCHIL\n\tCACAHOATÁN\n\tCAPITÁN LUIS ÁNGEL VIDAL\n\tCATAZAJÁ\n\tCHALCHIHUITÁN\n\tCHAMULA\n\tCHANAL\n\tCHAPULTENANGO\n\tCHENALHÓ\n\tCHIAPA DE CORZO\n\tCHIAPILLA\n\tCHICOASÉN\n\tCHICOMUSELO\n\tCHILÓN\n\tCINTALAPA DE FIGUEROA\n\tCOAPILLA\n\tCOMITÁN DE DOMÍNGUEZ\n\tCOPAINALÁ\n\tEL BOSQUE\n\tEL PARRAL\n\tEL PORVENIR\n\tEMILIANO ZAPATA\n\tESCUINTLA\n\tFRANCISCO LEÓN\n\tFRONTERA COMALAPA\n\tFRONTERA HIDALGO\n\tHONDURAS DE LA SIERRA\n\tHUEHUETÁN\n\tHUITIUPÁN\n\tHUIXTÁN\n\tHUIXTLA\n\tIXHUATÁN\n\tIXTACOMITÁN\n\tIXTAPA\n\tIXTAPANGAJOYA\n\tJIQUIPILAS\n\tJITOTOL\n\tJUÁREZ\n\tLA CONCORDIA\n\tLA GRANDEZA\n\tLA INDEPENDENCIA\n\tLA LIBERTAD\n\tLA TRINITARIA\n\tLARRÁINZAR\n\tLAS MARGARITAS\n\tLAS ROSAS\n\tMAPASTEPEC\n\tMARAVILLA TENEJAPA\n\tMARQUÉS DE COMILLAS\n\tMAZAPA DE MADERO\n\tMAZATÁN\n\tMETAPA\n\tMEZCALAPA\n\tMITONTIC\n\tMONTECRISTO DE GUERRERO\n\tMOTOZINTLA\n\tNICOLÁS RUÍZ\n\tOCOSINGO\n\tOCOTEPEC\n\tOCOZOCOAUTLA DE ESPINOSA\n\tOSTUACÁN\n\tOSUMACINTA\n\tOXCHUC\n\tPALENQUE\n\tPANTELHÓ\n\tPANTEPEC\n\tPICHUCALCO\n\tPIJIJIAPAN\n\tPUEBLO NUEVO SOLISTAHUACÁN\n\tRAYÓN\n\tREFORMA\n\tRINCÓN CHAMULA SAN PEDRO\n\tSABANILLA\n\tSALTO DE AGUA\n\tSAN ANDRÉS DURAZNAL\n\tSAN CRISTÓBAL DE LAS CASAS\n\tSAN FERNANDO\n\tSAN JUAN CANCUC\n\tSAN LUCAS\n\tSANTIAGO EL PINAR\n\tSILTEPEC\n\tSIMOJOVEL\n\tSITALÁ\n\tSOCOLTENANGO\n\tSOLOSUCHIAPA\n\tSOYALÓ\n\tSUCHIAPA\n\tSUCHIATE\n\tSUNUAPA\n\tTAPACHULA\n\tTAPALAPA\n\tTAPILULA\n\tTECPATÁN\n\tTENEJAPA\n\tTEOPISCA\n\tTILA\n\tTONALÁ\n\tTOTOLAPA\n\tTUMBALÁ\n\tTUXTLA CHICO\n\tTUXTLA GUTIÉRREZ\n\tTUZANTÁN\n\tTZIMOL\n\tUNIÓN JUÁREZ\n\tVENUSTIANO CARRANZA\n\tVILLA COMALTITLÁN\n\tVILLA CORZO\n\tVILLAFLORES\n\tYAJALÓN\n\tZINACANTÁN"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CHANAL\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHANAL\n\t\t21\n\t\t3,961\n\t\t2,021\n\t\t1,940\n\t\t139\n\t\n\t\n\t\tCHANALITO\n\t\t2\n\t\t40\n\t\t23\n\t\t17\n\t\t3\n\t\n\t\n\t\tCRUZTANAJ\n\t\t3\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tFRONTERA MEXIQUITO\n\t\t2\n\t\t113\n\t\t64\n\t\t49\n\t\t4\n\t\n\t\n\t\tLA MENDOZA\n\t\t2\n\t\t35\n\t\t8\n\t\t27\n\t\t2\n\t\n\t\n\t\tLA VENTANA\n\t\t2\n\t\t50\n\t\t26\n\t\t24\n\t\t3\n\t\n\t\n\t\tMONTE BONITO\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tNARANJAL\n\t\t2\n\t\t20\n\t\t8\n\t\t12\n\t\t2\n\t\n\t\n\t\tNATILTÓN\n\t\t4\n\t\t487\n\t\t227\n\t\t260\n\t\t32\n\t\n\t\n\t\tNUEVO PORVENIR\n\t\t2\n\t\t40\n\t\t18\n\t\t22\n\t\t2\n\t\n\t\n\t\tONILJA\n\t\t2\n\t\t134\n\t\t71\n\t\t63\n\t\t5\n\t\n\t\n\t\tPUERTO MORELOS\n\t\t2\n\t\t26\n\t\t15\n\t\t11\n\t\t3\n\t\n\t\n\t\tSAKCHILBATE\n\t\t2\n\t\t34\n\t\t22\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN ISIDRO LA FLORECILLA\n\t\t2\n\t\t17\n\t\t8\n\t\t9\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ TZIBALCHÉ\n\t\t2\n\t\t81\n\t\t41\n\t\t40\n\t\t4\n\t\n\t\n\t\tSAQUILCHÉN\n\t\t2\n\t\t19\n\t\t6\n\t\t13\n\t\t2\n\t\n\t\n\t\tSIBERIA\n\t\t3\n\t\t418\n\t\t204\n\t\t214\n\t\t15\n\t\n\t\n\t\tTZAJALNICH\n\t\t3\n\t\t235\n\t\t119\n\t\t116\n\t\t10\n\t\n\t\n\t\tTOTAL\n\t\t60\n\t\t5,761\n\t\t2,903\n\t\t2,858\n\t\t235\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CHANAL",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHANAL",
+          "21",
+          "3,961",
+          "2,021",
+          "1,940",
+          "139",
+          "CHANALITO",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3",
+          "CRUZTANAJ",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3",
+          "FRONTERA MEXIQUITO",
+          "2",
+          "113",
+          "64",
+          "49",
+          "4",
+          "LA MENDOZA",
+          "2",
+          "35",
+          "8",
+          "27",
+          "2",
+          "LA VENTANA",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3",
+          "MONTE BONITO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "NARANJAL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2",
+          "NATILTÓN",
+          "4",
+          "487",
+          "227",
+          "260",
+          "32",
+          "NUEVO PORVENIR",
+          "2",
+          "40",
+          "18",
+          "22",
+          "2",
+          "ONILJA",
+          "2",
+          "134",
+          "71",
+          "63",
+          "5",
+          "PUERTO MORELOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3",
+          "SAKCHILBATE",
+          "2",
+          "34",
+          "22",
+          "12",
+          "2",
+          "SAN ISIDRO LA FLORECILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2",
+          "SAN JOSÉ TZIBALCHÉ",
+          "2",
+          "81",
+          "41",
+          "40",
+          "4",
+          "SAQUILCHÉN",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2",
+          "SIBERIA",
+          "3",
+          "418",
+          "204",
+          "214",
+          "15",
+          "TZAJALNICH",
+          "3",
+          "235",
+          "119",
+          "116",
+          "10",
+          "TOTAL",
+          "60",
+          "5,761",
+          "2,903",
+          "2,858",
+          "235",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CHANAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHANAL",
+          "21",
+          "3,961",
+          "2,021",
+          "1,940",
+          "139"
+        ],
+        [
+          "CHANALITO",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "CRUZTANAJ",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "FRONTERA MEXIQUITO",
+          "2",
+          "113",
+          "64",
+          "49",
+          "4"
+        ],
+        [
+          "LA MENDOZA",
+          "2",
+          "35",
+          "8",
+          "27",
+          "2"
+        ],
+        [
+          "LA VENTANA",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "MONTE BONITO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NARANJAL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NATILTÓN",
+          "4",
+          "487",
+          "227",
+          "260",
+          "32"
+        ],
+        [
+          "NUEVO PORVENIR",
+          "2",
+          "40",
+          "18",
+          "22",
+          "2"
+        ],
+        [
+          "ONILJA",
+          "2",
+          "134",
+          "71",
+          "63",
+          "5"
+        ],
+        [
+          "PUERTO MORELOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "SAKCHILBATE",
+          "2",
+          "34",
+          "22",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ISIDRO LA FLORECILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SAN JOSÉ TZIBALCHÉ",
+          "2",
+          "81",
+          "41",
+          "40",
+          "4"
+        ],
+        [
+          "SAQUILCHÉN",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "SIBERIA",
+          "3",
+          "418",
+          "204",
+          "214",
+          "15"
+        ],
+        [
+          "TZAJALNICH",
+          "3",
+          "235",
+          "119",
+          "116",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "5,761",
+          "2,903",
+          "2,858",
+          "235"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIAPAS;    MUNICIPIO: CHANAL"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHANAL",
+          "21",
+          "3,961",
+          "2,021",
+          "1,940",
+          "139"
+        ],
+        [
+          "CHANALITO",
+          "2",
+          "40",
+          "23",
+          "17",
+          "3"
+        ],
+        [
+          "CRUZTANAJ",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "FRONTERA MEXIQUITO",
+          "2",
+          "113",
+          "64",
+          "49",
+          "4"
+        ],
+        [
+          "LA MENDOZA",
+          "2",
+          "35",
+          "8",
+          "27",
+          "2"
+        ],
+        [
+          "LA VENTANA",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "MONTE BONITO",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NARANJAL",
+          "2",
+          "20",
+          "8",
+          "12",
+          "2"
+        ],
+        [
+          "NATILTÓN",
+          "4",
+          "487",
+          "227",
+          "260",
+          "32"
+        ],
+        [
+          "NUEVO PORVENIR",
+          "2",
+          "40",
+          "18",
+          "22",
+          "2"
+        ],
+        [
+          "ONILJA",
+          "2",
+          "134",
+          "71",
+          "63",
+          "5"
+        ],
+        [
+          "PUERTO MORELOS",
+          "2",
+          "26",
+          "15",
+          "11",
+          "3"
+        ],
+        [
+          "SAKCHILBATE",
+          "2",
+          "34",
+          "22",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ISIDRO LA FLORECILLA",
+          "2",
+          "17",
+          "8",
+          "9",
+          "2"
+        ],
+        [
+          "SAN JOSÉ TZIBALCHÉ",
+          "2",
+          "81",
+          "41",
+          "40",
+          "4"
+        ],
+        [
+          "SAQUILCHÉN",
+          "2",
+          "19",
+          "6",
+          "13",
+          "2"
+        ],
+        [
+          "SIBERIA",
+          "3",
+          "418",
+          "204",
+          "214",
+          "15"
+        ],
+        [
+          "TZAJALNICH",
+          "3",
+          "235",
+          "119",
+          "116",
+          "10"
+        ],
+        [
+          "TOTAL",
+          "60",
+          "5,761",
+          "2,903",
+          "2,858",
+          "235"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:16.502Z"
+}

@@ -1,0 +1,780 @@
+{
+  "municipality": "VILLA DE ARRIAGA",
+  "municipalityCode": "046",
+  "state": "SAN LUIS POTOSÍ",
+  "stateCode": "24",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUALULCO DEL SONIDO 13\n\tALAQUINES\n\tAQUISMÓN\n\tARMADILLO DE LOS INFANTE\n\tAXTLA DE TERRAZAS\n\tCÁRDENAS\n\tCATORCE\n\tCEDRAL\n\tCERRITOS\n\tCERRO DE SAN PEDRO\n\tCHARCAS\n\tCIUDAD DEL MAÍZ\n\tCIUDAD FERNÁNDEZ\n\tCIUDAD VALLES\n\tCOXCATLÁN\n\tEBANO\n\tEL NARANJO\n\tGUADALCÁZAR\n\tHUEHUETLÁN\n\tLAGUNILLAS\n\tMATEHUALA\n\tMATLAPA\n\tMEXQUITIC DE CARMONA\n\tMOCTEZUMA\n\tRAYÓN\n\tRIOVERDE\n\tSALINAS\n\tSAN ANTONIO\n\tSAN CIRO DE ACOSTA\n\tSAN LUIS POTOSÍ\n\tSAN MARTÍN CHALCHICUAUTLA\n\tSAN NICOLÁS TOLENTINO\n\tSAN VICENTE TANCUAYALAB\n\tSANTA CATARINA\n\tSANTA MARÍA DEL RÍO\n\tSANTO DOMINGO\n\tSOLEDAD DE GRACIANO SÁNCHEZ\n\tTAMASOPO\n\tTAMAZUNCHALE\n\tTAMPACÁN\n\tTAMPAMOLÓN CORONA\n\tTAMUÍN\n\tTANCANHUITZ\n\tTANLAJÁS\n\tTANQUIÁN DE ESCOBEDO\n\tTIERRA NUEVA\n\tVANEGAS\n\tVENADO\n\tVILLA DE ARISTA\n\tVILLA DE ARRIAGA\n\tVILLA DE GUADALUPE\n\tVILLA DE LA PAZ\n\tVILLA DE POZOS\n\tVILLA DE RAMOS\n\tVILLA DE REYES\n\tVILLA HIDALGO\n\tVILLA JUÁREZ\n\tXILITLA\n\tZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA DE ARRIAGA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCOLONIA AQUILES CÓRDOVA MORÁN\n\t\t2\n\t\t18\n\t\t11\n\t\t7\n\t\t4\n\t\n\t\n\t\tCOLONIA EMILIANO ZAPATA\n\t\t3\n\t\t185\n\t\t86\n\t\t99\n\t\t10\n\t\n\t\n\t\tCOLONIA GUADALUPE VICTORIA (FÁTIMA)\n\t\t3\n\t\t60\n\t\t31\n\t\t29\n\t\t4\n\t\n\t\n\t\tCOLONIA LA LABORCILLA\n\t\t3\n\t\t207\n\t\t114\n\t\t93\n\t\t12\n\t\n\t\n\t\tCOLONIA LA LUZ\n\t\t3\n\t\t80\n\t\t35\n\t\t45\n\t\t5\n\t\n\t\n\t\tCOLONIA LOS MANUELES\n\t\t3\n\t\t31\n\t\t14\n\t\t17\n\t\t3\n\t\n\t\n\t\tCOLONIA PALOMAS\n\t\t3\n\t\t157\n\t\t66\n\t\t91\n\t\t10\n\t\n\t\n\t\tEL ÁGUILA\n\t\t3\n\t\t48\n\t\t31\n\t\t17\n\t\t4\n\t\n\t\n\t\tEL JARDÍN\n\t\t2\n\t\t30\n\t\t19\n\t\t11\n\t\t2\n\t\n\t\n\t\tEL JARDÍN DE LOS CUÉLLAR (PUERTA EL JARDÍN)\n\t\t1\n\t\t9\n\t\t3\n\t\t6\n\t\t1\n\t\n\t\n\t\tEL MEZQUITAL\n\t\t3\n\t\t32\n\t\t17\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL PALMAR (PUERTA DE LAS CHIVAS)\n\t\t1\n\t\t4\n\t\t0\n\t\t4\n\t\t1\n\t\n\t\n\t\tEL SAUCITO\n\t\t3\n\t\t25\n\t\t15\n\t\t10\n\t\t3\n\t\n\t\n\t\tEL TEPETATE\n\t\t4\n\t\t345\n\t\t165\n\t\t180\n\t\t18\n\t\n\t\n\t\tEL TROMPILLO\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t3\n\t\t41\n\t\t24\n\t\t17\n\t\t3\n\t\n\t\n\t\tLA MOCHA\n\t\t2\n\t\t24\n\t\t11\n\t\t13\n\t\t2\n\t\n\t\n\t\tLA PUERTA DEL REFUGIO\n\t\t2\n\t\t14\n\t\t9\n\t\t5\n\t\t2\n\t\n\t\n\t\tOJO DE AGUA DE JUAN PÉREZ\n\t\t1\n\t\t3\n\t\t2\n\t\t1\n\t\t1\n\t\n\t\n\t\tPROVIDENCIA\n\t\t2\n\t\t30\n\t\t13\n\t\t17\n\t\t2\n\t\n\t\n\t\tPUERTO ESPINO\n\t\t2\n\t\t19\n\t\t8\n\t\t11\n\t\t2\n\t\n\t\n\t\tSAN AGUSTÍN\n\t\t2\n\t\t57\n\t\t21\n\t\t36\n\t\t4\n\t\n\t\n\t\tSAN ANTONIO\n\t\t3\n\t\t210\n\t\t106\n\t\t104\n\t\t11\n\t\n\t\n\t\tSAN ELÍAS\n\t\t2\n\t\t27\n\t\t12\n\t\t15\n\t\t3\n\t\n\t\n\t\tSAN FRANCISCO\n\t\t4\n\t\t421\n\t\t236\n\t\t185\n\t\t25\n\t\n\t\n\t\tSAN JOSÉ DE LA PURÍSIMA\n\t\t3\n\t\t122\n\t\t66\n\t\t56\n\t\t7\n\t\n\t\n\t\tSAN LUIS GONZAGA\n\t\t3\n\t\t223\n\t\t113\n\t\t110\n\t\t11\n\t\n\t\n\t\tSAN MIGUELITO\n\t\t2\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTA ROSA DE GALLINAS\n\t\t3\n\t\t274\n\t\t139\n\t\t135\n\t\t13\n\t\n\t\n\t\tTANQUE DE SAN JUAN\n\t\t2\n\t\t5\n\t\t2\n\t\t3\n\t\t1\n\t\n\t\n\t\tVILLA DE ARRIAGA\n\t\t9\n\t\t1,821\n\t\t932\n\t\t889\n\t\t94\n\t\n\t\n\t\tTOTAL\n\t\t84\n\t\t4,535\n\t\t2,305\n\t\t2,230\n\t\t263\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA DE ARRIAGA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "COLONIA AQUILES CÓRDOVA MORÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "4",
+          "COLONIA EMILIANO ZAPATA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "10",
+          "COLONIA GUADALUPE VICTORIA (FÁTIMA)",
+          "3",
+          "60",
+          "31",
+          "29",
+          "4",
+          "COLONIA LA LABORCILLA",
+          "3",
+          "207",
+          "114",
+          "93",
+          "12",
+          "COLONIA LA LUZ",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5",
+          "COLONIA LOS MANUELES",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3",
+          "COLONIA PALOMAS",
+          "3",
+          "157",
+          "66",
+          "91",
+          "10",
+          "EL ÁGUILA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "4",
+          "EL JARDÍN",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2",
+          "EL JARDÍN DE LOS CUÉLLAR (PUERTA EL JARDÍN)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1",
+          "EL MEZQUITAL",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3",
+          "EL PALMAR (PUERTA DE LAS CHIVAS)",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1",
+          "EL SAUCITO",
+          "3",
+          "25",
+          "15",
+          "10",
+          "3",
+          "EL TEPETATE",
+          "4",
+          "345",
+          "165",
+          "180",
+          "18",
+          "EL TROMPILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "FRANCISCO I. MADERO",
+          "3",
+          "41",
+          "24",
+          "17",
+          "3",
+          "LA MOCHA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2",
+          "LA PUERTA DEL REFUGIO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2",
+          "OJO DE AGUA DE JUAN PÉREZ",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1",
+          "PROVIDENCIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2",
+          "PUERTO ESPINO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2",
+          "SAN AGUSTÍN",
+          "2",
+          "57",
+          "21",
+          "36",
+          "4",
+          "SAN ANTONIO",
+          "3",
+          "210",
+          "106",
+          "104",
+          "11",
+          "SAN ELÍAS",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3",
+          "SAN FRANCISCO",
+          "4",
+          "421",
+          "236",
+          "185",
+          "25",
+          "SAN JOSÉ DE LA PURÍSIMA",
+          "3",
+          "122",
+          "66",
+          "56",
+          "7",
+          "SAN LUIS GONZAGA",
+          "3",
+          "223",
+          "113",
+          "110",
+          "11",
+          "SAN MIGUELITO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SANTA ROSA DE GALLINAS",
+          "3",
+          "274",
+          "139",
+          "135",
+          "13",
+          "TANQUE DE SAN JUAN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1",
+          "VILLA DE ARRIAGA",
+          "9",
+          "1,821",
+          "932",
+          "889",
+          "94",
+          "TOTAL",
+          "84",
+          "4,535",
+          "2,305",
+          "2,230",
+          "263",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA DE ARRIAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA AQUILES CÓRDOVA MORÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "4"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "10"
+        ],
+        [
+          "COLONIA GUADALUPE VICTORIA (FÁTIMA)",
+          "3",
+          "60",
+          "31",
+          "29",
+          "4"
+        ],
+        [
+          "COLONIA LA LABORCILLA",
+          "3",
+          "207",
+          "114",
+          "93",
+          "12"
+        ],
+        [
+          "COLONIA LA LUZ",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5"
+        ],
+        [
+          "COLONIA LOS MANUELES",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "COLONIA PALOMAS",
+          "3",
+          "157",
+          "66",
+          "91",
+          "10"
+        ],
+        [
+          "EL ÁGUILA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "4"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "EL JARDÍN DE LOS CUÉLLAR (PUERTA EL JARDÍN)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL MEZQUITAL",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "EL PALMAR (PUERTA DE LAS CHIVAS)",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUCITO",
+          "3",
+          "25",
+          "15",
+          "10",
+          "3"
+        ],
+        [
+          "EL TEPETATE",
+          "4",
+          "345",
+          "165",
+          "180",
+          "18"
+        ],
+        [
+          "EL TROMPILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "LA MOCHA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LA PUERTA DEL REFUGIO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE JUAN PÉREZ",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "PROVIDENCIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "PUERTO ESPINO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "57",
+          "21",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "210",
+          "106",
+          "104",
+          "11"
+        ],
+        [
+          "SAN ELÍAS",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "421",
+          "236",
+          "185",
+          "25"
+        ],
+        [
+          "SAN JOSÉ DE LA PURÍSIMA",
+          "3",
+          "122",
+          "66",
+          "56",
+          "7"
+        ],
+        [
+          "SAN LUIS GONZAGA",
+          "3",
+          "223",
+          "113",
+          "110",
+          "11"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA DE GALLINAS",
+          "3",
+          "274",
+          "139",
+          "135",
+          "13"
+        ],
+        [
+          "TANQUE DE SAN JUAN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "VILLA DE ARRIAGA",
+          "9",
+          "1,821",
+          "932",
+          "889",
+          "94"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "4,535",
+          "2,305",
+          "2,230",
+          "263"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: SAN LUIS POTOSÍ;    MUNICIPIO: VILLA DE ARRIAGA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "COLONIA AQUILES CÓRDOVA MORÁN",
+          "2",
+          "18",
+          "11",
+          "7",
+          "4"
+        ],
+        [
+          "COLONIA EMILIANO ZAPATA",
+          "3",
+          "185",
+          "86",
+          "99",
+          "10"
+        ],
+        [
+          "COLONIA GUADALUPE VICTORIA (FÁTIMA)",
+          "3",
+          "60",
+          "31",
+          "29",
+          "4"
+        ],
+        [
+          "COLONIA LA LABORCILLA",
+          "3",
+          "207",
+          "114",
+          "93",
+          "12"
+        ],
+        [
+          "COLONIA LA LUZ",
+          "3",
+          "80",
+          "35",
+          "45",
+          "5"
+        ],
+        [
+          "COLONIA LOS MANUELES",
+          "3",
+          "31",
+          "14",
+          "17",
+          "3"
+        ],
+        [
+          "COLONIA PALOMAS",
+          "3",
+          "157",
+          "66",
+          "91",
+          "10"
+        ],
+        [
+          "EL ÁGUILA",
+          "3",
+          "48",
+          "31",
+          "17",
+          "4"
+        ],
+        [
+          "EL JARDÍN",
+          "2",
+          "30",
+          "19",
+          "11",
+          "2"
+        ],
+        [
+          "EL JARDÍN DE LOS CUÉLLAR (PUERTA EL JARDÍN)",
+          "1",
+          "9",
+          "3",
+          "6",
+          "1"
+        ],
+        [
+          "EL MEZQUITAL",
+          "3",
+          "32",
+          "17",
+          "15",
+          "3"
+        ],
+        [
+          "EL PALMAR (PUERTA DE LAS CHIVAS)",
+          "1",
+          "4",
+          "0",
+          "4",
+          "1"
+        ],
+        [
+          "EL SAUCITO",
+          "3",
+          "25",
+          "15",
+          "10",
+          "3"
+        ],
+        [
+          "EL TEPETATE",
+          "4",
+          "345",
+          "165",
+          "180",
+          "18"
+        ],
+        [
+          "EL TROMPILLO",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "41",
+          "24",
+          "17",
+          "3"
+        ],
+        [
+          "LA MOCHA",
+          "2",
+          "24",
+          "11",
+          "13",
+          "2"
+        ],
+        [
+          "LA PUERTA DEL REFUGIO",
+          "2",
+          "14",
+          "9",
+          "5",
+          "2"
+        ],
+        [
+          "OJO DE AGUA DE JUAN PÉREZ",
+          "1",
+          "3",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "PROVIDENCIA",
+          "2",
+          "30",
+          "13",
+          "17",
+          "2"
+        ],
+        [
+          "PUERTO ESPINO",
+          "2",
+          "19",
+          "8",
+          "11",
+          "2"
+        ],
+        [
+          "SAN AGUSTÍN",
+          "2",
+          "57",
+          "21",
+          "36",
+          "4"
+        ],
+        [
+          "SAN ANTONIO",
+          "3",
+          "210",
+          "106",
+          "104",
+          "11"
+        ],
+        [
+          "SAN ELÍAS",
+          "2",
+          "27",
+          "12",
+          "15",
+          "3"
+        ],
+        [
+          "SAN FRANCISCO",
+          "4",
+          "421",
+          "236",
+          "185",
+          "25"
+        ],
+        [
+          "SAN JOSÉ DE LA PURÍSIMA",
+          "3",
+          "122",
+          "66",
+          "56",
+          "7"
+        ],
+        [
+          "SAN LUIS GONZAGA",
+          "3",
+          "223",
+          "113",
+          "110",
+          "11"
+        ],
+        [
+          "SAN MIGUELITO",
+          "2",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTA ROSA DE GALLINAS",
+          "3",
+          "274",
+          "139",
+          "135",
+          "13"
+        ],
+        [
+          "TANQUE DE SAN JUAN",
+          "2",
+          "5",
+          "2",
+          "3",
+          "1"
+        ],
+        [
+          "VILLA DE ARRIAGA",
+          "9",
+          "1,821",
+          "932",
+          "889",
+          "94"
+        ],
+        [
+          "TOTAL",
+          "84",
+          "4,535",
+          "2,305",
+          "2,230",
+          "263"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:31:28.231Z"
+}

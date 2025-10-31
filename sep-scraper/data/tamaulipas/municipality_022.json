@@ -1,0 +1,1352 @@
+{
+  "municipality": "MATAMOROS",
+  "municipalityCode": "022",
+  "state": "TAMAULIPAS",
+  "stateCode": "28",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tABASOLO\n\tALDAMA\n\tALTAMIRA\n\tANTIGUO MORELOS\n\tBURGOS\n\tBUSTAMANTE\n\tCAMARGO\n\tCASAS\n\tCIUDAD MADERO\n\tCRUILLAS\n\tEL MANTE\n\tGÓMEZ FARÍAS\n\tGONZÁLEZ\n\tGÜÉMEZ\n\tGUERRERO\n\tGUSTAVO DÍAZ ORDAZ\n\tHIDALGO\n\tJAUMAVE\n\tJIMÉNEZ\n\tLLERA\n\tMAINERO\n\tMATAMOROS\n\tMÉNDEZ\n\tMIER\n\tMIGUEL ALEMÁN\n\tMIQUIHUANA\n\tNUEVO LAREDO\n\tNUEVO MORELOS\n\tOCAMPO\n\tPADILLA\n\tPALMILLAS\n\tREYNOSA\n\tRÍO BRAVO\n\tSAN CARLOS\n\tSAN FERNANDO\n\tSAN NICOLÁS\n\tSOTO LA MARINA\n\tTAMPICO\n\tTULA\n\tVALLE HERMOSO\n\tVICTORIA\n\tVILLAGRÁN\n\tXICOTÉNCATL"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: MATAMOROS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAMPLIACIÓN LA TIJERITA SECCIÓN 3 Y 4\n\t\t1\n\t\t11\n\t\t9\n\t\t2\n\t\t1\n\t\n\t\n\t\tCINCO DE MAYO\n\t\t1\n\t\t25\n\t\t12\n\t\t13\n\t\t2\n\t\n\t\n\t\tEL CAPOTE\n\t\t2\n\t\t51\n\t\t25\n\t\t26\n\t\t3\n\t\n\t\n\t\tEL CONTROL\n\t\t7\n\t\t545\n\t\t270\n\t\t275\n\t\t32\n\t\n\t\n\t\tEL EBANITO\n\t\t3\n\t\t234\n\t\t113\n\t\t121\n\t\t16\n\t\n\t\n\t\tEL GALANEÑO\n\t\t4\n\t\t802\n\t\t379\n\t\t423\n\t\t85\n\t\n\t\n\t\tEL HUIZACHAL\n\t\t2\n\t\t13\n\t\t5\n\t\t8\n\t\t2\n\t\n\t\n\t\tEL LONGOREÑO\n\t\t4\n\t\t596\n\t\t282\n\t\t314\n\t\t24\n\t\n\t\n\t\tEL MOQUETITO\n\t\t4\n\t\t206\n\t\t108\n\t\t98\n\t\t16\n\t\n\t\n\t\tEL RANCHITO Y REFUGIO (EL REFUGIO)\n\t\t4\n\t\t281\n\t\t143\n\t\t138\n\t\t14\n\t\n\t\n\t\tEL REALITO\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL SABINITO\n\t\t1\n\t\t7\n\t\t2\n\t\t5\n\t\t1\n\t\n\t\n\t\tEL SABINO\n\t\t1\n\t\t24\n\t\t9\n\t\t15\n\t\t3\n\t\n\t\n\t\tEL TAHUACHAL\n\t\t2\n\t\t41\n\t\t21\n\t\t20\n\t\t3\n\t\n\t\n\t\tESTACIÓN SANDOVAL\n\t\t3\n\t\t234\n\t\t133\n\t\t101\n\t\t20\n\t\n\t\n\t\tFRANCISCO I. MADERO\n\t\t3\n\t\t115\n\t\t58\n\t\t57\n\t\t7\n\t\n\t\n\t\tGUADALUPE\n\t\t2\n\t\t109\n\t\t51\n\t\t58\n\t\t7\n\t\n\t\n\t\tHEROICA MATAMOROS\n\t\t511\n\t\t126,990\n\t\t64,167\n\t\t62,823\n\t\t7,725\n\t\n\t\n\t\tISLA LA MANO DE LEÓN\n\t\t3\n\t\t30\n\t\t14\n\t\t16\n\t\t4\n\t\n\t\n\t\tJUANILLO\n\t\t3\n\t\t231\n\t\t109\n\t\t122\n\t\t42\n\t\n\t\n\t\tLA BARRANCA\n\t\t1\n\t\t20\n\t\t6\n\t\t14\n\t\t2\n\t\n\t\n\t\tLA BARTOLINA\n\t\t3\n\t\t79\n\t\t31\n\t\t48\n\t\t6\n\t\n\t\n\t\tLA BRIGADA\n\t\t1\n\t\t15\n\t\t7\n\t\t8\n\t\t1\n\t\n\t\n\t\tLA CAPILLA\n\t\t3\n\t\t144\n\t\t69\n\t\t75\n\t\t7\n\t\n\t\n\t\tLA GLORIA\n\t\t2\n\t\t64\n\t\t27\n\t\t37\n\t\t7\n\t\n\t\n\t\tLA JARITA SUR\n\t\t3\n\t\t101\n\t\t51\n\t\t50\n\t\t7\n\t\n\t\n\t\tLA SIERRITA\n\t\t3\n\t\t56\n\t\t22\n\t\t34\n\t\t6\n\t\n\t\n\t\tLA SOLEDAD (ASUNCIÓN ÁLVAREZ)\n\t\t1\n\t\t23\n\t\t11\n\t\t12\n\t\t3\n\t\n\t\n\t\tLA TIJERITA\n\t\t3\n\t\t59\n\t\t25\n\t\t34\n\t\t7\n\t\n\t\n\t\tLA VANGUARDIA\n\t\t2\n\t\t51\n\t\t29\n\t\t22\n\t\t4\n\t\n\t\n\t\tLA VENADA\n\t\t3\n\t\t517\n\t\t235\n\t\t282\n\t\t31\n\t\n\t\n\t\tLAGUNA HONDA\n\t\t3\n\t\t47\n\t\t28\n\t\t19\n\t\t5\n\t\n\t\n\t\tLAS BAYITAS\n\t\t1\n\t\t8\n\t\t1\n\t\t7\n\t\t1\n\t\n\t\n\t\tLAS HIGUERILLAS\n\t\t4\n\t\t703\n\t\t331\n\t\t372\n\t\t28\n\t\n\t\n\t\tLAS RUSIAS (CRISTÓBAL LOZANO)\n\t\t3\n\t\t49\n\t\t25\n\t\t24\n\t\t9\n\t\n\t\n\t\tLOS NOGALES\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tLOS TIMONES\n\t\t2\n\t\t57\n\t\t30\n\t\t27\n\t\t4\n\t\n\t\n\t\tMAR THOMA\n\t\t2\n\t\t14\n\t\t12\n\t\t2\n\t\t2\n\t\n\t\n\t\tMOGOTE DE SANTIAGO\n\t\t1\n\t\t12\n\t\t7\n\t\t5\n\t\t1\n\t\n\t\n\t\tPACHECO\n\t\t2\n\t\t47\n\t\t26\n\t\t21\n\t\t4\n\t\n\t\n\t\tPRESIDENTE CÁRDENAS (VILLA CÁRDENAS)\n\t\t3\n\t\t453\n\t\t242\n\t\t211\n\t\t53\n\t\n\t\n\t\tPRIMER CAMPO PESQUERO\n\t\t3\n\t\t76\n\t\t34\n\t\t42\n\t\t5\n\t\n\t\n\t\tPRISCILIANO DELGADO\n\t\t2\n\t\t18\n\t\t8\n\t\t10\n\t\t2\n\t\n\t\n\t\tPROGRESO AGRARIO (SANTA LIBRADA)\n\t\t2\n\t\t79\n\t\t34\n\t\t45\n\t\t4\n\t\n\t\n\t\tRAMÍREZ\n\t\t3\n\t\t471\n\t\t235\n\t\t236\n\t\t29\n\t\n\t\n\t\tRANCHO VIEJO\n\t\t1\n\t\t30\n\t\t15\n\t\t15\n\t\t2\n\t\n\t\n\t\tREVOLUCIÓN\n\t\t3\n\t\t73\n\t\t32\n\t\t41\n\t\t5\n\t\n\t\n\t\tRÍO RICO\n\t\t2\n\t\t24\n\t\t12\n\t\t12\n\t\t2\n\t\n\t\n\t\tSAN ANDRÉS\n\t\t1\n\t\t25\n\t\t16\n\t\t9\n\t\t1\n\t\n\t\n\t\tSAN LORENZO\n\t\t2\n\t\t28\n\t\t14\n\t\t14\n\t\t2\n\t\n\t\n\t\tSAN LUISITO\n\t\t1\n\t\t59\n\t\t28\n\t\t31\n\t\t4\n\t\n\t\n\t\tSANTA ADELAIDA\n\t\t4\n\t\t364\n\t\t157\n\t\t207\n\t\t17\n\t\n\t\n\t\tSOLISEÑO\n\t\t3\n\t\t85\n\t\t36\n\t\t49\n\t\t6\n\t\n\t\n\t\tVENUSTIANO CARRANZA\n\t\t1\n\t\t13\n\t\t8\n\t\t5\n\t\t1\n\t\n\t\n\t\tVILLANUEVA\n\t\t2\n\t\t60\n\t\t25\n\t\t35\n\t\t4\n\t\n\t\n\t\tVILLAVERDE\n\t\t2\n\t\t16\n\t\t6\n\t\t10\n\t\t2\n\t\n\t\n\t\tVISTA HERMOSA\n\t\t2\n\t\t66\n\t\t34\n\t\t32\n\t\t4\n\t\n\t\n\t\tTOTAL\n\t\t643\n\t\t134,565\n\t\t67,825\n\t\t66,740\n\t\t8,287\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: MATAMOROS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AMPLIACIÓN LA TIJERITA SECCIÓN 3 Y 4",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1",
+          "CINCO DE MAYO",
+          "1",
+          "25",
+          "12",
+          "13",
+          "2",
+          "EL CAPOTE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3",
+          "EL CONTROL",
+          "7",
+          "545",
+          "270",
+          "275",
+          "32",
+          "EL EBANITO",
+          "3",
+          "234",
+          "113",
+          "121",
+          "16",
+          "EL GALANEÑO",
+          "4",
+          "802",
+          "379",
+          "423",
+          "85",
+          "EL HUIZACHAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2",
+          "EL LONGOREÑO",
+          "4",
+          "596",
+          "282",
+          "314",
+          "24",
+          "EL MOQUETITO",
+          "4",
+          "206",
+          "108",
+          "98",
+          "16",
+          "EL RANCHITO Y REFUGIO (EL REFUGIO)",
+          "4",
+          "281",
+          "143",
+          "138",
+          "14",
+          "EL REALITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "EL SABINITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1",
+          "EL SABINO",
+          "1",
+          "24",
+          "9",
+          "15",
+          "3",
+          "EL TAHUACHAL",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3",
+          "ESTACIÓN SANDOVAL",
+          "3",
+          "234",
+          "133",
+          "101",
+          "20",
+          "FRANCISCO I. MADERO",
+          "3",
+          "115",
+          "58",
+          "57",
+          "7",
+          "GUADALUPE",
+          "2",
+          "109",
+          "51",
+          "58",
+          "7",
+          "HEROICA MATAMOROS",
+          "511",
+          "126,990",
+          "64,167",
+          "62,823",
+          "7,725",
+          "ISLA LA MANO DE LEÓN",
+          "3",
+          "30",
+          "14",
+          "16",
+          "4",
+          "JUANILLO",
+          "3",
+          "231",
+          "109",
+          "122",
+          "42",
+          "LA BARRANCA",
+          "1",
+          "20",
+          "6",
+          "14",
+          "2",
+          "LA BARTOLINA",
+          "3",
+          "79",
+          "31",
+          "48",
+          "6",
+          "LA BRIGADA",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1",
+          "LA CAPILLA",
+          "3",
+          "144",
+          "69",
+          "75",
+          "7",
+          "LA GLORIA",
+          "2",
+          "64",
+          "27",
+          "37",
+          "7",
+          "LA JARITA SUR",
+          "3",
+          "101",
+          "51",
+          "50",
+          "7",
+          "LA SIERRITA",
+          "3",
+          "56",
+          "22",
+          "34",
+          "6",
+          "LA SOLEDAD (ASUNCIÓN ÁLVAREZ)",
+          "1",
+          "23",
+          "11",
+          "12",
+          "3",
+          "LA TIJERITA",
+          "3",
+          "59",
+          "25",
+          "34",
+          "7",
+          "LA VANGUARDIA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "4",
+          "LA VENADA",
+          "3",
+          "517",
+          "235",
+          "282",
+          "31",
+          "LAGUNA HONDA",
+          "3",
+          "47",
+          "28",
+          "19",
+          "5",
+          "LAS BAYITAS",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1",
+          "LAS HIGUERILLAS",
+          "4",
+          "703",
+          "331",
+          "372",
+          "28",
+          "LAS RUSIAS (CRISTÓBAL LOZANO)",
+          "3",
+          "49",
+          "25",
+          "24",
+          "9",
+          "LOS NOGALES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "LOS TIMONES",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4",
+          "MAR THOMA",
+          "2",
+          "14",
+          "12",
+          "2",
+          "2",
+          "MOGOTE DE SANTIAGO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1",
+          "PACHECO",
+          "2",
+          "47",
+          "26",
+          "21",
+          "4",
+          "PRESIDENTE CÁRDENAS (VILLA CÁRDENAS)",
+          "3",
+          "453",
+          "242",
+          "211",
+          "53",
+          "PRIMER CAMPO PESQUERO",
+          "3",
+          "76",
+          "34",
+          "42",
+          "5",
+          "PRISCILIANO DELGADO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2",
+          "PROGRESO AGRARIO (SANTA LIBRADA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4",
+          "RAMÍREZ",
+          "3",
+          "471",
+          "235",
+          "236",
+          "29",
+          "RANCHO VIEJO",
+          "1",
+          "30",
+          "15",
+          "15",
+          "2",
+          "REVOLUCIÓN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "5",
+          "RÍO RICO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2",
+          "SAN ANDRÉS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "1",
+          "SAN LORENZO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2",
+          "SAN LUISITO",
+          "1",
+          "59",
+          "28",
+          "31",
+          "4",
+          "SANTA ADELAIDA",
+          "4",
+          "364",
+          "157",
+          "207",
+          "17",
+          "SOLISEÑO",
+          "3",
+          "85",
+          "36",
+          "49",
+          "6",
+          "VENUSTIANO CARRANZA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1",
+          "VILLANUEVA",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4",
+          "VILLAVERDE",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2",
+          "VISTA HERMOSA",
+          "2",
+          "66",
+          "34",
+          "32",
+          "4",
+          "TOTAL",
+          "643",
+          "134,565",
+          "67,825",
+          "66,740",
+          "8,287",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN LA TIJERITA SECCIÓN 3 Y 4",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "CINCO DE MAYO",
+          "1",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "EL CAPOTE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "EL CONTROL",
+          "7",
+          "545",
+          "270",
+          "275",
+          "32"
+        ],
+        [
+          "EL EBANITO",
+          "3",
+          "234",
+          "113",
+          "121",
+          "16"
+        ],
+        [
+          "EL GALANEÑO",
+          "4",
+          "802",
+          "379",
+          "423",
+          "85"
+        ],
+        [
+          "EL HUIZACHAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL LONGOREÑO",
+          "4",
+          "596",
+          "282",
+          "314",
+          "24"
+        ],
+        [
+          "EL MOQUETITO",
+          "4",
+          "206",
+          "108",
+          "98",
+          "16"
+        ],
+        [
+          "EL RANCHITO Y REFUGIO (EL REFUGIO)",
+          "4",
+          "281",
+          "143",
+          "138",
+          "14"
+        ],
+        [
+          "EL REALITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL SABINITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "EL TAHUACHAL",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "ESTACIÓN SANDOVAL",
+          "3",
+          "234",
+          "133",
+          "101",
+          "20"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "115",
+          "58",
+          "57",
+          "7"
+        ],
+        [
+          "GUADALUPE",
+          "2",
+          "109",
+          "51",
+          "58",
+          "7"
+        ],
+        [
+          "HEROICA MATAMOROS",
+          "511",
+          "126,990",
+          "64,167",
+          "62,823",
+          "7,725"
+        ],
+        [
+          "ISLA LA MANO DE LEÓN",
+          "3",
+          "30",
+          "14",
+          "16",
+          "4"
+        ],
+        [
+          "JUANILLO",
+          "3",
+          "231",
+          "109",
+          "122",
+          "42"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "LA BARTOLINA",
+          "3",
+          "79",
+          "31",
+          "48",
+          "6"
+        ],
+        [
+          "LA BRIGADA",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LA CAPILLA",
+          "3",
+          "144",
+          "69",
+          "75",
+          "7"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "64",
+          "27",
+          "37",
+          "7"
+        ],
+        [
+          "LA JARITA SUR",
+          "3",
+          "101",
+          "51",
+          "50",
+          "7"
+        ],
+        [
+          "LA SIERRITA",
+          "3",
+          "56",
+          "22",
+          "34",
+          "6"
+        ],
+        [
+          "LA SOLEDAD (ASUNCIÓN ÁLVAREZ)",
+          "1",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "LA TIJERITA",
+          "3",
+          "59",
+          "25",
+          "34",
+          "7"
+        ],
+        [
+          "LA VANGUARDIA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "4"
+        ],
+        [
+          "LA VENADA",
+          "3",
+          "517",
+          "235",
+          "282",
+          "31"
+        ],
+        [
+          "LAGUNA HONDA",
+          "3",
+          "47",
+          "28",
+          "19",
+          "5"
+        ],
+        [
+          "LAS BAYITAS",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "LAS HIGUERILLAS",
+          "4",
+          "703",
+          "331",
+          "372",
+          "28"
+        ],
+        [
+          "LAS RUSIAS (CRISTÓBAL LOZANO)",
+          "3",
+          "49",
+          "25",
+          "24",
+          "9"
+        ],
+        [
+          "LOS NOGALES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LOS TIMONES",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "MAR THOMA",
+          "2",
+          "14",
+          "12",
+          "2",
+          "2"
+        ],
+        [
+          "MOGOTE DE SANTIAGO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "PACHECO",
+          "2",
+          "47",
+          "26",
+          "21",
+          "4"
+        ],
+        [
+          "PRESIDENTE CÁRDENAS (VILLA CÁRDENAS)",
+          "3",
+          "453",
+          "242",
+          "211",
+          "53"
+        ],
+        [
+          "PRIMER CAMPO PESQUERO",
+          "3",
+          "76",
+          "34",
+          "42",
+          "5"
+        ],
+        [
+          "PRISCILIANO DELGADO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "PROGRESO AGRARIO (SANTA LIBRADA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4"
+        ],
+        [
+          "RAMÍREZ",
+          "3",
+          "471",
+          "235",
+          "236",
+          "29"
+        ],
+        [
+          "RANCHO VIEJO",
+          "1",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "5"
+        ],
+        [
+          "RÍO RICO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ANDRÉS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "1"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN LUISITO",
+          "1",
+          "59",
+          "28",
+          "31",
+          "4"
+        ],
+        [
+          "SANTA ADELAIDA",
+          "4",
+          "364",
+          "157",
+          "207",
+          "17"
+        ],
+        [
+          "SOLISEÑO",
+          "3",
+          "85",
+          "36",
+          "49",
+          "6"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "VILLANUEVA",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4"
+        ],
+        [
+          "VILLAVERDE",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "643",
+          "134,565",
+          "67,825",
+          "66,740",
+          "8,287"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: TAMAULIPAS;    MUNICIPIO: MATAMOROS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AMPLIACIÓN LA TIJERITA SECCIÓN 3 Y 4",
+          "1",
+          "11",
+          "9",
+          "2",
+          "1"
+        ],
+        [
+          "CINCO DE MAYO",
+          "1",
+          "25",
+          "12",
+          "13",
+          "2"
+        ],
+        [
+          "EL CAPOTE",
+          "2",
+          "51",
+          "25",
+          "26",
+          "3"
+        ],
+        [
+          "EL CONTROL",
+          "7",
+          "545",
+          "270",
+          "275",
+          "32"
+        ],
+        [
+          "EL EBANITO",
+          "3",
+          "234",
+          "113",
+          "121",
+          "16"
+        ],
+        [
+          "EL GALANEÑO",
+          "4",
+          "802",
+          "379",
+          "423",
+          "85"
+        ],
+        [
+          "EL HUIZACHAL",
+          "2",
+          "13",
+          "5",
+          "8",
+          "2"
+        ],
+        [
+          "EL LONGOREÑO",
+          "4",
+          "596",
+          "282",
+          "314",
+          "24"
+        ],
+        [
+          "EL MOQUETITO",
+          "4",
+          "206",
+          "108",
+          "98",
+          "16"
+        ],
+        [
+          "EL RANCHITO Y REFUGIO (EL REFUGIO)",
+          "4",
+          "281",
+          "143",
+          "138",
+          "14"
+        ],
+        [
+          "EL REALITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL SABINITO",
+          "1",
+          "7",
+          "2",
+          "5",
+          "1"
+        ],
+        [
+          "EL SABINO",
+          "1",
+          "24",
+          "9",
+          "15",
+          "3"
+        ],
+        [
+          "EL TAHUACHAL",
+          "2",
+          "41",
+          "21",
+          "20",
+          "3"
+        ],
+        [
+          "ESTACIÓN SANDOVAL",
+          "3",
+          "234",
+          "133",
+          "101",
+          "20"
+        ],
+        [
+          "FRANCISCO I. MADERO",
+          "3",
+          "115",
+          "58",
+          "57",
+          "7"
+        ],
+        [
+          "GUADALUPE",
+          "2",
+          "109",
+          "51",
+          "58",
+          "7"
+        ],
+        [
+          "HEROICA MATAMOROS",
+          "511",
+          "126,990",
+          "64,167",
+          "62,823",
+          "7,725"
+        ],
+        [
+          "ISLA LA MANO DE LEÓN",
+          "3",
+          "30",
+          "14",
+          "16",
+          "4"
+        ],
+        [
+          "JUANILLO",
+          "3",
+          "231",
+          "109",
+          "122",
+          "42"
+        ],
+        [
+          "LA BARRANCA",
+          "1",
+          "20",
+          "6",
+          "14",
+          "2"
+        ],
+        [
+          "LA BARTOLINA",
+          "3",
+          "79",
+          "31",
+          "48",
+          "6"
+        ],
+        [
+          "LA BRIGADA",
+          "1",
+          "15",
+          "7",
+          "8",
+          "1"
+        ],
+        [
+          "LA CAPILLA",
+          "3",
+          "144",
+          "69",
+          "75",
+          "7"
+        ],
+        [
+          "LA GLORIA",
+          "2",
+          "64",
+          "27",
+          "37",
+          "7"
+        ],
+        [
+          "LA JARITA SUR",
+          "3",
+          "101",
+          "51",
+          "50",
+          "7"
+        ],
+        [
+          "LA SIERRITA",
+          "3",
+          "56",
+          "22",
+          "34",
+          "6"
+        ],
+        [
+          "LA SOLEDAD (ASUNCIÓN ÁLVAREZ)",
+          "1",
+          "23",
+          "11",
+          "12",
+          "3"
+        ],
+        [
+          "LA TIJERITA",
+          "3",
+          "59",
+          "25",
+          "34",
+          "7"
+        ],
+        [
+          "LA VANGUARDIA",
+          "2",
+          "51",
+          "29",
+          "22",
+          "4"
+        ],
+        [
+          "LA VENADA",
+          "3",
+          "517",
+          "235",
+          "282",
+          "31"
+        ],
+        [
+          "LAGUNA HONDA",
+          "3",
+          "47",
+          "28",
+          "19",
+          "5"
+        ],
+        [
+          "LAS BAYITAS",
+          "1",
+          "8",
+          "1",
+          "7",
+          "1"
+        ],
+        [
+          "LAS HIGUERILLAS",
+          "4",
+          "703",
+          "331",
+          "372",
+          "28"
+        ],
+        [
+          "LAS RUSIAS (CRISTÓBAL LOZANO)",
+          "3",
+          "49",
+          "25",
+          "24",
+          "9"
+        ],
+        [
+          "LOS NOGALES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "LOS TIMONES",
+          "2",
+          "57",
+          "30",
+          "27",
+          "4"
+        ],
+        [
+          "MAR THOMA",
+          "2",
+          "14",
+          "12",
+          "2",
+          "2"
+        ],
+        [
+          "MOGOTE DE SANTIAGO",
+          "1",
+          "12",
+          "7",
+          "5",
+          "1"
+        ],
+        [
+          "PACHECO",
+          "2",
+          "47",
+          "26",
+          "21",
+          "4"
+        ],
+        [
+          "PRESIDENTE CÁRDENAS (VILLA CÁRDENAS)",
+          "3",
+          "453",
+          "242",
+          "211",
+          "53"
+        ],
+        [
+          "PRIMER CAMPO PESQUERO",
+          "3",
+          "76",
+          "34",
+          "42",
+          "5"
+        ],
+        [
+          "PRISCILIANO DELGADO",
+          "2",
+          "18",
+          "8",
+          "10",
+          "2"
+        ],
+        [
+          "PROGRESO AGRARIO (SANTA LIBRADA)",
+          "2",
+          "79",
+          "34",
+          "45",
+          "4"
+        ],
+        [
+          "RAMÍREZ",
+          "3",
+          "471",
+          "235",
+          "236",
+          "29"
+        ],
+        [
+          "RANCHO VIEJO",
+          "1",
+          "30",
+          "15",
+          "15",
+          "2"
+        ],
+        [
+          "REVOLUCIÓN",
+          "3",
+          "73",
+          "32",
+          "41",
+          "5"
+        ],
+        [
+          "RÍO RICO",
+          "2",
+          "24",
+          "12",
+          "12",
+          "2"
+        ],
+        [
+          "SAN ANDRÉS",
+          "1",
+          "25",
+          "16",
+          "9",
+          "1"
+        ],
+        [
+          "SAN LORENZO",
+          "2",
+          "28",
+          "14",
+          "14",
+          "2"
+        ],
+        [
+          "SAN LUISITO",
+          "1",
+          "59",
+          "28",
+          "31",
+          "4"
+        ],
+        [
+          "SANTA ADELAIDA",
+          "4",
+          "364",
+          "157",
+          "207",
+          "17"
+        ],
+        [
+          "SOLISEÑO",
+          "3",
+          "85",
+          "36",
+          "49",
+          "6"
+        ],
+        [
+          "VENUSTIANO CARRANZA",
+          "1",
+          "13",
+          "8",
+          "5",
+          "1"
+        ],
+        [
+          "VILLANUEVA",
+          "2",
+          "60",
+          "25",
+          "35",
+          "4"
+        ],
+        [
+          "VILLAVERDE",
+          "2",
+          "16",
+          "6",
+          "10",
+          "2"
+        ],
+        [
+          "VISTA HERMOSA",
+          "2",
+          "66",
+          "34",
+          "32",
+          "4"
+        ],
+        [
+          "TOTAL",
+          "643",
+          "134,565",
+          "67,825",
+          "66,740",
+          "8,287"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:40:02.875Z"
+}

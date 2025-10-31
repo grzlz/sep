@@ -1,0 +1,582 @@
+{
+  "municipality": "NAZAS",
+  "municipalityCode": "015",
+  "state": "DURANGO",
+  "stateCode": "10",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tCANATLÁN\n\tCANELAS\n\tCONETO DE COMONFORT\n\tCUENCAMÉ\n\tDURANGO\n\tEL ORO\n\tGENERAL SIMÓN BOLÍVAR\n\tGÓMEZ PALACIO\n\tGUADALUPE VICTORIA\n\tGUANACEVÍ\n\tHIDALGO\n\tINDÉ\n\tLERDO\n\tMAPIMÍ\n\tMEZQUITAL\n\tNAZAS\n\tNOMBRE DE DIOS\n\tNUEVO IDEAL\n\tOCAMPO\n\tOTÁEZ\n\tPÁNUCO DE CORONADO\n\tPEÑÓN BLANCO\n\tPOANAS\n\tPUEBLO NUEVO\n\tRODEO\n\tSAN BERNARDO\n\tSAN DIMAS\n\tSAN JUAN DE GUADALUPE\n\tSAN JUAN DEL RÍO\n\tSAN LUIS DEL CORDERO\n\tSAN PEDRO DEL GALLO\n\tSANTA CLARA\n\tSANTIAGO PAPASQUIARO\n\tSÚCHIL\n\tTAMAZULA\n\tTEPEHUANES\n\tTLAHUALILO\n\tTOPIA\n\tVICENTE GUERRERO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NAZAS\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tAGUSTÍN MELGAR\n\t\t2\n\t\t49\n\t\t25\n\t\t24\n\t\t3\n\t\n\t\n\t\tBENITO JUÁREZ\n\t\t3\n\t\t76\n\t\t39\n\t\t37\n\t\t5\n\t\n\t\n\t\tCOLONIA LAS ADJUNTAS\n\t\t3\n\t\t37\n\t\t15\n\t\t22\n\t\t4\n\t\n\t\n\t\tCRISTÓBAL COLÓN\n\t\t2\n\t\t6\n\t\t5\n\t\t1\n\t\t2\n\t\n\t\n\t\tDIEZ DE ABRIL\n\t\t3\n\t\t61\n\t\t34\n\t\t27\n\t\t4\n\t\n\t\n\t\tDOLORES HIDALGO\n\t\t3\n\t\t40\n\t\t19\n\t\t21\n\t\t3\n\t\n\t\n\t\tEMILIO CARRANZA\n\t\t4\n\t\t271\n\t\t130\n\t\t141\n\t\t14\n\t\n\t\n\t\tEUFEMIO ZAPATA\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tGENERAL LÁZARO CÁRDENAS (PUEBLO NUEVO)\n\t\t4\n\t\t628\n\t\t373\n\t\t255\n\t\t75\n\t\n\t\n\t\tJOSÉ GUADALUPE RODRÍGUEZ\n\t\t3\n\t\t34\n\t\t16\n\t\t18\n\t\t4\n\t\n\t\n\t\tLA CABRA\n\t\t2\n\t\t8\n\t\t5\n\t\t3\n\t\t1\n\t\n\t\n\t\tLA JARITA (SANTA CLARA)\n\t\t3\n\t\t6\n\t\t3\n\t\t3\n\t\t2\n\t\n\t\n\t\tLA PERLA\n\t\t3\n\t\t128\n\t\t52\n\t\t76\n\t\t7\n\t\n\t\n\t\tMEZQUITALILLO (SALITRERAS)\n\t\t2\n\t\t71\n\t\t33\n\t\t38\n\t\t14\n\t\n\t\n\t\tMORTEROS\n\t\t2\n\t\t7\n\t\t1\n\t\t6\n\t\t2\n\t\n\t\n\t\tNAZAS\n\t\t9\n\t\t1,219\n\t\t624\n\t\t595\n\t\t62\n\t\n\t\n\t\tPASO NACIONAL\n\t\t3\n\t\t440\n\t\t208\n\t\t232\n\t\t28\n\t\n\t\n\t\tRANCHO GRANDE\n\t\t2\n\t\t10\n\t\t5\n\t\t5\n\t\t2\n\t\n\t\n\t\tSAN JOSÉ DEL PAJARITO (PAJARITO)\n\t\t3\n\t\t57\n\t\t32\n\t\t25\n\t\t3\n\t\n\t\n\t\tSANTA BÁRBARA\n\t\t3\n\t\t47\n\t\t19\n\t\t28\n\t\t4\n\t\n\t\n\t\tSANTA TERESA DE LA UÑA\n\t\t2\n\t\t87\n\t\t36\n\t\t51\n\t\t4\n\t\n\t\n\t\tVEINTICINCO DE DICIEMBRE\n\t\t2\n\t\t24\n\t\t13\n\t\t11\n\t\t2\n\t\n\t\n\t\tTOTAL\n\t\t64\n\t\t3,312\n\t\t1,691\n\t\t1,621\n\t\t246\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NAZAS",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "AGUSTÍN MELGAR",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3",
+          "BENITO JUÁREZ",
+          "3",
+          "76",
+          "39",
+          "37",
+          "5",
+          "COLONIA LAS ADJUNTAS",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4",
+          "CRISTÓBAL COLÓN",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2",
+          "DIEZ DE ABRIL",
+          "3",
+          "61",
+          "34",
+          "27",
+          "4",
+          "DOLORES HIDALGO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "3",
+          "EMILIO CARRANZA",
+          "4",
+          "271",
+          "130",
+          "141",
+          "14",
+          "EUFEMIO ZAPATA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "GENERAL LÁZARO CÁRDENAS (PUEBLO NUEVO)",
+          "4",
+          "628",
+          "373",
+          "255",
+          "75",
+          "JOSÉ GUADALUPE RODRÍGUEZ",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4",
+          "LA CABRA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1",
+          "LA JARITA (SANTA CLARA)",
+          "3",
+          "6",
+          "3",
+          "3",
+          "2",
+          "LA PERLA",
+          "3",
+          "128",
+          "52",
+          "76",
+          "7",
+          "MEZQUITALILLO (SALITRERAS)",
+          "2",
+          "71",
+          "33",
+          "38",
+          "14",
+          "MORTEROS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2",
+          "NAZAS",
+          "9",
+          "1,219",
+          "624",
+          "595",
+          "62",
+          "PASO NACIONAL",
+          "3",
+          "440",
+          "208",
+          "232",
+          "28",
+          "RANCHO GRANDE",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2",
+          "SAN JOSÉ DEL PAJARITO (PAJARITO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "3",
+          "SANTA BÁRBARA",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4",
+          "SANTA TERESA DE LA UÑA",
+          "2",
+          "87",
+          "36",
+          "51",
+          "4",
+          "VEINTICINCO DE DICIEMBRE",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2",
+          "TOTAL",
+          "64",
+          "3,312",
+          "1,691",
+          "1,621",
+          "246",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NAZAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUSTÍN MELGAR",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "76",
+          "39",
+          "37",
+          "5"
+        ],
+        [
+          "COLONIA LAS ADJUNTAS",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "DIEZ DE ABRIL",
+          "3",
+          "61",
+          "34",
+          "27",
+          "4"
+        ],
+        [
+          "DOLORES HIDALGO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "3"
+        ],
+        [
+          "EMILIO CARRANZA",
+          "4",
+          "271",
+          "130",
+          "141",
+          "14"
+        ],
+        [
+          "EUFEMIO ZAPATA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS (PUEBLO NUEVO)",
+          "4",
+          "628",
+          "373",
+          "255",
+          "75"
+        ],
+        [
+          "JOSÉ GUADALUPE RODRÍGUEZ",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "LA CABRA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LA JARITA (SANTA CLARA)",
+          "3",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LA PERLA",
+          "3",
+          "128",
+          "52",
+          "76",
+          "7"
+        ],
+        [
+          "MEZQUITALILLO (SALITRERAS)",
+          "2",
+          "71",
+          "33",
+          "38",
+          "14"
+        ],
+        [
+          "MORTEROS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2"
+        ],
+        [
+          "NAZAS",
+          "9",
+          "1,219",
+          "624",
+          "595",
+          "62"
+        ],
+        [
+          "PASO NACIONAL",
+          "3",
+          "440",
+          "208",
+          "232",
+          "28"
+        ],
+        [
+          "RANCHO GRANDE",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL PAJARITO (PAJARITO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "3"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "SANTA TERESA DE LA UÑA",
+          "2",
+          "87",
+          "36",
+          "51",
+          "4"
+        ],
+        [
+          "VEINTICINCO DE DICIEMBRE",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,312",
+          "1,691",
+          "1,621",
+          "246"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: DURANGO;    MUNICIPIO: NAZAS"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "AGUSTÍN MELGAR",
+          "2",
+          "49",
+          "25",
+          "24",
+          "3"
+        ],
+        [
+          "BENITO JUÁREZ",
+          "3",
+          "76",
+          "39",
+          "37",
+          "5"
+        ],
+        [
+          "COLONIA LAS ADJUNTAS",
+          "3",
+          "37",
+          "15",
+          "22",
+          "4"
+        ],
+        [
+          "CRISTÓBAL COLÓN",
+          "2",
+          "6",
+          "5",
+          "1",
+          "2"
+        ],
+        [
+          "DIEZ DE ABRIL",
+          "3",
+          "61",
+          "34",
+          "27",
+          "4"
+        ],
+        [
+          "DOLORES HIDALGO",
+          "3",
+          "40",
+          "19",
+          "21",
+          "3"
+        ],
+        [
+          "EMILIO CARRANZA",
+          "4",
+          "271",
+          "130",
+          "141",
+          "14"
+        ],
+        [
+          "EUFEMIO ZAPATA",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "GENERAL LÁZARO CÁRDENAS (PUEBLO NUEVO)",
+          "4",
+          "628",
+          "373",
+          "255",
+          "75"
+        ],
+        [
+          "JOSÉ GUADALUPE RODRÍGUEZ",
+          "3",
+          "34",
+          "16",
+          "18",
+          "4"
+        ],
+        [
+          "LA CABRA",
+          "2",
+          "8",
+          "5",
+          "3",
+          "1"
+        ],
+        [
+          "LA JARITA (SANTA CLARA)",
+          "3",
+          "6",
+          "3",
+          "3",
+          "2"
+        ],
+        [
+          "LA PERLA",
+          "3",
+          "128",
+          "52",
+          "76",
+          "7"
+        ],
+        [
+          "MEZQUITALILLO (SALITRERAS)",
+          "2",
+          "71",
+          "33",
+          "38",
+          "14"
+        ],
+        [
+          "MORTEROS",
+          "2",
+          "7",
+          "1",
+          "6",
+          "2"
+        ],
+        [
+          "NAZAS",
+          "9",
+          "1,219",
+          "624",
+          "595",
+          "62"
+        ],
+        [
+          "PASO NACIONAL",
+          "3",
+          "440",
+          "208",
+          "232",
+          "28"
+        ],
+        [
+          "RANCHO GRANDE",
+          "2",
+          "10",
+          "5",
+          "5",
+          "2"
+        ],
+        [
+          "SAN JOSÉ DEL PAJARITO (PAJARITO)",
+          "3",
+          "57",
+          "32",
+          "25",
+          "3"
+        ],
+        [
+          "SANTA BÁRBARA",
+          "3",
+          "47",
+          "19",
+          "28",
+          "4"
+        ],
+        [
+          "SANTA TERESA DE LA UÑA",
+          "2",
+          "87",
+          "36",
+          "51",
+          "4"
+        ],
+        [
+          "VEINTICINCO DE DICIEMBRE",
+          "2",
+          "24",
+          "13",
+          "11",
+          "2"
+        ],
+        [
+          "TOTAL",
+          "64",
+          "3,312",
+          "1,691",
+          "1,621",
+          "246"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:07:45.434Z"
+}

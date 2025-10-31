@@ -1,0 +1,538 @@
+{
+  "municipality": "CHIHUAHUA",
+  "municipalityCode": "019",
+  "state": "CHIHUAHUA",
+  "stateCode": "8",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tAHUMADA\n\tALDAMA\n\tALLENDE\n\tAQUILES SERDÁN\n\tASCENSIÓN\n\tBACHÍNIVA\n\tBALLEZA\n\tBATOPILAS DE MANUEL GÓMEZ MORÍN\n\tBOCOYNA\n\tBUENAVENTURA\n\tCAMARGO\n\tCARICHÍ\n\tCASAS GRANDES\n\tCHIHUAHUA\n\tCHÍNIPAS\n\tCORONADO\n\tCOYAME DEL SOTOL\n\tCUAUHTÉMOC\n\tCUSIHUIRIACHI\n\tDELICIAS\n\tDR. BELISARIO DOMÍNGUEZ\n\tEL TULE\n\tGALEANA\n\tGÓMEZ FARÍAS\n\tGRAN MORELOS\n\tGUACHOCHI\n\tGUADALUPE\n\tGUADALUPE Y CALVO\n\tGUAZAPARES\n\tGUERRERO\n\tHIDALGO DEL PARRAL\n\tHUEJOTITÁN\n\tIGNACIO ZARAGOZA\n\tJANOS\n\tJIMÉNEZ\n\tJUÁREZ\n\tJULIMES\n\tLA CRUZ\n\tLÓPEZ\n\tMADERA\n\tMAGUARICHI\n\tMANUEL BENAVIDES\n\tMATACHÍ\n\tMATAMOROS\n\tMEOQUI\n\tMORELOS\n\tMORIS\n\tNAMIQUIPA\n\tNONOAVA\n\tNUEVO CASAS GRANDES\n\tOCAMPO\n\tOJINAGA\n\tPRAXEDIS G. GUERRERO\n\tRIVA PALACIO\n\tROSALES\n\tROSARIO\n\tSAN FRANCISCO DE BORJA\n\tSAN FRANCISCO DE CONCHOS\n\tSAN FRANCISCO DEL ORO\n\tSANTA BÁRBARA\n\tSANTA ISABEL\n\tSATEVÓ\n\tSAUCILLO\n\tTEMÓSACHIC\n\tURIQUE\n\tURUACHI\n\tVALLE DE ZARAGOZA"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CHIHUAHUA\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tCHIHUAHUA\n\t\t1,102\n\t\t263,143\n\t\t133,856\n\t\t129,287\n\t\t17,246\n\t\n\t\n\t\tCIÉNEGA DE ORTÍZ (BOCA DE CIÉNEGA)\n\t\t1\n\t\t82\n\t\t46\n\t\t36\n\t\t6\n\t\n\t\n\t\tCOLONIA AGRÍCOLA FRANCISCO VILLA\n\t\t4\n\t\t853\n\t\t394\n\t\t459\n\t\t34\n\t\n\t\n\t\tCOLONIA CUAUHTÉMOC (PUNTA DE AGUA)\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tCOLONIA NUEVO DELICIAS\n\t\t4\n\t\t416\n\t\t206\n\t\t210\n\t\t21\n\t\n\t\n\t\tCOLONIA OCAMPO (HACIENDA EL TORREÓN)\n\t\t4\n\t\t682\n\t\t359\n\t\t323\n\t\t31\n\t\n\t\n\t\tCOLONIA SOTO\n\t\t1\n\t\t20\n\t\t9\n\t\t11\n\t\t2\n\t\n\t\n\t\tCUMBRES DE SACRAMENTO\n\t\t2\n\t\t33\n\t\t14\n\t\t19\n\t\t3\n\t\n\t\n\t\tEJIDO ESTACIÓN TERRAZAS Y MINAS DEL COBRE\n\t\t2\n\t\t63\n\t\t24\n\t\t39\n\t\t4\n\t\n\t\n\t\tEJIDO NUEVO SACRAMENTO\n\t\t2\n\t\t125\n\t\t55\n\t\t70\n\t\t7\n\t\n\t\n\t\tEL CHARCO\n\t\t4\n\t\t368\n\t\t170\n\t\t198\n\t\t19\n\t\n\t\n\t\tEL FRESNO\n\t\t1\n\t\t16\n\t\t10\n\t\t6\n\t\t2\n\t\n\t\n\t\tEL NOGALITO\n\t\t1\n\t\t271\n\t\t131\n\t\t140\n\t\t12\n\t\n\t\n\t\tEL PORVENIR\n\t\t1\n\t\t137\n\t\t71\n\t\t66\n\t\t7\n\t\n\t\n\t\tEL SAUZ\n\t\t2\n\t\t148\n\t\t63\n\t\t85\n\t\t8\n\t\n\t\n\t\tGUADALUPE\n\t\t1\n\t\t185\n\t\t88\n\t\t97\n\t\t7\n\t\n\t\n\t\tLA CASITA\n\t\t2\n\t\t24\n\t\t6\n\t\t18\n\t\t2\n\t\n\t\n\t\tLA ESPERANZA\n\t\t3\n\t\t68\n\t\t37\n\t\t31\n\t\t5\n\t\n\t\n\t\tRANCHO ENMEDIO (ESTACIÓN MÜLLER)\n\t\t2\n\t\t142\n\t\t66\n\t\t76\n\t\t7\n\t\n\t\n\t\tSIERRA AZUL (LA COLORADA)\n\t\t2\n\t\t170\n\t\t94\n\t\t76\n\t\t8\n\t\n\t\n\t\tTOTAL\n\t\t1,142\n\t\t266,952\n\t\t135,703\n\t\t131,249\n\t\t17,432\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CHIHUAHUA",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "CHIHUAHUA",
+          "1,102",
+          "263,143",
+          "133,856",
+          "129,287",
+          "17,246",
+          "CIÉNEGA DE ORTÍZ (BOCA DE CIÉNEGA)",
+          "1",
+          "82",
+          "46",
+          "36",
+          "6",
+          "COLONIA AGRÍCOLA FRANCISCO VILLA",
+          "4",
+          "853",
+          "394",
+          "459",
+          "34",
+          "COLONIA CUAUHTÉMOC (PUNTA DE AGUA)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "COLONIA NUEVO DELICIAS",
+          "4",
+          "416",
+          "206",
+          "210",
+          "21",
+          "COLONIA OCAMPO (HACIENDA EL TORREÓN)",
+          "4",
+          "682",
+          "359",
+          "323",
+          "31",
+          "COLONIA SOTO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2",
+          "CUMBRES DE SACRAMENTO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3",
+          "EJIDO ESTACIÓN TERRAZAS Y MINAS DEL COBRE",
+          "2",
+          "63",
+          "24",
+          "39",
+          "4",
+          "EJIDO NUEVO SACRAMENTO",
+          "2",
+          "125",
+          "55",
+          "70",
+          "7",
+          "EL CHARCO",
+          "4",
+          "368",
+          "170",
+          "198",
+          "19",
+          "EL FRESNO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "2",
+          "EL NOGALITO",
+          "1",
+          "271",
+          "131",
+          "140",
+          "12",
+          "EL PORVENIR",
+          "1",
+          "137",
+          "71",
+          "66",
+          "7",
+          "EL SAUZ",
+          "2",
+          "148",
+          "63",
+          "85",
+          "8",
+          "GUADALUPE",
+          "1",
+          "185",
+          "88",
+          "97",
+          "7",
+          "LA CASITA",
+          "2",
+          "24",
+          "6",
+          "18",
+          "2",
+          "LA ESPERANZA",
+          "3",
+          "68",
+          "37",
+          "31",
+          "5",
+          "RANCHO ENMEDIO (ESTACIÓN MÜLLER)",
+          "2",
+          "142",
+          "66",
+          "76",
+          "7",
+          "SIERRA AZUL (LA COLORADA)",
+          "2",
+          "170",
+          "94",
+          "76",
+          "8",
+          "TOTAL",
+          "1,142",
+          "266,952",
+          "135,703",
+          "131,249",
+          "17,432",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CHIHUAHUA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHIHUAHUA",
+          "1,102",
+          "263,143",
+          "133,856",
+          "129,287",
+          "17,246"
+        ],
+        [
+          "CIÉNEGA DE ORTÍZ (BOCA DE CIÉNEGA)",
+          "1",
+          "82",
+          "46",
+          "36",
+          "6"
+        ],
+        [
+          "COLONIA AGRÍCOLA FRANCISCO VILLA",
+          "4",
+          "853",
+          "394",
+          "459",
+          "34"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC (PUNTA DE AGUA)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "COLONIA NUEVO DELICIAS",
+          "4",
+          "416",
+          "206",
+          "210",
+          "21"
+        ],
+        [
+          "COLONIA OCAMPO (HACIENDA EL TORREÓN)",
+          "4",
+          "682",
+          "359",
+          "323",
+          "31"
+        ],
+        [
+          "COLONIA SOTO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CUMBRES DE SACRAMENTO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "EJIDO ESTACIÓN TERRAZAS Y MINAS DEL COBRE",
+          "2",
+          "63",
+          "24",
+          "39",
+          "4"
+        ],
+        [
+          "EJIDO NUEVO SACRAMENTO",
+          "2",
+          "125",
+          "55",
+          "70",
+          "7"
+        ],
+        [
+          "EL CHARCO",
+          "4",
+          "368",
+          "170",
+          "198",
+          "19"
+        ],
+        [
+          "EL FRESNO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "2"
+        ],
+        [
+          "EL NOGALITO",
+          "1",
+          "271",
+          "131",
+          "140",
+          "12"
+        ],
+        [
+          "EL PORVENIR",
+          "1",
+          "137",
+          "71",
+          "66",
+          "7"
+        ],
+        [
+          "EL SAUZ",
+          "2",
+          "148",
+          "63",
+          "85",
+          "8"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "185",
+          "88",
+          "97",
+          "7"
+        ],
+        [
+          "LA CASITA",
+          "2",
+          "24",
+          "6",
+          "18",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "68",
+          "37",
+          "31",
+          "5"
+        ],
+        [
+          "RANCHO ENMEDIO (ESTACIÓN MÜLLER)",
+          "2",
+          "142",
+          "66",
+          "76",
+          "7"
+        ],
+        [
+          "SIERRA AZUL (LA COLORADA)",
+          "2",
+          "170",
+          "94",
+          "76",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "1,142",
+          "266,952",
+          "135,703",
+          "131,249",
+          "17,432"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: CHIHUAHUA;    MUNICIPIO: CHIHUAHUA"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "CHIHUAHUA",
+          "1,102",
+          "263,143",
+          "133,856",
+          "129,287",
+          "17,246"
+        ],
+        [
+          "CIÉNEGA DE ORTÍZ (BOCA DE CIÉNEGA)",
+          "1",
+          "82",
+          "46",
+          "36",
+          "6"
+        ],
+        [
+          "COLONIA AGRÍCOLA FRANCISCO VILLA",
+          "4",
+          "853",
+          "394",
+          "459",
+          "34"
+        ],
+        [
+          "COLONIA CUAUHTÉMOC (PUNTA DE AGUA)",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "COLONIA NUEVO DELICIAS",
+          "4",
+          "416",
+          "206",
+          "210",
+          "21"
+        ],
+        [
+          "COLONIA OCAMPO (HACIENDA EL TORREÓN)",
+          "4",
+          "682",
+          "359",
+          "323",
+          "31"
+        ],
+        [
+          "COLONIA SOTO",
+          "1",
+          "20",
+          "9",
+          "11",
+          "2"
+        ],
+        [
+          "CUMBRES DE SACRAMENTO",
+          "2",
+          "33",
+          "14",
+          "19",
+          "3"
+        ],
+        [
+          "EJIDO ESTACIÓN TERRAZAS Y MINAS DEL COBRE",
+          "2",
+          "63",
+          "24",
+          "39",
+          "4"
+        ],
+        [
+          "EJIDO NUEVO SACRAMENTO",
+          "2",
+          "125",
+          "55",
+          "70",
+          "7"
+        ],
+        [
+          "EL CHARCO",
+          "4",
+          "368",
+          "170",
+          "198",
+          "19"
+        ],
+        [
+          "EL FRESNO",
+          "1",
+          "16",
+          "10",
+          "6",
+          "2"
+        ],
+        [
+          "EL NOGALITO",
+          "1",
+          "271",
+          "131",
+          "140",
+          "12"
+        ],
+        [
+          "EL PORVENIR",
+          "1",
+          "137",
+          "71",
+          "66",
+          "7"
+        ],
+        [
+          "EL SAUZ",
+          "2",
+          "148",
+          "63",
+          "85",
+          "8"
+        ],
+        [
+          "GUADALUPE",
+          "1",
+          "185",
+          "88",
+          "97",
+          "7"
+        ],
+        [
+          "LA CASITA",
+          "2",
+          "24",
+          "6",
+          "18",
+          "2"
+        ],
+        [
+          "LA ESPERANZA",
+          "3",
+          "68",
+          "37",
+          "31",
+          "5"
+        ],
+        [
+          "RANCHO ENMEDIO (ESTACIÓN MÜLLER)",
+          "2",
+          "142",
+          "66",
+          "76",
+          "7"
+        ],
+        [
+          "SIERRA AZUL (LA COLORADA)",
+          "2",
+          "170",
+          "94",
+          "76",
+          "8"
+        ],
+        [
+          "TOTAL",
+          "1,142",
+          "266,952",
+          "135,703",
+          "131,249",
+          "17,432"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:05:12.507Z"
+}

@@ -1,0 +1,1242 @@
+{
+  "municipality": "ACULCO",
+  "municipalityCode": "003",
+  "state": "MÉXICO",
+  "stateCode": "15",
+  "tables": [
+    {
+      "tableIndex": 0,
+      "data": [
+        [
+          "Ciclo escolar:\n                            \n\t2024-2025\n\t2023-2024\n\t2022-2023\n\t2021-2022\n\t2020-2021\n\t2019-2020\n\t2018-2019\n\t2017-2018\n\t2016-2017\n\n\n                            \n\n                        \n                    \n                    \n                        \n                            Modalidad:\n                            \n\tSelecciona\n\tEscolarizada\n\tNo Escolarizada\n\tAmbas modalidades\n\n\n                        \n                    \n                    \n                        \n                            Tipo educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Nivel educativo:\n                            \n\tTodos\n\n\n                        \n                    \n                    \n                        \n                            Servicio educativo:\n                            \n\tTodos"
+        ],
+        [
+          "Sostenimiento (Control administrativo):\n                            \n\tTodos\n\tPúblico\n\tPrivado\n\n\n                        \n                    \n                    \n                        \n                            Subcontrol administrativo:                            \n                            \n\tTodos\n\n\n                            \n                        \n                    \n                    \n                        \n                            Entidad federativa:\n                            \n\tTodas\n\tAGUASCALIENTES\n\tBAJA CALIFORNIA\n\tBAJA CALIFORNIA SUR\n\tCAMPECHE\n\tCOAHUILA DE ZARAGOZA\n\tCOLIMA\n\tCHIAPAS\n\tCHIHUAHUA\n\tCIUDAD DE MÉXICO\n\tDURANGO\n\tGUANAJUATO\n\tGUERRERO\n\tHIDALGO\n\tJALISCO\n\tMÉXICO\n\tMICHOACÁN DE OCAMPO\n\tMORELOS\n\tNAYARIT\n\tNUEVO LEÓN\n\tOAXACA\n\tPUEBLA\n\tQUERÉTARO\n\tQUINTANA ROO\n\tSAN LUIS POTOSÍ\n\tSINALOA\n\tSONORA\n\tTABASCO\n\tTAMAULIPAS\n\tTLAXCALA\n\tVERACRUZ DE IGNACIO DE LA LLAVE\n\tYUCATÁN\n\tZACATECAS\n\n\n                        \n                    \n                    \n                        \n                            Municipio:\n                            \n\tTodos\n\tACAMBAY DE RUÍZ CASTAÑEDA\n\tACOLMAN\n\tACULCO\n\tALMOLOYA DE ALQUISIRAS\n\tALMOLOYA DE JUÁREZ\n\tALMOLOYA DEL RÍO\n\tAMANALCO\n\tAMATEPEC\n\tAMECAMECA\n\tAPAXCO\n\tATENCO\n\tATIZAPÁN\n\tATIZAPÁN DE ZARAGOZA\n\tATLACOMULCO\n\tATLAUTLA\n\tAXAPUSCO\n\tAYAPANGO\n\tCALIMAYA\n\tCAPULHUAC\n\tCHALCO\n\tCHAPA DE MOTA\n\tCHAPULTEPEC\n\tCHIAUTLA\n\tCHICOLOAPAN\n\tCHICONCUAC\n\tCHIMALHUACÁN\n\tCOACALCO DE BERRIOZÁBAL\n\tCOATEPEC HARINAS\n\tCOCOTITLÁN\n\tCOYOTEPEC\n\tCUAUTITLÁN\n\tCUAUTITLÁN IZCALLI\n\tDONATO GUERRA\n\tECATEPEC DE MORELOS\n\tECATZINGO\n\tEL ORO\n\tHUEHUETOCA\n\tHUEYPOXTLA\n\tHUIXQUILUCAN\n\tISIDRO FABELA\n\tIXTAPALUCA\n\tIXTAPAN DE LA SAL\n\tIXTAPAN DEL ORO\n\tIXTLAHUACA\n\tJALTENCO\n\tJILOTEPEC\n\tJILOTZINGO\n\tJIQUIPILCO\n\tJOCOTITLÁN\n\tJOQUICINGO\n\tJUCHITEPEC\n\tLA PAZ\n\tLERMA\n\tLUVIANOS\n\tMALINALCO\n\tMELCHOR OCAMPO\n\tMETEPEC\n\tMEXICALTZINGO\n\tMORELOS\n\tNAUCALPAN DE JUÁREZ\n\tNEXTLALPAN\n\tNEZAHUALCÓYOTL\n\tNICOLÁS ROMERO\n\tNOPALTEPEC\n\tOCOYOACAC\n\tOCUILAN\n\tOTUMBA\n\tOTZOLOAPAN\n\tOTZOLOTEPEC\n\tOZUMBA\n\tPAPALOTLA\n\tPOLOTITLÁN\n\tRAYÓN\n\tSAN ANTONIO LA ISLA\n\tSAN FELIPE DEL PROGRESO\n\tSAN JOSÉ DEL RINCÓN\n\tSAN MARTÍN DE LAS PIRÁMIDES\n\tSAN MATEO ATENCO\n\tSAN SIMÓN DE GUERRERO\n\tSANTO TOMÁS\n\tSOYANIQUILPAN DE JUÁREZ\n\tSULTEPEC\n\tTECÁMAC\n\tTEJUPILCO\n\tTEMAMATLA\n\tTEMASCALAPA\n\tTEMASCALCINGO\n\tTEMASCALTEPEC\n\tTEMOAYA\n\tTENANCINGO\n\tTENANGO DEL AIRE\n\tTENANGO DEL VALLE\n\tTEOLOYUCAN\n\tTEOTIHUACÁN\n\tTEPETLAOXTOC\n\tTEPETLIXPA\n\tTEPOTZOTLÁN\n\tTEQUIXQUIAC\n\tTEXCALTITLÁN\n\tTEXCALYACAC\n\tTEXCOCO\n\tTEZOYUCA\n\tTIANGUISTENCO\n\tTIMILPAN\n\tTLALMANALCO\n\tTLALNEPANTLA DE BAZ\n\tTLATLAYA\n\tTOLUCA\n\tTONANITLA\n\tTONATICO\n\tTULTEPEC\n\tTULTITLÁN\n\tVALLE DE BRAVO\n\tVALLE DE CHALCO SOLIDARIDAD\n\tVILLA DE ALLENDE\n\tVILLA DEL CARBÓN\n\tVILLA GUERRERO\n\tVILLA VICTORIA\n\tXALATLACO\n\tXONACATLÁN\n\tZACAZONAPAN\n\tZACUALPAN\n\tZINACANTEPEC\n\tZUMPAHUACÁN\n\tZUMPANGO"
+        ]
+      ]
+    },
+    {
+      "tableIndex": 1,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ACULCO\n\t\n\t\n\t\tLocalidad\n\t\tEscuelas\n\t\tAlumnos\n\t\tAlumnos Mujeres\n\t\tAlumnos Hombres\n\t\tDocentes¹\n\t\n\t\n\t\tACULCO DE ESPINOZA\n\t\t13\n\t\t3,027\n\t\t1,670\n\t\t1,357\n\t\t272\n\t\n\t\n\t\tARROYO ZARCO EJIDO\n\t\t5\n\t\t737\n\t\t368\n\t\t369\n\t\t31\n\t\n\t\n\t\tARROYO ZARCO PUEBLO\n\t\t1\n\t\t413\n\t\t217\n\t\t196\n\t\t24\n\t\n\t\n\t\tBAÑE\n\t\t4\n\t\t196\n\t\t90\n\t\t106\n\t\t12\n\t\n\t\n\t\tBAÑE PRIMERA MANZANA\n\t\t3\n\t\t62\n\t\t34\n\t\t28\n\t\t4\n\t\n\t\n\t\tBARRANCAS\n\t\t2\n\t\t42\n\t\t23\n\t\t19\n\t\t3\n\t\n\t\n\t\tBARRIO DE TOTOLOPAN (EJIDO DE TOTOLOAPAN)\n\t\t2\n\t\t48\n\t\t19\n\t\t29\n\t\t3\n\t\n\t\n\t\tBIMBO\n\t\t1\n\t\t6\n\t\t4\n\t\t2\n\t\t1\n\t\n\t\n\t\tEJIDO DE SANTA MARÍA NATIVITAS\n\t\t1\n\t\t20\n\t\t12\n\t\t8\n\t\t1\n\t\n\t\n\t\tEJIDO LAS ÁNIMAS\n\t\t2\n\t\t40\n\t\t21\n\t\t19\n\t\t4\n\t\n\t\n\t\tEJIDO SAN JOAQUÍN COSCOMATEPEC\n\t\t1\n\t\t116\n\t\t63\n\t\t53\n\t\t6\n\t\n\t\n\t\tEL AZAFRÁN CENTRO\n\t\t5\n\t\t361\n\t\t186\n\t\t175\n\t\t25\n\t\n\t\n\t\tEL AZAFRÁN TERCERA MANZANA\n\t\t2\n\t\t100\n\t\t52\n\t\t48\n\t\t7\n\t\n\t\n\t\tEL BONXHI\n\t\t3\n\t\t174\n\t\t81\n\t\t93\n\t\t11\n\t\n\t\n\t\tEL COLORADO\n\t\t4\n\t\t296\n\t\t149\n\t\t147\n\t\t14\n\t\n\t\n\t\tEL MOGOTE\n\t\t3\n\t\t341\n\t\t167\n\t\t174\n\t\t17\n\t\n\t\n\t\tEL TIXHIÑU\n\t\t2\n\t\t50\n\t\t26\n\t\t24\n\t\t3\n\t\n\t\n\t\tEL ZETHE (JAZMÍN)\n\t\t4\n\t\t226\n\t\t113\n\t\t113\n\t\t13\n\t\n\t\n\t\tEL ZETHE EL LLANO\n\t\t2\n\t\t12\n\t\t7\n\t\t5\n\t\t2\n\t\n\t\n\t\tENCINILLAS EJIDO\n\t\t1\n\t\t34\n\t\t14\n\t\t20\n\t\t2\n\t\n\t\n\t\tFONDO\n\t\t3\n\t\t242\n\t\t112\n\t\t130\n\t\t15\n\t\n\t\n\t\tGUNYO ORIENTE\n\t\t1\n\t\t11\n\t\t4\n\t\t7\n\t\t1\n\t\n\t\n\t\tGUNYO PONIENTE\n\t\t6\n\t\t224\n\t\t113\n\t\t111\n\t\t14\n\t\n\t\n\t\tHIGUERILLAS C\n\t\t2\n\t\t34\n\t\t13\n\t\t21\n\t\t3\n\t\n\t\n\t\tJURICA\n\t\t2\n\t\t66\n\t\t35\n\t\t31\n\t\t5\n\t\n\t\n\t\tLA COFRADÍA GRANDE\n\t\t3\n\t\t55\n\t\t29\n\t\t26\n\t\t4\n\t\n\t\n\t\tLA CONCEPCIÓN EJIDO\n\t\t3\n\t\t311\n\t\t157\n\t\t154\n\t\t14\n\t\n\t\n\t\tLA CONCEPCIÓN PUEBLO\n\t\t6\n\t\t356\n\t\t188\n\t\t168\n\t\t18\n\t\n\t\n\t\tLA ESTANCIA\n\t\t2\n\t\t48\n\t\t27\n\t\t21\n\t\t3\n\t\n\t\n\t\tLA SOLEDAD BARRIO\n\t\t1\n\t\t45\n\t\t14\n\t\t31\n\t\t2\n\t\n\t\n\t\tLA SOLEDAD EJIDO\n\t\t4\n\t\t552\n\t\t269\n\t\t283\n\t\t40\n\t\n\t\n\t\tLAS LAJAS\n\t\t2\n\t\t61\n\t\t29\n\t\t32\n\t\t3\n\t\n\t\n\t\tLOMA ALTA CABRESTEROS\n\t\t3\n\t\t114\n\t\t63\n\t\t51\n\t\t9\n\t\n\t\n\t\tLOS AILES\n\t\t2\n\t\t53\n\t\t24\n\t\t29\n\t\t6\n\t\n\t\n\t\tLOS GAVILANES\n\t\t1\n\t\t7\n\t\t4\n\t\t3\n\t\t1\n\t\n\t\n\t\tÑADO BUENAVISTA\n\t\t3\n\t\t197\n\t\t107\n\t\t90\n\t\t14\n\t\n\t\n\t\tPRESA DEL TEPOZÁN\n\t\t2\n\t\t33\n\t\t13\n\t\t20\n\t\t2\n\t\n\t\n\t\tSAN ANTONIO ARROYO ZARCO\n\t\t2\n\t\t69\n\t\t29\n\t\t40\n\t\t5\n\t\n\t\n\t\tSAN ANTONIO EL ZETHE\n\t\t1\n\t\t21\n\t\t11\n\t\t10\n\t\t1\n\t\n\t\n\t\tSAN ANTONIO PUEBLO\n\t\t5\n\t\t236\n\t\t116\n\t\t120\n\t\t14\n\t\n\t\n\t\tSAN FRANCISQUITO\n\t\t2\n\t\t72\n\t\t39\n\t\t33\n\t\t4\n\t\n\t\n\t\tSAN JERÓNIMO BARRIO\n\t\t2\n\t\t31\n\t\t14\n\t\t17\n\t\t2\n\t\n\t\n\t\tSAN JERÓNIMO EJIDO\n\t\t4\n\t\t312\n\t\t138\n\t\t174\n\t\t17\n\t\n\t\n\t\tSAN JOAQUÍN COSCOMATEPEC\n\t\t3\n\t\t150\n\t\t70\n\t\t80\n\t\t9\n\t\n\t\n\t\tSAN LUCAS TOTOLMALOYA\n\t\t11\n\t\t1,649\n\t\t853\n\t\t796\n\t\t81\n\t\n\t\n\t\tSAN MARTÍN EJIDO\n\t\t12\n\t\t533\n\t\t271\n\t\t262\n\t\t29\n\t\n\t\n\t\tSAN PEDRO DENXHI CENTRO\n\t\t7\n\t\t423\n\t\t223\n\t\t200\n\t\t20\n\t\n\t\n\t\tSAN PEDRO DENXHI SEGUNDO CUARTEL\n\t\t1\n\t\t49\n\t\t22\n\t\t27\n\t\t4\n\t\n\t\n\t\tSANTA ANA MATLAVAT CENTRO\n\t\t6\n\t\t430\n\t\t203\n\t\t227\n\t\t22\n\t\n\t\n\t\tSANTA MARÍA NATIVITAS\n\t\t5\n\t\t813\n\t\t422\n\t\t391\n\t\t46\n\t\n\t\n\t\tSANTA MARÍA NATIVITAS SEGUNDO CUARTEL\n\t\t1\n\t\t8\n\t\t2\n\t\t6\n\t\t1\n\t\n\t\n\t\tSANTIAGO OXTOC TOXHIÉ\n\t\t5\n\t\t184\n\t\t89\n\t\t95\n\t\t12\n\t\n\t\n\t\tTOTAL\n\t\t174\n\t\t13,690\n\t\t7,019\n\t\t6,671\n\t\t876\n\t\n\t\n\t\t¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.\n\t\n\t\n\t\t  Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP.",
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ACULCO",
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹",
+          "ACULCO DE ESPINOZA",
+          "13",
+          "3,027",
+          "1,670",
+          "1,357",
+          "272",
+          "ARROYO ZARCO EJIDO",
+          "5",
+          "737",
+          "368",
+          "369",
+          "31",
+          "ARROYO ZARCO PUEBLO",
+          "1",
+          "413",
+          "217",
+          "196",
+          "24",
+          "BAÑE",
+          "4",
+          "196",
+          "90",
+          "106",
+          "12",
+          "BAÑE PRIMERA MANZANA",
+          "3",
+          "62",
+          "34",
+          "28",
+          "4",
+          "BARRANCAS",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3",
+          "BARRIO DE TOTOLOPAN (EJIDO DE TOTOLOAPAN)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3",
+          "BIMBO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1",
+          "EJIDO DE SANTA MARÍA NATIVITAS",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1",
+          "EJIDO LAS ÁNIMAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "4",
+          "EJIDO SAN JOAQUÍN COSCOMATEPEC",
+          "1",
+          "116",
+          "63",
+          "53",
+          "6",
+          "EL AZAFRÁN CENTRO",
+          "5",
+          "361",
+          "186",
+          "175",
+          "25",
+          "EL AZAFRÁN TERCERA MANZANA",
+          "2",
+          "100",
+          "52",
+          "48",
+          "7",
+          "EL BONXHI",
+          "3",
+          "174",
+          "81",
+          "93",
+          "11",
+          "EL COLORADO",
+          "4",
+          "296",
+          "149",
+          "147",
+          "14",
+          "EL MOGOTE",
+          "3",
+          "341",
+          "167",
+          "174",
+          "17",
+          "EL TIXHIÑU",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3",
+          "EL ZETHE (JAZMÍN)",
+          "4",
+          "226",
+          "113",
+          "113",
+          "13",
+          "EL ZETHE EL LLANO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2",
+          "ENCINILLAS EJIDO",
+          "1",
+          "34",
+          "14",
+          "20",
+          "2",
+          "FONDO",
+          "3",
+          "242",
+          "112",
+          "130",
+          "15",
+          "GUNYO ORIENTE",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1",
+          "GUNYO PONIENTE",
+          "6",
+          "224",
+          "113",
+          "111",
+          "14",
+          "HIGUERILLAS C",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3",
+          "JURICA",
+          "2",
+          "66",
+          "35",
+          "31",
+          "5",
+          "LA COFRADÍA GRANDE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4",
+          "LA CONCEPCIÓN EJIDO",
+          "3",
+          "311",
+          "157",
+          "154",
+          "14",
+          "LA CONCEPCIÓN PUEBLO",
+          "6",
+          "356",
+          "188",
+          "168",
+          "18",
+          "LA ESTANCIA",
+          "2",
+          "48",
+          "27",
+          "21",
+          "3",
+          "LA SOLEDAD BARRIO",
+          "1",
+          "45",
+          "14",
+          "31",
+          "2",
+          "LA SOLEDAD EJIDO",
+          "4",
+          "552",
+          "269",
+          "283",
+          "40",
+          "LAS LAJAS",
+          "2",
+          "61",
+          "29",
+          "32",
+          "3",
+          "LOMA ALTA CABRESTEROS",
+          "3",
+          "114",
+          "63",
+          "51",
+          "9",
+          "LOS AILES",
+          "2",
+          "53",
+          "24",
+          "29",
+          "6",
+          "LOS GAVILANES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1",
+          "ÑADO BUENAVISTA",
+          "3",
+          "197",
+          "107",
+          "90",
+          "14",
+          "PRESA DEL TEPOZÁN",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2",
+          "SAN ANTONIO ARROYO ZARCO",
+          "2",
+          "69",
+          "29",
+          "40",
+          "5",
+          "SAN ANTONIO EL ZETHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1",
+          "SAN ANTONIO PUEBLO",
+          "5",
+          "236",
+          "116",
+          "120",
+          "14",
+          "SAN FRANCISQUITO",
+          "2",
+          "72",
+          "39",
+          "33",
+          "4",
+          "SAN JERÓNIMO BARRIO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2",
+          "SAN JERÓNIMO EJIDO",
+          "4",
+          "312",
+          "138",
+          "174",
+          "17",
+          "SAN JOAQUÍN COSCOMATEPEC",
+          "3",
+          "150",
+          "70",
+          "80",
+          "9",
+          "SAN LUCAS TOTOLMALOYA",
+          "11",
+          "1,649",
+          "853",
+          "796",
+          "81",
+          "SAN MARTÍN EJIDO",
+          "12",
+          "533",
+          "271",
+          "262",
+          "29",
+          "SAN PEDRO DENXHI CENTRO",
+          "7",
+          "423",
+          "223",
+          "200",
+          "20",
+          "SAN PEDRO DENXHI SEGUNDO CUARTEL",
+          "1",
+          "49",
+          "22",
+          "27",
+          "4",
+          "SANTA ANA MATLAVAT CENTRO",
+          "6",
+          "430",
+          "203",
+          "227",
+          "22",
+          "SANTA MARÍA NATIVITAS",
+          "5",
+          "813",
+          "422",
+          "391",
+          "46",
+          "SANTA MARÍA NATIVITAS SEGUNDO CUARTEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1",
+          "SANTIAGO OXTOC TOXHIÉ",
+          "5",
+          "184",
+          "89",
+          "95",
+          "12",
+          "TOTAL",
+          "174",
+          "13,690",
+          "7,019",
+          "6,671",
+          "876",
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito.",
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ],
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ACULCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACULCO DE ESPINOZA",
+          "13",
+          "3,027",
+          "1,670",
+          "1,357",
+          "272"
+        ],
+        [
+          "ARROYO ZARCO EJIDO",
+          "5",
+          "737",
+          "368",
+          "369",
+          "31"
+        ],
+        [
+          "ARROYO ZARCO PUEBLO",
+          "1",
+          "413",
+          "217",
+          "196",
+          "24"
+        ],
+        [
+          "BAÑE",
+          "4",
+          "196",
+          "90",
+          "106",
+          "12"
+        ],
+        [
+          "BAÑE PRIMERA MANZANA",
+          "3",
+          "62",
+          "34",
+          "28",
+          "4"
+        ],
+        [
+          "BARRANCAS",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3"
+        ],
+        [
+          "BARRIO DE TOTOLOPAN (EJIDO DE TOTOLOAPAN)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3"
+        ],
+        [
+          "BIMBO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EJIDO DE SANTA MARÍA NATIVITAS",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "EJIDO LAS ÁNIMAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "EJIDO SAN JOAQUÍN COSCOMATEPEC",
+          "1",
+          "116",
+          "63",
+          "53",
+          "6"
+        ],
+        [
+          "EL AZAFRÁN CENTRO",
+          "5",
+          "361",
+          "186",
+          "175",
+          "25"
+        ],
+        [
+          "EL AZAFRÁN TERCERA MANZANA",
+          "2",
+          "100",
+          "52",
+          "48",
+          "7"
+        ],
+        [
+          "EL BONXHI",
+          "3",
+          "174",
+          "81",
+          "93",
+          "11"
+        ],
+        [
+          "EL COLORADO",
+          "4",
+          "296",
+          "149",
+          "147",
+          "14"
+        ],
+        [
+          "EL MOGOTE",
+          "3",
+          "341",
+          "167",
+          "174",
+          "17"
+        ],
+        [
+          "EL TIXHIÑU",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "EL ZETHE (JAZMÍN)",
+          "4",
+          "226",
+          "113",
+          "113",
+          "13"
+        ],
+        [
+          "EL ZETHE EL LLANO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "ENCINILLAS EJIDO",
+          "1",
+          "34",
+          "14",
+          "20",
+          "2"
+        ],
+        [
+          "FONDO",
+          "3",
+          "242",
+          "112",
+          "130",
+          "15"
+        ],
+        [
+          "GUNYO ORIENTE",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GUNYO PONIENTE",
+          "6",
+          "224",
+          "113",
+          "111",
+          "14"
+        ],
+        [
+          "HIGUERILLAS C",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "JURICA",
+          "2",
+          "66",
+          "35",
+          "31",
+          "5"
+        ],
+        [
+          "LA COFRADÍA GRANDE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN EJIDO",
+          "3",
+          "311",
+          "157",
+          "154",
+          "14"
+        ],
+        [
+          "LA CONCEPCIÓN PUEBLO",
+          "6",
+          "356",
+          "188",
+          "168",
+          "18"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "48",
+          "27",
+          "21",
+          "3"
+        ],
+        [
+          "LA SOLEDAD BARRIO",
+          "1",
+          "45",
+          "14",
+          "31",
+          "2"
+        ],
+        [
+          "LA SOLEDAD EJIDO",
+          "4",
+          "552",
+          "269",
+          "283",
+          "40"
+        ],
+        [
+          "LAS LAJAS",
+          "2",
+          "61",
+          "29",
+          "32",
+          "3"
+        ],
+        [
+          "LOMA ALTA CABRESTEROS",
+          "3",
+          "114",
+          "63",
+          "51",
+          "9"
+        ],
+        [
+          "LOS AILES",
+          "2",
+          "53",
+          "24",
+          "29",
+          "6"
+        ],
+        [
+          "LOS GAVILANES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "ÑADO BUENAVISTA",
+          "3",
+          "197",
+          "107",
+          "90",
+          "14"
+        ],
+        [
+          "PRESA DEL TEPOZÁN",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2"
+        ],
+        [
+          "SAN ANTONIO ARROYO ZARCO",
+          "2",
+          "69",
+          "29",
+          "40",
+          "5"
+        ],
+        [
+          "SAN ANTONIO EL ZETHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1"
+        ],
+        [
+          "SAN ANTONIO PUEBLO",
+          "5",
+          "236",
+          "116",
+          "120",
+          "14"
+        ],
+        [
+          "SAN FRANCISQUITO",
+          "2",
+          "72",
+          "39",
+          "33",
+          "4"
+        ],
+        [
+          "SAN JERÓNIMO BARRIO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "SAN JERÓNIMO EJIDO",
+          "4",
+          "312",
+          "138",
+          "174",
+          "17"
+        ],
+        [
+          "SAN JOAQUÍN COSCOMATEPEC",
+          "3",
+          "150",
+          "70",
+          "80",
+          "9"
+        ],
+        [
+          "SAN LUCAS TOTOLMALOYA",
+          "11",
+          "1,649",
+          "853",
+          "796",
+          "81"
+        ],
+        [
+          "SAN MARTÍN EJIDO",
+          "12",
+          "533",
+          "271",
+          "262",
+          "29"
+        ],
+        [
+          "SAN PEDRO DENXHI CENTRO",
+          "7",
+          "423",
+          "223",
+          "200",
+          "20"
+        ],
+        [
+          "SAN PEDRO DENXHI SEGUNDO CUARTEL",
+          "1",
+          "49",
+          "22",
+          "27",
+          "4"
+        ],
+        [
+          "SANTA ANA MATLAVAT CENTRO",
+          "6",
+          "430",
+          "203",
+          "227",
+          "22"
+        ],
+        [
+          "SANTA MARÍA NATIVITAS",
+          "5",
+          "813",
+          "422",
+          "391",
+          "46"
+        ],
+        [
+          "SANTA MARÍA NATIVITAS SEGUNDO CUARTEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTIAGO OXTOC TOXHIÉ",
+          "5",
+          "184",
+          "89",
+          "95",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "174",
+          "13,690",
+          "7,019",
+          "6,671",
+          "876"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    },
+    {
+      "tableIndex": 2,
+      "data": [
+        [
+          "TIPO EDUCATIVO: TODOS;     CONTROL: TODOS;     ENTIDAD: MÉXICO;    MUNICIPIO: ACULCO"
+        ],
+        [
+          "Localidad",
+          "Escuelas",
+          "Alumnos",
+          "Alumnos Mujeres",
+          "Alumnos Hombres",
+          "Docentes¹"
+        ],
+        [
+          "ACULCO DE ESPINOZA",
+          "13",
+          "3,027",
+          "1,670",
+          "1,357",
+          "272"
+        ],
+        [
+          "ARROYO ZARCO EJIDO",
+          "5",
+          "737",
+          "368",
+          "369",
+          "31"
+        ],
+        [
+          "ARROYO ZARCO PUEBLO",
+          "1",
+          "413",
+          "217",
+          "196",
+          "24"
+        ],
+        [
+          "BAÑE",
+          "4",
+          "196",
+          "90",
+          "106",
+          "12"
+        ],
+        [
+          "BAÑE PRIMERA MANZANA",
+          "3",
+          "62",
+          "34",
+          "28",
+          "4"
+        ],
+        [
+          "BARRANCAS",
+          "2",
+          "42",
+          "23",
+          "19",
+          "3"
+        ],
+        [
+          "BARRIO DE TOTOLOPAN (EJIDO DE TOTOLOAPAN)",
+          "2",
+          "48",
+          "19",
+          "29",
+          "3"
+        ],
+        [
+          "BIMBO",
+          "1",
+          "6",
+          "4",
+          "2",
+          "1"
+        ],
+        [
+          "EJIDO DE SANTA MARÍA NATIVITAS",
+          "1",
+          "20",
+          "12",
+          "8",
+          "1"
+        ],
+        [
+          "EJIDO LAS ÁNIMAS",
+          "2",
+          "40",
+          "21",
+          "19",
+          "4"
+        ],
+        [
+          "EJIDO SAN JOAQUÍN COSCOMATEPEC",
+          "1",
+          "116",
+          "63",
+          "53",
+          "6"
+        ],
+        [
+          "EL AZAFRÁN CENTRO",
+          "5",
+          "361",
+          "186",
+          "175",
+          "25"
+        ],
+        [
+          "EL AZAFRÁN TERCERA MANZANA",
+          "2",
+          "100",
+          "52",
+          "48",
+          "7"
+        ],
+        [
+          "EL BONXHI",
+          "3",
+          "174",
+          "81",
+          "93",
+          "11"
+        ],
+        [
+          "EL COLORADO",
+          "4",
+          "296",
+          "149",
+          "147",
+          "14"
+        ],
+        [
+          "EL MOGOTE",
+          "3",
+          "341",
+          "167",
+          "174",
+          "17"
+        ],
+        [
+          "EL TIXHIÑU",
+          "2",
+          "50",
+          "26",
+          "24",
+          "3"
+        ],
+        [
+          "EL ZETHE (JAZMÍN)",
+          "4",
+          "226",
+          "113",
+          "113",
+          "13"
+        ],
+        [
+          "EL ZETHE EL LLANO",
+          "2",
+          "12",
+          "7",
+          "5",
+          "2"
+        ],
+        [
+          "ENCINILLAS EJIDO",
+          "1",
+          "34",
+          "14",
+          "20",
+          "2"
+        ],
+        [
+          "FONDO",
+          "3",
+          "242",
+          "112",
+          "130",
+          "15"
+        ],
+        [
+          "GUNYO ORIENTE",
+          "1",
+          "11",
+          "4",
+          "7",
+          "1"
+        ],
+        [
+          "GUNYO PONIENTE",
+          "6",
+          "224",
+          "113",
+          "111",
+          "14"
+        ],
+        [
+          "HIGUERILLAS C",
+          "2",
+          "34",
+          "13",
+          "21",
+          "3"
+        ],
+        [
+          "JURICA",
+          "2",
+          "66",
+          "35",
+          "31",
+          "5"
+        ],
+        [
+          "LA COFRADÍA GRANDE",
+          "3",
+          "55",
+          "29",
+          "26",
+          "4"
+        ],
+        [
+          "LA CONCEPCIÓN EJIDO",
+          "3",
+          "311",
+          "157",
+          "154",
+          "14"
+        ],
+        [
+          "LA CONCEPCIÓN PUEBLO",
+          "6",
+          "356",
+          "188",
+          "168",
+          "18"
+        ],
+        [
+          "LA ESTANCIA",
+          "2",
+          "48",
+          "27",
+          "21",
+          "3"
+        ],
+        [
+          "LA SOLEDAD BARRIO",
+          "1",
+          "45",
+          "14",
+          "31",
+          "2"
+        ],
+        [
+          "LA SOLEDAD EJIDO",
+          "4",
+          "552",
+          "269",
+          "283",
+          "40"
+        ],
+        [
+          "LAS LAJAS",
+          "2",
+          "61",
+          "29",
+          "32",
+          "3"
+        ],
+        [
+          "LOMA ALTA CABRESTEROS",
+          "3",
+          "114",
+          "63",
+          "51",
+          "9"
+        ],
+        [
+          "LOS AILES",
+          "2",
+          "53",
+          "24",
+          "29",
+          "6"
+        ],
+        [
+          "LOS GAVILANES",
+          "1",
+          "7",
+          "4",
+          "3",
+          "1"
+        ],
+        [
+          "ÑADO BUENAVISTA",
+          "3",
+          "197",
+          "107",
+          "90",
+          "14"
+        ],
+        [
+          "PRESA DEL TEPOZÁN",
+          "2",
+          "33",
+          "13",
+          "20",
+          "2"
+        ],
+        [
+          "SAN ANTONIO ARROYO ZARCO",
+          "2",
+          "69",
+          "29",
+          "40",
+          "5"
+        ],
+        [
+          "SAN ANTONIO EL ZETHE",
+          "1",
+          "21",
+          "11",
+          "10",
+          "1"
+        ],
+        [
+          "SAN ANTONIO PUEBLO",
+          "5",
+          "236",
+          "116",
+          "120",
+          "14"
+        ],
+        [
+          "SAN FRANCISQUITO",
+          "2",
+          "72",
+          "39",
+          "33",
+          "4"
+        ],
+        [
+          "SAN JERÓNIMO BARRIO",
+          "2",
+          "31",
+          "14",
+          "17",
+          "2"
+        ],
+        [
+          "SAN JERÓNIMO EJIDO",
+          "4",
+          "312",
+          "138",
+          "174",
+          "17"
+        ],
+        [
+          "SAN JOAQUÍN COSCOMATEPEC",
+          "3",
+          "150",
+          "70",
+          "80",
+          "9"
+        ],
+        [
+          "SAN LUCAS TOTOLMALOYA",
+          "11",
+          "1,649",
+          "853",
+          "796",
+          "81"
+        ],
+        [
+          "SAN MARTÍN EJIDO",
+          "12",
+          "533",
+          "271",
+          "262",
+          "29"
+        ],
+        [
+          "SAN PEDRO DENXHI CENTRO",
+          "7",
+          "423",
+          "223",
+          "200",
+          "20"
+        ],
+        [
+          "SAN PEDRO DENXHI SEGUNDO CUARTEL",
+          "1",
+          "49",
+          "22",
+          "27",
+          "4"
+        ],
+        [
+          "SANTA ANA MATLAVAT CENTRO",
+          "6",
+          "430",
+          "203",
+          "227",
+          "22"
+        ],
+        [
+          "SANTA MARÍA NATIVITAS",
+          "5",
+          "813",
+          "422",
+          "391",
+          "46"
+        ],
+        [
+          "SANTA MARÍA NATIVITAS SEGUNDO CUARTEL",
+          "1",
+          "8",
+          "2",
+          "6",
+          "1"
+        ],
+        [
+          "SANTIAGO OXTOC TOXHIÉ",
+          "5",
+          "184",
+          "89",
+          "95",
+          "12"
+        ],
+        [
+          "TOTAL",
+          "174",
+          "13,690",
+          "7,019",
+          "6,671",
+          "876"
+        ],
+        [
+          "¹   Conjunto de individuos adscritos a un centro de trabajo, de acuerdo a la función que realizan en el mismo. A cada uno se le considera tantas veces como en centros de trabajo esté adscrito."
+        ],
+        [
+          "Fuente: Sistema de Estadísticas Continuas de Educación del Formato 911, DGPPyEE, SEP."
+        ]
+      ]
+    }
+  ],
+  "timestamp": "2025-10-31T07:15:00.278Z"
+}
